@@ -1,0 +1,25 @@
+{
+  "topic_slug": "pcos-pmos",
+  "topic_title": "Polycystic Ovary Syndrome and Polycystic Ovary Morphology: A Comprehensive Study",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "research_papers",
+    "government_documents",
+    "structured_datasets",
+    "blogs",
+    "community_discussions",
+    "scientific_technical_data",
+    "metrics_numerical_data",
+    "event_data"
+  ],
+  "url": "https://www.thehindu.com/sci-tech/health/pcos-the-most-common-cause-of-infertility-to-now-be-called-pmos/article70969468.ece",
+  "title": "PCOS, the most common cause of infertility, to now be called PMOS",
+  "source": "https://www.thehindu.com/sci-tech/health/feeder/default.rss",
+  "published": "Tue, 12 May 2026 16:51:48 +0530",
+  "sha256": "44eccf66218cd31054c7ec029b30eecf80bb5f4a2137564daeeccbddc9e9a271",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-17T05:14:50.321071+00:00",
+  "text_chars": 2577,
+  "raw_path": "data/pcos-pmos/raw/44eccf66218cd31054c7ec029b30eecf80bb5f4a2137564daeeccbddc9e9a271.html",
+  "text_path": "data/pcos-pmos/raw/44eccf66218cd31054c7ec029b30eecf80bb5f4a2137564daeeccbddc9e9a271.txt"
+}

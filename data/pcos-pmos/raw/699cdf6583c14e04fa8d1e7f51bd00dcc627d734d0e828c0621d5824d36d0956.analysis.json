@@ -1,0 +1,107 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/health-wellness/pcos-new-name-why-experts-matters-millions-of-women-10685493/",
+    "source_title": "PCOS has a new name: Here’s why experts say it matters for millions of women",
+    "published": "Tue, 12 May 2026 10:03:51 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "PCOS has been renamed to PMOS to better reflect its complex nature.",
+      "evidence_text": "the condition, previously known as Polycystic Ovary Syndrome (PCOS), will now be called Polyendocrine Metabolic Ovarian Syndrome (PMOS",
+      "source_url": "https://indianexpress.com/article/health-wellness/pcos-new-name-why-experts-matters-millions-of-women-10685493/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The new name reflects the condition’s broader impact across multiple systems.",
+      "evidence_text": "Experts say the new name reflects the condition’s broader impact across the endocrine, metabolic and reproductive systems",
+      "source_url": "https://indianexpress.com/article/health-wellness/pcos-new-name-why-experts-matters-millions-of-women-10685493/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The prevalence of the condition in India is estimated to be between 16 and 18 percent.",
+      "evidence_text": "where experts estimate the prevalence of the condition to be between 16 and 18 per cent",
+      "source_url": "https://indianexpress.com/article/health-wellness/pcos-new-name-why-experts-matters-millions-of-women-10685493/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Monash University",
+      "description": "Led the global effort to rename PCOS.",
+      "evidence_text": "In a landmark global effort led by Monash University"
+    },
+    {
+      "type": "organization",
+      "name": "International Society of Endocrinology",
+      "description": "Prof Helena Teede is the president.",
+      "evidence_text": "president of the International Society of Endocrinology"
+    },
+    {
+      "type": "person",
+      "name": "Professor Helena Teede",
+      "description": "Director of the Monash Centre for Health Research and Implementation.",
+      "evidence_text": "said Professor Helena Teede, Director of the Monash Centre for Health Research and Implementation"
+    },
+    {
+      "type": "person",
+      "name": "Dr Madhuri Patil",
+      "description": "President-elect of the Indian Society for Assisted Reproduction.",
+      "evidence_text": "Dr Madhuri Patil, president-elect of the Indian Society for Assisted Reproduction"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-12",
+      "event": "Renaming of PCOS to PMOS announced",
+      "location": "",
+      "actors": [
+        "Monash University",
+        "International Society of Endocrinology"
+      ],
+      "evidence_text": "PCOS has been renamed to PMOS to better reflect its complex nature."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Global prevalence of PCOS",
+      "value": "170 million",
+      "unit": "women",
+      "date": "",
+      "location": "global",
+      "evidence_text": "affects around one in eight women globally, or more than 170 million women"
+    },
+    {
+      "name": "Prevalence of PCOS in India",
+      "value": "16-18",
+      "unit": "percent",
+      "date": "",
+      "location": "India",
+      "evidence_text": "where experts estimate the prevalence of the condition to be between 16 and 18 per cent"
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/health-wellness/pcos-new-name-why-experts-matters-millions-of-women-10685493/",
+      "title": "PCOS has a new name: Here’s why experts say it matters for millions of women",
+      "published": "Tue, 12 May 2026 10:03:51 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The article is published by a reputable news source and discusses expert opinions and research."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

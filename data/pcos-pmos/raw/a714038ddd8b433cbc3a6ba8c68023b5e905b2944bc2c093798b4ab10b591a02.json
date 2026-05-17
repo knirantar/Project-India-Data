@@ -1,0 +1,25 @@
+{
+  "topic_slug": "pcos-pmos",
+  "topic_title": "Polycystic Ovary Syndrome and Polycystic Ovary Morphology: A Comprehensive Study",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "research_papers",
+    "government_documents",
+    "structured_datasets",
+    "blogs",
+    "community_discussions",
+    "scientific_technical_data",
+    "metrics_numerical_data",
+    "event_data"
+  ],
+  "url": "https://www.thehindu.com/sci-tech/health/pcos-gets-a-new-name-polyendocrine-metabolic-ovarian-syndrome-to-aid-faster-diagnosis-treatment/article70972576.ece",
+  "title": "PCOS gets a new name: Polyendocrine Metabolic Ovarian Syndrome, to aid faster diagnosis, treatment",
+  "source": "https://www.thehindu.com/sci-tech/health/feeder/default.rss",
+  "published": "Wed, 13 May 2026 21:19:03 +0530",
+  "sha256": "a714038ddd8b433cbc3a6ba8c68023b5e905b2944bc2c093798b4ab10b591a02",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-17T05:14:49.792145+00:00",
+  "text_chars": 4234,
+  "raw_path": "data/pcos-pmos/raw/a714038ddd8b433cbc3a6ba8c68023b5e905b2944bc2c093798b4ab10b591a02.html",
+  "text_path": "data/pcos-pmos/raw/a714038ddd8b433cbc3a6ba8c68023b5e905b2944bc2c093798b4ab10b591a02.txt"
+}

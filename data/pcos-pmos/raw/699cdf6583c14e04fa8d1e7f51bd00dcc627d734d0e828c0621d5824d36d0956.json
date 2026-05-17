@@ -1,0 +1,25 @@
+{
+  "topic_slug": "pcos-pmos",
+  "topic_title": "Polycystic Ovary Syndrome and Polycystic Ovary Morphology: A Comprehensive Study",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "research_papers",
+    "government_documents",
+    "structured_datasets",
+    "blogs",
+    "community_discussions",
+    "scientific_technical_data",
+    "metrics_numerical_data",
+    "event_data"
+  ],
+  "url": "https://indianexpress.com/article/health-wellness/pcos-new-name-why-experts-matters-millions-of-women-10685493/",
+  "title": "PCOS has a new name: Here’s why experts say it matters for millions of women",
+  "source": "https://indianexpress.com/section/health-wellness/feed/",
+  "published": "Tue, 12 May 2026 10:03:51 +0000",
+  "sha256": "699cdf6583c14e04fa8d1e7f51bd00dcc627d734d0e828c0621d5824d36d0956",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-17T05:14:50.745883+00:00",
+  "text_chars": 5227,
+  "raw_path": "data/pcos-pmos/raw/699cdf6583c14e04fa8d1e7f51bd00dcc627d734d0e828c0621d5824d36d0956.html",
+  "text_path": "data/pcos-pmos/raw/699cdf6583c14e04fa8d1e7f51bd00dcc627d734d0e828c0621d5824d36d0956.txt"
+}

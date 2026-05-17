@@ -1,0 +1,106 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sci-tech/health/pcos-the-most-common-cause-of-infertility-to-now-be-called-pmos/article70969468.ece",
+    "source_title": "PCOS, the most common cause of infertility, to now be called PMOS",
+    "published": "Tue, 12 May 2026 16:51:48 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "PCOS is being renamed to PMOS.",
+      "evidence_text": "A disorder that affects 170 million women worldwide and is the leading cause of infertility, known as polycystic ovary syndrome, or PCOS, is being renamed to improve diagnosis and care.",
+      "source_url": "https://www.thehindu.com/sci-tech/health/pcos-the-most-common-cause-of-infertility-to-now-be-called-pmos/article70969468.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "medical_condition",
+      "name": "Polycystic Ovary Syndrome",
+      "description": "A disorder affecting women's hormonal and metabolic health, leading to infertility.",
+      "evidence_text": "A disorder that affects 170 million women worldwide and is the leading cause of infertility, known as polycystic ovary syndrome, or PCOS."
+    },
+    {
+      "type": "medical_condition",
+      "name": "Polyendocrine Metabolic Ovarian Syndrome",
+      "description": "The new name for PCOS, chosen to better reflect the condition's impacts.",
+      "evidence_text": "The new name, polyendocrine metabolic ovarian syndrome, or PMOS, was chosen by a global coalition of patients, clinicians and medical organisations."
+    },
+    {
+      "type": "organization",
+      "name": "Androgen Excess and PCOS Society",
+      "description": "An organization involved in the consensus to rename PCOS.",
+      "evidence_text": "The consensus to rename the condition, led by several research groups and the Androgen Excess and PCOS Society."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-12",
+      "event": "Announcement of the renaming of PCOS to PMOS",
+      "location": "Medical meeting",
+      "actors": [],
+      "evidence_text": "Researchers announced on Tuesday (May 12, 2026) at a medical meeting."
+    },
+    {
+      "date": "2026-05-11",
+      "event": "Publication of research letter in JAMA Internal Medicine",
+      "location": "",
+      "actors": [
+        "Dr. Terhi Piltonen"
+      ],
+      "evidence_text": "Dr. Terhi Piltonen of the University of Oulu in Finland wrote in a research letter published on Monday (May 11, 2026) in JAMA Internal Medicine."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Number of women affected by PCOS",
+      "value": "170 million",
+      "unit": "women",
+      "date": "",
+      "location": "",
+      "evidence_text": "A disorder that affects 170 million women worldwide."
+    },
+    {
+      "name": "Survey responses for renaming consensus",
+      "value": "14,000",
+      "unit": "responses",
+      "date": "",
+      "location": "",
+      "evidence_text": "The consensus to rename the condition was based on more than 14,000 survey responses from patients and health professionals worldwide."
+    }
+  ],
+  "relationships": [],
+  "timelines": [
+    {
+      "date": "2026-05-12",
+      "milestone": "Renaming of PCOS to PMOS announced",
+      "evidence_text": "Researchers announced on Tuesday (May 12, 2026) at a medical meeting."
+    },
+    {
+      "date": "2026-05-11",
+      "milestone": "Research letter published in JAMA Internal Medicine",
+      "evidence_text": "Dr. Terhi Piltonen of the University of Oulu in Finland wrote in a research letter published on Monday (May 11, 2026) in JAMA Internal Medicine."
+    }
+  ],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sci-tech/health/pcos-the-most-common-cause-of-infertility-to-now-be-called-pmos/article70969468.ece",
+      "title": "PCOS, the most common cause of infertility, to now be called PMOS",
+      "published": "Tue, 12 May 2026 16:51:48 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The information is based on announcements from researchers and publications in reputable medical journals."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

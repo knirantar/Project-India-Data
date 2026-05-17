@@ -1,0 +1,83 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sci-tech/health/pcos-gets-a-new-name-polyendocrine-metabolic-ovarian-syndrome-to-aid-faster-diagnosis-treatment/article70972576.ece",
+    "source_title": "PCOS gets a new name: Polyendocrine Metabolic Ovarian Syndrome, to aid faster diagnosis, treatment",
+    "published": "Wed, 13 May 2026 21:19:03 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "PCOS is being renamed to PMOS to improve diagnosis and treatment.",
+      "evidence_text": "The Endocrine Society...has decided to rename Polycystic Ovary Syndrome (PCOS) as Polyendocrine Metabolic Ovarian Syndrome (PMOS).",
+      "source_url": "https://www.thehindu.com/sci-tech/health/pcos-gets-a-new-name-polyendocrine-metabolic-ovarian-syndrome-to-aid-faster-diagnosis-treatment/article70972576.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Endocrine Society",
+      "description": "A global organisation of scientists and physicians devoted to hormone-related conditions.",
+      "evidence_text": "The Endocrine Society, a global organisation of scientists and physicians devoted to hormone-related conditions..."
+    },
+    {
+      "type": "person",
+      "name": "Helena J. Teede",
+      "description": "Author of the paper and director of Monash University’s Monash Centre for Health Research & Implementation.",
+      "evidence_text": "Prof. Helena Teede, author of the paper, director of Monash University’s Monash Centre for Health Research & Implementation..."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-13",
+      "event": "Renaming of PCOS to PMOS announced",
+      "location": "",
+      "actors": [
+        "Endocrine Society",
+        "Helena J. Teede"
+      ],
+      "evidence_text": "The Endocrine Society...has decided to rename Polycystic Ovary Syndrome (PCOS) as Polyendocrine Metabolic Ovarian Syndrome (PMOS)."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Estimated number of women affected by PCOS",
+      "value": "170 million",
+      "unit": "women",
+      "date": "",
+      "location": "",
+      "evidence_text": "PCOS is estimated to affect 170 million women during their reproductive years alone."
+    },
+    {
+      "name": "Percentage of undiagnosed individuals",
+      "value": "70%",
+      "unit": "%",
+      "date": "",
+      "location": "",
+      "evidence_text": "These factors delay diagnosis—with up to 70% of affected individuals remaining undiagnosed."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sci-tech/health/pcos-gets-a-new-name-polyendocrine-metabolic-ovarian-syndrome-to-aid-faster-diagnosis-treatment/article70972576.ece",
+      "title": "PCOS gets a new name: Polyendocrine Metabolic Ovarian Syndrome, to aid faster diagnosis, treatment",
+      "published": "Wed, 13 May 2026 21:19:03 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The information is sourced from a reputable organization and published in a credible news outlet."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

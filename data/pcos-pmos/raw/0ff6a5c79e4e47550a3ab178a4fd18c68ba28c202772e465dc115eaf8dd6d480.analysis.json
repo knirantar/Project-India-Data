@@ -1,0 +1,83 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sci-tech/health/frompcostopmos-understanding-the-reasons-for-name-change/article70979146.ece",
+    "source_title": "From PCOS to PMOS: understanding the reasons for name change",
+    "published": "Fri, 15 May 2026 11:35:46 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Endocrine Society announced that PCOS would henceforth be known as PMOS.",
+      "evidence_text": "The Endocrine Society, a global network of people dealing with hormones, announced that PCOS (Polycystic Ovarian Syndrome) would henceforth be known as PMOS (Polyendocrine Metabolic Ovarian Syndrome).",
+      "source_url": "https://www.thehindu.com/sci-tech/health/frompcostopmos-understanding-the-reasons-for-name-change/article70979146.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The term PCOS was deemed 'inaccurate' as it relied only on the presence of ovarian cysts.",
+      "evidence_text": "The authors of the paper Helena J. Teede et al argued that the term PCOS was ‘inaccurate’ as it relied only on the presence of ovarian cysts.",
+      "source_url": "https://www.thehindu.com/sci-tech/health/frompcostopmos-understanding-the-reasons-for-name-change/article70979146.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "PCOS affects an estimated 170 million women during their reproductive years.",
+      "evidence_text": "The significance lies not only in the fact that the definition has broadened the panel of factors that will facilitate better diagnosis, but also that PCOS affects a staggering number of women — it is estimated that the syndrome affects 170 million women during their reproductive years alone.",
+      "source_url": "https://www.thehindu.com/sci-tech/health/frompcostopmos-understanding-the-reasons-for-name-change/article70979146.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "The Endocrine Society",
+      "description": "A global network of people dealing with hormones.",
+      "evidence_text": "The Endocrine Society, a global network of people dealing with hormones, announced that PCOS (Polycystic Ovarian Syndrome) would henceforth be known as PMOS (Polyendocrine Metabolic Ovarian Syndrome)."
+    },
+    {
+      "type": "publication",
+      "name": "The Lancet",
+      "description": "A medical journal that published an article discussing the name change.",
+      "evidence_text": "As an article in The Lancet pointed out, the new name emerged out of a multistep global consensus process over the years."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-15",
+      "event": "Announcement of name change from PCOS to PMOS",
+      "location": "",
+      "actors": [
+        "The Endocrine Society"
+      ],
+      "evidence_text": "The Endocrine Society, a global network of people dealing with hormones, announced that PCOS (Polycystic Ovarian Syndrome) would henceforth be known as PMOS (Polyendocrine Metabolic Ovarian Syndrome)."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [
+    {
+      "date": "2028",
+      "milestone": "Integration of PMOS into international guidelines",
+      "evidence_text": "The Lancet paper lists an eight-stage process of global implementation of the new name, leading up to integration into the international guidelines in 2028."
+    }
+  ],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sci-tech/health/frompcostopmos-understanding-the-reasons-for-name-change/article70979146.ece",
+      "title": "From PCOS to PMOS: understanding the reasons for name change",
+      "published": "Fri, 15 May 2026 11:35:46 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The article discusses a significant change in medical terminology supported by expert opinions."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
