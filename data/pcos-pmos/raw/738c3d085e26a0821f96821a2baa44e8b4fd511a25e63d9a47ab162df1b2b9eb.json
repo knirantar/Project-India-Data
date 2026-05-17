@@ -1,0 +1,26 @@
+{
+  "topic_slug": "pcos-pmos",
+  "topic_title": "Polycystic Ovary Syndrome and Polycystic Ovary Morphology: A Comprehensive Study",
+  "data_type": "government_documents",
+  "enabled_data_types": [
+    "research_papers",
+    "government_documents",
+    "structured_datasets",
+    "blogs",
+    "community_discussions",
+    "scientific_technical_data",
+    "metrics_numerical_data",
+    "event_data",
+    "clinical_guidelines"
+  ],
+  "url": "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6461234/",
+  "title": null,
+  "source": "topic-config",
+  "published": null,
+  "sha256": "738c3d085e26a0821f96821a2baa44e8b4fd511a25e63d9a47ab162df1b2b9eb",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-17T05:46:24.388016+00:00",
+  "text_chars": 103405,
+  "raw_path": "data/pcos-pmos/raw/738c3d085e26a0821f96821a2baa44e8b4fd511a25e63d9a47ab162df1b2b9eb.html",
+  "text_path": "data/pcos-pmos/raw/738c3d085e26a0821f96821a2baa44e8b4fd511a25e63d9a47ab162df1b2b9eb.txt"
+}

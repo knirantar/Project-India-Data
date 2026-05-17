@@ -1,0 +1,80 @@
+{
+  "document": {
+    "source_url": "https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis",
+    "source_title": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
+    "published": "Fri, 04/24/2026 - 17:00",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The trial found no difference in meaningful outcomes between two fluid treatment options for pediatric sepsis.",
+      "evidence_text": "A large clinical trial supported by the National Institutes of Health (NIH) compared two commonly used treatments for pediatric patients treated for septic shock and found no difference in meaningful outcomes.",
+      "source_url": "https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "National Institutes of Health",
+      "description": "The nation's medical research agency, which supported the study.",
+      "evidence_text": "A large clinical trial supported by the National Institutes of Health (NIH) compared two commonly used treatments for pediatric patients treated for septic shock."
+    },
+    {
+      "type": "organization",
+      "name": "Pediatric Emergency Care Applied Research Network",
+      "description": "A network for research in pediatric emergency medicine that led the study.",
+      "evidence_text": "This research was supported by NIH grants R01HD101528 and P50DK114786 and led by the Pediatric Emergency Care Applied Research Network (PECARN)."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-24",
+      "event": "Publication of clinical trial results",
+      "location": "",
+      "actors": [],
+      "evidence_text": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "participants",
+      "value": "9000",
+      "unit": "individuals",
+      "date": "2026-04-24",
+      "location": "five countries",
+      "evidence_text": "The trial, which enrolled over 9,000 participants across five countries."
+    },
+    {
+      "name": "hospital-free days",
+      "value": "23",
+      "unit": "days",
+      "date": "2026-04-24",
+      "location": "",
+      "evidence_text": "Participants in both groups received their assigned IV fluid type for 24-48 hours and achieved a median of 23 hospital-free days during the 28 days following enrollment."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.nih.gov/news-events/news-releases/clinical-trial-finds-no-difference-fluid-treatment-options-pediatric-sepsis",
+      "title": "Clinical trial finds no difference in fluid treatment options for pediatric sepsis",
+      "published": "Fri, 04/24/2026 - 17:00",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The study was supported by the National Institutes of Health, a reputable medical research agency."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

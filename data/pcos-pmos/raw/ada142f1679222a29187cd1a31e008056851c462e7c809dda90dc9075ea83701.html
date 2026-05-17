@@ -1,0 +1,2576 @@
+<!DOCTYPE HTML>
+<html>
+<head>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Hind:wght@300;400;500;600;700&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta name="title" content="Home :: National Health Mission"/>
+	<meta name="keywords" content="Ministry of Health & Family Welfare-Government of India, Department, Health, Government, Govt, India, Delhi, Family, Welfare, Child, Mother, Disease, Heart, Eye, Ear, Blind"/>
+	<meta name="description" content="Ministry of Health & Family Welfare-Government of India"/>
+	<meta name="author" content="Ministry of Health & Family Welfare-Government of India"/>
+	<title>Home :: National Health Mission</title>
+	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"/>
+	
+	<link href="css/bootstrap.css" rel='stylesheet' type='text/css' />
+	<!-- Custom Theme files -->
+	<link href="css/style.css" rel='stylesheet' type='text/css' />
+	<link href="css/custom.css" rel='stylesheet' type='text/css' />
+	<!--<link rel="stylesheet" href="css/slider.css">-->
+	<!--/web-font-->
+	<link href='css/monserrat.css' rel='stylesheet' type='text/css'>
+	<link href='css/open+sans.css' rel='stylesheet' type='text/css'>
+	<!-- for print -->
+	<link type="text/css" rel="stylesheet" href="css/print.css" media="print"/>
+    <script src="js/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="js/ammap.js"></script>
+    <script type="text/javascript" src="js/indiaLow.js"></script>
+	<!--/script-->
+
+	
+	<!--NIC Search-->
+<link rel="icon" type="image/ico" href="images/favicon.ico"/>
+<link rel="stylesheet" href="js/nic/jquery.ui.theme.css">
+<link rel="stylesheet" href="js/nic/jquery.ui.autocomplete.css">
+<script type="text/javascript" src="js/nic/jquery.ui.core.js"></script>
+<script type="text/javascript" src="js/nic/custom_result.js"></script>
+<script type="text/javascript" src="js/nic/jquery.ui.widget.js"></script>
+<script type="text/javascript" src="js/nic/jquery.ui.autocomplete.js"></script>
+<script type="text/javascript" src="js/nic/jquery.ui.position.js"></script>
+<script  type="text/javascript" src="js/nic/auto.js"> </script>
+<!--
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.0/js/bootstrap.min.js"></script>
+  
+  -->
+<script>
+	$(document).ready(function()
+	{
+		$('[data-toggle="tooltip"]').tooltip();   
+		$("#q").keyup(function()
+		{
+			if(event.keyCode==13)
+			{
+				modifySettings('q');
+			}
+		});
+		$("#searchbtn").click(function()
+		{
+			modifySettings('q');
+			//alert("clicked");
+		});
+	});
+	//<![CDATA[
+	settings = new Array();
+	settings["searchServer"] = "http://goisas.nic.in";
+	settings["textBoxId"] = "q";
+	settings["callBackFunction"]="callBack";
+	loadSuggestionControls(settings);
+	function callBack()
+	{
+		settings["q"]=document.getElementById('q').value;
+		settings["count"] = "10";
+		settings["site"] = "mohfw.nic.in";
+		loadResultControls(settings);
+	}
+	settings = new Array();
+	settings["searchServer"] = "http://goisas.nic.in";
+	settings["textBoxId"] = "q";
+	settings["q"]="";
+	settings["site"] = "mohfw.nic.in";
+	loadResultControls(settings);
+	function modifySettings(key1)
+	{
+		if(document.getElementById('q').value != null)
+		{
+			$('.article-post, .top_banner, .hide-for-search').hide();
+			$('#result_area').remove();
+			$('.main-header').after('<div class="search_full"><div class="container"><div class="row"><div id="result_area" class="col-md-12" align="left"></div></div></div></div>');
+			$("#result_area").show();
+			settings[key1]=document.getElementById('q').value;
+			settings["count"] = "10";
+			settings["site"] = "mohfw.nic.in";
+			loadResultControls(settings);
+		}
+
+	}
+</script>
+
+
+
+
+<script type="text/javascript" src="js/jquery.validate.js"></script>
+	<script type="text/javascript">
+		jQuery(document).ready(function($) {
+		
+			$("#frm2p").validate({rules:{subject:{required:true},name:{required:true,specialChars:true},addr:{required:true,specialChars:true},mobile:{required:true,number:true,maxlength:12},email:{required:true,email:true},comments:{required:true,specialChars:true},days:{required:true,number:true},T3:{required:true}},messages:{subject:{required:"Please enter subject"},name:{required:"Please enter your name",specialChars:"Sorry, but the following characters\n\r\n\r@ ! $ % ^ & * # ( ) [ ] \\ { + } ` ~ = &gt; &lt; | \n\r\n\rare not allowed!\n"},addr:{required:"Please enter your address",specialChars:"Sorry, but the following characters\n\r\n\r@ ! $ % ^ & * # ( ) [ ] \\ { + } ` ~ = &gt; &lt; | \n\r\n\rare not allowed!\n"},mobile:{required:"Please enter your mobile number",number:"Please enter only number",maxlength:"Please enter max 12 number only"},email:{required:"Please enter your email",email:"Please enter valid email"},comments:{required:"Please enter your query detail",specialChars:"Sorry, but the following characters\n\r\n\r@ ! $ % ^ & * # ( ) [ ] \\ { + } ` ~ = &gt; &lt; | \n\r\n\rare not allowed!\n"},days:{required:"Please enter how many days",number:"Please enter days in numeric"},T3:{required:"Please enter security code"}}});
+			var mikExp=/[$\\,\'\\:\;\/\\.\\<\\>\\!\\@\\\#%\^\&\*\(\)\[\]\+\_\{\}\`\~\=\|]/;$.validator.addMethod("specialChars",function(e,t){var n=e;if(n.search(mikExp)!=-1){return false}return true},"Sorry, but the following characters\n\r\n\r@ ! $ % ^ & * # ( ) [ ] \\ { + } ` ~ = &gt; &lt; | \n\r\n\rare not allowed!\n")
+		});
+		function rdo_act1(id){
+				if(id=="1")
+					document.getElementById('repval').style.display="block";
+				else
+					document.getElementById('repval').style.display="none";
+					document.getElementById('days').value="";
+			}
+	</script>
+ </head>
+<body> 
+	<!--start-home-->
+	<div class="main-header" id="house">
+		<!--header-top-->
+		<div class="header-strip">
+	<div class="container">
+		<div class="row top-up-head">
+		<div class="col-md-5">
+			<p class="location">
+				<a id="skip-1" class="scroll" href="#skip-nav">Skip Navigation</a>
+			</p>
+			<p class="location screen-padding">
+				<span><img src="images/screen_reader_icon.gif" alt=""></span>
+				<a title="Screen Reader Access" href="index4.php?lang=1&level=0&linkid=67&lid=80">Screen Reader Access</a>
+			</p>
+			<p class="location screen-padding">
+				<a title="Sitemap" href="sitemap.php?lang=1">Sitemap</a>
+			</p>
+			<p class="location screen-padding">
+								<a class="mainlink resizefont" title="हिंदी" href="index.php?lang=2">हिंदी</a>
+							</p>
+		</div>
+		<div class="col-md-1.5 social-icons">
+			<ul>
+				<li><a href="#"><i class="facebook"> </i></a></li>
+				<li><a href="#"><i class="twitter"> </i></a></li>
+				<li><a href="#"><i class="google-plus"> </i></a></li>
+			</ul>
+		</div>
+		<div class="col-md-2 src-hight">
+			<div class="input-group add-on">
+				<input title="Search" type="text" name="q" id="q" class="form-control searchtxttxt ui-autocomplete-input" autocomplete="off" role="textbox" aria-autocomplete="list" aria-haspopup="true" />
+				<div class="input-group-btn">
+					<button class="btn btn-default searchbtnbtn" type="submit" name="Update" id="searchbtn"><i class="glyphicon glyphicon-search"></i></button>
+				</div>
+			</div>
+		</div>
+		<div class="col-md-1 social-icons">
+			<ul>
+				<!--<li><a title="Feedback" href="feedback.php?lang=1"><i class="glyphicon glyphicon-envelope icon-size"></i></a></li>-->
+				<li><a class="mainlink" title="HELP" href="index1.php?lang=1&level=0&linkid=121&lid=133" ><i class="glyphicon glyphicon-question-sign icon-size"></i></a></li>
+			</ul>
+		</div>
+		<div class="col-md-2 social-icons">
+			<ul class="fontresize-theme">
+				<li><a class="fontResizer_minus" id="fontResizer_minus" href="#" title="Decrease font size" style="cursor: pointer;">A-</a></li>
+				<li><a class="fontResizer_reset" id="fontResizer_reset" href="#" title="Reset font size" style="cursor: pointer;">A</a></li>
+				<li><a class="fontResizer_add" id="fontResizer_add" href="#" title="Increase font size" style="cursor: pointer;">A+</a></li>
+				<li><a title="Dark" class="dark black-bg" href="#" id="dark">A</a> </li>
+				<li><a title="Light" class="light white-bg" href="#" id="light">A</a></li>
+			</ul>
+		</div>
+		<div class="clearfix"></div>
+		</div>
+	</div>
+</div>
+
+		<!--//header-top-->
+		<!--header-middle-->
+		﻿<div class="header-middle">
+	<div class="container">
+		<div class="col-md-2 col-md-3 col-xs-6">
+			
+				<img src="/include/logo.png" alt="National Health mission logo" class="emblem-img">
+			
+		</div>
+		<div class="col-lg-7 col-md-6 col-xs-6 text-logo">
+		<h2 class="text-center hindi-title">राष्ट्रीय स्वास्थ्य मिशन</h2>
+		<h2 class="head-title" style="text-align: center;">National Health Mission</h2>
+		</div>
+		<!--<div class="col-md-7 title-area">
+			<center>
+				<h1><span>राष्ट्रीय स्वास्थ्य मिशन</span></h1>
+				<h1><span style="letter-spacing:3px;margin-bottom: -40px;">National Health Mission</span></h1>
+			</center>
+		</div>-->
+			
+		
+		<div class="col-lg-3 col-md-3 col-xs-6">
+			<!--<div class="col-sm-4">
+				<center>
+					<div class="india-flag"><img src="images/logo/india_flag.jpg" alt="" width="60" height="44"></div>
+				</center>
+			</div>
+			<div class="col-sm-6">
+				<div class="emblem-img"><img src="images/logo/emblem_back.png" alt=""></div>
+			</div>-->
+			
+			<div class="home_logo_left "><img src="https://nhm.gov.in/images/logo/logo.jpg" alt=""></div>
+		</div>
+		<!--<div class="col-md-2">
+			<center>
+                <a href="https://www.mohfw.gov.in/"><img src="/images/coronavirus/coronavirus.gif" class="header-margin" width="100%" style="
+    margin-top: 1rem;"></a>
+			</center>
+		</div>-->
+	</div>
+</div>
+<div id="skip-nav"></div>		<!--//header-middle-->
+		<!--menu-bar-nav-->
+		<div class="header-top for-dynamic-css-header">
+  <div class="container">
+    <nav class="navbar navbar-default">
+      <!-- Brand and toggle get grouped for better mobile display -->
+      <div class="navbar-header">
+        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+          <span class="sr-only">Toggle navigation</span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+          <span class="icon-bar"></span>
+        </button>
+      </div>
+        
+        
+        
+        
+
+      <!-- Collect the nav links, forms, and other content for toggling -->
+      <div class="collapse navbar-collapse nav-wil" id="bs-example-navbar-collapse-1">
+        <div class="top-menu">
+          <nav class="menu menu--francisco">
+
+
+            <ul class="nav navbar-nav menu__list ">
+                                                        <li class="menu__item"><a class="menu__link" href="https://nhm.gov.in/" title="Home (Alt + Shift + a)" target="_blank" accesskey="a">Home</a>
+                                                    </li>
+                                                  <li class="menu__item dropdown"><a title="Institutional Mechanism (Alt + Shift + b)" href="index4.php?lang=1&amp;level=0&amp;linkid=456&amp;lid=685" accesskey="b" class="menu__link">Institutional Mechanism</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="Empowered Programme Committee" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1292&amp;lid=194" >Empowered Programme Committee</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Mission Steering Group" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1293&amp;lid=193" >Mission Steering Group</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="NHM Components (Alt + Shift + c)" href="index4.php?lang=1&amp;level=0&amp;linkid=353&amp;lid=444" accesskey="c" class="menu__link">NHM Components</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="RMNCAH+N" href="index1.php?lang=1&amp;level=1&amp;sublinkid=794&amp;lid=168" >RMNCAH+N</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Health Systems Strengthening" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1213&amp;lid=167" >Health Systems Strengthening</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Non Communicable Disease Control Programmes" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1041&amp;lid=614" >Non Communicable Disease Control Programmes</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Communicable Disease Control Programme" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1056&amp;lid=616" >Communicable Disease Control Programme</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Infrastructure Maintenance" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1040&amp;lid=345" >Infrastructure Maintenance</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="State Annual Plan (Alt + Shift + d)" href="index4.php?lang=1&amp;level=0&amp;linkid=449&amp;lid=53" accesskey="d" class="menu__link">State Annual Plan</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="State NHM PIPs & ROPs" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1377&amp;lid=744" >State NHM PIPs & ROPs</a></li>
+                                                                            <li class="dropdown-header" ><a  title="ECRP-II" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1376&amp;lid=742" >ECRP-II</a></li>
+                                                                            <li class="dropdown-header" ><a  title="XV- FC Grants for Health" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1442&amp;lid=793" >XV- FC Grants for Health</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="Innovation Summit (Alt + Shift + e)" href="index4.php?lang=1&amp;level=0&amp;linkid=450&amp;lid=435" accesskey="e" class="menu__link">Innovation Summit</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="10th National Summit, Chandigarh" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1529&amp;lid=858" >10th National Summit, Chandigarh</a></li>
+                                                                            <li class="dropdown-header" ><a  title="9th National Summit- Puri, Odisha" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1487&amp;lid=838" >9th National Summit- Puri, Odisha</a></li>
+                                                                            <li class="dropdown-header" ><a  title="8th National Summit" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1505&amp;lid=843" >8th National Summit</a></li>
+                                                                            <li class="dropdown-header" ><a  title="7th-National Summit on Good & Replicable Practices and Innovations in Public Healthcare Systems-New Delhi" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1370&amp;lid=739" >7th-National Summit on Good & Replicable Practices and Innovations in Public Healthcare Systems-New Delhi</a></li>
+                                                                            <li class="dropdown-header" ><a  title="6th-National Summit on Good & Replicable Practices and Innovations in Public Healthcare Systems-Gujarat" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1335&amp;lid=715" >6th-National Summit on Good & Replicable Practices and Innovations in Public Healthcare Systems-Gujarat</a></li>
+                                                                            <li class="dropdown-header" ><a  title="5th-National Summit on Good & Replicable Practices and Innovations in Public Healthcare Systems-Assam" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1151&amp;lid=588" >5th-National Summit on Good & Replicable Practices and Innovations in Public Healthcare Systems-Assam</a></li>
+                                                                            <li class="dropdown-header" ><a  title="4th National Summit on Good, Replicable Practices & Innovations in Public Healthcare Systems-Indore" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1150&amp;lid=647" >4th National Summit on Good, Replicable Practices & Innovations in Public Healthcare Systems-Indore</a></li>
+                                                                            <li class="dropdown-header" ><a  title="3rd National Summit on Good, Replicable Practices & Innovations in Public Healthcare Systems-Tirupati" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1149&amp;lid=646" >3rd National Summit on Good, Replicable Practices & Innovations in Public Healthcare Systems-Tirupati</a></li>
+                                                                            <li class="dropdown-header" ><a  title="2nd National Summit on Good,Replicable Practices & innovations in Public Healthcare Systems-Shimla" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1148&amp;lid=645" >2nd National Summit on Good,Replicable Practices & innovations in Public Healthcare Systems-Shimla</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="Monitoring (Alt + Shift + f)" href="index4.php?lang=1&amp;level=0&amp;linkid=174&amp;lid=41" accesskey="f" class="menu__link">Monitoring</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="Common Review Mission" href="index1.php?lang=1&amp;level=1&amp;sublinkid=795&amp;lid=195" >Common Review Mission</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Monitoring Reports" href="index1.php?lang=1&amp;level=1&amp;sublinkid=112&amp;lid=205" >Monitoring Reports</a></li>
+                                                                            <li class="dropdown-header" ><a  title="International Advisory Panel" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1236&amp;lid=203" >International Advisory Panel</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Joint Review Mission" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1237&amp;lid=201" >Joint Review Mission</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="Communitisation (Alt + Shift + g)" href="index4.php?lang=1&amp;level=0&amp;linkid=37&amp;lid=42" accesskey="g" class="menu__link">Communitisation</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="Community Action" href="index1.php?lang=1&amp;level=1&amp;sublinkid=148&amp;lid=224" >Community Action</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Village Health Sanitation & Nutrition Committee" href="index1.php?lang=1&amp;level=1&amp;sublinkid=149&amp;lid=225" >Village Health Sanitation & Nutrition Committee</a></li>
+                                                                            <li class="dropdown-header" ><a  title="About Accredited Social Health Activist (ASHA)" href="index1.php?lang=1&amp;level=1&amp;sublinkid=150&amp;lid=226" >About Accredited Social Health Activist (ASHA)</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Village Health Nutrition Day" href="index1.php?lang=1&amp;level=1&amp;sublinkid=152&amp;lid=228" >Village Health Nutrition Day</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Rogi Kalyan Samities" href="index1.php?lang=1&amp;level=1&amp;sublinkid=153&amp;lid=229" >Rogi Kalyan Samities</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="Resources (Alt + Shift + h)" href="index4.php?lang=1&amp;level=0&amp;linkid=39&amp;lid=43" accesskey="h" class="menu__link">Resources</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="Reports & Publications." href="index1.php?lang=1&amp;level=1&amp;sublinkid=1161&amp;lid=649" >Reports & Publications.</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Presentations" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1304&amp;lid=688" >Presentations</a></li>
+                                                                            <li class="dropdown-header" ><a  title="NHM Guidelines" href="index1.php?lang=1&amp;level=1&amp;sublinkid=197&amp;lid=136" >NHM Guidelines</a></li>
+                                                                          <li class="dropdown-header"><a href="https://hmis.mohfw.gov.in/#!/" title="Rural Health Statistics (RHS)" >Rural Health Statistics (RHS)</a></li>
+                                                                          <li class="dropdown-header" ><a  title="12th Five Year Plan & HLEG" href="index1.php?lang=1&amp;level=1&amp;sublinkid=191&amp;lid=267" >12th Five Year Plan & HLEG</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="OM & Orders (Alt + Shift + i)" href="index4.php?lang=1&amp;level=0&amp;linkid=416&amp;lid=549" accesskey="i" class="menu__link">OM & Orders</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="India COVID-19 ER&HSP Package" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1365&amp;lid=733" >India COVID-19 ER&HSP Package</a></li>
+                                                                            <li class="dropdown-header" ><a  title="COVID-19" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1339&amp;lid=720" >COVID-19</a></li>
+                                                                            <li class="dropdown-header" ><a  title="EPC/MSG/CRM" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1328&amp;lid=707" >EPC/MSG/CRM</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Health Systems Strengthening+" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1174&amp;lid=655" >Health Systems Strengthening+</a></li>
+                                                                            <li class="dropdown-header" ><a  title="State Annual Plan+" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1235&amp;lid=659" >State Annual Plan+</a></li>
+                                                                            <li class="dropdown-header" ><a  title="NCD" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1320&amp;lid=698" >NCD</a></li>
+                                                                            <li class="dropdown-header" ><a  title="NHM Finance - FMG" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1039&amp;lid=166" >NHM Finance - FMG</a></li>
+                                                                            <li class="dropdown-header" ><a  title="Innovation Summit+" href="index1.php?lang=1&amp;level=1&amp;sublinkid=798&amp;lid=553" >Innovation Summit+</a></li>
+                                                                            <li class="dropdown-header" ><a  title="RMNCH+A+" href="index1.php?lang=1&amp;level=1&amp;sublinkid=805&amp;lid=557" >RMNCH+A+</a></li>
+                                                                            <li class="dropdown-header" ><a  title="NUHM Orders/letters" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1159&amp;lid=161" >NUHM Orders/letters</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="Media (Alt + Shift + j)" href="index4.php?lang=1&amp;level=0&amp;linkid=41&amp;lid=45" accesskey="j" class="menu__link">Media</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="Newsletters" href="index1.php?lang=1&amp;level=1&amp;sublinkid=206&amp;lid=277" >Newsletters</a></li>
+                                                                          <li class="dropdown-header"><a href="photogallery.php" title="Photo Gallery" >Photo Gallery</a></li>
+                                                                          <li class="dropdown-header" ><a  title="Archives" href="index1.php?lang=1&amp;level=1&amp;sublinkid=1241&amp;lid=620" >Archives</a></li>
+                                                                </ul>
+                                                  </li>
+                                                  <li class="menu__item dropdown"><a title="Contact Us (Alt + Shift + k)" href="index4.php?lang=1&amp;level=0&amp;linkid=1&amp;lid=1" accesskey="k" class="menu__link">Contact Us</a>
+                                                    <ul class="dropdown-menu">
+                                                                  <li class="dropdown-header" ><a  title="Web Information Manager" href="index1.php?lang=1&amp;level=1&amp;sublinkid=203&amp;lid=23" >Web Information Manager</a></li>
+                                                                          <li class="dropdown-header"><a href="https://www.mohfw-dohfw.gov.in/connect/directory?page=1" title="MoHFW Officials List" >MoHFW Officials List</a></li>
+                                                                          <li class="dropdown-header" ><a  title="States/UTs Official" href="index1.php?lang=1&amp;level=1&amp;sublinkid=23&amp;lid=51" >States/UTs Official</a></li>
+                                                                </ul>
+                                                  </li>
+                                    </ul>
+          </nav>
+        </div>
+      </div>
+      <!-- /.navbar-collapse -->
+    </nav>
+    <div class="clearfix"></div>
+  </div>
+</div>
+<!--<marquee width="100%" direction="left" height="" style="background: #872977;color: #ffffff;padding:5px;font-size: 12px;letter-spacing: 0.5px;font-weight: 600;transition: color 0.3s; margin-bottom:-7px">
+  <a href="https://mohfw.gov.in/sites/default/files/Swasth%20Nari%20Sashakt%20Parivar%20Abhiyaan.mp4" target="_blank" style="color:#fff"><span style="font-size: 12px;">"Swasth Nari, Sashakt Parivar Abhiyaan"</span></a>
+  
+</marquee>-->
+
+    		<!--//menu-bar-nav-->
+		<!-- //Line Slider -->
+		<!-- Layer slider css -->
+        <link rel="stylesheet" href="css/Layer_css/jquery.animateSlider.css">
+        <link rel="stylesheet" href="css/Layer_css/layerSlider.css">
+<!-- //Layer slider css -->
+<div class="top_banner">
+	<ul class="anim-slider">
+		<!-- Slide No1 -->
+		<li class="anim-slide">
+		</li>
+		<!-- Slide No2 -->
+		<li class="anim-slide">
+		</li>
+		<!-- Slide No3 -->
+		<li class="anim-slide">
+		</li>
+		 <!-- Slide No4 -->
+		<li class="anim-slide">
+		</li>
+		<!-- Slide No5 -->
+		
+		<!-- Arrows -->
+		<nav class="anim-arrows">
+			<span class="anim-arrows-prev"></span>
+			<span class="anim-arrows-next"></span>
+		</nav>
+		<!-- Dynamically created dots -->
+	</ul>
+</div>
+<!-- Layer Slider Bower Depedencies -->
+<script src="js/layer_js/modernizr.js"></script>
+<!-- Load the plugin --> 
+<script src="js/layer_js/jquery.animateSlider.js"></script>
+<script>
+
+
+	$(".anim-slider").animateSlider(
+	{
+		autoplay	:true,
+		interval	:5000,
+		animations 	:
+		{
+			0	: 	//Slide No1
+			{
+				li	:
+				{
+					show   	  : "fadeIn",
+					hide 	  : "fadeOutLeftBig",
+					delayShow : "delay0.5s"
+				}
+			},
+			1	: //Slide No2
+			{
+				li			:
+				{
+					show 		: "fadeInLeft",
+					hide 		: "fadeOutLeftBig",
+					delayShow   : "delay0-5s"
+				}
+			},
+			2	: //Slide No3
+			{
+				li			:
+				{
+					show 		: "fadeInLeft",
+					hide 		: "fadeOutLeftBig",
+					delayShow   : "delay0-5s"
+				},
+			},
+			3	: //Slide No4
+			{
+				li			:
+				{
+					show 		: "fadeInLeft",
+					hide 		: "fadeOutLeftBig",
+					delayShow   : "delay0-5s"
+				},
+			},
+			
+			
+			
+			
+			          
+			
+			
+		}
+	});
+		setInterval(function (){
+    		$(".anim-arrows-next").click();
+		}, 5000);
+		</script>
+
+		<!-- /Line Slider -->
+	</div>
+		<!--<div class="services hide-for-search" id="services">
+		<div class="container-fluid">
+				</*?php
+		        if($langid==2){$pageid=328;} else{$pageid=327;}
+		        $linksContent=$obj->query("SELECT lid,linkname,langid,details FROM links WHERE lid=? AND langid=? LIMIT 1",$pageid,$langid);
+		        if(count($linksContent)>0)
+		        {
+		          $pagerows=$linksContent[0];
+		          echo $obj->PrintAbleContent($pagerows['details']);
+		        }
+		        ?>
+
+		</div>
+	</div>-->
+    <!---- VISION -------------->
+    <div class="services hide-for-search about" id="services">
+		<div class="container">
+				<div style="display: none;">&nbsp;</div>
+                    <div class="col-md-5">
+                        <div class="inner-w3">
+                            <div class="sub-hd">
+                                <h3 class="tittle">VISION  </h3>
+                            </div>
+                        </div>
+                        <div class="inner_tabs text-left">
+                            <p class="sub-para">The National Health Policy, 2017 envisages- "the attainment of the highest possible level of health and wellbeing for all at all ages, through a preventive and promotive health care orientation in all developmental policies, and universal access to good quality health care services without anyone having to face financial hardship as a consequence".</p>
+                            <p class="sub-para">
+                            The aim of NHM is to ensure progress towards the goals and targets set out in the National Health Policy, 2017 for ensuring "universal access to equitable, affordable and quality health care services, accountable and responsive to people's needs".
+                            </p>
+                            <p class="sub-para">
+                            This would also enable the country to advance towards meeting Sustainable Development Goal3, i.e. "Ensure healthy lives and promote well-being for all at all ages", including Universal Health Coverage.
+                            </p>
+							
+						<div class="flex-container">
+							<a class="urban-rural" href="https://nhm.gov.in/index1.php?lang=1&level=1&sublinkid=969&lid=49">
+	
+							<div class="urban-rural-img">
+								<img src="../images/New-nhm/icon-rural.png" style="width: 100%;"></div>
+							<div class="urban-rural-content">
+								<h5>NRHM</h5>
+								<p>The National Rural Health Mission</p>
+							</div>
+							</a>
+							<a class="urban-rural" href="https://nhm.gov.in/index1.php?lang=1&level=1&sublinkid=970&lid=137">
+	
+								<div class="urban-rural-img">
+								<img src="../images/New-nhm/icon-urban.png" style="width: 100%;"></div>
+								<div class="urban-rural-content">
+								<h5>NUHM</h5>
+								<p>The National Urban Health Mission</p>
+								</div>
+							</a>
+						</div>
+							
+                        </div>
+						
+						
+						
+                        
+                        <br><br>
+                    </div>
+                    <!----- VISION ---->
+                        
+                    <!--- NHM Components---
+                    <div class="col-md-2">
+                        <div class="main-menu">
+                      <ul>
+                            
+                          <li><a href="https://nhm.gov.in/index4.php?lang=1&level=0&linkid=445&lid=38" target="_blank">Programmes</a></li>
+                            <li><a href="https://nhm.gov.in/index4.php?lang=1&level=0&linkid=456&lid=685" target="_blank">Institutional Mechanism</a></li>
+                            <li><a href="https://nhm.gov.in/index4.php?lang=1&level=0&linkid=353&lid=444" target="_blank">Components</a></li>
+                            </ul>  
+                        </div>   Minsister of state in the Ministry Health and Family welfare and minister of state in the Ministry of Chemicals and fertilizers.
+                    </div>
+                    <!--- NHM Components--->
+            
+                    <!----- Minster Details---->
+                        <div class="col-md-4 b-left">
+                            <ul class="removeBullets" style="margin-top:21%;">
+                            <li> 
+                            <div class="profile_details">
+                            <div class="img"><img class="img-fluid" src="https://nhm.gov.in/images/Shri_Jagat_Prakash_Nadda.jpg" alt=""></div>
+                            <div class="content">
+                            <div class="heading pb-2"><strong>Shri Jagat Prakash Nadda </strong></div>
+                            <div class="sub-heading pb-2">Hon'ble Minister of Health &amp; Family Welfare and Chemicals &amp; Fertilizers</div>
+                          
+                            </div>
+                            </div>
+                            </li>
+                            <li>
+                            <div class="profile_details">
+                            <div class="img"><img class="img-fluid" src="https://nhm.gov.in/images/Shri_Prataprao_Jadhav.jpg" alt=""></div>
+                            <div class="content">
+                            <div class="heading pb-2"><strong>Shri Prataprao Ganpatrao Jadhav</strong></div>
+                            <div class="sub-heading pb-2">Hon’ble Minister of State (Independent Charge) of Ministry of AYUSH and Minister of State in the Ministry of Health &amp; Family Welfare</div>
+                            
+                            </div>
+                            </div>
+                            </li>
+                            <li>
+                            <div class="profile_details">
+                            <div class="img"><img class="img-fluid" src="https://nhm.gov.in/images/Smt_Anupriya_Patel.jpg" alt=""></div>
+                            <div class="content">
+                            <div class="heading pb-2"><strong> Smt. Anupriya Patel  </strong></div>
+                            <div class="sub-heading pb-2">Minister of State in the Ministry Health and Family welfare and Minister of State in the Ministry of Chemicals and Fertilizers</div>
+                            
+                            </div>
+                            </div>
+                            </li>
+                            </ul>
+                        </div>
+             <!----- Minster Details---->
+			 
+			 <!--- Twitter---->
+			 
+						<div class="col-md-3 b-left">
+							<div class="inner-w3">
+								<div class="sub-hd">
+                                <h3 class="tittle" style="width:100%;">In Social Media </h3>
+                            </div>
+							</div>
+							
+							
+							<div class="twitter-tweet twitter-tweet-rendered" style="width: 100%; margin: 10px auto; display: flex; max-width: 550px;"><iframe id="twitter-widget-0" scrolling="no" frameborder="0" allowtransparency="true" allowfullscreen="true" class="" style="position: static; visibility: visible; width: 443px; height: 660px; display: block; flex-grow: 1;" title="X Post" src="https://platform.twitter.com/embed/Tweet.html?dnt=false&amp;embedId=twitter-widget-0&amp;features=eyJ0ZndfdGltZWxpbmVfbGlzdCI6eyJidWNrZXQiOltdLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X2ZvbGxvd2VyX2NvdW50X3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9iYWNrZW5kIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19yZWZzcmNfc2Vzc2lvbiI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfZm9zbnJfc29mdF9pbnRlcnZlbnRpb25zX2VuYWJsZWQiOnsiYnVja2V0Ijoib24iLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X21peGVkX21lZGlhXzE1ODk3Ijp7ImJ1Y2tldCI6InRyZWF0bWVudCIsInZlcnNpb24iOm51bGx9LCJ0ZndfZXhwZXJpbWVudHNfY29va2llX2V4cGlyYXRpb24iOnsiYnVja2V0IjoxMjA5NjAwLCJ2ZXJzaW9uIjpudWxsfSwidGZ3X3Nob3dfYmlyZHdhdGNoX3Bpdm90c19lbmFibGVkIjp7ImJ1Y2tldCI6Im9uIiwidmVyc2lvbiI6bnVsbH0sInRmd19kdXBsaWNhdGVfc2NyaWJlc190b19zZXR0aW5ncyI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdXNlX3Byb2ZpbGVfaW1hZ2Vfc2hhcGVfZW5hYmxlZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9LCJ0ZndfdmlkZW9faGxzX2R5bmFtaWNfbWFuaWZlc3RzXzE1MDgyIjp7ImJ1Y2tldCI6InRydWVfYml0cmF0ZSIsInZlcnNpb24iOm51bGx9LCJ0ZndfbGVnYWN5X3RpbWVsaW5lX3N1bnNldCI6eyJidWNrZXQiOnRydWUsInZlcnNpb24iOm51bGx9LCJ0ZndfdHdlZXRfZWRpdF9mcm9udGVuZCI6eyJidWNrZXQiOiJvbiIsInZlcnNpb24iOm51bGx9fQ%3D%3D&amp;frame=false&amp;hideCard=false&amp;hideThread=true&amp;id=2020710263494938687&amp;lang=en&amp;origin=https%3A%2F%2Fwww.mohfw.gov.in%2F&amp;sessionId=ad435902515285d2cf484869676e578147fdcc4e&amp;theme=light&amp;widgetsVersion=6a3ad42b224df%3A1778106238597&amp;width=550px" data-tweet-id="2020710263494938687"></iframe></div>
+						</div>
+			 <!--- Twitter end--->
+		</div>
+	</div> 
+    
+    
+    <!---- About Us-------------->
+    
+<!--- Counter Graphes---->
+    
+       <script>
+         
+        $(document).ready(function(){
+        $('.counter-value').each(function(){
+        $(this).prop('Counter',10000).animate({
+            Counter: $(this).text()
+        },{
+            duration: 3500,
+            easing: 'swing',
+            step: function (now){
+                $(this).text(Math.max(now));
+            }
+        });
+    });
+});
+    </script>
+    
+    <!--<div class="services hide-for-search " id="services">
+		<!--<div class="container">
+    <div class="row">
+        <div class="col-md-2 col-sm-6">
+            <div class="counter">
+                <div class="counter-content">
+                    <div class="counter-icon">
+                        <i class="fa fa-globe"></i>
+                    </div>
+                    <span class="counter-value1">10,23,984</span>
+                </div>
+                <h3>ASHSs(in position)</h3>
+            </div>
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <div class="counter blue">
+                <div class="counter-content">
+                    <div class="counter-icon">
+                        <i class="fa fa-mobile-alt"></i>
+                    </div>
+                    <span class="counter-value1">12086</span>
+                </div>
+                <h3>Functioning as FRUs</h3>
+            </div>
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <div class="counter">
+                <div class="counter-content">
+                    <div class="counter-icon">
+                        <i class="fa fa-mobile-alt"></i>
+                    </div>
+                    <span class="counter-value1">5,60,948</span>
+                </div>
+                <h3>VHSNC</h3>
+            </div>
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <div class="counter blue">
+                <div class="counter-content">
+                    <div class="counter-icon">
+                        <i class="fa fa-mobile-alt"></i>
+                    </div>
+                    <span class="counter-value1">82,02,940</span>
+                </div>
+                <h3>VHNDs</h3>
+            </div>
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <div class="counter">
+                <div class="counter-content">
+                    <div class="counter-icon">
+                        <i class="fa fa-mobile-alt"></i>
+                    </div>
+                    <span class="counter-value1">5268</span>
+                </div>
+                <h3>24x7 Facilities </h3>
+            </div>
+        </div>
+        <div class="col-md-2 col-sm-6">
+            <div class="counter blue">
+                <div class="counter-content">
+                    <div class="counter-icon">
+                        <i class="fa fa-mobile-alt"></i>
+                    </div>
+                    <span class="counter-value1">3,85,531</span>
+                </div>
+                <h3>HR</h3>
+            </div>
+        </div>
+        
+        
+        
+    </div>
+        </div>
+    </div>-->
+    
+<!-----Counter Graphes---------->
+    
+    
+    
+        <!--- What's new---->
+    <div class="services backcolor-news hide-for-search" id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-5">
+                <div class="top-scroll"><h2>WHAT'S NEW</h2>
+                <div class="section-scroll">
+				<p><a href="https://nhm.gov.in/New-Update-2025-26/Child-Health-RBSK&Adolescent-Health/ENGLISH_Concept-of-Health.pdf" target="_blank"> Guide Book on Health for Children - My Health World, 2026 - English </a></p>  
+				<p><a href="https://nhm.gov.in/New-Update-2025-26/Child-Health-RBSK&Adolescent-Health/HINDI_Concept-of-Health.pdf" target="_blank">Guide Book on Health for Children - My Health World, 2026 - Hindi </a></p>  
+				<p><a href="/New-Update-2025-26/Child-Health-RBSK&amp;Adolescent-Health/English_Guide-book-on-healthy-unhealthy-organs.pdf" target="_blank"> Guide Book on Healthy_Unhealthy Organs, 2026 -English </a></p>
+				<p><a href="/New-Update-2025-26/Child-Health-RBSK&amp;Adolescent-Health/Hindi_Guide-book-on-healthy-unhealthy-organs.pdf" target="_blank"> Guide Book on Healthy_Unhealthy Organs, 2026 -Hindi  </a></p>
+				<p><a href="https://nhm.gov.in/images/pdf/programmes/RBSK/RBSK%202.0_Operational_Guidelines_2026_English.pdf" target="_blank">RBSK 2.0 Operational Guidelines, 2026-English </a></p>  
+				<p><a href="https://nhm.gov.in/images/pdf/programmes/RBSK/Guidance-Document-on-Diabetes-Mellitus-in-Children-2026_English.pdf" target="_blank">Guidance Document on Diabetes Mellitus in Children, 2026-English </a></p>  
+				<p><a href="https://nhm.gov.in/New-Update-2024-26/Innovation-Summit/10th-innovation/Compendium%20of%20Best%20Practices%202026.pdf" target="_blank">National Summit on Innovation and Inclusivity - Best Practices Shaping India's Health Future</a></p>  
+                <p><a href="https://nhm.gov.in/New-Update-2024-26/CRM/17th-CRM-2025.pdf" target="_blank"> 17th Common Review Mission</a></p>
+				<p><a href="https://nhm.gov.in/New-Update-2025-26/MMU-guidelines/MMU-Guidelines%20_2026_NHM.pdf" target="_blank"> Revised Operational Guidelines for Mobile Medical Units (MMU) - 2026 </a></p>
+                <p><a href="https://nhm.gov.in/New-Update-2025-26/Whats-new/Training-Modules-NCDs.pdf" target="_blank">Training Module for Programme Managers under NP-NCD</a></p>  
+                <p><a href="https://nhm.gov.in/New-Update-2025-26/Whats-new/NCD-Medical-Officers.pdf" target="_blank"> Training Modules for Medical Officers under NP-NCD</a></p>
+				        <p><a href="https://nhm.gov.in/index4.php?lang=1&level=0&linkid=457&lid=686" target="_blank"> Quarterly NHM MIS Report (status as on 30.09.2025)</a></p>
+				        <p><a href="https://nhm.gov.in/pdf/Press Release/National_Workshop_on_Strengthening_Public_Health_Infrastructure_under_PM-ABHIM_held_in_Chennai–28th&29thAug2025.pdf" target="_blank"> National Workshop on Strengthening Public Health Infrastructure under PM-ABHIM held in Chennai – 28th & 29th Aug 2025</a></p>
+				<!--<p><a href="https://nhm.gov.in/New-update-2024-25/ASHA/ASHA-Incentives-July-2025.pdf" target="_blank">ASHA Incentives July 2025</a></p> -->
+                <p><a href="https://nhm.gov.in/pdf/2024/LSAS_Revised_Curriculum-2024.pdf" target="_blank"> Life Saving Anaesthesia Skills Revised Curriculum-2024</a></p>
+                <p><a href="https://nhm.gov.in/pdf/2024/Revised_CEmONC_Curriculum-2024-Part-1.pdf" target="_blank"> Revised Comprehensive Emergencey Obstetric and Newborn Care (CEmONC) Curriculum-2024 -Part-1</a></p>
+                <p><a href="https://nhm.gov.in/pdf/2024/Revised_CEmONC_Curriculum-2024-Part-2.pdf" target="_blank"> Revised Comprehensive Emergencey Obstetric and Newborn Care (CEmONC) Curriculum-2024-Part-2</a></p>
+                <p><a href="https://nhm.gov.in/pdf/2024/National_Sickle_Cell_Anemia_Elimination_Mission.pdf" target="_blank"> National Sickle Cell Anemia Elimination Mission</a></p>
+                <p><a href="https://nhm.gov.in/pdf/2024/ntep.pdf" target="_blank"> National TB Elimination Programme (NTEP) 100 DAYS CAMPAIGN</a></p>
+                <p><a href="https://nhm.gov.in/pdf/2024/World_Mental_Health_Day.pdf" target="_blank"> World Mental Health Day</a></p>
+				<p><a href="https://nhm.gov.in/New-Update-2024-26/Innovation-Summit/10th-innovation/Compendium%20of%20Best%20Practices%202026.pdf" target="_blank">National Summit on Innovation and Inclusivity - Best Practices Shaping India's Health Future</a></p>  
+                <p><a href="https://nhm.gov.in/New-Update-2024-26/CRM/17th-CRM-2025.pdf" target="_blank"> 17th Common Review Mission</a></p>
+				<p><a href="https://nhm.gov.in/New-Update-2025-26/MMU-guidelines/MMU-Guidelines%20_2026_NHM.pdf" target="_blank"> Revised Operational Guidelines for Mobile Medical Units (MMU) - 2026 </a></p>
+              
+                </div>
+                </div>
+                </div>
+                <!--- MAP--->
+                <div class="col-md-7">
+                <div class="map"> 
+                    <div class="">
+                        <h2>QUARTERLY NHM MIS REPORT (STATUS AS ON 30.09.2025)</h2>
+                    </div>
+                    <div id="chartdiv"></div>
+                </div>
+                </div>
+                <!--- MAP End--->
+                
+            </div>
+        </div>
+    </div>
+    <!--- End what's new---->    
+    
+    <!---- Success Storoies----->
+    
+        <section class="services success-stories" id="services">
+        <div class="container aos-init aos-animate" data-aos="fade-up">
+          <div class="inner-w3">
+              <div class="sub-hd">
+                  <h3 class="tittle">SUCCESS STORIES<!--ABOUT <span>US</span>--> </h3>
+              </div>
+            </div>
+            
+         <div class="row">
+             
+          <div class="col-lg-3 col-md-3 col-xs-6 col-sm-12 d-flex align-items-stretch aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><img src="https://nhm.gov.in/images/New-nhm/Success-stories-1.jpg"></div>
+              <h5><a href="https://nhm.gov.in/index1.php?lang=1&level=1&sublinkid=794&lid=168" target="_blank">Reproductive, Maternal, Newborn, Child, Adolescent Health and Nutrition</a></h5>
+              <p>RMNCAH+N approach has been launches in 2013 and it essentially looks to address the major causes of mortality among women and children</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-3 col-xs-6 col-sm-12 d-flex align-items-stretch mt-4 mt-md-0 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="200">
+            <div class="icon-box">
+              <div class="icon"><img src="https://nhm.gov.in/images/New-nhm/Success-stories-2.jpg"></div>
+              <h5><a href="https://nhm.gov.in/index4.php?lang=1&level=0&linkid=150&lid=171" target="_blank">Janani Shishu Suraksha Karyakaram (JSSK) </a></h5>
+              <p>JSSK launched on 1st of June, 2011 is and initiative to assure free services to all pregnant women and sick neonates accessing public health institutions.</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-3 col-xs-6 col-sm-12 d-flex align-items-stretch mt-4 mt-lg-0 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="300">
+            <div class="icon-box">
+              <div class="icon"><img src="https://nhm.gov.in/images/New-nhm/Success-stories-4.jpg"></div>
+              <h5><a href="https://nhm.gov.in/index1.php?lang=1&level=4&sublinkid=1190&lid=583" target="_blank">Rashtriya Bal Swasthya Karyakram</a></h5>
+              <p>From survival to healthy survival</p>
+            </div>
+          </div>
+
+          <div class="col-lg-3 col-md-3 col-xs-6  col-sm-12 d-flex align-items-stretch mt-4 aos-init aos-animate" data-aos="zoom-in" data-aos-delay="100">
+            <div class="icon-box">
+              <div class="icon"><img src="https://nhm.gov.in/images/New-nhm/Success-stories-3.jpg"></div>
+              <h5><a href="https://nhm.gov.in/index1.php?lang=1&level=2&sublinkid=818&lid=221" target="_blank">Rashtriya Kishor Swasthya Karyakram</a></h5>
+              <p>The Ministry of Health &amp; Family Welfare has launched a health programme for adolescents, in the age group of 10-19 years.</p>
+            </div>
+          </div>
+
+        </div>
+      </div>
+    </section>
+    
+    <!------- Success Stories----->
+    
+    
+	<!-- News section -->
+	<!--<div class="services backcolor-news hide-for-search" id="services">
+		</*?php require_once('include/news.php'); ?>
+	</div>-->
+	<!-- News section -->
+    
+
+	
+    
+    <!-- About Us -->
+
+	
+	<!--<div class="grid_2 hide-for-search" id="tender" style="margin-bottom: -100px;">
+		<!--<div class="container">
+			<div class="sub-hd">
+				<h3 class="tittle">SUCCESS STORIES</h3>
+			</div>
+			<div class="box_1 one">
+				</*?php
+				$rs_photos_left=$obj->query("SELECT `photogallery`.`description`,`photogallery`.`photo`,`photogallery`.`link` FROM `photogallery`,`photocategory` where `photogallery`.`langid`=? and `photogallery`.`cat_id`=? and `photogallery`.`status`=? and `photogallery`.`cat_id`=`photocategory`.`cat_id` and `photocategory`.`status`=? order by `photogallery`.`sort_order` ASC",$langid,12,'Active','Active');
+			    $allimages=array();
+			    if(count($rs_photos_left)>0)
+			    {
+			      foreach($rs_photos_left as $row_left)
+			      {
+			        ?>
+			        <div class="col-md-6">
+						<div class="col_1_of_2 span_1_of_2 multi-gd-text ">
+							<a class="extranalredirect" href="</*?php echo $obj->preventxss($row_left['link']);?>" </*?php if(!empty($row_left['link'])) {?> target="_blank" </*?php }?>><img src="WriteReadData/p92g8/</*?php echo $row_left['photo'];?>" class="img-responsive" alt="</*?php echo  $obj->printencodedtext($row_left['description']);?>" title="</*?php echo  $obj->printencodedtext($row_left['description']);?>"/></a>
+						</div>
+						<div class="col_1_of_2 span_1_of_2">
+							</*?php
+							$des = explode("@DES@", $row_left['description']);
+							$tittle = $des[0];
+							$description = $des[1];
+							?>
+							<a class="extranalredirect" href="</*?php echo $obj->preventxss($row_left['link']);?>" </*?php if(!empty($row_left['link'])) {?> target="_blank" </*?php }?>>
+								<h4></*?php echo  $obj->printencodedtext($tittle);?></h4>
+							</a>
+							<p class="p1">
+								</*?php echo  $obj->printencodedtext($description);?>
+							</p>
+						</div>
+						<div class="clearfix"></div>
+					</div>
+			        </*?php
+			      }
+			    }
+			    ?>
+			    <div class="clearfix"></div>
+			</div>
+		</div>
+	</div>--!>
+	<!-- //sucessfull stories section -->
+	<!---news-->
+    
+    
+    
+    <!---- Photo Gallery ---->
+    
+        <!--
+           <link href="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/css/bootstrap.min.css" rel="stylesheet" id="bootstrap-css">
+        <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.0/js/bootstrap.min.js"></script> 
+        -->
+            <script src="//cdnjs.cloudflare.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+            <!------ Include the above in your HEAD tag ---------->
+
+            <link href="css/owl.css" rel="stylesheet">
+            <link href="css/jquery.fancybox.css" rel="stylesheet">
+
+          <!-- Gallery-->
+            <section class="gallery-area" id="services">
+              <div class="container">
+                <div class="sub-hd">
+            <h3 class="tittle">OUR GALLERY <!--ABOUT <span>US</span>--> </h3>
+            </div>
+              </div>
+              <div class="container-fullid">
+                <div class="gallery-slider-area">
+				
+				
+				<div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g1.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g1.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g2.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g2.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  
+				  <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g3.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g3.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				<div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g4.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g4.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  
+				 <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g5.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g5.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g6.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g6.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g7.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g7.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g8.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g8.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g9.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g9.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				  
+				  <div class="single-item-area">
+                    <div class="img-box-area">
+                      <figure><img src="images/New-nhm/Gallery/g10.jpg" alt=""></figure>
+                      <div class="overlay">
+                        <div class="box">
+                          <div class="content"> <a href="images/New-nhm/Gallery/g10.jpg" class="lightbox-image">+</a>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+				 
+                </div>
+              </div>
+            </section>
+
+<script src="http://rainbowdesign.in/themes/Medini/js/owl.carousel.min.js"></script> 
+<script src="http://rainbowdesign.in/themes/Medini/js/jquery.fancybox.pack.js"></script>
+    
+    <!--- photo Gallery End---->
+    
+    
+    <!---photo Gallery  script---->
+	 <script>
+         (function($) {
+	
+	"use strict";
+	
+	//Hide Loading Box (Preloader)
+	$(window).on('load',function(){
+		var pre_loader = $('.preloader')
+		pre_loader.fadeOut('slow',function(){$(this).remove();});
+	});
+	
+	//Update header style + Scroll to Top	
+	$(window).on('scroll', function() {
+        if ($(window).scrollTop() > 117) {
+            $('.header-main').addClass('fixed-header');
+			$('.scroll-to-top').fadeIn(300);
+        } else {
+            $('.header-main').removeClass('fixed-header');
+			$('.scroll-to-top').fadeOut(300);
+        }
+    });
+	
+	//Submenu Dropdown Toggle
+	if($('.header-main li.dropdown ul').length){
+		$('.header-main li.dropdown').append('<div class="dropdown-btn"><span class="fa fa-angle-down"></span></div>');
+		
+		//Dropdown Button
+		$('.header-main li.dropdown .dropdown-btn').on('click', function() {
+			$(this).prev('ul').slideToggle(500);
+		});
+		
+		
+		//Disable dropdown parent link
+		$('.navigation li.dropdown > a').on('click', function(e) {
+			e.preventDefault();
+		});
+	}
+
+	//Accordion Box
+	if ($('.accordion-block').length) {
+		$('.accordion-block .accordion-btn').on('click', function() {
+			if ($(this).hasClass('active') !== true) {
+				$('.accordion-block .accordion-btn').removeClass('active');
+			}
+	
+			if ($(this).next('.accordion-description').is(':visible')) {
+				$(this).removeClass('active');
+				$(this).next('.accordion-description').slideUp(500);
+			} else {
+				$(this).addClass('active');
+				$('.accordion-block .accordion-description').slideUp(500);
+				$(this).next('.accordion-description').slideDown(500);
+			}
+		});
+	}
+
+	// Scroll to a Specific Div
+	if($('.scroll-to-target').length){
+		$(".scroll-to-target").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 1000);
+	
+		});
+	}
+
+	//gallery-slider-area
+	$('.gallery-slider-area').owlCarousel({
+		loop:true,
+		margin:15,
+		nav:false,
+		smartSpeed: 3000,
+		autoplay: 4000,
+		navText: [ '<span class="fa fa-angle-left"></span>', '<span class="fa fa-angle-right"></span>' ],
+		responsive:{
+			0:{
+				items:1
+			},
+			400:{
+				items:2
+			},
+			600:{
+				items:3
+			},
+			800:{
+				items:4
+			},
+			1200:{
+				items:5
+			}
+		}
+	});
+		
+	
+
+	// Search Toggle Btn
+	    if($('.toggle-search').length){
+	        $('.toggle-search').on('click', function() {
+	            $('.header-search-area').slideToggle(300);
+	        });
+	    }
+
+	//Custom Seclect Box
+	if($('.custom-select-box').length){
+		$('.custom-select-box').selectmenu().selectmenu('menuWidget').addClass('overflow');
+	}	
+	
+	//LightBox / Fancybox
+	if($('.lightbox-image').length) {
+		$('.lightbox-image').fancybox({
+			openEffect  : 'elastic',
+			closeEffect : 'elastic',
+			helpers : {
+				media : {}
+			}
+		});
+	}
+	
+	//=== Contact Form Validation ===
+	if($("#contact-form").length){
+		$("#contact-form").validate({
+			submitHandler: function(form) {
+			  var form_btn = $(form).find('button[type="submit"]');
+			  var form_result_div = '#form-result';
+			  $(form_result_div).remove();
+			  form_btn.before('<div id="form-result" class="alert alert-success" role="alert" style="display: none;"></div>');
+			  var form_btn_old_msg = form_btn.html();
+			  form_btn.html(form_btn.prop('disabled', true).data("loading-text"));
+			  $(form).ajaxSubmit({
+				dataType:  'json',
+				success: function(data) {
+				  if( data.status == 'true' ) {
+					$(form).find('.form-control').val('');
+				  }
+				  form_btn.prop('disabled', false).html(form_btn_old_msg);
+				  $(form_result_div).html(data.message).fadeIn('slow');
+				  setTimeout(function(){ $(form_result_div).fadeOut('slow') }, 6000);
+				}
+			  });
+			}
+		});
+	}
+
+	// Fact Counter	
+	$(window).on('scroll', function() {
+		if($('.fun-fact-counter').length){
+			$('.fun-fact-counter .column.animated').each(function() {
+		
+				var $t = $(this),
+					n = $t.find(".count-text").attr("data-stop"),
+					r = parseInt($t.find(".count-text").attr("data-speed"), 10);
+					
+				if (!$t.hasClass("counted")) {
+					$t.addClass("counted");
+					$({
+						countNum: $t.find(".count-text").text()
+					}).animate({
+						countNum: n
+					}, {
+						duration: r,
+						easing: "linear",
+						step: function() {
+							$t.find(".count-text").text(Math.floor(this.countNum));
+						},
+						complete: function() {
+							$t.find(".count-text").text(this.countNum);
+						}
+					});
+				}
+			});
+		}
+	});
+	
+	// Scroll to a Specific Div
+	if($('.scroll-to-target').length){
+		$(".scroll-to-target").on('click', function() {
+			var target = $(this).attr('data-target');
+		   // animate
+		   $('html, body').animate({
+			   scrollTop: $(target).offset().top
+			 }, 10);
+	
+		});
+	}
+
+	// Elements Animation
+	if($('.wow').length){
+		var wow = new WOW(
+		  {
+			boxClass:     'wow',      // animated element css class (default is wow)
+			animateClass: 'animated', // animation css class (default is animated)
+			offset:       0,          // distance to the element when triggering the animation (default is 0)
+			mobile:       false,       // trigger animations on mobile devices (default is true)
+			live:         true       // act on asynchronously loaded content (default is true)
+		  }
+		);
+		wow.init();
+	}
+
+    })(window.jQuery);
+    </script>
+    
+    <!--Map script-->
+    
+    <script>
+        var map;
+var targetSVG = "M9,0C4.029,0,0,4.029,0,9s4.029,9,9,9s9-4.029,9-9S13.971,0,9,0z M9,15.93 c-3.83,0-6.93-3.1-6.93-6.93S5.17,2.07,9,2.07s6.93,3.1,6.93,6.93S12.83,15.93,9,15.93 M12.5,9c0,1.933-1.567,3.5-3.5,3.5S5.5,10.933,5.5,9S7.067,5.5,9,5.5 S12.5,7.067,12.5,9z";
+AmCharts.ready(function() {
+    map = new AmCharts.AmMap();
+    map.panEventsEnabled = true;
+    map.backgroundColor = "#74b7eb9c";
+    map.backgroundAlpha = 1;
+
+    map.zoomControl.panControlEnabled = true;
+    map.zoomControl.zoomControlEnabled = true;
+
+    var dataProvider = {
+        map: "indiaLow",
+        getAreasFromMap: false,
+        images: [
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Bihar</h2><ul class='hnnh><li>ASHAs In Position='95651'</li><li>ASHAs In Position='95651'</li><li>24x7 PHC Facilities='464' </li> <li>FRU ='118'</li> <li>MMU='0'</li> <li>ERS='1891'</li></ul>",
+            latitude: 25.9644,
+            longitude: 85.2722,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Chhattisgarh</h2><ul class='hnnh><li>ASHAs In Position='72000' </li><li>ASHAs In Position='72000' </li><li>24x7 PHC Facilities='223' </li> <li>FRU='41'</li> <li>MMU='30'</li> <li>ERS='706'</li></ul>",
+            latitude: 21.2787,
+            longitude:81.8661,  
+          }, 
+          {
+            type: "circle",
+            color: "white",	
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Himachal Pradesh </h2><ul class='hnnh><li>ASHAs In Position='8619'</li><li>ASHAs In Position='8619'</li><li>24x7 PHC Facilities='0'</li> <li>FRU='24'</li> <li>MMU='10'</li> <li>ERS='354'</li> </ul>",
+            latitude: 32.1024,
+            longitude: 77.5619,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>J&K</h2><ul class='hnnh><li>ASHAs In Position='13997' </li><li>ASHAs In Position='13997'</li> <li>24x7 PHC Facilities='186'</li> <li>FRU='52'</li> <li>MMU='10'</li> <li>ERS='489'</li></ul>",
+            latitude: 33.2778,
+            longitude: 75.3412,  
+          }, 
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Jharkhand</h2><ul class='hnnh><li>ASHAs In Position='42426'</li><li>ASHAs In Position='42426'</li><li>24x7 PHC Facilities='217' </li> <li>FRU ='53'</li> <li>MMU='40'</li> <li>ERS='1333'</li></ul>",
+            latitude: 23.6913,
+            longitude: 85.2722,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Madhya Pradesh</h2><ul class='hnnh><li>ASHAs In Position='68125'</li><li>ASHAs In Position='68125'</li> <li>24x7 PHC Facilities='840'</li> <li>FRU='147'</li> <li>MMU='72'</li> <li>ERS='2061'</li></ul>",
+            latitude:  22.9734,
+            longitude: 78.6569,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Odisha</h2><ul class='hnnh><li>ASHAs In Position='49734'</li><li>ASHAs In Position='49734'</li><li>24x7 PHC Facilities='75' </li> <li>FRU='71'</li> <li>MMU='9'</li> <li>ERS='1366'</li> </ul>",
+            latitude: 20.2376,
+            longitude: 84.2700,  
+          }, 
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Rajasthan</h2><ul class='hnnh><li>ASHAs In Position='54056'</li><li>ASHAs In Position='54056'</li><li>24x7 PHC Facilities='2529' </li> <li>FRU='122'</li> <li>MMU='26'</li> <li>ERS='1094'</li></ul>",
+            latitude:  27.0238,
+            longitude: 74.2179,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Uttar Pradesh</h2><ul class='hnnh><li>ASHAs In Position='175741'</li><li>ASHAs In Position='175741'</li><li>24x7 PHC Facilities='439' </li> <li>FRU='334'</li> <li>MMU='170'</li> <li>ERS='4845'</li> </ul>",
+            latitude:  27.5706,
+            longitude: 80.0982,  
+          },  
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Uttarakhand</h2><ul class='hnnh><li>ASHAs In Position='11996'</li><li>ASHAs In Position='11996'</li><li>24x7 PHC Facilities='68'</li> <li>FRU='50'</li> <li>MMU='0'</li> <li>ERS='400'</li></ul>",
+            latitude:  30.0668,
+            longitude: 79.0193,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Arunachal Pradesh</h2><ul class='hnnh><li>ASHAs In Position='4051'</li><li>ASHAs In Position='4051'</li><li>24x7 PHC Facilities='64' </li> <li>FRU='14'</li> <li>MMU='16'</li> <li>ERS='261'</li></ul>",
+            latitude: 28.2180,
+            longitude: 94.7278,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Assam</h2><ul class='hnnh><li>ASHAs In Position='33696'</li><li>ASHAs In Position='33696'</li><li>24x7 PHC Facilities='314' </li> <li>FRU='87'</li> <li>MMU='130'</li> <li>ERS='800'</li> </ul>",
+            latitude: 26.2006,
+            longitude: 92.9376,  
+          }, 
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Manipur</h2><ul class='hnnh><li>ASHAs In Position='4135'</li><li>ASHAs In Position ='4135'</li><li>24x7 PHC Facilities='66'</li> <li>FRU='8'</li> <li>MMU='0'</li> <li>ERS='40'</li> </ul>",
+            latitude:  24.6637,
+            longitude: 93.9063,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Meghalaya</h2><ul class='hnnh><li>ASHAs In Position='7069'</li><li>ASHAs In Position='7069'</li><li>24x7 PHC Facilities='65'</li> <li>FRU='13'</li> <li>MMU='0'</li> <li>ERS='192'</li> </ul>",
+            latitude:  25.4670,
+            longitude: 91.3662,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Mizoram</h2><ul class='hnnh><li>ASHAs In Position='1091'</li><li>ASHAs In Position='1091'</li><li>24x7 PHC Facilities='57'</li> <li>FRU='15'</li> <li>MMU='9'</li> <li>ERS='65'</li></ul>",
+            latitude:  23.1645,
+            longitude: 92.9376,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Nagaland</h2><ul class='hnnh><li>ASHAs In Position ='2152'</li><li>ASHAs In Position='2152'</li><li>24x7 PHC Facilities='29' </li> <li>FRU='16'</li> <li>MMU='11'</li> <li>ERS='93'</li> </ul>",
+            latitude:  26.1584,
+            longitude: 94.5624,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Sikkim</h2><ul class='hnnh><li>ASHAs In Position='676'</li><li>ASHAs In Position='676'</li><li>24x7 PHC Facilities='24'</li> <li>FRU='3'</li> <li>MMU='0'</li> <li>ERS='8'</li></ul>",
+            latitude:  27.3516,
+            longitude: 88.3239,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Tripura</h2><ul class='hnnh><li>ASHAs In Position='7732'</li><li>ASHAs In Position='7732'</li><li>24x7 PHC Facilities='94'</li> <li>FRU='13'</li> <li>MMU='12'</li> <li>ERS='50'</li></ul>",
+            latitude:  23.5639,
+            longitude: 91.6761,  
+          },
+          {
+                        
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Andhra Pradesh</h2><ul class='hnnh><li>ASHAs In Position='41418'</li><li>ASHAs In Position='41418'</li><li>24x7 PHC Facilities='1144' </li> <li>FRU ='238'</li> <li>MMU='67'</li> <li>ERS='628'</li> </ul>",
+            latitude: 15.9129,
+            longitude: 79.7400,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: " ",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Goa </h2><ul class='hnnh><li>ASHAs In Position='0'</li><li>ASHAs In Position='0'</li><li>24x7 PHC Facilities='13'</li> <li>FRU='2'</li> <li>MMU='0'</li> <li>ERS='31'</li> </ul>",
+            latitude: 15.2993,
+            longitude: 74.1240,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: " ",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Gujarat </h2><ul class='hnnh><li>ASHAs In Position='44838'</li><li>ASHAs In Position='44838'</li><li>24x7 PHC Facilities='485'</li> <li>FRU='121'</li> <li>MMU ='79'</li> <li>ERS='620'</li> </ul>",
+            latitude: 22.6708,
+            longitude: 71.5724,  
+          },
+          {
+            type: "circle",
+            color: "white",	
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Haryana </h2><ul class='hnnh><li>ASHAs In Position ='20537'</li><li>ASHAs In Position ='20537'</li><li>24x7 PHC Facilities='235'</li> <li>FRU='81'</li> <li>MMU='58'</li> <li>ERS='557'</li></ul>",
+            latitude: 29.0588,
+            longitude: 76.0856,  
+          },		
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Karnataka </h2><ul class='hnnh><li>ASHAs In Position='40081'</li><li>ASHAs In Position='40081'</li><li>24x7 PHC Facilities='960'</li> <li>FRU='201'</li> <li>MMU='0'</li> <li>ERS='715'</li> </ul>",
+            latitude: 15.3173,
+            longitude: 75.7139,  
+          }, 
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Kerala </h2><ul class='hnnh><li>ASHAs In Position='26177'</li><li>ASHAs In Position='26177'</li><li>24x7 PHC Facilities='171'</li> <li>FRU='87'</li> <li>MMU='36'</li> <li>ERS='315'</li></ul>",
+            latitude: 10.1632,
+            longitude: 76.6413,  
+          }, 
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Maharashtra</h2><ul class='hnnh><li>ASHAs In Position ='79037'</li><li>ASHAs In Position='79037'</li><li>24x7 PHC Facilities='1784' </li> <li>FRU='268'</li> <li>MMU='103'</li> <li>ERS='4096'</li></ul>",
+            latitude:  19.7515,
+            longitude: 75.7139,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Punjab</h2><ul class='hnnh><li>ASHAs In Position='19849'</li><li>ASHAs In Position ='19849'</li><li>24x7 PHC Facilities='210' </li> <li>FRU='186'</li> <li>MMU='33'</li> <li>ERS='325'</li></ul>",
+            latitude:  31.1471,
+            longitude: 75.3412,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Tamil Nadu</h2><ul class='hnnh><li>ASHAs In Position='4886'</li><li>ASHAs In Position='4886'</li><li>24x7 PHC Facilities='1443' </li> <li>FRU='557'</li> <li>MMU='425'</li> <li>ERS='1353'</li> </ul>",
+            latitude:  11.1271,
+            longitude: 78.6569,  
+          }, 
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Telangana</h2><ul class='hnnh><li>ASHAs In Position='27137'</li><li>ASHAs In Position='27137'</li><li>24x7 PHC Facilities='326'</li> <li>FRU='127'</li> <li>MMU='53'</li> <li>ERS='790'</li> </ul>",
+            latitude:  18.1124,
+            longitude: 79.0193,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>West Bengal</h2><ul class='hnnh><li>ASHAs In Position='70694'</li><li>ASHAs In Position='70694'</li><li>24x7 PHC Facilities='185'</li> <li>FRU='155'</li> <li>MMU='49'</li> <li>ERS='2941'</li></ul>",
+            latitude:  22.9868,
+            longitude: 87.8550,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>A & N Islands</h2><ul class='hnnh><li>ASHAs In Position='432'</li><li>ASHAs In Position='432'</li><li>24x7 PHC Facilities='22'</li> <li>FRU='1'</li> <li>MMU='0'</li> <li>ERS='26'</li></ul>",
+            latitude: 10.7449,
+            longitude: 92.5000,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Chandigarh</h2><ul class='hnnh><li>ASHAs In Position ='0'</li><li>ASHAs In Position ='0'</li><li>24x7 PHC Facilities ='0'</li> <li>FRU='4'</li> <li>MMU='0'</li> <li>ERS='6'</li></ul>",
+            latitude: 30.7333,
+            longitude: 76.7794,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>D & N Haveli/ Daman & Diu </h2><ul class='hnnh><li>ASHAs In Position='472'</li><li>ASHAs In Position='472'</li><li>24x7 PHC Facilities='11'</li> <li>FRU='4'</li> <li>MMU='0'</li> <li>ERS='0'</li></ul>",
+            latitude: 20.1809,
+            longitude: 73.0169,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Delhi </h2><ul class='hnnh><li>ASHAs In Position='6746'</li><li>ASHAs In Position='6746'</li><li>24x7 PHC Facilities='0' </li> <li>FRU='34'</li> <li>MMU='1'</li> <li>ERS='29'</li></ul>",
+            latitude: 28.7041,
+            longitude: 77.1025,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Ladakh </h2><ul class='hnnh><li>ASHAs In Position='654'</li><li>ASHAs In Position='654'</li><li>24x7 PHC Facilities='12' </li> <li>FRU='7'</li> <li>MMU='0'</li> <li>ERS='27'</li> </ul>",
+            latitude: 34.2268,
+            longitude: 77.5619,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Lakshadweep</h2><ul class='hnnh><li>ASHAs In Position='110'</li><li>ASHAs In Position='110'</li><li>24x7 PHC Facilities='4'</li> <li>FRU='6'</li> <li>MMU='0'</li> <li>ERS='17'</li></ul>",
+            latitude: 10.0000,
+            longitude: 73.0000,  
+          },
+          {
+            type: "circle",
+            color: "white",
+            id: "Tours",
+            label: "",
+            labelColor: "white",
+            labelFontWeight: "bold",
+            labelFontSize: 14,
+            labelPosition: "bottom",
+            labelShiftX: 6,
+            svgPath: targetSVG,
+            title: "<h2 class='amcharts-map-image-Tours'>Puducherry</h2><ul class='hnnh><li>ASHAs In Position='323'</li><li>ASHAs In Position='323'</li><li>24x7 PHC Facilities='23' </li> <li>FRU='4'</li> <li>MMU='4'</li> <li>ERS='10'</li> </ul>",
+            latitude:  11.9416,
+            longitude: 79.8083,  
+          }         
+        ]
+    };
+
+    map.dataProvider = dataProvider;
+
+    map.areasSettings = {
+        autoZoom: false,
+        color: "#CDCDCD",
+        colorSolid: "#5EB7DE",
+        selectedColor: "#5EB7DE",
+        outlineColor: "#666666",
+        rollOverColor: "#88CAE7",
+        rollOverOutlineColor: "#ffffff",
+        selectable: false,
+        balloonText: "[[title]]"
+    };
+
+    map.addListener('clickMapObject', function(event) {
+        // deselect the area by assigning all of the dataProvider as selected object
+        map.selectedObject = map.dataProvider;
+
+        // toggle showAsSelected
+        event.mapObject.showAsSelected = !event.mapObject.showAsSelected;
+
+        // bring it to an appropriate color
+        map.returnInitialColor(event.mapObject);
+
+        // let's build a list of currently selected states
+        var states = [];
+        for (var i in map.dataProvider.areas) {
+            var area = map.dataProvider.areas[i];
+            if (area.showAsSelected) {
+                states.push(area.title);
+            }
+        }
+    });
+    map.export = {
+        enabled: true
+    }
+
+    map.write("chartdiv");
+});
+        </script>      
+    
+     <script src="https://www.amcharts.com/lib/3/themes/none.js"></script>
+    <!---photo Gallery  script---->
+    
+	<div class="review-slider hide-for-search" style="margin-top: -80px">
+				
+		<!--<div class="join_nhm"><a target="blank" href="index4.php?lang=1&level=0&linkid=363&lid=492"><img class="" src="images/register_nhm/join_nhm.png"></a></div>-->
+
+    <script type="applisalonion/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+       <script  src="js/jquery.flexisel.js"></script>
+	  
+	   <script type="text/javascript" src="js/move-top.js"></script>
+	   <script type="text/javascript" src="js/easing.js"></script>
+       <script type="text/javascript" src="js/jquery-1.11.1.min.js"></script>
+       <script src="js/newsbox.js"></script>
+     
+	<!--//news-->
+
+	<!--/start-footer-section-->
+	﻿
+      
+
+  
+    
+   <!-- Modal ======================Dharam============================================-->
+<div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module1/Assessment-of-mild-respiratory-distress.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+ 
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module1/Assessment-of-mild-respiratory-distress.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+   <!-- Modal 1 -->
+  <div class="modal fade" id="myModal1" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module1/Assessment-of-severe-respiratory-distress.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div> 
+    </div>
+  </div>
+  
+  <!-- Modal 2 -->
+  <div class="modal fade" id="myModal2" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module1/Indications-preparations-and-trouble-shooting-for-endotracheal-intubation.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Modal 3 -->
+  <div class="modal fade" id="myModal3" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module1/Optimal-surfactant-usage.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  
+  <!-- Modal 4 -->
+  <div class="modal fade" id="myModal4" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module1/Stabilisation-and-transport-of-a-neonate-while-in-Respiratory-Distress.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 5 -->
+  <div class="modal fade" id="myModal5" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/How-to-use-an-oxygen-cylinder.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 6 -->
+  <div class="modal fade" id="myModal6" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/How-to-use-FiO2-monitor.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 7 -->
+  <div class="modal fade" id="myModal7" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/How-to-use-Oxygen-concentrator.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Modal 8 -->
+  <div class="modal fade" id="myModal8" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/How-to-use-Pulse-Oximeter-N.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 9 -->
+  <div class="modal fade" id="myModal9" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/Methods-of-oxygen-administration-Oxygen-delivery-systems-equipment.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 10 -->
+  <div class="modal fade" id="myModal10" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+			<source src="https://nhm.gov.in/Child-health/Videos/Module2/Monitoring-a-baby-receiving-oxygen-therapy.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 11 -->
+  <div class="modal fade" id="myModal11" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+			<source src="https://nhm.gov.in/Child-health/Videos/Module2/SpO2-Targets-for-different-settings.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 12 -->
+  <div class="modal fade" id="myModal12" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/Titration-of-oxygen-as-per-SpO2-oxygen-titration-protocol.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 13 -->
+  <div class="modal fade" id="myModal13" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+				<source src="https://nhm.gov.in/Child-health/Videos/Module2/Use-of-oxygen-during-resuscitation.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div><!-- Modal 14 -->
+  <div class="modal fade" id="myModal14" role="dialog">
+    <div class="modal-dialog">
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/Use-of-oxygen-during-transport-or-other-special-situations.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+  <!-- Modal 15 -->
+  <div class="modal fade" id="myModal15" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module2/Weaning-and-discontinuation-of-oxygen-therapy-in-neonates.mp4" type="video/mp4">
+		Your browser does not support the video tag.
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modulel modal 16 -->
+  <div class="modal fade" id="myModal16" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module3/How-is-a-newborn-connected-to-a-ventilator-CPAP.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 17 -->
+  <div class="modal fade" id="myModal17" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module3/How-to-fix-binasal-prongs.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 18 -->
+  <div class="modal fade" id="myModal18" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module3/How-to-fix-the-HHHFNC-interface-for-a-newborn-baby.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 20 -->
+  <div class="modal fade" id="myModal19" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module3/How-to-fix-the-ram-cannula-interface-for-a-newborn-baby.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  <!-- Modal 21 -->
+  <div class="modal fade" id="myModal19" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+        </div>
+        <div class="">
+         <video width="600" height="340" controls>
+		<source src="https://nhm.gov.in/Child-health/Videos/Module3/How-to-set-up-a-bubble-CPAP-machine.mp4" type="video/mp4">
+		</video>
+        </div>
+      </div>
+    </div>
+  </div>
+  
+ 
+    
+    
+ 
+        <!--=============================================================================-->
+
+
+
+<!--/start-footer-section-->
+<div class="footer-section">
+    <div class="container text-center">
+        <div class="footer-grids wow bounceIn animated" data-wow-delay="0.4s">
+            
+            
+            <div class="col-md-12 footer-grid flickr" style="">
+                <!--<h4>Useful Links</h4>
+                <div class="border2"></div>-->
+                <div class="flickr-grids">
+                                                <div class="flickr-grid">
+                                <a href="http://www.nhp.gov.in/"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/13660828271478855488.jpg"  alt="National Health Portal" title="National Health Portal"/>
+                                </a>
+                            </div>
+                                                        <div class="flickr-grid">
+                                <a href="http://india.gov.in/"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/93414167091478855506.jpg"  alt="india.gov.in" title="india.gov.in"/>
+                                </a>
+                            </div>
+                                                        <div class="flickr-grid">
+                                <a href="https://www.mygov.in/"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/2475277591478855522.jpg"  alt="www.mygov.in" title="www.mygov.in"/>
+                                </a>
+                            </div>
+                                                        <div class="flickr-grid">
+                                <a href="https://nhm.gov.in/index4.php?lang=1&amp;level=0&amp;linkid=355&amp;lid=454"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/85717934111478855538.png"  alt="RTI" title="RTI"/>
+                                </a>
+                            </div>
+                                                        <div class="flickr-grid">
+                                <a href="https://hmis.mohfw.gov.in/#!/"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/19272197381543213624.jpg"  alt="HMIS Portal Link" title="HMIS Portal Link"/>
+                                </a>
+                            </div>
+                                                        <div class="flickr-grid">
+                                <a href="https://nhm.gov.in/index4.php?lang=1&amp;level=0&amp;linkid=457&amp;lid=686"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/47947878761532345057.jpg"  alt="NHM MIS Reports" title="NHM MIS Reports"/>
+                                </a>
+                            </div>
+                                                        <div class="flickr-grid">
+                                <a href="http://nhsrcindia.org/"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/60995344041591262613.png"  alt="NHRSC" title="NHRSC"/>
+                                </a>
+                            </div>
+                                                        <div class="flickr-grid">
+                                <a href="http://www.nhinp.org/"  target="_blank" >
+                                    <img src="https://nhm.gov.in/WriteReadData/p92g8/34092455811591264511.jpg"  alt="NHINP" title="NHINP"/>
+                                </a>
+                            </div>
+                                                <div class="clearfix"> </div>
+                </div>
+            </div>
+            <!--<div class="col-md-4 footer-grid tweet">
+                <h4 style="visibility: hidden;">Latest <span>Tweets</span></h4>
+                <div class="border2" style="visibility: hidden;"></div>
+                <ul class="visitor">
+                    <li>
+                        Visitors : 40318317                    </li>
+                    <li>
+                        Updated On : May 14, 2026                    </li>
+                </ul>
+            </div>-->
+            <div class="clearfix"></div>
+
+
+            <div class="col-md-12 footer-grid flickr" style="margin:20px 0px;">
+                
+                <ul class="tag">
+                                                <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=9&amp;lid=11" >
+                                    Disclaimer                                </a>
+                            </li>
+                                                        <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=8&amp;lid=13" >
+                                    Copyright Policy                                </a>
+                            </li>
+                                                        <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=21&amp;lid=26" >
+                                    Hyper Linking Policy                                </a>
+                            </li>
+                                                        <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=11&amp;lid=15" >
+                                    Terms & Conditions                                </a>
+                            </li>
+                                                        <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=10&amp;lid=17" >
+                                    Privacy Policy                                </a>
+                            </li>
+                                                        <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=13&amp;lid=19" >
+                                    Website Policies                                </a>
+                            </li>
+                                                        <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=7&amp;lid=21" >
+                                    Accessibility Statement                                </a>
+                            </li>
+                                                        <li>
+                                <a href="index4.php?lang=1&amp;level=0&amp;linkid=12&amp;lid=23" >
+                                    Web Information Manager                                </a>
+                            </li>
+                                            </ul>
+            </div>
+            <div class="col-md-12">
+            <span style="color: white;padding:4px; font-weight:500; border:1px solid #ddd; font-size: 14px ! important;">Visitors : 40318317</span>
+            <span style="color: white;font-size: 14px ! important;font-weight: 500;padding: 4px;font-weight: 500;border: 1px solid #ddd; margin-left: 8px;">Updated On : May 14, 2026</span>
+        </div>
+                    
+            <!--<div class="container" style="padding:-5%;">
+                <div class="col-md-8 "></div>
+                <div class="col-md-4 ">
+                    <div class="col-md-12 ">
+                        <p>Visitors : 40318317</p>
+                    </div>
+                    <div class="col-md-12 ">
+                        Updated On : May 14, 2026                    </div>
+                </div>
+            </div>-->
+        </div>
+    </div>
+</div>
+<!--//end-footer-section-->
+<!--//footer-->
+<div class="footer-bottom">
+    <div class="container">
+        <div class="col-md-12 content-own"><p style="text-align: center; padding: 7px;font-weight: 600;">Content owned & Provided by National Health Mission, Ministry of Health & Family Welfare, Government of India</p><!--<p style="text-align: center; padding: 7px;"></*?php echo Content_Owned; ?> </p></div>
+        <!--<div class="col-md-2">
+            <a href="./brokenlinks.php?lang=</*?php echo $langid;?>" target="_blank">
+                <img src="images/</*?php if($langid==2){?>b-link-hi.jpg </*?php }else{?>b-link.jpg</*?php }?>" width="136" height="30" alt="Report Broken Links" class="bklink" />
+            </a>
+        </div>-->
+        
+    </div>
+</div>
+<!--start-smooth-scrolling-->
+    <!--end-smooth-scrolling-->
+    <a href="#house" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+    <script src="js/bootstrap.js"></script>
+    <script type="text/javascript">
+
+        $(document).ready(function()
+        {
+            $().UItoTop({ easingType: 'easeOutQuart' });
+            // font increse......................
+            $('#fontResizer_add').click(function()
+            {
+                curSize= parseInt($('.location').css('font-size')) + 2;
+                if(curSize<=22)
+                {
+                    $(".location").css({'font-size': curSize, 'transition': 'all .5s ease-in-out'});
+                }
+                curSize1= parseInt($('.title-area h1').css('font-size')) + 2;
+                if(curSize1<=38)
+                {
+                    $(".title-area h1").css({'font-size': curSize1, 'transition': 'all .5s ease-in-out'});
+                }
+                curSize2= parseInt($('.menu--francisco li a').css('font-size')) + 4;
+                if(curSize2<=22)
+                {
+                    $(".menu--francisco li a").css({'font-size': curSize2, 'transition': 'all .5s ease-in-out'});
+                }
+                curSize3= parseInt($('div').css('font-size')) + 2;
+                if(curSize3<=28)
+                {
+                    $("div").css({'font-size': curSize3, 'transition': 'all .5s ease-in-out'});
+                }
+            });
+            // font Deincrese......................
+            $('#fontResizer_minus').click(function()
+            {
+                curSize= parseInt($('.location').css('font-size')) - 2;
+                if(curSize>=10)
+                {
+                    $('.location').css({'font-size': curSize, 'transition': 'all .5s ease-in-out'});
+                }
+                curSize1= parseInt($('.title-area h1').css('font-size')) - 2;
+                if(curSize1>=10)
+                {
+                    $(".title-area h1").css({'font-size': curSize1, 'transition': 'all .5s ease-in-out'});
+                }
+                curSize2= parseInt($('.menu--francisco li a').css('font-size')) - 4;
+                if(curSize2>=10)
+                {
+                    $(".menu--francisco li a").css({'font-size': curSize2, 'transition': 'all .5s ease-in-out'});
+                }
+                curSize3= parseInt($('div').css('font-size')) - 2;
+                if(curSize3>=10)
+                {
+                    $("div").css({'font-size': curSize3, 'transition': 'all .5s ease-in-out'});
+                }
+            });
+            // font Reset..........................
+            $('#fontResizer_reset').click(function()
+            {
+                var allElems = $('*');
+                for(var counter = 0; counter < allElems.length; counter++)
+                {
+                    $(allElems[counter]).css('font-size', '');
+                }
+            });
+            // for dark theme.....................
+            $('#dark').click(function()
+            {
+                $(".header-strip").css({'background': '#000', 'color': '#fff'});
+                $(".light").css({'background': '#d3d3d3', 'color': 'black'});
+                $(".header-middle").css({'background': '#555555', 'color': '#fff'});
+                $(".for-dynamic-css-header, .header-top li a").css({'background': '#000', 'color': '#fff'});
+                $(".generated-nav-background, .breadcrumb").css({'background': '#555555', 'color': '#fff'});
+                $("a").css({'color': '#fff'});
+                $(".services").css({'background': '#000000', 'color': '#fff'});
+                $(".panel, .panel li a, panel-footer").css({'background': '#555555', 'color': '#fff'});
+                $(".grid_2").css({'background': '#555555', 'color': '#fff'});
+                $(".grid_2 p").css({'color': '#fff'});
+                $(".review-slider, .single, .single p span, .right-sublinks, .right-sublinks li").css({'background': '#000000', 'color': '#fff'});
+                $(".toggle_heading").css({'background': '#555555','color': '#fff'});
+                $("table, p, span").css({'color': '#fff'});
+                $("table span").css({'background': '#000000','color': '#fff'});
+                $(".tree").css({'background': '#555555','color': '#fff'});
+                $("table tr td").css({'color': '#fff'});
+                $(".contentmain1 #cmscontent a").css({'color': '#fff !important'});
+                $(".footer-bottom").css({'background': '#000000','color': '#fff'});
+                $(".gallery").css({'background': '#000000','color': '#fff'});
+                $("#cmscontent strong").css({'background': '#000000','color': '#fff'});
+                $("#cmscontent table th").css({'background': '#0000','color': '#fff'});
+                $("#cmscontent table tr").css({'background': '#000000','color': '#fff'});
+                $("#cmscontent table").css({'background': '#000000','color': '#fff'});
+                $("#cmscontent ul li").css({'background': '#000000','color': '#fff'});
+                $(".search_full").css({'background': '#555555','color': '#fff'});
+                $(".noResultError").css({'background': '#000000','color': '#fff'});
+                $(".alert").css({'background': '#000000','color': '#fff'});
+                $.ajax({
+                    url: 'storesession.php',
+                    type: 'POST',
+                    dataType : 'json',
+                    success: function(data) {
+                        console.log(data);
+                    }
+                });
+            });
+            // for light theme.....................
+            $('#light').click(function()
+            {
+                $(".header-strip").css({'background': '', 'color': ''});
+                $(".light").css({'background': '', 'color': ''});
+                $(".header-middle").css({'background': '', 'color': ''});
+                $(".for-dynamic-css-header, .header-top li a").css({'background': '', 'color': ''});
+                $(".generated-nav-background, .breadcrumb").css({'background': '', 'color': ''});
+                $("a").css({'color': ''});
+                $(".services").css({'background': '', 'color': ''});
+                $(".panel, .panel li a, panel-footer").css({'background': '', 'color': ''});
+                $(".grid_2").css({'background': '', 'color': ''});
+                $(".grid_2 p").css({'color': ''});
+                $(".review-slider, .single, .single p span, .right-sublinks, .right-sublinks li").css({'background': '', 'color': ''});
+                $(".toggle_heading").css({'background': '','color': ''});
+                $("table, p, span").css({'color': ''});
+                $("table span").css({'background': '','color': ''});
+                $(".tree").css({'background': '','color': ''});
+                $("table tr td").css({'color': ''});
+                $(".contentmain1 #cmscontent a").css({'color': ''});
+                $(".footer-bottom").css({'background': '','color': ''});
+                $(".gallery").css({'background': '','color': ''});
+                $("#cmscontent strong").css({'background': '','color': ''});
+                $("#cmscontent table th").css({'background': '','color': ''});
+                $("#cmscontent table tr").css({'background': '','color': ''});
+                $("#cmscontent table").css({'background': '','color': ''});
+                $("#cmscontent ul li").css({'background': '','color': ''});
+                $(".search_full").css({'background': '','color': ''});
+                $(".noResultError").css({'background': '','color': ''});
+                $(".alert").css({'background': '','color': ''});
+                $.ajax({
+                    url: 'storesession_unset.php',
+                    type: 'POST',
+                    dataType : 'json',
+                    success: function(data) {
+                        console.log(data);
+                    }
+                });
+            });
+        });
+    </script>
+    <script type="text/javascript">
+        $(".news-section").bootstrapNews(
+        {
+            newsPerPage: 20,
+            autoplay: true,
+            pauseOnHover:true,
+            direction: 'up',
+            newsTickerInterval: 900,
+            onToDo: function ()
+            {
+                    //console.log(this);
+                }
+            });
+
+        $(".in-focus-section").bootstrapNews(
+        {
+            newsPerPage: 20,
+            autoplay: true,
+            pauseOnHover: true,
+            direction: 'down',
+            newsTickerInterval: 2500,
+            onToDo: function ()
+            {
+                    //console.log(this);
+                }
+            });
+            
+        $(".important-links-section").bootstrapNews(
+        {
+            newsPerPage: 20,
+            autoplay: true,
+            pauseOnHover:true,
+            direction: 'up',
+            newsTickerInterval: 4000,
+            onToDo: function ()
+            {
+                    //console.log(this);
+                }
+            });
+        $("#skip-1").click(function(){
+            $('html, body').animate({
+                scrollTop: $( $(this).attr('href') ).offset().top
+            }, 500);
+            return false;
+        });
+
+    $(document).ready(function($)
+    {        
+        $("a").click(function(e)
+        {
+            e.preventDefault();
+            var url=$(this).attr('href');
+            var exturl=$(this).attr('id');
+            var urlpage=url.split("?");
+            var ext=urlpage[0].substr(urlpage[0].length-3);
+            if(isExternal(url)==true && confirm("You are being redirected to external link.")==true){
+                window.open(url,"_blank");
+            }else if(urlpage[0]=="showlink.php" && exturl!=null && isExternal(exturl)==true){
+                if(confirm("You are being redirected to external link.")==true){
+                    window.open(url,"_blank");
+                }
+            }else if(urlpage[0]=="showlink.php" && exturl==null){
+                window.location.href=url;
+            }else if(urlpage[0]=="showlink.php"){
+                window.location.href=url;
+            }else if(ext=="pdf" || urlpage[0]=="showfile.php"){
+                window.open(url,"_blank");
+            }else if(isExternal(url)==false){
+                window.location.href=url;
+            }
+        });
+    });
+    function isExternal(url) {
+        var match = url.match(/^([^:\/?#]+:)?(?:\/\/([^\/?#]*))?([^?#]+)?(\?[^#]*)?(#.*)?/);
+        if (typeof match[1] === "string" && match[1].length > 0 && match[1].toLowerCase() !== location.protocol) return true;
+        if (typeof match[2] === "string" && match[2].length > 0 && match[2].replace(new RegExp(":("+{"http:":80,"https:":443}[location.protocol]+")?$"), "") !== location.host) return true;
+        return false;
+    }
+    $(document).ready(function(){
+            $('ul.nav.navbar-nav.menu__list > li:first > a').attr('target','');
+    });
+</script>
+</body>
+		
+    
+	<!--//end-footer-section-->
+</html>

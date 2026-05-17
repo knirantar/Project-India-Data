@@ -1,0 +1,26 @@
+{
+  "topic_slug": "pcos-pmos",
+  "topic_title": "Polycystic Ovary Syndrome and Polycystic Ovary Morphology: A Comprehensive Study",
+  "data_type": "clinical_guidelines",
+  "enabled_data_types": [
+    "research_papers",
+    "government_documents",
+    "structured_datasets",
+    "blogs",
+    "community_discussions",
+    "scientific_technical_data",
+    "metrics_numerical_data",
+    "event_data",
+    "clinical_guidelines"
+  ],
+  "url": "https://www.endocrine.org/clinical-practice-guidelines/polycystic-ovary-syndrome",
+  "title": null,
+  "source": "topic-config",
+  "published": null,
+  "sha256": "05789eb0b6d40b4141e17c25fc65e5d849aa34dd2a32fc14b0dbc1bf607bdbc0",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-17T05:46:24.666322+00:00",
+  "text_chars": 1731,
+  "raw_path": "data/pcos-pmos/raw/05789eb0b6d40b4141e17c25fc65e5d849aa34dd2a32fc14b0dbc1bf607bdbc0.html",
+  "text_path": "data/pcos-pmos/raw/05789eb0b6d40b4141e17c25fc65e5d849aa34dd2a32fc14b0dbc1bf607bdbc0.txt"
+}

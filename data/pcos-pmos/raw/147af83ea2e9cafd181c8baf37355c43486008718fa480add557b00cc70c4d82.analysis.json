@@ -1,0 +1,66 @@
+{
+  "document": {
+    "source_url": "https://www.pcosaa.org/",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "websites_html_pages",
+    "author": "",
+    "publisher": "PCOS Awareness Association",
+    "language": "",
+    "region": "",
+    "summary": "The PCOS Awareness Association aims to raise awareness of Polycystic Ovarian Syndrome (PCOS) and assist those diagnosed with this condition through educational services.",
+    "tags_topics": [
+      "PCOS",
+      "awareness",
+      "non-profit",
+      "health education"
+    ]
+  },
+  "claims": [
+    {
+      "claim_text": "The PCOS Awareness Association raises global awareness of PCOS.",
+      "evidence_text": "Our mission at the PCOS Awareness Association is to raise global awareness of Polycystic Ovarian Syndrome (PCOS).",
+      "source_url": "https://www.pcosaa.org/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The organization provides educational services to those affected by PCOS.",
+      "evidence_text": "We strive to break down barriers and offer educational services with the help of our dedicated volunteers.",
+      "source_url": "https://www.pcosaa.org/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "PCOS Awareness Association",
+      "description": "A non-profit organization focused on raising awareness and providing support for individuals affected by PCOS.",
+      "evidence_text": "Our mission at the PCOS Awareness Association is to raise global awareness of Polycystic Ovarian Syndrome (PCOS)."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.pcosaa.org/",
+      "title": "None",
+      "published": "None",
+      "evidence_text": "Our mission at the PCOS Awareness Association is to raise global awareness of Polycystic Ovarian Syndrome (PCOS)."
+    }
+  ],
+  "evidence_snippets": [
+    {
+      "text": "We aim to empower people with the knowledge needed to take charge of their well-being and combat the health complications associated with this disorder.",
+      "relevance": "This snippet highlights the organization's goal to empower individuals affected by PCOS.",
+      "source_url": "https://www.pcosaa.org/"
+    }
+  ],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The organization is a dedicated non-profit focused on health awareness."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,26 @@
+{
+  "topic_slug": "pcos-pmos",
+  "topic_title": "Polycystic Ovary Syndrome and Polycystic Ovary Morphology: A Comprehensive Study",
+  "data_type": "websites_html_pages",
+  "enabled_data_types": [
+    "research_papers",
+    "government_documents",
+    "structured_datasets",
+    "blogs",
+    "community_discussions",
+    "scientific_technical_data",
+    "metrics_numerical_data",
+    "event_data",
+    "clinical_guidelines"
+  ],
+  "url": "https://www.who.int/news-room/fact-sheets/detail/polycystic-ovary-syndrome",
+  "title": null,
+  "source": "topic-config",
+  "published": null,
+  "sha256": "7f51e88503f4fc4291dd823b076ab5f516c44e89ce7426e637d670c521f43d07",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-17T05:46:24.609979+00:00",
+  "text_chars": 7819,
+  "raw_path": "data/pcos-pmos/raw/7f51e88503f4fc4291dd823b076ab5f516c44e89ce7426e637d670c521f43d07.html",
+  "text_path": "data/pcos-pmos/raw/7f51e88503f4fc4291dd823b076ab5f516c44e89ce7426e637d670c521f43d07.txt"
+}

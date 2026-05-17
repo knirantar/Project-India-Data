@@ -1,0 +1,109 @@
+{
+  "document": {
+    "source_url": "https://www.icmr.gov.in/",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "government_documents",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The National Institute for Health Research (NIHR) was established on 27 June 1984.",
+      "evidence_text": "The National Institute for Health Research (NIHR), Jodhpur, was established on 27 June 1984 as the Desert Medicine Research Centre (DMRC).",
+      "source_url": "https://www.icmr.gov.in/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "NIHR was renamed on 7 December 2019.",
+      "evidence_text": "It was later renamed the National Institute for Implementation Research on Non-Communicable Diseases (NIIRNCD) on 7 December 2019.",
+      "source_url": "https://www.icmr.gov.in/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "NIHR was redesignated on 29 April 2026.",
+      "evidence_text": "subsequently redesignated as NIHR on 29 April 2026.",
+      "source_url": "https://www.icmr.gov.in/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "NIHR focuses on non-communicable disease (NCD) risk factors.",
+      "evidence_text": "NIHR focuses on generating high-impact research across priority domains, strengthening capacity through specialized training programmes, and developing effective behaviour change communication strategies to address non-communicable disease (NCD) risk factors.",
+      "source_url": "https://www.icmr.gov.in/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "National Institute for Health Research (NIHR)",
+      "description": "A research institute focused on non-communicable diseases.",
+      "evidence_text": "The National Institute for Health Research (NIHR), Jodhpur, was established on 27 June 1984."
+    },
+    {
+      "type": "organization",
+      "name": "Desert Medicine Research Centre (DMRC)",
+      "description": "The original name of NIHR when it was established.",
+      "evidence_text": "established on 27 June 1984 as the Desert Medicine Research Centre (DMRC)."
+    },
+    {
+      "type": "organization",
+      "name": "National Institute for Implementation Research on Non-Communicable Diseases (NIIRNCD)",
+      "description": "The name NIHR was changed to this on 7 December 2019.",
+      "evidence_text": "renamed the National Institute for Implementation Research on Non-Communicable Diseases (NIIRNCD) on 7 December 2019."
+    }
+  ],
+  "events": [
+    {
+      "date": "1984-06-27",
+      "event": "Establishment of NIHR",
+      "location": "Jodhpur",
+      "actors": [],
+      "evidence_text": "The National Institute for Health Research (NIHR), Jodhpur, was established on 27 June 1984."
+    },
+    {
+      "date": "2019-12-07",
+      "event": "Renaming of NIHR to NIIRNCD",
+      "location": "Jodhpur",
+      "actors": [],
+      "evidence_text": "It was later renamed the National Institute for Implementation Research on Non-Communicable Diseases (NIIRNCD) on 7 December 2019."
+    },
+    {
+      "date": "2026-04-29",
+      "event": "Redesignation of NIIRNCD to NIHR",
+      "location": "Jodhpur",
+      "actors": [],
+      "evidence_text": "subsequently redesignated as NIHR on 29 April 2026."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.icmr.gov.in/",
+      "title": "None",
+      "published": "None",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is sourced from the official ICMR website."
+  },
+  "geolocation": [
+    {
+      "name": "Jodhpur",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The National Institute for Health Research (NIHR), Jodhpur."
+    }
+  ],
+  "timestamps": []
+}
