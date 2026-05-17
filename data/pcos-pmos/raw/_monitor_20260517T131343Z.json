@@ -1,0 +1,13 @@
+{
+  "topic_slug": "pcos-pmos",
+  "topic_title": "Polycystic Ovary Syndrome and Polycystic Ovary Morphology: A Comprehensive Study",
+  "config_path": "project_india/topics/pcos-pmos/config.yaml",
+  "raw_dir": "data/pcos-pmos/raw",
+  "finished_at": "2026-05-17T13:13:43.687767+00:00",
+  "new_documents": 0,
+  "new_items": [],
+  "txt_before": 15,
+  "txt_after": 15,
+  "analysis_before": 15,
+  "analysis_after": 15
+}
