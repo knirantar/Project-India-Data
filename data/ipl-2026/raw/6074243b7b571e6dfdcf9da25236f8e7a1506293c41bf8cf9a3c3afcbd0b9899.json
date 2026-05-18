@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/gt-vs-srh-ipl-2026-playing-11-predicted-today-match-gujarat-titans-vs-sunrisers-hyderabad-match-squad-players-list-10684435/",
+  "title": "GT vs SRH Playing 11 Updates, IPL 2026: Gujarat Titans, Sunrisers Hyderabad unlikely to tinker with winning combinations",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Tue, 12 May 2026 05:30:01 +0000",
+  "sha256": "6074243b7b571e6dfdcf9da25236f8e7a1506293c41bf8cf9a3c3afcbd0b9899",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:51.179809+00:00",
+  "text_chars": 2314,
+  "raw_path": "data/ipl-2026/raw/6074243b7b571e6dfdcf9da25236f8e7a1506293c41bf8cf9a3c3afcbd0b9899.html",
+  "text_path": "data/ipl-2026/raw/6074243b7b571e6dfdcf9da25236f8e7a1506293c41bf8cf9a3c3afcbd0b9899.txt"
+}

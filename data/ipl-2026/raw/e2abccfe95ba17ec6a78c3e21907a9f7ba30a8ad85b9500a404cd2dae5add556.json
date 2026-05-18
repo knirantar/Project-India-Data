@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/delhi-capital-all-round-hero-madhav-tiwari-dc-vs-pbks-10685311/",
+  "title": "‘100% bowler & 100% batter’: Meet Delhi Capitals’ new all-round hero Madhav Tiwari",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Tue, 12 May 2026 08:40:16 +0000",
+  "sha256": "e2abccfe95ba17ec6a78c3e21907a9f7ba30a8ad85b9500a404cd2dae5add556",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:51.814513+00:00",
+  "text_chars": 3184,
+  "raw_path": "data/ipl-2026/raw/e2abccfe95ba17ec6a78c3e21907a9f7ba30a8ad85b9500a404cd2dae5add556.html",
+  "text_path": "data/ipl-2026/raw/e2abccfe95ba17ec6a78c3e21907a9f7ba30a8ad85b9500a404cd2dae5add556.txt"
+}

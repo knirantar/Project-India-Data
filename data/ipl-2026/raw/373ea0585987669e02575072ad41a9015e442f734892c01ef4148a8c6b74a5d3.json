@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-pbks-vs-rcb-playing-11-today-match-61-punjab-kings-vs-royal-challengers-bengaluru-playing-11-prediction-full-squad-players-list-captain-10693292/",
+  "title": "PBKS vs RCB Playing 11, IPL 2026 Today Match: Bengaluru face free-falling Punjab with playoff spot in sight",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Sun, 17 May 2026 03:30:55 +0000",
+  "sha256": "373ea0585987669e02575072ad41a9015e442f734892c01ef4148a8c6b74a5d3",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:46.061218+00:00",
+  "text_chars": 1592,
+  "raw_path": "data/ipl-2026/raw/373ea0585987669e02575072ad41a9015e442f734892c01ef4148a8c6b74a5d3.html",
+  "text_path": "data/ipl-2026/raw/373ea0585987669e02575072ad41a9015e442f734892c01ef4148a8c6b74a5d3.txt"
+}

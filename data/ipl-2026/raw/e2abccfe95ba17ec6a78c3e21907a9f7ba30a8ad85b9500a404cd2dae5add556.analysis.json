@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/delhi-capital-all-round-hero-madhav-tiwari-dc-vs-pbks-10685311/",
+    "source_title": "‘100% bowler & 100% batter’: Meet Delhi Capitals’ new all-round hero Madhav Tiwari",
+    "published": "Tue, 12 May 2026 08:40:16 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Madhav Tiwari considers himself both a bowler and a batter.",
+      "evidence_text": "Tiwari said he sees himself as both equally.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/delhi-capital-all-round-hero-madhav-tiwari-dc-vs-pbks-10685311/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Madhav Tiwari",
+      "description": "22-year-old cricketer for Delhi Capitals.",
+      "evidence_text": "In just his second IPL match and his first of this season, 22-year-old Madhav Tiwari picked up two wickets."
+    },
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "IPL team that Madhav Tiwari plays for.",
+      "evidence_text": "Tiwari was picked up by Delhi Capitals for Rs 40 lakh in the 2024 IPL mega auction."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "Opponent team in the match where Tiwari performed.",
+      "evidence_text": "Tiwari guided Delhi Capitals to a three-wicket win over Punjab Kings."
+    },
+    {
+      "type": "coach",
+      "name": "Ian Bell",
+      "description": "Batting coach who provided advice to Tiwari.",
+      "evidence_text": "Tiwari spoke about how batting coach Ian Bell’s tips helped him."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-09",
+      "event": "Madhav Tiwari's performance in IPL match",
+      "location": "Dharamshala",
+      "actors": [
+        "Madhav Tiwari",
+        "Priyansh Arya",
+        "Cooper Connolly"
+      ],
+      "evidence_text": "Tiwari picked up two wickets, including those of Priyansh Arya and Cooper Connolly."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "wickets",
+      "value": "2",
+      "unit": "wickets",
+      "date": "2026-05-09",
+      "location": "Dharamshala",
+      "evidence_text": "Madhav Tiwari picked up two wickets."
+    },
+    {
+      "name": "runs",
+      "value": "18",
+      "unit": "runs",
+      "date": "2026-05-09",
+      "location": "Dharamshala",
+      "evidence_text": "He then played an eight-ball cameo of 18 runs."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Madhav Tiwari",
+      "relationship": "plays for",
+      "object": "Delhi Capitals",
+      "evidence_text": "Tiwari was picked up by Delhi Capitals for Rs 40 lakh."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/delhi-capital-all-round-hero-madhav-tiwari-dc-vs-pbks-10685311/",
+      "title": "‘100% bowler & 100% batter’: Meet Delhi Capitals’ new all-round hero Madhav Tiwari",
+      "published": "Tue, 12 May 2026 08:40:16 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

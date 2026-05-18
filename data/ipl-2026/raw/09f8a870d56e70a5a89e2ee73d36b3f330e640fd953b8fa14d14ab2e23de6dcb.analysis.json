@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/pbks-vs-dc-live-score-ipl-2026-punjab-kings-vs-delhi-capitals-knockout-race-elimination-scare-dharamsala-10683620/",
+    "source_title": "PBKS vs DC IPL 2026 highlights: Delhi Capitals beat Punjab Kings by 3-wickets",
+    "published": "Mon, 11 May 2026 09:57:15 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Delhi Capitals beat Punjab Kings by 3 wickets.",
+      "evidence_text": "Delhi Capitals beat Punjab Kings by 3 wickets.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/pbks-vs-dc-live-score-ipl-2026-punjab-kings-vs-delhi-capitals-knockout-race-elimination-scare-dharamsala-10683620/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "A franchise cricket team based in Delhi.",
+      "evidence_text": "Delhi Capitals beat Punjab Kings by 3 wickets."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A franchise cricket team based in Punjab.",
+      "evidence_text": "Delhi Capitals beat Punjab Kings by 3 wickets."
+    },
+    {
+      "type": "player",
+      "name": "Axar Patel",
+      "description": "Captain of Delhi Capitals.",
+      "evidence_text": "Axar Patel has yet to hit a six in ten T20 outings."
+    },
+    {
+      "type": "player",
+      "name": "Shreyas Iyer",
+      "description": "Captain of Punjab Kings.",
+      "evidence_text": "Shreyas Iyer (c), Suryansh Shedge."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-11",
+      "event": "IPL 2026 Match 55",
+      "location": "Dharamsala",
+      "actors": [
+        "Delhi Capitals",
+        "Punjab Kings"
+      ],
+      "evidence_text": "Indian Premier League, 2026 - Match 55"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Punjab Kings Score",
+      "value": "210",
+      "unit": "runs",
+      "date": "2026-05-11",
+      "location": "Dharamsala",
+      "evidence_text": "Punjab Kings 210/5 (20.0)"
+    },
+    {
+      "name": "Delhi Capitals Score",
+      "value": "216",
+      "unit": "runs",
+      "date": "2026-05-11",
+      "location": "Dharamsala",
+      "evidence_text": "Delhi Capitals 216/7 (19.0)"
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/pbks-vs-dc-live-score-ipl-2026-punjab-kings-vs-delhi-capitals-knockout-race-elimination-scare-dharamsala-10683620/",
+      "title": "PBKS vs DC IPL 2026 highlights: Delhi Capitals beat Punjab Kings by 3-wickets",
+      "published": "Mon, 11 May 2026 09:57:15 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet covering sports."
+  },
+  "geolocation": [
+    {
+      "name": "Dharamsala",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Match Ended in Dharamsala."
+    }
+  ],
+  "timestamps": []
+}

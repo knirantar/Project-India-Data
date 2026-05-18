@@ -1,0 +1,63 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-rcb-becomes-first-team-to-qualify-for-playoffs-10694644/",
+    "source_title": "IPL 2026 Updated Points Table: RCB become first team to qualify for playoffs, DC stay in race",
+    "published": "Mon, 18 May 2026 00:00:39 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "RCB became the first team to qualify for the 2026 playoffs.",
+      "evidence_text": "And with their win, RCB became the first team to qualify for the 2026 playoffs.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-rcb-becomes-first-team-to-qualify-for-playoffs-10694644/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "RCB wins against Punjab Kings",
+      "location": "Dharamshala",
+      "actors": [
+        "Royal Challengers Bengaluru",
+        "Punjab Kings"
+      ],
+      "evidence_text": "In the end, it was RCB who prevailed and inflicted a sixth straight loss on the Shreyas Iyer-led side."
+    },
+    {
+      "date": "2026-05-18",
+      "event": "DC wins against Rajasthan Royals",
+      "location": "Arun Jaitley Stadium",
+      "actors": [
+        "Delhi Capitals",
+        "Rajasthan Royals"
+      ],
+      "evidence_text": "A performance combining stability and execution finally arrived for the Delhi Capitals... culminating in a five-wicket win at the Arun Jaitley Stadium on Sunday."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-rcb-becomes-first-team-to-qualify-for-playoffs-10694644/",
+      "title": "IPL 2026 Updated Points Table: RCB become first team to qualify for playoffs, DC stay in race",
+      "published": "Mon, 18 May 2026 00:00:39 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/axar-patel-david-miller-dc-vs-pbks-dharamsala-10684462/",
+  "title": "Axar Patel finally comes good with bat as Delhi stay alive by beating Punjab Kings",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Mon, 11 May 2026 18:53:11 +0000",
+  "sha256": "448d7d5dcdf0e461b76ad226f6d5bc8a0e8646bcfa698c25481a642ac8554f39",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:52.294107+00:00",
+  "text_chars": 3887,
+  "raw_path": "data/ipl-2026/raw/448d7d5dcdf0e461b76ad226f6d5bc8a0e8646bcfa698c25481a642ac8554f39.html",
+  "text_path": "data/ipl-2026/raw/448d7d5dcdf0e461b76ad226f6d5bc8a0e8646bcfa698c25481a642ac8554f39.txt"
+}

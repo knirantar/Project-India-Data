@@ -1,0 +1,145 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+    "source_title": "IPL 2026 playoffs qualification: Scenarios for all 8 teams in contention explained",
+    "published": "Wed, 13 May 2026 12:00:33 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Rajat Patidar’s team can secure a playoff spot with a win against KKR.",
+      "evidence_text": "If Rajat Patidar’s team defeat KKR on Wednesday night, they will have one foot in the IPL play-offs.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "RCB has the best net run rate among the teams in contention.",
+      "evidence_text": "With 14 points from seven wins in 11 games, RCB have the best net run rate among the teams in contention.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Punjab Kings need to win their next matches to qualify.",
+      "evidence_text": "Two wins in their final three games against Mumbai Indians, Bengaluru and Sunrisers Hyderabad should be enough.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Gujarat Titans are on course to secure a top two qualification.",
+      "evidence_text": "With a bowling line up firing on all cylinders and a solid top three, the Shubman Gill-led side is on course to secure a top two qualification.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Chennai Super Kings need to win all their remaining games to qualify.",
+      "evidence_text": "Only 18 points will ensure qualification with teams in contention playing each other over the course of the next 10 days, leaving CSK to win all their remaining games.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Delhi Capitals have a slim chance of making the playoffs.",
+      "evidence_text": "Delhi’s hopes hang by a thread though the Axar Patel-led side has already started planning for the next season.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Rajat Patidar’s team",
+      "description": "A team in contention for IPL playoffs.",
+      "evidence_text": "If Rajat Patidar’s team defeat KKR on Wednesday night, they will have one foot in the IPL play-offs."
+    },
+    {
+      "type": "team",
+      "name": "RCB",
+      "description": "Royal Challengers Bangalore, a team in contention for IPL playoffs.",
+      "evidence_text": "With 14 points from seven wins in 11 games, RCB have the best net run rate among the teams in contention."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A team in contention for IPL playoffs.",
+      "evidence_text": "After staying unbeaten in the first seven games of the season, Punjab Kings have lost four games in a row now to find themselves in fourth spot in the IPL standings."
+    },
+    {
+      "type": "team",
+      "name": "Gujarat Titans",
+      "description": "A team in contention for IPL playoffs.",
+      "evidence_text": "With a bowling line up firing on all cylinders and a solid top three, the Shubman Gill-led side is on course to secure a top two qualification."
+    },
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "A team in contention for IPL playoffs.",
+      "evidence_text": "After spending plenty of time near the bottom of the standings early in the season, Chennai Super Kings have risen at the right time."
+    },
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "A team in contention for IPL playoffs.",
+      "evidence_text": "Delhi’s hopes hang by a thread though the Axar Patel-led side has already started planning for the next season."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-15",
+      "event": "Chennai Super Kings vs Lucknow Super Giants",
+      "location": "",
+      "actors": [
+        "Chennai Super Kings",
+        "Lucknow Super Giants"
+      ],
+      "evidence_text": "They would back themselves to collect two points against Lucknow Super Giants on May 15 before taking on SRH and Gujarat Titans in their final two league games."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "points",
+      "value": "14",
+      "unit": "points",
+      "date": "",
+      "location": "",
+      "evidence_text": "With 14 points from seven wins in 11 games, RCB have the best net run rate among the teams in contention."
+    },
+    {
+      "name": "points",
+      "value": "16",
+      "unit": "points",
+      "date": "",
+      "location": "",
+      "evidence_text": "For reference, only Mumbai Indians qualified with 16 points last season."
+    },
+    {
+      "name": "points",
+      "value": "18",
+      "unit": "points",
+      "date": "",
+      "location": "",
+      "evidence_text": "Only 18 points will ensure qualification with teams in contention playing each other over the course of the next 10 days."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoffs-qualification-scenarios-contention-explained-10687587/",
+      "title": "IPL 2026 playoffs qualification: Scenarios for all 8 teams in contention explained",
+      "published": "Wed, 13 May 2026 12:00:33 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The article provides detailed analysis and scenarios based on current standings and performance."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

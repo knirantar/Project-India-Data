@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/s-badrinath-outrage-response-krunal-pandya-die-comments-ipl-10684050/",
+  "title": "S Badrinath responds to outrage over on-air remark in IPL 2026: ‘Let him die there….’",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Mon, 11 May 2026 12:25:56 +0000",
+  "sha256": "51edcd1015d1a8c104795ffdf818f8c44a6cfdea00aa6b80e5dc6a77a299a63a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:52.842133+00:00",
+  "text_chars": 2148,
+  "raw_path": "data/ipl-2026/raw/51edcd1015d1a8c104795ffdf818f8c44a6cfdea00aa6b80e5dc6a77a299a63a.html",
+  "text_path": "data/ipl-2026/raw/51edcd1015d1a8c104795ffdf818f8c44a6cfdea00aa6b80e5dc6a77a299a63a.txt"
+}

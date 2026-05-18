@@ -1,0 +1,151 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-pbks-vs-rcb-live-score-updates-punjab-bengaluru-playoffs-race-points-table-dharamsala-10693848/",
+    "source_title": "PBKS vs RCB Highlights, IPL 2026: Bengaluru qualify for playoffs after beating Punjab by 23 runs in Dharamsala",
+    "published": "Sun, 17 May 2026 07:21:29 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Royal Challengers Bengaluru qualified for playoffs after beating Punjab Kings.",
+      "evidence_text": "Bengaluru qualify for playoffs after beating Punjab by 23 runs",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-pbks-vs-rcb-live-score-updates-punjab-bengaluru-playoffs-race-points-table-dharamsala-10693848/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "A franchise cricket team based in Bengaluru, India.",
+      "evidence_text": "Royal Challengers Bengaluru beat Punjab Kings by 23 runs"
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A franchise cricket team based in Mohali, India.",
+      "evidence_text": "Punjab never looked in control of the chase in a must-win game."
+    },
+    {
+      "type": "player",
+      "name": "Virat Kohli",
+      "description": "Captain of Royal Challengers Bengaluru.",
+      "evidence_text": "Kohli was joined by Devdutt Padikkal"
+    },
+    {
+      "type": "player",
+      "name": "Devdutt Padikkal",
+      "description": "Batsman for Royal Challengers Bengaluru.",
+      "evidence_text": "Kohli was joined by Devdutt Padikkal"
+    },
+    {
+      "type": "player",
+      "name": "Venkatesh Iyer",
+      "description": "Batsman for Royal Challengers Bengaluru.",
+      "evidence_text": "Venkatesh Iyer took charge of the run-scoring."
+    },
+    {
+      "type": "player",
+      "name": "Tim David",
+      "description": "Batsman for Royal Challengers Bengaluru.",
+      "evidence_text": "fireworks from Tim David"
+    },
+    {
+      "type": "player",
+      "name": "Priyansh Arya",
+      "description": "Batsman for Punjab Kings.",
+      "evidence_text": "Their top three — Priyansh Arya, Prabhsimran Singh, and Shreyas Iyer — departed within the first four overs."
+    },
+    {
+      "type": "player",
+      "name": "Prabhsimran Singh",
+      "description": "Batsman for Punjab Kings.",
+      "evidence_text": "Their top three — Priyansh Arya, Prabhsimran Singh, and Shreyas Iyer — departed within the first four overs."
+    },
+    {
+      "type": "player",
+      "name": "Shreyas Iyer",
+      "description": "Batsman for Punjab Kings.",
+      "evidence_text": "Their top three — Priyansh Arya, Prabhsimran Singh, and Shreyas Iyer — departed within the first four overs."
+    },
+    {
+      "type": "player",
+      "name": "Suryansh Shedge",
+      "description": "Batsman for Punjab Kings.",
+      "evidence_text": "Suryansh Shedge, Marcus Stoinis, and Shashank Singh displayed rearguard action."
+    },
+    {
+      "type": "player",
+      "name": "Marcus Stoinis",
+      "description": "Batsman for Punjab Kings.",
+      "evidence_text": "Marcus Stoinis displayed rearguard action."
+    },
+    {
+      "type": "player",
+      "name": "Shashank Singh",
+      "description": "Batsman for Punjab Kings.",
+      "evidence_text": "Shashank Singh displayed rearguard action."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "IPL 2026 Match 61",
+      "location": "Dharamsala",
+      "actors": [
+        "Royal Challengers Bengaluru",
+        "Punjab Kings"
+      ],
+      "evidence_text": "Match Ended ( Match 61 ) Royal Challengers Bengaluru beat Punjab Kings by 23 runs"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Runs Scored",
+      "value": "222",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "Dharamsala",
+      "evidence_text": "Royal Challengers Bengaluru 222/4 (20.0)"
+    },
+    {
+      "name": "Runs Scored",
+      "value": "199",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "Dharamsala",
+      "evidence_text": "Punjab Kings 199/8 (20.0)"
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-pbks-vs-rcb-live-score-updates-punjab-bengaluru-playoffs-race-points-table-dharamsala-10693848/",
+      "title": "PBKS vs RCB Highlights, IPL 2026: Bengaluru qualify for playoffs after beating Punjab by 23 runs in Dharamsala",
+      "published": "Sun, 17 May 2026 07:21:29 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports events."
+  },
+  "geolocation": [
+    {
+      "name": "Dharamsala",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Royal Challengers Bengaluru beat Punjab Kings by 23 runs in Dharamsala"
+    }
+  ],
+  "timestamps": []
+}

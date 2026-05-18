@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/punjab-kings-whats-gone-wrong-ipl-2026-shreyas-iyer-ricky-ponting-arshdeep-chahal-10691577/",
+  "title": "From title contenders to freefall: What’s gone wrong for Punjab Kings",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Fri, 15 May 2026 14:28:15 +0000",
+  "sha256": "173c1d1812124512d041d5f60b2a88a731bc791177b5263e9e3c616a4bafcd7c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:47.294430+00:00",
+  "text_chars": 4396,
+  "raw_path": "data/ipl-2026/raw/173c1d1812124512d041d5f60b2a88a731bc791177b5263e9e3c616a4bafcd7c.html",
+  "text_path": "data/ipl-2026/raw/173c1d1812124512d041d5f60b2a88a731bc791177b5263e9e3c616a4bafcd7c.txt"
+}

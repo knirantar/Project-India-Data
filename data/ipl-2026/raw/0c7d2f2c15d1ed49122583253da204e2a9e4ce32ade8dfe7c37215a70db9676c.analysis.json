@@ -1,0 +1,117 @@
+{
+  "document": {
+    "source_url": "https://www.espncricinfo.com/ci/content/story/1526195.html?ex_cid=OTC-RSS",
+    "source_title": "IPL 2026 to begin on March 28, final scheduled for May 31",
+    "published": "Fri, 27 Feb 2026 13:38:43 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "IPL 2026 will start on March 28.",
+      "evidence_text": "IPL 2026 will start on March 28, two days after what the BCCI had originally planned.",
+      "source_url": "https://www.espncricinfo.com/ci/content/story/1526195.html?ex_cid=OTC-RSS",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The final of IPL 2026 is scheduled for May 31.",
+      "evidence_text": "have the final on May 31.",
+      "source_url": "https://www.espncricinfo.com/ci/content/story/1526195.html?ex_cid=OTC-RSS",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Kolkata Knight Riders",
+      "description": "Home base in Kolkata, West Bengal.",
+      "evidence_text": "Kolkata (in West Bengal) and Chennai (in Tamil Nadu) are the home bases for Kolkata Knight Riders (KKR)."
+    },
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "Home base in Chennai, Tamil Nadu.",
+      "evidence_text": "Kolkata (in West Bengal) and Chennai (in Tamil Nadu) are the home bases for Chennai Super Kings (CSK)."
+    },
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "Second venue in Guwahati, Assam.",
+      "evidence_text": "Assam's capital Guwahati is the second venue for Rajasthan Royals (RR)."
+    },
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "Defending champions of IPL.",
+      "evidence_text": "the opening match of the tournament will be played, as it will feature defending champions Royal Challengers Bengaluru (RCB)."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-03-28",
+      "event": "Start of IPL 2026",
+      "location": "",
+      "actors": [],
+      "evidence_text": "IPL 2026 will start on March 28."
+    },
+    {
+      "date": "2026-05-31",
+      "event": "Final of IPL 2026",
+      "location": "",
+      "actors": [],
+      "evidence_text": "have the final on May 31."
+    },
+    {
+      "date": "2025-12-15",
+      "event": "IPL franchises informed about the start date change",
+      "location": "",
+      "actors": [],
+      "evidence_text": "The IPL had informed the franchises on December 15 2025."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.espncricinfo.com/ci/content/story/1526195.html?ex_cid=OTC-RSS",
+      "title": "IPL 2026 to begin on March 28, final scheduled for May 31",
+      "published": "Fri, 27 Feb 2026 13:38:43 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "ESPNcricinfo is a reputable sports news source."
+  },
+  "geolocation": [
+    {
+      "name": "Kolkata",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Kolkata (in West Bengal) and Chennai (in Tamil Nadu) are the home bases for Kolkata Knight Riders (KKR)."
+    },
+    {
+      "name": "Chennai",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Kolkata (in West Bengal) and Chennai (in Tamil Nadu) are the home bases for Chennai Super Kings (CSK)."
+    },
+    {
+      "name": "Guwahati",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Assam's capital Guwahati is the second venue for Rajasthan Royals (RR)."
+    }
+  ],
+  "timestamps": []
+}

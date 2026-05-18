@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/csk-vs-srh-playing-11-ipl-2026-today-match-will-ms-dhoni-in-what-could-be-his-last-game-at-chepauk-stadium-10694648/",
+  "title": "CSK vs SRH Playing 11, IPL 2026 Today Match: All eyes on MS Dhoni as potential Chepauk farewell looms",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Mon, 18 May 2026 05:30:36 +0000",
+  "sha256": "0478bd21af4a8e3c0bd84c56c4296e8b03489bc0a7fc0e9aa100780b9773e409",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:44.935210+00:00",
+  "text_chars": 2534,
+  "raw_path": "data/ipl-2026/raw/0478bd21af4a8e3c0bd84c56c4296e8b03489bc0a7fc0e9aa100780b9773e409.html",
+  "text_path": "data/ipl-2026/raw/0478bd21af4a8e3c0bd84c56c4296e8b03489bc0a7fc0e9aa100780b9773e409.txt"
+}

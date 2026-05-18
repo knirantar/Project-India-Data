@@ -1,0 +1,80 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/rcb-vs-kkr-playing-11-ipl-2026-today-match-will-venkatesh-iyer-10686319/",
+    "source_title": "RCB vs KKR Playing 11, IPL 2026 Today Match: Will Venkatesh Iyer get in for Bengaluru vs Kolkata in Raipur",
+    "published": "Wed, 13 May 2026 05:30:29 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Venkatesh Iyer may play for Royal Challengers Bengaluru.",
+      "evidence_text": "Venkatesh Iyer/Romario Shepherd is listed in the probable XI for RCB.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/rcb-vs-kkr-playing-11-ipl-2026-today-match-will-venkatesh-iyer-10686319/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "A franchise cricket team based in Bengaluru, India.",
+      "evidence_text": "Rajat Patidar’s Royal Challengers Bengaluru will take on Ajinkya Rahane’s Kolkata Knight Riders."
+    },
+    {
+      "type": "team",
+      "name": "Kolkata Knight Riders",
+      "description": "A franchise cricket team based in Kolkata, India.",
+      "evidence_text": "Ajinkya Rahane’s Kolkata Knight Riders in match 56 of the Indian Premier League 2026."
+    },
+    {
+      "type": "player",
+      "name": "Venkatesh Iyer",
+      "description": "A cricketer who plays for Royal Challengers Bengaluru.",
+      "evidence_text": "Venkatesh Iyer/Romario Shepherd is listed in the probable XI for RCB."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-13",
+      "event": "IPL 2026 Match between RCB and KKR",
+      "location": "Raipur",
+      "actors": [
+        "Royal Challengers Bengaluru",
+        "Kolkata Knight Riders"
+      ],
+      "evidence_text": "Royal Challengers Bengaluru will take on Kolkata Knight Riders in match 56 of the Indian Premier League 2026 in Raipur."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/rcb-vs-kkr-playing-11-ipl-2026-today-match-will-venkatesh-iyer-10686319/",
+      "title": "RCB vs KKR Playing 11, IPL 2026 Today Match: Will Venkatesh Iyer get in for Bengaluru vs Kolkata in Raipur",
+      "published": "Wed, 13 May 2026 05:30:29 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet covering sports events."
+  },
+  "geolocation": [
+    {
+      "name": "Raipur",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "in Raipur on Wednesday."
+    }
+  ],
+  "timestamps": []
+}

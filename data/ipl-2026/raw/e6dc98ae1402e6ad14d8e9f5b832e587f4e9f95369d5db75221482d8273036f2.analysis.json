@@ -1,0 +1,134 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/gujarat-titans-team-test-instincts-dismantle-ipl-t20-template-10687834/",
+    "source_title": "Gujarat Titans: How team built on Test instincts dismantling IPL’s T20 template",
+    "published": "Wed, 13 May 2026 13:42:38 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Titans have torn against the zeitgeisty patterns of the league.",
+      "evidence_text": "Titans have torn against the zeitgeisty patterns patterns of the league.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/gujarat-titans-team-test-instincts-dismantle-ipl-t20-template-10687834/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Titans have taken 61 wickets, while the rest have managed only 23.",
+      "evidence_text": "Together, they have taken 61 wickets — the rest have managed only 23.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/gujarat-titans-team-test-instincts-dismantle-ipl-t20-template-10687834/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Titans are among the top two and title frontrunners.",
+      "evidence_text": "Yet, in a glorious paradox, they are where every side wants to be. Among the top two, effectively in the play-offs, and title frontrunners.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/gujarat-titans-team-test-instincts-dismantle-ipl-t20-template-10687834/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Gujarat Titans",
+      "description": "A cricket team that has adopted a unique strategy in the IPL.",
+      "evidence_text": "Titans have torn against the zeitgeisty patterns patterns of the league."
+    },
+    {
+      "type": "player",
+      "name": "Ashish Nehra",
+      "description": "Head coach of Gujarat Titans, known for his seam bowling expertise.",
+      "evidence_text": "The design, perhaps, owed to their head coach, Ashish Nehra, a lethal exponent of seam bowling."
+    },
+    {
+      "type": "player",
+      "name": "Kagiso Rabada",
+      "description": "A key bowler for Gujarat Titans, known for his pace and bounce.",
+      "evidence_text": "Rabada, of lithe limbs and graceful explosiveness, seams and skids the ball at high pace."
+    },
+    {
+      "type": "player",
+      "name": "Mohammed Siraj",
+      "description": "A bowler for Gujarat Titans, known for his swing and seam.",
+      "evidence_text": "Siraj, exuding vigorous energy, invariably swings and seams the ball."
+    },
+    {
+      "type": "player",
+      "name": "Jason Holder",
+      "description": "A bowler for Gujarat Titans, known for his height and bounce.",
+      "evidence_text": "Holder, lumbering to the crease, has one of the highest release points in the world."
+    },
+    {
+      "type": "player",
+      "name": "Prasidh Krishna",
+      "description": "A bowler for Gujarat Titans, known for his speed.",
+      "evidence_text": "The similarly gangly Prasidh doesn’t purchase as much movement as Holder, but is quicker."
+    },
+    {
+      "type": "player",
+      "name": "Rashid Khan",
+      "description": "A leg-spinner for Gujarat Titans, known for his wicket-taking ability.",
+      "evidence_text": "Holder is the middle-over enforcer, alongside leg-spinner Rashid Khan, who has stealthily picked up 16 wickets."
+    },
+    {
+      "type": "player",
+      "name": "Sai Sudharsan",
+      "description": "A batsman for Gujarat Titans, known for his ability to anchor innings.",
+      "evidence_text": "Sudharsan has been dutifully playing that role."
+    },
+    {
+      "type": "player",
+      "name": "Shubman Gill",
+      "description": "A batsman for Gujarat Titans, known for his flexible batting style.",
+      "evidence_text": "Gill could match Abhishek’s strike rate on a belter, but Abhishek cannot anchor like Gill or Sudharsan."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "Wickets Taken",
+      "value": "61",
+      "unit": "wickets",
+      "date": "2026",
+      "location": "IPL",
+      "evidence_text": "Together, they have taken 61 wickets — the rest have managed only 23."
+    },
+    {
+      "name": "Strike Rate of Rabada and Siraj",
+      "value": "14.85",
+      "unit": "balls per wicket",
+      "date": "2026",
+      "location": "IPL",
+      "evidence_text": "Their combined stats read 21 wickets at a strike rate of 14.85."
+    },
+    {
+      "name": "Economy Rate of Rabada and Siraj",
+      "value": "7.42",
+      "unit": "runs per over",
+      "date": "2026",
+      "location": "IPL",
+      "evidence_text": "Their combined stats read ... economy rate of 7.42."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/gujarat-titans-team-test-instincts-dismantle-ipl-t20-template-10687834/",
+      "title": "Gujarat Titans: How team built on Test instincts dismantling IPL’s T20 template",
+      "published": "Wed, 13 May 2026 13:42:38 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

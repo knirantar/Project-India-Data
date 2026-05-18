@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/pbks-vs-mi-ipl-2026-playing-11-predicted-today-match-punjab-kings-vs-mumbai-indians-match-squad-players-list-10688231/",
+  "title": "PBKS vs MI Playing 11, IPL 2026 Today Match: Mumbai captain Hardik Pandya’s status up in air vs Punjab",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Thu, 14 May 2026 05:30:25 +0000",
+  "sha256": "9eeca9293b6bef890cbb7143320109a4216a96fe5ab4738d32e207d118a8514a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:47.965666+00:00",
+  "text_chars": 2022,
+  "raw_path": "data/ipl-2026/raw/9eeca9293b6bef890cbb7143320109a4216a96fe5ab4738d32e207d118a8514a.html",
+  "text_path": "data/ipl-2026/raw/9eeca9293b6bef890cbb7143320109a4216a96fe5ab4738d32e207d118a8514a.txt"
+}

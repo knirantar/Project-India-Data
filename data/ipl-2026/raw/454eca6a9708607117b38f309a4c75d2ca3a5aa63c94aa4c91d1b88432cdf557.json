@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/kkr-vs-gt-playing-xi-updates-ipl-2026-kolkata-vs-gujarat-10691276/",
+  "title": "KKR vs GT Playing XI Updates, IPL 2026: Will Varun Chakaravarthy return for desperate Kolkata against Gujarat?",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Sat, 16 May 2026 04:00:00 +0000",
+  "sha256": "454eca6a9708607117b38f309a4c75d2ca3a5aa63c94aa4c91d1b88432cdf557",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:47.171403+00:00",
+  "text_chars": 1861,
+  "raw_path": "data/ipl-2026/raw/454eca6a9708607117b38f309a4c75d2ca3a5aa63c94aa4c91d1b88432cdf557.html",
+  "text_path": "data/ipl-2026/raw/454eca6a9708607117b38f309a4c75d2ca3a5aa63c94aa4c91d1b88432cdf557.txt"
+}

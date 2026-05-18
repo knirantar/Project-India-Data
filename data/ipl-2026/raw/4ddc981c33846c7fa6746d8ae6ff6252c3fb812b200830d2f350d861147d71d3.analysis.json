@@ -1,0 +1,89 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-lsg-vs-csk-update-orange-purple-cap-runs-and-wickets-list-10691842/",
+    "source_title": "IPL 2026 Points Table Today: CSK’s playoff chances take blow after LSG defeat",
+    "published": "Sat, 16 May 2026 00:00:51 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Chennai Super Kings drop to sixth place in the IPL 2026 points table.",
+      "evidence_text": "CSK drop down to sixth with the loss, with Rajasthan Royals nudging above them due to the hit the five-time champions have taken on their net run rate with the defeat.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-lsg-vs-csk-update-orange-purple-cap-runs-and-wickets-list-10691842/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Lucknow Super Giants remain at the bottom of the IPL 2026 points table.",
+      "evidence_text": "LSG, on the other hand, remain rooted to the bottom of the table.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-lsg-vs-csk-update-orange-purple-cap-runs-and-wickets-list-10691842/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "A franchise cricket team based in Chennai, Tamil Nadu, India.",
+      "evidence_text": "Chennai Super Kings were handed a serious blow in their hopes for making it to the playoffs."
+    },
+    {
+      "type": "team",
+      "name": "Lucknow Super Giants",
+      "description": "A franchise cricket team based in Lucknow, Uttar Pradesh, India.",
+      "evidence_text": "Lucknow Super Giants defeated Chennai Super Kings."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-15",
+      "event": "CSK vs LSG match",
+      "location": "",
+      "actors": [
+        "Chennai Super Kings",
+        "Lucknow Super Giants"
+      ],
+      "evidence_text": "after a comprehensive seven-wicket defeat to Lucknow Super Giants."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "CSK Position",
+      "value": "6",
+      "unit": "position",
+      "date": "2026-05-16",
+      "location": "",
+      "evidence_text": "CSK drop down to sixth with the loss."
+    },
+    {
+      "name": "LSG Position",
+      "value": "8",
+      "unit": "position",
+      "date": "2026-05-16",
+      "location": "",
+      "evidence_text": "LSG, on the other hand, remain rooted to the bottom of the table."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-lsg-vs-csk-update-orange-purple-cap-runs-and-wickets-list-10691842/",
+      "title": "IPL 2026 Points Table Today: CSK’s playoff chances take blow after LSG defeat",
+      "published": "Sat, 16 May 2026 00:00:51 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a well-known news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

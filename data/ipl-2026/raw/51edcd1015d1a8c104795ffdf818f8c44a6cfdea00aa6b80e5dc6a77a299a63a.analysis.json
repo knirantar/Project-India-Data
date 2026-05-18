@@ -1,0 +1,90 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/s-badrinath-outrage-response-krunal-pandya-die-comments-ipl-10684050/",
+    "source_title": "S Badrinath responds to outrage over on-air remark in IPL 2026: ‘Let him die there….’",
+    "published": "Mon, 11 May 2026 12:25:56 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Badrinath's comments were misinterpreted.",
+      "evidence_text": "He clarified his comments, saying his intention was to highlight Ryan Rickelton’s sportsmanship rather than make a literal or offensive remark.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/s-badrinath-outrage-response-krunal-pandya-die-comments-ipl-10684050/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "S Badrinath",
+      "description": "Former Chennai Super Kings and India batsman.",
+      "evidence_text": "Former Chennai Super Kings and India batsman S Badrinath has responded after facing criticism for a remark he made on-air."
+    },
+    {
+      "type": "person",
+      "name": "Krunal Pandya",
+      "description": "Indian cricketer who experienced severe cramps during a match.",
+      "evidence_text": "The controversy started during the match when Krunal Pandya went down in visible discomfort due to severe cramps."
+    },
+    {
+      "type": "person",
+      "name": "Ryan Rickelton",
+      "description": "MI wicketkeeper who showed sportsmanship by checking on Krunal Pandya.",
+      "evidence_text": "MI wicketkeeper Ryan Rickelton immediately ran over to check on him, a moment that was widely praised for its sportsmanship."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-08",
+      "event": "IPL 2026 match between RCB and MI",
+      "location": "Raipur",
+      "actors": [
+        "S Badrinath",
+        "Krunal Pandya",
+        "Ryan Rickelton"
+      ],
+      "evidence_text": "The incident took place during a closely fought game in Raipur, where Pandya played an excellent innings despite physical strain."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Runs scored by Krunal Pandya",
+      "value": "73",
+      "unit": "runs",
+      "date": "2026-05-08",
+      "location": "Raipur",
+      "evidence_text": "He scored a vital 73 off 46 balls, hitting four boundaries and five sixes."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/s-badrinath-outrage-response-krunal-pandya-die-comments-ipl-10684050/",
+      "title": "S Badrinath responds to outrage over on-air remark in IPL 2026: ‘Let him die there….’",
+      "published": "Mon, 11 May 2026 12:25:56 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet providing coverage of a sports event."
+  },
+  "geolocation": [
+    {
+      "name": "Raipur",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The incident took place during a closely fought game in Raipur."
+    }
+  ],
+  "timestamps": []
+}

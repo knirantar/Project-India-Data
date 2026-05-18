@@ -1,0 +1,116 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/prabhsimran-singh-makes-emotional-plea-to-punjab-kings-fans-ahead-of-mi-clash-10687374/",
+    "source_title": "Prabhsimran Singh makes emotional plea to Punjab Kings fans ahead of MI clash",
+    "published": "Wed, 13 May 2026 11:23:42 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Prabhsimran Singh urges fans to support Punjab Kings.",
+      "evidence_text": "I can only say that your support is very important to us. Support us and turn Dharamsala red.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/prabhsimran-singh-makes-emotional-plea-to-punjab-kings-fans-ahead-of-mi-clash-10687374/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "Cricket team in the Indian Premier League.",
+      "evidence_text": "Punjab Kings opener Prabhsimran Singh has posted an impassioned plea for the team’s fans."
+    },
+    {
+      "type": "player",
+      "name": "Prabhsimran Singh",
+      "description": "Opener for Punjab Kings.",
+      "evidence_text": "Prabhsimran has scored 382 runs in 11 matches for the franchise so far this season."
+    },
+    {
+      "type": "team",
+      "name": "Mumbai Indians",
+      "description": "Cricket team in the Indian Premier League.",
+      "evidence_text": "The next match is against Mumbai; we have to win it and make a comeback from there."
+    },
+    {
+      "type": "team",
+      "name": "Gujarat Titans",
+      "description": "Cricket team in the Indian Premier League.",
+      "evidence_text": "thanks to their 82-run defeat against the Gujarat Titans."
+    },
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "Cricket team in the Indian Premier League.",
+      "evidence_text": "Chennai Super Kings (CSK) and Rajasthan Royals (RR) are on the prowl behind Punjab Kings."
+    },
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "Cricket team in the Indian Premier League.",
+      "evidence_text": "Chennai Super Kings (CSK) and Rajasthan Royals (RR) are on the prowl behind Punjab Kings."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-13",
+      "event": "Prabhsimran Singh makes a plea to fans.",
+      "location": "Dharamsala",
+      "actors": [
+        "Prabhsimran Singh"
+      ],
+      "evidence_text": "I’m speaking to you from Dharamsala."
+    },
+    {
+      "date": "2026-05-13",
+      "event": "Punjab Kings vs Mumbai Indians match.",
+      "location": "Dharamsala",
+      "actors": [
+        "Punjab Kings",
+        "Mumbai Indians"
+      ],
+      "evidence_text": "The next match is against Mumbai; we have to win it and make a comeback from there."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "runs scored",
+      "value": "382",
+      "unit": "runs",
+      "date": "2026-05-13",
+      "location": "Punjab Kings",
+      "evidence_text": "Prabhsimran has scored 382 runs in 11 matches for the franchise so far this season."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/prabhsimran-singh-makes-emotional-plea-to-punjab-kings-fans-ahead-of-mi-clash-10687374/",
+      "title": "Prabhsimran Singh makes emotional plea to Punjab Kings fans ahead of MI clash",
+      "published": "Wed, 13 May 2026 11:23:42 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet."
+  },
+  "geolocation": [
+    {
+      "name": "Dharamsala",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "I’m speaking to you from Dharamsala."
+    }
+  ],
+  "timestamps": []
+}

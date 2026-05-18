@@ -1,0 +1,140 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/yuzvendra-chahal-restricted-match-ups-middle-overs-limiting-10686039/",
+    "source_title": "Why Punjab Kings are not bowling Chahal against left-handers in IPL 2026",
+    "published": "Tue, 12 May 2026 14:04:11 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Punjab Kings are not using Yuzvendra Chahal against left-handers due to match-up concerns.",
+      "evidence_text": "DC had two left-handers – Axar Patel and David Miller – controlling the chase through the middle overs, and PBKS seemingly felt Chahal was too risky an option against them.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/yuzvendra-chahal-restricted-match-ups-middle-overs-limiting-10686039/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Yuzvendra Chahal",
+      "description": "Bowler for Punjab Kings",
+      "evidence_text": "Yuzvendra Chahal of Punjab Kings celebrates the wicket of Mitchell Marsh."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "IPL team led by Shreyas Iyer",
+      "evidence_text": "Punjab Kings looked like a side sprinting ahead of the pack."
+    },
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "IPL team that defeated Punjab Kings",
+      "evidence_text": "PBKS suffered a fourth straight defeat, this time to Delhi Capitals."
+    },
+    {
+      "type": "player",
+      "name": "Shreyas Iyer",
+      "description": "Captain of Punjab Kings",
+      "evidence_text": "Shreyas Iyer led side suffering a fourth straight defeat."
+    },
+    {
+      "type": "player",
+      "name": "Axar Patel",
+      "description": "Left-handed batsman for Delhi Capitals",
+      "evidence_text": "DC had two left-handers – Axar Patel and David Miller."
+    },
+    {
+      "type": "player",
+      "name": "David Miller",
+      "description": "Left-handed batsman for Delhi Capitals",
+      "evidence_text": "DC had two left-handers – Axar Patel and David Miller."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-09",
+      "event": "Punjab Kings lost to Delhi Capitals",
+      "location": "Dharamshala",
+      "actors": [
+        "Punjab Kings",
+        "Delhi Capitals"
+      ],
+      "evidence_text": "PBKS suffered a fourth straight defeat, this time to Delhi Capitals in Dharamshala."
+    },
+    {
+      "date": "2026-04-19",
+      "event": "Chahal took a wicket against Lucknow Super Giants",
+      "location": "New International Cricket Stadium, New Chandigarh, India",
+      "actors": [
+        "Yuzvendra Chahal",
+        "Mitchell Marsh"
+      ],
+      "evidence_text": "Yuzvendra Chahal of Punjab Kings celebrates the wicket of Mitchell Marsh."
+    },
+    {
+      "date": "2026-03-31",
+      "event": "Chahal bowled against Gujarat Titans",
+      "location": "New International Cricket Stadium, New Chandigarh, India",
+      "actors": [
+        "Yuzvendra Chahal",
+        "Gujarat Titans"
+      ],
+      "evidence_text": "Yuzvendra Chahal of Punjab Kings bowls during a match vs Gujarat Titans."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Wickets taken by Chahal",
+      "value": "8",
+      "unit": "wickets",
+      "date": "2026",
+      "location": "IPL 2026",
+      "evidence_text": "He has taken only eight wickets in the nine matches he’s bowled in this season."
+    },
+    {
+      "name": "Chahal's economy against left-handers",
+      "value": "10.56",
+      "unit": "runs per over",
+      "date": "Since IPL 2023",
+      "location": "",
+      "evidence_text": "In 48 innings against them, he has conceded 750 runs at an economy of 10.56."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Yuzvendra Chahal",
+      "relationship": "is a player for",
+      "object": "Punjab Kings",
+      "evidence_text": "Yuzvendra Chahal of Punjab Kings celebrates the wicket of Mitchell Marsh."
+    },
+    {
+      "subject": "Shreyas Iyer",
+      "relationship": "is the captain of",
+      "object": "Punjab Kings",
+      "evidence_text": "Shreyas Iyer led side suffering a fourth straight defeat."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/yuzvendra-chahal-restricted-match-ups-middle-overs-limiting-10686039/",
+      "title": "Why Punjab Kings are not bowling Chahal against left-handers in IPL 2026",
+      "published": "Tue, 12 May 2026 14:04:11 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,80 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/kkr-vs-gt-playing-xi-updates-ipl-2026-kolkata-vs-gujarat-10691276/",
+    "source_title": "KKR vs GT Playing XI Updates, IPL 2026: Will Varun Chakaravarthy return for desperate Kolkata against Gujarat?",
+    "published": "Sat, 16 May 2026 04:00:00 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Gujarat Titans can qualify for the playoffs with a victory over KKR.",
+      "evidence_text": "A victory over KKR in Kolkata would make the Gujarat Titans the first team to officially qualify for the playoffs.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/kkr-vs-gt-playing-xi-updates-ipl-2026-kolkata-vs-gujarat-10691276/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "KKR is desperate for the return of Varun Chakaravarthy.",
+      "evidence_text": "KKR, on the other hand, would desperately want the return of their primary wicket-taking option, Varun Chakaravarthy.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/kkr-vs-gt-playing-xi-updates-ipl-2026-kolkata-vs-gujarat-10691276/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Gujarat Titans",
+      "description": "A cricket team competing in IPL 2026.",
+      "evidence_text": "Gujarat Titans can qualify for the playoffs with a victory over KKR."
+    },
+    {
+      "type": "player",
+      "name": "Varun Chakaravarthy",
+      "description": "Primary wicket-taking option for KKR.",
+      "evidence_text": "KKR would desperately want the return of their primary wicket-taking option, Varun Chakaravarthy."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "KKR vs GT match",
+      "location": "Kolkata",
+      "actors": [
+        "Gujarat Titans",
+        "Kolkata Knight Riders"
+      ],
+      "evidence_text": "A victory over KKR in Kolkata would make the Gujarat Titans the first team to officially qualify for the playoffs."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/kkr-vs-gt-playing-xi-updates-ipl-2026-kolkata-vs-gujarat-10691276/",
+      "title": "KKR vs GT Playing XI Updates, IPL 2026: Will Varun Chakaravarthy return for desperate Kolkata against Gujarat?",
+      "published": "Sat, 16 May 2026 04:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet covering sports."
+  },
+  "geolocation": [
+    {
+      "name": "Kolkata",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "A victory over KKR in Kolkata would make the Gujarat Titans the first team to officially qualify for the playoffs."
+    }
+  ],
+  "timestamps": []
+}

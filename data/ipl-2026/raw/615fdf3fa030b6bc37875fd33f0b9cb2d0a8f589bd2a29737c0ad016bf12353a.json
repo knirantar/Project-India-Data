@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-rcb-vs-kkr-update-orange-purple-cap-runs-and-wickets-list-10688162/",
+  "title": "IPL 2026 Points Table Today: RCB vs KKR Update Orange & Purple Cap, Runs and Wickets List",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Thu, 14 May 2026 00:00:23 +0000",
+  "sha256": "615fdf3fa030b6bc37875fd33f0b9cb2d0a8f589bd2a29737c0ad016bf12353a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:48.961525+00:00",
+  "text_chars": 2129,
+  "raw_path": "data/ipl-2026/raw/615fdf3fa030b6bc37875fd33f0b9cb2d0a8f589bd2a29737c0ad016bf12353a.html",
+  "text_path": "data/ipl-2026/raw/615fdf3fa030b6bc37875fd33f0b9cb2d0a8f589bd2a29737c0ad016bf12353a.txt"
+}

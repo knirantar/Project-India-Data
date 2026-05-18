@@ -1,0 +1,70 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-srh-vs-rcb-ticket-price-increase-hyderabad-110-percent-10692387/",
+    "source_title": "IPL 2026: Rs 900 to Rs 2000, SRH management increase RCB match ticket prices match by 110%",
+    "published": "Sat, 16 May 2026 07:14:41 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "SRH has increased ticket prices for the RCB match by 110%.",
+      "evidence_text": "the cheapest upper-tier stands that were previously booked at Rs 900 were raised to Rs 2,000, up by 110 per cent.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-srh-vs-rcb-ticket-price-increase-hyderabad-110-percent-10692387/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [
+    {
+      "date": "2026-05-22",
+      "event": "SRH vs RCB match",
+      "location": "Rajiv Gandhi Stadium, Hyderabad",
+      "actors": [
+        "Sunrisers Hyderabad",
+        "Royal Challengers Bengaluru"
+      ],
+      "evidence_text": "the Sunrisers Hyderabad-Royal Challengers Bengaluru fixture on May 22 is expected to be a crucial clash"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Ticket price increase",
+      "value": "110",
+      "unit": "percent",
+      "date": "2026-05-22",
+      "location": "Rajiv Gandhi Stadium, Hyderabad",
+      "evidence_text": "the cheapest upper-tier stands that were previously booked at Rs 900 were raised to Rs 2,000, up by 110 per cent."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-srh-vs-rcb-ticket-price-increase-hyderabad-110-percent-10692387/",
+      "title": "IPL 2026: Rs 900 to Rs 2000, SRH management increase RCB match ticket prices match by 110%",
+      "published": "Sat, 16 May 2026 07:14:41 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet with a focus on sports."
+  },
+  "geolocation": [
+    {
+      "name": "Rajiv Gandhi Stadium",
+      "type": "Stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Rajiv Gandhi Stadium in Hyderabad"
+    }
+  ],
+  "timestamps": []
+}

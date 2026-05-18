@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/virat-kohli-rcb-kkr-century-record-14000-t20-runs-ipl-2026-10688558/",
+  "title": "Another day, another set of records fall to Kohli in IPL 2026 masterclass vs KKR",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Thu, 14 May 2026 06:38:11 +0000",
+  "sha256": "76b62399eb6077f56befe9258d1f2ff246f16024df3323701afc42d00757a1c2",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:47.937322+00:00",
+  "text_chars": 2174,
+  "raw_path": "data/ipl-2026/raw/76b62399eb6077f56befe9258d1f2ff246f16024df3323701afc42d00757a1c2.html",
+  "text_path": "data/ipl-2026/raw/76b62399eb6077f56befe9258d1f2ff246f16024df3323701afc42d00757a1c2.txt"
+}

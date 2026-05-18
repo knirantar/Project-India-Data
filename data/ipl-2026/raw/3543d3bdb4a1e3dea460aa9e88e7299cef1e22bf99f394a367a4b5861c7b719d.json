@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-pbks-vs-dc-update-orange-purple-cap-runs-and-wickets-list-10684434/",
+  "title": "IPL 2026 Points Table Today: PBKS vs DC Update Orange & Purple Cap, Runs and Wickets List",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Tue, 12 May 2026 00:00:49 +0000",
+  "sha256": "3543d3bdb4a1e3dea460aa9e88e7299cef1e22bf99f394a367a4b5861c7b719d",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:52.016170+00:00",
+  "text_chars": 2747,
+  "raw_path": "data/ipl-2026/raw/3543d3bdb4a1e3dea460aa9e88e7299cef1e22bf99f394a367a4b5861c7b719d.html",
+  "text_path": "data/ipl-2026/raw/3543d3bdb4a1e3dea460aa9e88e7299cef1e22bf99f394a367a4b5861c7b719d.txt"
+}

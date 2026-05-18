@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/axar-patel-on-delhi-capital-missed-chances-dc-vs-pbks-10685027/",
+  "title": "‘If we hold crucial moments, we can win’: Axar Patel on Delhi Capitals’ missed chances",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Tue, 12 May 2026 07:07:03 +0000",
+  "sha256": "dc39fd37050baccf9e7194c86d2261fc76c57330e76965fd9184c27b857ede87",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:36:51.908739+00:00",
+  "text_chars": 3245,
+  "raw_path": "data/ipl-2026/raw/dc39fd37050baccf9e7194c86d2261fc76c57330e76965fd9184c27b857ede87.html",
+  "text_path": "data/ipl-2026/raw/dc39fd37050baccf9e7194c86d2261fc76c57330e76965fd9184c27b857ede87.txt"
+}

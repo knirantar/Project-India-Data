@@ -1,0 +1,73 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/pbks-vs-mi-ipl-2026-playing-11-predicted-today-match-punjab-kings-vs-mumbai-indians-match-squad-players-list-10688231/",
+    "source_title": "PBKS vs MI Playing 11, IPL 2026 Today Match: Mumbai captain Hardik Pandya’s status up in air vs Punjab",
+    "published": "Thu, 14 May 2026 05:30:25 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Hardik Pandya's status for the match is uncertain due to muscle spasms.",
+      "evidence_text": "the MI skipper has missed two back to back matches for muscle spams and there’s still a question mark on if he’ll be playing the match.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/pbks-vs-mi-ipl-2026-playing-11-predicted-today-match-punjab-kings-vs-mumbai-indians-match-squad-players-list-10688231/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Lockie Ferguson's fitness is uncertain for the match.",
+      "evidence_text": "the Kiwi bowler’s status is still up in the air and it’ll be interesting to see if he gets fit on time.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/pbks-vs-mi-ipl-2026-playing-11-predicted-today-match-punjab-kings-vs-mumbai-indians-match-squad-players-list-10688231/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Hardik Pandya",
+      "description": "Captain of Mumbai Indians, uncertain for the match due to muscle spasms.",
+      "evidence_text": "the MI skipper has missed two back to back matches for muscle spams and there’s still a question mark on if he’ll be playing the match."
+    },
+    {
+      "type": "player",
+      "name": "Lockie Ferguson",
+      "description": "Bowler for Punjab Kings, fitness uncertain for the match.",
+      "evidence_text": "the Kiwi bowler’s status is still up in the air and it’ll be interesting to see if he gets fit on time."
+    },
+    {
+      "type": "player",
+      "name": "Suryakumar Yadav",
+      "description": "Will captain Mumbai Indians if Hardik Pandya is unable to play.",
+      "evidence_text": "In case, he does not make it, Suryakumar Yadav will be taking the captain’s mantle like he has been doing in the past couple of matches."
+    },
+    {
+      "type": "player",
+      "name": "Shreyas Iyer",
+      "description": "Captain of Punjab Kings.",
+      "evidence_text": "Shreyas Iyer-led side will want to strengthen that unit."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/pbks-vs-mi-ipl-2026-playing-11-predicted-today-match-punjab-kings-vs-mumbai-indians-match-squad-players-list-10688231/",
+      "title": "PBKS vs MI Playing 11, IPL 2026 Today Match: Mumbai captain Hardik Pandya’s status up in air vs Punjab",
+      "published": "Thu, 14 May 2026 05:30:25 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

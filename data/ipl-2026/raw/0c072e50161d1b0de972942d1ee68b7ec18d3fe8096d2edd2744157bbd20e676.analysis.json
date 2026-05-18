@@ -1,0 +1,89 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/tilak-varma-beleaguered-mumbai-indians-future-ipl-pbks-vs-mi-10690049/",
+    "source_title": "Why Tilak Varma is beleaguered Mumbai Indians’ future",
+    "published": "Thu, 14 May 2026 18:36:04 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Tilak Varma played a crucial role in Mumbai Indians' victory.",
+      "evidence_text": "Tilak Varma’s sparkling innings (75 n.o off 33) made life difficult for Punjab.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/tilak-varma-beleaguered-mumbai-indians-future-ipl-pbks-vs-mi-10690049/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Tilak Varma",
+      "description": "A key player for Mumbai Indians who scored 75 not out.",
+      "evidence_text": "Tilak Varma’s sparkling innings (75 n.o off 33) made life difficult for Punjab."
+    },
+    {
+      "type": "team",
+      "name": "Mumbai Indians",
+      "description": "A franchise cricket team that competes in the IPL.",
+      "evidence_text": "Mumbai had a chance to be party poopers."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A franchise cricket team that competes in the IPL.",
+      "evidence_text": "Punjab have suffered five defeats in a row."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-14",
+      "event": "Mumbai Indians vs Punjab Kings match",
+      "location": "Dharamshala",
+      "actors": [
+        "Tilak Varma",
+        "Shardul Thakur"
+      ],
+      "evidence_text": "Mumbai broke Punjab’s back with Shardul Thakur taking four wickets."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "runs_scored",
+      "value": "205",
+      "unit": "runs",
+      "date": "2026-05-14",
+      "location": "Dharamshala",
+      "evidence_text": "Mumbai Indians 205 for 4 (Tilak 75*, Rickelton 48, Omarzai 2-36) by six wickets."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/tilak-varma-beleaguered-mumbai-indians-future-ipl-pbks-vs-mi-10690049/",
+      "title": "Why Tilak Varma is beleaguered Mumbai Indians’ future",
+      "published": "Thu, 14 May 2026 18:36:04 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet."
+  },
+  "geolocation": [
+    {
+      "name": "Dharamshala",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Just as their innings and campaign seemed to be running out of steam in the cold climes of Dharamshala."
+    }
+  ],
+  "timestamps": []
+}

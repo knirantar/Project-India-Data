@@ -1,0 +1,101 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-rcb-vs-kkr-update-orange-purple-cap-runs-and-wickets-list-10688162/",
+    "source_title": "IPL 2026 Points Table Today: RCB vs KKR Update Orange & Purple Cap, Runs and Wickets List",
+    "published": "Thu, 14 May 2026 00:00:23 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Virat Kohli scored 105 runs in 60 balls.",
+      "evidence_text": "Virat Kohli’s sublime 60-ball 105-run innings has helped Royal Challengers Bengaluru beat Kolkata Knight Riders.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-rcb-vs-kkr-update-orange-purple-cap-runs-and-wickets-list-10688162/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "RCB beat KKR in their latest match.",
+      "evidence_text": "Royal Challengers Bengaluru beat Kolkata Knight Riders on Wednesday.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-rcb-vs-kkr-update-orange-purple-cap-runs-and-wickets-list-10688162/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Kohli is now third in the Orange Cap standings.",
+      "evidence_text": "In the orange cap’s race Kohli has moved to spot third spot.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-rcb-vs-kkr-update-orange-purple-cap-runs-and-wickets-list-10688162/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Virat Kohli",
+      "description": "A prominent Indian cricketer who plays for Royal Challengers Bengaluru.",
+      "evidence_text": "Virat Kohli’s sublime 60-ball 105-run innings has helped Royal Challengers Bengaluru beat Kolkata Knight Riders."
+    },
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "A franchise cricket team based in Bangalore, India.",
+      "evidence_text": "Royal Challengers Bengaluru beat Kolkata Knight Riders on Wednesday."
+    },
+    {
+      "type": "team",
+      "name": "Kolkata Knight Riders",
+      "description": "A franchise cricket team based in Kolkata, India.",
+      "evidence_text": "Royal Challengers Bengaluru beat Kolkata Knight Riders on Wednesday."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-13",
+      "event": "RCB vs KKR match",
+      "location": "",
+      "actors": [
+        "Royal Challengers Bengaluru",
+        "Kolkata Knight Riders"
+      ],
+      "evidence_text": "Royal Challengers Bengaluru beat Kolkata Knight Riders on Wednesday."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Runs scored by Virat Kohli",
+      "value": "105",
+      "unit": "runs",
+      "date": "2026-05-13",
+      "location": "",
+      "evidence_text": "Virat Kohli’s sublime 60-ball 105-run innings has helped Royal Challengers Bengaluru beat Kolkata Knight Riders."
+    },
+    {
+      "name": "Total runs in match",
+      "value": "193",
+      "unit": "runs",
+      "date": "2026-05-13",
+      "location": "",
+      "evidence_text": "The hosts chasing 193 runs have looked in no trouble at any point."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-rcb-vs-kkr-update-orange-purple-cap-runs-and-wickets-list-10688162/",
+      "title": "IPL 2026 Points Table Today: RCB vs KKR Update Orange & Purple Cap, Runs and Wickets List",
+      "published": "Thu, 14 May 2026 00:00:23 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
