@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-standings-orange-purple-cap-rcb-vs-mi-runs-wickets-10682906/",
+  "title": "IPL 2026 Updated Points Table: Bengaluru on top after last-ball thriller; Chennai playoff hopes alive; Mumbai & Lucknow eliminated",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Mon, 11 May 2026 00:00:50 +0000",
+  "sha256": "a009ddc07a9332995d18cb0ff68c367d1d8d17f62f18be1623eed53fb2ce63f5",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:56:26.494422+00:00",
+  "text_chars": 4489,
+  "raw_path": "data/ipl-2026/raw/a009ddc07a9332995d18cb0ff68c367d1d8d17f62f18be1623eed53fb2ce63f5.html",
+  "text_path": "data/ipl-2026/raw/a009ddc07a9332995d18cb0ff68c367d1d8d17f62f18be1623eed53fb2ce63f5.txt"
+}

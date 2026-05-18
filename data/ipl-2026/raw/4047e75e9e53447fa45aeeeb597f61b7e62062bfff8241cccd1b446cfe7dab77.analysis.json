@@ -1,0 +1,145 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+    "source_title": "IPL 2026: Allen, Raghuvanshi and Narine help Knight Riders stay alive",
+    "published": "Sun, 17 May 2026 00:47:02 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Kolkata Knight Riders defeated Gujarat Titans by 29 runs.",
+      "evidence_text": "Kolkata Knight Riders rode on blistering knocks by Finn Allen (93), Angkrish Raghuvanshi (82 not out), and Cameron Green (52 not out) to get the better of Gujarat Titans by 29 runs.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Finn Allen scored 93 runs in the match.",
+      "evidence_text": "Finn Allen (93) played a significant role in the victory.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Angkrish Raghuvanshi scored 82 not out.",
+      "evidence_text": "Angkrish Raghuvanshi (82 not out) contributed significantly to the team's total.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Kolkata Knight Riders scored 247 runs.",
+      "evidence_text": "After logging its highest total of the season (247 for two).",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Gujarat Titans scored 218 runs.",
+      "evidence_text": "KKR restricted GT to 218 for four.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Kolkata Knight Riders",
+      "description": "A franchise cricket team based in Kolkata.",
+      "evidence_text": "Kolkata Knight Riders rode on blistering knocks by Finn Allen."
+    },
+    {
+      "type": "team",
+      "name": "Gujarat Titans",
+      "description": "A franchise cricket team based in Gujarat.",
+      "evidence_text": "Kolkata Knight Riders defeated Gujarat Titans by 29 runs."
+    },
+    {
+      "type": "player",
+      "name": "Finn Allen",
+      "description": "A cricketer who played for Kolkata Knight Riders.",
+      "evidence_text": "Finn Allen (93) played a significant role in the victory."
+    },
+    {
+      "type": "player",
+      "name": "Angkrish Raghuvanshi",
+      "description": "A cricketer who played for Kolkata Knight Riders.",
+      "evidence_text": "Angkrish Raghuvanshi (82 not out) contributed significantly to the team's total."
+    },
+    {
+      "type": "player",
+      "name": "Cameron Green",
+      "description": "A cricketer who played for Kolkata Knight Riders.",
+      "evidence_text": "Cameron Green (52 not out) helped KKR secure the win."
+    },
+    {
+      "type": "player",
+      "name": "Sunil Narine",
+      "description": "A cricketer who played for Kolkata Knight Riders.",
+      "evidence_text": "The wily Narine scalped Gill in the 17th over."
+    },
+    {
+      "type": "player",
+      "name": "Shubman Gill",
+      "description": "A cricketer who played for Gujarat Titans.",
+      "evidence_text": "GT skipper Shubman Gill (85) proved his class yet again."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "IPL 2026 match between Kolkata Knight Riders and Gujarat Titans",
+      "location": "Eden Gardens, Kolkata",
+      "actors": [
+        "Kolkata Knight Riders",
+        "Gujarat Titans"
+      ],
+      "evidence_text": "Kolkata Knight Riders rode on blistering knocks by Finn Allen during the IPL 2026 match."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Kolkata Knight Riders total runs",
+      "value": "247",
+      "unit": "runs",
+      "date": "2026-05-16",
+      "location": "Eden Gardens, Kolkata",
+      "evidence_text": "After logging its highest total of the season (247 for two)."
+    },
+    {
+      "name": "Gujarat Titans total runs",
+      "value": "218",
+      "unit": "runs",
+      "date": "2026-05-16",
+      "location": "Eden Gardens, Kolkata",
+      "evidence_text": "KKR restricted GT to 218 for four."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+      "title": "IPL 2026: Allen, Raghuvanshi and Narine help Knight Riders stay alive",
+      "published": "Sun, 17 May 2026 00:47:02 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet."
+  },
+  "geolocation": [
+    {
+      "name": "Eden Gardens",
+      "type": "stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The match took place at Eden Gardens in Kolkata."
+    }
+  ],
+  "timestamps": []
+}

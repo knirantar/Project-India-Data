@@ -1,0 +1,55 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-jaiswal-enjoys-his-batting-he-does-well-sangakkara/article70987951.ece",
+    "source_title": "IPL 2026 | When Jaiswal enjoys his batting, he does well: Sangakkara",
+    "published": "Sat, 16 May 2026 22:49:15 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Jaiswal performs well when he enjoys his batting.",
+      "evidence_text": "Jaiswal just needs to stay focused, smile, relax and enjoy his batting. Every time he does that, he does well for us.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-jaiswal-enjoys-his-batting-he-does-well-sangakkara/article70987951.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Yashasvi Jaiswal",
+      "description": "A young cricketer known for his batting skills.",
+      "evidence_text": "That’s the same with Jaiswal. He does things other batters can’t do, and that is just scoring runs in any condition and against any attack."
+    },
+    {
+      "type": "coach",
+      "name": "Kumar Sangakkara",
+      "description": "Head coach and director of cricket for Rajasthan Royals.",
+      "evidence_text": "RR head coach and director of cricket Kumar Sangakkara offered a glimpse of how the set-up balances Sooryavanshi’s bursts with Yashasvi Jaiswal’s struggles."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-jaiswal-enjoys-his-batting-he-does-well-sangakkara/article70987951.ece",
+      "title": "IPL 2026 | When Jaiswal enjoys his batting, he does well: Sangakkara",
+      "published": "Sat, 16 May 2026 22:49:15 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

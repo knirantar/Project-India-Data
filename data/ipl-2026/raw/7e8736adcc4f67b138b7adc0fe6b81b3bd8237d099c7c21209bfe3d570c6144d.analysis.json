@@ -1,0 +1,177 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-schedule-this-week-18-24-may-full-list-of-matches-dates-timings-venues/articleshow/131169591.cms",
+    "source_title": "IPL 2026 schedule this week: Full list of matches, dates, timings, venues",
+    "published": "2026-05-18T12:54:18+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "A team in the IPL that is still alive in the playoff race.",
+      "evidence_text": "Still alive in the playoff race, Chennai Super Kings will host fellow top-four contenders Sunrisers Hyderabad."
+    },
+    {
+      "type": "team",
+      "name": "Sunrisers Hyderabad",
+      "description": "A team in the IPL that is a top-four contender.",
+      "evidence_text": "Chennai Super Kings will host fellow top-four contenders Sunrisers Hyderabad."
+    },
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "A team in the IPL aiming to revive their playoff hopes.",
+      "evidence_text": "Rajasthan Royals will aim to revive their playoff hopes after three consecutive defeats."
+    },
+    {
+      "type": "team",
+      "name": "Lucknow Super Giants",
+      "description": "A team in the IPL that has been eliminated from playoff contention.",
+      "evidence_text": "Rajasthan Royals will host already eliminated Lucknow Super Giants in Jaipur."
+    },
+    {
+      "type": "team",
+      "name": "Kolkata Knight Riders",
+      "description": "A team in the IPL facing an eliminated side.",
+      "evidence_text": "Kolkata Knight Riders will have a similar task at hand as they face another eliminated side, Mumbai Indians."
+    },
+    {
+      "type": "team",
+      "name": "Mumbai Indians",
+      "description": "A team in the IPL that has been eliminated from playoff contention.",
+      "evidence_text": "Kolkata Knight Riders will face another eliminated side, Mumbai Indians."
+    },
+    {
+      "type": "team",
+      "name": "Gujarat Titans",
+      "description": "A team in the IPL that is almost qualified for the playoffs.",
+      "evidence_text": "CSK will travel to face almost-qualified Gujarat Titans in Ahmedabad."
+    },
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "A team in the IPL that has already qualified for the playoffs.",
+      "evidence_text": "Sunrisers Hyderabad hosting the only team already qualified, Royal Challengers Bengaluru."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A team in the IPL looking for a miracle after consecutive defeats.",
+      "evidence_text": "Punjab Kings will look for a miracle after six consecutive defeats."
+    },
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "A team in the IPL that will play in the final league match of the season.",
+      "evidence_text": "KKR taking on Delhi Capitals in the final league match of the season at Eden."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "Chennai Super Kings vs Sunrisers Hyderabad",
+      "location": "Chennai",
+      "actors": [
+        "Chennai Super Kings",
+        "Sunrisers Hyderabad"
+      ],
+      "evidence_text": "Chennai Super Kings will host fellow top-four contenders Sunrisers Hyderabad at the MA Chidambaram Stadium."
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Rajasthan Royals vs Lucknow Super Giants",
+      "location": "Jaipur",
+      "actors": [
+        "Rajasthan Royals",
+        "Lucknow Super Giants"
+      ],
+      "evidence_text": "Rajasthan Royals will aim to revive their playoff hopes after three consecutive defeats as they host already eliminated Lucknow Super Giants in Jaipur."
+    },
+    {
+      "date": "2026-05-20",
+      "event": "Kolkata Knight Riders vs Mumbai Indians",
+      "location": "Kolkata",
+      "actors": [
+        "Kolkata Knight Riders",
+        "Mumbai Indians"
+      ],
+      "evidence_text": "A day later, Kolkata Knight Riders will have a similar task at hand as they face another eliminated side, Mumbai Indians, at Eden Gardens."
+    },
+    {
+      "date": "2026-05-21",
+      "event": "Gujarat Titans vs Chennai Super Kings",
+      "location": "Ahmedabad",
+      "actors": [
+        "Gujarat Titans",
+        "Chennai Super Kings"
+      ],
+      "evidence_text": "Then CSK will travel to face almost-qualified Gujarat Titans in Ahmedabad on Thursday."
+    },
+    {
+      "date": "2026-05-22",
+      "event": "Sunrisers Hyderabad vs Royal Challengers Bengaluru",
+      "location": "Hyderabad",
+      "actors": [
+        "Sunrisers Hyderabad",
+        "Royal Challengers Bengaluru"
+      ],
+      "evidence_text": "Sunrisers Hyderabad hosting the only team already qualified, Royal Challengers Bengaluru."
+    },
+    {
+      "date": "2026-05-23",
+      "event": "Lucknow Super Giants vs Punjab Kings",
+      "location": "Lucknow",
+      "actors": [
+        "Lucknow Super Giants",
+        "Punjab Kings"
+      ],
+      "evidence_text": "Punjab Kings will look for a miracle after six consecutive defeats when they play LSG in Lucknow on Saturday."
+    },
+    {
+      "date": "2026-05-24",
+      "event": "Mumbai Indians vs Rajasthan Royals",
+      "location": "Mumbai",
+      "actors": [
+        "Mumbai Indians",
+        "Rajasthan Royals"
+      ],
+      "evidence_text": "The final double-header on Sunday will see MI hosting RR at Wankhede Stadium."
+    },
+    {
+      "date": "2026-05-24",
+      "event": "Kolkata Knight Riders vs Delhi Capitals",
+      "location": "Kolkata",
+      "actors": [
+        "Kolkata Knight Riders",
+        "Delhi Capitals"
+      ],
+      "evidence_text": "KKR taking on Delhi Capitals in the final league match of the season at Eden."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-schedule-this-week-18-24-may-full-list-of-matches-dates-timings-venues/articleshow/131169591.cms",
+      "title": "IPL 2026 schedule this week: Full list of matches, dates, timings, venues",
+      "published": "2026-05-18T12:54:18+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet providing detailed information about IPL matches."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

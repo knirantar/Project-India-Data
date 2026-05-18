@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-jaiswal-enjoys-his-batting-he-does-well-sangakkara/article70987951.ece",
+  "title": "IPL 2026 | When Jaiswal enjoys his batting, he does well: Sangakkara",
+  "source": "https://www.thehindu.com/sport/feeder/default.rss",
+  "published": "Sat, 16 May 2026 22:49:15 +0530",
+  "sha256": "63db0fefc3cc7043fa33a3337d8750c907ab08c4430c628685aaa79061243ca3",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T16:56:29.225986+00:00",
+  "text_chars": 2072,
+  "raw_path": "data/ipl-2026/raw/63db0fefc3cc7043fa33a3337d8750c907ab08c4430c628685aaa79061243ca3.html",
+  "text_path": "data/ipl-2026/raw/63db0fefc3cc7043fa33a3337d8750c907ab08c4430c628685aaa79061243ca3.txt"
+}

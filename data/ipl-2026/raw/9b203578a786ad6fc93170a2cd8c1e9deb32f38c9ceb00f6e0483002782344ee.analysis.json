@@ -1,0 +1,109 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/pbks-rcb-match-sunday-may-17-updates/article70990063.ece",
+    "source_title": "IPL 2026 PBKS vs RCB | Venkatesh, Bhuvneshwar do the star turn as RCB seals playoff spot",
+    "published": "Sun, 17 May 2026 21:14:59 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Royal Challengers Bangalore won the match against Punjab Kings.",
+      "evidence_text": "Bhuvneshwar Kumar’s early strikes had rendered enough damage on Punjab Kings to seal Royal Challengers Bengaluru’s 23-run win in IPL 2026.",
+      "source_url": "https://www.thehindu.com/sport/cricket/pbks-rcb-match-sunday-may-17-updates/article70990063.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Royal Challengers Bangalore",
+      "description": "A franchise cricket team based in Bangalore, India.",
+      "evidence_text": "Royal Challengers Bangalore bowler Bhuvneshwar Kumar celebrates the wicket of Priyansh Arya."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A franchise cricket team based in Mohali, Punjab, India.",
+      "evidence_text": "Shashank Singh attempted a late recovery, but Bhuvneshwar Kumar’s early strikes had rendered enough damage on Punjab Kings."
+    },
+    {
+      "type": "player",
+      "name": "Bhuvneshwar Kumar",
+      "description": "An Indian cricketer who plays for Royal Challengers Bangalore.",
+      "evidence_text": "Bhuvneshwar Kumar celebrates the wicket of Priyansh Arya."
+    },
+    {
+      "type": "player",
+      "name": "Venkatesh Iyer",
+      "description": "An Indian cricketer who plays for Royal Challengers Bangalore.",
+      "evidence_text": "Venkatesh Iyer lapped up a rare opportunity to notch up an IPL fifty after a year."
+    },
+    {
+      "type": "player",
+      "name": "Virat Kohli",
+      "description": "An Indian cricketer and former captain of the Indian national team.",
+      "evidence_text": "Kohli spelled out his intent with a loft over covers off Ozmatullah Omarzai."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "IPL Match between RCB and PBKS",
+      "location": "HPCA Stadium, Dharamshala, Himachal Pradesh",
+      "actors": [
+        "Royal Challengers Bangalore",
+        "Punjab Kings"
+      ],
+      "evidence_text": "Royal Challengers Bangalore bowler Bhuvneshwar Kumar celebrates the wicket of Priyansh Arya during the IPL T20 Match at HPCA Stadium in Dharamshala."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "RCB Score",
+      "value": "222",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "HPCA Stadium, Dharamshala",
+      "evidence_text": "Venkatesh targeted the on-side to finish unbeaten on 73 (40b, 8x4, 4x6)."
+    },
+    {
+      "name": "PBKS Score",
+      "value": "199",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "HPCA Stadium, Dharamshala",
+      "evidence_text": "Bhuvneshwar Kumar’s early strikes had rendered enough damage on Punjab Kings to seal Royal Challengers Bengaluru’s 23-run win."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/pbks-rcb-match-sunday-may-17-updates/article70990063.ece",
+      "title": "IPL 2026 PBKS vs RCB | Venkatesh, Bhuvneshwar do the star turn as RCB seals playoff spot",
+      "published": "Sun, 17 May 2026 21:14:59 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet covering a significant sporting event."
+  },
+  "geolocation": [
+    {
+      "name": "HPCA Stadium",
+      "type": "stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "IPL T20 Match at HPCA Stadium in Dharamshala, Himachal Pradesh."
+    }
+  ],
+  "timestamps": []
+}

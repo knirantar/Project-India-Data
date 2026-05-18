@@ -1,0 +1,115 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
+    "source_title": "IPL 2026 DC vs RR | Starc’s mastery and batters’ fine show keep Capitals in the hunt",
+    "published": "Mon, 18 May 2026 00:56:22 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Delhi Capitals won the match against Rajasthan Royals.",
+      "evidence_text": "Delhi Capitals stay alive in IPL 2026 with a five-wicket win as the home team chased down the 194-run target.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "A franchise cricket team based in Delhi, India.",
+      "evidence_text": "Delhi Capitals stay alive in IPL 2026 with a five-wicket win."
+    },
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "A franchise cricket team based in Jaipur, India.",
+      "evidence_text": "Rajasthan Royals unleashed chaos through Vaibhav Sooryavanshi, Riyan Parag, and Dhruv Jurel."
+    },
+    {
+      "type": "player",
+      "name": "Mitchell Starc",
+      "description": "An Australian cricketer known for his fast bowling.",
+      "evidence_text": "Mitchell Starc slammed the brakes in the nick of time."
+    },
+    {
+      "type": "player",
+      "name": "Vaibhav Sooryavanshi",
+      "description": "A cricketer who played for Rajasthan Royals.",
+      "evidence_text": "Rajasthan Royals unleashed chaos through Vaibhav Sooryavanshi."
+    },
+    {
+      "type": "player",
+      "name": "KL Rahul",
+      "description": "An Indian cricketer who played for Delhi Capitals.",
+      "evidence_text": "KL Rahul (56 off 42) laid the perfect platform with a 105-run opening stand."
+    },
+    {
+      "type": "player",
+      "name": "Abishek Porel",
+      "description": "An Indian cricketer who played for Delhi Capitals.",
+      "evidence_text": "Abishek Porel (51 off 31) laid the perfect platform with a 105-run opening stand."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "IPL 2026 match between Delhi Capitals and Rajasthan Royals",
+      "location": "Arun Jaitley Stadium, New Delhi",
+      "actors": [
+        "Delhi Capitals",
+        "Rajasthan Royals"
+      ],
+      "evidence_text": "Indian Premier League (IPL) 2026 T20 cricket match between Delhi Capitals and Rajasthan Royals, at Arun Jaitley Stadium in New Delhi."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "target runs",
+      "value": "194",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "Arun Jaitley Stadium, New Delhi",
+      "evidence_text": "Delhi Capitals chased down the 194-run target."
+    },
+    {
+      "name": "Delhi Capitals score",
+      "value": "195",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "Arun Jaitley Stadium, New Delhi",
+      "evidence_text": "Delhi Capitals stay alive in IPL 2026 with a five-wicket win."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
+      "title": "IPL 2026 DC vs RR | Starc’s mastery and batters’ fine show keep Capitals in the hunt",
+      "published": "Mon, 18 May 2026 00:56:22 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet covering a significant sporting event."
+  },
+  "geolocation": [
+    {
+      "name": "Arun Jaitley Stadium",
+      "type": "stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "at Arun Jaitley Stadium in New Delhi."
+    }
+  ],
+  "timestamps": []
+}

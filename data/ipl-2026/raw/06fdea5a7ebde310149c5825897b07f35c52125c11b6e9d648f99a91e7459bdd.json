@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.hindustantimes.com/cricket/why-ms-dhoni-s-long-awaited-chepauk-return-did-not-lead-to-ipl-2026-comeback-for-csk-in-srh-game-101779113197082.html",
+  "title": "Why MS Dhoni’s long-awaited Chepauk return did not lead to IPL 2026 comeback for CSK in SRH game",
+  "source": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml",
+  "published": "Mon, 18 May 2026 20:06:35 +0530",
+  "sha256": "06fdea5a7ebde310149c5825897b07f35c52125c11b6e9d648f99a91e7459bdd",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T16:56:29.359051+00:00",
+  "text_chars": 2789,
+  "raw_path": "data/ipl-2026/raw/06fdea5a7ebde310149c5825897b07f35c52125c11b6e9d648f99a91e7459bdd.html",
+  "text_path": "data/ipl-2026/raw/06fdea5a7ebde310149c5825897b07f35c52125c11b6e9d648f99a91e7459bdd.txt"
+}

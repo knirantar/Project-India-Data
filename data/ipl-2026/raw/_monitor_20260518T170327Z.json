@@ -1,0 +1,206 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "config_path": "project_india/topics/ipl-2026/config.yaml",
+  "raw_dir": "data/ipl-2026/raw",
+  "finished_at": "2026-05-18T17:03:27.794385+00:00",
+  "new_documents": 32,
+  "new_items": [
+    {
+      "title": "R Ashwin explains why CSK’s Urvil Patel played the ‘most important innings of IPL 2026’",
+      "url": "https://indianexpress.com/article/sports/cricket/ashwin-urvil-patel-most-important-innings-ipl-2026-csk-vs-lsg-10683697/",
+      "text_path": "data/ipl-2026/raw/d04f8f08352f8003febead73e5dff0a53ec1fd633caa28b0cbff5a81897486fa.txt",
+      "metadata_path": "data/ipl-2026/raw/d04f8f08352f8003febead73e5dff0a53ec1fd633caa28b0cbff5a81897486fa.json"
+    },
+    {
+      "title": "PBKS vs DC Playing 11, IPL 2026 Today Match: Delhi expected to ring in changes vs Punjab at Dharamshala",
+      "url": "https://indianexpress.com/article/sports/cricket/pbks-vs-dc-ipl-2026-playing-11-predicted-today-match-punjab-kings-vs-delhi-capitals-match-squad-players-list-10682932/",
+      "text_path": "data/ipl-2026/raw/35bf5d074ef0b82ec336718efd934e6acac219474b1e7015ebedfaf76b107bd6.txt",
+      "metadata_path": "data/ipl-2026/raw/35bf5d074ef0b82ec336718efd934e6acac219474b1e7015ebedfaf76b107bd6.json"
+    },
+    {
+      "title": "Mahela Jayawardene reacts to MI’s elimination from IPL 2026 Playoffs race: ‘Not good enough’",
+      "url": "https://indianexpress.com/article/sports/cricket/mahela-jayawardene-rcb-vs-mi-elimination-ipl-2026-playoffs-race-10683138/",
+      "text_path": "data/ipl-2026/raw/2356bb6cd66f19e207794d059ee879708b5454fb574930a06fecb8075a161292.txt",
+      "metadata_path": "data/ipl-2026/raw/2356bb6cd66f19e207794d059ee879708b5454fb574930a06fecb8075a161292.json"
+    },
+    {
+      "title": "IPL 2026 Updated Points Table: Bengaluru on top after last-ball thriller; Chennai playoff hopes alive; Mumbai & Lucknow eliminated",
+      "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-standings-orange-purple-cap-rcb-vs-mi-runs-wickets-10682906/",
+      "text_path": "data/ipl-2026/raw/a009ddc07a9332995d18cb0ff68c367d1d8d17f62f18be1623eed53fb2ce63f5.txt",
+      "metadata_path": "data/ipl-2026/raw/a009ddc07a9332995d18cb0ff68c367d1d8d17f62f18be1623eed53fb2ce63f5.json"
+    },
+    {
+      "title": "Urvil Patel’s onslaught piles more misery on Lucknow Super Giants, keeps Chennai Super Kings hopes alive",
+      "url": "https://indianexpress.com/article/sports/cricket/urvil-patel-chennai-super-kings-chase-lsg-ipl-playoff-10682804/",
+      "text_path": "data/ipl-2026/raw/3c698628995642b33263b84bbdf914cb7f10661093cce73015b88fa1ddb83dd0.txt",
+      "metadata_path": "data/ipl-2026/raw/3c698628995642b33263b84bbdf914cb7f10661093cce73015b88fa1ddb83dd0.json"
+    },
+    {
+      "title": "RCB vs MI IPL 2026 HIGHLIGHTS: Krunal Pandya slams 73 as Royal Challengers Bengaluru defeat Mumbai Indians by 2 wickets in thriller",
+      "url": "https://indianexpress.com/article/sports/cricket/rcb-vs-mi-ipl-2026-live-score-bengaluru-mumbai-today-match-updates-bengaluru-begin-raipur-stay-with-match-vs-struggling-mumbai-10682429/",
+      "text_path": "data/ipl-2026/raw/eaccec33e6060de129b54fdf1aa241c53a06ca6988fad32c8fa6b77867d60a17.txt",
+      "metadata_path": "data/ipl-2026/raw/eaccec33e6060de129b54fdf1aa241c53a06ca6988fad32c8fa6b77867d60a17.json"
+    },
+    {
+      "title": "CSK vs LSG highlights: Chennai Super Kings beat Lucknow Super Giants by 5-wickets in Chepauk",
+      "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-csk-vs-lsg-live-cricket-score-updates-sanju-dhoni-chennai-points-table-10682044/",
+      "text_path": "data/ipl-2026/raw/87195b5e5a0d511c1b13fbf578a3e9d236611279acb81d8184de98ddb05ea247.txt",
+      "metadata_path": "data/ipl-2026/raw/87195b5e5a0d511c1b13fbf578a3e9d236611279acb81d8184de98ddb05ea247.json"
+    },
+    {
+      "title": "RCB vs MI Playing 11, IPL 2026 Today Match: Questions over Pandya, SKY’s availability as Mumbai stare down the barrel",
+      "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-rcb-vs-mi-playing-11-today-54th-match-royal-challengers-bengaluru-vs-mumbai-indians-playing-11-prediction-full-squad-players-list-captain-10681611/",
+      "text_path": "data/ipl-2026/raw/73625c7795eb781da8db9c47dd9d074df8d6ba1ac36c154793eb44a972b298ac.txt",
+      "metadata_path": "data/ipl-2026/raw/73625c7795eb781da8db9c47dd9d074df8d6ba1ac36c154793eb44a972b298ac.json"
+    },
+    {
+      "title": "Catch-22: IPL 2026’s stunners and shockers",
+      "url": "https://www.thehindu.com/sport/cricket/catch-22-ipl-2026s-stunners-and-shockers/article70991650.ece",
+      "text_path": "data/ipl-2026/raw/bfe75fa4d0a6896e83c5163557d3231c56436ed2cc8f541b4dcc1624202800d9.txt",
+      "metadata_path": "data/ipl-2026/raw/bfe75fa4d0a6896e83c5163557d3231c56436ed2cc8f541b4dcc1624202800d9.json"
+    },
+    {
+      "title": "IPL 2026 DC vs RR: ‘Starc’s work ethic, preparation with his own plans, training are above par’, says Badani",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-dc-vs-rr-starcs-work-ethic-preparation-with-his-own-plans-training-are-above-par-says-badani/article70991643.ece",
+      "text_path": "data/ipl-2026/raw/47c22ecd48e0c2b3af5ee6d53bff1a50c318f3f79614bb5fc55b514b980079a3.txt",
+      "metadata_path": "data/ipl-2026/raw/47c22ecd48e0c2b3af5ee6d53bff1a50c318f3f79614bb5fc55b514b980079a3.json"
+    },
+    {
+      "title": "IPL 2026 DC vs RR: ‘I don’t think slow ball is a weakness for Sooryavanshi,’ says Vikram Rathour",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-dc-vs-rr-i-dont-think-slow-ball-is-a-weakness-for-sooryavanshi-says-vikram-rathour/article70991639.ece",
+      "text_path": "data/ipl-2026/raw/efe5346861be7671aba6e3fca396bb36a4e73199803abce8056e47d154092733.txt",
+      "metadata_path": "data/ipl-2026/raw/efe5346861be7671aba6e3fca396bb36a4e73199803abce8056e47d154092733.json"
+    },
+    {
+      "title": "IPL 2026 DC vs RR | Starc’s mastery and batters’ fine show keep Capitals in the hunt",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-delhi-capitals-vs-rajasthan-royals-mitchel-starc-vaibhav-sooryavanshi-match-updates/article70990789.ece",
+      "text_path": "data/ipl-2026/raw/322df83512c0d975935221afd4846a852747088ae3368a7e0a190ef3a34e88a2.txt",
+      "metadata_path": "data/ipl-2026/raw/322df83512c0d975935221afd4846a852747088ae3368a7e0a190ef3a34e88a2.json"
+    },
+    {
+      "title": "IPL 2026 CSK vs SRH | The intrigue over Dhoni hits fever pitch",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-csk-vs-srh-the-intrigue-over-dhoni-hits-fever-pitch/article70991159.ece",
+      "text_path": "data/ipl-2026/raw/ea98d874d1daab6d227db48b71024d47e83ec8cc484d336317db0f43157d567a.txt",
+      "metadata_path": "data/ipl-2026/raw/ea98d874d1daab6d227db48b71024d47e83ec8cc484d336317db0f43157d567a.json"
+    },
+    {
+      "title": "IPL 2026 PBKS vs RCB | Venkatesh, Bhuvneshwar do the star turn as RCB seals playoff spot",
+      "url": "https://www.thehindu.com/sport/cricket/pbks-rcb-match-sunday-may-17-updates/article70990063.ece",
+      "text_path": "data/ipl-2026/raw/9b203578a786ad6fc93170a2cd8c1e9deb32f38c9ceb00f6e0483002782344ee.txt",
+      "metadata_path": "data/ipl-2026/raw/9b203578a786ad6fc93170a2cd8c1e9deb32f38c9ceb00f6e0483002782344ee.json"
+    },
+    {
+      "title": "IPL 2026 | Our X-factor pacers have come good: SRH bowling coach Aaron",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-our-x-factor-pacers-have-come-good-srh-bowling-coach-aaron/article70990670.ece",
+      "text_path": "data/ipl-2026/raw/df8aadee1392f46f274e62d1729b2fd848be14adf26aea5e21876a88b0aadc42.txt",
+      "metadata_path": "data/ipl-2026/raw/df8aadee1392f46f274e62d1729b2fd848be14adf26aea5e21876a88b0aadc42.json"
+    },
+    {
+      "title": "IPL 2026 | Super Kings cross swords with Sunrisers in a must-win encounter",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-super-kings-cross-swords-with-sunrisers-in-a-must-win-encounter/article70990973.ece",
+      "text_path": "data/ipl-2026/raw/22f3d110bb7875eed3e874776f9cf07dd5535cd4d320a4af1546f01e7f6b2430.txt",
+      "metadata_path": "data/ipl-2026/raw/22f3d110bb7875eed3e874776f9cf07dd5535cd4d320a4af1546f01e7f6b2430.json"
+    },
+    {
+      "title": "IPL 2026: Allen, Raghuvanshi and Narine help Knight Riders stay alive",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-allen-raghuvanshi-and-narine-help-knight-riders-stay-alive/article70988424.ece",
+      "text_path": "data/ipl-2026/raw/4047e75e9e53447fa45aeeeb597f61b7e62062bfff8241cccd1b446cfe7dab77.txt",
+      "metadata_path": "data/ipl-2026/raw/4047e75e9e53447fa45aeeeb597f61b7e62062bfff8241cccd1b446cfe7dab77.json"
+    },
+    {
+      "title": "IPL 2026 | When Jaiswal enjoys his batting, he does well: Sangakkara",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-when-jaiswal-enjoys-his-batting-he-does-well-sangakkara/article70987951.ece",
+      "text_path": "data/ipl-2026/raw/63db0fefc3cc7043fa33a3337d8750c907ab08c4430c628685aaa79061243ca3.txt",
+      "metadata_path": "data/ipl-2026/raw/63db0fefc3cc7043fa33a3337d8750c907ab08c4430c628685aaa79061243ca3.json"
+    },
+    {
+      "title": "IPL 2026 | Will PBKS overcome its hoodoo against RCB?",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-will-pbks-overcome-its-hoodoo-against-rcb/article70987722.ece",
+      "text_path": "data/ipl-2026/raw/f827213b9e739f8a38eb27d61acb8427fead828a6e31afec6f657320e09eadae.txt",
+      "metadata_path": "data/ipl-2026/raw/f827213b9e739f8a38eb27d61acb8427fead828a6e31afec6f657320e09eadae.json"
+    },
+    {
+      "title": "IPL 2026 | Kartik Sharma shows he has it in him to make it big",
+      "url": "https://www.thehindu.com/sport/cricket/ipl-2026-kartik-sharma-shows-he-has-it-in-him-to-make-it-big/article70987295.ece",
+      "text_path": "data/ipl-2026/raw/d6fb0e500d2c1140b3d44ea4d85cc0188ba2950a38ea270cbdcd21734895e603.txt",
+      "metadata_path": "data/ipl-2026/raw/d6fb0e500d2c1140b3d44ea4d85cc0188ba2950a38ea270cbdcd21734895e603.json"
+    },
+    {
+      "title": "In IPL 2026, home advantage is a pipe dream",
+      "url": "https://www.hindustantimes.com/cricket/in-ipl-2026-home-advantage-is-a-pipe-dream-101779120807321.html",
+      "text_path": "data/ipl-2026/raw/72d0aca32d20e036c91b671c64f9b91cf340de77b8b1d2821687b6989a32fa4c.txt",
+      "metadata_path": "data/ipl-2026/raw/72d0aca32d20e036c91b671c64f9b91cf340de77b8b1d2821687b6989a32fa4c.json"
+    },
+    {
+      "title": "Why MS Dhoni’s long-awaited Chepauk return did not lead to IPL 2026 comeback for CSK in SRH game",
+      "url": "https://www.hindustantimes.com/cricket/why-ms-dhoni-s-long-awaited-chepauk-return-did-not-lead-to-ipl-2026-comeback-for-csk-in-srh-game-101779113197082.html",
+      "text_path": "data/ipl-2026/raw/06fdea5a7ebde310149c5825897b07f35c52125c11b6e9d648f99a91e7459bdd.txt",
+      "metadata_path": "data/ipl-2026/raw/06fdea5a7ebde310149c5825897b07f35c52125c11b6e9d648f99a91e7459bdd.json"
+    },
+    {
+      "title": "CSK vs SRH LIVE Score, IPL 2026: Abhishek, Head eye strong start in run chase; face Mukesh test in powerplay",
+      "url": "https://www.hindustantimes.com/cricket/csk-vs-srh-live-cricket-score-ipl-2026-chennai-super-kings-vs-sunrisers-hyderabad-today-18-may-latest-scorecard-101779101752079.html",
+      "text_path": "data/ipl-2026/raw/2759604debb8a3fc967f04fae61e304d1bf21e61f264946c1359d47b886ee5a3.txt",
+      "metadata_path": "data/ipl-2026/raw/2759604debb8a3fc967f04fae61e304d1bf21e61f264946c1359d47b886ee5a3.json"
+    },
+    {
+      "title": "IPL 2026: ‘My last T20 will be in Chennai,’ MS Dhoni's retirement shadow looms over CSK's final league game",
+      "url": "https://www.hindustantimes.com/cricket/my-last-t20-will-be-in-chennai-ms-dhonis-retirement-shadow-looms-over-csks-final-league-game-101779076136078.html",
+      "text_path": "data/ipl-2026/raw/9ea4e70f242c2ec071b1c69347320bc5f6c8efc93053e59530a8734f8aa83795.txt",
+      "metadata_path": "data/ipl-2026/raw/9ea4e70f242c2ec071b1c69347320bc5f6c8efc93053e59530a8734f8aa83795.json"
+    },
+    {
+      "title": "RCB's fate in CSK's hands: How the Super Kings vs Sunrisers can shape the IPL 2026 points table",
+      "url": "https://www.hindustantimes.com/cricket/rcbs-fate-in-csks-hands-how-the-super-kings-vs-sunrisers-can-shape-the-ipl-2026-points-table-101779067651821.html",
+      "text_path": "data/ipl-2026/raw/5280c6afd6c1d0a7009a3cc4f0bfe9f17182df75534d698d170400d64240f8da.txt",
+      "metadata_path": "data/ipl-2026/raw/5280c6afd6c1d0a7009a3cc4f0bfe9f17182df75534d698d170400d64240f8da.json"
+    },
+    {
+      "title": "IPL 2026: Allen rediscovers game, revives KKR’s hopes",
+      "url": "https://www.hindustantimes.com/cricket/ipl-2026-allen-rediscovers-game-revives-kkr-s-hopes-101779034016581.html",
+      "text_path": "data/ipl-2026/raw/d59266c15c3da7d781f4151a20e83fd6a4dd85a2eef061e70d2071153c6c7e43.txt",
+      "metadata_path": "data/ipl-2026/raw/d59266c15c3da7d781f4151a20e83fd6a4dd85a2eef061e70d2071153c6c7e43.json"
+    },
+    {
+      "title": "DC vs RR Highlights IPL 2026: DC stay alive as RR lose steam in qualification race; hosts' bowling shines",
+      "url": "https://www.hindustantimes.com/cricket/dc-vs-rr-live-cricket-score-ipl-2026-delhi-capitals-vs-rajasthan-royals-today-17-may-latest-scorecard-101779011912790.html",
+      "text_path": "data/ipl-2026/raw/fdda0ddc6263ab8d85e38c275676e5ad4720393574dba9af66a76fe96f0d6872.txt",
+      "metadata_path": "data/ipl-2026/raw/fdda0ddc6263ab8d85e38c275676e5ad4720393574dba9af66a76fe96f0d6872.json"
+    },
+    {
+      "title": "Why is Rajat Patidar not playing IPL 2026 match against Punjab Kings in Dharamsala?",
+      "url": "https://www.hindustantimes.com/cricket/why-is-rajat-patidar-not-playing-ipl-2026-match-against-punjab-kings-in-dharamsala-101779009277154.html",
+      "text_path": "data/ipl-2026/raw/2deb72b182e4054dd966ff328ce966c69502ec42f2be6295dbcd6bea30ecceac.txt",
+      "metadata_path": "data/ipl-2026/raw/2deb72b182e4054dd966ff328ce966c69502ec42f2be6295dbcd6bea30ecceac.json"
+    },
+    {
+      "title": "PBKS vs RCB Highlights, IPL 2026: RCB become 1st team to qualify for playoffs, beat PBKS by 23 runs",
+      "url": "https://www.hindustantimes.com/cricket/pbks-vs-rcb-live-cricket-score-ipl-2026-punjab-kings-vs-royal-challengers-bengaluru-today-17-may-latest-scorecard-101779002881748.html",
+      "text_path": "data/ipl-2026/raw/717e1a395519fc9b9be4046e77b0a3feb30c41a88f2a9de5bb6f1165dc8d866a.txt",
+      "metadata_path": "data/ipl-2026/raw/717e1a395519fc9b9be4046e77b0a3feb30c41a88f2a9de5bb6f1165dc8d866a.json"
+    },
+    {
+      "title": "Why Punjab Kings don't look like the same team that started IPL 2026: Home venue change, poor fielding or bad luck",
+      "url": "https://www.hindustantimes.com/cricket/why-punjab-kings-dont-look-like-the-same-team-that-started-ipl-2026-home-venue-change-poor-fielding-or-bad-luck-101779000072098.html",
+      "text_path": "data/ipl-2026/raw/ea2c04c740b868663adbb711927c06afe32ec41767be19e20b7c31aaa8142e4f.txt",
+      "metadata_path": "data/ipl-2026/raw/ea2c04c740b868663adbb711927c06afe32ec41767be19e20b7c31aaa8142e4f.json"
+    },
+    {
+      "title": "Punjab Kings contradict their physio's statement, say Arshdeep Singh 'fully fit'",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-punjab-kings-contradict-physios-statement-say-arshdeep-singh-is-fully-fit/articleshow/131174580.cms",
+      "text_path": "data/ipl-2026/raw/39d2fdd68ac8be84ab448e5d3e04889b436d60b2141956bb9887992ee5d433d4.txt",
+      "metadata_path": "data/ipl-2026/raw/39d2fdd68ac8be84ab448e5d3e04889b436d60b2141956bb9887992ee5d433d4.json"
+    },
+    {
+      "title": "IPL 2026 schedule this week: Full list of matches, dates, timings, venues",
+      "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-schedule-this-week-18-24-may-full-list-of-matches-dates-timings-venues/articleshow/131169591.cms",
+      "text_path": "data/ipl-2026/raw/7e8736adcc4f67b138b7adc0fe6b81b3bd8237d099c7c21209bfe3d570c6144d.txt",
+      "metadata_path": "data/ipl-2026/raw/7e8736adcc4f67b138b7adc0fe6b81b3bd8237d099c7c21209bfe3d570c6144d.json"
+    }
+  ],
+  "txt_before": 50,
+  "txt_after": 82,
+  "analysis_before": 50,
+  "analysis_after": 69
+}

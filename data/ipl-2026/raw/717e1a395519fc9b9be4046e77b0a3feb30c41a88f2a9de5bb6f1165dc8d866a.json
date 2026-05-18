@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.hindustantimes.com/cricket/pbks-vs-rcb-live-cricket-score-ipl-2026-punjab-kings-vs-royal-challengers-bengaluru-today-17-may-latest-scorecard-101779002881748.html",
+  "title": "PBKS vs RCB Highlights, IPL 2026: RCB become 1st team to qualify for playoffs, beat PBKS by 23 runs",
+  "source": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml",
+  "published": "Sun, 17 May 2026 13:20:28 +0530",
+  "sha256": "717e1a395519fc9b9be4046e77b0a3feb30c41a88f2a9de5bb6f1165dc8d866a",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T16:56:31.228291+00:00",
+  "text_chars": 18627,
+  "raw_path": "data/ipl-2026/raw/717e1a395519fc9b9be4046e77b0a3feb30c41a88f2a9de5bb6f1165dc8d866a.html",
+  "text_path": "data/ipl-2026/raw/717e1a395519fc9b9be4046e77b0a3feb30c41a88f2a9de5bb6f1165dc8d866a.txt"
+}

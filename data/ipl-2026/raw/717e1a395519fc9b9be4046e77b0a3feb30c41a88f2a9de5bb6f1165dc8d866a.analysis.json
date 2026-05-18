@@ -1,0 +1,70 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/pbks-vs-rcb-live-cricket-score-ipl-2026-punjab-kings-vs-royal-challengers-bengaluru-today-17-may-latest-scorecard-101779002881748.html",
+    "source_title": "PBKS vs RCB Highlights, IPL 2026: RCB become 1st team to qualify for playoffs, beat PBKS by 23 runs",
+    "published": "Sun, 17 May 2026 13:20:28 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "RCB defeated PBKS by 23 runs.",
+      "evidence_text": "RCB win by 23 runs!",
+      "source_url": "https://www.hindustantimes.com/cricket/pbks-vs-rcb-live-cricket-score-ipl-2026-punjab-kings-vs-royal-challengers-bengaluru-today-17-may-latest-scorecard-101779002881748.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "RCB vs PBKS match",
+      "location": "",
+      "actors": [
+        "Royal Challengers Bengaluru",
+        "Punjab Kings"
+      ],
+      "evidence_text": "PBKS vs RCB Highlights, IPL 2026: RCB defeated PBKS on Sunday."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "RCB Score",
+      "value": "222",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "",
+      "evidence_text": "RCB - 222/4 (20)"
+    },
+    {
+      "name": "PBKS Score",
+      "value": "199",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "",
+      "evidence_text": "PBKS - 199/8 (20)"
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/pbks-vs-rcb-live-cricket-score-ipl-2026-punjab-kings-vs-royal-challengers-bengaluru-today-17-may-latest-scorecard-101779002881748.html",
+      "title": "PBKS vs RCB Highlights, IPL 2026: RCB become 1st team to qualify for playoffs, beat PBKS by 23 runs",
+      "published": "Sun, 17 May 2026 13:20:28 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

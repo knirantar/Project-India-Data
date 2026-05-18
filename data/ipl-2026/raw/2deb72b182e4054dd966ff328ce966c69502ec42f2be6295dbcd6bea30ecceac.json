@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.hindustantimes.com/cricket/why-is-rajat-patidar-not-playing-ipl-2026-match-against-punjab-kings-in-dharamsala-101779009277154.html",
+  "title": "Why is Rajat Patidar not playing IPL 2026 match against Punjab Kings in Dharamsala?",
+  "source": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml",
+  "published": "Sun, 17 May 2026 15:03:57 +0530",
+  "sha256": "2deb72b182e4054dd966ff328ce966c69502ec42f2be6295dbcd6bea30ecceac",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T16:56:29.847327+00:00",
+  "text_chars": 2716,
+  "raw_path": "data/ipl-2026/raw/2deb72b182e4054dd966ff328ce966c69502ec42f2be6295dbcd6bea30ecceac.html",
+  "text_path": "data/ipl-2026/raw/2deb72b182e4054dd966ff328ce966c69502ec42f2be6295dbcd6bea30ecceac.txt"
+}

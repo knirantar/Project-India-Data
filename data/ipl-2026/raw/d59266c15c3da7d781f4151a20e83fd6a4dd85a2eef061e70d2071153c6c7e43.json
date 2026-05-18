@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.hindustantimes.com/cricket/ipl-2026-allen-rediscovers-game-revives-kkr-s-hopes-101779034016581.html",
+  "title": "IPL 2026: Allen rediscovers game, revives KKR’s hopes",
+  "source": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml",
+  "published": "Sun, 17 May 2026 21:36:56 +0530",
+  "sha256": "d59266c15c3da7d781f4151a20e83fd6a4dd85a2eef061e70d2071153c6c7e43",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T16:56:29.886999+00:00",
+  "text_chars": 5197,
+  "raw_path": "data/ipl-2026/raw/d59266c15c3da7d781f4151a20e83fd6a4dd85a2eef061e70d2071153c6c7e43.html",
+  "text_path": "data/ipl-2026/raw/d59266c15c3da7d781f4151a20e83fd6a4dd85a2eef061e70d2071153c6c7e43.txt"
+}

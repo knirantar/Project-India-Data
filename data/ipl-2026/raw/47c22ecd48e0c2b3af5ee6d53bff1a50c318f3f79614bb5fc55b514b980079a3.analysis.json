@@ -1,0 +1,99 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-dc-vs-rr-starcs-work-ethic-preparation-with-his-own-plans-training-are-above-par-says-badani/article70991643.ece",
+    "source_title": "IPL 2026 DC vs RR: ‘Starc’s work ethic, preparation with his own plans, training are above par’, says Badani",
+    "published": "Mon, 18 May 2026 04:57:28 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Starc's work ethic and preparation are above par.",
+      "evidence_text": "His work ethic, his preparation with his own plans, and his training are above par.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-dc-vs-rr-starcs-work-ethic-preparation-with-his-own-plans-training-are-above-par-says-badani/article70991643.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Starc is a match-winner for Delhi Capitals.",
+      "evidence_text": "We’ve invested in him and we know that he’s a match-winner.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-dc-vs-rr-starcs-work-ethic-preparation-with-his-own-plans-training-are-above-par-says-badani/article70991643.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Delhi Capitals struggled at home this season.",
+      "evidence_text": "We primarily struggled at home. Add in last year, and we have four wins here from 12 games.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-dc-vs-rr-starcs-work-ethic-preparation-with-his-own-plans-training-are-above-par-says-badani/article70991643.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Mitchell Starc",
+      "description": "Australian pacer playing for Delhi Capitals.",
+      "evidence_text": "Delhi Capitals' Mitchell Starc during an Indian Premier League (IPL) 2026 T20 cricket match."
+    },
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "IPL team that Mitchell Starc plays for.",
+      "evidence_text": "Starc produced a devastating burst in the death overs that derailed the innings completely."
+    },
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "IPL team that played against Delhi Capitals.",
+      "evidence_text": "Rajasthan Royals seemed destined to bury Delhi Capitals under a massive first-innings score."
+    },
+    {
+      "type": "coach",
+      "name": "Hemang Badani",
+      "description": "Head coach of Delhi Capitals.",
+      "evidence_text": "Starc’s game-changing performance earned glowing praise from Capitals head coach Hemang Badani."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "IPL match between Delhi Capitals and Rajasthan Royals",
+      "location": "New Delhi",
+      "actors": [
+        "Mitchell Starc",
+        "Rajasthan Royals"
+      ],
+      "evidence_text": "an Indian Premier League (IPL) 2026 T20 cricket match between Delhi Capitals and Rajasthan Royals, in New Delhi, on May 17, 2026."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Delhi Capitals home wins",
+      "value": "4",
+      "unit": "wins",
+      "date": "2026",
+      "location": "Arun Jaitley Stadium",
+      "evidence_text": "we have four wins here from 12 games."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-dc-vs-rr-starcs-work-ethic-preparation-with-his-own-plans-training-are-above-par-says-badani/article70991643.ece",
+      "title": "IPL 2026 DC vs RR: ‘Starc’s work ethic, preparation with his own plans, training are above par’, says Badani",
+      "published": "Mon, 18 May 2026 04:57:28 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
