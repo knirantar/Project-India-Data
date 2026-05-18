@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.livemint.com/news/us-news/japanese-proverb-of-the-day-18-may-2026-11779108072565.html",
+  "title": "Japanese Proverb of the Day: ‘Time flies like an arrow’; meaning and why it still matters today",
+  "source": "https://www.livemint.com/rss/news",
+  "published": "Mon, 18 May 2026 18:17:19 +0530",
+  "sha256": "3ac657dbb416fab5fa50eeb55e9c22866f38696ab3faf1302da83061c52dd3ec",
+  "content_type": "text/html;charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:21.248829+00:00",
+  "text_chars": 4412,
+  "raw_path": "data/ipl-2026/raw/3ac657dbb416fab5fa50eeb55e9c22866f38696ab3faf1302da83061c52dd3ec.html",
+  "text_path": "data/ipl-2026/raw/3ac657dbb416fab5fa50eeb55e9c22866f38696ab3faf1302da83061c52dd3ec.txt"
+}

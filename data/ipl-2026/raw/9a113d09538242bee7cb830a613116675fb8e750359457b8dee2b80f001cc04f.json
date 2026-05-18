@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/india/neet-ug-2026-paper-leak-pune-teacher-cbi-arrest-10694062/",
+  "title": "Teacher from Pune leaked NEET question papers for ‘substantial monetary gains’: CBI",
+  "source": "https://indianexpress.com/section/india/feed/",
+  "published": "Sun, 17 May 2026 08:43:41 +0000",
+  "sha256": "9a113d09538242bee7cb830a613116675fb8e750359457b8dee2b80f001cc04f",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:19.327566+00:00",
+  "text_chars": 3243,
+  "raw_path": "data/ipl-2026/raw/9a113d09538242bee7cb830a613116675fb8e750359457b8dee2b80f001cc04f.html",
+  "text_path": "data/ipl-2026/raw/9a113d09538242bee7cb830a613116675fb8e750359457b8dee2b80f001cc04f.txt"
+}

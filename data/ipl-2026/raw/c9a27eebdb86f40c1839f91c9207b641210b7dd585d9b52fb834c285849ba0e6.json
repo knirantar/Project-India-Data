@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/24-03-2026-who-recommends-new-diagnostic-tools-to-help-end-tb",
+  "title": "WHO recommends new diagnostic tools to help end TB",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Tue, 24 Mar 2026 08:29:49 Z",
+  "sha256": "c9a27eebdb86f40c1839f91c9207b641210b7dd585d9b52fb834c285849ba0e6",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:19.064913+00:00",
+  "text_chars": 5165,
+  "raw_path": "data/ipl-2026/raw/c9a27eebdb86f40c1839f91c9207b641210b7dd585d9b52fb834c285849ba0e6.html",
+  "text_path": "data/ipl-2026/raw/c9a27eebdb86f40c1839f91c9207b641210b7dd585d9b52fb834c285849ba0e6.txt"
+}

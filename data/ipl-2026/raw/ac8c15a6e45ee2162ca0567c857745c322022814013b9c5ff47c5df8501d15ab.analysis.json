@@ -1,0 +1,119 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/07-04-2026-who-and-france-shift-one-health-vision-to-action-with-new-high-impact-initiatives",
+    "source_title": "WHO and France shift One Health vision to action with new high-impact initiatives",
+    "published": "Tue, 07 Apr 2026 19:02:21 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "WHO and France announced a new wave of concrete actions to better protect people, animals and the planet from future health crises.",
+      "evidence_text": "On World Health Day, global leaders gathered in France for a milestone 'One Health Summit', where the World Health Organization (WHO) and partners announced a new wave of concrete actions to better protect people, animals and the planet from future health crises.",
+      "source_url": "https://www.who.int/news/item/07-04-2026-who-and-france-shift-one-health-vision-to-action-with-new-high-impact-initiatives",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The directing and coordinating authority for health within the United Nations system.",
+      "evidence_text": "the World Health Organization (WHO) and partners announced a new wave of concrete actions"
+    },
+    {
+      "type": "country",
+      "name": "France",
+      "description": "Country hosting the One Health Summit.",
+      "evidence_text": "Hosted by France, the Summit marks a major step forward"
+    },
+    {
+      "type": "person",
+      "name": "Dr Tedros Adhanom Ghebreyesus",
+      "description": "Director-General of WHO.",
+      "evidence_text": "\"The health of people, animals and the environment we share are inextricably interwoven...\" said Dr Tedros Adhanom Ghebreyesus"
+    },
+    {
+      "type": "person",
+      "name": "Emmanuel Macron",
+      "description": "President of the Republic of France.",
+      "evidence_text": "\"One Health is not just about protecting health, it is about recognizing that we live as one system...\" said Emmanuel Macron"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-07",
+      "event": "One Health Summit",
+      "location": "France",
+      "actors": [
+        "World Health Organization",
+        "France"
+      ],
+      "evidence_text": "On World Health Day, global leaders gathered in France for a milestone 'One Health Summit'"
+    },
+    {
+      "date": "2026-04-07 to 2026-04-09",
+      "event": "Global Forum of WHO Collaborating Centres",
+      "location": "France",
+      "actors": [
+        "World Health Organization",
+        "Minister of Health of France",
+        "ministers from Germany, Indonesia and South Africa"
+      ],
+      "evidence_text": "Alongside the Summit, WHO is kicking off its first Global Forum of WHO Collaborating Centres (CCs), taking place from 7–9 April."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "COVID-19 deaths",
+      "value": "15 million",
+      "unit": "deaths",
+      "date": "2020-2021",
+      "location": "global",
+      "evidence_text": "The COVID-19 pandemic alone resulted in an estimated 15 million deaths"
+    },
+    {
+      "name": "Rabies deaths",
+      "value": "60,000",
+      "unit": "deaths",
+      "date": "annual",
+      "location": "global",
+      "evidence_text": "a disease that still kills nearly 60 000 people each year"
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "WHO",
+      "relationship": "collaborates with",
+      "object": "France",
+      "evidence_text": "WHO thanks France for hosting this Summit"
+    },
+    {
+      "subject": "WHO",
+      "relationship": "leads",
+      "object": "Quadripartite collaboration",
+      "evidence_text": "WHO is also assuming the Chairmanship of the Quadripartite collaboration"
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/07-04-2026-who-and-france-shift-one-health-vision-to-action-with-new-high-impact-initiatives",
+      "title": "WHO and France shift One Health vision to action with new high-impact initiatives",
+      "published": "Tue, 07 Apr 2026 19:02:21 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "Source is the World Health Organization, a recognized authority in global health."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

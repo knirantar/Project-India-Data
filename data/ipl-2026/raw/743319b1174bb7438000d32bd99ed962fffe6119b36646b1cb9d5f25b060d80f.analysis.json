@@ -1,0 +1,92 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/health-wellness/apollo-health-of-the-nation-report-2026-working-indians-overweight-diabetes-risks-10625738/",
+    "source_title": "8 in 10 working Indians are overweight: Most are already sick and don’t know it, says survey",
+    "published": "Wed, 08 Apr 2026 11:18:30 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "8 in 10 working Indians are overweight.",
+      "evidence_text": "In working populations (average age 38), 8 in 10 were overweight.",
+      "source_url": "https://indianexpress.com/article/health-wellness/apollo-health-of-the-nation-report-2026-working-indians-overweight-diabetes-risks-10625738/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Nearly half of working Indians have prediabetes or diabetes.",
+      "evidence_text": "In working populations, nearly half have prediabetes or diabetes.",
+      "source_url": "https://indianexpress.com/article/health-wellness/apollo-health-of-the-nation-report-2026-working-indians-overweight-diabetes-risks-10625738/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Health risks are present in young populations.",
+      "evidence_text": "Health risks are already present in young and working populations, even before symptoms appear.",
+      "source_url": "https://indianexpress.com/article/health-wellness/apollo-health-of-the-nation-report-2026-working-indians-overweight-diabetes-risks-10625738/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Apollo Hospitals",
+      "description": "Healthcare organization that released the report.",
+      "evidence_text": "according to the sixth edition of the Apollo Hospitals’ Health of the Nation 2026 report"
+    },
+    {
+      "type": "person",
+      "name": "Dr Saptarshi Bhattacharya",
+      "description": "Senior endocrinologist at Indraprastha Apollo Hospital, New Delhi.",
+      "evidence_text": "says Dr Saptarshi Bhattacharya, senior endocrinologist, Indraprastha Apollo Hospital, New Delhi"
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "Percentage of overweight working Indians",
+      "value": "80",
+      "unit": "%",
+      "date": "2026-04-08",
+      "location": "India",
+      "evidence_text": "In working populations (average age 38), 8 in 10 were overweight."
+    },
+    {
+      "name": "Percentage of working Indians with prediabetes or diabetes",
+      "value": "50",
+      "unit": "%",
+      "date": "2026-04-08",
+      "location": "India",
+      "evidence_text": "In working populations, nearly half have prediabetes or diabetes."
+    },
+    {
+      "name": "Percentage of under-30s with poor flexibility, strength or balance",
+      "value": "66.67",
+      "unit": "%",
+      "date": "2026-04-08",
+      "location": "India",
+      "evidence_text": "Nearly two-thirds of under-30s assessed had poor flexibility, strength or balance."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/health-wellness/apollo-health-of-the-nation-report-2026-working-indians-overweight-diabetes-risks-10625738/",
+      "title": "8 in 10 working Indians are overweight: Most are already sick and don’t know it, says survey",
+      "published": "Wed, 08 Apr 2026 11:18:30 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The report is based on over three million preventive health assessments conducted across the hospital ecosystem."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

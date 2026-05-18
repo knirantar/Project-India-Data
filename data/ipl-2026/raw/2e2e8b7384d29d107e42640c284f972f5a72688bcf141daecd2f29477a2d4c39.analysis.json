@@ -1,0 +1,85 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/27-04-2026-practicing-today-for-tomorrow-s-emergencies-who-convenes-countries-and-partners-to-simulate-response-to-major-disease-outbreak",
+    "source_title": "Practicing today for tomorrow’s emergencies – WHO convenes countries and partners to simulate response to major disease outbreak",
+    "published": "Mon, 27 Apr 2026 13:12:09 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Exercise Polaris II demonstrated the importance of global cooperation in health emergencies.",
+      "evidence_text": "“Exercise Polaris II showed what is possible when we act together. It demonstrated that global cooperation is not optional – it is essential,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General.",
+      "source_url": "https://www.who.int/news/item/27-04-2026-practicing-today-for-tomorrow-s-emergencies-who-convenes-countries-and-partners-to-simulate-response-to-major-disease-outbreak",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The United Nations’ agency for health that leads global efforts to promote health and respond to health emergencies.",
+      "evidence_text": "The World Health Organization (WHO) wrapped up Exercise Polaris II."
+    },
+    {
+      "type": "framework",
+      "name": "Global Health Emergency Corps (GHEC) framework",
+      "description": "Provides guidance on how countries can strengthen their health workforce to respond to emergencies.",
+      "evidence_text": "The GHEC framework, published in June 2025, provides guidance on how countries can strengthen their health workforce to respond to emergencies."
+    },
+    {
+      "type": "framework",
+      "name": "National health emergency alert and response framework",
+      "description": "Outlines the key functions, coordination systems and actions needed for an effective response at local, sub-national and national levels.",
+      "evidence_text": "The National health emergency alert and response framework, published in October 2025 outlines the key functions, coordination systems and actions needed for an effective response."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-22",
+      "event": "Exercise Polaris II",
+      "location": "Global",
+      "actors": [
+        "World Health Organization",
+        "26 countries and territories",
+        "600 health emergency experts",
+        "over 25 partners"
+      ],
+      "evidence_text": "The World Health Organization (WHO) wrapped up Exercise Polaris II, a 2-day high-level simulation exercise, based around an outbreak of a fictional new bacterium."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [
+    {
+      "date": "2025-06",
+      "milestone": "Publication of GHEC framework",
+      "evidence_text": "The GHEC framework, published in June 2025, provides guidance on how countries can strengthen their health workforce."
+    },
+    {
+      "date": "2025-10",
+      "milestone": "Publication of National health emergency alert and response framework",
+      "evidence_text": "The National health emergency alert and response framework, published in October 2025 outlines the key functions, coordination systems and actions needed for an effective response."
+    }
+  ],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/27-04-2026-practicing-today-for-tomorrow-s-emergencies-who-convenes-countries-and-partners-to-simulate-response-to-major-disease-outbreak",
+      "title": "Practicing today for tomorrow’s emergencies – WHO convenes countries and partners to simulate response to major disease outbreak",
+      "published": "Mon, 27 Apr 2026 13:12:09 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is from the World Health Organization, a recognized authority in global health."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "websites_html_pages",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.cricbuzz.com/",
+  "title": null,
+  "source": "topic-config",
+  "published": null,
+  "sha256": "9193cfe9973be1161f05a5e9851b39d5522279cfca20c9e0e3e8718b63aec8d9",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:17.671388+00:00",
+  "text_chars": 8264,
+  "raw_path": "data/ipl-2026/raw/9193cfe9973be1161f05a5e9851b39d5522279cfca20c9e0e3e8718b63aec8d9.html",
+  "text_path": "data/ipl-2026/raw/9193cfe9973be1161f05a5e9851b39d5522279cfca20c9e0e3e8718b63aec8d9.txt"
+}

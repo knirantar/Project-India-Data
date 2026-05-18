@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem",
+  "title": "Australia becomes the 30th country to eliminate trachoma as a public health problem",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Wed, 29 Apr 2026 06:10:07 Z",
+  "sha256": "c03f0771fe8b79c82065d0e5f55d96c51fe58e734123182198184d3793fdc0ff",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:18.560460+00:00",
+  "text_chars": 7277,
+  "raw_path": "data/ipl-2026/raw/c03f0771fe8b79c82065d0e5f55d96c51fe58e734123182198184d3793fdc0ff.html",
+  "text_path": "data/ipl-2026/raw/c03f0771fe8b79c82065d0e5f55d96c51fe58e734123182198184d3793fdc0ff.txt"
+}

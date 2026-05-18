@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/india/neet-ug-2026-nta-appointments-paper-leak-reforms-10693097/",
+  "title": "Days after NEET paper leak, Cabinet approves appointment of 4 officers to NTA",
+  "source": "https://indianexpress.com/section/india/feed/",
+  "published": "Sat, 16 May 2026 14:27:46 +0000",
+  "sha256": "3aa63eb3b3f62b426eca94f221b0a16d15bb22f8cc84ad06a1ff63394b1f1843",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:19.297386+00:00",
+  "text_chars": 1952,
+  "raw_path": "data/ipl-2026/raw/3aa63eb3b3f62b426eca94f221b0a16d15bb22f8cc84ad06a1ff63394b1f1843.html",
+  "text_path": "data/ipl-2026/raw/3aa63eb3b3f62b426eca94f221b0a16d15bb22f8cc84ad06a1ff63394b1f1843.txt"
+}

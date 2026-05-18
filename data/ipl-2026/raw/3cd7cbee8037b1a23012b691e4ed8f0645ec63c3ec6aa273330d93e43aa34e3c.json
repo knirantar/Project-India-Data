@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/26-03-2026-encouraging-progress-in-inclusive-health-policies-for-refugees-and-migrants",
+  "title": "Encouraging progress in inclusive health policies for refugees and migrants",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Thu, 26 Mar 2026 08:50:26 Z",
+  "sha256": "3cd7cbee8037b1a23012b691e4ed8f0645ec63c3ec6aa273330d93e43aa34e3c",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:19.110499+00:00",
+  "text_chars": 5487,
+  "raw_path": "data/ipl-2026/raw/3cd7cbee8037b1a23012b691e4ed8f0645ec63c3ec6aa273330d93e43aa34e3c.html",
+  "text_path": "data/ipl-2026/raw/3cd7cbee8037b1a23012b691e4ed8f0645ec63c3ec6aa273330d93e43aa34e3c.txt"
+}

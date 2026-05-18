@@ -1,0 +1,100 @@
+Pursuant to paragraph 2 of 
+Article 12 - Determination of a public health emergency of international concern, including a pandemic emergency
+ of the 
+International Health Regulations (2005)
+ (IHR), the Director-General of the World Health Organization (WHO), after having consulted the States Parties where the event is known to be currently occurring, is hereby determining that the Ebola disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda constitutes a public health emergency of international concern (PHEIC), but does not meet the criteria of pandemic emergency, as defined in the IHR. 
+The Director-General of WHO expresses his gratitude to the leadership of the Democratic Republic of the Congo and Uganda for their commitment to take necessary and vigorous actions to bring the event under control, as well as for their frankness in assessing the risk posed by this event to other States Parties, hence allowing the global community to take necessary preparedness actions.
+In his determination the Director-General of WHO has considered, 
+inter alia
+, information provided by the States Parties – the Democratic Republic of the Congo and Uganda 
+–
+ scientific principles as well as the available scientific evidence and other relevant information; and assessed the risk to human health, the risk of international spread of disease and of the risk of interference with international traffic.
+The Director-General of WHO considers that the event meets the criteria of the definition of PHEIC, contained in Article 1 - Definitions of the IHR, for the following reasons:
+1. The event is extraordinary for the following reasons:
+As of 16 May 2026, eight laboratory-confirmed cases, 246 suspected cases and 80 suspected deaths have been reported in Ituri Province of the Democratic Republic of the Congo across at least three health zones, including Bunia, Rwampara and Mongbwalu. In addition, two laboratory confirmed cases (including one death) with no apparent link to each other have been reported in Kampala, Uganda, within 24 hours of each other, on 15 and 16 May 2026, among two individuals travelling from the Democratic Republic of the Congo. A further case reported on 16 May, an individual returning from Ituri to Kinshasa, has tested negative for Bundibugyo virus on confirmatory testing by INRB, and is therefore not considered a confirmed case.
+Unusual clusters of community deaths with symptoms compatible with Bundibugyo virus disease (BVD) have been reported across several health zones in Ituri, and suspected cases have been reported across Ituri and North Kivu. In addition, at least four deaths among healthcare workers in a clinical context suggestive of viral haemorrhagic fever have been reported from the affected area raising concerns regarding healthcare-associated transmission, gaps in infection prevention and control measures, and the potential for amplification within health facilities.
+There are significant uncertainties to the true number of infected persons and geographic spread associated with this event at the present time. In addition, there is limited understanding of the epidemiological links with known or suspected cases.
+However, the high positivity rate of the initial samples collected (with eight positives among 13 samples collected in various areas), the confirmation of cases in Kampala, the increasing trends in syndromic reporting of suspected cases and clusters of deaths across the province of Ituri all point towards a potentially much larger outbreak than what is currently being detected and reported, with significant local and regional risk of spread. Moreover, the ongoing insecurity, humanitarian crisis, high population mobility, the urban or semi-urban nature of the current hotspot and the large network of informal healthcare facilities further compound the risk of spread, as was witnessed during the large Ebola virus disease epidemic in North Kivu and Ituri provinces in 2018-19. However, unlike for Ebola-zaire strains, there are currently no approved Bundibugyo virus-specific therapeutics or vaccines. As such, this event is considered extraordinary.
+2. The event constitutes a public health risk to other States Parties through the international spread of disease. International spread has already been documented, with two confirmed cases reported in Kampala, Uganda on 15 and 16 May following travel from the Democratic Republic of the Congo. Both confirmed cases were admitted to intensive care units in Kampala. Neighboring countries sharing land borders with the Democratic Republic of the Congo are considered at high risk for further spread due to population mobility, trade and travel linkages, and ongoing epidemiological uncertainty.
+3. The event requires international coordination and cooperation to understand the extent of the outbreak, to coordinate surveillance, prevention and response efforts, to scale up and strengthen operations and ensure ability to implement control measures. 
+The Director-General of WHO, under the provisions of the IHR, will be convening an Emergency Committee, as soon as possible to advise, 
+inter alia
+, on the proposed temporary recommendation for States Parties to respond to the event.
+The WHO advice is enumerated below and will be subject to further refinement as appropriate after having considered the advice from the Emergency Committee and issuing of Temporary Recommendations.
+* The statement was updated to provide the status of a case reported on 16 May in Kinshasa.
+WHO advice
+For States Parties where the event is occurring 
+(the Democratic Republic of the Congo and Uganda)
+ 
+Coordination and high-level engagement 
+Activate 
+their national disaster/emergency management mechanisms and establish an emergency operation centre
+, under the authority of the Head of State and relevant government authority, to coordinate response activities across partners and sectors to ensure efficient and effective implementation and monitoring of comprehensive Bundibugyo virus disease control measures. These measures must include enhanced surveillance including contact tracing, infection prevention and control (IPC), risk communication and community engagement, laboratory diagnostic testing, and case management. Coordination and response mechanisms should be established at national level, as well as at subnational level in affected areas and at-risk areas.
+Should national capacities be overwhelmed, collaboration with partners should be enhanced to strengthen operations and ensure the ability to implement control measures in all affected and neighbouring areas. 
+Risk communication and community engagement 
+
+
+Ensure that there is a large-scale and sustained effort to fully engage the community – through local, religious and traditional leaders and healers – so communities play a central role in case identification, contact tracing and risk education; the population should be made fully aware of the benefits of early treatment.
+Strengthen 
+community awareness, engagement, and participation
+ in particular to identify and address cultural norms and beliefs that serve as barriers to their full participation in the response, and integrate the response within the wider response required to address the needs of the population, particularly in contexts of the protracted humanitarian crisis in Eastern DRC.
+Surveillance and laboratory  
+Strengthening
+ surveillance and laboratory capacity
+ across affected provinces and neighbouring provinces, through the establishment of (1) dedicated surveillance and response cells within affected health zones and across key at-risk neighbouring health zones, (2) enhanced community surveillance, particularly focused on community deaths, and (3) decentralized laboratory capacity for testing of Bundibugyo virus. 
+Infection prevention and control in health facilities and in the context of care
+Strengthen measures to prevent nosocomial infections, including systematic mapping of health facilities, triage, targeted IPC interventions and sustained monitoring and sustained supervision.
+Ensure healthcare workers receive adequate training on IPC, including the proper use of PPE, and that health facilities have appropriate equipment to ensure the safety and protection of their staff, their timely payment of salaries and, as appropriate, hazard pay
+Patients’ referral pathway and access to safe and optimized intensive care 
+Ensure that suspected cases can be safely transferred to specialized clinical units for their isolation and management in a human and patient-centred approach.
+Establish specialized treatment centers or units, located close to outbreak epicenter(s), with staff trained and equipped to implement optimized intensive supportive care. 
+Research and development of medical countermeasures
+Implement clinical trials to advance the development and use of candidate therapeutics and vaccine, supported by partners. 
+Border health, travels and mass-gathering events
+Undertake 
+cross-border screening and screening at main internal roads 
+to ensure that no suspected case is missed and enhance the quality of screening through improved sharing of information with surveillance teams.
+There should be no 
+international travel of 
+Bundibugyo virus disease
+ contacts or cases
+, unless the travel is part of an appropriate medical evacuation. To minimize the risk of international spread of Bundibugyo virus disease:
+confirmed cases should immediately be isolated and treated in a Bundibugyo virus disease Treatment Centre with no national or international travel until two Bundibugyo virus-specific diagnostic tests conducted at least 48 hours apart are negative;
+contacts (which do not include properly protected health workers and laboratory staff who have had no unprotected exposure) should be monitored daily, with restricted national travel and no international travel until 21 days after exposure; 
+probable and suspect cases should immediately be isolated and their travel should be restricted in accordance with their classification as either a confirmed case or contact.
+Implement exit screening of all persons at international airports, seaports and major land crossings, for unexplained febrile illness consistent with potential Bundibugyo virus disease. The exit screening should consist of, at a minimum, a questionnaire, a temperature measurement and, if there is a fever, an assessment of the risk that the fever is caused by Bundibugyo virus disease. Any person with an illness consistent with Bundibugyo virus disease should not be allowed to travel unless the travel is part of an appropriate medical evacuation.
+Consider postponing mass gatherings until BVD transmission is interrupted.
+Safe and dignified burials
+
+
+Ensure
+ 
+funerals and burials are conducted by well-trained personnel, with provision made for the presence of the family and cultural practices, and in accordance with national health regulations, to reduce the risk of Bundibugyo virus infection. The cross-border movement of the human remains of deceased suspect, probable or confirmed Bundibugyo virus disease cases should be prohibited unless authorized in accordance with recognized international biosafety provisions.
+    
+Operations, supplies and logistics
+
+
+Strong supply pipeline needs to be established to ensure that sufficient medical and laboratory commodities and other critical items, especially personal protective equipment (PPE), are available to those who appropriately need them.
+For States Parties with land borders adjoining States Parties with documented Bundibugyo virus disease
+Unaffected States Parties with land borders adjoining States Parties with documented Bundibugyo virus disease  transmission should urgently enhance their preparedness and readiness capacity, including active surveillance across health facilities with active zero reporting, enhancement of community surveillance for clusters of unexplained deaths; establish access to a qualified diagnostic laboratory; ensure that health workers are aware of and trained in appropriate IPC procedures; and establish rapid response teams with the capacity to investigate and manage BVD cases and their contacts.
+Dedicated coordination mechanisms should be in place at national and subnational level in all Unaffected States Parties with land borders adjoining States Parties with documented cases of Bundibugyo virus disease. States should be prepared to detect, investigate, and manage Bundibugyo virus disease cases; this should include assured access to a qualified diagnostic laboratory for Bundibugyo virus disease, isolation and case management capacity and activation of rapid response teams.
+Any State Parties newly detecting a suspected or confirmed Bundibugyo virus disease case or contact, or clusters of unexplained deaths should treat this as a health emergency, take immediate steps in the first 24 hours to investigate and stop a potential outbreak by instituting case isolation, case management, establishing a definitive diagnosis, and undertaking contact tracing and monitoring as required.
+If Bundibugyo virus disease is confirmed to be occurring in the State Party, the full recommendations for 
+State Parties
+ with Bundibugyo virus disease transmission
+ should be implemented, on either a national or subnational level, depending on the epidemiologic and risk context. State Parties should immediately report the confirmation of Bundibugyo virus disease to WHO.
+Risk communications and community engagement, especially at points of entry, should be increased.
+At-risk countries should put in place approvals for investigational therapeutics as an immediate priority for preparedness.
+For all Other States Parties
+No country should close its borders or place any restrictions on travel and trade. Such measures are usually implemented out of fear and have no basis in science. They push the movement of people and goods to informal border crossings that are not monitored, thus increasing the chances of the spread of disease. Most critically, these restrictions can also compromise local economies and negatively affect response operations from a security and logistics perspective.
+National authorities should work with airlines and other transport and tourism industries to ensure that they do not exceed WHO’s advice on international traffic.
+States Parties should provide travelers to Bundibugyo virus disease affected and at-risk areas with relevant information on risks, measures to minimize those risks, and advice for managing a potential exposure.
+The general public should be provided with accurate and relevant information on the Bundibugyo virus disease outbreak and measures to reduce the risk of exposure.
+State Parties should be prepared to facilitate the evacuation and repatriation of nationals (e.g. health workers) who have been exposed to Bundibugyo virus disease.
+Entry screening at airports or other ports of entry outside the affected region are not considered needed for passengers returning from areas at risk.
+ 
+Editor’s note
+On 17 May 2026, this statement was updated as follows:
+"On 16 May, a laboratory confirmed case has also been reported in Kinshasa, the Democratic Republic of the Congo, among someone returning from Ituri."
+was replaced with: 
+"A further case reported on 16 May, an individual returning from Ituri to Kinshasa, has tested negative for Bundibugyo virus on confirmatory testing by INRB, and is therefore not considered a confirmed case."

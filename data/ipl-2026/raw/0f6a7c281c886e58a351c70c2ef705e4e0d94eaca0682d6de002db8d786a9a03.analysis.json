@@ -1,0 +1,112 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+    "source_title": "Progress in reducing child deaths slows as 4.9 million children die before age five",
+    "published": "Wed, 18 Mar 2026 00:01:15 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "4.9 million children died before their fifth birthday in 2024.",
+      "evidence_text": "An estimated 4.9 million children died before their fifth birthday in 2024.",
+      "source_url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The pace of reduction in child mortality has slowed by more than 60 percent since 2015.",
+      "evidence_text": "However, since 2015, the pace of reduction in child mortality has slowed by more than 60 per cent.",
+      "source_url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Newborn deaths account for nearly half of all under-five deaths.",
+      "evidence_text": "Newborn deaths account for nearly half of all under-five deaths.",
+      "source_url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Malaria is the single largest killer in the under-five age group.",
+      "evidence_text": "Malaria remained the single largest killer in this age group (17 per cent).",
+      "source_url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Children born in fragile and conflict-affected countries are nearly three times more likely to die before their fifth birthday.",
+      "evidence_text": "Children born in these settings are nearly three times more likely to die before their fifth birthday than those elsewhere.",
+      "source_url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "UN Inter-agency Group for Child Mortality Estimation",
+      "description": "A group formed to share data on child mortality and improve estimation methods.",
+      "evidence_text": "The United Nations Inter-agency Group for Child Mortality Estimation or UN IGME was formed in 2004 to share data on child mortality."
+    },
+    {
+      "type": "organization",
+      "name": "Johns Hopkins Bloomberg School of Public Health",
+      "description": "An institution focused on public health research and education.",
+      "evidence_text": "The Johns Hopkins Bloomberg School of Public Health works to keep millions safe from illness and injury by pioneering new research."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "Child deaths",
+      "value": "4.9 million",
+      "unit": "children",
+      "date": "2024",
+      "location": "",
+      "evidence_text": "An estimated 4.9 million children died before their fifth birthday in 2024."
+    },
+    {
+      "name": "Newborn deaths",
+      "value": "2.3 million",
+      "unit": "newborns",
+      "date": "2024",
+      "location": "",
+      "evidence_text": "including 2.3 million newborns, according to new estimates released today."
+    },
+    {
+      "name": "Deaths from severe acute malnutrition",
+      "value": "100,000",
+      "unit": "children",
+      "date": "2024",
+      "location": "",
+      "evidence_text": "finding that more than 100,000 children aged 1-59 months – or 5 per cent – died from it in 2024."
+    },
+    {
+      "name": "Percentage of under-five deaths in sub-Saharan Africa",
+      "value": "58",
+      "unit": "%",
+      "date": "2024",
+      "location": "sub-Saharan Africa",
+      "evidence_text": "In 2024, sub-Saharan Africa accounted for 58 per cent of all under-five deaths."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/18-03-2026-progress-in-reducing-child-deaths-slows-as-4.9-million-children-die-before-age-five",
+      "title": "Progress in reducing child deaths slows as 4.9 million children die before age five",
+      "published": "Wed, 18 Mar 2026 00:01:15 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is from the World Health Organization, a reputable international health agency."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/india/tehran-will-welcome-diplomatic-initiative-from-india-iran-dy-fm-abbas-araghchi-10688220/",
+  "title": "Tehran will welcome diplomatic initiative from India: Iran Dy FM Kazem Gharibabadi",
+  "source": "https://indianexpress.com/section/india/feed/",
+  "published": "Wed, 13 May 2026 22:30:21 +0000",
+  "sha256": "4c8fa1b400b584d8cc16ced4c95691eae587d0d0fa1870bdc18ea9490dcc301a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:21.161378+00:00",
+  "text_chars": 5200,
+  "raw_path": "data/ipl-2026/raw/4c8fa1b400b584d8cc16ced4c95691eae587d0d0fa1870bdc18ea9490dcc301a.html",
+  "text_path": "data/ipl-2026/raw/4c8fa1b400b584d8cc16ced4c95691eae587d0d0fa1870bdc18ea9490dcc301a.txt"
+}

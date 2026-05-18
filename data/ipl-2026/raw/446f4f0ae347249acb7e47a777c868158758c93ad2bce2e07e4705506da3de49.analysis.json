@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
+    "source_title": "WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests",
+    "published": "Fri, 24 Apr 2026 16:11:22 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "WHO prequalifies the first treatment developed specifically for newborns and young infants weighing between two and five kilograms.",
+      "evidence_text": "The prequalification designation indicates that the medicine meets international standards of quality, safety and efficacy.",
+      "source_url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "WHO prequalified three new rapid diagnostic tests (RDTs) designed to address emerging diagnostic challenges for malaria.",
+      "evidence_text": "WHO also prequalified three new rapid diagnostic tests (RDTs) designed to address emerging diagnostic challenges for malaria.",
+      "source_url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The UN agency for health that connects nations, partners and people on the front lines.",
+      "evidence_text": "Dedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts."
+    },
+    {
+      "type": "disease",
+      "name": "malaria",
+      "description": "A disease caused by parasites that are transmitted to people through the bites of infected mosquitoes.",
+      "evidence_text": "For centuries, malaria has stolen children from their parents, and health, wealth and hope from communities."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-14",
+      "event": "WHO prequalifies new rapid diagnostic tests for malaria.",
+      "location": "",
+      "actors": [
+        "World Health Organization"
+      ],
+      "evidence_text": "On 14 April 2026, WHO also prequalified three new rapid diagnostic tests (RDTs) designed to address emerging diagnostic challenges for malaria."
+    },
+    {
+      "date": "2026-04-25",
+      "event": "World Malaria Day",
+      "location": "",
+      "actors": [],
+      "evidence_text": "Ahead of World Malaria Day on 25 April, the World Health Organization (WHO) has announced a significant step forward in the fight against malaria."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "estimated malaria cases",
+      "value": "282 million",
+      "unit": "cases",
+      "date": "2024",
+      "location": "",
+      "evidence_text": "According to the World malaria report 2025, there were an estimated 282 million cases and 610 000 deaths in 2024."
+    },
+    {
+      "name": "estimated malaria deaths",
+      "value": "610000",
+      "unit": "deaths",
+      "date": "2024",
+      "location": "",
+      "evidence_text": "According to the World malaria report 2025, there were an estimated 282 million cases and 610 000 deaths in 2024."
+    },
+    {
+      "name": "lives saved since 2000",
+      "value": "14 million",
+      "unit": "lives",
+      "date": "",
+      "location": "",
+      "evidence_text": "Substantial progress has been made, with an estimated 2.3 billion malaria infections prevented and 14 million lives saved worldwide since 2000."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/24-04-2026-who-prequalifies-first-ever-malaria-treatment-for-newborns-and-infants-adds-new-diagnostic-tests",
+      "title": "WHO prequalifies first-ever malaria treatment for newborns and infants, adds new diagnostic tests",
+      "published": "Fri, 24 Apr 2026 16:11:22 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is the World Health Organization, a recognized authority in global health."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

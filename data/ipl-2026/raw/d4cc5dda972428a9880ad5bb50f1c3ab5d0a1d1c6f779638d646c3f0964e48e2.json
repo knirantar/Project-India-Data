@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/health-wellness/india-ai-summit-2026-policy-framework-healthcare-data-platform-10537279/",
+  "title": "India AI summit 2026: Govt develops policy framework for AI in healthcare, data platform to train models",
+  "source": "https://indianexpress.com/section/health-wellness/feed/",
+  "published": "Tue, 17 Feb 2026 13:45:01 +0000",
+  "sha256": "d4cc5dda972428a9880ad5bb50f1c3ab5d0a1d1c6f779638d646c3f0964e48e2",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:20.153232+00:00",
+  "text_chars": 5772,
+  "raw_path": "data/ipl-2026/raw/d4cc5dda972428a9880ad5bb50f1c3ab5d0a1d1c6f779638d646c3f0964e48e2.html",
+  "text_path": "data/ipl-2026/raw/d4cc5dda972428a9880ad5bb50f1c3ab5d0a1d1c6f779638d646c3f0964e48e2.txt"
+}

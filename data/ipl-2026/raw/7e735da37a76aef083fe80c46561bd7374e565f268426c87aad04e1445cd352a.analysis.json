@@ -1,0 +1,101 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/14-05-2026-tunisia-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+    "source_title": "Tunisia validated by WHO as having eliminated trachoma as a public health problem",
+    "published": "Thu, 14 May 2026 09:23:04 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Tunisia has eliminated trachoma as a public health problem.",
+      "evidence_text": "The World Health Organization (WHO) has validated Tunisia as having eliminated trachoma as a public health problem.",
+      "source_url": "https://www.who.int/news/item/14-05-2026-tunisia-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The organization that validated Tunisia's elimination of trachoma.",
+      "evidence_text": "The World Health Organization (WHO) has validated Tunisia as having eliminated trachoma as a public health problem."
+    },
+    {
+      "type": "person",
+      "name": "Dr. Tedros Adhanom Ghebreyesus",
+      "description": "WHO Director-General who congratulated Tunisia on its achievement.",
+      "evidence_text": "“I congratulate Tunisia on this historic public health achievement,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General."
+    },
+    {
+      "type": "person",
+      "name": "Dr. Hanan Balkhy",
+      "description": "WHO Regional Director for the Eastern Mediterranean who commented on Tunisia's achievement.",
+      "evidence_text": "“I congratulate Tunisia on the elimination of trachoma as a public health problem,” said WHO Regional Director for the Eastern Mediterranean Dr Hanan Balkhy."
+    },
+    {
+      "type": "person",
+      "name": "Dr. Mustapha Ferjani",
+      "description": "Minister of Health of Tunisia who spoke about the milestone.",
+      "evidence_text": "“Validation marks a historic achievement for Tunisia and reflects our country’s long-standing commitment to public health,” said Dr Mustapha Ferjani, Minister of Health of Tunisia."
+    },
+    {
+      "type": "person",
+      "name": "Dr. Ahmed Zouiten",
+      "description": "Acting WHO Representative in Tunisia who commented on the validation.",
+      "evidence_text": "“The validation of elimination of trachoma as a public health problem in Tunisia reflects the impact of sustained collaboration between the Ministry of Health and WHO,” said Dr Ahmed Zouiten."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-14",
+      "event": "Validation of trachoma elimination",
+      "location": "Tunisia",
+      "actors": [
+        "World Health Organization",
+        "Ministry of Health of Tunisia"
+      ],
+      "evidence_text": "The World Health Organization (WHO) has validated Tunisia as having eliminated trachoma as a public health problem."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Countries validated for trachoma elimination",
+      "value": "31",
+      "unit": "countries",
+      "date": "2026-05-14",
+      "location": "Global",
+      "evidence_text": "Tunisia becomes the 31st country in the world to be validated as having eliminated trachoma as a public health problem."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/14-05-2026-tunisia-validated-by-who-as-having-eliminated-trachoma-as-a-public-health-problem",
+      "title": "Tunisia validated by WHO as having eliminated trachoma as a public health problem",
+      "published": "Thu, 14 May 2026 09:23:04 Z",
+      "evidence_text": "The World Health Organization (WHO) has validated Tunisia as having eliminated trachoma as a public health problem."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is provided by the World Health Organization."
+  },
+  "geolocation": [
+    {
+      "name": "Tunisia",
+      "type": "country",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The World Health Organization (WHO) has validated Tunisia as having eliminated trachoma as a public health problem."
+    }
+  ],
+  "timestamps": []
+}

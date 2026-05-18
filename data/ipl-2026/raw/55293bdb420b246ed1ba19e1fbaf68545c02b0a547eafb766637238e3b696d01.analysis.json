@@ -1,0 +1,90 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/health-wellness/us-releases-new-heart-diet-rules-start-food-discipline-early-cut-sugar-and-dont-start-on-alcohol-at-all-10622889/",
+    "source_title": "New heart health diet: Food discipline from childhood, cut sugar and don’t start on alcohol at all",
+    "published": "Tue, 07 Apr 2026 03:04:40 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The AHA guidelines recommend starting dietary changes early.",
+      "evidence_text": "Though the AHA doesn’t mention how early, probably factoring in those on poor, energy-deficient diets, it can be assumed that healthy diet discipline is crucial for foundational years.",
+      "source_url": "https://indianexpress.com/article/health-wellness/us-releases-new-heart-diet-rules-start-food-discipline-early-cut-sugar-and-dont-start-on-alcohol-at-all-10622889/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Alcohol consumption is discouraged in the new guidelines.",
+      "evidence_text": "Don’t get started on alcohol if you haven’t. It’s poison for your heart and weakens its muscles from the very first sip.",
+      "source_url": "https://indianexpress.com/article/health-wellness/us-releases-new-heart-diet-rules-start-food-discipline-early-cut-sugar-and-dont-start-on-alcohol-at-all-10622889/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The guidelines emphasize a holistic approach to heart health.",
+      "evidence_text": "It takes a bold stance against alcohol consumption, calling for immediate limits by drinkers, and links a good diet with exercise and weight.",
+      "source_url": "https://indianexpress.com/article/health-wellness/us-releases-new-heart-diet-rules-start-food-discipline-early-cut-sugar-and-dont-start-on-alcohol-at-all-10622889/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "American Heart Association",
+      "description": "AHA is responsible for issuing the new heart health diet guidelines.",
+      "evidence_text": "These are guidelines for a heart-friendly diet issued by the American Heart Association."
+    },
+    {
+      "type": "journal",
+      "name": "Circulation",
+      "description": "The journal where the new guidelines were published.",
+      "evidence_text": "which have been published in the journal ‘Circulation.’"
+    },
+    {
+      "type": "person",
+      "name": "Dr Ranjan Shetty",
+      "description": "Lead cardiologist and medical director at Sparsh Hospital, Bengaluru.",
+      "evidence_text": "says Dr Ranjan Shetty, lead cardiologist and medical director at Sparsh Hospital, Bengaluru."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "added sugar intake",
+      "value": "25%",
+      "unit": "energy",
+      "date": "",
+      "location": "",
+      "evidence_text": "It has been estimated that adults consuming above 25% of energy from added sugars have a nearly three-fold higher risk of CVD mortality compared with those consuming less than 10% of energy from added sugars."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/health-wellness/us-releases-new-heart-diet-rules-start-food-discipline-early-cut-sugar-and-dont-start-on-alcohol-at-all-10622889/",
+      "title": "New heart health diet: Food discipline from childhood, cut sugar and don’t start on alcohol at all",
+      "published": "Tue, 07 Apr 2026 03:04:40 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet reporting on guidelines from a recognized health organization."
+  },
+  "geolocation": [
+    {
+      "name": "Bengaluru",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "says Dr Ranjan Shetty, lead cardiologist and medical director at Sparsh Hospital, Bengaluru."
+    }
+  ],
+  "timestamps": []
+}

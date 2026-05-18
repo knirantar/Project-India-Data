@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/india/neet-ug-2026-paper-leak-cbi-arrests-pune-chemistry-lecturer-10691558/",
+  "title": "Pune-based chemistry lecturer involved in NEET exam is source of paper leak, CBI says",
+  "source": "https://indianexpress.com/section/india/feed/",
+  "published": "Fri, 15 May 2026 14:04:14 +0000",
+  "sha256": "154c0c2211ba60d676d368ed7dd8b97f206bcfe00c48e54a983c0d485cc0f77a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:20.204713+00:00",
+  "text_chars": 3298,
+  "raw_path": "data/ipl-2026/raw/154c0c2211ba60d676d368ed7dd8b97f206bcfe00c48e54a983c0d485cc0f77a.html",
+  "text_path": "data/ipl-2026/raw/154c0c2211ba60d676d368ed7dd8b97f206bcfe00c48e54a983c0d485cc0f77a.txt"
+}

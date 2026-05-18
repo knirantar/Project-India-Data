@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/01-05-2026-who-member-states-agree-to-extend-negotiations-on-pathogen-access-and-benefit-sharing-annex",
+  "title": "WHO Member States agree to extend negotiations on Pathogen Access and Benefit Sharing annex",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Fri, 01 May 2026 16:52:42 Z",
+  "sha256": "c65f16c0f51101152b80d9fcdeda94555c1d587144211ec7b9e85dc2ce5510cf",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:18.520420+00:00",
+  "text_chars": 2852,
+  "raw_path": "data/ipl-2026/raw/c65f16c0f51101152b80d9fcdeda94555c1d587144211ec7b9e85dc2ce5510cf.html",
+  "text_path": "data/ipl-2026/raw/c65f16c0f51101152b80d9fcdeda94555c1d587144211ec7b9e85dc2ce5510cf.txt"
+}

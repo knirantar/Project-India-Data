@@ -1,0 +1,102 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship",
+    "source_title": "WHO’s response to hantavirus cases linked to a cruise ship",
+    "published": "Thu, 07 May 2026 17:21:37 Z",
+    "data_type": "rss_feed_content",
+    "author": "Dr Tedros Adhanom Ghebreyesus",
+    "publisher": "World Health Organization",
+    "language": "English",
+    "region": "",
+    "summary": "WHO is responding to a cluster of hantavirus cases linked to the cruise ship MV Hondius, with eight cases reported, including three deaths.",
+    "tags_topics": [
+      "hantavirus",
+      "public health",
+      "cruise ship",
+      "WHO",
+      "International Health Regulations"
+    ]
+  },
+  "claims": [
+    {
+      "claim_text": "WHO assesses the public health risk as low.",
+      "evidence_text": "Dr Tedros said, “While this is a serious incident, WHO assesses the public health risk as low.”",
+      "source_url": "https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Five of the eight cases have been confirmed as hantavirus.",
+      "evidence_text": "Five of the 8 cases have been confirmed as hantavirus.",
+      "source_url": "https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "virus",
+      "name": "Andes virus",
+      "description": "The only species known to be capable of limited transmission between humans.",
+      "evidence_text": "The hantavirus involved is the Andes virus, the only species known to be capable of limited transmission between humans."
+    },
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The organization coordinating the response to the hantavirus cases.",
+      "evidence_text": "WHO is coordinating closely with multiple countries under the International Health Regulations."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-02",
+      "event": "WHO notified of hantavirus situation",
+      "location": "MV Hondius",
+      "actors": [
+        "World Health Organization"
+      ],
+      "evidence_text": "WHO has taken a number of actions since it was notified of the situation on Saturday, 2 May 2026."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "number of cases",
+      "value": "8",
+      "unit": "cases",
+      "date": "2026-05-07",
+      "location": "MV Hondius",
+      "evidence_text": "Eight cases have been reported so far, including three deaths."
+    },
+    {
+      "name": "number of deaths",
+      "value": "3",
+      "unit": "deaths",
+      "date": "2026-05-07",
+      "location": "MV Hondius",
+      "evidence_text": "Eight cases have been reported so far, including three deaths."
+    },
+    {
+      "name": "diagnostic kits shipped",
+      "value": "2500",
+      "unit": "kits",
+      "date": "2026-05-07",
+      "location": "from Argentina to five countries",
+      "evidence_text": "WHO has arranged for the shipment of 2500 diagnostic kits from Argentina to laboratories in five countries."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship",
+      "title": "WHO’s response to hantavirus cases linked to a cruise ship",
+      "published": "Thu, 07 May 2026 17:21:37 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is provided by the World Health Organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/07-05-2026-who-s-response-to-hantavirus-cases-linked-to-a-cruise-ship",
+  "title": "WHO’s response to hantavirus cases linked to a cruise ship",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Thu, 07 May 2026 17:21:37 Z",
+  "sha256": "c38c46bb2d47415cbdec6d0ff646e1c57e7f78c8780583a2258d7d8f12aa307d",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:18.465712+00:00",
+  "text_chars": 1882,
+  "raw_path": "data/ipl-2026/raw/c38c46bb2d47415cbdec6d0ff646e1c57e7f78c8780583a2258d7d8f12aa307d.html",
+  "text_path": "data/ipl-2026/raw/c38c46bb2d47415cbdec6d0ff646e1c57e7f78c8780583a2258d7d8f12aa307d.txt"
+}

@@ -1,0 +1,113 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/06-04-2026-who-calls-for-action---together-for-health.-stand-with-science.--to-mark-world-health-day",
+    "source_title": "WHO calls for action: “Together for health. Stand with science.” to mark World Health Day",
+    "published": "Mon, 06 Apr 2026 08:36:50 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The global maternal mortality rate has fallen by more than 40% since 2000.",
+      "evidence_text": "The global maternal mortality rate has fallen by more than 40% since 2000.",
+      "source_url": "https://www.who.int/news/item/06-04-2026-who-calls-for-action---together-for-health.-stand-with-science.--to-mark-world-health-day",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Deaths among children under five have been reduced by over 50%.",
+      "evidence_text": "Deaths among children under five have been reduced by over 50%.",
+      "source_url": "https://www.who.int/news/item/06-04-2026-who-calls-for-action---together-for-health.-stand-with-science.--to-mark-world-health-day",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Over the past 50 years, global immunization efforts have saved over 154 million children from infectious diseases.",
+      "evidence_text": "Over the past 50 years, global immunization efforts have saved over 154 million children from infectious diseases.",
+      "source_url": "https://www.who.int/news/item/06-04-2026-who-calls-for-action---together-for-health.-stand-with-science.--to-mark-world-health-day",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The World Health Organization is a specialized agency of the United Nations responsible for international public health.",
+      "evidence_text": "The World Health Organization (WHO) today calls on people everywhere to renew their commitment to working together and supporting science."
+    },
+    {
+      "type": "event",
+      "name": "One Health Summit",
+      "description": "A summit convened by WHO and the G7 Presidency of France to strengthen coordinated action for health.",
+      "evidence_text": "WHO and the G7 Presidency of France are convening a One Health Summit in Lyon, France, from 5–7 April."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-05",
+      "event": "One Health Summit",
+      "location": "Lyon, France",
+      "actors": [
+        "WHO",
+        "G7 Presidency of France"
+      ],
+      "evidence_text": "WHO and the G7 Presidency of France are convening a One Health Summit in Lyon, France, from 5–7 April."
+    },
+    {
+      "date": "2026-04-07",
+      "event": "Global Forum of Collaborating Centres",
+      "location": "",
+      "actors": [
+        "WHO",
+        "over 800 academic and research institutions"
+      ],
+      "evidence_text": "WHO will host the Global Forum of its Collaborating Centres network from 7–9 April."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "global maternal mortality rate reduction",
+      "value": "40",
+      "unit": "%",
+      "date": "2000",
+      "location": "",
+      "evidence_text": "The global maternal mortality rate has fallen by more than 40% since 2000."
+    },
+    {
+      "name": "child mortality rate reduction",
+      "value": "50",
+      "unit": "%",
+      "date": "",
+      "location": "",
+      "evidence_text": "Deaths among children under five have been reduced by over 50%."
+    },
+    {
+      "name": "children saved by immunization",
+      "value": "154 million",
+      "unit": "children",
+      "date": "50 years",
+      "location": "",
+      "evidence_text": "Over the past 50 years, global immunization efforts have saved over 154 million children from infectious diseases."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/06-04-2026-who-calls-for-action---together-for-health.-stand-with-science.--to-mark-world-health-day",
+      "title": "WHO calls for action: “Together for health. Stand with science.” to mark World Health Day",
+      "published": "Mon, 06 Apr 2026 08:36:50 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is from the World Health Organization, a recognized authority in public health."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

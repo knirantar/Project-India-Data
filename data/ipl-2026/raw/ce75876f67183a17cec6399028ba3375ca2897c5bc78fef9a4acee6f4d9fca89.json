@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/04-05-2026-joint-call-by-the-president-of-the-icrc--the-director-general-of-who-and-the-international-president-of-msf",
+  "title": "Joint call by the President of the ICRC, the Director-General of WHO and the International President of MSF",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Mon, 04 May 2026 06:44:57 Z",
+  "sha256": "ce75876f67183a17cec6399028ba3375ca2897c5bc78fef9a4acee6f4d9fca89",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:18.600693+00:00",
+  "text_chars": 4787,
+  "raw_path": "data/ipl-2026/raw/ce75876f67183a17cec6399028ba3375ca2897c5bc78fef9a4acee6f4d9fca89.html",
+  "text_path": "data/ipl-2026/raw/ce75876f67183a17cec6399028ba3375ca2897c5bc78fef9a4acee6f4d9fca89.txt"
+}

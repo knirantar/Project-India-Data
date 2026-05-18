@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/22-04-2026-who-certifies-the-bahamas-for-eliminating-mother-to-child-transmission-of-hiv",
+  "title": "WHO certifies the Bahamas for eliminating mother-to-child transmission of HIV",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Wed, 22 Apr 2026 20:34:27 Z",
+  "sha256": "3bab5f054c1f942adcb17e2c7de08edc18479ae2aecbcdc6f218c658a13f4f3f",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:18.672799+00:00",
+  "text_chars": 4913,
+  "raw_path": "data/ipl-2026/raw/3bab5f054c1f942adcb17e2c7de08edc18479ae2aecbcdc6f218c658a13f4f3f.html",
+  "text_path": "data/ipl-2026/raw/3bab5f054c1f942adcb17e2c7de08edc18479ae2aecbcdc6f218c658a13f4f3f.txt"
+}

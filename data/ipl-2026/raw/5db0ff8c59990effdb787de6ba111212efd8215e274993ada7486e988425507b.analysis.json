@@ -1,0 +1,91 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/23-04-2026-algeria-eliminates-trachoma-as-a-public-health-problem",
+    "source_title": "Algeria eliminates trachoma as a public health problem",
+    "published": "Thu, 23 Apr 2026 10:46:17 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Algeria has eliminated trachoma as a public health problem.",
+      "evidence_text": "The World Health Organization (WHO) has validated Algeria as having eliminated trachoma as a public health problem.",
+      "source_url": "https://www.who.int/news/item/23-04-2026-algeria-eliminates-trachoma-as-a-public-health-problem",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "Algeria",
+      "description": "Algeria has eliminated trachoma as a public health problem.",
+      "evidence_text": "Algeria’s elimination of trachoma is a historic triumph."
+    },
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The organization that validated Algeria's elimination of trachoma.",
+      "evidence_text": "The World Health Organization (WHO) has validated Algeria as having eliminated trachoma."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-12",
+      "event": "Submission of dossier for trachoma elimination validation",
+      "location": "Algeria",
+      "actors": [
+        "Ministry of Health of Algeria"
+      ],
+      "evidence_text": "In December 2025, the Ministry of Health of Algeria compiled and submitted a dossier in which evidence was provided that the country meets the criteria set by WHO for elimination of trachoma."
+    },
+    {
+      "date": "2022",
+      "event": "WHO-compliant surveys confirmed elimination threshold",
+      "location": "Algeria",
+      "actors": [
+        "WHO"
+      ],
+      "evidence_text": "WHO-compliant surveys conducted in 2022 confirmed that the elimination threshold for active trachoma was achieved in all areas."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Number of countries eliminating trachoma",
+      "value": "29",
+      "unit": "countries",
+      "date": "2026-04-23",
+      "location": "Global",
+      "evidence_text": "making it the 10th country in WHO’s African Region and the 29th country globally to achieve this significant milestone."
+    },
+    {
+      "name": "Number of people at risk of trachoma blindness",
+      "value": "97 million",
+      "unit": "people",
+      "date": "",
+      "location": "Global",
+      "evidence_text": "According to latest figures, 97 million people live in trachoma endemic areas and are at risk of trachoma blindness."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/23-04-2026-algeria-eliminates-trachoma-as-a-public-health-problem",
+      "title": "Algeria eliminates trachoma as a public health problem",
+      "published": "Thu, 23 Apr 2026 10:46:17 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is provided by the World Health Organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

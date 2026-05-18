@@ -1,0 +1,111 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/22-04-2026-who-certifies-the-bahamas-for-eliminating-mother-to-child-transmission-of-hiv",
+    "source_title": "WHO certifies the Bahamas for eliminating mother-to-child transmission of HIV",
+    "published": "Wed, 22 Apr 2026 20:34:27 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Bahamas has eliminated mother-to-child transmission of HIV.",
+      "evidence_text": "the World Health Organization (WHO) congratulates The Bahamas for becoming the latest Caribbean nation to be certified as having eliminated the mother-to-child transmission of HIV.",
+      "source_url": "https://www.who.int/news/item/22-04-2026-who-certifies-the-bahamas-for-eliminating-mother-to-child-transmission-of-hiv",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The specialized agency of the United Nations responsible for international public health.",
+      "evidence_text": "the World Health Organization (WHO) congratulates The Bahamas"
+    },
+    {
+      "type": "organization",
+      "name": "Pan American Health Organization",
+      "description": "Regional office of the World Health Organization for the Americas.",
+      "evidence_text": "said Dr Jarbas Barbosa, Director of the Pan American Health Organization (PAHO)"
+    },
+    {
+      "type": "organization",
+      "name": "UNAIDS",
+      "description": "Joint United Nations Programme on HIV/AIDS.",
+      "evidence_text": "said Winnie Byanyima, UNAIDS Executive Director."
+    },
+    {
+      "type": "initiative",
+      "name": "EMTCT Plus Initiative",
+      "description": "Aims to eliminate mother-to-child transmission of HIV, syphilis, hepatitis B, and congenital Chagas disease.",
+      "evidence_text": "The Bahamas’ success is part of the broader EMTCT Plus Initiative"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-22",
+      "event": "WHO certifies The Bahamas for eliminating mother-to-child transmission of HIV",
+      "location": "The Bahamas",
+      "actors": [
+        "World Health Organization",
+        "Pan American Health Organization"
+      ],
+      "evidence_text": "the World Health Organization (WHO) congratulates The Bahamas for becoming the latest Caribbean nation to be certified"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "mother-to-child transmission rate of HIV",
+      "value": "< 2%",
+      "unit": "percentage",
+      "date": "",
+      "location": "The Bahamas",
+      "evidence_text": "reducing the mother-to-child transmission rate of HIV to less than 2%"
+    },
+    {
+      "name": "new pediatric HIV infections",
+      "value": "< 5",
+      "unit": "per 1000 live births",
+      "date": "",
+      "location": "The Bahamas",
+      "evidence_text": "achieving fewer than 5 new pediatric HIV infections per 1000 live births"
+    },
+    {
+      "name": "antenatal care coverage",
+      "value": "95%",
+      "unit": "percentage",
+      "date": "",
+      "location": "The Bahamas",
+      "evidence_text": "maintaining 95% or higher coverage for antenatal care, HIV testing, and treatment for pregnant women"
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/22-04-2026-who-certifies-the-bahamas-for-eliminating-mother-to-child-transmission-of-hiv",
+      "title": "WHO certifies the Bahamas for eliminating mother-to-child transmission of HIV",
+      "published": "Wed, 22 Apr 2026 20:34:27 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is provided by the World Health Organization, a recognized authority in public health."
+  },
+  "geolocation": [
+    {
+      "name": "The Bahamas",
+      "type": "country",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The Bahamas has eliminated mother-to-child transmission of HIV."
+    }
+  ],
+  "timestamps": []
+}

@@ -1,0 +1,33 @@
+The world is falling short on health targets, with progress uneven, slowing, and in some areas reversing, according to the 
+World Health Statistics 2026
+ report, published today by the World Health Organization (WHO).
+While there have been meaningful improvements in global health over the past decade, with millions benefiting from better prevention, treatment and access to essential services, persistent and emerging challenges mean that the world remains off track to achieve any of the health-related Sustainable Development Goals (SDGs) by 2030.
+The notable progress outlined in the report includes:
+new HIV infections fell by 40% between 2010 and 2024;
+both tobacco use and alcohol consumption have declined since 2010; and
+the number of people needing interventions for neglected tropical diseases has dropped by 36% between 2010 and 2024. 
+Access to services that shape health outcomes expanded rapidly between 2015 and 2024. During this period, 961 million people gained access to safely managed drinking water, 1.2 billion to sanitation, 1.6 billion to basic hygiene, and 1.4 billion to clean cooking solutions. 
+Encouragingly, the WHO African Region has achieved faster-than-global reductions in HIV (-70%) and tuberculosis (-28%), and the South-East Asia Region is on track to meet its 2025 milestone for malaria reduction. 
+However, challenges remain. For example, malaria incidence increased by 8.5% since 2015, moving the world further away from global targets while overall progress remains highly uneven across regions. 
+Preventable risks continue to undermine health, slowing progress. Anaemia affects 30.7% of women of reproductive age, with no improvement over the past decade. The prevalence of overweight among children under five reached 5.5% in 2024.  Violence against women remains widespread, with intimate partner violence affecting 1 in 4 women globally. These persistent risks highlight the urgent need for stronger prevention and social protection policies.
+“These data tell a story of both progress and persistent inequality, with many people – especially women, children and those in underserved communities – still denied the basic conditions for a healthy life,” said Dr Tedros Adhanom Ghebreyesus, WHO Director-General. “Investing in stronger, more equitable health systems, including resilient health data systems is essential to target action, close gaps and ensure accountability.”
+Urgent need to protect progress under pressure
+Progress towards universal health coverage (UHC) has slowed sharply. The global UHC 
+service coverage index 
+rose only slightly from 68 to 71 between 2015 and 2023. One quarter of the global population faced financial hardship from health costs, and 1.6 billion people were living in or pushed into poverty due to out-of-pocket health spending in 2022. At the same time, childhood vaccination coverage remains below target, with immunity gaps contributing to outbreaks.
+Although global maternal mortality has fallen by 40% since 2000, it remains nearly three times higher than the 2030 target. Under-five mortality has declined by 51%, yet many countries are off track. Progress in reducing premature deaths from noncommunicable diseases has slowed significantly since 2015.
+Many drivers of ill health – nutritional, behavioural and environmental risks – are not improving fast enough. Air pollution contributed to an estimated 6.6 million deaths worldwide in 2021, while inadequate water, sanitation and hygiene contributed to 1.4 million deaths in 2019.
+“These trends reflect too many deaths that could have been avoided,” said Dr Yukiko Nakatani, WHO Assistant Director-General for Health Systems, Access and Data. “With rising environmental risks, health emergencies, and a worsening health financing crisis, we must act urgently – strengthening primary health care, investing in prevention, and securing sustainable financing to build resilient health systems and get back on track.”
+The COVID-19 pandemic further exposed vulnerabilities in global health systems. Between 2020 and 2023, it was linked to an estimated 22.1 million excess deaths, including indirect deaths. This is more than three times the number of officially reported COVID-19 deaths. This reveals the scale of the pandemic’s global impact, reversing a decade of gains in life expectancy, with recovery remaining incomplete and uneven across regions.
+Better data, better health decisions
+The report highlights major data gaps that prevent full assessment of progress. As of end 2025, only 18% of countries were reporting mortality data to WHO within one year, and nearly one third have never reported cause-of-death data. Just one third of countries meet WHO standards for high-quality mortality data, while about half have low or very low-quality or no data. Of the estimated 61 million deaths globally in 2023, only about one third were reported with cause-of-death information, and only about one fifth had meaningful 
+International Classification of Diseases
+ (ICD) coded data.  
+“Data gaps severely limit the ability to monitor real-time health trends, compare outcomes across countries, and design effective public health responses,” said Dr Alain Labrique, Director for the Department of Data, Digital Health, Analytics and Artificial Intelligence. “Country efforts to invest in stronger systems, digitalization and improved reporting standards are encouraging and should be sustained – they are essential to enable countries to collect, integrate, analyse and use health data for better decisions”. 
+The World Health Statistics 2026 report sends a clear message: while global health efforts are delivering results, progress is fragile and insufficient. Accelerated action, stronger health systems, and improved data are urgently needed to renew progress toward the 2030 health goals. 
+About WHO 
+Dedicated to the well-being of all people and guided by science, the World Health Organization leads and champions global efforts to give everyone, everywhere an equal chance at a safe and healthy life. 
+We are the UN agency for health that connects nations, partners and people on the front lines in 150+ locations – leading the world’s response to health emergencies, preventing disease, addressing the root causes of health issues and expanding access to medicines and health care. Our mission is to promote health, keep the world safe and serve the vulnerable. 
+“Together for health. Stand with science”, the theme of 
+World Health Day 2026
+, marks a year-long campaign to highlight science as the foundation for protecting health and well-being worldwide.

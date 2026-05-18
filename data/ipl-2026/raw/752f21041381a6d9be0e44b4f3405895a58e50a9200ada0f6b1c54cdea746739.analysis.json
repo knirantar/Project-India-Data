@@ -1,0 +1,85 @@
+{
+  "document": {
+    "source_url": "https://www.nlm.nih.gov/pubs/techbull/jf26/jf26_PubMed_2026_BaselineRelease.html",
+    "source_title": "PubMed 2026 Baseline Released",
+    "published": "Fri, 30 Jan 2026 00:00:00 EST",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The 2026 production year PubMed Baseline files have been released.",
+      "evidence_text": "The National Library of Medicine (NLM) has released the 2026 production year PubMed Baseline files.",
+      "source_url": "https://www.nlm.nih.gov/pubs/techbull/jf26/jf26_PubMed_2026_BaselineRelease.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Several changes were made to Publication Types for MeSH 2026.",
+      "evidence_text": "Several changes were made to Publication Types for MeSH 2026.",
+      "source_url": "https://www.nlm.nih.gov/pubs/techbull/jf26/jf26_PubMed_2026_BaselineRelease.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "National Library of Medicine",
+      "description": "The organization that released the 2026 PubMed Baseline files.",
+      "evidence_text": "The National Library of Medicine (NLM) has released the 2026 production year PubMed Baseline files."
+    },
+    {
+      "type": "publication_type",
+      "name": "Evidence Synthesis",
+      "description": "A new publication type for MeSH 2026.",
+      "evidence_text": "Evidence Synthesis [pt] is new for 2026."
+    },
+    {
+      "type": "publication_type",
+      "name": "Conference Proceedings",
+      "description": "The updated name for the previously named Congress publication type.",
+      "evidence_text": "Congress [pt] is now Conference Proceedings [pt]."
+    },
+    {
+      "type": "publication_type",
+      "name": "Consensus Statement",
+      "description": "The updated name for the previously named Consensus Development Conference publication type.",
+      "evidence_text": "Consensus Development Conference [pt] is now Consensus Statement [pt]."
+    },
+    {
+      "type": "publication_type",
+      "name": "Seminal Article",
+      "description": "A discontinued publication type for MeSH 2026.",
+      "evidence_text": "Seminal Article (formerly called Classical Article) has been discontinued."
+    },
+    {
+      "type": "publication_type",
+      "name": "Clinical Conference",
+      "description": "A discontinued publication type for MeSH 2026.",
+      "evidence_text": "Clinical Conference has been discontinued."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.nlm.nih.gov/pubs/techbull/jf26/jf26_PubMed_2026_BaselineRelease.html",
+      "title": "PubMed 2026 Baseline Released",
+      "published": "Fri, 30 Jan 2026 00:00:00 EST",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is released by the National Library of Medicine."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

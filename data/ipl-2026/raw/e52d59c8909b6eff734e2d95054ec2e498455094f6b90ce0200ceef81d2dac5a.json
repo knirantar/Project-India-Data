@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/india/healthaicon-2026-national-ai-doctors-mission-launched-nmc-abhijat-sheth-10695915/",
+  "title": "NMC chief says AI won’t replace your doctor, but change medical education forever: Here’s why",
+  "source": "https://indianexpress.com/section/india/feed/",
+  "published": "Mon, 18 May 2026 11:38:14 +0000",
+  "sha256": "e52d59c8909b6eff734e2d95054ec2e498455094f6b90ce0200ceef81d2dac5a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:19.261379+00:00",
+  "text_chars": 3236,
+  "raw_path": "data/ipl-2026/raw/e52d59c8909b6eff734e2d95054ec2e498455094f6b90ce0200ceef81d2dac5a.html",
+  "text_path": "data/ipl-2026/raw/e52d59c8909b6eff734e2d95054ec2e498455094f6b90ce0200ceef81d2dac5a.txt"
+}

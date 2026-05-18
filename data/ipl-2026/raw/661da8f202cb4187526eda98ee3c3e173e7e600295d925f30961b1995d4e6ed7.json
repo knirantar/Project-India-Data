@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/india/neet-ug-2026-paper-leak-cbi-arrests-raids-10689761/",
+  "title": "NEET paper leak: CBI now arrests 2 in Maharashtra; 5 others sent to 7-day custody",
+  "source": "https://indianexpress.com/section/india/feed/",
+  "published": "Thu, 14 May 2026 13:50:32 +0000",
+  "sha256": "661da8f202cb4187526eda98ee3c3e173e7e600295d925f30961b1995d4e6ed7",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:20.334904+00:00",
+  "text_chars": 2370,
+  "raw_path": "data/ipl-2026/raw/661da8f202cb4187526eda98ee3c3e173e7e600295d925f30961b1995d4e6ed7.html",
+  "text_path": "data/ipl-2026/raw/661da8f202cb4187526eda98ee3c3e173e7e600295d925f30961b1995d4e6ed7.txt"
+}

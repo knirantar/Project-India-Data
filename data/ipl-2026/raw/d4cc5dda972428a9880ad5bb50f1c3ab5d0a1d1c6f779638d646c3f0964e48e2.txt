@@ -1,0 +1,103 @@
+4 min read
+Updated: Feb 18, 2026 04:33 AM IST
+ 
+
+
+The deployment of AI solutions in healthcare will require a “life cycle” approach, starting from defining the problem to collection, storage and management of data, verification and validation, and real-world performance, according to a policy framework for the sector released by the Union Health Ministry on Tuesday at the AI Impact summit.
+
+
+“Once you develop an AI solution, how do you buy it, how do you monetise it? There is no way to determine that in the current mechanisms and procurement methods,” National Health Authority CEO Sunil Kumar Barnwal said.
+
+
+Elaborating on the need for such a framework, he said, “One of the biggest challenges with AI is that it learns while it is being used but it can also drift sometimes. These challenges can be addressed only when we look at the whole life cycle of AI from data collection to training to deployment, continuous monitoring, and decommissioning if necessary.”
+
+
+Barnwal headed the committee that developed the framework called Strategy for Artificial Intelligence in Healthcare for India (SAHI). This is the larger framework for using AI in healthcare, with an implementation roadmap that lists out which department does what currently in the works, he said.
+
+
+The framework states: “AI systems in healthcare differ fundamentally from conventional digital tools: they influence clinical judgment, shape care pathways, and inform population-level decisions, often evolving through updates or learning mechanisms. As a result, AI adoption in healthcare cannot be treated as a one-time approval or deployment event.”
+
+
+According to Barnwal, any AI solution in healthcare will have to follow principles that are already a part of the Ayushman Bharat Digital Mission (ABDM). Data privacy will have to be built in by design into any solution, he said, adding that patient consent would be required for sharing of data.
+
+
+“The data under ABDM resides at the source, be it a hospital, laboratory or pharmacy. It doesn’t migrate to a central database. And, the patient has to give consent every time when the data moves from one place to another,” he said.
+Story continues below this ad
+
+
+Training of health workers is also key to effective deployment of any AI solution, Barnwal said.
+
+
+Union Health Minister J P Nadda said India laid the foundation for AI years ago. “We all know that AI does not operate in isolation. AI lives, breathes, thrives on the digital infrastructure. Recognising this early, India began laying the foundation almost a decade before. In 2015, we launched digital India with a clear objective to make India into a digitally empowered society and knowledge economy,” he said.
+
+
+He said that the ABDM created the digital public architecture, without which AI could not be developed responsibly or at scale. Nadda also launched a system that will allow innovators to train their healthcare AI models on real-life data made available on a single platform.
+
+
+Dr Catharina Boehme, from WHO-SEARO, said: “This is not simply a technology roadmap, it’s a public health strategy built to strengthen care, improve dec­i­sions, extend reach. It supports progress towards universal hea­lt­h­care and sustainable development goals… India has become the first country in Southeast Asia region to adopt such a comprehensive strategy and one of the first countries globally to have it. India has set a benchmark.”
+Story continues below this ad
+
+
+The framework was developed through four large sets of deliberations held in Vijayawada, 
+Delhi
+, Shillong and 
+Mumbai
+ with clinicians, health tech companies, state governments, participants for healthcare delivery, and policy makers.
+
+
+Manindra Agarwal, Director of IIT Kanpur, said: “The key challenge for the team was real data on which the AI has to be trained is very fragmented, available with various health centres, and in small amounts. The data also needs to be protected well because of privacy concerns. So, sharing it is not easy.”
+
+
+Agarwal also spoke about the challenges faced while developing a platform called Benchmarking Open Data Platform for Health AI (BODH) by the Government and IIT
+
+
+Kanpur. “Once the data is on the platform and every developer wishes to train their model, the data doesn’t add value after some time because it is the same data. So, one needs a mechanism to ensure that the data is constantly updated,” he said.
+
+
+ 
+
+
+Expand
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ Anonna Dutt is a Principal Correspondent who writes primarily on health at the Indian Express. She reports on myriad topics ranging from the growing burden of non-communicable diseases such as diabetes and hypertension to the problems with pervasive infectious conditions. She reported on the government’s management of the Covid-19 pandemic and closely followed the vaccination programme.
+
+Her stories have resulted in the city government investing in high-end tests for the poor and acknowledging errors in their official reports.
+
+Dutt also takes a keen interest in the country’s space programme and has written on key missions like Chandrayaan 2 and 3, Aditya L1, and Gaganyaan.
+
+She was among the first batch of eleven media fellows with RBM Partnership to End Malaria. She was also selected to participate in the short-term programme on early childhood reporting at Columbia University’s Dart Centre. Dutt has a Bachelor’s Degree from the Symbiosis Institute of Media and Communication, Pune and a PG Diploma from the Asian College of Journalism, Chennai. She started her reporting career with the Hindustan Times.
+
+When not at work, she tries to appease the Duolingo owl with her French skills and sometimes takes to the dance floor.                        
+... Read More 
+
+
+
+
+
+
+
+
+
+
+  
+© The Indian Express Pvt Ltd

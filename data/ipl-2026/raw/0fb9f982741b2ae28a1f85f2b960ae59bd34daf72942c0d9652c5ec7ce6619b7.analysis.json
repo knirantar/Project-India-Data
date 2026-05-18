@@ -1,0 +1,80 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/28-03-2026-who-member-states-agree-to-extend-negotiations-on-key-annex-to-the-pandemic-agreement",
+    "source_title": "WHO Member States agree to extend negotiations on key annex to the Pandemic Agreement",
+    "published": "Sat, 28 Mar 2026 19:14:12 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "WHO Member States have agreed to extend negotiations on the Pathogen Access and Benefit Sharing (PABS) annex.",
+      "evidence_text": "World Health Organization (WHO) Member States have agreed to extend negotiations on the Pathogen Access and Benefit Sharing (PABS) annex to the WHO Pandemic Agreement.",
+      "source_url": "https://www.who.int/news/item/28-03-2026-who-member-states-agree-to-extend-negotiations-on-key-annex-to-the-pandemic-agreement",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Discussions on the PABS annex will resume in late-April.",
+      "evidence_text": "discussions to resume in late-April ahead of its scheduled consideration by the World Health Assembly (WHA) in May.",
+      "source_url": "https://www.who.int/news/item/28-03-2026-who-member-states-agree-to-extend-negotiations-on-key-annex-to-the-pandemic-agreement",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The specialized agency of the United Nations responsible for international public health.",
+      "evidence_text": "World Health Organization (WHO) Member States have agreed to extend negotiations."
+    },
+    {
+      "type": "event",
+      "name": "World Health Assembly",
+      "description": "The decision-making body of WHO.",
+      "evidence_text": "scheduled consideration by the World Health Assembly (WHA) in May."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-27",
+      "event": "Negotiations on the PABS annex",
+      "location": "",
+      "actors": [
+        "WHO Member States"
+      ],
+      "evidence_text": "The decision to continue negotiations from 27 April–1 May."
+    },
+    {
+      "date": "2026-05-01",
+      "event": "Completion of negotiations on the PABS annex",
+      "location": "",
+      "actors": [
+        "WHO Member States"
+      ],
+      "evidence_text": "The decision to continue negotiations from 27 April–1 May."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/28-03-2026-who-member-states-agree-to-extend-negotiations-on-key-annex-to-the-pandemic-agreement",
+      "title": "WHO Member States agree to extend negotiations on key annex to the Pandemic Agreement",
+      "published": "Sat, 28 Mar 2026 19:14:12 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is the World Health Organization, a recognized authority in public health."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

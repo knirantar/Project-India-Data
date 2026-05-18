@@ -1,0 +1,100 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/india/neet-ug-2026-nta-appointments-paper-leak-reforms-10693097/",
+    "source_title": "Days after NEET paper leak, Cabinet approves appointment of 4 officers to NTA",
+    "published": "Sat, 16 May 2026 14:27:46 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Appointments Committee of the Cabinet has approved the appointment of four officers to the National Testing Agency (NTA).",
+      "evidence_text": "the Appointments Committee of the Cabinet has approved the appointment of four officers to the National Testing Agency (NTA).",
+      "source_url": "https://indianexpress.com/article/india/neet-ug-2026-nta-appointments-paper-leak-reforms-10693097/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "National Testing Agency",
+      "description": "An agency responsible for conducting entrance examinations in India.",
+      "evidence_text": "the National Testing Agency (NTA)"
+    },
+    {
+      "type": "person",
+      "name": "Anuja Bapat",
+      "description": "A 1998-batch Indian Statistical Service officer appointed as Joint Secretary in the NTA.",
+      "evidence_text": "Anuja Bapat, a 1998-batch Indian Statistical Service officer"
+    },
+    {
+      "type": "person",
+      "name": "Ruchita Vij",
+      "description": "A 2004-batch Indian Revenue Service officer appointed as Joint Secretary in the NTA.",
+      "evidence_text": "Ruchita Vij, a 2004-batch Indian Revenue Service (Customs and Indirect Taxes) officer"
+    },
+    {
+      "type": "person",
+      "name": "Akash Jain",
+      "description": "A 2013-batch Indian Revenue Service officer appointed as Joint Director in the NTA.",
+      "evidence_text": "Akash Jain, a 2013-batch Indian Revenue Service (Income Tax) officer"
+    },
+    {
+      "type": "person",
+      "name": "Aditya Rajendra Bhojgadhiya",
+      "description": "A 2013-batch Indian Audit and Accounts Service officer appointed as Joint Director in the NTA.",
+      "evidence_text": "Aditya Rajendra Bhojgadhiya, a 2013-batch Indian Audit and Accounts Service officer"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "Appointment of officers to NTA",
+      "location": "New Delhi",
+      "actors": [
+        "Appointments Committee of the Cabinet",
+        "National Testing Agency"
+      ],
+      "evidence_text": "the Appointments Committee of the Cabinet has approved the appointment of four officers to the National Testing Agency (NTA)"
+    },
+    {
+      "date": "2026-06-21",
+      "event": "Retest for NEET-UG",
+      "location": "",
+      "actors": [],
+      "evidence_text": "a retest is to be held on June 21"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "number of candidates",
+      "value": "2200000",
+      "unit": "candidates",
+      "date": "2026-05-03",
+      "location": "",
+      "evidence_text": "NEET-UG, which was held on May 3 for over 22 lakh candidates"
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/india/neet-ug-2026-nta-appointments-paper-leak-reforms-10693097/",
+      "title": "Days after NEET paper leak, Cabinet approves appointment of 4 officers to NTA",
+      "published": "Sat, 16 May 2026 14:27:46 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

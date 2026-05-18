@@ -1,0 +1,94 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/india/neet-ug-2026-paper-leak-pune-teacher-cbi-arrest-10694062/",
+    "source_title": "Teacher from Pune leaked NEET question papers for ‘substantial monetary gains’: CBI",
+    "published": "Sun, 17 May 2026 08:43:41 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Manisha Gurunath Mandhare leaked final question papers to selected candidates in exchange for monetary gains.",
+      "evidence_text": "The Central Bureau of Investigation (CBI) has alleged before a Delhi court that an expert on the National Testing Agency’s (NTA) question-setting panel for NEET-UG 2026 leaked final question papers to selected candidates in exchange for 'substantial monetary gains'.",
+      "source_url": "https://indianexpress.com/article/india/neet-ug-2026-paper-leak-pune-teacher-cbi-arrest-10694062/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Manisha Gurunath Mandhare",
+      "description": "Accused of leaking NEET question papers.",
+      "evidence_text": "The accused, Manisha Gurunath Mandhare, was arrested on Saturday from a reputed college in Pune."
+    },
+    {
+      "type": "organization",
+      "name": "Central Bureau of Investigation (CBI)",
+      "description": "Investigating agency alleging the paper leak.",
+      "evidence_text": "The CBI further alleged that Mandhare conspired with other co-accused."
+    },
+    {
+      "type": "organization",
+      "name": "National Testing Agency (NTA)",
+      "description": "Agency responsible for setting NEET question papers.",
+      "evidence_text": "She is one of the experts on the panel of NTA and involved in the process of setting the question papers."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "Arrest of Manisha Gurunath Mandhare",
+      "location": "Pune",
+      "actors": [
+        "Manisha Gurunath Mandhare",
+        "Central Bureau of Investigation"
+      ],
+      "evidence_text": "The accused, Manisha Gurunath Mandhare, was arrested on Saturday from a reputed college in Pune."
+    },
+    {
+      "date": "2026-06-21",
+      "event": "Retest scheduled for NEET-UG 2026",
+      "location": "",
+      "actors": [],
+      "evidence_text": "The NEET-UG 2026 exam was cancelled following an alleged paper leak, with a retest now scheduled for June 21."
+    }
+  ],
+  "metrics": [],
+  "relationships": [
+    {
+      "subject": "Manisha Gurunath Mandhare",
+      "relationship": "conspired with",
+      "object": "Manisha Waghmare and Prahlad Vittal Rao Kulkarni",
+      "evidence_text": "The CBI further alleged that Mandhare conspired with other co-accused, including Manisha Waghmare and Prahlad Vittal Rao Kulkarni."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/india/neet-ug-2026-paper-leak-pune-teacher-cbi-arrest-10694062/",
+      "title": "Teacher from Pune leaked NEET question papers for ‘substantial monetary gains’: CBI",
+      "published": "Sun, 17 May 2026 08:43:41 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The information is reported by a reputable news source."
+  },
+  "geolocation": [
+    {
+      "name": "Pune",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The accused, Manisha Gurunath Mandhare, was arrested on Saturday from a reputed college in Pune."
+    }
+  ],
+  "timestamps": []
+}

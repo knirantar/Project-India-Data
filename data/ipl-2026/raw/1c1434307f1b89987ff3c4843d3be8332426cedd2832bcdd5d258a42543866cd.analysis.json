@@ -1,0 +1,119 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+    "source_title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+    "published": "Sat, 16 May 2026 23:21:17 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Ebola disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda constitutes a public health emergency of international concern.",
+      "evidence_text": "the Ebola disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda constitutes a public health emergency of international concern (PHEIC)",
+      "source_url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "virus",
+      "name": "Bundibugyo virus",
+      "description": "A virus causing Ebola disease.",
+      "evidence_text": "the Ebola disease caused by Bundibugyo virus"
+    },
+    {
+      "type": "country",
+      "name": "Democratic Republic of the Congo",
+      "description": "Country where the Ebola outbreak is occurring.",
+      "evidence_text": "in the Democratic Republic of the Congo"
+    },
+    {
+      "type": "country",
+      "name": "Uganda",
+      "description": "Country where the Ebola outbreak is occurring.",
+      "evidence_text": "and Uganda"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "Ebola outbreak declaration",
+      "location": "Democratic Republic of the Congo and Uganda",
+      "actors": [
+        "World Health Organization"
+      ],
+      "evidence_text": "the Director-General of WHO... is hereby determining that the Ebola disease caused by Bundibugyo virus... constitutes a public health emergency of international concern"
+    },
+    {
+      "date": "2026-05-15",
+      "event": "Confirmed Ebola cases reported in Kampala",
+      "location": "Kampala, Uganda",
+      "actors": [],
+      "evidence_text": "two laboratory confirmed cases (including one death) with no apparent link to each other have been reported in Kampala, Uganda, within 24 hours of each other, on 15 and 16 May 2026"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "laboratory-confirmed cases",
+      "value": "8",
+      "unit": "cases",
+      "date": "2026-05-16",
+      "location": "Ituri Province, Democratic Republic of the Congo",
+      "evidence_text": "As of 16 May 2026, eight laboratory-confirmed cases... have been reported in Ituri Province"
+    },
+    {
+      "name": "suspected cases",
+      "value": "246",
+      "unit": "cases",
+      "date": "2026-05-16",
+      "location": "Ituri Province, Democratic Republic of the Congo",
+      "evidence_text": "246 suspected cases... have been reported in Ituri Province"
+    },
+    {
+      "name": "suspected deaths",
+      "value": "80",
+      "unit": "deaths",
+      "date": "2026-05-16",
+      "location": "Ituri Province, Democratic Republic of the Congo",
+      "evidence_text": "80 suspected deaths have been reported in Ituri Province"
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/17-05-2026-epidemic-of-ebola-disease-in-the-democratic-republic-of-the-congo-and-uganda-determined-a-public-health-emergency-of-international-concern",
+      "title": "Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda determined a public health emergency of international concern",
+      "published": "Sat, 16 May 2026 23:21:17 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "Source is the World Health Organization."
+  },
+  "geolocation": [
+    {
+      "name": "Ituri Province",
+      "type": "province",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "in Ituri Province of the Democratic Republic of the Congo"
+    },
+    {
+      "name": "Kampala",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "reported in Kampala, Uganda"
+    }
+  ],
+  "timestamps": [],
+  "tags_topics": []
+}

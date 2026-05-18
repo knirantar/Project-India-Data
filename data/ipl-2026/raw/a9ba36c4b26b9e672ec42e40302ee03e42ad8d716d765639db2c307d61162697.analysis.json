@@ -1,0 +1,90 @@
+{
+  "document": {
+    "source_url": "https://www.livemint.com/news/us-news/social-security-payments-may-2026-who-will-receive-ssa-checks-on-may-20-11779109695158.html",
+    "source_title": "Social Security Payments May 2026: Who will receive SSA checks on May 20?",
+    "published": "Mon, 18 May 2026 18:50:35 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The second wave of May 2026 Social Security payments is scheduled to arrive this week.",
+      "evidence_text": "The second wave of May 2026 Social Security payments is scheduled to arrive this week, with millions of beneficiaries set to receive their monthly checks on Wednesday (May 20).",
+      "source_url": "https://www.livemint.com/news/us-news/social-security-payments-may-2026-who-will-receive-ssa-checks-on-may-20-11779109695158.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Social Security Administration",
+      "description": "The agency responsible for administering Social Security benefits.",
+      "evidence_text": "According to the Social Security Administration payment calendar."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-20",
+      "event": "Social Security payments distribution",
+      "location": "",
+      "actors": [],
+      "evidence_text": "Recipients born between the 11th and 20th of their birth month are scheduled to receive benefits on Wednesday, (May 20)."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "maximum monthly Social Security retirement benefit",
+      "value": "4152",
+      "unit": "USD",
+      "date": "2026",
+      "location": "",
+      "evidence_text": "A worker who earned the taxable maximum income throughout their career and claims benefits at full retirement age in 2026 could receive up to about $4,152 per month."
+    },
+    {
+      "name": "average monthly retirement benefit",
+      "value": "2024.77",
+      "unit": "USD",
+      "date": "2026-03",
+      "location": "",
+      "evidence_text": "As of March 2026, the average monthly retirement benefit stands at $2,024.77."
+    },
+    {
+      "name": "maximum SSI payment for an individual",
+      "value": "994",
+      "unit": "USD",
+      "date": "2026",
+      "location": "",
+      "evidence_text": "In 2026, the maximum SSI payment is $994 per month for an individual."
+    },
+    {
+      "name": "maximum SSI payment for a couple",
+      "value": "1491",
+      "unit": "USD",
+      "date": "2026",
+      "location": "",
+      "evidence_text": "In 2026, the maximum SSI payment is $1,491 for a couple."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.livemint.com/news/us-news/social-security-payments-may-2026-who-will-receive-ssa-checks-on-may-20-11779109695158.html",
+      "title": "Social Security Payments May 2026: Who will receive SSA checks on May 20?",
+      "published": "Mon, 18 May 2026 18:50:35 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source provides specific details about Social Security payments and is a recognized news outlet."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

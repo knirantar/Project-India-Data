@@ -1,0 +1,74 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem",
+    "source_title": "Australia becomes the 30th country to eliminate trachoma as a public health problem",
+    "published": "Wed, 29 Apr 2026 06:10:07 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Australia has eliminated trachoma as a public health problem.",
+      "evidence_text": "The World Health Organization (WHO) has validated Australia for eliminating trachoma as a public health problem.",
+      "source_url": "https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The specialized agency of the United Nations responsible for international public health.",
+      "evidence_text": "The World Health Organization (WHO) has validated Australia for eliminating trachoma as a public health problem."
+    },
+    {
+      "type": "disease",
+      "name": "trachoma",
+      "description": "The world’s leading infectious cause of blindness, caused by the bacterium Chlamydia trachomatis.",
+      "evidence_text": "Trachoma, the world’s leading infectious cause of blindness, no longer represents a public health problem in the country."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-29",
+      "event": "Australia validated for elimination of trachoma",
+      "location": "Australia",
+      "actors": [
+        "World Health Organization"
+      ],
+      "evidence_text": "The World Health Organization (WHO) has validated Australia for eliminating trachoma as a public health problem."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "number of countries eliminating trachoma",
+      "value": "30",
+      "unit": "countries",
+      "date": "2026-04-29",
+      "location": "Australia",
+      "evidence_text": "Australia becomes the 30th country to eliminate trachoma as a public health problem."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/29-04-2026-australia-becomes-the-30th-country-to-eliminate-trachoma-as-a-public-health-problem",
+      "title": "Australia becomes the 30th country to eliminate trachoma as a public health problem",
+      "published": "Wed, 29 Apr 2026 06:10:07 Z",
+      "evidence_text": "The World Health Organization (WHO) has validated Australia for eliminating trachoma as a public health problem."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is provided by the World Health Organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

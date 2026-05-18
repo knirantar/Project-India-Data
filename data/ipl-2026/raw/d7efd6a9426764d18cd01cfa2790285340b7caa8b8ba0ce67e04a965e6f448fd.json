@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://www.who.int/news/item/09-05-2026-message-by-the-who-director-general-to-the-people-of-tenerife-regarding-the-hantavirus-response",
+  "title": "Message by the WHO Director-General to the people of Tenerife regarding the hantavirus response",
+  "source": "https://www.who.int/rss-feeds/news-english.xml",
+  "published": "Sat, 09 May 2026 11:14:23 Z",
+  "sha256": "d7efd6a9426764d18cd01cfa2790285340b7caa8b8ba0ce67e04a965e6f448fd",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T15:37:18.419014+00:00",
+  "text_chars": 3927,
+  "raw_path": "data/ipl-2026/raw/d7efd6a9426764d18cd01cfa2790285340b7caa8b8ba0ce67e04a965e6f448fd.html",
+  "text_path": "data/ipl-2026/raw/d7efd6a9426764d18cd01cfa2790285340b7caa8b8ba0ce67e04a965e6f448fd.txt"
+}

@@ -1,0 +1,22 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "IPL 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/health-wellness/us-releases-new-heart-diet-rules-start-food-discipline-early-cut-sugar-and-dont-start-on-alcohol-at-all-10622889/",
+  "title": "New heart health diet: Food discipline from childhood, cut sugar and don’t start on alcohol at all",
+  "source": "https://indianexpress.com/section/health-wellness/feed/",
+  "published": "Tue, 07 Apr 2026 03:04:40 +0000",
+  "sha256": "55293bdb420b246ed1ba19e1fbaf68545c02b0a547eafb766637238e3b696d01",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T15:37:19.200347+00:00",
+  "text_chars": 6532,
+  "raw_path": "data/ipl-2026/raw/55293bdb420b246ed1ba19e1fbaf68545c02b0a547eafb766637238e3b696d01.html",
+  "text_path": "data/ipl-2026/raw/55293bdb420b246ed1ba19e1fbaf68545c02b0a547eafb766637238e3b696d01.txt"
+}

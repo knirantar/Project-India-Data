@@ -1,0 +1,74 @@
+{
+  "document": {
+    "source_url": "https://www.livemint.com/news/india/monsoon-2026-when-start-in-kerala-heres-imds-latest-prediction-arrival-dates-delhi-bangalore-weather-temperature-goa-11779103050034.html",
+    "source_title": "Monsoon 2026: When will it start in Kerala? Here's IMD's latest prediction on arrival dates for Delhi, other states",
+    "published": "Mon, 18 May 2026 18:09:41 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The southwest monsoon is expected to reach Kerala on May 26.",
+      "evidence_text": "The India Meteorological Department (IMD) said on Monday that the southwest monsoon is expected to reach Kerala on May 26 this year.",
+      "source_url": "https://www.livemint.com/news/india/monsoon-2026-when-start-in-kerala-heres-imds-latest-prediction-arrival-dates-delhi-bangalore-weather-temperature-goa-11779103050034.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "India Meteorological Department",
+      "description": "The agency responsible for weather forecasting in India.",
+      "evidence_text": "The India Meteorological Department (IMD) said on Monday that the southwest monsoon is expected to reach Kerala on May 26 this year."
+    },
+    {
+      "type": "location",
+      "name": "Kerala",
+      "description": "A state in India where the monsoon is expected to arrive.",
+      "evidence_text": "The southwest monsoon is expected to reach Kerala on May 26."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-26",
+      "event": "Monsoon arrival in Kerala",
+      "location": "Kerala",
+      "actors": [
+        "India Meteorological Department"
+      ],
+      "evidence_text": "The southwest monsoon is expected to reach Kerala on May 26 this year."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Rainfall alert",
+      "value": "11-20 cm",
+      "unit": "cm",
+      "date": "2026-05-18",
+      "location": "Kerala",
+      "evidence_text": "The IMD defines an “orange alert” as a warning for very heavy rainfall ranging from 11 cm to 20 cm."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.livemint.com/news/india/monsoon-2026-when-start-in-kerala-heres-imds-latest-prediction-arrival-dates-delhi-bangalore-weather-temperature-goa-11779103050034.html",
+      "title": "Monsoon 2026: When will it start in Kerala? Here's IMD's latest prediction on arrival dates for Delhi, other states",
+      "published": "Mon, 18 May 2026 18:09:41 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The information is provided by the India Meteorological Department, a credible source for weather forecasts."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

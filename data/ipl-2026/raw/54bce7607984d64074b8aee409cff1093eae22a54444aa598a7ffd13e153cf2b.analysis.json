@@ -1,0 +1,96 @@
+{
+  "document": {
+    "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+    "source_title": "WHO warns nicotine pouch brands targeting youth as sales surge",
+    "published": "Thu, 14 May 2026 17:26:02 Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Nicotine pouches are being aggressively marketed to adolescents and young people.",
+      "evidence_text": "WHO today issues a strong warning over the rapid global expansion of nicotine pouch products, which are being aggressively marketed to adolescents and young people.",
+      "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Regulation of nicotine pouches is limited or absent in many countries.",
+      "evidence_text": "WHO notes that regulation in many countries is limited or absent, raising concerns about youth nicotine addiction and related health risks.",
+      "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Retail sales of nicotine pouches reached over 23 billion units in 2024.",
+      "evidence_text": "Retail sales of nicotine pouches reached over 23 billion units in 2024, increasing by more than 50% from previous year.",
+      "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The global market of nicotine pouch products was worth nearly US$ 7 billion in 2025.",
+      "evidence_text": "The global market of nicotine pouch products was worth nearly US$ 7 billion in 2025.",
+      "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Around 160 countries have no specific regulation on nicotine pouches.",
+      "evidence_text": "around 160 countries have no specific regulation;",
+      "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "The UN agency for health that connects nations, partners and people on the front lines.",
+      "evidence_text": "The World Health Organization (WHO) today issues a strong warning over the rapid global expansion of nicotine pouch products."
+    },
+    {
+      "type": "event",
+      "name": "World No Tobacco Day",
+      "description": "An annual event focusing on tobacco and nicotine addiction.",
+      "evidence_text": "The report comes in the lead-up to World No Tobacco Day (31 May), which this year will focus on tobacco and nicotine addiction."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "Retail sales of nicotine pouches",
+      "value": "23 billion",
+      "unit": "units",
+      "date": "2024",
+      "location": "",
+      "evidence_text": "Retail sales of nicotine pouches reached over 23 billion units in 2024."
+    },
+    {
+      "name": "Global market value of nicotine pouches",
+      "value": "7 billion",
+      "unit": "USD",
+      "date": "2025",
+      "location": "",
+      "evidence_text": "The global market of nicotine pouch products was worth nearly US$ 7 billion in 2025."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.who.int/news/item/15-05-2026-who-warns-nicotine-pouch-brands-targeting-youth-as-sales-surge",
+      "title": "WHO warns nicotine pouch brands targeting youth as sales surge",
+      "published": "Thu, 14 May 2026 17:26:02 Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is the World Health Organization, a recognized authority on health issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
