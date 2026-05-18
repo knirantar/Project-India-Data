@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-ishan-kishan-shines-as-srh-qualify-for-playoffs-after-beating-csk-by-five-wickets/articleshow/131184708.cms",
+  "title": "IPL 2026: SRH qualify for playoffs after beating CSK by 5 wickets",
+  "source": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+  "published": "2026-05-19T00:23:00+05:30",
+  "sha256": "79d8268f66be4c942ea5d4b492de800a66f2817bbf0d37bc594325f47eb2b48f",
+  "content_type": "text/html",
+  "collected_at": "2026-05-18T21:08:35.203232+00:00",
+  "text_chars": 1751,
+  "raw_path": "data/ipl-2026/raw/79d8268f66be4c942ea5d4b492de800a66f2817bbf0d37bc594325f47eb2b48f.html",
+  "text_path": "data/ipl-2026/raw/79d8268f66be4c942ea5d4b492de800a66f2817bbf0d37bc594325f47eb2b48f.txt"
+}
