@@ -1,0 +1,117 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-standings-orange-purple-cap-rcb-vs-mi-runs-wickets-10682906/",
+    "source_title": "IPL 2026 Updated Points Table: Bengaluru on top after last-ball thriller; Chennai playoff hopes alive; Mumbai & Lucknow eliminated",
+    "published": "Mon, 11 May 2026 00:00:50 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "RCB is at the top of the IPL 2026 points table.",
+      "evidence_text": "RCB’s title defence is gathering steam as they now sit in first place with 14 points from 11 matches.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-standings-orange-purple-cap-rcb-vs-mi-runs-wickets-10682906/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Mumbai Indians and Lucknow Super Giants have been eliminated from the playoff race.",
+      "evidence_text": "both Mumbai Indians and Lucknow Super Giants have been eliminated from the playoff race.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-standings-orange-purple-cap-rcb-vs-mi-runs-wickets-10682906/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "A franchise cricket team based in Bengaluru, India.",
+      "evidence_text": "Royal Challengers Bengaluru edged past Mumbai Indians in a last-ball thriller in Raipur."
+    },
+    {
+      "type": "team",
+      "name": "Mumbai Indians",
+      "description": "A franchise cricket team based in Mumbai, India.",
+      "evidence_text": "Mumbai Indians have been eliminated from the playoff race."
+    },
+    {
+      "type": "team",
+      "name": "Lucknow Super Giants",
+      "description": "A franchise cricket team based in Lucknow, India.",
+      "evidence_text": "Lucknow Super Giants have been eliminated from the playoff race."
+    },
+    {
+      "type": "player",
+      "name": "Bhuvneshwar Kumar",
+      "description": "An Indian cricketer known for his bowling.",
+      "evidence_text": "Swing king Bhuvneshwar Kumar broke Mumbai’s back with his four-wicket haul."
+    },
+    {
+      "type": "player",
+      "name": "Heinrich Klaasen",
+      "description": "A South African cricketer known for his batting.",
+      "evidence_text": "SRH’s destructive middle-order batter and finisher Heinrich Klaasen continues to top the Orange Cap list."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-10",
+      "event": "RCB vs MI match",
+      "location": "Shaheed Veer Narayan Singh International Stadium, Raipur",
+      "actors": [
+        "Royal Challengers Bengaluru",
+        "Mumbai Indians"
+      ],
+      "evidence_text": "RCB reached top of points table with a dramatic two-wicket victory over MI in a last-ball thriller on Sunday at the Shaheed Veer Narayan Singh International Stadium in Raipur."
+    },
+    {
+      "date": "2026-05-10",
+      "event": "CSK vs LSG match",
+      "location": "Chennai",
+      "actors": [
+        "Chennai Super Kings",
+        "Lucknow Super Giants"
+      ],
+      "evidence_text": "Chennai Super Kings registered their sixth win of the season and third in a row after beating Lucknow Super Giants at home in Chennai."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "RCB Points",
+      "value": "14",
+      "unit": "points",
+      "date": "2026-05-10",
+      "location": "IPL 2026",
+      "evidence_text": "RCB’s title defence is gathering steam as they now sit in first place with 14 points from 11 matches."
+    },
+    {
+      "name": "Bhuvneshwar Kumar Wickets",
+      "value": "21",
+      "unit": "wickets",
+      "date": "2026-05-10",
+      "location": "IPL 2026",
+      "evidence_text": "Bhuvneshwar Kumar broke Mumbai’s back with his four-wicket haul and, in the process, became the leading wicket-taker of the season with 21 scalps from 11 matches."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-updated-points-table-standings-orange-purple-cap-rcb-vs-mi-runs-wickets-10682906/",
+      "title": "IPL 2026 Updated Points Table: Bengaluru on top after last-ball thriller; Chennai playoff hopes alive; Mumbai & Lucknow eliminated",
+      "published": "Mon, 11 May 2026 00:00:50 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

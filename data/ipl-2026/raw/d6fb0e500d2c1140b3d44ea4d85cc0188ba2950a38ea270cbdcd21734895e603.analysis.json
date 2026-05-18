@@ -1,0 +1,96 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-kartik-sharma-shows-he-has-it-in-him-to-make-it-big/article70987295.ece",
+    "source_title": "IPL 2026 | Kartik Sharma shows he has it in him to make it big",
+    "published": "Sat, 16 May 2026 19:14:36 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Kartik Sharma recorded his highest score of 71 against LSG.",
+      "evidence_text": "Kartik Sharma, who was picked for a staggering ₹14.20 crore, stood tall in an otherwise forgettable night for CSK, recording his highest score of 71 (42b, 6x4, 5x6).",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-kartik-sharma-shows-he-has-it-in-him-to-make-it-big/article70987295.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Kartik Sharma is the team’s third-highest run-scorer in the ongoing edition.",
+      "evidence_text": "the youngster has steadily made valuable contributions, and he is the team’s third-highest run-scorer (244 runs) in the ongoing edition.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-kartik-sharma-shows-he-has-it-in-him-to-make-it-big/article70987295.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Kartik Sharma",
+      "description": "A young cricketer for Chennai Super Kings.",
+      "evidence_text": "Kartik Sharma, who was picked for a staggering ₹14.20 crore."
+    },
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "A franchise cricket team in the Indian Premier League.",
+      "evidence_text": "Even as Chennai Super Kings was smarting from its seven-wicket loss to Lucknow Super Giants."
+    },
+    {
+      "type": "team",
+      "name": "Lucknow Super Giants",
+      "description": "A franchise cricket team in the Indian Premier League.",
+      "evidence_text": "Even as Chennai Super Kings was smarting from its seven-wicket loss to Lucknow Super Giants."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "Kartik Sharma's performance against LSG",
+      "location": "Ekana Stadium",
+      "actors": [
+        "Kartik Sharma",
+        "Chennai Super Kings",
+        "Lucknow Super Giants"
+      ],
+      "evidence_text": "Kartik produced his most impressive knock against LSG."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "highest score",
+      "value": "71",
+      "unit": "runs",
+      "date": "2026-05-16",
+      "location": "Ekana Stadium",
+      "evidence_text": "recording his highest score of 71 (42b, 6x4, 5x6)."
+    },
+    {
+      "name": "total runs",
+      "value": "244",
+      "unit": "runs",
+      "date": "2026-05-16",
+      "location": "",
+      "evidence_text": "he is the team’s third-highest run-scorer (244 runs) in the ongoing edition."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-kartik-sharma-shows-he-has-it-in-him-to-make-it-big/article70987295.ece",
+      "title": "IPL 2026 | Kartik Sharma shows he has it in him to make it big",
+      "published": "Sat, 16 May 2026 19:14:36 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

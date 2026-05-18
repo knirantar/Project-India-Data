@@ -1,0 +1,98 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-will-pbks-overcome-its-hoodoo-against-rcb/article70987722.ece",
+    "source_title": "IPL 2026 | Will PBKS overcome its hoodoo against RCB?",
+    "published": "Sat, 16 May 2026 20:44:50 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Punjab Kings has lost five consecutive matches.",
+      "evidence_text": "Five losses on the bounce have left Punjab Kings with the unenviable task of taking down defending champion Royal Challengers Bengaluru.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-will-pbks-overcome-its-hoodoo-against-rcb/article70987722.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "PBKS has only one win in seven games at HPCA Stadium since 2023.",
+      "evidence_text": "Since 2023, PBKS has just one win in seven games at the venue.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-will-pbks-overcome-its-hoodoo-against-rcb/article70987722.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Virat Kohli has scored a record-extending ninth IPL century.",
+      "evidence_text": "Kohli comes on the back of a record-extending ninth IPL century.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-will-pbks-overcome-its-hoodoo-against-rcb/article70987722.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A franchise cricket team based in Mohali, Punjab.",
+      "evidence_text": "Punjab Kings has just one win in seven games at the venue."
+    },
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "A franchise cricket team based in Bengaluru, Karnataka.",
+      "evidence_text": "Punjab Kings with the unenviable task of taking down defending champion Royal Challengers Bengaluru."
+    },
+    {
+      "type": "player",
+      "name": "Virat Kohli",
+      "description": "Indian cricketer and captain of Royal Challengers Bengaluru.",
+      "evidence_text": "Kohli comes on the back of a record-extending ninth IPL century."
+    },
+    {
+      "type": "player",
+      "name": "Shreyas Iyer",
+      "description": "Captain of Punjab Kings.",
+      "evidence_text": "Punjab Kings captain Shreyas Iyer during a practice session."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "IPL T20 match between PBKS and RCB",
+      "location": "HPCA Stadium, Dharamshala",
+      "actors": [
+        "Punjab Kings",
+        "Royal Challengers Bengaluru"
+      ],
+      "evidence_text": "In what could be the defining game of their IPL 2026 season here on Sunday (May 17, 2026)."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-will-pbks-overcome-its-hoodoo-against-rcb/article70987722.ece",
+      "title": "IPL 2026 | Will PBKS overcome its hoodoo against RCB?",
+      "published": "Sat, 16 May 2026 20:44:50 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [
+    {
+      "name": "HPCA Stadium",
+      "type": "stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "HPCA Stadium in Dharamshala."
+    }
+  ],
+  "timestamps": []
+}

@@ -1,0 +1,92 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-our-x-factor-pacers-have-come-good-srh-bowling-coach-aaron/article70990670.ece",
+    "source_title": "IPL 2026 | Our X-factor pacers have come good: SRH bowling coach Aaron",
+    "published": "Sun, 17 May 2026 20:40:26 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The team's persistence with 'X-factor' bowlers has paid off.",
+      "evidence_text": "Sunrisers Hyderabad bowling coach Varun Aaron said the team’s persistence with 'X-factor' bowlers like Praful Hinge and Sakib Hussain had paid off.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-our-x-factor-pacers-have-come-good-srh-bowling-coach-aaron/article70990670.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "player",
+      "name": "Praful Hinge",
+      "description": "An X-factor bowler for Sunrisers Hyderabad.",
+      "evidence_text": "The team’s persistence with 'X-factor' bowlers like Praful Hinge and Sakib Hussain had paid off."
+    },
+    {
+      "type": "player",
+      "name": "Sakib Hussain",
+      "description": "An X-factor bowler for Sunrisers Hyderabad.",
+      "evidence_text": "The team’s persistence with 'X-factor' bowlers like Praful Hinge and Sakib Hussain had paid off."
+    },
+    {
+      "type": "player",
+      "name": "Heinrich Klaasen",
+      "description": "The fulcrum of SRH’s batting line-up.",
+      "evidence_text": "Aaron hailed Heinrich Klaasen as the 'fulcrum' of SRH’s batting line-up."
+    },
+    {
+      "type": "player",
+      "name": "Travis Head",
+      "description": "A player for the opposing team, CSK.",
+      "evidence_text": "We’ll use that to our advantage. We’ve got lots of left-armers to swing the ball away."
+    },
+    {
+      "type": "player",
+      "name": "Abhishek Sharma",
+      "description": "A player for the opposing team, CSK.",
+      "evidence_text": "We’ll use that to our advantage. We’ve got lots of left-armers to swing the ball away."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "IPL 2026 clash between Sunrisers Hyderabad and Chennai Super Kings",
+      "location": "Hyderabad",
+      "actors": [
+        "Sunrisers Hyderabad",
+        "Chennai Super Kings"
+      ],
+      "evidence_text": "on the eve of Sunrisers’ IPL 2026 clash with Chennai Super Kings here."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-our-x-factor-pacers-have-come-good-srh-bowling-coach-aaron/article70990670.ece",
+      "title": "IPL 2026 | Our X-factor pacers have come good: SRH bowling coach Aaron",
+      "published": "Sun, 17 May 2026 20:40:26 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [
+    {
+      "name": "Hyderabad",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "especially on the surface we play in Hyderabad, which doesn’t really offer too much for the bowlers."
+    }
+  ],
+  "timestamps": []
+}

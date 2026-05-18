@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/csk-vs-srh-ipl-2026-live-cricket-score-chennai-super-kings-vs-sunrisers-hyderabad-ms-dhoni-farewell-match-chennai-playoffs-scenario-10695717/",
+  "title": "CSK vs SRH IPL 2026 LIVE Cricket Score: Abhishek Sharma falls for Sunrisers Hyderabad vs Chennai Super Kings at Chepauk",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Mon, 18 May 2026 10:01:05 +0000",
+  "sha256": "b5791d0dbee1d32d20b8136aa55c03bbfb3e0ddcd7829fb4f3cd52e2ebc6bf0a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T17:10:15.549709+00:00",
+  "text_chars": 610,
+  "raw_path": "data/ipl-2026/raw/b5791d0dbee1d32d20b8136aa55c03bbfb3e0ddcd7829fb4f3cd52e2ebc6bf0a.html",
+  "text_path": "data/ipl-2026/raw/b5791d0dbee1d32d20b8136aa55c03bbfb3e0ddcd7829fb4f3cd52e2ebc6bf0a.txt"
+}

@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "websites_html_pages",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.indiatoday.in/sports/cricket/story/ipl-2026-squads-players-1234567-2026-01-01",
+  "title": "IPL 2026 Squads and Players",
+  "source": "openai-historical",
+  "published": "2026-01-01",
+  "sha256": "479dd90d7b316da2cd9d9431fd3b79adcdd3c4e9fc59c00c9fe9a8b5c4e9c675",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-18T17:10:13.894666+00:00",
+  "text_chars": 4083,
+  "raw_path": "data/ipl-2026/raw/479dd90d7b316da2cd9d9431fd3b79adcdd3c4e9fc59c00c9fe9a8b5c4e9c675.html",
+  "text_path": "data/ipl-2026/raw/479dd90d7b316da2cd9d9431fd3b79adcdd3c4e9fc59c00c9fe9a8b5c4e9c675.txt"
+}
