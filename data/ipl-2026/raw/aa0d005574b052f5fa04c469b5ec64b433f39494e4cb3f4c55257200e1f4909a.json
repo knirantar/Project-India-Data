@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-enters-field-at-chepauk-for-final-home-appearance-of-ipl-2026-watch/articleshow/131181749.cms",
+  "title": "Watch: Dhoni enters field at Chepauk for final home appearance of IPL 2026",
+  "source": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+  "published": "2026-05-18T22:46:44+05:30",
+  "sha256": "aa0d005574b052f5fa04c469b5ec64b433f39494e4cb3f4c55257200e1f4909a",
+  "content_type": "text/html",
+  "collected_at": "2026-05-18T18:04:43.680227+00:00",
+  "text_chars": 1840,
+  "raw_path": "data/ipl-2026/raw/aa0d005574b052f5fa04c469b5ec64b433f39494e4cb3f4c55257200e1f4909a.html",
+  "text_path": "data/ipl-2026/raw/aa0d005574b052f5fa04c469b5ec64b433f39494e4cb3f4c55257200e1f4909a.txt"
+}

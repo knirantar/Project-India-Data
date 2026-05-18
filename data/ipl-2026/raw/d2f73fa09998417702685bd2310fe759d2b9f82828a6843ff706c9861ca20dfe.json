@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-desperate-for-a-victory-over-lsg/article70994334.ece",
+  "title": "IPL 2026 | RR desperate for a victory over LSG",
+  "source": "https://www.thehindu.com/sport/feeder/default.rss",
+  "published": "Mon, 18 May 2026 23:18:25 +0530",
+  "sha256": "d2f73fa09998417702685bd2310fe759d2b9f82828a6843ff706c9861ca20dfe",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-18T18:04:42.351633+00:00",
+  "text_chars": 1946,
+  "raw_path": "data/ipl-2026/raw/d2f73fa09998417702685bd2310fe759d2b9f82828a6843ff706c9861ca20dfe.html",
+  "text_path": "data/ipl-2026/raw/d2f73fa09998417702685bd2310fe759d2b9f82828a6843ff706c9861ca20dfe.txt"
+}
