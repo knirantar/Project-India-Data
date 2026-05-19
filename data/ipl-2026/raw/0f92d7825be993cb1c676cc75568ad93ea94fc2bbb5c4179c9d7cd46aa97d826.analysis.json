@@ -1,0 +1,113 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-csk-vs-srh-update-orange-purple-cap-runs-and-wickets-list-10696478/",
+    "source_title": "IPL 2026 Points Table Today: SRH, GT qualify; CSK’s fate left in balance",
+    "published": "Tue, 19 May 2026 00:00:07 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Sunrisers Hyderabad (SRH) are through to the playoffs of the 2026 Indian Premier League (IPL).",
+      "evidence_text": "Sunrisers Hyderabad (SRH) are through to the playoffs of the 2026 Indian Premier League (IPL) after beating the Chennai Super Kings (CSK) by five wickets.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-csk-vs-srh-update-orange-purple-cap-runs-and-wickets-list-10696478/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Chennai Super Kings (CSK) are among those hoping to make it to the playoffs.",
+      "evidence_text": "leaving just one spot now for the taking and Chennai Super Kings (CSK) among those hoping to make it.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-csk-vs-srh-update-orange-purple-cap-runs-and-wickets-list-10696478/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Sunrisers Hyderabad",
+      "description": "A franchise cricket team based in Hyderabad, India.",
+      "evidence_text": "Sunrisers Hyderabad (SRH) are through to the playoffs of the 2026 Indian Premier League (IPL)."
+    },
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "A franchise cricket team based in Chennai, India.",
+      "evidence_text": "Chennai Super Kings (CSK) are among those hoping to make it to the playoffs."
+    },
+    {
+      "type": "team",
+      "name": "Gujarat Titans",
+      "description": "A franchise cricket team based in Ahmedabad, India.",
+      "evidence_text": "With this result, Gujarat Titans (GT) have also managed to go through."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A franchise cricket team based in Mohali, India.",
+      "evidence_text": "CSK are one of three teams on 12 points, which is just one lesser than fourth-placed Punjab Kings."
+    },
+    {
+      "type": "team",
+      "name": "Kolkata Knight Riders",
+      "description": "A franchise cricket team based in Kolkata, India.",
+      "evidence_text": "One side, Kolkata Knight Riders, are on 11 points."
+    },
+    {
+      "type": "team",
+      "name": "Royal Challengers Bengaluru",
+      "description": "A franchise cricket team based in Bengaluru, India.",
+      "evidence_text": "the defending champions Royal Challengers Bengaluru, were the first team to qualify for the playoffs."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "CSK vs SRH match",
+      "location": "",
+      "actors": [
+        "Sunrisers Hyderabad",
+        "Chennai Super Kings"
+      ],
+      "evidence_text": "Sunrisers Hyderabad (SRH) are through to the playoffs of the 2026 Indian Premier League (IPL) after beating the Chennai Super Kings (CSK) by five wickets."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "points",
+      "value": "12",
+      "unit": "points",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "CSK are one of three teams on 12 points."
+    },
+    {
+      "name": "points",
+      "value": "11",
+      "unit": "points",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "One side, Kolkata Knight Riders, are on 11 points."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/ipl-2026-points-table-today-csk-vs-srh-update-orange-purple-cap-runs-and-wickets-list-10696478/",
+      "title": "IPL 2026 Points Table Today: SRH, GT qualify; CSK’s fate left in balance",
+      "published": "Tue, 19 May 2026 00:00:07 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a well-known news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
