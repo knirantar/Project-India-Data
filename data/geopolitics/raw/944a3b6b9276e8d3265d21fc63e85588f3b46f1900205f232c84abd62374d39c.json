@@ -1,0 +1,25 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+  "title": "Trump says he's called off Iran strike at request of Gulf allies",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Tue, 19 May 2026 01:27:58 -0400",
+  "sha256": "944a3b6b9276e8d3265d21fc63e85588f3b46f1900205f232c84abd62374d39c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T07:53:24.621371+00:00",
+  "text_chars": 5635,
+  "raw_path": "data/geopolitics/raw/944a3b6b9276e8d3265d21fc63e85588f3b46f1900205f232c84abd62374d39c.html",
+  "text_path": "data/geopolitics/raw/944a3b6b9276e8d3265d21fc63e85588f3b46f1900205f232c84abd62374d39c.txt"
+}

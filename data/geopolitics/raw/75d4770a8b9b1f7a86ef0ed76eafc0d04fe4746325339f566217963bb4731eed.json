@@ -1,0 +1,25 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+  "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Tue, 19 May 2026 07:44:06 GMT",
+  "sha256": "75d4770a8b9b1f7a86ef0ed76eafc0d04fe4746325339f566217963bb4731eed",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T07:53:24.009905+00:00",
+  "text_chars": 4353,
+  "raw_path": "data/geopolitics/raw/75d4770a8b9b1f7a86ef0ed76eafc0d04fe4746325339f566217963bb4731eed.html",
+  "text_path": "data/geopolitics/raw/75d4770a8b9b1f7a86ef0ed76eafc0d04fe4746325339f566217963bb4731eed.txt"
+}

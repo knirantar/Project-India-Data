@@ -1,0 +1,25 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
+  "title": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
+  "source": "https://www.aljazeera.com/xml/rss/all.xml",
+  "published": "Tue, 19 May 2026 12:06:34 +0000",
+  "sha256": "0966bf11aa2d8ea82c37de1380e28de288253ab03fb8988a64eed81eff951e1e",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-19T15:00:20.959352+00:00",
+  "text_chars": 6823,
+  "raw_path": "data/geopolitics/raw/0966bf11aa2d8ea82c37de1380e28de288253ab03fb8988a64eed81eff951e1e.html",
+  "text_path": "data/geopolitics/raw/0966bf11aa2d8ea82c37de1380e28de288253ab03fb8988a64eed81eff951e1e.txt"
+}

@@ -1,0 +1,25 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+  "title": "UAE blames Iran or proxies for strike near nuclear plant, as Trump tells Tehran ‘clock is ticking’",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Mon, 18 May 2026 06:02:36 GMT",
+  "sha256": "761e43dc5bb4a28837aa2b02dd93ac3bcb5a16c7159b7f828b68e43b06b9d8b8",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T03:51:12.690510+00:00",
+  "text_chars": 3013,
+  "raw_path": "data/geopolitics/raw/761e43dc5bb4a28837aa2b02dd93ac3bcb5a16c7159b7f828b68e43b06b9d8b8.html",
+  "text_path": "data/geopolitics/raw/761e43dc5bb4a28837aa2b02dd93ac3bcb5a16c7159b7f828b68e43b06b9d8b8.txt"
+}

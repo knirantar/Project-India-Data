@@ -1,0 +1,364 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/topics/geopolitics/config.yaml",
+  "started_at": "2026-05-19T03:51:11.224598+00:00",
+  "finished_at": "2026-05-19T03:51:13.050380+00:00",
+  "feeds": 4,
+  "configured_urls": 1,
+  "historical_enabled": false,
+  "historical_days": null,
+  "historical_max_records": null,
+  "discovered_items": 163,
+  "discovered_rss_items": 163,
+  "discovered_historical_items": 0,
+  "configured_url_items": 1,
+  "already_stored_items": 0,
+  "matched_items": 22,
+  "stored_items": 5,
+  "candidate_audit": [
+    {
+      "url": "https://www.state.gov/u-s-relations-with-iran/",
+      "title": null,
+      "source": "topic-config",
+      "published": null,
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+      "title": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 03:27:50 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
+      "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 00:00:00 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
+      "title": "Trump pauses possible Iran strike after Gulf intervention",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Mon, 18 May 2026 21:11:48 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Mon, 18 May 2026 20:12:45 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 22:30:58 GMT",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 09:58:35 GMT",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Sun, 17 May 2026 23:02:56 GMT",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 02:06:01 GMT",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+      "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 21:07:58 GMT",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+      "title": "UAE blames Iran or proxies for strike near nuclear plant, as Trump tells Tehran ‘clock is ticking’",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 06:02:36 GMT",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
+      "title": "Donald Trump says he ‘wasn’t involved’ in creation of $1.7bn compensation fund – as it happened",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 01:44:29 GMT",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 09:55:24 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
+      "title": "Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 18:51:43 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+      "title": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 01:55:23 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
+      "title": "Here’s How Iran Could Respond to Renewed U.S.-Israeli Strikes",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Tue, 19 May 2026 00:31:43 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html",
+      "title": "Trump Threatens Iran and Then Pulls Back, All in the Same Day",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Tue, 19 May 2026 00:18:32 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html",
+      "title": "G7 Finance Ministers Look to Contain Iran Economic Fallout",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 18:15:04 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html",
+      "title": "Catastrophe Is Emerging in the World’s Most Vulnerable Places",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Tue, 19 May 2026 00:45:49 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
+      "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 02:38:24 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
+      "title": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Sat, 16 May 2026 18:46:01 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html",
+      "title": "Which Countries Are Profiting From the Iran War Oil Shock",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Sat, 16 May 2026 09:01:31 +0000",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Mon, 18 May 2026 20:12:45 +0000",
+      "status": "stored",
+      "sha256": "0be63c35943f7c3f3c609702a67886421ad224df61a876764affc99622ab8aa0",
+      "text_chars": 5641,
+      "metadata_path": "data/geopolitics/raw/0be63c35943f7c3f3c609702a67886421ad224df61a876764affc99622ab8aa0.json"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/liveblog/2026/5/19/iran-war-live-trump-says-iran-attack-postponed-at-request-of-gulf-allies?traffic_source=rss",
+      "title": "Iran war live: Trump says Iran attack postponed at request of Gulf allies",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 00:00:00 +0000",
+      "status": "rejected_low_text",
+      "text_chars": 371,
+      "min_text_chars": 1000
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+      "title": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 03:27:50 +0000",
+      "status": "rejected_low_text",
+      "text_chars": 36,
+      "min_text_chars": 1000
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/18/trump-pauses-possible-iran-strike-after-gulf-intervention?traffic_source=rss",
+      "title": "Trump pauses possible Iran strike after Gulf intervention",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Mon, 18 May 2026 21:11:48 +0000",
+      "status": "rejected_low_text",
+      "text_chars": 378,
+      "min_text_chars": 1000
+    },
+    {
+      "url": "https://www.state.gov/u-s-relations-with-iran/",
+      "title": null,
+      "source": "topic-config",
+      "published": null,
+      "status": "rejected_low_text",
+      "text_chars": 136,
+      "min_text_chars": 1000
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 02:06:01 GMT",
+      "status": "stored",
+      "sha256": "06d87daf1a57c81ea472f9d5886ccd1e6e8d83ced04f9d8a053aae58bd0e619d",
+      "text_chars": 12303,
+      "metadata_path": "data/geopolitics/raw/06d87daf1a57c81ea472f9d5886ccd1e6e8d83ced04f9d8a053aae58bd0e619d.json"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+      "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 21:07:58 GMT",
+      "status": "stored",
+      "sha256": "e91cd82869f2bd9d17b0c3315b66b7b3787670ef18641666b81bc557c2f4293c",
+      "text_chars": 6690,
+      "metadata_path": "data/geopolitics/raw/e91cd82869f2bd9d17b0c3315b66b7b3787670ef18641666b81bc557c2f4293c.json"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Sun, 17 May 2026 23:02:56 GMT",
+      "status": "rejected_low_text",
+      "text_chars": 269,
+      "min_text_chars": 1000
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 09:58:35 GMT",
+      "status": "rejected_low_text",
+      "text_chars": 264,
+      "min_text_chars": 1000
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 22:30:58 GMT",
+      "status": "rejected_low_text",
+      "text_chars": 137,
+      "min_text_chars": 1000
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+      "title": "UAE blames Iran or proxies for strike near nuclear plant, as Trump tells Tehran ‘clock is ticking’",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 06:02:36 GMT",
+      "status": "stored",
+      "sha256": "761e43dc5bb4a28837aa2b02dd93ac3bcb5a16c7159b7f828b68e43b06b9d8b8",
+      "text_chars": 3013,
+      "metadata_path": "data/geopolitics/raw/761e43dc5bb4a28837aa2b02dd93ac3bcb5a16c7159b7f828b68e43b06b9d8b8.json"
+    },
+    {
+      "url": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
+      "title": "Donald Trump says he ‘wasn’t involved’ in creation of $1.7bn compensation fund – as it happened",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 01:44:29 GMT",
+      "status": "stored",
+      "sha256": "1e796bc366d628be59c93acbc28b8a5faea4c75f73f49e1cf0eaf4e41735e37e",
+      "text_chars": 16139,
+      "metadata_path": "data/geopolitics/raw/1e796bc366d628be59c93acbc28b8a5faea4c75f73f49e1cf0eaf4e41735e37e.json"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/17/world/europe/israel-iraq-iran-bases.html",
+      "title": "In Iraqi Desert, Two Israeli Outposts Were Kept Secret for Months",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 01:55:23 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/trump-iran-war-talks.html",
+      "title": "Trump Warns Iran the ‘Clock Is Ticking’ as Tensions Surge Again in Middle East",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 18:51:43 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/strait-hormuz-blockade-iran-war-syria-oil.html",
+      "title": "Blocked Strait of Hormuz Leads to New Opportunities for Syria",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 09:55:24 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/world/middleeast/iran-war-retaliation-options.html",
+      "title": "Here’s How Iran Could Respond to Renewed U.S.-Israeli Strikes",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Tue, 19 May 2026 00:31:43 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/business/g7-finance-ministers-meeting-iran-war-oil.html",
+      "title": "G7 Finance Ministers Look to Contain Iran Economic Fallout",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 18:15:04 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/us/politics/trump-iran-strikes.html",
+      "title": "Trump Threatens Iran and Then Pulls Back, All in the Same Day",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Tue, 19 May 2026 00:18:32 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/17/business/qatar-economy-iran-war.html",
+      "title": "The Iran War Is Crippling One of the World’s Wealthiest Nations",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Mon, 18 May 2026 02:38:24 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/18/business/iran-war-somalia-usaid.html",
+      "title": "Catastrophe Is Emerging in the World’s Most Vulnerable Places",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Tue, 19 May 2026 00:45:49 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/16/business/energy-environment/iran-war-oil-countries-winners-losers.html",
+      "title": "Which Countries Are Profiting From the Iran War Oil Shock",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Sat, 16 May 2026 09:01:31 +0000",
+      "status": "fetch_error"
+    },
+    {
+      "url": "https://www.nytimes.com/2026/05/16/world/middleeast/iran-proxy-groups-us.html",
+      "title": "Fears Grow That Iran May Be Using Proxy Groups Beyond Mideast",
+      "source": "https://rss.nytimes.com/services/xml/rss/nyt/World.xml",
+      "published": "Sat, 16 May 2026 18:46:01 +0000",
+      "status": "fetch_error"
+    }
+  ],
+  "topic_anchor_terms": [
+    "iran"
+  ],
+  "limit": 50,
+  "max_candidates": 200,
+  "min_text_chars": 1000
+}

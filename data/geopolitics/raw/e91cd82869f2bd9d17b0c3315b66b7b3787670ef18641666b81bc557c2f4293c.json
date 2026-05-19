@@ -1,0 +1,25 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+  "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Mon, 18 May 2026 21:07:58 GMT",
+  "sha256": "e91cd82869f2bd9d17b0c3315b66b7b3787670ef18641666b81bc557c2f4293c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T03:51:12.427723+00:00",
+  "text_chars": 6690,
+  "raw_path": "data/geopolitics/raw/e91cd82869f2bd9d17b0c3315b66b7b3787670ef18641666b81bc557c2f4293c.html",
+  "text_path": "data/geopolitics/raw/e91cd82869f2bd9d17b0c3315b66b7b3787670ef18641666b81bc557c2f4293c.txt"
+}

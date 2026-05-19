@@ -1,0 +1,25 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+  "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+  "source": "https://www.aljazeera.com/xml/rss/all.xml",
+  "published": "Mon, 18 May 2026 20:12:45 +0000",
+  "sha256": "0be63c35943f7c3f3c609702a67886421ad224df61a876764affc99622ab8aa0",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-19T03:51:11.950371+00:00",
+  "text_chars": 5641,
+  "raw_path": "data/geopolitics/raw/0be63c35943f7c3f3c609702a67886421ad224df61a876764affc99622ab8aa0.html",
+  "text_path": "data/geopolitics/raw/0be63c35943f7c3f3c609702a67886421ad224df61a876764affc99622ab8aa0.txt"
+}

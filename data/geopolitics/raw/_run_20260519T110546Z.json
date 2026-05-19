@@ -1,0 +1,386 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/topics/geopolitics/config.yaml",
+  "started_at": "2026-05-19T11:05:43.650086+00:00",
+  "finished_at": "2026-05-19T11:05:46.567535+00:00",
+  "feeds": 5,
+  "configured_urls": 1,
+  "historical_enabled": true,
+  "historical_days": 3650,
+  "historical_max_records": 150,
+  "discovered_items": 145,
+  "discovered_rss_items": 143,
+  "discovered_historical_items": 2,
+  "configured_url_items": 1,
+  "already_stored_items": 10,
+  "matched_items": 11,
+  "stored_items": 3,
+  "candidate_audit": [
+    {
+      "url": "https://www.state.gov/u-s-relations-with-iran/",
+      "title": "U.S. Relations With Iran",
+      "source": "openai-historical",
+      "published": "2021-03-30",
+      "summary": null,
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.c-span.org/video/?c4901230/user-clip-geopolitics",
+      "title": "U.S.-Iran Relations: A Historical Overview",
+      "source": "openai-historical",
+      "published": "2019-06-20",
+      "summary": null,
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+      "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 10:00:36 +0000",
+      "summary": "With Iran&#039;s local football league suspended since March, most players in the squad have not been in action for months.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+      "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 07:26:51 +0000",
+      "summary": "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+      "title": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 03:27:50 +0000",
+      "summary": "Foad Izadi says US President Trump&#039;s repeated threats of renewed full-scale war are a sign of weakness.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 22:30:58 GMT",
+      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 09:58:35 GMT",
+      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Sun, 17 May 2026 23:02:56 GMT",
+      "summary": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
+      "title": "Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 10:46:11 GMT",
+      "summary": "<p>The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\"><strong>Full report: Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war</strong></a></p></li></ul><p>Iran’s army has warned it would “open new fronts” against the US if it resumes attacks on the country amid reports that Donald Trump is weighing up restarting military operations in Iran amid an impasse in negotiations.</p><p>“If the enemy is foolish enough to fall into the Zionist trap again and launches new aggression against our beloved Iran, we will open new fronts against it, with new equipment and new methods,” army spokesperson Mohammad Akraminia said, according to Iran’s ISNA news agency.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 02:06:01 GMT",
+      "summary": "<p>This blog is now closed. See our latest full report: <a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\">Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war</a></p><p><a href=\"https://www.theguardian.com/world/friedrich-merz\">Friedrich Merz</a> has been embroiled in a row with Donald Trump over his war on Iran ever since the German chancellor suggested the Trump team was <a href=\"https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz\">being outplayed in its negotiations with Tehran</a> and said he would not advise his children to study or work in the US in the current climate.</p><p>The Guardian’s Berlin correspondent, Deborah Cole, has looked at the declining relationship between the two leaders in this story. Here is an extract:</p><p><em>Disputes over trade and military aid for Ukraine have fuelled tensions between the US and its European allies and <a href=\"https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence\">tested the Nato alliance</a>.</em></p><p><em>Merz is struggling to revive an anaemic German economy and has said the impact of the US-Israeli military action in Iran and the ensuing <a href=\"https://www.theguardian.com/world/strait-of-hormuz\">closure of the strait of Hormuz</a> has been severely damaging to European interests.</em></p><p><em>We strongly condemn the renewed Iranian airstrikes against the United Arab Emirates and other partners. Attacks on nuclear facilities pose a threat to the safety of people throughout the entire region. There must be no further escalation of violence.</em></p><p><em>Iran must enter into serious negotiations with the USA, stop threatening its neighbours, and open the strait of Hormuz without restrictions.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+      "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 21:07:58 GMT",
+      "summary": "<p>The US president says plans for a US military strike on Iran have been paused because ‘serious negotiations are now taking place’</p><p>Iran has made a new proposal for a deal to definitively end the war in the Middle East, officials in the region said on Monday, with Donald Trump claiming he had postponed new military strikes so talks could continue.</p><p>But while the US president has regularly used social media to threaten Tehran, and to claim that a peace deal was within reach, there has been no sign of an immediate breakthrough in the stalled negotiations to end the war.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+      "title": "‘Disposable’ operatives for hire are a new menace for western countries",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 17:30:25 GMT",
+      "summary": "<p>A court case in New York has highlighted how Iran is using technology to recruit agents who may not even be regime supporters</p><p>When on Friday a 32-year-old Iraqi was brought before a court in New York to be <a href=\"https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged\">charged with planning to attack Jewish community sites</a> in the US, a curtain was suddenly lifted on a corner of a shadowy world.</p><p>The detention of Mohammed Saad Baqer al-Saadi in Turkey last week revealed rare details of Iran’s efforts to use terrorism to sow discord among communities in Europe, the UK and the US – but also the outlines of an uncertain and threatening future.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+      "title": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 10:42:39 GMT",
+      "summary": "<p>YouGov polling reveals support for prospective challenger, with members believing Starmer could not secure another victory </p><p>On Friday parliament’s <strong>intelligence and security committee</strong> issued <a href=\"https://isc.independent.gov.uk/wp-content/uploads/2026/05/20260515-ISC-Press-Notice.docx.pdf\">a damning statement </a>about the government’s response to the humble address requiring the release of documents relating to the appointment of Peter Mandelson as ambassador to the US. It said the government was not fully complying with what is in effect an instruction from the Commons. For good measure, the committee also accuses the government of not keeping proper record of its decisions and of doing far too much business by WhatsApp. Here is our story, by <strong>Henry Dyer and Paul Lewis</strong>.</p><p>At 12.30pm <strong>Jeremy Wright</strong>, deputy chair of the committee and a former Tory attorney general, will ask a Commons urgent question about this. He is asking Darren Jones, the chief secretary to the PM, to reply.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/money/2026/may/19/energy-bills-rise-july-gas-electricity-prices-cap-great-britain-iran-war",
+      "title": "Energy bills will rise by £209 in July to £1,850 a year, forecast says",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 08:20:04 GMT",
+      "summary": "<p>Cornwall Insight predicts rise in price cap of nearly 13% in Great Britain as Iran war pushes up gas costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Energy bills for households in Great Britain could increase by more than £200 a year to almost £1,900 from this summer in “a kick in the teeth” for millions struggling with the cost of living crisis.</p><p>A typical gas and electricity bill is forecast to reach £1,850 a year from July under the industry regulator Ofgem’s quarterly price cap, according to analysis by the energy consultancy Cornwall Insight.</p> <a href=\"https://www.theguardian.com/money/2026/may/19/energy-bills-rise-july-gas-electricity-prices-cap-great-britain-iran-war\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+      "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 07:44:06 GMT",
+      "summary": "<p>Pay growth eases to 3.4% as businesses face pressure from soaring energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Analysis: No feelgood factor for Reeves</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed, according to official figures, in the first snapshot of how companies are reacting to the impact of the Iran war.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March, from 4.9% in February, a rate that City economists had expected to hold steady.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment",
+      "title": "No feelgood factor for Reeves as Iran war snuffs out economic upturn",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 07:07:42 GMT",
+      "summary": "<p>Rise in unemployment and weak pay growth underline how tough this year will be for UK households</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">UK unemployment unexpectedly rises to 5%</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>News that the UK unemployment rate <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">jumped back to 5% in March</a> appears to be the latest evidence that the Iran war has snuffed out the economic upturn Rachel Reeves had hoped to see in 2026.</p><p>The Office for National Statistics reports that, after <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates#:~:text=UK%20unemployment%20shows%20surprise%20fall,five%20years%20%7C%20Economics%20%7C%20The%20Guardian\">an unexpected fall in the unemployment rate to 4.9% in last month’s data</a>, it ticked back up to 5% between January and March – the first set of figures affected by the conflict.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Continue reading...</a>",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.france24.com/en/trump-says-holding-off-on-strike-on-iran-at-request-of-gulf-allies",
+      "title": "Trump says holding off on strike on Iran at request of Gulf allies",
+      "source": "https://www.france24.com/en/rss",
+      "published": "Tue, 19 May 2026 10:19:19 GMT",
+      "summary": "After issuing thinly veiled threats against Iran over the weekend, US President Trump appeared to strike a different tone on May 18. He described ongoing peace talks with Tehran as “very positive” and even claimed he had paused a planned US military strike.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.france24.com/en/stalled-us-iran-talks-show-trump-s-strategy-of-pressure-is-not-paying-off",
+      "title": "Stalled US-Iran talks show \"Trump's strategy of pressure\" is not paying off",
+      "source": "https://www.france24.com/en/rss",
+      "published": "Tue, 19 May 2026 10:04:07 GMT",
+      "summary": "Late on May 18, Donald Trump said he had called of strikes on Iran following advice from Gulf countries. This comes amid stalled talks between the US and Iran, with neither party willing to compromise on their demands. FRANCE 24's Kethevane Gorjestani looks at where the talks stand, and where the Gulf countries' interests lie after weeks of conflict.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+      "title": "Trump says he's called off Iran strike at request of Gulf allies",
+      "source": "https://www.npr.org/rss/rss.php?id=1004",
+      "published": "Tue, 19 May 2026 01:27:58 -0400",
+      "summary": "President Donald Trump says he is holding off on a military strike on Iran planned for Tuesday because \"serious negotiations\" are underway to end the war.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5820631/trump-north-korea-nuclear",
+      "title": "North Korea is relieved its nuclear weapons have prevented a fate like Iran's",
+      "source": "https://www.npr.org/rss/rss.php?id=1004",
+      "published": "Mon, 18 May 2026 04:47:07 -0400",
+      "summary": "The U.S. long pushed for both Iran and North Korea to quit their nuclear plans. After seeing Iran's leader get killed, North Korea's Kim Jong Un believes he made the right choice to stay the course.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5825574/u-s-and-iran-signal-readiness-to-fight-again-as-weekend-tensions-mount",
+      "title": "U.S. and Israel prepare for potential return to full-scale war with Iran",
+      "source": "https://www.npr.org/rss/rss.php?id=1004",
+      "published": "Mon, 18 May 2026 04:46:03 -0400",
+      "summary": "Events over the weekend highlight the risk of renewed war, as the United States and Israel signal they would be ready to fight Iran again.",
+      "status": "candidate"
+    },
+    {
+      "url": "https://www.aljazeera.com/news/2026/5/19/iran-war-day-81-trump-delays-attack-tehran-says-wont-surrender?traffic_source=rss",
+      "title": "Iran war day 81: Trump delays attack; Tehran says won’t ‘surrender’",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 07:26:51 +0000",
+      "summary": "US president says he held off a scheduled attack on Iran after pressure from Gulf allies as renewed talks gain momentum.",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates",
+      "title": "Middle East crisis live: Trump claims Iran attack ‘on hold’ due to request from Gulf allies",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 10:46:11 GMT",
+      "summary": "<p>The US president said he called off a planned attack on Iran on Tuesday so that peace talks could continue</p><ul><li><p><a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\"><strong>Full report: Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war</strong></a></p></li></ul><p>Iran’s army has warned it would “open new fronts” against the US if it resumes attacks on the country amid reports that Donald Trump is weighing up restarting military operations in Iran amid an impasse in negotiations.</p><p>“If the enemy is foolish enough to fall into the Zionist trap again and launches new aggression against our beloved Iran, we will open new fronts against it, with new equipment and new methods,” army spokesperson Mohammad Akraminia said, according to Iran’s ISNA news agency.</p> <a href=\"https://www.theguardian.com/world/live/2026/may/19/us-israel-iran-war-trump-peace-attacks-gulf-allies-strikes-hormuz-latest-news-updates\">Continue reading...</a>",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 02:06:01 GMT",
+      "summary": "<p>This blog is now closed. See our latest full report: <a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\">Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war</a></p><p><a href=\"https://www.theguardian.com/world/friedrich-merz\">Friedrich Merz</a> has been embroiled in a row with Donald Trump over his war on Iran ever since the German chancellor suggested the Trump team was <a href=\"https://www.theguardian.com/world/2026/apr/27/us-humiliated-iran-leadership-trump-merz\">being outplayed in its negotiations with Tehran</a> and said he would not advise his children to study or work in the US in the current climate.</p><p>The Guardian’s Berlin correspondent, Deborah Cole, has looked at the declining relationship between the two leaders in this story. Here is an extract:</p><p><em>Disputes over trade and military aid for Ukraine have fuelled tensions between the US and its European allies and <a href=\"https://www.theguardian.com/world/2026/may/02/nato-us-withdraw-troops-germany-defence\">tested the Nato alliance</a>.</em></p><p><em>Merz is struggling to revive an anaemic German economy and has said the impact of the US-Israeli military action in Iran and the ensuing <a href=\"https://www.theguardian.com/world/strait-of-hormuz\">closure of the strait of Hormuz</a> has been severely damaging to European interests.</em></p><p><em>We strongly condemn the renewed Iranian airstrikes against the United Arab Emirates and other partners. Attacks on nuclear facilities pose a threat to the safety of people throughout the entire region. There must be no further escalation of violence.</em></p><p><em>Iran must enter into serious negotiations with the USA, stop threatening its neighbours, and open the strait of Hormuz without restrictions.</em></p> <a href=\"https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates\">Continue reading...</a>",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+      "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 21:07:58 GMT",
+      "summary": "<p>The US president says plans for a US military strike on Iran have been paused because ‘serious negotiations are now taking place’</p><p>Iran has made a new proposal for a deal to definitively end the war in the Middle East, officials in the region said on Monday, with Donald Trump claiming he had postponed new military strikes so talks could continue.</p><p>But while the US president has regularly used social media to threaten Tehran, and to claim that a peace deal was within reach, there has been no sign of an immediate breakthrough in the stalled negotiations to end the war.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel\">Continue reading...</a>",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+      "title": "‘Disposable’ operatives for hire are a new menace for western countries",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Mon, 18 May 2026 17:30:25 GMT",
+      "summary": "<p>A court case in New York has highlighted how Iran is using technology to recruit agents who may not even be regime supporters</p><p>When on Friday a 32-year-old Iraqi was brought before a court in New York to be <a href=\"https://www.theguardian.com/us-news/2026/may/15/iraqi-terror-attacks-arrested-charged\">charged with planning to attack Jewish community sites</a> in the US, a curtain was suddenly lifted on a corner of a shadowy world.</p><p>The detention of Mohammed Saad Baqer al-Saadi in Turkey last week revealed rare details of Iran’s efforts to use terrorism to sow discord among communities in Europe, the UK and the US – but also the outlines of an uncertain and threatening future.</p> <a href=\"https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries\">Continue reading...</a>",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+      "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 07:44:06 GMT",
+      "summary": "<p>Pay growth eases to 3.4% as businesses face pressure from soaring energy costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Analysis: No feelgood factor for Reeves</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed, according to official figures, in the first snapshot of how companies are reacting to the impact of the Iran war.</p><p>The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March, from 4.9% in February, a rate that City economists had expected to hold steady.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">Continue reading...</a>",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment",
+      "title": "No feelgood factor for Reeves as Iran war snuffs out economic upturn",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 07:07:42 GMT",
+      "summary": "<p>Rise in unemployment and weak pay growth underline how tough this year will be for UK households</p><ul><li><p><a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">UK unemployment unexpectedly rises to 5%</a></p></li><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>News that the UK unemployment rate <a href=\"https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth\">jumped back to 5% in March</a> appears to be the latest evidence that the Iran war has snuffed out the economic upturn Rachel Reeves had hoped to see in 2026.</p><p>The Office for National Statistics reports that, after <a href=\"https://www.theguardian.com/business/2026/apr/21/uk-enemployment-rate-pay-growth-ons-interest-rates#:~:text=UK%20unemployment%20shows%20surprise%20fall,five%20years%20%7C%20Economics%20%7C%20The%20Guardian\">an unexpected fall in the unemployment rate to 4.9% in last month’s data</a>, it ticked back up to 5% between January and March – the first set of figures affected by the conflict.</p> <a href=\"https://www.theguardian.com/business/2026/may/19/rachel-reeves-iran-war-economy-unemployment\">Continue reading...</a>",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+      "title": "Trump says he's called off Iran strike at request of Gulf allies",
+      "source": "https://www.npr.org/rss/rss.php?id=1004",
+      "published": "Tue, 19 May 2026 01:27:58 -0400",
+      "summary": "President Donald Trump says he is holding off on a military strike on Iran planned for Tuesday because \"serious negotiations\" are underway to end the war.",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5820631/trump-north-korea-nuclear",
+      "title": "North Korea is relieved its nuclear weapons have prevented a fate like Iran's",
+      "source": "https://www.npr.org/rss/rss.php?id=1004",
+      "published": "Mon, 18 May 2026 04:47:07 -0400",
+      "summary": "The U.S. long pushed for both Iran and North Korea to quit their nuclear plans. After seeing Iran's leader get killed, North Korea's Kim Jong Un believes he made the right choice to stay the course.",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.npr.org/2026/05/18/nx-s1-5825574/u-s-and-iran-signal-readiness-to-fight-again-as-weekend-tensions-mount",
+      "title": "U.S. and Israel prepare for potential return to full-scale war with Iran",
+      "source": "https://www.npr.org/rss/rss.php?id=1004",
+      "published": "Mon, 18 May 2026 04:46:03 -0400",
+      "summary": "Events over the weekend highlight the risk of renewed war, as the United States and Israel signal they would be ready to fight Iran again.",
+      "status": "duplicate_already_stored"
+    },
+    {
+      "url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+      "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 10:00:36 +0000",
+      "summary": "With Iran&#039;s local football league suspended since March, most players in the squad have not been in action for months.",
+      "status": "stored",
+      "sha256": "372e4ebc37f2fb608fa3652000554de4fffa75f7c32e8801fbe1f6420a4fd261",
+      "text_chars": 2364,
+      "metadata_path": "data/geopolitics/raw/372e4ebc37f2fb608fa3652000554de4fffa75f7c32e8801fbe1f6420a4fd261.json"
+    },
+    {
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/5/19/trumps-repeated-ultimatums-betray-his-lack-of-leverage-over-iran?traffic_source=rss",
+      "title": "Trump’s repeated ultimatums betray his lack of leverage over Iran",
+      "source": "https://www.aljazeera.com/xml/rss/all.xml",
+      "published": "Tue, 19 May 2026 03:27:50 +0000",
+      "summary": "Foad Izadi says US President Trump&#039;s repeated threats of renewed full-scale war are a sign of weakness.",
+      "status": "rejected_disabled_data_type",
+      "data_type": "video_content"
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/c7079e55zjro?at_medium=RSS&at_campaign=rss",
+      "title": "Trump says he called off new Iran attack at request of Gulf states",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 22:30:58 GMT",
+      "summary": "The US president says he is holding off on an attack planned for Tuesday as \"serious negotiations are now taking place\".",
+      "status": "rejected_low_text",
+      "text_chars": 137,
+      "min_text_chars": 600
+    },
+    {
+      "url": "https://www.c-span.org/video/?c4901230/user-clip-geopolitics",
+      "title": "U.S.-Iran Relations: A Historical Overview",
+      "source": "openai-historical",
+      "published": "2019-06-20",
+      "summary": null,
+      "status": "rejected_disabled_data_type",
+      "data_type": "video_content"
+    },
+    {
+      "url": "https://www.state.gov/u-s-relations-with-iran/",
+      "title": "U.S. Relations With Iran",
+      "source": "openai-historical",
+      "published": "2021-03-30",
+      "summary": null,
+      "status": "rejected_low_text",
+      "text_chars": 136,
+      "min_text_chars": 600
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cd0p4y9y48xo?at_medium=RSS&at_campaign=rss",
+      "title": "Trump warns 'clock is ticking' for Iran as peace progress stalls",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Mon, 18 May 2026 09:58:35 GMT",
+      "summary": "On Monday Iran said it had responded to the latest US proposal and that exchanges with Washington were continuing.",
+      "status": "rejected_low_text",
+      "text_chars": 264,
+      "min_text_chars": 600
+    },
+    {
+      "url": "https://www.bbc.com/news/articles/cn8p392nl7yo?at_medium=RSS&at_campaign=rss",
+      "title": "'This may be the last time you hear my voice': Political executions surge in Iran since start of war",
+      "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+      "published": "Sun, 17 May 2026 23:02:56 GMT",
+      "summary": "Since the US and Israel attacked Iran on  28 February, the UN says it’s verified the execution of at least 32 political prisoners.",
+      "status": "rejected_low_text",
+      "text_chars": 269,
+      "min_text_chars": 600
+    },
+    {
+      "url": "https://www.theguardian.com/money/2026/may/19/energy-bills-rise-july-gas-electricity-prices-cap-great-britain-iran-war",
+      "title": "Energy bills will rise by £209 in July to £1,850 a year, forecast says",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 08:20:04 GMT",
+      "summary": "<p>Cornwall Insight predicts rise in price cap of nearly 13% in Great Britain as Iran war pushes up gas costs</p><ul><li><p><a href=\"https://www.theguardian.com/business/live/2026/may/19/uk-wage-growth-unemployment-rate-markets-business-live-news\">Business live – latest updates</a></p></li></ul><p>Energy bills for households in Great Britain could increase by more than £200 a year to almost £1,900 from this summer in “a kick in the teeth” for millions struggling with the cost of living crisis.</p><p>A typical gas and electricity bill is forecast to reach £1,850 a year from July under the industry regulator Ofgem’s quarterly price cap, according to analysis by the energy consultancy Cornwall Insight.</p> <a href=\"https://www.theguardian.com/money/2026/may/19/energy-bills-rise-july-gas-electricity-prices-cap-great-britain-iran-war\">Continue reading...</a>",
+      "status": "stored",
+      "sha256": "0bc876c98ae8f4908154592acc85ab72201d14c72e1fbb18fd128871ba3a11ea",
+      "text_chars": 3220,
+      "metadata_path": "data/geopolitics/raw/0bc876c98ae8f4908154592acc85ab72201d14c72e1fbb18fd128871ba3a11ea.json"
+    },
+    {
+      "url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+      "title": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
+      "source": "https://www.theguardian.com/world/rss",
+      "published": "Tue, 19 May 2026 10:42:39 GMT",
+      "summary": "<p>YouGov polling reveals support for prospective challenger, with members believing Starmer could not secure another victory </p><p>On Friday parliament’s <strong>intelligence and security committee</strong> issued <a href=\"https://isc.independent.gov.uk/wp-content/uploads/2026/05/20260515-ISC-Press-Notice.docx.pdf\">a damning statement </a>about the government’s response to the humble address requiring the release of documents relating to the appointment of Peter Mandelson as ambassador to the US. It said the government was not fully complying with what is in effect an instruction from the Commons. For good measure, the committee also accuses the government of not keeping proper record of its decisions and of doing far too much business by WhatsApp. Here is our story, by <strong>Henry Dyer and Paul Lewis</strong>.</p><p>At 12.30pm <strong>Jeremy Wright</strong>, deputy chair of the committee and a former Tory attorney general, will ask a Commons urgent question about this. He is asking Darren Jones, the chief secretary to the PM, to reply.</p> <a href=\"https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates\">Continue reading...</a>",
+      "status": "stored",
+      "sha256": "2bf9936643fc2f70ab2ca30ac23506dc7118d0a7458c709d24b34153817906ce",
+      "text_chars": 18625,
+      "metadata_path": "data/geopolitics/raw/2bf9936643fc2f70ab2ca30ac23506dc7118d0a7458c709d24b34153817906ce.json"
+    },
+    {
+      "url": "https://www.france24.com/en/trump-says-holding-off-on-strike-on-iran-at-request-of-gulf-allies",
+      "title": "Trump says holding off on strike on Iran at request of Gulf allies",
+      "source": "https://www.france24.com/en/rss",
+      "published": "Tue, 19 May 2026 10:19:19 GMT",
+      "summary": "After issuing thinly veiled threats against Iran over the weekend, US President Trump appeared to strike a different tone on May 18. He described ongoing peace talks with Tehran as “very positive” and even claimed he had paused a planned US military strike.",
+      "status": "rejected_low_text",
+      "text_chars": 158,
+      "min_text_chars": 600
+    },
+    {
+      "url": "https://www.france24.com/en/stalled-us-iran-talks-show-trump-s-strategy-of-pressure-is-not-paying-off",
+      "title": "Stalled US-Iran talks show \"Trump's strategy of pressure\" is not paying off",
+      "source": "https://www.france24.com/en/rss",
+      "published": "Tue, 19 May 2026 10:04:07 GMT",
+      "summary": "Late on May 18, Donald Trump said he had called of strikes on Iran following advice from Gulf countries. This comes amid stalled talks between the US and Iran, with neither party willing to compromise on their demands. FRANCE 24's Kethevane Gorjestani looks at where the talks stand, and where the Gulf countries' interests lie after weeks of conflict.",
+      "status": "rejected_low_text",
+      "text_chars": 410,
+      "min_text_chars": 600
+    }
+  ],
+  "topic_anchor_terms": [
+    "iran"
+  ],
+  "limit": 120,
+  "max_candidates": 500,
+  "min_text_chars": 600
+}
