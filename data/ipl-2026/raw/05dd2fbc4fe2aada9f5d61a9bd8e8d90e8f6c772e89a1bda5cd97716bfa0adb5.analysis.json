@@ -1,0 +1,140 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-heinrich-klaasen-overtakes-sai-sudharsan-shubman-gill-and-virat-kohli-to-reclaim-top-spot/articleshow/131193346.cms",
+    "source_title": "IPL 2026 Orange Cap: Klaasen overtakes Sudharsan, Gill, Kohli to reclaim top spot",
+    "published": "2026-05-19T12:45:31+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Heinrich Klaasen of Sunrisers Hyderabad has reclaimed the top spot in the IPL 2026 Orange Cap standings after scoring 47 runs in a match against Chennai Super Kings. He now has a total of 555 runs from 13 matches, just one run ahead of Sai Sudharsan. The competition for the Orange Cap is tight, with only 22 runs separating the top five players. This season has seen impressive performances from several players, making the race for the Orange Cap one of the closest in IPL history.",
+    "key_takeaways": [
+      "Heinrich Klaasen leads the IPL 2026 Orange Cap standings with 555 runs.",
+      "Sai Sudharsan is in second place with 554 runs.",
+      "Shubman Gill and Virat Kohli follow closely with 552 and 542 runs, respectively.",
+      "The top five players are separated by only 22 runs.",
+      "Klaasen has an average of 50.45 and a strike rate of 155.89.",
+      "The competition for the Orange Cap is highly competitive this season."
+    ],
+    "why_it_matters": "The close race for the Orange Cap highlights the high level of competition in IPL 2026, showcasing the talent of various players and the excitement of the tournament.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Heinrich Klaasen has reclaimed the top spot in the IPL 2026 Orange Cap standings.",
+      "evidence_text": "Klaasen contributed a brisk 47 off 26 balls, lifting the SRH batter to the top of the IPL 2026 Orange Cap standings.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-heinrich-klaasen-overtakes-sai-sudharsan-shubman-gill-and-virat-kohli-to-reclaim-top-spot/articleshow/131193346.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The top five players in the Orange Cap race are closely contested.",
+      "evidence_text": "With only 22 runs separating the top-ranked batter and the player in fifth place, the Orange Cap race remains one of the closest contests of IPL 2026.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-heinrich-klaasen-overtakes-sai-sudharsan-shubman-gill-and-virat-kohli-to-reclaim-top-spot/articleshow/131193346.cms",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Heinrich Klaasen",
+      "description": "Top scorer in IPL 2026 with 555 runs.",
+      "evidence_text": "Klaasen contributed a brisk 47 off 26 balls, lifting the SRH batter to the top of the IPL 2026 Orange Cap standings."
+    },
+    {
+      "type": "Player",
+      "name": "Sai Sudharsan",
+      "description": "Second in the Orange Cap standings with 554 runs.",
+      "evidence_text": "Sudharsan’s 554 runs have also come from 13 matches and include one century and six fifties."
+    },
+    {
+      "type": "Player",
+      "name": "Shubman Gill",
+      "description": "Third in the Orange Cap standings with 552 runs.",
+      "evidence_text": "GT captain Shubman Gill is third in the race with 552 runs, just three behind Klaasen."
+    },
+    {
+      "type": "Player",
+      "name": "Virat Kohli",
+      "description": "Fourth in the Orange Cap standings with 542 runs.",
+      "evidence_text": "Virat Kohli of Royal Challengers Bengaluru is fourth with 542 runs from 13 matches."
+    },
+    {
+      "type": "Player",
+      "name": "KL Rahul",
+      "description": "Fifth in the Orange Cap standings with 533 runs.",
+      "evidence_text": "KL Rahul of Delhi Capitals rounds off the top five with 533 runs from 13 matches."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Sunrisers Hyderabad vs Chennai Super Kings match",
+      "location": "Chepauk",
+      "actors": [
+        "Sunrisers Hyderabad",
+        "Chennai Super Kings"
+      ],
+      "evidence_text": "Sunrisers Hyderabad on Monday booked their spot in the IPL 2026 playoffs with a five-wicket victory over Chennai Super Kings at Chepauk."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Heinrich Klaasen Runs",
+      "value": "555",
+      "unit": "runs",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "Klaasen contributed a brisk 47 off 26 balls, lifting the SRH batter to the top of the IPL 2026 Orange Cap standings, one run ahead of second-placed Sai Sudharsan."
+    },
+    {
+      "name": "Sai Sudharsan Runs",
+      "value": "554",
+      "unit": "runs",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "Sudharsan’s 554 runs have also come from 13 matches."
+    },
+    {
+      "name": "Shubman Gill Runs",
+      "value": "552",
+      "unit": "runs",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "Shubman Gill is third in the race with 552 runs, just three behind Klaasen."
+    },
+    {
+      "name": "Virat Kohli Runs",
+      "value": "542",
+      "unit": "runs",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "Virat Kohli is fourth with 542 runs from 13 matches."
+    },
+    {
+      "name": "KL Rahul Runs",
+      "value": "533",
+      "unit": "runs",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "KL Rahul rounds off the top five with 533 runs from 13 matches."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-orange-cap-heinrich-klaasen-overtakes-sai-sudharsan-shubman-gill-and-virat-kohli-to-reclaim-top-spot/articleshow/131193346.cms",
+      "title": "IPL 2026 Orange Cap: Klaasen overtakes Sudharsan, Gill, Kohli to reclaim top spot",
+      "published": "2026-05-19T12:45:31+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet covering sports events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

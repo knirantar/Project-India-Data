@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-playing-11-today-match-ravindra-jadeja-jaipur-10696464/",
+  "title": "RR vs LSG IPL 2026 Playing 11 Today Match: Ravindra Jadeja to return for Rajasthan Royals vs Lucknow Super Giants in Jaipur",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Tue, 19 May 2026 05:30:54 +0000",
+  "sha256": "6d11aa6cb5378d44314b6495f6d622435ecc2adc1fcdf617955e9e503ec71689",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T07:44:46.553202+00:00",
+  "text_chars": 1669,
+  "raw_path": "data/ipl-2026/raw/6d11aa6cb5378d44314b6495f6d622435ecc2adc1fcdf617955e9e503ec71689.html",
+  "text_path": "data/ipl-2026/raw/6d11aa6cb5378d44314b6495f6d622435ecc2adc1fcdf617955e9e503ec71689.txt"
+}

@@ -1,0 +1,81 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/my-body-is-a-little-weak-ms-dhoni-all-but-confirms-retirement-101779165200877.html",
+    "source_title": "‘My body is a little weak’: MS Dhoni all but confirms retirement",
+    "published": "2026-05-19T10:19:21+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "MS Dhoni hinted at retirement after the Chennai Super Kings' final home game of IPL 2026, stating, 'my body is a little weak.' Despite not making a formal announcement, his words and absence from the season due to injury suggest a significant turning point in his career. Suresh Raina's plea for Dhoni to return next season reflects the fans' desire for his continued presence, but Dhoni's admission raises doubts about his ability to play again.",
+    "key_takeaways": [
+      "Dhoni did not play in IPL 2026 due to a calf injury.",
+      "His statement about his body being weak suggests retirement is imminent.",
+      "Suresh Raina urged Dhoni to return for another season.",
+      "Dhoni's response, 'let me see,' leaves a small window open for a comeback.",
+      "The absence of a formal retirement announcement adds to the uncertainty.",
+      "CSK fans are left waiting for Dhoni's final decision."
+    ],
+    "why_it_matters": "This situation highlights the emotional connection between Dhoni and his fans, as well as the impact of injuries on athletes' careers. Dhoni's potential retirement marks the end of an era for CSK and IPL, making it a significant moment in cricket history.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "MS Dhoni hinted at retirement.",
+      "evidence_text": "Dhoni's statement, 'my body is a little weak,' suggests he may not return.",
+      "source_url": "https://www.hindustantimes.com/cricket/my-body-is-a-little-weak-ms-dhoni-all-but-confirms-retirement-101779165200877.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Suresh Raina urged Dhoni to play another season.",
+      "evidence_text": "Raina told Dhoni that IPL 2026 could not count as a proper farewell because he had not played at all.",
+      "source_url": "https://www.hindustantimes.com/cricket/my-body-is-a-little-weak-ms-dhoni-all-but-confirms-retirement-101779165200877.html",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "MS Dhoni",
+      "description": "Former captain of the Indian cricket team and Chennai Super Kings.",
+      "evidence_text": "Dhoni's absence made the season feel stranger than any CSK season before it."
+    },
+    {
+      "type": "Person",
+      "name": "Suresh Raina",
+      "description": "Former teammate of MS Dhoni and a key player for CSK.",
+      "evidence_text": "Raina revealed the conversation he had with Dhoni during the lap of honour."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Chennai Super Kings' final home game of IPL 2026",
+      "location": "Chepauk, Chennai",
+      "actors": [
+        "MS Dhoni",
+        "Suresh Raina"
+      ],
+      "evidence_text": "Dhoni walked with the CSK squad during the lap of honour following their five-wicket defeat to Sunrisers Hyderabad."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/my-body-is-a-little-weak-ms-dhoni-all-but-confirms-retirement-101779165200877.html",
+      "title": "‘My body is a little weak’: MS Dhoni all but confirms retirement",
+      "published": "2026-05-19T10:19:21+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "Hindustan Times is a reputable news source."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

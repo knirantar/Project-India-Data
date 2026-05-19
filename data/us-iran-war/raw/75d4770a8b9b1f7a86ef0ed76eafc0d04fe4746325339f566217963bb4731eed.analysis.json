@@ -1,0 +1,141 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+    "source_title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+    "published": "Tue, 19 May 2026 07:44:06 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Unemployment in the UK has risen to 5%, with wage growth slowing, as companies react to the impact of the Iran war. The Office for National Statistics reported a significant drop in payrolled employees, with 100,000 fewer jobs in April. Young people are particularly affected, with unemployment for those aged 18-24 reaching 14.7%. The economic outlook remains uncertain, with inflation expected to rise and the Bank of England predicting further increases in unemployment.",
+    "key_takeaways": [
+      "UK unemployment rose to 5% in March 2026, up from 4.9% in February.",
+      "100,000 jobs were lost in April, marking the largest monthly decline since 2014.",
+      "Wage growth slowed to 3.4% year-on-year, the lowest since October 2020.",
+      "Unemployment for 18-24 year-olds reached 14.7%, the highest since November 2014.",
+      "The Bank of England forecasts unemployment could rise to 5.6% by summer 2027.",
+      "The ongoing Iran war is contributing to rising inflation and economic uncertainty."
+    ],
+    "why_it_matters": "This report highlights the significant impact of geopolitical events, such as the Iran war, on the UK labor market and economy. Understanding these dynamics is crucial for policymakers and economists as they navigate the challenges of rising unemployment and inflation.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Unemployment in the UK has risen to 5%.",
+      "evidence_text": "Unemployment in the UK has unexpectedly risen to 5% while wage growth has slowed.",
+      "source_url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The number of payrolled employees dropped by 100,000 in April.",
+      "evidence_text": "More up-to-date tax data showed the number of payrolled employees dropped sharply in April, falling by 100,000.",
+      "source_url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Unemployment for 18-24 year-olds reached 14.7%.",
+      "evidence_text": "The unemployment rate for 18- to 24-year-olds rose to 14.7% in the three months to March.",
+      "source_url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The Bank of England expects unemployment to rise to 5.6% by summer 2027.",
+      "evidence_text": "The Bank of England expects unemployment to hit 5.1% by the middle of this year and then rise to between 5.5% and 5.6% by the summer of 2027.",
+      "source_url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Office for National Statistics",
+      "description": "The UK's largest independent producer of official statistics.",
+      "evidence_text": "The Office for National Statistics (ONS) said the rate of unemployment was up in the three months to March."
+    },
+    {
+      "type": "organization",
+      "name": "Institute of Chartered Accountants in England and Wales",
+      "description": "A professional body for accountants in England and Wales.",
+      "evidence_text": "Suren Thiru, the chief economist at the Institute of Chartered Accountants in England and Wales, said: 'These figures signal a growing distress within the UK’s labour market...'"
+    },
+    {
+      "type": "organization",
+      "name": "KPMG",
+      "description": "A global network of professional services firms providing audit, tax, and advisory services.",
+      "evidence_text": "Yael Selfin, the chief economist at KPMG, said 'Workers are likely to face a period of declining real pay...'"
+    },
+    {
+      "type": "organization",
+      "name": "Resolution Foundation",
+      "description": "A think tank focused on improving the living standards of those on low to middle incomes.",
+      "evidence_text": "The Resolution Foundation, a thinktank, said the outlook for wages looked 'bleak'."
+    },
+    {
+      "type": "person",
+      "name": "Pat McFadden",
+      "description": "The work and pensions secretary in the UK.",
+      "evidence_text": "The work and pensions secretary, Pat McFadden, said: 'We know the conflict in the Middle East is casting a shadow on the labour market...'"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-02-28",
+      "event": "Iran war began",
+      "location": "",
+      "actors": [],
+      "evidence_text": "The Iran war began on 28 February, making this the first full month of official data to show how employers responded to rising energy costs."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "unemployment rate",
+      "value": "5",
+      "unit": "%",
+      "date": "2026-03-31",
+      "location": "UK",
+      "evidence_text": "The unemployment rate was up in the three months to March, from 4.9% in February."
+    },
+    {
+      "name": "payrolled employees",
+      "value": "100000",
+      "unit": "people",
+      "date": "2026-04-30",
+      "location": "UK",
+      "evidence_text": "The number of payrolled employees dropped sharply in April, falling by 100,000."
+    },
+    {
+      "name": "youth unemployment rate",
+      "value": "14.7",
+      "unit": "%",
+      "date": "2026-03-31",
+      "location": "UK",
+      "evidence_text": "The unemployment rate for 18- to 24-year-olds rose to 14.7% in the three months to March."
+    },
+    {
+      "name": "GDP growth",
+      "value": "0.3",
+      "unit": "%",
+      "date": "2026-03-31",
+      "location": "UK",
+      "evidence_text": "Figures from the ONS released last week showed the UK economy grew by 0.3% in March."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/business/2026/may/19/uk-unemployment-iran-war-pay-growth",
+      "title": "UK unemployment unexpectedly rises to 5% as firms squeezed by Iran war",
+      "published": "Tue, 19 May 2026 07:44:06 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news organization known for its journalistic standards."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

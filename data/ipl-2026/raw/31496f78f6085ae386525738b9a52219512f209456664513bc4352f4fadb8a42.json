@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/explained-how-csk-can-still-reach-ipl-2026-playoffs-despite-srh-loss/articleshow/131193994.cms",
+  "title": "Explained: How CSK can still reach IPL 2026 playoffs despite SRH loss",
+  "source": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+  "published": "2026-05-19T12:53:13+05:30",
+  "sha256": "31496f78f6085ae386525738b9a52219512f209456664513bc4352f4fadb8a42",
+  "content_type": "text/html",
+  "collected_at": "2026-05-19T07:44:46.964077+00:00",
+  "text_chars": 2827,
+  "raw_path": "data/ipl-2026/raw/31496f78f6085ae386525738b9a52219512f209456664513bc4352f4fadb8a42.html",
+  "text_path": "data/ipl-2026/raw/31496f78f6085ae386525738b9a52219512f209456664513bc4352f4fadb8a42.txt"
+}

@@ -1,0 +1,126 @@
+{
+  "document": {
+    "source_url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+    "source_title": "Trump says he's called off Iran strike at request of Gulf allies",
+    "published": "Tue, 19 May 2026 01:27:58 -0400",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "President Donald Trump announced he is postponing a planned military strike on Iran due to ongoing negotiations aimed at ending the conflict. He stated that Gulf allies requested a delay of two to three days as they believe a deal with Iran is close. Despite previous threats and deadlines, Trump expressed optimism about the negotiations, while acknowledging past failures in reaching agreements. The announcement led to a drop in oil prices, reflecting market reactions to the potential for reduced military action.",
+    "key_takeaways": [
+      "Trump postpones military strike on Iran amid negotiations.",
+      "Gulf allies requested a delay, believing a deal is imminent.",
+      "Previous threats from Trump have not led to military action.",
+      "Oil prices fell following Trump's announcement.",
+      "Iran's nuclear program remains a central issue in negotiations.",
+      "Trust issues are a significant barrier to reaching an agreement."
+    ],
+    "why_it_matters": "This development highlights the complexities of U.S.-Iran relations and the influence of Gulf allies in diplomatic negotiations. The potential for a military strike and its postponement can significantly impact regional stability and global oil markets.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Trump is holding off on a military strike on Iran.",
+      "evidence_text": "Trump said he is holding off on a military strike on Iran planned for Tuesday because 'serious negotiations' are underway to end the war.",
+      "source_url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Gulf allies requested a delay in military action.",
+      "evidence_text": "He said America's allies in the Gulf asked him to wait for two to three days because they feel they are close to a deal with Iran.",
+      "source_url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Oil prices fell after Trump's announcement.",
+      "evidence_text": "Trump's post quickly caused a fall in the price of oil, which had been rising on the prospect of a prolonged standoff.",
+      "source_url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "description": "President of the United States who announced the postponement of the military strike.",
+      "evidence_text": "President Donald Trump said he is holding off on a military strike on Iran planned for Tuesday."
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "description": "Country involved in negotiations with the U.S. regarding military action and nuclear program.",
+      "evidence_text": "Trump said he is holding off on a military strike on Iran planned for Tuesday because 'serious negotiations' are underway."
+    },
+    {
+      "type": "Country",
+      "name": "United States",
+      "description": "Country planning a military strike on Iran.",
+      "evidence_text": "Trump said he had planned 'a very major attack' but put it off."
+    },
+    {
+      "type": "Country",
+      "name": "Qatar",
+      "description": "Gulf ally that requested a delay in military action against Iran.",
+      "evidence_text": "Trump said he was calling off the attack at the request of allies in the Middle East, including the leaders of Qatar."
+    },
+    {
+      "type": "Country",
+      "name": "Saudi Arabia",
+      "description": "Gulf ally that requested a delay in military action against Iran.",
+      "evidence_text": "Trump said he was calling off the attack at the request of allies in the Middle East, including the leaders of Saudi Arabia."
+    },
+    {
+      "type": "Country",
+      "name": "United Arab Emirates",
+      "description": "Gulf ally that requested a delay in military action against Iran.",
+      "evidence_text": "Trump said he was calling off the attack at the request of allies in the Middle East, including the leaders of the United Arab Emirates."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "Trump announces postponement of military strike on Iran.",
+      "location": "Washington, D.C.",
+      "actors": [
+        "Donald Trump"
+      ],
+      "evidence_text": "Trump said he is holding off on a military strike on Iran planned for Tuesday."
+    },
+    {
+      "date": "2026-02-28",
+      "event": "Former Iranian Supreme Leader Ayatollah Ali Khamenei killed in U.S. and Israeli strikes.",
+      "location": "Tehran, Iran",
+      "actors": [],
+      "evidence_text": "Bakhtiari nomads, wearing traditional dress, hold their guns during a pro-government gathering near the residence where former Iranian Supreme Leader Ayatollah Ali Khamenei, shown on a banner, was killed in U.S. and Israeli strikes on Feb. 28."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Oil Price",
+      "value": "107.25",
+      "unit": "USD per barrel",
+      "date": "2026-05-18",
+      "location": "Global",
+      "evidence_text": "Minutes before the president's announcement, petroleum futures had been trading at $108.83 a barrel. His word about negotiations almost instantly shaved more than $2 off the price, but it crept up again and ended on Monday at $107.25 a barrel."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.npr.org/2026/05/19/g-s1-122762/trump-says-hes-called-off-iran-strike",
+      "title": "Trump says he's called off Iran strike at request of Gulf allies",
+      "published": "Tue, 19 May 2026 01:27:58 -0400",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "NPR is a reputable news organization known for its journalistic standards."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

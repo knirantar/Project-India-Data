@@ -1,0 +1,89 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-playing-11-today-match-ravindra-jadeja-jaipur-10696464/",
+    "source_title": "RR vs LSG IPL 2026 Playing 11 Today Match: Ravindra Jadeja to return for Rajasthan Royals vs Lucknow Super Giants in Jaipur",
+    "published": "Tue, 19 May 2026 05:30:54 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Rajasthan Royals are set to face the Lucknow Super Giants in Jaipur, with Ravindra Jadeja making his return to the team. Both teams have struggled in the latter half of the season, with Rajasthan's performance in bowling and batting being notably below par. The predicted playing XI for both teams has been announced, highlighting key players for the match.",
+    "key_takeaways": [
+      "Ravindra Jadeja returns to the Rajasthan Royals lineup.",
+      "Both teams have experienced a decline in performance this season.",
+      "Rajasthan's predicted XI includes Yashasvi Jaiswal and Jofra Archer.",
+      "Lucknow's predicted XI features Rishabh Pant as captain and wicketkeeper.",
+      "The match is crucial for both teams to regain form.",
+      "The performance of key players will be pivotal in determining the match outcome."
+    ],
+    "why_it_matters": "This match is significant as it could impact the standings in the IPL 2026 season, especially for teams like Rajasthan Royals and Lucknow Super Giants, who are looking to recover from recent poor performances.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Ravindra Jadeja is returning to the Rajasthan Royals.",
+      "evidence_text": "Ravindra Jadeja to return for Rajasthan Royals vs Lucknow Super Giants in Jaipur.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-playing-11-today-match-ravindra-jadeja-jaipur-10696464/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Both teams have struggled in the second half of the season.",
+      "evidence_text": "Rajasthan much-like Punjab have seen a bit of collapse in the second half of the season.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-playing-11-today-match-ravindra-jadeja-jaipur-10696464/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "A franchise cricket team based in Jaipur, Rajasthan.",
+      "evidence_text": "Rajasthan Royals predicted XII: Yashasvi Jaiswal, Vaibhav Sooryavanshi, Dhruv Jurel (wk), Riyan Parag (c), Ravindra Jadeja, Donovan Ferreira, Dasun Shanaka, Shubham Dubey, Jofra Archer, Adam Milne, Brijesh Sharma, Yash Raj Punja."
+    },
+    {
+      "type": "team",
+      "name": "Lucknow Super Giants",
+      "description": "A franchise cricket team based in Lucknow, Uttar Pradesh.",
+      "evidence_text": "Lucknow Super Giants predicted XII: Mitchell Marsh, Josh Inglis, Nicholas Pooran, Aiden Markram, Rishabh Pant (c & wk), Mukul Choudhary, Abdul Samad, Shahbaz Ahmed, Mohammed Shami, Mayank Yadav, Akash Maharaj Singh, Prince Yadav."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "IPL match between Rajasthan Royals and Lucknow Super Giants",
+      "location": "Jaipur",
+      "actors": [
+        "Ravindra Jadeja",
+        "Rishabh Pant"
+      ],
+      "evidence_text": "Ravindra Jadeja to return for Rajasthan Royals vs Lucknow Super Giants in Jaipur."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-playing-11-today-match-ravindra-jadeja-jaipur-10696464/",
+      "title": "RR vs LSG IPL 2026 Playing 11 Today Match: Ravindra Jadeja to return for Rajasthan Royals vs Lucknow Super Giants in Jaipur",
+      "published": "Tue, 19 May 2026 05:30:54 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports events."
+  },
+  "geolocation": [
+    {
+      "name": "Jaipur",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Ravindra Jadeja to return for Rajasthan Royals vs Lucknow Super Giants in Jaipur."
+    }
+  ],
+  "timestamps": []
+}

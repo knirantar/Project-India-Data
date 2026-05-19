@@ -1,0 +1,106 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-race-what-rr-pbks-kkr-dc-and-csk-need-to-do-to-grab-the-final-spot/articleshow/131191974.cms",
+    "source_title": "What RR, PBKS, KKR, DC and CSK need to do to grab the final IPL 2026 playoff spot",
+    "published": "2026-05-19T12:19:10+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The IPL 2026 playoff race is heating up as RCB, GT, and SRH have already secured their spots, leaving five teams vying for the final berth. Rajasthan Royals are in the strongest position, needing potentially just one win from their remaining matches. Punjab Kings, Chennai Super Kings, Kolkata Knight Riders, and Delhi Capitals all face challenging scenarios to qualify, with various combinations of wins and losses required from their rivals. The dynamics of the remaining matches will significantly impact the playoff landscape.",
+    "key_takeaways": [
+      "Rajasthan Royals need one or two wins to secure a playoff spot.",
+      "Punjab Kings must beat LSG and hope for favorable outcomes from other matches.",
+      "Chennai Super Kings require a win against GT and need other teams to lose.",
+      "Kolkata Knight Riders must win both remaining matches to stay in contention.",
+      "Delhi Capitals can only qualify by beating KKR and relying on other teams' losses.",
+      "Net run rate could play a crucial role in determining playoff positions."
+    ],
+    "why_it_matters": "Understanding the playoff qualification scenarios is crucial for fans and teams alike as it highlights the competitive nature of IPL 2026 and the strategies teams must employ to secure their spots in the playoffs.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Rajasthan Royals are best placed to qualify for the playoffs.",
+      "evidence_text": "RR remain in the strongest position among the chasing pack simply because they still have two matches left and are already on 12 points.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-race-what-rr-pbks-kkr-dc-and-csk-need-to-do-to-grab-the-final-spot/articleshow/131191974.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Punjab Kings need to beat LSG to stay in contention.",
+      "evidence_text": "PBKS sit on 13 points from 13 games, which makes their equation deceptively simple: beat LSG in Lucknow and they move to 15 points.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-race-what-rr-pbks-kkr-dc-and-csk-need-to-do-to-grab-the-final-spot/articleshow/131191974.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Chennai Super Kings have the toughest path to qualification.",
+      "evidence_text": "CSK’s defeat to SRH has left them needing the most improbable combination of results among the teams still mathematically alive.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-race-what-rr-pbks-kkr-dc-and-csk-need-to-do-to-grab-the-final-spot/articleshow/131191974.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Kolkata Knight Riders must win both remaining games to qualify.",
+      "evidence_text": "KKR are the only other team apart from RR among the chasing group with two remaining games.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-race-what-rr-pbks-kkr-dc-and-csk-need-to-do-to-grab-the-final-spot/articleshow/131191974.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Delhi Capitals can only qualify by winning their last match.",
+      "evidence_text": "DC’s equation is the toughest among the realistic contenders because they have only one match left and an inferior net run rate.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-race-what-rr-pbks-kkr-dc-and-csk-need-to-do-to-grab-the-final-spot/articleshow/131191974.cms",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "A cricket team in the IPL currently in a strong position to qualify for the playoffs.",
+      "evidence_text": "RR remain in the strongest position among the chasing pack simply because they still have two matches left and are already on 12 points."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A cricket team in the IPL that needs to beat LSG to stay in contention for the playoffs.",
+      "evidence_text": "PBKS sit on 13 points from 13 games, which makes their equation deceptively simple: beat LSG in Lucknow and they move to 15 points."
+    },
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "A cricket team in the IPL facing a tough path to qualification.",
+      "evidence_text": "CSK’s defeat to SRH has left them needing the most improbable combination of results among the teams still mathematically alive."
+    },
+    {
+      "type": "team",
+      "name": "Kolkata Knight Riders",
+      "description": "A cricket team in the IPL that must win both remaining games to qualify.",
+      "evidence_text": "KKR are the only other team apart from RR among the chasing group with two remaining games."
+    },
+    {
+      "type": "team",
+      "name": "Delhi Capitals",
+      "description": "A cricket team in the IPL that can only qualify by winning their last match.",
+      "evidence_text": "DC’s equation is the toughest among the realistic contenders because they have only one match left and an inferior net run rate."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-playoff-qualification-race-what-rr-pbks-kkr-dc-and-csk-need-to-do-to-grab-the-final-spot/articleshow/131191974.cms",
+      "title": "What RR, PBKS, KKR, DC and CSK need to do to grab the final IPL 2026 playoff spot",
+      "published": "2026-05-19T12:19:10+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet known for sports coverage."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

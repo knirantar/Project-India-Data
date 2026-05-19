@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/ipl-2026-playoff-scenarios-rr-win-over-lsg-qualification-chances-of-pbks-csk-dc-kkr-10696946/",
+  "title": "IPL 2026 Playoff Scenarios: What RR win over LSG would mean for qualification chances of PBKS, CSK, DC, KKR",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Tue, 19 May 2026 07:23:19 +0000",
+  "sha256": "5bac040bf82dbd99a62a37582794bdbee28ce6aa5919ce7f570acdceb47266b4",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T07:44:46.522179+00:00",
+  "text_chars": 2969,
+  "raw_path": "data/ipl-2026/raw/5bac040bf82dbd99a62a37582794bdbee28ce6aa5919ce7f570acdceb47266b4.html",
+  "text_path": "data/ipl-2026/raw/5bac040bf82dbd99a62a37582794bdbee28ce6aa5919ce7f570acdceb47266b4.txt"
+}
