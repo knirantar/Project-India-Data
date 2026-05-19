@@ -1,0 +1,25 @@
+{
+  "topic_slug": "us-iran-war",
+  "topic_title": "US-Iran War",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
+  "title": "Donald Trump says he ‘wasn’t involved’ in creation of $1.7bn compensation fund – as it happened",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Tue, 19 May 2026 01:44:29 GMT",
+  "sha256": "1e796bc366d628be59c93acbc28b8a5faea4c75f73f49e1cf0eaf4e41735e37e",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T03:51:12.747683+00:00",
+  "text_chars": 16139,
+  "raw_path": "data/us-iran-war/raw/1e796bc366d628be59c93acbc28b8a5faea4c75f73f49e1cf0eaf4e41735e37e.html",
+  "text_path": "data/us-iran-war/raw/1e796bc366d628be59c93acbc28b8a5faea4c75f73f49e1cf0eaf4e41735e37e.txt"
+}

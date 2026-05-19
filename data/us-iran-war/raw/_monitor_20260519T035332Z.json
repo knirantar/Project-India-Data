@@ -1,0 +1,44 @@
+{
+  "topic_slug": "us-iran-war",
+  "topic_title": "US-Iran War",
+  "config_path": "project_india/topics/us-iran-war/config.yaml",
+  "raw_dir": "data/us-iran-war/raw",
+  "finished_at": "2026-05-19T03:53:32.285662+00:00",
+  "new_documents": 5,
+  "new_items": [
+    {
+      "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+      "url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "text_path": "data/us-iran-war/raw/0be63c35943f7c3f3c609702a67886421ad224df61a876764affc99622ab8aa0.txt",
+      "metadata_path": "data/us-iran-war/raw/0be63c35943f7c3f3c609702a67886421ad224df61a876764affc99622ab8aa0.json"
+    },
+    {
+      "title": "UAE restores power to Barakah nuclear plant after drone strike, says IAEA – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/may/18/us-israel-iran-lebanon-donald-trump-hormuz-oil-latest-news-updates",
+      "text_path": "data/us-iran-war/raw/06d87daf1a57c81ea472f9d5886ccd1e6e8d83ced04f9d8a053aae58bd0e619d.txt",
+      "metadata_path": "data/us-iran-war/raw/06d87daf1a57c81ea472f9d5886ccd1e6e8d83ced04f9d8a053aae58bd0e619d.json"
+    },
+    {
+      "title": "Trump claims planned attack on Iran postponed after Tehran makes new proposal to end war",
+      "url": "https://www.theguardian.com/world/2026/may/18/iran-new-proposal-deal-to-end-war-us-israel",
+      "text_path": "data/us-iran-war/raw/e91cd82869f2bd9d17b0c3315b66b7b3787670ef18641666b81bc557c2f4293c.txt",
+      "metadata_path": "data/us-iran-war/raw/e91cd82869f2bd9d17b0c3315b66b7b3787670ef18641666b81bc557c2f4293c.json"
+    },
+    {
+      "title": "UAE blames Iran or proxies for strike near nuclear plant, as Trump tells Tehran ‘clock is ticking’",
+      "url": "https://www.theguardian.com/world/2026/may/17/uae-blames-iran-or-its-proxies-for-drone-strike-fire-near-nuclear-plant",
+      "text_path": "data/us-iran-war/raw/761e43dc5bb4a28837aa2b02dd93ac3bcb5a16c7159b7f828b68e43b06b9d8b8.txt",
+      "metadata_path": "data/us-iran-war/raw/761e43dc5bb4a28837aa2b02dd93ac3bcb5a16c7159b7f828b68e43b06b9d8b8.json"
+    },
+    {
+      "title": "Donald Trump says he ‘wasn’t involved’ in creation of $1.7bn compensation fund – as it happened",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/18/donald-trump-redistricting-south-carolina-iran-healthcare-latest-news-updates",
+      "text_path": "data/us-iran-war/raw/1e796bc366d628be59c93acbc28b8a5faea4c75f73f49e1cf0eaf4e41735e37e.txt",
+      "metadata_path": "data/us-iran-war/raw/1e796bc366d628be59c93acbc28b8a5faea4c75f73f49e1cf0eaf4e41735e37e.json"
+    }
+  ],
+  "txt_before": 0,
+  "txt_after": 5,
+  "analysis_before": 0,
+  "analysis_after": 5
+}

@@ -1,0 +1,152 @@
+{
+  "document": {
+    "source_url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+    "source_title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+    "published": "Mon, 18 May 2026 20:12:45 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Trump will postpone a scheduled attack against Iran.",
+      "evidence_text": "United States President Donald Trump has announced he will postpone a “scheduled attack” against Iran at the request of regional leaders in the Middle East.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Serious negotiations are taking place.",
+      "evidence_text": "The reversal, he said, came in light of the fact that “serious negotiations are now taking place”.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Donald Trump",
+      "description": "President of the United States.",
+      "evidence_text": "United States President Donald Trump has announced he will postpone a 'scheduled attack' against Iran."
+    },
+    {
+      "type": "person",
+      "name": "Tamim bin Hamad Al Thani",
+      "description": "Emir of Qatar.",
+      "evidence_text": "Trump credited the intervention of leaders including Qatari Emir Tamim bin Hamad Al Thani."
+    },
+    {
+      "type": "person",
+      "name": "Mohammed bin Salman",
+      "description": "Crown Prince of Saudi Arabia.",
+      "evidence_text": "Trump credited the intervention of leaders including Saudi Crown Prince Mohammed bin Salman."
+    },
+    {
+      "type": "person",
+      "name": "Pete Hegseth",
+      "description": "Secretary of War.",
+      "evidence_text": "I have instructed Secretary of War, Pete Hegseth."
+    },
+    {
+      "type": "person",
+      "name": "Daniel Caine",
+      "description": "Chairman of The Joint Chiefs of Staff.",
+      "evidence_text": "The Chairman of The Joint Chiefs of Staff, General Daniel Caine."
+    },
+    {
+      "type": "person",
+      "name": "Masoud Pezeshkian",
+      "description": "President of Iran.",
+      "evidence_text": "Earlier on Monday, Iran’s President Masoud Pezeshkian wrote on social media."
+    },
+    {
+      "type": "organization",
+      "name": "Pentagon",
+      "description": "Headquarters of the United States Department of Defense.",
+      "evidence_text": "The war has cost the country at least $29bn so far, according to Pentagon officials."
+    },
+    {
+      "type": "organization",
+      "name": "Gulf International Forum",
+      "description": "Institute providing analysis on the Gulf region.",
+      "evidence_text": "Dania Thafer, the executive director of the Gulf International Forum."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "Trump postpones scheduled attack on Iran.",
+      "location": "Middle East",
+      "actors": [
+        "Donald Trump",
+        "Tamim bin Hamad Al Thani",
+        "Mohammed bin Salman"
+      ],
+      "evidence_text": "United States President Donald Trump has announced he will postpone a 'scheduled attack' against Iran at the request of regional leaders in the Middle East."
+    },
+    {
+      "date": "2026-04-08",
+      "event": "Ceasefire deal struck between Iran and the US.",
+      "location": "",
+      "actors": [
+        "Iran",
+        "United States"
+      ],
+      "evidence_text": "Iran and the US struck a ceasefire deal on April 8."
+    },
+    {
+      "date": "2026-02-28",
+      "event": "US and Israel attack Iran.",
+      "location": "",
+      "actors": [
+        "United States",
+        "Israel",
+        "Iran"
+      ],
+      "evidence_text": "Pakistan has been acting as a mediator since the US joined Israel in attacking Iran on February 28."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Cost of war with Iran",
+      "value": "29",
+      "unit": "billion USD",
+      "date": "",
+      "location": "",
+      "evidence_text": "The war has cost the country at least $29bn so far, according to Pentagon officials."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Donald Trump",
+      "relationship": "postpones",
+      "object": "scheduled attack on Iran",
+      "evidence_text": "United States President Donald Trump has announced he will postpone a 'scheduled attack' against Iran."
+    },
+    {
+      "subject": "Iran",
+      "relationship": "calls for",
+      "object": "release of frozen assets and lifting of sanctions",
+      "evidence_text": "For its part, Iran has called for frozen Iranian assets to be released and foreign sanctions on its economy to be lifted."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/5/18/trump-delays-scheduled-attack-on-iran-crediting-serious-negotiations?traffic_source=rss",
+      "title": "Trump delays ‘scheduled attack’ on Iran, crediting ‘serious negotiations’",
+      "published": "Mon, 18 May 2026 20:12:45 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
