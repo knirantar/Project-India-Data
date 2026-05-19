@@ -1,0 +1,113 @@
+{
+  "document": {
+    "source_url": "https://www.mumbaiindians.com/history",
+    "source_title": "Mumbai Indians History",
+    "published": "2008",
+    "data_type": "websites_html_pages",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Mumbai Indians have a rich history in the Indian Premier League (IPL), showcasing remarkable performances and the emergence of young talent. In IPL 2023, the team made it to the second Qualifier, highlighting their competitive spirit. Players like Suryakumar Yadav and Akash Madhwal have made significant contributions, with Madhwal achieving impressive match figures. The team's ability to nurture young stars is a testament to their strong development program.",
+    "key_takeaways": [
+      "Suryakumar Yadav scored 605 runs in IPL 2023.",
+      "Yadav had a strike rate of 181.13.",
+      "Mumbai Indians reached the second Qualifier in IPL 2023.",
+      "Akash Madhwal recorded match figures of 5/5 in the Eliminator.",
+      "Tilak Varma joined the Indian squad after a successful season.",
+      "The team continues to develop young talent."
+    ],
+    "why_it_matters": "The Mumbai Indians' history reflects their success in the IPL and their commitment to developing young players, which is crucial for the future of the franchise and the league.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Suryakumar Yadav was in dream form through IPL 2023.",
+      "evidence_text": "Aapla Dada Suryakumar Yadav was in dream form through IPL 2023.",
+      "source_url": "https://www.mumbaiindians.com/history",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Mumbai Indians made it to the second Qualifier in IPL 2023.",
+      "evidence_text": "Overall, the team has a good run, making it to the second Qualifier.",
+      "source_url": "https://www.mumbaiindians.com/history",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Akash Madhwal produced match figures of 5/5 in the Eliminator.",
+      "evidence_text": "Young stars like Akash Madhwal, who produced match figures of 5/5 in the Eliminator.",
+      "source_url": "https://www.mumbaiindians.com/history",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Tilak Varma rose up the ranks to join the Indian squad soon after the season.",
+      "evidence_text": "Tilak Varma, who rose up the ranks to join the Indian squad soon after the season.",
+      "source_url": "https://www.mumbaiindians.com/history",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Suryakumar Yadav",
+      "description": "A key player for Mumbai Indians who had an outstanding performance in IPL 2023.",
+      "evidence_text": "Aapla Dada Suryakumar Yadav was in dream form through IPL 2023."
+    },
+    {
+      "type": "Player",
+      "name": "Akash Madhwal",
+      "description": "A young player who achieved remarkable match figures in IPL 2023.",
+      "evidence_text": "Young stars like Akash Madhwal, who produced match figures of 5/5 in the Eliminator."
+    },
+    {
+      "type": "Player",
+      "name": "Tilak Varma",
+      "description": "A rising star who joined the Indian squad after IPL 2023.",
+      "evidence_text": "Tilak Varma, who rose up the ranks to join the Indian squad soon after the season."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "Runs Scored",
+      "value": "605",
+      "unit": "runs",
+      "date": "2023",
+      "location": "IPL 2023",
+      "evidence_text": "605 runs in 16 games at a strike-rate of 181.13."
+    },
+    {
+      "name": "Strike Rate",
+      "value": "181.13",
+      "unit": "strike rate",
+      "date": "2023",
+      "location": "IPL 2023",
+      "evidence_text": "605 runs in 16 games at a strike-rate of 181.13."
+    },
+    {
+      "name": "Match Figures",
+      "value": "5/5",
+      "unit": "match figures",
+      "date": "2023",
+      "location": "Eliminator",
+      "evidence_text": "Akash Madhwal, who produced match figures of 5/5 in the Eliminator."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.mumbaiindians.com/history",
+      "title": "Mumbai Indians History",
+      "published": "2008",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is the official website of the Mumbai Indians."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

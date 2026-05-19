@@ -1,0 +1,118 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/starc-openers-shine-in-dc-win-as-royals-playoffs-anxiety-grows-101779043621146.html",
+    "source_title": "Starc, openers shine in DC win as Royals playoffs anxiety grows",
+    "published": "Mon, 18 May 2026 00:18:30 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Delhi Capitals secured a crucial victory against Rajasthan Royals, winning by five wickets at Arun Jaitley Stadium. Mitchell Starc played a pivotal role, taking four wickets and helping to restrict RR to 193 runs. The Capitals' openers, KL Rahul and Abhishek Porel, set a solid foundation with a 105-run partnership. Despite losing wickets in the latter stages, Axar Patel's unbeaten 34 guided DC to victory, marking a significant turnaround after a poor home record this season.",
+    "key_takeaways": [
+      "Delhi Capitals won by five wickets against Rajasthan Royals.",
+      "Mitchell Starc took 4 wickets, significantly impacting the match.",
+      "KL Rahul and Abhishek Porel formed a strong opening partnership.",
+      "DC's victory was crucial for their morale after a poor home record.",
+      "Rajasthan Royals are in a tight race for playoff spots.",
+      "Axar Patel's leadership was vital in the chase."
+    ],
+    "why_it_matters": "This match highlights the resilience of Delhi Capitals in a challenging season and underscores the importance of key players like Mitchell Starc and Axar Patel in crucial moments, impacting their playoff aspirations.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Mitchell Starc took four wickets in the match.",
+      "evidence_text": "Starc, after going wicketless in two matches, bounced back in style. With three wickets in the 15th over–Parag, Donovan Ferreira (0) and Ravi Singh (4)–Starc forced RR to slip from 161/2 to 165/5, finishing with figures of 4/40.",
+      "source_url": "https://www.hindustantimes.com/cricket/starc-openers-shine-in-dc-win-as-royals-playoffs-anxiety-grows-101779043621146.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Delhi Capitals won the match by five wickets.",
+      "evidence_text": "DC won by 5 wkts.",
+      "source_url": "https://www.hindustantimes.com/cricket/starc-openers-shine-in-dc-win-as-royals-playoffs-anxiety-grows-101779043621146.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "KL Rahul and Abhishek Porel had a 105-run partnership.",
+      "evidence_text": "The opening duo stitched a 105-run partnership before Brijesh Sharma (2/44) provided the first breakthrough, dismissing the left-handed Porel for 51 off 31 balls.",
+      "source_url": "https://www.hindustantimes.com/cricket/starc-openers-shine-in-dc-win-as-royals-playoffs-anxiety-grows-101779043621146.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Mitchell Starc",
+      "description": "Key bowler for Delhi Capitals who took 4 wickets in the match.",
+      "evidence_text": "Starc, after going wicketless in two matches, bounced back in style."
+    },
+    {
+      "type": "Team",
+      "name": "Delhi Capitals",
+      "description": "Cricket team that won the match against Rajasthan Royals.",
+      "evidence_text": "Delhi Capitals finally turned things around to finish their last game in Delhi on a winning note."
+    },
+    {
+      "type": "Team",
+      "name": "Rajasthan Royals",
+      "description": "Cricket team that lost the match against Delhi Capitals.",
+      "evidence_text": "Rajasthan Royals, needing a win in their chase for a playoffs spot, were reined in towards the end at 193/8."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-15",
+      "event": "Delhi Capitals vs Rajasthan Royals match",
+      "location": "Arun Jaitley Stadium, New Delhi",
+      "actors": [
+        "Delhi Capitals",
+        "Rajasthan Royals"
+      ],
+      "evidence_text": "Delhi Capitals finally turned things around to finish their last game in Delhi on a winning note, defeating Rajasthan Royals by five wickets at the Arun Jaitley Stadium on Sunday."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Match Result",
+      "value": "Delhi Capitals won",
+      "unit": "",
+      "date": "2026-05-15",
+      "location": "Arun Jaitley Stadium, New Delhi",
+      "evidence_text": "DC won by 5 wkts."
+    },
+    {
+      "name": "Total Runs Scored by Rajasthan Royals",
+      "value": "193",
+      "unit": "runs",
+      "date": "2026-05-15",
+      "location": "Arun Jaitley Stadium, New Delhi",
+      "evidence_text": "RR 193/8 (V Sooryavanshi 46, D Jurel 53, R Parag 51, M Starc 4/40, L Ngidi 2/24, M Tiwari 2/27)."
+    },
+    {
+      "name": "Total Runs Scored by Delhi Capitals",
+      "value": "197",
+      "unit": "runs",
+      "date": "2026-05-15",
+      "location": "Arun Jaitley Stadium, New Delhi",
+      "evidence_text": "DC 197/5 in 19.2 overs."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/starc-openers-shine-in-dc-win-as-royals-playoffs-anxiety-grows-101779043621146.html",
+      "title": "Starc, openers shine in DC win as Royals playoffs anxiety grows",
+      "published": "Mon, 18 May 2026 00:18:30 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "Hindustan Times is a reputable news source."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

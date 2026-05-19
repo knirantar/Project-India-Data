@@ -1,0 +1,125 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/win-toss-and-field-first-the-dominant-trend/article70995511.ece",
+    "source_title": "IPL 2026 | Win toss and field first — the dominant trend",
+    "published": "2026-05-19T00:18:09+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "In IPL 2026, the trend of winning the toss and choosing to field has become overwhelmingly dominant, with 52 out of 62 matches following this pattern. The decision is influenced by factors such as dew affecting ball grip and spin, making it advantageous for teams batting second. Notably, teams that opted to field have won 32 of those matches, showcasing a significant shift in strategy compared to previous seasons. The season has also seen record-breaking chases, further solidifying the preference for fielding first.",
+    "key_takeaways": [
+      "52 out of 62 matches in IPL 2026 saw toss winners elect to field.",
+      "Dew in evening games impacts ball grip, favoring teams batting second.",
+      "Teams that chose to field won 32 matches, indicating a strong trend.",
+      "IPL 2026 has produced 38 successful chases in 58 games.",
+      "Only 10 teams opted to bat first, with just one victory recorded.",
+      "Record chases, including 265 runs by Punjab Kings, highlight the effectiveness of chasing."
+    ],
+    "why_it_matters": "This trend reflects a strategic evolution in T20 cricket, where understanding pitch conditions and game dynamics is crucial. The data from IPL 2026 could influence future team strategies and captains' decisions in high-stakes matches.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Toss winners in IPL 2026 overwhelmingly choose to field first.",
+      "evidence_text": "Of the 62 matches played so far this season, toss winners have elected to field in 52.",
+      "source_url": "https://www.thehindu.com/sport/cricket/win-toss-and-field-first-the-dominant-trend/article70995511.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Teams that chose to field have a high win rate.",
+      "evidence_text": "Teams that chose to field went on to win thirty two of those 52.",
+      "source_url": "https://www.thehindu.com/sport/cricket/win-toss-and-field-first-the-dominant-trend/article70995511.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Batting first has been largely unsuccessful in IPL 2026.",
+      "evidence_text": "Only 10 toss winners have gone against the grain and chosen to take first strike, and just one of them has emerged triumphant thus far.",
+      "source_url": "https://www.thehindu.com/sport/cricket/win-toss-and-field-first-the-dominant-trend/article70995511.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Mumbai Indians",
+      "description": "A franchise cricket team based in Mumbai, known for its strong performances in the IPL.",
+      "evidence_text": "Mumbai Indians, sent in to experience the pitch first at Wankhede, made 243 for five — its highest-ever first-innings IPL total."
+    },
+    {
+      "type": "team",
+      "name": "Punjab Kings",
+      "description": "A franchise cricket team based in Punjab, notable for its high-scoring matches.",
+      "evidence_text": "Punjab Kings hunted down 265 against Capitals, the highest successful chase in T20 history."
+    },
+    {
+      "type": "player",
+      "name": "K.L. Rahul",
+      "description": "An Indian cricketer and captain of Punjab Kings, known for his batting prowess.",
+      "evidence_text": "K.L. Rahul’s unbeaten 152 off just 67 balls, the highest IPL score by an Indian."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Toss between CSK and SRH",
+      "location": "Wankhede Stadium, Mumbai",
+      "actors": [
+        "Ruturaj",
+        "Cummins"
+      ],
+      "evidence_text": "CSK captain Ruturaj and SRH skipper Cummins at the toss on May 19, 2026."
+    },
+    {
+      "date": "2026-04-04",
+      "event": "Royals vs. Gujarat Titans",
+      "location": "",
+      "actors": [],
+      "evidence_text": "just one of them has emerged triumphant thus far — Royals against Gujarat Titans on April 4."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Matches Played",
+      "value": "62",
+      "unit": "matches",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "Of the 62 matches played so far this season."
+    },
+    {
+      "name": "Successful Chases",
+      "value": "38",
+      "unit": "chases",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "IPL 2026 has already produced 38 successful chases in 58 games."
+    },
+    {
+      "name": "Highest Successful Chase",
+      "value": "265",
+      "unit": "runs",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "Punjab Kings hunted down 265 against Capitals, the highest successful chase in T20 history."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/win-toss-and-field-first-the-dominant-trend/article70995511.ece",
+      "title": "IPL 2026 | Win toss and field first — the dominant trend",
+      "published": "2026-05-19T00:18:09+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet known for its sports coverage."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

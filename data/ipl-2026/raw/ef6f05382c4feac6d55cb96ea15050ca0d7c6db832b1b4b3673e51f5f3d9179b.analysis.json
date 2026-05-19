@@ -1,0 +1,107 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-s-csk-return-hopes-dashed-by-sunil-gavaskar-even-as-chepauk-waits-with-bated-breath-101779085480915.html",
+    "source_title": "MS Dhoni’s CSK return hopes dashed by Sunil Gavaskar even as Chepauk waits with bated breath",
+    "published": "2026-05-18T12:02:35+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "As Chennai Super Kings (CSK) prepare for their last home game of the 2026 IPL, fans are eager to see MS Dhoni play. However, Sunil Gavaskar has expressed doubts about Dhoni's participation, citing team dynamics and his recent injuries. Despite Dhoni's training sessions raising hopes, his absence would be a significant disappointment for fans who have cherished his presence at Chepauk. The situation remains uncertain as CSK fights for a playoff spot.",
+    "key_takeaways": [
+      "CSK's last home game of the 2026 IPL is highly anticipated by fans hoping to see MS Dhoni.",
+      "Sunil Gavaskar doubts Dhoni will play due to team strategy and his injury recovery.",
+      "Dhoni has not played any matches this season, raising concerns about his performance if he returns.",
+      "His presence at the stadium is still expected, even if he does not play.",
+      "CSK is currently fifth in the league and needs a win to secure a playoff spot.",
+      "Dhoni's absence would be a major disappointment for fans at Chepauk."
+    ],
+    "why_it_matters": "The article highlights the emotional connection between MS Dhoni and CSK fans, emphasizing the significance of his potential return in the context of the team's playoff aspirations. It also reflects on the impact of player injuries on team dynamics and fan expectations in high-stakes sports scenarios.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Sunil Gavaskar believes MS Dhoni is unlikely to play in the last home game of the IPL.",
+      "evidence_text": "Sunil Gavaskar believes that it’s unlikely to happen. The legendary cricketer feels Dhoni himself would opt out.",
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-s-csk-return-hopes-dashed-by-sunil-gavaskar-even-as-chepauk-waits-with-bated-breath-101779085480915.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "MS Dhoni has not played any matches this season.",
+      "evidence_text": "He hasn’t even played a single game, and he wouldn’t want to play this match.",
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-s-csk-return-hopes-dashed-by-sunil-gavaskar-even-as-chepauk-waits-with-bated-breath-101779085480915.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Dhoni's absence would disappoint fans at Chepauk.",
+      "evidence_text": "His absence from Chepauk, after all, would be a major disappointment for fans.",
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-s-csk-return-hopes-dashed-by-sunil-gavaskar-even-as-chepauk-waits-with-bated-breath-101779085480915.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "MS Dhoni",
+      "description": "Former captain of Chennai Super Kings and IPL icon.",
+      "evidence_text": "MS Dhoni has yet to play this season."
+    },
+    {
+      "type": "Person",
+      "name": "Sunil Gavaskar",
+      "description": "Legendary cricketer and commentator.",
+      "evidence_text": "Sunil Gavaskar believes that it’s unlikely to happen."
+    },
+    {
+      "type": "Team",
+      "name": "Chennai Super Kings",
+      "description": "IPL team currently competing in the 2026 season.",
+      "evidence_text": "Chennai Super Kings (CSK) playing their last home game of the 2026 Indian Premier League."
+    },
+    {
+      "type": "Event",
+      "name": "2026 IPL",
+      "description": "Indian Premier League season in which CSK is participating.",
+      "evidence_text": "CSK playing their last home game of the 2026 Indian Premier League."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "CSK's last home game of the IPL",
+      "location": "Chepauk, Chennai",
+      "actors": [
+        "MS Dhoni",
+        "Sunil Gavaskar"
+      ],
+      "evidence_text": "Chennai Super Kings (CSK) playing their last home game of the 2026 Indian Premier League tonight."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-s-csk-return-hopes-dashed-by-sunil-gavaskar-even-as-chepauk-waits-with-bated-breath-101779085480915.html",
+      "title": "MS Dhoni’s CSK return hopes dashed by Sunil Gavaskar even as Chepauk waits with bated breath",
+      "published": "2026-05-18T12:02:35+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "Hindustan Times is a reputable news source."
+  },
+  "geolocation": [
+    {
+      "name": "Chepauk",
+      "type": "Location",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "fans are expected to flock to Chepauk with just one hope."
+    }
+  ],
+  "timestamps": []
+}

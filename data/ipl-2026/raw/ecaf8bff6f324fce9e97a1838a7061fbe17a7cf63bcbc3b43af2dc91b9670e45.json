@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/one-last-time-in-yellow-ms-dhoni-leaves-chepauk-emotional-after-srh-defeat-watch/articleshow/131188961.cms",
+  "title": "One last time in yellow? MS Dhoni leaves Chepauk emotional after SRH defeat",
+  "source": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+  "published": "2026-05-19T08:14:20+05:30",
+  "sha256": "ecaf8bff6f324fce9e97a1838a7061fbe17a7cf63bcbc3b43af2dc91b9670e45",
+  "content_type": "text/html",
+  "collected_at": "2026-05-19T04:46:15.995073+00:00",
+  "text_chars": 3612,
+  "raw_path": "data/ipl-2026/raw/ecaf8bff6f324fce9e97a1838a7061fbe17a7cf63bcbc3b43af2dc91b9670e45.html",
+  "text_path": "data/ipl-2026/raw/ecaf8bff6f324fce9e97a1838a7061fbe17a7cf63bcbc3b43af2dc91b9670e45.txt"
+}

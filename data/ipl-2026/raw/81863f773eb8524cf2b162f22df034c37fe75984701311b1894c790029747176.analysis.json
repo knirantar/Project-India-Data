@@ -1,0 +1,96 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-felt-blessed-from-upstairs-ishan-kishan-dedicates-srh-playoff-clinching-knock-to-grieving-cousin-watch/articleshow/131189712.cms",
+    "source_title": "‘I felt blessed’: Ishan Kishan dedicates playoff-clinching knock to grieving cousin - Watch",
+    "published": "2026-05-19T08:56:41+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Ishan Kishan dedicated his match-winning innings to his grieving cousin during Sunrisers Hyderabad's playoff-clinching victory over Chennai Super Kings. Scoring 70 runs off 47 balls, Kishan's performance was motivated by his cousin's recent family bereavement. He expressed that the match held deeper significance for him, as it was the first time his cousin was watching him play. Kishan's innings not only secured SRH's place in the playoffs but also served as a personal tribute to family and resilience.",
+    "key_takeaways": [
+      "Ishan Kishan scored 70 runs off 47 balls in a crucial match.",
+      "His performance was dedicated to his cousin, who recently lost a sister.",
+      "Kishan felt a strong emotional connection during the game.",
+      "The match secured SRH's qualification for the IPL playoffs.",
+      "Kishan emphasized the importance of motivation in sports.",
+      "The victory was described as a blend of personal grief and team success."
+    ],
+    "why_it_matters": "This story highlights the intersection of personal tragedy and professional achievement, showcasing how athletes can draw strength from their personal lives to perform at high levels. It also emphasizes the emotional aspects of sports, where family support plays a crucial role in an athlete's motivation and performance.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Ishan Kishan dedicated his innings to his cousin who is grieving.",
+      "evidence_text": "Kishan said that his cousin, who lost his sister, was in the stands watching, and that became his motivation.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-felt-blessed-from-upstairs-ishan-kishan-dedicates-srh-playoff-clinching-knock-to-grieving-cousin-watch/articleshow/131189712.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Kishan's innings helped secure SRH's playoff qualification.",
+      "evidence_text": "The win not only kept SRH’s momentum alive but also secured qualification alongside Gujarat Titans.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-felt-blessed-from-upstairs-ishan-kishan-dedicates-srh-playoff-clinching-knock-to-grieving-cousin-watch/articleshow/131189712.cms",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Ishan Kishan",
+      "description": "Indian cricketer who plays for Sunrisers Hyderabad.",
+      "evidence_text": "Ishan Kishan spoke about an emotional family tragedy that was driving him during his match-winning knock."
+    },
+    {
+      "type": "Team",
+      "name": "Sunrisers Hyderabad",
+      "description": "IPL team that secured playoff qualification.",
+      "evidence_text": "Sunrisers Hyderabad sealed their IPL 2026 playoff berth with a five-wicket win."
+    },
+    {
+      "type": "Team",
+      "name": "Chennai Super Kings",
+      "description": "IPL team that lost to Sunrisers Hyderabad.",
+      "evidence_text": "Sunrisers Hyderabad sealed their IPL 2026 playoff berth with a five-wicket win over Chennai Super Kings."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "SRH vs CSK match",
+      "location": "MA Chidambaram Stadium",
+      "actors": [
+        "Ishan Kishan",
+        "Chennai Super Kings"
+      ],
+      "evidence_text": "Sunrisers Hyderabad sealed their IPL 2026 playoff berth with a five-wicket win over Chennai Super Kings at MA Chidambaram Stadium."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Runs Scored",
+      "value": "70",
+      "unit": "runs",
+      "date": "2026-05-16",
+      "location": "MA Chidambaram Stadium",
+      "evidence_text": "Kishan’s composed 70 off 47 balls anchored SRH’s chase of 181."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/i-felt-blessed-from-upstairs-ishan-kishan-dedicates-srh-playoff-clinching-knock-to-grieving-cousin-watch/articleshow/131189712.cms",
+      "title": "‘I felt blessed’: Ishan Kishan dedicates playoff-clinching knock to grieving cousin - Watch",
+      "published": "2026-05-19T08:56:41+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet covering sports events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

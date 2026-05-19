@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://www.hindustantimes.com/cricket/ms-dhoni-leaves-csk-fans-fearing-last-walk-in-yellow-after-emotional-thank-you-lap-in-chepauk-101779155464502.html",
+  "title": "MS Dhoni leaves CSK fans fearing last walk in Yellow after emotional thank you lap in Chepauk",
+  "source": "https://www.hindustantimes.com/feeds/rss/cricket/rssfeed.xml",
+  "published": "Tue, 19 May 2026 07:35:16 +0530",
+  "sha256": "3f11148912813d8dccc78003076c1c963da6c828e1f970e213f5eb312cf2b654",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-19T04:46:15.436273+00:00",
+  "text_chars": 3196,
+  "raw_path": "data/ipl-2026/raw/3f11148912813d8dccc78003076c1c963da6c828e1f970e213f5eb312cf2b654.html",
+  "text_path": "data/ipl-2026/raw/3f11148912813d8dccc78003076c1c963da6c828e1f970e213f5eb312cf2b654.txt"
+}

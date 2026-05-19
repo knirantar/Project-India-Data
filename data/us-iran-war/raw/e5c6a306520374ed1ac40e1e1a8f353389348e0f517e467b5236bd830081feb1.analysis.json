@@ -1,0 +1,122 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+    "source_title": "‘Disposable’ operatives for hire are a new menace for western countries",
+    "published": "Mon, 18 May 2026 17:30:25 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The recent arrest of Iraqi commander Mohammed Saad Baqer al-Saadi has unveiled Iran's strategy of using disposable operatives for terrorism in the West. Al-Saadi, linked to multiple attacks on Jewish sites, exemplifies a shift in terrorist tactics where less capable but easily recruited individuals are used. This new form of terrorism, facilitated by social media and cryptocurrency, poses significant challenges for Western security agencies.",
+    "key_takeaways": [
+      "Mohammed Saad Baqer al-Saadi is linked to 18 attacks on Jewish community sites.",
+      "Iran is utilizing disposable operatives for terrorism, making recruitment easier.",
+      "Social media and encrypted platforms are key tools for recruiting low-level operatives.",
+      "Payments for terrorist acts can be as low as a few hundred dollars.",
+      "The concept of 'terrorism as a service' is emerging.",
+      "Russia is also employing similar tactics in its hybrid warfare strategies."
+    ],
+    "why_it_matters": "This article highlights a concerning evolution in terrorist tactics, where the use of disposable operatives complicates counter-terrorism efforts in Western countries. Understanding these methods is crucial for developing effective responses to emerging threats.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Iran is using disposable operatives for terrorism in the West.",
+      "evidence_text": "The detention of Mohammed Saad Baqer al-Saadi revealed rare details of Iran’s efforts to use terrorism to sow discord among communities in Europe, the UK and the US.",
+      "source_url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Al-Saadi is connected to 18 separate attacks.",
+      "evidence_text": "He is accused of being connected to 18 separate attacks including firebombings of synagogues and community centres in Belgium, the Netherlands and the UK.",
+      "source_url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Recruitment for terrorism is occurring via social media.",
+      "evidence_text": "Recruitment has occurred on Snapchat and Telegram, frequently in groups or channels where people trade drugs or organise other criminal activity.",
+      "source_url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Mohammed Saad Baqer al-Saadi",
+      "description": "A senior commander of the Baghdad-based Kataib Hezbollah, accused of planning attacks on Jewish community sites.",
+      "evidence_text": "The detention of Mohammed Saad Baqer al-Saadi in Turkey last week revealed rare details of Iran’s efforts to use terrorism."
+    },
+    {
+      "type": "organization",
+      "name": "Kataib Hezbollah",
+      "description": "A powerful militia with close links to Iran’s Islamic Revolutionary Guard Corps.",
+      "evidence_text": "Al-Saadi is a senior commander of the Baghdad-based Kataib Hezbollah."
+    },
+    {
+      "type": "organization",
+      "name": "Islamic Revolutionary Guard Corps (IRGC)",
+      "description": "Iran's elite military force linked to various terrorist activities.",
+      "evidence_text": "A powerful militia with close links to Iran’s Islamic Revolutionary Guard Corps (IRGC)."
+    },
+    {
+      "type": "location",
+      "name": "New York",
+      "description": "Location where al-Saadi was brought before a court.",
+      "evidence_text": "When on Friday a 32-year-old Iraqi was brought before a court in New York."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-13",
+      "event": "Arrest of Mohammed Saad Baqer al-Saadi",
+      "location": "Turkey",
+      "actors": [
+        "Mohammed Saad Baqer al-Saadi"
+      ],
+      "evidence_text": "The detention of Mohammed Saad Baqer al-Saadi in Turkey last week revealed rare details of Iran’s efforts."
+    },
+    {
+      "date": "2026-04-01",
+      "event": "Stabbing in Golders Green",
+      "location": "Golders Green, UK",
+      "actors": [],
+      "evidence_text": "Among them also is the stabbing in Golders Green, which left two Jewish men badly injured last month."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Payment to FBI agent",
+      "value": "3000",
+      "unit": "USD",
+      "date": "2026-05-01",
+      "location": "US",
+      "evidence_text": "Al-Saadi is alleged to have used cryptocurrency to pay an FBI undercover agent $3,000 as an advance."
+    },
+    {
+      "name": "Total payment for attacks",
+      "value": "10000",
+      "unit": "USD",
+      "date": "2026-05-01",
+      "location": "US",
+      "evidence_text": "Another $7,000 was to follow if attacks on a synagogue and two Jewish community centres in the US had gone ahead."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+      "title": "‘Disposable’ operatives for hire are a new menace for western countries",
+      "published": "Mon, 18 May 2026 17:30:25 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The Guardian is a reputable news organization known for its investigative journalism."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,121 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-desperate-for-a-victory-over-lsg/article70994334.ece",
+    "source_title": "IPL 2026 | RR desperate for a victory over LSG",
+    "published": "2026-05-18T23:18:25+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Rajasthan Royals (RR) are in a precarious position in the IPL 2026 season, having lost their last three matches. They need a victory against the Lucknow Super Giants (LSG) to keep their playoff hopes alive. Despite a strong start to the season, the Royals have struggled at their home ground, the Sawai Mansingh Stadium, and must recover quickly from a recent loss to the Delhi Capitals. Key players like Jofra Archer and Vaibhav Sooryavanshi are expected to perform crucial roles in the upcoming match.",
+    "key_takeaways": [
+      "Rajasthan Royals started the season strong with four consecutive wins.",
+      "They are currently in a desperate situation, having lost their last three matches.",
+      "The upcoming match against LSG is critical for their playoff hopes.",
+      "RR has not won at their home ground this season.",
+      "Key players need to step up, especially Jofra Archer and Vaibhav Sooryavanshi.",
+      "LSG is coming off recent wins and may pose a challenge."
+    ],
+    "why_it_matters": "The performance of the Rajasthan Royals in this match could determine their chances of making it to the playoffs, highlighting the competitive nature of the IPL and the importance of home ground advantage.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Rajasthan Royals need to win against Lucknow Super Giants to keep their playoff hopes alive.",
+      "evidence_text": "After losing all their three last matches, Riyan Parag’s men are in a desperate situation. First, they have to win against Lucknow Super Giants on Tuesday.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-desperate-for-a-victory-over-lsg/article70994334.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Rajasthan Royals have not won at their home ground this season.",
+      "evidence_text": "To win a match at their home ground, the Sawai Mansingh Stadium, is something they haven’t done this season, having lost all three previous ones.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-desperate-for-a-victory-over-lsg/article70994334.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Vaibhav Sooryavanshi and Jofra Archer are key players for Rajasthan Royals.",
+      "evidence_text": "Another breathless start from Sooryavanshi would be great, but Parag and Dhruv Jurel, who both scored fifties against Capitals, need to bat deeper. Archer has to produce another spell of quality.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-desperate-for-a-victory-over-lsg/article70994334.ece",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "A franchise cricket team based in Jaipur, Rajasthan, competing in the Indian Premier League.",
+      "evidence_text": "IPL is a beast. Ask Rajasthan Royals."
+    },
+    {
+      "type": "team",
+      "name": "Lucknow Super Giants",
+      "description": "A franchise cricket team based in Lucknow, Uttar Pradesh, competing in the Indian Premier League.",
+      "evidence_text": "First, they have to win against Lucknow Super Giants on Tuesday."
+    },
+    {
+      "type": "player",
+      "name": "Jofra Archer",
+      "description": "An English cricketer known for his fast bowling, playing for Rajasthan Royals.",
+      "evidence_text": "Archer has to produce another spell of quality."
+    },
+    {
+      "type": "player",
+      "name": "Vaibhav Sooryavanshi",
+      "description": "A young cricketer playing for Rajasthan Royals, noted for his performance in the IPL.",
+      "evidence_text": "Vaibhav Sooryavanshi, the boy in just his second season, was treating men like Jasprit Bumrah and Josh Hazlewood with little respect."
+    },
+    {
+      "type": "player",
+      "name": "Riyan Parag",
+      "description": "A cricketer and captain of Rajasthan Royals.",
+      "evidence_text": "Riyan Parag’s men are in a desperate situation."
+    },
+    {
+      "type": "player",
+      "name": "Dhruv Jurel",
+      "description": "A cricketer playing for Rajasthan Royals, noted for his batting performance.",
+      "evidence_text": "Parag and Dhruv Jurel, who both scored fifties against Capitals, need to bat deeper."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Match against Lucknow Super Giants",
+      "location": "Sawai Mansingh Stadium, Jaipur",
+      "actors": [
+        "Rajasthan Royals",
+        "Lucknow Super Giants"
+      ],
+      "evidence_text": "First, they have to win against Lucknow Super Giants on Tuesday."
+    },
+    {
+      "date": "2026-05-16",
+      "event": "Loss to Delhi Capitals",
+      "location": "New Delhi",
+      "actors": [
+        "Rajasthan Royals",
+        "Delhi Capitals"
+      ],
+      "evidence_text": "They have to recover quickly from their disappointing five-wicket loss to Delhi Capitals in the last match at New Delhi."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-rr-desperate-for-a-victory-over-lsg/article70994334.ece",
+      "title": "IPL 2026 | RR desperate for a victory over LSG",
+      "published": "2026-05-18T23:18:25+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet known for sports coverage."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

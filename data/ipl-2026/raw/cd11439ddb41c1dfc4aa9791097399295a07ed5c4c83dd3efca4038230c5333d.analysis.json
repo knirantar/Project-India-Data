@@ -1,0 +1,126 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/kkr-under-bccis-scrutiny-for-using-varun-chakaravarthy-despite-reported-hairline-fracture-101779086457501.html",
+    "source_title": "KKR under BCCI's scrutiny for using Varun Chakaravarthy despite reported hairline fracture",
+    "published": "2026-05-18T12:21:31+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Indian Premier League 2026 is in a critical phase, with player fitness being paramount. Kolkata Knight Riders (KKR) are under scrutiny from the BCCI for using bowler Varun Chakaravarthy, who has a reported hairline fracture in his left toe. This decision has raised concerns within the Indian national team setup, especially given Chakaravarthy's importance as a centrally contracted player. The BCCI is considering intervention regarding his fitness and playing time as KKR aims for a top-four finish.",
+    "key_takeaways": [
+      "KKR is under BCCI scrutiny for using Varun Chakaravarthy despite injury.",
+      "Chakaravarthy has a hairline fracture in his left toe sustained on May 8.",
+      "He has previously played with injuries, including fractures to his left hand.",
+      "BCCI is concerned about the impact on Chakaravarthy's fitness for the national team.",
+      "Chakaravarthy has been a key player for KKR since 2020, with 109 wickets.",
+      "KKR is currently aiming for a playoff spot in IPL 2026."
+    ],
+    "why_it_matters": "The situation highlights the ongoing tension between franchise cricket and national team priorities, particularly regarding player health and fitness. Varun Chakaravarthy's role is crucial for both KKR and the Indian national team, especially with upcoming international commitments.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "KKR used Varun Chakaravarthy despite him having a hairline fracture.",
+      "evidence_text": "The Board of Control for Cricket in India (BCCI) reportedly raised questions about KKR using their mystery spinner Varun Chakravarthy for his full quota of 4 overs despite him having a left toe hairline fracture.",
+      "source_url": "https://www.hindustantimes.com/cricket/kkr-under-bccis-scrutiny-for-using-varun-chakaravarthy-despite-reported-hairline-fracture-101779086457501.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Chakaravarthy has a history of playing with injuries this season.",
+      "evidence_text": "This was not the first occasion this season that Chakravarthy was used despite an injury, as he was also used earlier in the season despite fractures to his left hand.",
+      "source_url": "https://www.hindustantimes.com/cricket/kkr-under-bccis-scrutiny-for-using-varun-chakaravarthy-despite-reported-hairline-fracture-101779086457501.html",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Varun Chakaravarthy",
+      "description": "A key bowler for Kolkata Knight Riders and the Indian national team, currently under scrutiny for playing with an injury.",
+      "evidence_text": "Varun Chakravarthy's usage by KKR despite injury has not gone down well with the BCCI."
+    },
+    {
+      "type": "Team",
+      "name": "Kolkata Knight Riders",
+      "description": "An Indian Premier League franchise currently competing for a playoff spot.",
+      "evidence_text": "Kolkata Knight Riders, who are still alive in the race for a qualification spot with 11 points on the table."
+    },
+    {
+      "type": "Organization",
+      "name": "BCCI",
+      "description": "The Board of Control for Cricket in India, responsible for cricket administration in India.",
+      "evidence_text": "The Board of Control for Cricket in India (BCCI) reportedly raised questions about KKR using their mystery spinner Varun Chakravarthy."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "KKR wins against Gujarat Titans",
+      "location": "Eden Gardens",
+      "actors": [
+        "Kolkata Knight Riders",
+        "Gujarat Titans"
+      ],
+      "evidence_text": "KKR bid to make a comeback into the top-four spots with their latest 29-run win against Gujarat Titans on Saturday, May 16, at the iconic Eden Gardens."
+    },
+    {
+      "date": "2026-05-08",
+      "event": "Varun Chakaravarthy injures left toe",
+      "location": "",
+      "actors": [
+        "Varun Chakaravarthy"
+      ],
+      "evidence_text": "The spinner had suffered the injury against Delhi Capitals on May 8, where he had to limp off the field."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "KKR Points",
+      "value": "11",
+      "unit": "points",
+      "date": "2026-05-18",
+      "location": "",
+      "evidence_text": "Kolkata Knight Riders, who are still alive in the race for a qualification spot with 11 points on the table."
+    },
+    {
+      "name": "Wickets Taken by Chakaravarthy",
+      "value": "10",
+      "unit": "wickets",
+      "date": "2026-05-18",
+      "location": "",
+      "evidence_text": "he continues to play crucial game-changing roles, already picking up 10 wickets in 9 appearances."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Varun Chakaravarthy",
+      "relationship": "is a player for",
+      "object": "Kolkata Knight Riders",
+      "evidence_text": "Varun Chakravarthy, however, has been crucial to the KKR bowling setup since he was acquired for INR 4 crore ahead of the 2020 season."
+    },
+    {
+      "subject": "BCCI",
+      "relationship": "is concerned about",
+      "object": "Varun Chakaravarthy's fitness",
+      "evidence_text": "The news concerning the 34-year-old bowler has reportedly not gone down well within the Indian national team setup."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/kkr-under-bccis-scrutiny-for-using-varun-chakaravarthy-despite-reported-hairline-fracture-101779086457501.html",
+      "title": "KKR under BCCI's scrutiny for using Varun Chakaravarthy despite reported hairline fracture",
+      "published": "2026-05-18T12:21:31+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

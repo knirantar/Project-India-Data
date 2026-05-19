@@ -1,0 +1,25 @@
+{
+  "topic_slug": "us-iran-war",
+  "topic_title": "US-Iran War",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "government_documents",
+    "research_papers",
+    "books",
+    "structured_datasets",
+    "event_data",
+    "timeline_data",
+    "entity_data"
+  ],
+  "url": "https://www.theguardian.com/world/2026/may/18/disposable-terrorists-for-hire-menace-western-countries",
+  "title": "‘Disposable’ operatives for hire are a new menace for western countries",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Mon, 18 May 2026 17:30:25 GMT",
+  "sha256": "e5c6a306520374ed1ac40e1e1a8f353389348e0f517e467b5236bd830081feb1",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T04:57:33.682834+00:00",
+  "text_chars": 5372,
+  "raw_path": "data/us-iran-war/raw/e5c6a306520374ed1ac40e1e1a8f353389348e0f517e467b5236bd830081feb1.html",
+  "text_path": "data/us-iran-war/raw/e5c6a306520374ed1ac40e1e1a8f353389348e0f517e467b5236bd830081feb1.txt"
+}

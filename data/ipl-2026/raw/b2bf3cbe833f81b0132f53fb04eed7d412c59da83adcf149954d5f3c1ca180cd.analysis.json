@@ -1,0 +1,111 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/brutal-burden-on-vaibhav-sooryavanshi-teenage-shoulders-carrying-rajasthan-royals-playoff-dreams-a-huge-red-flag-101778992262708.html",
+    "source_title": "Brutal burden on Vaibhav Sooryavanshi: Teenage shoulders carrying Rajasthan Royals’ playoff dreams a huge red flag",
+    "published": "2026-05-17T10:16:18+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Vaibhav Sooryavanshi, a 15-year-old opener for Rajasthan Royals, has become a pivotal player in IPL 2026, contributing significantly to the team's batting performance. With 440 runs from 186 balls at a strike rate of 236.56, he accounts for nearly 23% of the team's runs despite facing only 15.82% of the deliveries. His performance has been crucial in the team's playoff chase, but the heavy reliance on such a young player raises concerns about the sustainability of this strategy as the season progresses.",
+    "key_takeaways": [
+      "Vaibhav has scored 440 runs, contributing 22.99% of RR's total runs.",
+      "He has a strike rate of 236.56 and has hit 40 sixes, accounting for 36.70% of RR's sixes.",
+      "In RR's six wins, he has scored 251 runs at a strike rate of 246.08.",
+      "His performance directly influences RR's scoring rate and match outcomes.",
+      "RR's playoff hopes are heavily tied to Vaibhav's early innings performance.",
+      "The pressure on a 15-year-old to lead the batting is a significant concern."
+    ],
+    "why_it_matters": "The article highlights the extraordinary performance of a young player in a high-pressure environment, raising questions about the implications of relying on such a young talent for critical match outcomes. It underscores the balance between nurturing young talent and the demands of competitive sports.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Vaibhav Sooryavanshi has scored 440 runs in IPL 2026.",
+      "evidence_text": "Vaibhav has scored 440 runs off 186 balls at a strike rate of 236.56.",
+      "source_url": "https://www.hindustantimes.com/cricket/brutal-burden-on-vaibhav-sooryavanshi-teenage-shoulders-carrying-rajasthan-royals-playoff-dreams-a-huge-red-flag-101778992262708.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Vaibhav accounts for 22.99% of Rajasthan Royals' runs.",
+      "evidence_text": "Vaibhav has made 440 of them, which gives him a 22.99% share of the team’s runs.",
+      "source_url": "https://www.hindustantimes.com/cricket/brutal-burden-on-vaibhav-sooryavanshi-teenage-shoulders-carrying-rajasthan-royals-playoff-dreams-a-huge-red-flag-101778992262708.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Rajasthan Royals have won six of their 11 matches.",
+      "evidence_text": "Rajasthan have won six of the 11 matches in IPL 2026.",
+      "source_url": "https://www.hindustantimes.com/cricket/brutal-burden-on-vaibhav-sooryavanshi-teenage-shoulders-carrying-rajasthan-royals-playoff-dreams-a-huge-red-flag-101778992262708.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Vaibhav Sooryavanshi",
+      "description": "A 15-year-old opener for Rajasthan Royals in IPL 2026.",
+      "evidence_text": "Vaibhav Sooryavanshi is shaping the RR batting in IPL 2026."
+    },
+    {
+      "type": "Team",
+      "name": "Rajasthan Royals",
+      "description": "A franchise cricket team in the Indian Premier League.",
+      "evidence_text": "Rajasthan Royals are 12 points from 11 matches, still alive in the playoff race."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-17",
+      "event": "IPL 2026 Season",
+      "location": "",
+      "actors": [
+        "Vaibhav Sooryavanshi",
+        "Rajasthan Royals"
+      ],
+      "evidence_text": "Rajasthan are fifth with six wins, five defeats and 12 points from 11 matches."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Runs Scored",
+      "value": "440",
+      "unit": "runs",
+      "date": "2026-05-17",
+      "location": "IPL 2026",
+      "evidence_text": "Vaibhav has scored 440 runs off 186 balls at a strike rate of 236.56."
+    },
+    {
+      "name": "Strike Rate",
+      "value": "236.56",
+      "unit": "N/A",
+      "date": "2026-05-17",
+      "location": "IPL 2026",
+      "evidence_text": "Vaibhav has scored 440 runs off 186 balls at a strike rate of 236.56."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Vaibhav Sooryavanshi",
+      "relationship": "is a key player for",
+      "object": "Rajasthan Royals",
+      "evidence_text": "His performance directly influences RR's scoring rate and match outcomes."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/brutal-burden-on-vaibhav-sooryavanshi-teenage-shoulders-carrying-rajasthan-royals-playoff-dreams-a-huge-red-flag-101778992262708.html",
+      "title": "Brutal burden on Vaibhav Sooryavanshi: Teenage shoulders carrying Rajasthan Royals’ playoff dreams a huge red flag",
+      "published": "2026-05-17T10:16:18+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,117 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
+    "source_title": "Ryanair has ‘near-zero concerns’ on fuel shortages but warns of future price rises",
+    "published": "Mon, 18 May 2026 11:45:29 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Ryanair's CEO, Michael O’Leary, expressed confidence in the airline's jet fuel supplies for the summer, stating that Europe has secured alternative sources despite concerns linked to the Iran war. However, he warned that holidaymakers booking flights later this year may face higher fares due to persistent consumer uncertainty and rising fuel prices. The airline has hedged a significant portion of its fuel requirements but anticipates potential fare increases if prices remain elevated.",
+    "key_takeaways": [
+      "Ryanair has 'almost zero concerns' about jet fuel supplies this summer.",
+      "The airline's fares are expected to be 'broadly flat' compared to last summer.",
+      "Consumer uncertainty has led to lower summer bookings, affecting fare visibility.",
+      "Ryanair hedged 80% of its fuel needs at about $67 a barrel until April 2027.",
+      "Environmental taxes in the EU are expected to increase by €300m this year.",
+      "Negotiations are ongoing for CEO Michael O’Leary's contract extension to 2032."
+    ],
+    "why_it_matters": "The insights from Ryanair's leadership highlight the airline's strategic management of fuel supply risks and pricing strategies in a volatile market, which is crucial for understanding the broader implications for the airline industry amidst geopolitical tensions and economic pressures.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Ryanair has 'almost zero concerns' about jet fuel supplies this summer.",
+      "evidence_text": "Ryanair said it has 'almost zero concerns' about its jet fuel supplies this summer amid fears over widespread cancellations linked to the Iran war.",
+      "source_url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Holidaymakers booking flights later this year could face higher fares.",
+      "evidence_text": "Ryanair warned that holidaymakers booking their flights later this year could face higher fares.",
+      "source_url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ryanair hedged 80% of its jet fuel requirements to April 2027.",
+      "evidence_text": "While Ryanair has hedged 80% of its jet fuel requirements to April 2027 at about $67 a barrel.",
+      "source_url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Company",
+      "name": "Ryanair",
+      "description": "The biggest airline in Europe by passenger numbers.",
+      "evidence_text": "The company, which is the biggest airline in Europe by passenger numbers."
+    },
+    {
+      "type": "Person",
+      "name": "Michael O’Leary",
+      "description": "CEO of Ryanair since 1994.",
+      "evidence_text": "O’Leary has been the chief executive of the business since 1994."
+    },
+    {
+      "type": "Person",
+      "name": "Neil Sorahan",
+      "description": "Chief Financial Officer of Ryanair.",
+      "evidence_text": "Neil Sorahan, the Ryanair chief financial officer, said he was 'increasingly confident that we will not see any supply shocks this summer'."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "Ryanair announces confidence in fuel supplies and fare outlook.",
+      "location": "Europe",
+      "actors": [
+        "Michael O’Leary",
+        "Neil Sorahan"
+      ],
+      "evidence_text": "Ryanair said it has 'almost zero concerns' about its jet fuel supplies this summer."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Profit after tax",
+      "value": "€2.26bn",
+      "unit": "euros",
+      "date": "2026-03-31",
+      "location": "",
+      "evidence_text": "Ryanair reported a record profit after tax of €2.26bn (£2bn) in its financial year ended in March."
+    },
+    {
+      "name": "Environmental taxes increase",
+      "value": "€300m",
+      "unit": "euros",
+      "date": "2026",
+      "location": "EU",
+      "evidence_text": "The company also flagged that it expected its environmental taxes in the EU to increase by €300m this year to about €1.4bn."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Michael O’Leary",
+      "relationship": "is CEO of",
+      "object": "Ryanair",
+      "evidence_text": "O’Leary has been the chief executive of the business since 1994."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/business/2026/may/18/ryanair-jet-fuel-shortage-fare-rises-book-flights-higher-prices",
+      "title": "Ryanair has ‘near-zero concerns’ on fuel shortages but warns of future price rises",
+      "published": "Mon, 18 May 2026 11:45:29 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news organization known for its coverage of business and economic issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

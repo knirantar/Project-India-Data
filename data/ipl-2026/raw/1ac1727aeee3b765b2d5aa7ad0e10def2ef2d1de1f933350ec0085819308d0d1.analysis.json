@@ -1,0 +1,108 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-where-is-he-excited-ravi-shashtri-sends-chepauk-crowd-into-frenzy-at-toss-watch/articleshow/131178376.cms",
+    "source_title": "'Dhoni, where is he?': Shashtri sends Chepauk crowd into frenzy- Watch",
+    "published": "2026-05-18T19:36:05+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The IPL 2026 clash between Chennai Super Kings (CSK) and Sunrisers Hyderabad (SRH) saw a thrilling moment during the toss when former coach Ravi Shastri asked about MS Dhoni's participation. The crowd erupted with excitement at the mention of Dhoni, who has been sidelined due to a calf strain. CSK captain Ruturaj Gaikwad confirmed Dhoni's absence for the match, leading to mixed reactions from fans. The match is crucial for both teams' playoff hopes.",
+    "key_takeaways": [
+      "Ravi Shastri's question about MS Dhoni sparked excitement among fans.",
+      "Dhoni is not playing due to a calf strain.",
+      "CSK needs to win both remaining matches to stay in playoff contention.",
+      "SRH is currently third in the standings with playoff implications.",
+      "The atmosphere at MA Chidambaram Stadium was electric during the toss.",
+      "Former players speculated about Dhoni's potential return as an Impact Player."
+    ],
+    "why_it_matters": "This moment highlights the ongoing speculation around MS Dhoni's fitness and potential return, which is significant for both fan engagement and the competitive landscape of IPL 2026.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "MS Dhoni is not playing in the IPL 2026 match due to a calf strain.",
+      "evidence_text": "Dhoni has not featured this season due to a calf strain.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-where-is-he-excited-ravi-shashtri-sends-chepauk-crowd-into-frenzy-at-toss-watch/articleshow/131178376.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ravi Shastri asked about MS Dhoni during the toss.",
+      "evidence_text": "Shastri sent the packed Chennai crowd into a frenzy when he cheekily asked CSK skipper Ruturaj Gaikwad the question every fan inside the stadium wanted answered.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-where-is-he-excited-ravi-shashtri-sends-chepauk-crowd-into-frenzy-at-toss-watch/articleshow/131178376.cms",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Chennai Super Kings",
+      "description": "A franchise cricket team based in Chennai, Tamil Nadu, India.",
+      "evidence_text": "CSK entered the contest placed sixth with six wins from 12 matches."
+    },
+    {
+      "type": "team",
+      "name": "Sunrisers Hyderabad",
+      "description": "A franchise cricket team based in Hyderabad, India.",
+      "evidence_text": "SRH, meanwhile, came into the game third on the table with seven wins from 12 matches."
+    },
+    {
+      "type": "person",
+      "name": "Ravi Shastri",
+      "description": "Former Indian cricketer and coach.",
+      "evidence_text": "Shastri sent the packed Chennai crowd into a frenzy when he cheekily asked CSK skipper Ruturaj Gaikwad."
+    },
+    {
+      "type": "person",
+      "name": "MS Dhoni",
+      "description": "Former Indian cricketer and captain of CSK.",
+      "evidence_text": "The mention of Dhoni’s name triggered a deafening noise from the stands."
+    },
+    {
+      "type": "person",
+      "name": "Ruturaj Gaikwad",
+      "description": "Captain of Chennai Super Kings.",
+      "evidence_text": "Gaikwad quickly ended the suspense."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "IPL 2026 match between CSK and SRH",
+      "location": "MA Chidambaram Stadium, Chennai",
+      "actors": [
+        "Ravi Shastri",
+        "MS Dhoni",
+        "Ruturaj Gaikwad"
+      ],
+      "evidence_text": "The atmosphere at Chepauk turned electric even before the first ball of the high-stakes IPL 2026 clash."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ms-dhoni-where-is-he-excited-ravi-shashtri-sends-chepauk-crowd-into-frenzy-at-toss-watch/articleshow/131178376.cms",
+      "title": "'Dhoni, where is he?': Shashtri sends Chepauk crowd into frenzy- Watch",
+      "published": "2026-05-18T19:36:05+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a well-known news outlet covering sports events."
+  },
+  "geolocation": [
+    {
+      "name": "MA Chidambaram Stadium",
+      "type": "stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The atmosphere at Chepauk turned electric even before the first ball of the high-stakes IPL 2026 clash."
+    }
+  ],
+  "timestamps": []
+}

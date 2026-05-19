@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-leaves-csk-fans-fearing-last-walk-in-yellow-after-emotional-thank-you-lap-in-chepauk-101779155464502.html",
+    "source_title": "MS Dhoni leaves CSK fans fearing last walk in Yellow after emotional thank you lap in Chepauk",
+    "published": "Tue, 19 May 2026 07:35:16 +0530",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "In a poignant moment during CSK's final home game of IPL 2026, MS Dhoni's absence due to fitness concerns left fans with a sense of uncertainty about his future. Despite not playing, Dhoni participated in a team photograph, evoking strong emotions among the crowd. After the match, he took part in the traditional lap of thanks, which felt particularly significant as it may have been his last appearance in CSK colors at Chepauk. The night ended with a mix of hope and melancholy as fans clung to the possibility of his return.",
+    "key_takeaways": [
+      "MS Dhoni missed the match due to fitness issues.",
+      "His presence during the team photograph stirred strong emotions among fans.",
+      "The lap of thanks after the match was charged with uncertainty about his future.",
+      "Fans experienced a mix of hope and melancholy during the farewell.",
+      "Suresh Raina's comments added to the suspense regarding Dhoni's potential return.",
+      "The match marked a significant moment in CSK's history at Chepauk."
+    ],
+    "why_it_matters": "This event highlights the emotional connection between MS Dhoni and CSK fans, reflecting on the legacy he has built over nearly two decades. It raises questions about the future of one of cricket's most iconic figures and the impact of his potential retirement on the franchise and its supporters.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "MS Dhoni's absence from the match left fans feeling uncertain about his future.",
+      "evidence_text": "A CSK home game without Dhoni in the XI already carries a strange emptiness.",
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-leaves-csk-fans-fearing-last-walk-in-yellow-after-emotional-thank-you-lap-in-chepauk-101779155464502.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Dhoni participated in a team photograph, which became an emotional moment for fans.",
+      "evidence_text": "The reaction around the ground turned it into the emotional hinge of the night.",
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-leaves-csk-fans-fearing-last-walk-in-yellow-after-emotional-thank-you-lap-in-chepauk-101779155464502.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The lap of thanks may have been Dhoni's last appearance in CSK colors at Chepauk.",
+      "evidence_text": "This may have been Chepauk’s final live sight of him in CSK’s playing jersey.",
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-leaves-csk-fans-fearing-last-walk-in-yellow-after-emotional-thank-you-lap-in-chepauk-101779155464502.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "MS Dhoni",
+      "description": "Former captain of CSK and iconic cricketer.",
+      "evidence_text": "MS Dhoni had not yet left its story for the night."
+    },
+    {
+      "type": "Team",
+      "name": "Chennai Super Kings (CSK)",
+      "description": "Franchise cricket team in the Indian Premier League.",
+      "evidence_text": "A CSK home game without Dhoni in the XI already carries a strange emptiness."
+    },
+    {
+      "type": "Person",
+      "name": "Suresh Raina",
+      "description": "Former CSK player and close friend of MS Dhoni.",
+      "evidence_text": "Raina said he told Dhoni that IPL 2026 had become a 'missed call'."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "CSK's final home game of IPL 2026",
+      "location": "Chepauk, Chennai",
+      "actors": [
+        "MS Dhoni",
+        "Suresh Raina",
+        "CSK players",
+        "Sunrisers Hyderabad"
+      ],
+      "evidence_text": "CSK’s final home night of IPL 2026 carried the weight of a result that hurt."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/ms-dhoni-leaves-csk-fans-fearing-last-walk-in-yellow-after-emotional-thank-you-lap-in-chepauk-101779155464502.html",
+      "title": "MS Dhoni leaves CSK fans fearing last walk in Yellow after emotional thank you lap in Chepauk",
+      "published": "Tue, 19 May 2026 07:35:16 +0530",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet covering significant events in sports."
+  },
+  "geolocation": [
+    {
+      "name": "Chepauk",
+      "type": "Stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Chepauk stayed because MS Dhoni had not yet left its story for the night."
+    }
+  ],
+  "timestamps": []
+}

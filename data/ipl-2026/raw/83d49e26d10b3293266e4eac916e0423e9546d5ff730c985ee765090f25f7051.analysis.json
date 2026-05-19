@@ -1,0 +1,124 @@
+{
+  "document": {
+    "source_url": "https://www.hindustantimes.com/cricket/punjab-kings-co-owner-drops-major-wpl-entry-hint-not-investing-initially-was-never-a-lack-of-belief-101779092733263.html",
+    "source_title": "Punjab Kings co-owner drops major WPL entry hint: ‘Not investing initially was never a lack of belief'",
+    "published": "2026-05-18T14:04:24+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Women's Premier League (WPL) has gained significant traction since its inception in 2023, paralleling the success of the men's IPL. Punjab Kings co-owner Mohit Burman expressed interest in owning a WPL team, emphasizing that initial non-investment should not be seen as a lack of belief in women's cricket. The WPL has seen remarkable growth, with increased viewership and a record-breaking final match. The success of the Indian women's team, particularly their World Cup victory in 2025, has further fueled interest in women's cricket.",
+    "key_takeaways": [
+      "WPL has rapidly established itself as a key platform for women's cricket.",
+      "Punjab Kings co-owner Mohit Burman is interested in owning a WPL team.",
+      "Initial non-investment in WPL should not be interpreted as a lack of belief.",
+      "The WPL 2026 has seen an 11% increase in viewership from the previous year.",
+      "The final match of WPL 2026 became the most-watched in women's T20 cricket history.",
+      "The Indian women's team won the ICC Women's Cricket World Cup in 2025."
+    ],
+    "why_it_matters": "The rise of the WPL and the success of the Indian women's cricket team signify a transformative period for women's sports in India, inspiring future generations and enhancing the visibility of female athletes.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Punjab Kings co-owner Mohit Burman is interested in owning a WPL team.",
+      "evidence_text": "Current IPL franchise Punjab Kings... has reportedly shown interest in owning a future WPL team.",
+      "source_url": "https://www.hindustantimes.com/cricket/punjab-kings-co-owner-drops-major-wpl-entry-hint-not-investing-initially-was-never-a-lack-of-belief-101779092733263.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The WPL has seen drastic growth in viewership.",
+      "evidence_text": "The WPL has seen drastic growth in its viewership every season, with WPL 2026 already witnessing an 11% increase from last year.",
+      "source_url": "https://www.hindustantimes.com/cricket/punjab-kings-co-owner-drops-major-wpl-entry-hint-not-investing-initially-was-never-a-lack-of-belief-101779092733263.html",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The final match of WPL 2026 was the most-watched match in women's T20 cricket history.",
+      "evidence_text": "This year’s final between RCB and DC also shattered records by becoming the most-watched match in women’s T20 cricket history.",
+      "source_url": "https://www.hindustantimes.com/cricket/punjab-kings-co-owner-drops-major-wpl-entry-hint-not-investing-initially-was-never-a-lack-of-belief-101779092733263.html",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Punjab Kings",
+      "description": "An IPL franchise co-owned by Mohit Burman and Preity Zinta.",
+      "evidence_text": "Current IPL franchise Punjab Kings, co-owned and promoted by Mohit Burman with a majority 48% stake."
+    },
+    {
+      "type": "organization",
+      "name": "Women's Premier League",
+      "description": "A women's cricket league established in 2023 by the BCCI.",
+      "evidence_text": "The Women's Premier League (WPL) in 2023 by the Board of Control for Cricket in India (BCCI)."
+    },
+    {
+      "type": "person",
+      "name": "Mohit Burman",
+      "description": "Co-owner of Punjab Kings who expressed interest in WPL.",
+      "evidence_text": "Mohit Burman... has reportedly shown interest in owning a future WPL team."
+    },
+    {
+      "type": "person",
+      "name": "Harmanpreet Kaur",
+      "description": "Captain of the Indian women's cricket team.",
+      "evidence_text": "The Indian women's team, led by Harmanpreet Kaur, won their maiden ICC trophy."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-06-12",
+      "event": "2026 ICC Women's T20 World Cup",
+      "location": "England and Wales",
+      "actors": [
+        "Indian women's cricket team"
+      ],
+      "evidence_text": "the Indian team prepares to fight for the title as one of the favourites for the upcoming 2026 ICC Women's T20 World Cup, hosted by England and Wales, starting June 12."
+    },
+    {
+      "date": "2025-03-22",
+      "event": "Women's Cricket World Cup 2025",
+      "location": "",
+      "actors": [
+        "Indian women's cricket team"
+      ],
+      "evidence_text": "The Indian women's team, led by Harmanpreet Kaur, won their maiden ICC trophy by clinching the Women’s Cricket World Cup 2025 against South Africa."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "viewership increase",
+      "value": "11",
+      "unit": "%",
+      "date": "2026",
+      "location": "WPL",
+      "evidence_text": "WPL 2026 already witnessing an 11% increase from last year."
+    },
+    {
+      "name": "content consumed",
+      "value": "34.5",
+      "unit": "billion minutes",
+      "date": "2026",
+      "location": "JioStar platforms",
+      "evidence_text": "alongside a record 34.5 billion minutes of content consumed across its broadcast on JioStar platforms."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.hindustantimes.com/cricket/punjab-kings-co-owner-drops-major-wpl-entry-hint-not-investing-initially-was-never-a-lack-of-belief-101779092733263.html",
+      "title": "Punjab Kings co-owner drops major WPL entry hint: ‘Not investing initially was never a lack of belief'",
+      "published": "2026-05-18T14:04:24+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet providing detailed coverage of women's cricket developments."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,100 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ishan-kishans-whistle-taunt-at-chepauk-crowd-goes-viral-after-srh-beat-csk-watch/articleshow/131190671.cms",
+    "source_title": "Ishan Kishan’s whistle taunt at Chepauk crowd goes viral after SRH beat CSK - Watch",
+    "published": "2026-05-19T10:09:57+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Ishan Kishan led Sunrisers Hyderabad to a playoff spot with a stellar performance against Chennai Super Kings at MA Chidambaram Stadium. He scored 70 runs off 47 balls, helping SRH chase down a target of 181 with six balls to spare. After the match, Kishan made a whistle gesture towards the Chepauk crowd, signaling a cheeky send-off to the home fans. His performance was emotionally charged, motivated by his cousin's presence in the stands following a family tragedy.",
+    "key_takeaways": [
+      "Ishan Kishan scored 70 runs off 47 balls.",
+      "SRH chased down 181 runs with six balls to spare.",
+      "Kishan's gesture towards the crowd went viral.",
+      "The match was played at MA Chidambaram Stadium.",
+      "Kishan's performance was motivated by family circumstances.",
+      "SRH secured a playoff spot with this victory."
+    ],
+    "why_it_matters": "This match highlights the emotional and competitive aspects of sports, showcasing how personal motivations can drive athletes to perform at their best. Kishan's actions also reflect the intense rivalry and culture surrounding IPL matches, particularly in Chennai.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Ishan Kishan's performance led SRH to the playoffs.",
+      "evidence_text": "Ishan Kishan lit up MA Chidambaram Stadium... steering Sunrisers Hyderabad into the playoffs.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ishan-kishans-whistle-taunt-at-chepauk-crowd-goes-viral-after-srh-beat-csk-watch/articleshow/131190671.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Kishan made a whistle gesture towards the Chepauk crowd.",
+      "evidence_text": "Kishan returned to the field, looked toward the Chepauk stands and made a whistle-blowing gesture with his fingers.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ishan-kishans-whistle-taunt-at-chepauk-crowd-goes-viral-after-srh-beat-csk-watch/articleshow/131190671.cms",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Ishan Kishan",
+      "description": "Wicketkeeper-batter for Sunrisers Hyderabad.",
+      "evidence_text": "Ishan Kishan lit up MA Chidambaram Stadium with both bat and celebration."
+    },
+    {
+      "type": "Team",
+      "name": "Sunrisers Hyderabad",
+      "description": "IPL team that secured a playoff spot.",
+      "evidence_text": "steering Sunrisers Hyderabad into the playoffs."
+    },
+    {
+      "type": "Team",
+      "name": "Chennai Super Kings",
+      "description": "IPL team that faced elimination.",
+      "evidence_text": "knocking Chennai Super Kings to the brink of elimination."
+    },
+    {
+      "type": "Player",
+      "name": "Heinrich Klaasen",
+      "description": "Teammate of Ishan Kishan who contributed to the innings.",
+      "evidence_text": "stitched around a decisive 75-run stand with Heinrich Klaasen."
+    },
+    {
+      "type": "Stadium",
+      "name": "MA Chidambaram Stadium",
+      "description": "Venue of the match.",
+      "evidence_text": "Ishan Kishan lit up MA Chidambaram Stadium."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "SRH vs CSK match",
+      "location": "MA Chidambaram Stadium, Chennai",
+      "actors": [
+        "Ishan Kishan",
+        "Chennai Super Kings",
+        "Sunrisers Hyderabad"
+      ],
+      "evidence_text": "Ishan Kishan lit up MA Chidambaram Stadium... steering Sunrisers Hyderabad into the playoffs."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ishan-kishans-whistle-taunt-at-chepauk-crowd-goes-viral-after-srh-beat-csk-watch/articleshow/131190671.cms",
+      "title": "Ishan Kishan’s whistle taunt at Chepauk crowd goes viral after SRH beat CSK - Watch",
+      "published": "2026-05-19T10:09:57+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet covering sports events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

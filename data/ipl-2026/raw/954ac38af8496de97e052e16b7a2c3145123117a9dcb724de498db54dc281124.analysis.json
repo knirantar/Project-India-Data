@@ -1,0 +1,88 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-it-doesnt-matter-whether-ms-dhoni-plays-sanjay-manjrekar-makes-brutally-honest-remark/articleshow/131181320.cms",
+    "source_title": "'It doesn't matter whether Dhoni plays': Manjrekar gets brutally honest",
+    "published": "2026-05-18T21:52:46+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "MS Dhoni's impact on Chennai Super Kings (CSK) transcends his role as a player, even as he missed IPL 2026 due to injuries. His presence sparked excitement among fans, but speculation about his return grew as he remained sidelined. Sanjay Manjrekar criticized CSK for being overly emotional about Dhoni's situation, suggesting they should prioritize team performance over nostalgia. He emphasized that while Dhoni's legacy is significant, the franchise must adapt to current realities.",
+    "key_takeaways": [
+      "MS Dhoni did not play in IPL 2026 due to injuries.",
+      "His absence led to speculation about a potential final game.",
+      "Sanjay Manjrekar believes CSK should focus on current performance.",
+      "Manjrekar expressed exhaustion discussing Dhoni's situation.",
+      "He praised Dhoni's past contributions but criticized CSK's emotional attachment.",
+      "CSK needs to prioritize results over nostalgia."
+    ],
+    "why_it_matters": "The discussion highlights the tension between legacy and current performance in sports management, particularly in franchises with iconic players. It underscores the importance of adapting to changing circumstances rather than clinging to past glories.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Sanjay Manjrekar believes it doesn't matter whether MS Dhoni plays or not.",
+      "evidence_text": "Manjrekar said, 'it doesn't matter. Whether he plays, whether he doesn't play.'",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-it-doesnt-matter-whether-ms-dhoni-plays-sanjay-manjrekar-makes-brutally-honest-remark/articleshow/131181320.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "CSK's biggest mistake was trying too hard to fit Dhoni into the squad.",
+      "evidence_text": "Manjrekar stated, 'CSK’s biggest mistake this season was trying too hard to fit Dhoni into the squad.'",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-it-doesnt-matter-whether-ms-dhoni-plays-sanjay-manjrekar-makes-brutally-honest-remark/articleshow/131181320.cms",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "MS Dhoni",
+      "description": "Former captain of Chennai Super Kings and Indian cricket team.",
+      "evidence_text": "MS Dhoni has always meant more to Chennai Super Kings (CSK) than just being a cricketer."
+    },
+    {
+      "type": "Person",
+      "name": "Sanjay Manjrekar",
+      "description": "Former Indian cricketer and commentator.",
+      "evidence_text": "Former India batter Sanjay Manjrekar said he is tired of discussing the Dhoni situation."
+    },
+    {
+      "type": "Team",
+      "name": "Chennai Super Kings",
+      "description": "Franchise cricket team based in Chennai, India.",
+      "evidence_text": "CSK became too emotional about their former captain instead of focusing on results."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "Sanjay Manjrekar's comments on MS Dhoni and CSK's performance.",
+      "location": "",
+      "actors": [
+        "Sanjay Manjrekar",
+        "MS Dhoni",
+        "Chennai Super Kings"
+      ],
+      "evidence_text": "Manjrekar told Sportstar Podcast about his views on Dhoni and CSK."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-2026-it-doesnt-matter-whether-ms-dhoni-plays-sanjay-manjrekar-makes-brutally-honest-remark/articleshow/131181320.cms",
+      "title": "'It doesn't matter whether Dhoni plays': Manjrekar gets brutally honest",
+      "published": "2026-05-18T21:52:46+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet known for sports coverage."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
