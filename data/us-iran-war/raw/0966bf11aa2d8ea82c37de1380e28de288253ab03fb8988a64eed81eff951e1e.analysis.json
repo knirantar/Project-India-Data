@@ -1,0 +1,131 @@
+{
+  "document": {
+    "source_url": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
+    "source_title": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
+    "published": "Tue, 19 May 2026 12:06:34 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "President Trump has paused a planned attack on Iran following a new peace proposal from Tehran, conveyed through Pakistan. He indicated a 'very good chance' for a nuclear agreement, while a temporary ceasefire has been in place since April 8. However, significant disagreements remain between the US and Iran regarding uranium enrichment and sanctions, complicating the peace negotiations.",
+    "key_takeaways": [
+      "Trump paused an attack on Iran at the request of Gulf leaders.",
+      "Iran submitted a revised 14-point peace plan through Pakistan.",
+      "A temporary ceasefire has been in effect since April 8.",
+      "Major sticking points include Iran's enriched uranium stockpile and sanctions.",
+      "The US seeks a moratorium on uranium enrichment for up to 20 years.",
+      "Iran's support for proxy groups in the region remains a contentious issue."
+    ],
+    "why_it_matters": "The negotiations between the US and Iran are critical for regional stability and global oil supply, especially given the ongoing tensions and military actions in the Gulf. The outcome could significantly impact international relations and nuclear non-proliferation efforts.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Trump has decided to pause an attack on Iran.",
+      "evidence_text": "Trump said he had been asked by the leaders of Qatar, Saudi Arabia and the UAE to hold off on a planned attack on Iran.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Iran submitted a new peace proposal to the US.",
+      "evidence_text": "Iran has submitted a revised 14-point peace plan to end the war, the semi-official Tasnim news agency reported.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The US and Iran have major disagreements regarding uranium enrichment.",
+      "evidence_text": "A major point of contention is Iran’s stockpile of enriched uranium.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Donald Trump",
+      "description": "President of the United States who paused an attack on Iran.",
+      "evidence_text": "Trump said he had instructed Secretary of Defense Pete Hegseth, Chairman of The Joint Chiefs of Staff General Dan Caine and the US military not to carry out the scheduled attack."
+    },
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "Country involved in negotiations with the US regarding a peace plan and nuclear program.",
+      "evidence_text": "Iran has submitted a revised 14-point peace plan to end the war."
+    },
+    {
+      "type": "country",
+      "name": "United States",
+      "description": "Country negotiating with Iran over nuclear weapons and sanctions.",
+      "evidence_text": "Washington has urged Tehran to dismantle its nuclear programme."
+    },
+    {
+      "type": "organization",
+      "name": "Islamic Revolutionary Guard Corps (IRGC)",
+      "description": "Iranian military organization involved in the Strait of Hormuz negotiations.",
+      "evidence_text": "vessels from select countries... are required to negotiate transit with the Islamic Revolutionary Guard Corps (IRGC)."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-08",
+      "event": "Temporary ceasefire commenced",
+      "location": "Gulf region",
+      "actors": [
+        "United States",
+        "Iran"
+      ],
+      "evidence_text": "An initial, temporary ceasefire commenced on April 8, six weeks into the war."
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Trump pauses planned attack on Iran",
+      "location": "United States",
+      "actors": [
+        "Donald Trump",
+        "Gulf leaders"
+      ],
+      "evidence_text": "Trump said he had been asked by the leaders of Qatar, Saudi Arabia and the UAE to hold off on a planned attack on Iran."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Uranium stockpile",
+      "value": "440",
+      "unit": "kg",
+      "date": "",
+      "location": "Iran",
+      "evidence_text": "Iran is believed to have about 440kg (970lb) of uranium enriched to 60 percent."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Iran",
+      "relationship": "submitted",
+      "object": "14-point peace plan",
+      "evidence_text": "Iran has submitted a revised 14-point peace plan to end the war."
+    },
+    {
+      "subject": "United States",
+      "relationship": "paused attack on",
+      "object": "Iran",
+      "evidence_text": "Trump said he had instructed Secretary of Defense Pete Hegseth... not to carry out the scheduled attack."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/5/19/trump-says-iran-attack-on-hold-what-we-know-about-latest-negotiations?traffic_source=rss",
+      "title": "Trump says Iran attack on ‘hold’: What we know about latest negotiations",
+      "published": "Tue, 19 May 2026 12:06:34 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "Al Jazeera is a well-established news organization known for its coverage of international affairs."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

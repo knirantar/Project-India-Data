@@ -1,0 +1,146 @@
+{
+  "document": {
+    "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-ruturaj-needs-to-reinvent-as-a-batter-and-a-captain/article70998327.ece",
+    "source_title": "IPL 2026 | Ruturaj needs to reinvent as a batter and a captain",
+    "published": "2026-05-19T20:07:48+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Chennai Super Kings captain Ruturaj Gaikwad is struggling with his form in IPL 2026, having scored only 321 runs with just two half-centuries in 13 innings. His low strike rate of 120.68 is concerning, especially during the PowerPlay overs. Head coach Stephen Fleming has noted that Ruturaj needs to improve his run production and pace. Additionally, his captaincy decisions, particularly in handling spinners, have raised questions about his leadership.",
+    "key_takeaways": [
+      "Ruturaj Gaikwad has scored 321 runs in IPL 2026 but is inconsistent.",
+      "He has the lowest strike rate (120.68) among batters with over 200 runs.",
+      "His recent performance includes a 21-ball 15 against Sunrisers Hyderabad.",
+      "Head coach Stephen Fleming believes Ruturaj can improve his run production.",
+      "Ruturaj's captaincy decisions, especially with spinners, have been criticized.",
+      "CSK is at risk of missing playoffs for the third consecutive year."
+    ],
+    "why_it_matters": "The performance of Ruturaj Gaikwad is crucial for the Chennai Super Kings' success in IPL 2026, as his form and leadership directly impact the team's chances of qualifying for the playoffs.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Ruturaj Gaikwad's form is a concern for CSK.",
+      "evidence_text": "the franchise’s main concern in IPL 2026 has been the indifferent form of skipper Ruturaj Gaikwad.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-ruturaj-needs-to-reinvent-as-a-batter-and-a-captain/article70998327.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ruturaj has the lowest strike rate among batters with more than 200 runs.",
+      "evidence_text": "It is reflected in his strike rate of 120.68, the lowest among batters with more than 200 runs.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-ruturaj-needs-to-reinvent-as-a-batter-and-a-captain/article70998327.ece",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ruturaj needs to reinvent as a batter and a captain.",
+      "evidence_text": "Ruturaj will quickly need to reinvent both as a batter and a captain.",
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-ruturaj-needs-to-reinvent-as-a-batter-and-a-captain/article70998327.ece",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Ruturaj Gaikwad",
+      "description": "Captain of Chennai Super Kings struggling with form in IPL 2026.",
+      "evidence_text": "Chennai Super Kings captain Ruturaj Gaikwad in action against Sunrisers Hyderabad"
+    },
+    {
+      "type": "Team",
+      "name": "Chennai Super Kings",
+      "description": "Franchise in IPL facing challenges in qualifying for playoffs.",
+      "evidence_text": "Chennai Super Kings, following its five-wicket loss to Sunrisers Hyderabad"
+    },
+    {
+      "type": "Team",
+      "name": "Sunrisers Hyderabad",
+      "description": "Opponent team that defeated Chennai Super Kings.",
+      "evidence_text": "five-wicket loss to Sunrisers Hyderabad"
+    },
+    {
+      "type": "Coach",
+      "name": "Stephen Fleming",
+      "description": "Head coach of Chennai Super Kings commenting on Ruturaj's performance.",
+      "evidence_text": "head coach Stephen Fleming either, who said: 'I think Ruturaj can do more.'"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "CSK vs Sunrisers Hyderabad match",
+      "location": "M.A. Chidambaram Stadium, Chepauk, Chennai",
+      "actors": [
+        "Chennai Super Kings",
+        "Sunrisers Hyderabad"
+      ],
+      "evidence_text": "CSK captain Ruturaj Gaikwad in action against Sunrisers Hyderabad at the M.A. Chidambaram Stadium, Chepauk in Chennai on May 18, 2026."
+    },
+    {
+      "date": "2026-05-21",
+      "event": "Final league game against Gujarat Titans",
+      "location": "",
+      "actors": [
+        "Chennai Super Kings"
+      ],
+      "evidence_text": "even if it wins its final league game against Gujarat Titans on Thursday"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Runs Scored",
+      "value": "321",
+      "unit": "runs",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "he is the side’s second-highest scorer (321 runs)"
+    },
+    {
+      "name": "Half-Centuries",
+      "value": "2",
+      "unit": "half-centuries",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "he has been inconsistent with just two half-centuries in 13 innings."
+    },
+    {
+      "name": "Strike Rate",
+      "value": "120.68",
+      "unit": "strike rate",
+      "date": "2026-05-19",
+      "location": "",
+      "evidence_text": "It is reflected in his strike rate of 120.68, the lowest among batters with more than 200 runs."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Ruturaj Gaikwad",
+      "relationship": "is captain of",
+      "object": "Chennai Super Kings",
+      "evidence_text": "Chennai Super Kings captain Ruturaj Gaikwad"
+    },
+    {
+      "subject": "Stephen Fleming",
+      "relationship": "is head coach of",
+      "object": "Chennai Super Kings",
+      "evidence_text": "head coach Stephen Fleming either"
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.thehindu.com/sport/cricket/ipl-2026-ruturaj-needs-to-reinvent-as-a-batter-and-a-captain/article70998327.ece",
+      "title": "IPL 2026 | Ruturaj needs to reinvent as a batter and a captain",
+      "published": "2026-05-19T20:07:48+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet known for sports coverage."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

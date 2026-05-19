@@ -1,0 +1,93 @@
+{
+  "document": {
+    "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-match-live-cricket-score-updates-jaipur-scorecard-10697663/",
+    "source_title": "RR vs LSG IPL 2026 LIVE Score: Josh Inglis for Lucknow Super Giants vs Rajasthan Royals in Jaipur",
+    "published": "Tue, 19 May 2026 11:13:52 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Rishabh Pant's performance in IPL 2026 has been under scrutiny as he struggles with his batting form. Despite efforts to improve his fitness and technique, he continues to face challenges, exemplified by his recent dismissal for 15 runs while playing for the Lucknow Super Giants. This performance contributed to LSG's eighth defeat of the season, raising questions about Pant's captaincy and future in the team.",
+    "key_takeaways": [
+      "Rishabh Pant's batting struggles continue in IPL 2026.",
+      "He was dismissed for 15 runs in a crucial match for LSG.",
+      "Pant's performance has led to LSG's eighth defeat of the season.",
+      "He has been working on his game with advice from Yuvraj Singh.",
+      "His captaincy is under scrutiny due to the team's poor performance.",
+      "Pant aims for a national comeback despite his current form."
+    ],
+    "why_it_matters": "Rishabh Pant's struggles in IPL 2026 highlight the challenges faced by players under pressure to perform, especially in high-stakes environments like the IPL. His ability to bounce back is crucial not only for his career but also for the Lucknow Super Giants' performance and their aspirations in the tournament.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Rishabh Pant's poor form continues as he was bowled for 15 runs.",
+      "evidence_text": "his poor form continued as he was bowled for 15 in a match for the Lucknow Super Giants (LSG).",
+      "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-match-live-cricket-score-updates-jaipur-scorecard-10697663/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Pant's dismissal triggered a batting collapse for LSG.",
+      "evidence_text": "His cheap dismissal triggered a batting collapse, costing LSG the game.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-match-live-cricket-score-updates-jaipur-scorecard-10697663/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Pant has been working on his batting with Yuvraj Singh.",
+      "evidence_text": "Rishabh Pant worked hard in the pre-season to get fitter and refine his batting with advice from Yuvraj Singh.",
+      "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-match-live-cricket-score-updates-jaipur-scorecard-10697663/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Player",
+      "name": "Rishabh Pant",
+      "description": "Captain of the Lucknow Super Giants and Indian cricketer.",
+      "evidence_text": "Rishabh Pant's bottom hand — left, for Pant — works against the flow of his top hand."
+    },
+    {
+      "type": "Team",
+      "name": "Lucknow Super Giants",
+      "description": "IPL team for which Rishabh Pant plays.",
+      "evidence_text": "costing LSG the game and leaving Pant, as captain, with no more excuses for the team's eighth defeat."
+    },
+    {
+      "type": "Player",
+      "name": "Yuvraj Singh",
+      "description": "Former Indian cricketer who advised Rishabh Pant.",
+      "evidence_text": "refine his batting with advice from Yuvraj Singh."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Rishabh Pant dismissed for 15 runs",
+      "location": "IPL match for Lucknow Super Giants",
+      "actors": [
+        "Rishabh Pant",
+        "Lucknow Super Giants"
+      ],
+      "evidence_text": "he was bowled for 15 in a match for the Lucknow Super Giants (LSG)."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-match-live-cricket-score-updates-jaipur-scorecard-10697663/",
+      "title": "RR vs LSG IPL 2026 LIVE Score: Josh Inglis for Lucknow Super Giants vs Rajasthan Royals in Jaipur",
+      "published": "Tue, 19 May 2026 11:13:52 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a reputable news outlet covering sports."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,117 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/world/2026/may/19/strike-near-uae-reactor-concerns-nuclear-plant-safety-iran-war-middle-east",
+    "source_title": "Strike near UAE reactor revives concerns over nuclear plant safety in wartime",
+    "published": "Tue, 19 May 2026 14:49:59 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "A drone strike in the UAE cut off external power to a nuclear reactor, raising safety concerns during wartime. The Barakah nuclear plant's reactor no 3 lost off-site power for about 24 hours, relying on emergency generators. The incident highlights vulnerabilities in nuclear safety amid military conflicts, particularly with ongoing tensions involving Iran and Ukraine. Experts emphasize the need for robust protections for nuclear sites against military actions.",
+    "key_takeaways": [
+      "Drone strike cut off power to UAE's Barakah nuclear reactor.",
+      "Reactor relied on emergency diesel generators for 24 hours.",
+      "First instance of a nuclear plant needing backup due to military action.",
+      "Concerns over nuclear safety heightened by conflicts in Ukraine and Iran.",
+      "IAEA confirmed power to reactor was restored after the attack.",
+      "Geneva conventions protect civilian nuclear sites, but loopholes exist."
+    ],
+    "why_it_matters": "This incident underscores the critical need for enhanced safety measures for nuclear facilities in conflict zones, as military actions can jeopardize their operation and safety, potentially leading to catastrophic consequences.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The drone strike cut off external power to a nuclear reactor in the UAE.",
+      "evidence_text": "A drone strike that cut off external power to a nuclear reactor in the United Arab Emirates this week has revived concerns over the safety of nuclear plants during wartime.",
+      "source_url": "https://www.theguardian.com/world/2026/may/19/strike-near-uae-reactor-concerns-nuclear-plant-safety-iran-war-middle-east",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The Barakah nuclear plant's reactor no 3 lost off-site power for about 24 hours.",
+      "evidence_text": "Reactor no 3 at the Barakah nuclear plant lost off-site power, which is critical for its own functioning, for about 24 hours after the attack on Sunday.",
+      "source_url": "https://www.theguardian.com/world/2026/may/19/strike-near-uae-reactor-concerns-nuclear-plant-safety-iran-war-middle-east",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The UAE's nuclear safety regulator stated that the attack did not cause any radioactive material to be released.",
+      "evidence_text": "The UAE’s nuclear safety regulator said the attack did not cause any radioactive material to be released.",
+      "source_url": "https://www.theguardian.com/world/2026/may/19/strike-near-uae-reactor-concerns-nuclear-plant-safety-iran-war-middle-east",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "International Atomic Energy Agency",
+      "description": "The IAEA is the international organization that seeks to promote the peaceful use of nuclear energy and to inhibit its use for any military purpose.",
+      "evidence_text": "On Monday, the International Atomic Energy Agency said it had been told by the UAE that off-site power to unit No 3 had been restored."
+    },
+    {
+      "type": "location",
+      "name": "Barakah Nuclear Plant",
+      "description": "A nuclear power plant in the United Arab Emirates that supplies a significant portion of the country's electricity.",
+      "evidence_text": "Reactor no 3 at the Barakah nuclear plant lost off-site power."
+    },
+    {
+      "type": "country",
+      "name": "United Arab Emirates",
+      "description": "A country in the Middle East where the drone strike occurred.",
+      "evidence_text": "A drone strike that cut off external power to a nuclear reactor in the United Arab Emirates."
+    },
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "A country in the Middle East suspected to be behind the drone strike.",
+      "evidence_text": "Iran, or one of its regional proxies, is likely to have been behind the strike."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-15",
+      "event": "Drone strike on Barakah nuclear plant",
+      "location": "United Arab Emirates",
+      "actors": [
+        "Iran",
+        "UAE"
+      ],
+      "evidence_text": "One of three drones got through from the west, causing a fire close to a four-reactor plant."
+    },
+    {
+      "date": "2026-05-16",
+      "event": "Restoration of power to reactor no 3",
+      "location": "Barakah Nuclear Plant, UAE",
+      "actors": [
+        "International Atomic Energy Agency",
+        "UAE"
+      ],
+      "evidence_text": "the UAE that off-site power to unit No 3 had been restored 'earlier today'."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/world/2026/may/19/strike-near-uae-reactor-concerns-nuclear-plant-safety-iran-war-middle-east",
+      "title": "Strike near UAE reactor revives concerns over nuclear plant safety in wartime",
+      "published": "Tue, 19 May 2026 14:49:59 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news organization known for its coverage of international affairs."
+  },
+  "geolocation": [
+    {
+      "name": "Barakah Nuclear Plant",
+      "type": "nuclear power plant",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Reactor no 3 at the Barakah nuclear plant lost off-site power."
+    }
+  ],
+  "timestamps": []
+}

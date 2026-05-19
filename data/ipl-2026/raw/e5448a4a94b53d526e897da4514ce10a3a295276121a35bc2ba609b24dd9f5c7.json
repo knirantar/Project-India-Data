@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://indianexpress.com/article/sports/cricket/rr-vs-lsg-ipl-2026-match-live-cricket-score-updates-jaipur-scorecard-10697663/",
+  "title": "RR vs LSG IPL 2026 LIVE Score: Josh Inglis for Lucknow Super Giants vs Rajasthan Royals in Jaipur",
+  "source": "https://indianexpress.com/section/sports/feed/",
+  "published": "Tue, 19 May 2026 11:13:52 +0000",
+  "sha256": "e5448a4a94b53d526e897da4514ce10a3a295276121a35bc2ba609b24dd9f5c7",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-19T14:54:46.607941+00:00",
+  "text_chars": 714,
+  "raw_path": "data/ipl-2026/raw/e5448a4a94b53d526e897da4514ce10a3a295276121a35bc2ba609b24dd9f5c7.html",
+  "text_path": "data/ipl-2026/raw/e5448a4a94b53d526e897da4514ce10a3a295276121a35bc2ba609b24dd9f5c7.txt"
+}
