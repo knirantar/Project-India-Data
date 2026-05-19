@@ -1,0 +1,24 @@
+{
+  "topic_slug": "ipl-2026",
+  "topic_title": "Indian Premier League 2026",
+  "data_type": "rss_feed_content",
+  "enabled_data_types": [
+    "news_articles",
+    "event_data",
+    "structured_datasets",
+    "metrics_numerical_data",
+    "blogs",
+    "social_media_content",
+    "video_content"
+  ],
+  "url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-match-todayrr-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-jaipur-weather-update/articleshow/131193702.cms",
+  "title": "RR vs LSG: Predicted playing XI, head-to-head, pitch report, Jaipur weather update",
+  "source": "https://timesofindia.indiatimes.com/rssfeeds/54829575.cms",
+  "published": "2026-05-19T12:56:37+05:30",
+  "sha256": "1536aef86a0cb5ffe24fc5a4692b3bb65d547ea3217e8d56b573cdb4c01a6e16",
+  "content_type": "text/html",
+  "collected_at": "2026-05-19T11:00:43.508652+00:00",
+  "text_chars": 3489,
+  "raw_path": "data/ipl-2026/raw/1536aef86a0cb5ffe24fc5a4692b3bb65d547ea3217e8d56b573cdb4c01a6e16.html",
+  "text_path": "data/ipl-2026/raw/1536aef86a0cb5ffe24fc5a4692b3bb65d547ea3217e8d56b573cdb4c01a6e16.txt"
+}

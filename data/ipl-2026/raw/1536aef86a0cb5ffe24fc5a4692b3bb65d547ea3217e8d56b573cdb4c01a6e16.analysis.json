@@ -1,0 +1,122 @@
+{
+  "document": {
+    "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-match-todayrr-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-jaipur-weather-update/articleshow/131193702.cms",
+    "source_title": "RR vs LSG: Predicted playing XI, head-to-head, pitch report, Jaipur weather update",
+    "published": "2026-05-19T12:56:37+05:30",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Rajasthan Royals (RR) are looking to end a three-match losing streak as they face Lucknow Super Giants (LSG) in Jaipur. With 12 points from 12 matches, RR needs a win to keep their playoff hopes alive. LSG, despite being out of playoff contention, has shown improved form, particularly with Mitchell Marsh's recent performances. The match will be played at Sawai Mansingh Stadium, where high-scoring games have been common this season.",
+    "key_takeaways": [
+      "RR has lost three consecutive matches and needs a win to stay in playoff contention.",
+      "LSG has shown improved form, especially with Mitchell Marsh's recent performances.",
+      "The match will be played at Sawai Mansingh Stadium, known for high-scoring games.",
+      "RR's last three home matches have ended in defeat.",
+      "The toss will take place at 7:00 PM IST, with the match starting at 7:30 PM IST.",
+      "Weather conditions are expected to be hot and dry with no chance of rain."
+    ],
+    "why_it_matters": "This match is crucial for Rajasthan Royals as they aim to secure a playoff spot in IPL 2026. The performance of key players and the match conditions could significantly impact their chances.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Rajasthan Royals need a comprehensive victory to keep their playoff hopes alive.",
+      "evidence_text": "RR need a comprehensive victory to keep their playoff hopes alive.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-match-todayrr-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-jaipur-weather-update/articleshow/131193702.cms",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Lucknow Super Giants have shown improved form in recent matches.",
+      "evidence_text": "Although they are out of the playoffs contention, LSG have looked close to being at their dangerous best in recent matches.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-match-todayrr-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-jaipur-weather-update/articleshow/131193702.cms",
+      "confidence": "medium"
+    },
+    {
+      "claim_text": "The match will be played at Sawai Mansingh Stadium, Jaipur.",
+      "evidence_text": "The match will be played on pitch number five at Sawai Mansingh Stadium, Jaipur.",
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-match-todayrr-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-jaipur-weather-update/articleshow/131193702.cms",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "team",
+      "name": "Rajasthan Royals",
+      "description": "A franchise cricket team based in Jaipur, competing in the IPL.",
+      "evidence_text": "Rajasthan Royals will look to end their run of three consecutive defeats."
+    },
+    {
+      "type": "team",
+      "name": "Lucknow Super Giants",
+      "description": "A franchise cricket team based in Lucknow, competing in the IPL.",
+      "evidence_text": "Lucknow Super Giants side in Jaipur in Match 64 of IPL 2026."
+    },
+    {
+      "type": "player",
+      "name": "Mitchell Marsh",
+      "description": "Australian T20 captain known for his recent strong performances.",
+      "evidence_text": "Mitchell Marsh's imperious form has had a lot to do with that."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19T19:00:00+05:30",
+      "event": "Toss for Match 64 of IPL 2026",
+      "location": "Sawai Mansingh Stadium, Jaipur",
+      "actors": [],
+      "evidence_text": "The crucial toss for Match 64 of IPL 2026 between Rajasthan Royals and Lucknow Super Giants will take place at 7:00 PM IST."
+    },
+    {
+      "date": "2026-05-19T19:30:00+05:30",
+      "event": "Match 64 of IPL 2026",
+      "location": "Sawai Mansingh Stadium, Jaipur",
+      "actors": [],
+      "evidence_text": "The match set to begin at 7:30 PM IST."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Points",
+      "value": "12",
+      "unit": "points",
+      "date": "2026-05-19",
+      "location": "IPL 2026",
+      "evidence_text": "Sitting sixth on the points table with 12 points from 12 matches."
+    },
+    {
+      "name": "Temperature",
+      "value": "42",
+      "unit": "°C",
+      "date": "2026-05-19",
+      "location": "Jaipur",
+      "evidence_text": "The daytime temperature in Jaipur is peaking near 42°C."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://timesofindia.indiatimes.com/sports/cricket/ipl/ipl-2026/ipl-match-todayrr-vs-lsg-predicted-playing-xi-head-to-head-pitch-report-jaipur-weather-update/articleshow/131193702.cms",
+      "title": "RR vs LSG: Predicted playing XI, head-to-head, pitch report, Jaipur weather update",
+      "published": "2026-05-19T12:56:37+05:30",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a well-known news outlet covering sports events."
+  },
+  "geolocation": [
+    {
+      "name": "Sawai Mansingh Stadium",
+      "type": "stadium",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "The match will be held at the Sawai Mansingh Stadium, Jaipur."
+    }
+  ],
+  "timestamps": []
+}

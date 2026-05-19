@@ -1,0 +1,88 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+    "source_title": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
+    "published": "Tue, 19 May 2026 10:42:39 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Recent polling indicates that Labour members believe the party is more likely to win the next election with Andy Burnham as leader rather than Keir Starmer. Burnham leads Starmer in a head-to-head poll by a ratio of 3 to 2. Angela Rayner, while not the preferred candidate, has the highest favorability ratings among potential leaders. The dynamics within the party are shifting as members express their preferences ahead of upcoming leadership challenges.",
+    "key_takeaways": [
+      "Labour members favor Andy Burnham over Keir Starmer for leadership.",
+      "Burnham leads Starmer in polling by a 3 to 2 margin.",
+      "Angela Rayner has the highest favorability ratings among potential candidates.",
+      "Wes Streeting has publicly expressed lack of confidence in Starmer.",
+      "The political landscape is influenced by members' opinions on leadership.",
+      "Burnham's potential return to parliament could reshape party dynamics."
+    ],
+    "why_it_matters": "Understanding the preferences of Labour members is crucial as it may influence the party's strategy and leadership decisions leading up to the next election. The polling reflects broader sentiments within the party and could impact electoral outcomes.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Labour members believe the party is likely to win the next election with Burnham as leader.",
+      "evidence_text": "Recent polling indicates that Labour members think the party is more likely to win the next election with Burnham as leader.",
+      "source_url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Burnham leads Starmer in a head-to-head poll.",
+      "evidence_text": "When YouGov boiled it down to a choice between Starmer and Burnham, Burnham was ahead by a factor of 3 to 2.",
+      "source_url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Angela Rayner has the highest favorability ratings among potential leadership candidates.",
+      "evidence_text": "Angela Rayner, the former deputy PM, has the highest favourability ratings of any potential leadership candidate.",
+      "source_url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Andy Burnham",
+      "description": "Potential leader of the Labour Party and current mayor.",
+      "evidence_text": "Andy Burnham found a potential seat, meaning that, if Burnham can win the byelection, a leadership challenge has not been averted, just postponed."
+    },
+    {
+      "type": "person",
+      "name": "Keir Starmer",
+      "description": "Current leader of the Labour Party.",
+      "evidence_text": "Keir Starmer delivered a 'put up or shut up' message to his critics."
+    },
+    {
+      "type": "person",
+      "name": "Angela Rayner",
+      "description": "Former deputy PM and potential leadership candidate.",
+      "evidence_text": "Angela Rayner has the highest favourability ratings of any potential leadership candidate."
+    },
+    {
+      "type": "organization",
+      "name": "YouGov",
+      "description": "Polling organization that conducted the survey.",
+      "evidence_text": "YouGov released some detailed polling on what Labour members think about the leadership."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/politics/live/2026/may/19/labour-leadership-keir-starmer-andy-burnham-iran-hs2-energy-latest-news-updates",
+      "title": "Labour likely to win next election with Burnham as leader, say party members – UK politics live",
+      "published": "Tue, 19 May 2026 10:42:39 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The Guardian is a reputable news organization known for its political coverage."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

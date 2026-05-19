@@ -1,0 +1,112 @@
+{
+  "document": {
+    "source_url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+    "source_title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+    "published": "Tue, 19 May 2026 10:00:36 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Iran's national football team is facing significant challenges in preparing for the World Cup due to the suspension of their domestic league amid ongoing conflict. Head coach Amir Ghalenoei expressed concerns about the players' readiness, as many have not played for weeks. The team is set to train in Turkiye and has scheduled a friendly match against The Gambia on May 29, with the final squad announcement due by June 1.",
+    "key_takeaways": [
+      "Iran's domestic league has been suspended since March due to conflict.",
+      "Most players have not been in action for seven weeks.",
+      "The team will train in Turkiye for approximately three weeks.",
+      "Iran will play a friendly against The Gambia on May 29.",
+      "Final squad for the World Cup will be named by June 1.",
+      "Iran's first World Cup match is against New Zealand on June 15."
+    ],
+    "why_it_matters": "The situation highlights the impact of geopolitical conflicts on sports, particularly how external factors can disrupt athletic preparation and performance on an international stage.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Iran's domestic league was suspended due to conflict.",
+      "evidence_text": "The country’s domestic Persian Gulf Pro League season was suspended after the United States and Israel attacked Iran on February 28.",
+      "source_url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Most players have not played for seven weeks.",
+      "evidence_text": "most of the players having been out of action for seven weeks.",
+      "source_url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Iran will play New Zealand in their first World Cup match.",
+      "evidence_text": "At the World Cup, Iran will take on New Zealand on June 15.",
+      "source_url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Persian Gulf Pro League",
+      "description": "Iran's domestic football league.",
+      "evidence_text": "The country’s domestic Persian Gulf Pro League season was suspended after the United States and Israel attacked Iran."
+    },
+    {
+      "type": "person",
+      "name": "Amir Ghalenoei",
+      "description": "Head coach of Iran's national football team.",
+      "evidence_text": "Iran’s head coach Amir Ghalenoei believes his coaching and fitness staff would have their work cut out."
+    },
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "Country whose national team is preparing for the World Cup.",
+      "evidence_text": "Iran will take on New Zealand on June 15."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-29",
+      "event": "Friendly match against The Gambia",
+      "location": "Turkiye",
+      "actors": [
+        "Iran national football team",
+        "The Gambia"
+      ],
+      "evidence_text": "Iran will play The Gambia in a friendly on May 29."
+    },
+    {
+      "date": "2026-06-01",
+      "event": "Final squad announcement for World Cup",
+      "location": "",
+      "actors": [
+        "Iran national football team"
+      ],
+      "evidence_text": "Ghalenoei names his final 26-man squad for the World Cup campaign by the FIFA deadline on June 1."
+    },
+    {
+      "date": "2026-06-15",
+      "event": "First World Cup match against New Zealand",
+      "location": "Los Angeles",
+      "actors": [
+        "Iran national football team",
+        "New Zealand"
+      ],
+      "evidence_text": "At the World Cup, Iran will take on New Zealand on June 15."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.aljazeera.com/sports/2026/5/19/iran-squad-in-race-against-time-for-world-cup-readiness-amid-us-israel-war?traffic_source=rss",
+      "title": "Iran squad in race against time for World Cup readiness amid US-Israel war",
+      "published": "Tue, 19 May 2026 10:00:36 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "Al Jazeera is a well-established news organization known for its coverage of international events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
