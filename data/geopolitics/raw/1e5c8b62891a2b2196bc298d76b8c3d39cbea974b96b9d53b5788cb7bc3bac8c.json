@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb",
-  "content_type": "text/html",
-  "collected_at": "2026-05-21T21:24:47.374265+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.html",
-  "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt"
+  "url": "https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/",
+  "title": "No, Russia’s Economy Is Not About to Collapse",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Thu, 21 May 2026 19:37:37 +0000",
+  "sha256": "1e5c8b62891a2b2196bc298d76b8c3d39cbea974b96b9d53b5788cb7bc3bac8c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-21T21:25:19.404308+00:00",
+  "text_chars": 14099,
+  "raw_path": "data/geopolitics/raw/1e5c8b62891a2b2196bc298d76b8c3d39cbea974b96b9d53b5788cb7bc3bac8c.html",
+  "text_path": "data/geopolitics/raw/1e5c8b62891a2b2196bc298d76b8c3d39cbea974b96b9d53b5788cb7bc3bac8c.txt"
 }

@@ -1,0 +1,115 @@
+{
+  "document": {
+    "source_url": "https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/",
+    "source_title": "No, Russia’s Economy Is Not About to Collapse",
+    "published": "Thu, 21 May 2026 19:37:37 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Russia's economy is experiencing a slowdown, with growth expected to be as low as 0.4% in 2026 after a mild contraction in early 2026. Despite high oil prices, the economy is not collapsing but is under pressure due to labor shortages and high interest rates. The Kremlin is attempting to manage the situation by maintaining a conservative fiscal position and projecting future growth, but current conditions are causing political stress for President Putin.",
+    "key_takeaways": [
+      "Russia's economy grew by 4% in 2023-2024 but is expected to slow to 0.4% in 2026.",
+      "Labor shortages are significant, with 73% of businesses reporting difficulties in hiring.",
+      "Unemployment is at a record low of 2.3%, creating a high-pressure labor market.",
+      "The Russian deficit is 2.5% of GDP, significantly lower than the U.S. deficit.",
+      "Interest rates are high at 14.5%, impacting investment and credit availability.",
+      "The Kremlin is projecting a return to faster growth by 2029 despite current challenges."
+    ],
+    "why_it_matters": "Understanding the dynamics of Russia's economy amidst the ongoing war with Ukraine is crucial for assessing the long-term implications for both domestic stability and international relations. The economic pressures faced by Russia could influence its military strategies and geopolitical decisions.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Russia's economy is not collapsing but is experiencing a slowdown.",
+      "evidence_text": "This is not an economy that’s collapsing, but this is an economy which is no longer growing at the clip that it was earlier in the war.",
+      "source_url": "https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Labor shortages are a significant issue in Russia.",
+      "evidence_text": "Seventy-three percent of businesses are reporting labor shortages.",
+      "source_url": "https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The unemployment rate in Russia is at a record low.",
+      "evidence_text": "Unemployment rates are at record lows at 2.3 percent.",
+      "source_url": "https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "Russia",
+      "description": "A country facing economic challenges amidst the ongoing war with Ukraine.",
+      "evidence_text": "Russia is now on the back foot in its war with Ukraine."
+    },
+    {
+      "type": "country",
+      "name": "Ukraine",
+      "description": "A country that is ramping up attacks on Russian territory.",
+      "evidence_text": "Ukraine is ramping up its own attacks on Russian territory."
+    },
+    {
+      "type": "person",
+      "name": "Vladimir Putin",
+      "description": "President of Russia, facing political stress due to economic conditions.",
+      "evidence_text": "[President Vladimir] Putin has called in the head honchos of his economic administration."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "GDP Growth Rate",
+      "value": "0.4",
+      "unit": "%",
+      "date": "2026-01-01",
+      "location": "Russia",
+      "evidence_text": "Russia’s growth is now expected to be as little as 0.4 percent over the whole year."
+    },
+    {
+      "name": "Unemployment Rate",
+      "value": "2.3",
+      "unit": "%",
+      "date": "2026-01-01",
+      "location": "Russia",
+      "evidence_text": "Unemployment rates are at record lows at 2.3 percent."
+    },
+    {
+      "name": "Interest Rate",
+      "value": "14.5",
+      "unit": "%",
+      "date": "2026-01-01",
+      "location": "Russia",
+      "evidence_text": "Interest rates are as high as 14.5 percent."
+    },
+    {
+      "name": "Russian Deficit",
+      "value": "2.5",
+      "unit": "%",
+      "date": "2026-01-01",
+      "location": "Russia",
+      "evidence_text": "The Russian deficit is 2.5 percent of GDP in the first four months of this year."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://foreignpolicy.com/2026/05/21/russia-ukraine-war-economy-putin-tooze/",
+      "title": "No, Russia’s Economy Is Not About to Collapse",
+      "published": "Thu, 21 May 2026 19:37:37 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable publication with expert commentary."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

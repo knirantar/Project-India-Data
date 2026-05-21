@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb",
-  "content_type": "text/html",
-  "collected_at": "2026-05-21T21:24:47.374265+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.html",
-  "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/05/1167568",
+  "title": "Gaza risks ‘permanent’ state of limbo if transition plan stalls, Security Council hears",
+  "source": "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml",
+  "published": "Thu, 21 May 2026 12:00:00 +0000",
+  "sha256": "753604a5a473c857ca2acbd76f6b5f588e41f55366268f44d292e40425478b88",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-21T21:24:58.183962+00:00",
+  "text_chars": 5464,
+  "raw_path": "data/geopolitics/raw/753604a5a473c857ca2acbd76f6b5f588e41f55366268f44d292e40425478b88.html",
+  "text_path": "data/geopolitics/raw/753604a5a473c857ca2acbd76f6b5f588e41f55366268f44d292e40425478b88.txt"
 }
