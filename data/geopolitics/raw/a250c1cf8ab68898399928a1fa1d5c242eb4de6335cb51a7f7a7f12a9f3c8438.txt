@@ -1,0 +1,6 @@
+Binary geospatial_mapping_data source collected for Global Geopolitics Monitor.
+Title: 
+URL: https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip
+Source: topic-config
+Content-Type: application/zip
+Bytes: 215221
