@@ -1,0 +1,82 @@
+{
+  "document": {
+    "source_url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "sanctions_designations",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The document contains a list of individuals designated under the NS-PLC sanctions program, including their aliases, birth years, and associated regions. Notable individuals include Ismail Abdul Salah Haniya, Mohammed Abu Teir, and Mahmoud Ahmad Al-Ramahi, among others. Each entry provides details such as the individual's name, aliases, and the region they are associated with, primarily focusing on Palestinian territories.",
+    "key_takeaways": [
+      "List of individuals sanctioned under NS-PLC.",
+      "Includes aliases and birth years.",
+      "Focus on individuals linked to Palestinian territories.",
+      "Highlights secondary sanctions risks under Executive Orders.",
+      "Details on individuals associated with Hamas.",
+      "Comprehensive data for compliance and monitoring."
+    ],
+    "why_it_matters": "This document is significant for understanding the U.S. government's sanctions against individuals linked to terrorism and other illicit activities, particularly in the context of the ongoing conflict in the region. It serves as a critical resource for compliance by financial institutions and other entities.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Ismail Abdul Salah Haniya is designated under NS-PLC.",
+      "evidence_text": "Ismail Abdul Salah HANIYA Individual NS-PLC",
+      "source_url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Mohammed Abu Teir is designated under NS-PLC.",
+      "evidence_text": "Mohammed ABU TEIR Individual NS-PLC",
+      "source_url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Mahmoud Ahmad Al-Ramahi is designated under NS-PLC.",
+      "evidence_text": "Mahmoud Ahmad AL-RAMAHI Individual NS-PLC",
+      "source_url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Individual",
+      "name": "Ismail Abdul Salah Haniya",
+      "description": "Designated individual under NS-PLC.",
+      "evidence_text": "Ismail Abdul Salah HANIYA Individual NS-PLC"
+    },
+    {
+      "type": "Individual",
+      "name": "Mohammed Abu Teir",
+      "description": "Designated individual under NS-PLC.",
+      "evidence_text": "Mohammed ABU TEIR Individual NS-PLC"
+    },
+    {
+      "type": "Individual",
+      "name": "Mahmoud Ahmad Al-Ramahi",
+      "description": "Designated individual under NS-PLC.",
+      "evidence_text": "Mahmoud Ahmad AL-RAMAHI Individual NS-PLC"
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "title": "None",
+      "published": "None",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The document is sourced from the U.S. Department of the Treasury."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

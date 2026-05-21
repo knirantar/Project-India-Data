@@ -1,0 +1,100 @@
+{
+  "document": {
+    "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "sanctions_designations",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "Cuba",
+    "summary": "The document lists various entities and individuals associated with Cuba that are subject to sanctions. It includes details such as names, aliases, addresses, and the nature of their sanctions. The entities range from airlines and banks to import/export companies, highlighting the extensive network of sanctioned organizations linked to Cuba.",
+    "key_takeaways": [
+      "Includes a comprehensive list of sanctioned entities and individuals related to Cuba.",
+      "Details various aliases and addresses for each entity.",
+      "Highlights the international scope of sanctions affecting entities in multiple countries.",
+      "Identifies key individuals associated with terrorist organizations under U.S. sanctions.",
+      "Provides insights into the financial and operational networks of sanctioned entities.",
+      "Emphasizes the ongoing U.S. efforts to enforce sanctions against Cuba."
+    ],
+    "why_it_matters": "This document is significant as it provides critical information on entities and individuals that are subject to U.S. sanctions, which can impact international relations, trade, and security policies. Understanding these sanctions is essential for compliance and for assessing risks associated with dealings involving these entities.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "AEROCARIBBEAN AIRLINES is a sanctioned entity.",
+      "evidence_text": "AEROCARIBBEAN AIRLINES Entity CUBA",
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "BANCO NACIONAL DE CUBA is a sanctioned entity.",
+      "evidence_text": "BANCO NACIONAL DE CUBA Entity CUBA",
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "CIMEX is a sanctioned entity.",
+      "evidence_text": "CIMEX Entity CUBA",
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Dr. Ayman AL ZAWAHIRI is a sanctioned individual.",
+      "evidence_text": "Dr. Ayman AL ZAWAHIRI Operational and Military Leader of JIHAD GROUP Individual SDGT",
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Entity",
+      "name": "AEROCARIBBEAN AIRLINES",
+      "description": "A sanctioned airline based in Cuba.",
+      "evidence_text": "AEROCARIBBEAN AIRLINES Entity CUBA"
+    },
+    {
+      "type": "Entity",
+      "name": "BANCO NACIONAL DE CUBA",
+      "description": "A sanctioned bank in Cuba.",
+      "evidence_text": "BANCO NACIONAL DE CUBA Entity CUBA"
+    },
+    {
+      "type": "Entity",
+      "name": "CIMEX",
+      "description": "A sanctioned commercial entity in Cuba.",
+      "evidence_text": "CIMEX Entity CUBA"
+    },
+    {
+      "type": "Individual",
+      "name": "Dr. Ayman AL ZAWAHIRI",
+      "description": "Operational and Military Leader of JIHAD GROUP, sanctioned individual.",
+      "evidence_text": "Dr. Ayman AL ZAWAHIRI Operational and Military Leader of JIHAD GROUP Individual SDGT"
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "title": "None",
+      "published": "None",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is a government document from the U.S. Department of the Treasury."
+  },
+  "geolocation": [],
+  "timestamps": [
+    {
+      "timestamp": "2026-05-21",
+      "meaning": "Date of the document's relevance.",
+      "evidence_text": "05/21/2026"
+    }
+  ]
+}

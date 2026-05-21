@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: Building the smart city: Promise, pitfalls and the people at its heart (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-03-2026_shanghai.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 47415

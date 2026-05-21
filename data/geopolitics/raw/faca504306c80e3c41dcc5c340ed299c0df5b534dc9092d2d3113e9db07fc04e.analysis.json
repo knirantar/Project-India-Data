@@ -1,0 +1,100 @@
+{
+  "document": {
+    "source_url": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises?traffic_source=rss",
+    "source_title": "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises",
+    "published": "Thu, 21 May 2026 16:07:02 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Russian President Vladimir Putin and Belarusian President Alexander Lukashenko participated in a joint nuclear forces exercise via video conference, marking the first direct involvement of the two leaders in such drills. The exercises aimed to enhance coordination between military officials regarding nuclear weapons use, amidst rising global tensions. Both leaders emphasized the defensive nature of the drills, asserting that they pose no threat to other nations while preparing to defend their sovereignty.",
+    "key_takeaways": [
+      "Putin and Lukashenko participated in joint nuclear exercises for the first time.",
+      "The drills focused on managing strategic and tactical nuclear forces.",
+      "Putin described the nuclear triad as a guarantor of sovereignty for Russia and Belarus.",
+      "Lukashenko emphasized the defensive nature of the exercises.",
+      "The drills included missile tests and launches from various platforms.",
+      "Concerns were raised by Ukraine and NATO allies regarding potential aggression."
+    ],
+    "why_it_matters": "The joint exercises signify a deepening military cooperation between Russia and Belarus, which could have implications for regional security and stability, particularly in the context of ongoing tensions with Ukraine and NATO.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Putin and Lukashenko participated in joint nuclear exercises.",
+      "evidence_text": "Russian President Vladimir Putin and Belarusian President Alexander Lukashenko have taken part via video conference in a joint nuclear forces exercise.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The exercises were defensive in nature.",
+      "evidence_text": "Lukashenko said the joint drills are part of regular military coordination between the two countries... adding that countries possessing such capabilities 'must know how to use them'.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises?traffic_source=rss",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Vladimir Putin",
+      "description": "President of Russia",
+      "evidence_text": "Russian President Vladimir Putin... stressed that the use of nuclear weapons remains 'an extreme and exceptional measure for ensuring the national security' of the two countries."
+    },
+    {
+      "type": "Person",
+      "name": "Alexander Lukashenko",
+      "description": "President of Belarus",
+      "evidence_text": "Belarusian President Alexander Lukashenko... said the joint drills are part of regular military coordination between the two countries."
+    },
+    {
+      "type": "Military",
+      "name": "Russian Armed Forces",
+      "description": "Military forces of Russia involved in the nuclear exercises.",
+      "evidence_text": "Russia’s Ministry of Defence said in a statement that its forces launched a Yars ballistic missile and a Zircon hypersonic missile as part of missile tests during the nuclear drills."
+    },
+    {
+      "type": "Military",
+      "name": "Belarusian Armed Forces",
+      "description": "Military forces of Belarus involved in the nuclear exercises.",
+      "evidence_text": "In Belarus, a combat crew of the Belarusian armed forces carried out a practical launch of a ballistic missile from an Iskander-M missile system."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "Joint nuclear forces exercise",
+      "location": "Russia and Belarus",
+      "actors": [
+        "Vladimir Putin",
+        "Alexander Lukashenko"
+      ],
+      "evidence_text": "Putin and Lukashenko participated in a joint nuclear forces exercise via video conference."
+    },
+    {
+      "date": "2026-05-19 to 2026-05-21",
+      "event": "Nuclear drills conducted",
+      "location": "Russia and Belarus",
+      "actors": [],
+      "evidence_text": "The joint drills held from Tuesday to Thursday were met with concern from Ukraine and its NATO allies."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/5/21/putin-and-lukashenko-monitor-joint-russia-belarus-nuclear-exercises?traffic_source=rss",
+      "title": "Putin and Lukashenko monitor joint Russia-Belarus nuclear exercises",
+      "published": "Thu, 21 May 2026 16:07:02 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "Al Jazeera is a well-known international news organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
