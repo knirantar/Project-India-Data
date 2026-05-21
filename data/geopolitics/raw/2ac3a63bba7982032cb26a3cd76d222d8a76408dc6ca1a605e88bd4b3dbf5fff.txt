@@ -1,0 +1,2591 @@
+2008
+Over the past six decades, United Nations peacekeeping 
+has evolved into a complex, global undertaking. During 
+this time, the conduct of United Nations peacekeeping 
+operations has been guided by a largely unwritten body 
+of principles and informed by the experiences of the 
+many thousands of men and women who have served in 
+the more than 60 operations launched since 1948. This 
+document captures these experiences for the benefit and 
+guidance of planners and practitioners of United Nations 
+peacekeeping operations.
+United Nations 
+Peacekeeping Operations
+Principles and Guidelines
+2008
+Over the past six decades, United Nations peacekeeping 
+has evolved into a complex, global undertaking. During 
+this time, conduct of United Nations peacekeeping 
+operations has been guided by a largely unwritten body 
+of principles and informed by the experiences of the 
+many thousands of men and women who have served in 
+the more than 60 operations launched since 1948. This 
+document captures these experiences for the benefit and 
+guidance of planners and practitioners of United Nations 
+peacekeeping operations.
+United Nations 
+Peacekeeping Operations
+Principles and Guidelines
+United Nations 
+Peacekeeping Operations
+Principles and Guidelines
+United Nations 
+Department of Peacekeeping Operations
+Department of Field Support
+2 | UNITED NATIONS PEACEKEEPING OPERATIONS CONTENTS | 3
+ContentsCredits
+Peacekeeping Best Practices Section
+Division of Policy, Evaluation and Training
+Department of Peacekeeping Operations
+United Nations Secretariat
+One UN Plaza, New York, NY 10017
+Tel. 212 963 1234
+Approved by J.-M. Guéhenno, USG/DPKO
+Approved on 18 January 2008
+Contact: PBPS/D-PET
+Review date: January 2010
+© United Nations 2008. This publication enjoys copyright under Protocol 2 
+of the Universal Copyright Convention. Nevertheless, governmental authori-
+ties or Member States may freely photocopy any part of this publication 
+for exclusive use within their training institutes. However, no portion of 
+this publication may be reproduced for sale or mass publication without 
+the express consent, in writing, of the Peacekeeping Best Practices Section, 
+United Nations Department of Peacekeeping Operations.
+Design and layout: Rick Jones (rick @studioexile.com)
+Foreword Jean-Marie Guéhenno ........................................................................................................................... 6
+Introduction Scope and Purpose of the Document .................................................................. 8
+PART I: THE EVOLUTION OF UNITED NATIONS PEACEKEEPING
+Chapter 1 The Normative Framework for 
+United Nations Peacekeeping Operations ............................................................................................. 13
+1.1 The Charter of the United Nations .............................................................................................. 13
+1.2 Human Rights ........................................................................................................................................................... 14
+1.3 International Humanitarian Law ................................................................................................... 15
+1.4 Security Council Mandates .................................................................................................................... 16
+Chapter 2 The Evolving Role of United Nations 
+Peacekeeping Operations ............................................................................................................................................. 17
+2.1 The Spectrum of Peace and Security Activities ........................................................ 17
+2.2 Linkages and Grey Areas ......................................................................................................................... 18
+2.3 The Core Business of United Nations 
+Peacekeeping Operations .................................................................................................................................... 20
+2.4 Peacebuilding Activities ............................................................................................................................. 25
+2.5 Supporting Other Actors ........................................................................................................................... 29
+4 | UNITED NATIONS PEACEKEEPING OPERATIONS CONTENTS | 5
+Chapter 3 The Basic Principles of United Nations Peacekeeping ...................... 31
+3.1 Applying the Basic Principles of 
+United Nations Peacekeeping ....................................................................................................................... 31
+3.2 Other Success Factors ..................................................................................................................................... 36
+Endnotes ................................................................................................................................................................................................ 41
+PART II: PLANNING UNITED NATIONS PEACEKEEPING OPERATIONS
+Chapter 4 Deciding to Deploy a United Nations 
+Peacekeeping Operation ................................................................................................................................................ 47
+4.1 Assessing the Options for United Nations Engagement ............................. 47
+4.2 Key Lessons for Planners and Decision Makers ..................................................... 49
+4.3 The Importance of Consultations with 
+Contributing Countries .......................................................................................................................................... 52
+Chapter 5 Planning a United Nations Peacekeeping Operation ......................... 53
+5.1 The Integrated Approach ........................................................................................................................... 53
+5.2 The Integrated Mission Planning Process (IMPP) ............................................... 54
+Endnotes ................................................................................................................................................................................................ 57
+PART III: THE ART OF SUCCESSFUL MANDATE IMPLEMENTATION
+Chapter 6 Deployment and Start-Up of 
+United Nations Peacekeeping Operations ............................................................................................ 61
+6.1 Typical Phases of Deployment ........................................................................................................... 61
+6.2 The Mission Start-Up Process ............................................................................................................. 62
+6.3 Managing the Mission Start-Up Process ............................................................................. 64
+Chapter 7 Managing United Nations Peacekeeping Operations ....................... 66
+7.1 The Relationship between Headquarters and the Field ............................... 66
+7.2 The Challenge of Mission Integration and Coordination .......................... 69
+Chapter 8 Supporting and Sustaining 
+United Nations Peacekeeping Operations 
+............................................................................................ 75
+8.1 United Nations Logistics and Administration .......................................................... 75
+8.2 Human Resource Management ....................................................................................................... 77
+8.3 Security of Personnel ....................................................................................................................................... 79
+Chapter 9 Maintaining Support for the Mission ........................................................................ 81
+9.1 Managing Mission Impact ....................................................................................................................... 81
+9.2 Communications and Outreach ...................................................................................................... 92
+Chapter 10 Transition and Exit ............................................................................................................................. 85
+10.1 Partnerships and Transition Planning ................................................................................ 85
+10.2 Hand-Over and Withdrawal ............................................................................................................. 86
+Endnotes ................................................................................................................................................................................................ 91
+Annex 1 United Nations Peacekeeping Doctrine Framework ................................ 92
+Annex 2 Selected Glossary of Acronyms and Terms ........................................................... 94
+6 | UNITED NATIONS PEACEKEEPING OPERATIONS FOREWORD | 7
+Jean-Marie Guéhenno
+Foreword
+Over the past sixty years, United Nations peacekeeping has evolved into 
+one of the main tools used by the international community to manage com-
+plex crises that pose a threat to international peace and security. Since the 
+beginning of the new millennium, the number of military, police and civil-
+ian personnel deployed in United Nations peacekeeping operations around 
+the world has reached unprecedented levels. Not only has United Nations 
+peacekeeping grown in size but it has become increasingly complex. Beyond 
+simply monitoring cease-fires, today’s multi-dimensional peacekeeping oper-
+ations are called upon to facilitate the political process through the promo-
+tion of national dialogue and reconciliation, protect civilians, assist in the 
+disarmament, demobilization and reintegration of combatants, support the 
+organization of elections, protect and promote human rights, and assist in 
+restoring the rule of law.
+In order to meet the challenges posed by the unprecedented scale and scope 
+of today’s missions, the United Nations Department of Peacekeeping Opera-
+tions (DPKO) and the Department of Field Support (DFS) have embarked 
+on a major reform effort, Peace Operations 2010, aimed at strengthening and 
+professionalizing the planning, management and conduct of United Nations 
+peacekeeping operations. A key objective of this ongoing reform process is 
+to ensure that the growing numbers of United Nations peacekeeping per -
+sonnel deployed in the field, as well as those serving at Headquarters, have 
+access to clear, authoritative guidance on the multitude of tasks they are 
+required to perform.
+The present publication, which has been developed in close consultation with 
+field missions, Member States, United Nations system partners and other 
+key stakeholders, represents the first attempt in over a decade to codify the 
+major lessons learned from the past six decades of United Nations peace -
+keeping experience. It is intended to help practitioners better understand the 
+basic principles and concepts underpinning the conduct of contemporary 
+United Nations peacekeeping operations as well as their inherent strengths 
+and limitations.
+I would like to express my gratitude to all those who have contributed to 
+the development of this key guidance document, which will continue to be 
+reviewed and updated in the coming years as United Nations peacekeeping 
+evolves and new lessons are learnt. 
+  
+Jean-Marie Guéhenno
+Under-Secretary-General for Peacekeeping Operations 
+March 2008
+8 | UNITED NATIONS PEACEKEEPING OPERATIONS INTRODUCTION | 9
+sustainable peace in countries emerging from conflict. It identifies the com-
+parative advantages and limitations of United Nations peacekeeping opera-
+tions as a conflict management tool, and explains the basic principles that 
+should guide their planning and conduct. In doing so, it reflects the primary 
+lessons learned during the past sixty years of United Nations peacekeep -
+ing. It draws on landmark reports of the Secretary-General and legislative 
+responses to these reports, as well as relevant resolutions and statements of 
+the principal organs of the United Nations. 
+The present document is an internal DPKO/DFS publication. It sits at the 
+highest-level of the current doctrine framework for United Nations peace-
+keeping. Any subordinate directives, guidelines, standard operating proce-
+dures, manuals and training materials issued by DPKO/DFS should conform 
+to the principles and concepts referred to in this guidance document. 
+The document is intended to serve as a guide for all United Nations per -
+sonnel serving in the field and at United Nations Headquarters, as well as an 
+introduction to those who are new to United Nations peacekeeping. Although 
+it is intended to help guide the planning and conduct of United Nations 
+peacekeeping operations, its specific application will require judgement and 
+will vary according to the situation on the ground. Peacekeeping practi -
+tioners in the field are often faced with a confusing and contradictory set 
+of imperatives and pressures. This document is unable to resolve many of 
+these issues; indeed, some have no clear, prescribed answers. Instead, it pro-
+vides a handrail to assist planners and practitioners manoeuvre through 
+the complexities of contemporary United Nations peacekeeping operations.
+This document reflects the multi-dimensional nature of contemporary United 
+Nations peacekeeping operations, which are normally led in the field by a 
+senior United Nations political figure. It does not seek to override the na -
+tional military doctrines of individual Member States participating in these 
+operations and it does not address any military tactics, techniques and 
+procedures (TTPs), which remain the prerogative of individual Member 
+States. It is, nonetheless, intended to support civilian, police and military  
+Over the past six decades, United Nations peacekeeping has evolved into a 
+complex, global undertaking. During this time, the conduct of United Nations 
+peacekeeping operations has been guided by a largely unwritten body of 
+principles and informed by the experiences of the many thousands of men 
+and women who have served in the more than 60 operations launched since 
+1948. This document captures these experiences for the benefit and guidance 
+of planners and practitioners of United Nations peacekeeping operations. 
+The spectrum of contemporary peace operations has become increasingly 
+broad and includes both United Nations – led peace operations, as well as 
+those conducted by other actors, normally with the authorization of the 
+Security Council. This guidance document focuses on only one element of 
+that spectrum: United Nations-led peacekeeping operations, authorized 
+by the Security Council, conducted under the direction of the United Nations 
+Secretary-General, and planned, managed, directed and supported by the 
+United Nations Department of Peacekeeping Operations (DPKO) and the 
+Department of Field Support (DFS). The specific focus of this document rec-
+ognizes the need for a clearer articulation of the doctrinal foundations of 
+United Nations peacekeeping operations, in light of the new challenges posed 
+by the shifting nature of conflict, from inter-state to intra-state conflicts. 
+The present document aims to define the nature, scope and core business 
+of contemporary United Nations peacekeeping operations, which are usu-
+ally deployed as one part of a much broader international effort to build a 
+Scope and Purpose of the Document
+Introduction
+10 | UNITED NATIONS PEACEKEEPING OPERATIONS INTRODUCTION | 11
+PART I
+The Evolution of United Nations  
+Peacekeeping Operations
+The Charter of the United Nations was signed, in San 
+Francisco, on 26 June 1945 and is the foundation docu -
+ment for all the United Nations work. The United Nations 
+was established to “save succeeding generations from 
+the scourge of war” and one of its main purposes is to 
+maintain international peace and security. Peacekeeping, 
+although not explicitly provided for in the Charter, has 
+evolved into one of the main tools used by the United 
+Nations to achieve this purpose.
+ 
+personnel who are training and preparing to serve in United Nations peace-
+keeping operations. Troop Contributing Countries and Police Contributing 
+Countries (TCCs/PCCs) to United Nations peacekeeping operations may 
+wish to draw on this document in developing their respective doctrines, 
+training and pre-deployment programmes. 
+For partners, this guidance document is intended to foster a clearer under-
+standing of the major principles guiding the conduct of United Nations 
+peacekeeping operations. Key partners include TCCs/PCCs, regional and 
+other inter-governmental organizations, the range of humanitarian and 
+development actors involved in international crisis management, as well as 
+national and local actors in the countries where United Nations peacekeep-
+ing operations are deployed. In this regard, the document supports a vision 
+of a system of inter-locking capabilities in which the roles and responsibili-
+ties and comparative advantages of the various partners are clearly defined. 
+This document draws on analysis contained in the landmark 2000 Report 
+of the Panel on United Nations Peace Operations (The Brahimi Report) and other 
+existing sources to help guide United Nations peacekeepers in the coming 
+years. It is a living document that will be reviewed and updated regularly 
+to reflect major evolutions in United Nations peacekeeping practices. The 
+current version will be due for review in January 2010 and may be updated 
+earlier, if required. As with the current version, Member States, TCCs/
+PCCs, field missions, United Nations system partners, regional organiza -
+tions and other key stakeholders will be consulted to ensure that the docu-
+ment continues to reflect the concerns, views, insights, and expertise of major 
+partners both within and outside the United Nations system.
+12 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 1 | 13
+1.1 The Charter of the United Nations
+The Charter of the United Nations was signed, in San Francisco, on 26 June 
+1945 and is the foundation document for all the United Nations work. The 
+United Nations was established to “save succeeding generations from the 
+scourge of war” and one of its main purposes is to maintain international 
+peace and security. Peacekeeping, although not explicitly provided for in the 
+Charter, has evolved into one of the main tools used by the United Nations 
+to achieve this purpose. 
+The Charter gives the United Nations Security Council primary responsi -
+bility for the maintenance of international peace and security.
+1 In fulfilling 
+this responsibility, the Security Council may adopt a range of measures, 
+including the establishment of a United Nations peacekeeping operation. 
+The legal basis for such action is found in Chapters VI, VII and VIII of the 
+Charter. While Chapter VI deals with the “Pacific Settlement of Disputes” , 
+Chapter VII contains provisions related to “ Action with Respect to the Peace, 
+Breaches of the Peace and Acts of Aggression” . Chapter VIII of the Charter 
+also provides for the involvement of regional arrangements and agencies 
+in the maintenance of international peace and security, provided such activi-
+ties are consistent with the purposes and principles outlined in Chapter I 
+of the Charter.
+United Nations peacekeeping operations have traditionally been associated 
+with Chapter VI of the Charter. However, the Security Council need not 
+Chapter 1 
+The Normative Framework for  
+United Nations Peacekeeping Operations
+Chapter 2 
+The Evolving Role of United Nations  
+Peacekeeping Operations
+Chapter 3 
+The Basic Principles of  
+United Nations Peacekeeping
+The Normative Framework for  
+United Nations Peacekeeping Operations
+Chapter 1
+14 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 1 | 15
+refer to a specific Chapter of the Charter when passing a resolution author-
+izing the deployment of a United Nations peacekeeping operation and has 
+never invoked Chapter VI. In recent years, the Security Council has adopted 
+the practice of invoking Chapter VII of the Charter when authorizing the 
+deployment of United Nations peacekeeping operations into volatile post-
+conflict settings where the State is unable to maintain security and public 
+order. The Security Council’s invocation of Chapter VII in these situations, 
+in addition to denoting the legal basis for its action, can also be seen as a 
+statement of firm political resolve and a means of reminding the parties to 
+a conflict and the wider United Nations membership of their obligation to 
+give effect to Security Council decisions.
+Linking United Nations peacekeeping with a particular Chapter of the Char-
+ter can be misleading for the purposes of operational planning, training and 
+mandate implementation. In assessing the nature of each peacekeeping oper-
+ation and the capabilities needed to support it, TCCs and PCCs should be 
+guided by the tasks assigned by the Security Council mandate, the concept 
+of operations and accompanying mission Rules of Engagement (ROE) for 
+the military component, and the Directives on the Use of Force (DUF) for 
+the police component. 
+1.2 Human Rights 
+International human rights law is an integral part of the normative frame-
+work for United Nations peacekeeping operations. The Universal Declara-
+tion of Human Rights, which sets the cornerstone of international human 
+rights standards, emphasizes that human rights and fundamental freedoms 
+are universal and guaranteed to everybody. United Nations peacekeeping 
+operations should be conducted in full respect of human rights and should 
+seek to advance human rights through the implementation of their mandates 
+(See Chapter 2). 
+United Nations peacekeeping personnel – whether military , police or civilian 
+– should act in accordance with international human rights law and under-
+stand how the implementation of their tasks intersects with human rights. 
+Peacekeeping personnel should strive to ensure that they do not become 
+perpetrators of human rights abuses. They must be able to recognize human 
+rights violations or abuse, and be prepared to respond appropriately within 
+the limits of their mandate and their competence. United Nations peacekeep-
+ing personnel should respect human rights in their dealings with colleagues 
+and with local people, both in their public and in their private lives. Where 
+they commit abuses, they should be held accountable. 
+1.3 International Humanitarian Law 
+International humanitarian law is known also as “the law of war” or “the law 
+of armed conflict,” and restricts the means and methods of armed conflict. 
+International humanitarian law is contained in the four Geneva Conven -
+tions of 1949 and their two Additional Protocols of 1977, as well as in rules 
+regulating the means and methods of combat. International humanitarian 
+law also includes conventions and treaties on the protection of cultural prop-
+erty and the environment during armed conflict, as well as protection of 
+victims of conflict. 
+International humanitarian law is designed to protect persons who do not 
+participate, or are no longer participating, in the hostilities; and it main -
+tains the fundamental rights of civilians, victims and non-combatants in 
+an armed conflict. It is relevant to United Nations peacekeeping operations 
+because these missions are often deployed into post-conflict environments 
+where violence may be ongoing or conflict could reignite. Additionally, in 
+post-conflict environments there are often large civilian populations that 
+have been targeted by the warring parties, prisoners of war and other vul-
+nerable groups to whom the Geneva Conventions or other humanitarian law 
+would apply in the event of further hostilities. 
+United Nations peacekeepers must have a clear understanding of the prin-
+ciples and rules of international humanitarian law and observe them in situ-
+ations where they apply. The Secretary-General’s Bulletin on the Observance
+16 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 2 | 17
+by United Nations Forces of International Humanitarian Law of 6 August 
+1999 ( ST/SGB/1999/13) sets out the fundamental principles and rules of 
+international law that may be applicable to United Nations peacekeepers. 
+1.4 Security Council Mandates 
+United Nations peacekeeping operations are deployed on the basis of a man-
+date from the United Nations Security Council. The tasks that a United Nations 
+peacekeeping operation will be required to perform are set out in the Secu-
+rity Council mandate. Security Council mandates differ from situation to 
+situation, depending on the nature of the conflict and the specific challenges 
+it presents. Since United Nations peacekeeping operations are normally de-
+ployed to support the implementation of a cease-fire or a more comprehensive 
+peace agreement, Security Council mandates are influenced by the nature 
+and content of the agreement reached by the parties to the conflict. 
+Security Council mandates also reflect the broader normative debates shap-
+ing the international environment. In this regard, there are a number of 
+cross-cutting, thematic tasks that are regularly assigned to United Nations 
+peacekeeping operations on the basis of the following landmark Security 
+Council resolutions: 
+ Security Council resolution 1325 (2000) on women, peace and security;2 
+ Security Council resolution 1612 (2005) on children and armed conflict;3 
+ Security Council resolution 1674 (2006) on the protection of civilians in 
+armed conflict;4 
+The range of tasks assigned to United Nations peacekeeping operations has 
+expanded significantly in response to shifting patterns of conflict and to best 
+address emerging threats to international peace and security. Although each 
+United Nations peacekeeping operation is different, there is a considerable 
+degree of consistency in the types of mandated tasks assigned by the Secu-
+rity Council. These are described in greater detail in Chapter 2 , below. 
+2.1 The Spectrum of Peace and Security Activities
+Peacekeeping is one among a range of activities undertaken by the United 
+Nations and other international actors to maintain international peace and 
+security throughout the world. Although peacekeeping is the focus of this 
+document, it is important for practitioners to understand how it relates to 
+and differs from conflict prevention, peacemaking, peace enforcement and 
+peacebuilding. 
+Conflict prevention involves the application of structural or diplomatic meas-
+ures to keep intra-state or inter-state tensions and disputes from escalating 
+into violent conflict. Ideally, it should build on structured early warning, 
+information gathering and a careful analysis of the factors driving the con-
+flict. Conflict prevention activities may include the use of the Secretary-
+General’s “good offices,” preventive deployment or confidence-building 
+measures.
+Peacemaking generally includes measures to address conflicts in progress 
+and usually involves diplomatic action to bring hostile parties to a negoti-
+ated agreement. The United Nations Secretary-General, upon the request of 
+the Security Council or the General Assembly or at his her own initiative, 
+may exercise his or her “ good offices” to facilitate the resolution of the conflict. 
+Peacemakers may also be envoys, governments, groups of states, regional 
+organizations or the United Nations. Peacemaking efforts may also be under-
+The Evolving Role of United Nations  
+Peacekeeping Operations
+Chapter 2
+18 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 2 | 19
+taken by unofficial and non-governmental groups, or by a prominent per-
+sonality working independently. 
+Peacekeeping is a technique designed to preserve the peace, however frag-
+ile, where fighting has been halted, and to assist in implementing agree -
+ments achieved by the peacemakers. Over the years, peacekeeping has 
+evolved from a primarily military model of observing cease-fires and the 
+separation of forces after inter-state wars, to incorporate a complex model 
+of many elements – military, police and civilian – working together to help 
+lay the foundations for sustainable peace.
+Peace enforcement involves the application, with the authorization of the 
+Security Council, of a range of coercive measures, including the use of 
+military force. Such actions are authorized to restore international peace 
+and security in situations where the Security Council has determined the 
+existence of a threat to the peace, breach of the peace or act of aggression. 
+The Security Council may utilize, where appropriate, regional organiza -
+tions and agencies for enforcement action under its authority. 
+Peacebuilding involves a range of measures targeted to reduce the risk of 
+lapsing or relapsing into conflict by strengthening national capacities at all 
+levels for conflict management, and to lay the foundation for sustainable 
+peace and development. Peacebuilding is a complex, long-term process of 
+creating the necessary conditions for sustainable peace. It works by address-
+ing the deep-rooted, structural causes of violent conflict in a comprehensive 
+manner. Peacebuilding measures address core issues that effect the func -
+tioning of society and the State, and seek to enhance the capacity of the State 
+to effectively and legitimately carry out its core functions.
+2.2 Linkages and Grey Areas
+The boundaries between conflict prevention, peacemaking, peacekeeping, 
+peacebuilding and peace enforcement have become increasingly blurred, as 
+seen in Figure 1. Peace operations are rarely limited to one type of activity, 
+whether United Nations-led
+ or conducted by non-United Nations actors. 
+While United Nations peacekeeping operations are, in principle, deployed 
+to support the implementation of a cease-fire or peace agreement, they are 
+often required to play an active role in peacemaking efforts and may also 
+be involved in early peacebuilding activities. United Nations peacekeeping 
+operations may also use force at the tactical level, with the authorization of 
+the Security Council, to defend themselves and their mandate, particularly 
+in situations where the State is unable to provide security and maintain 
+public order. As discussed in Chapter 3 below, although the line between 
+“robust” peacekeeping and peace enforcement may appear blurred at times, 
+there are important differences between the two. While robust peacekeep-
+ing involves the use of force at the tactical level with the consent of the host 
+authorities and/or the main parties to the conflict, peace enforcement may 
+involve the use of force at the strategic or international level, which is nor-
+mally prohibited for Member States under Article 2 (4) of the Charter unless 
+authorized by the Security Council.
+Figure 1 Linkages and Grey Areas
+Conflict
+Cease-fire
+Political  
+Process
+CONFLICT PREVENTION
+PEACE ENFORCEMENT
+PEACEKEEPING
+POST-CONFLICT PEACEBUILDING AND 
+PREVENTING RELAPSE TO CONFLICT
+PEACEMAKING
+20 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 2 | 21
+Conflict prevention, peacemaking, peacekeeping and peace enforcement 
+rarely occur in a linear or sequential way. Indeed, experience has shown that 
+they should be seen as mutually reinforcing. Used piecemeal or in isolation, 
+they fail to provide the comprehensive approach required to address the 
+root causes of conflict that, thereby, reduces the risk of conflict recurring. 
+However, the international community’s ability to combine these activities 
+effectively remains limited and this has, in some cases, resulted in critical 
+gaps in the international response to crises that have threatened international 
+peace and security. 
+The creation of a new United Nations peacebuilding architecture reflects a 
+growing recognition within the international community of the linkages 
+between the United Nations peacemaking, peacekeeping and peacebuild-
+ing roles. When a country comes before it, the Peacebuilding Commission 
+helps marshal the resources at the disposal of the international community 
+and advise on and propose integrated strategies for peacebuilding and 
+recovery. In doing so, it aims to bring together relevant actors, including 
+international financial institutions and other donors, United Nations agen-
+cies, civil society organizations, and others in support of these strategies; 
+as well as to provide strategic advice to the principal United Nations organs 
+and help facilitate political dialogue, enhance coordination, and monitor 
+the progress of both national and international actors. 
+2.3 The Core Business of United Nations  
+Peacekeeping Operations 
+Although not provided for in the Charter, the practice of peacekeeping began 
+in 1948 when the first United Nations military observers were deployed to 
+the Middle East. During the ensuing Cold War years, the goals of United 
+Nations peacekeeping were necessarily limited to maintaining cease-fires 
+and stabilizing situations on the ground, so that efforts could be made at the 
+political level to resolve the conflict by peaceful means. Several of the United 
+Nations longstanding peacekeeping operations fit this “traditional” model. 
+Traditional United Nations peacekeeping operations are deployed as an in-
+terim measure to help manage a conflict and create conditions in which the 
+negotiation of a lasting settlement can proceed. The tasks assigned to tradi-
+tional United Nations peacekeeping operations by the Security Council are 
+essentially military in character and may involve the following:
+ Observation, monitoring and reporting – using static posts, patrols, over-
+flights or other technical means, with the agreement of the parties;
+ Supervision of cease-fire and support to verification mechanisms; 
+ Interposition as a buffer and confidence-building measure. 
+By monitoring and reporting on the parties’ adherence to commitments 
+regarding a cease-fire or demilitarized zone and by investigating complaints 
+of violations, traditional peacekeeping operations enable each party to be 
+reassured that the other party will not seek to exploit the cease-fire in order 
+to gain military advantage. 
+Traditional peacekeeping operations do not normally play a direct role in 
+political efforts to resolve the conflict. Other actors such as bilateral partners 
+to the parties, regional organizations or even special United Nations envoys 
+may be working on longer-term political solutions, which will allow the 
+peacekeeping operation to withdraw. As a result, some traditional peace -
+keeping operations are deployed for decades before a lasting political settle-
+ment is reached between the parties. 
+With the end of the Cold War, the strategic context for United Nations peace-
+keeping changed dramatically and the Security Council began to work more 
+actively to promote the containment and peaceful resolution of regional 
+conflicts. While the end of the Cold War coincided with a general decline 
+in the incidence of conflict around the world, internal armed conflicts con-
+stitute the vast majority of today’s wars. Many of these conflicts take place 
+in the world’s poorest countries where state capacity may be weak, and 
+where belligerents may be motivated by economic gain, as much as ideology
+22 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 2 | 23
+or past grievances. Moreover, evidence has shown that a large proportion 
+of all civil wars are due to a relapse of conflict, the risks of which are par -
+ticularly high in the first five to 10 years following a conflict. 
+The transformation of the international environment has given rise to a 
+new generation of “multi-dimensional” United Nations peacekeeping oper-
+ations. These operations are typically deployed in the dangerous aftermath 
+of a violent internal conflict and may employ a mix of military, police and 
+civilian capabilities to support the implementation of a comprehensive peace 
+agreement.
+5 
+Some multi-dimensional United Nations peacekeeping operations have been 
+deployed following a request from the national authorities to support the 
+transition to legitimate government, in the absence of a formal peace agree-
+ment. In exceptional circumstances, the Security Council has also authorized 
+multi-dimensional United Nations peacekeeping operations to temporarily 
+assume the legislative and administrate functions of the State, in order to 
+support the transfer of authority from one sovereign entity to another, or 
+until sovereignty questions are fully resolved (as in the case of transitional 
+administrations), or to help the State to establish administrative structures 
+that may not have existed previously. 
+Multi-dimensional United Nations peacekeeping operations deployed in 
+the aftermath of an internal conflict face a particularly challenging environ-
+ment. The State’s capacity to provide security to its population and main-
+tain public order is often weak, and violence may still be ongoing in various 
+parts of the country. Basic infrastructure is likely to have been destroyed 
+and large sections of the population may have been displaced. Society may 
+be divided along ethnic, religious and regional lines and grave human rights 
+abuses may have been committed during the conflict, further complicating 
+efforts to achieve national reconciliation. 
+Multi-dimensional United Nations peacekeeping operations are deployed 
+as one part of a much broader international effort to help countries emerging 
+from conflict make the transition to a sustainable peace. As shown in Figure 
+2 above, this effort consists of several phases and may involve an array of 
+actors with separate, albeit overlapping, mandates and areas of expertise. 
+Within this broader context, the core functions of a multi-dimensional United 
+Nations peacekeeping operation are to: 
+a) Create a secure and stable environment while strengthening the State’s 
+ability to provide security, with full respect for the rule of law and 
+human rights; 
+b) Facilitate the political process by promoting dialogue and reconcili -
+ation and supporting the establishment of legitimate and effective 
+institutions of governance; 
+c)  Provide a framework for ensuring that all United Nations and other 
+inter national actors pursue their activities at the country-level in a 
+coherent and coordinated manner. 
+In addition to monitoring and observing cease-fires, multi-dimensional 
+United Nations peacekeeping operations are frequently mandated to pro-
+vide operational support to national law enforcement agencies; provide 
+security at key government installations, ports and other vital infrastruc -
+Infrastructure
+Employment
+Economic governance
+Civil administration
+Elections
+Political process
+Security operations
+DDR
+Rule of law
+Human rights
+Capacity building
+Humanitarian assistance
+INDICATIVE POST-
+CONFLICT TASKS
+STABILIZATION PEACE CONSOLIDATION
+Local institutions
+LONG-TERM RECOVERY 
+AND DEVELOPMENT
+World Bank/IMF
+UN Country 
+Team, Donors
+ICRC/NGOs
+UN Peacekeeping
+Figure 2 The Core Business of Multi-dimensional United Nations 
+Peacekeeping Operations
+24 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 2 | 25
+ture; establish the necessary security conditions for the free flow of people, 
+goods and humanitarian assistance; and provide humanitarian mine action 
+assistance.
+6 By helping to fill the security and public order vacuum that 
+often exists in post-conflict settings, multi-dimensional United Nations 
+peacekeeping operations play a critical role in securing the peace process, 
+and ensuring that humanitarian and development partners are able to work 
+in a safe environment. 
+In situations of internal armed conflict, civilians account for the vast ma -
+jority of casualties. Many civilians are forcibly uprooted within their own 
+countries and have specific vulnerabilities arising from their displacement. 
+As a result, most multi-dimensional United Nations peacekeeping opera -
+tions are now mandated by the Security Council to protect civilians under 
+imminent threat of physical violence. The protection of civilians requires 
+concerted and coordinated action among the military, police and civilian 
+components of a United Nations peacekeeping operation and must be main-
+streamed into the planning and conduct of its core activities. United Nations 
+humanitarian agencies and non-governmental organization (NGO) partners 
+also undertake a broad range of activities in support of the protection of 
+civilians.
+7 Close coordination with these actors is, therefore, essential. 
+In contrast to traditional United Nations peacekeeping operations, multi-
+dimensional United Nations peacekeeping operations usually play a direct 
+role in political efforts to resolve the conflict and are often mandated by the 
+Security Council to provide good offices or promote national political dia-
+logue and reconciliation. The fact that multi-dimensional United Nations 
+peacekeeping operations enjoy a high degree of international legitimacy and 
+represent the collective will of the international community gives them 
+considerable leverage over the parties. This leverage can be used to build 
+and sustain a political consensus around the peace process, promote good 
+governance and maintain pressure on the parties to implement key institu-
+tional reforms. 
+Multi-dimensional United Nations peacekeeping operations also play a 
+critical role in ensuring that the activities of the United Nations system and 
+other international actors are guided by a common strategic vision. The 
+United Nations has the unique ability to mount a truly comprehensive 
+response to complex crises and has developed the concept of “integrated 
+missions” to maximize the overall impact of its support to countries emerging 
+from conflict.
+8 To help draw these capabilities together, multi-dimensional 
+United Nations peacekeeping operations are normally headed by a Special 
+Representative of the Secretary General (SRSG) who has overall authority 
+over the activities of the United Nations. The SRSG also establishes the frame-
+work guiding the overall activities of the United Nations peacekeeping oper-
+ation and those of the United Nations Country Team (UNCT).
+9 The SRSG is 
+supported in this task by a “triple-hatted” Deputy Special Representative of 
+the Secretary-General/Resident Coordinator/Humanitarian Coordinator 
+(DSRSG/RC/HC). This Deputy also serves as the principal interface between 
+the United Nations peacekeeping operation and the UNCT; leads the coor-
+dination effort for humanitarian, development and recovery activities; and 
+brings concerns raised by the UNCT to the attention of the SRSG.
+10 
+2.4 Peacebuilding Activities 
+While the deployment of a multi-dimensional United Nations peacekeeping 
+operation may help to stem violence in the short-term, it is unlikely to result 
+in a sustainable peace unless accompanied by programmes designed to pre-
+vent the recurrence of conflict. Every situation invariably presents its own 
+specific set of challenges. However, experience has shown that the achieve-
+ment of a sustainable peace requires progress in at least four critical areas:
+11 
+a) Restoring the State’s ability to provide security and maintain public order; 
+b) Strengthening the rule of law12 and respect for human rights; 
+c) Supporting the emergence of legitimate political institutions and partici-
+patory processes;
+d) Promoting social and economic recovery and development, including 
+the safe return or resettlement of internally displaced persons and refu-
+gees uprooted by conflict.
+26 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 2 | 27
+Multi-dimensional United Nations peacekeeping operations generally lack 
+the programme funding and technical expertise required to comprehen -
+sively implement effective peacebuilding programmes. Nevertheless, they 
+are often mandated by the Security Council to play a catalytic role in the 
+following critical peacebuilding activities:
+ Disarmament, demobilization and reintegration (DDR)  of combatants; 
+ Mine action;
+ Security Sector Reform (SSR) 13 and other rule of law-related activities;
+ Protection and promotion of human rights;
+ Electoral assistance; 
+ Support to the restoration and extension of State authority.
+DDR. DDR is a critical part of efforts to create a secure and stable environ-
+ment in which the process of recovery can begin. United Nations multi-
+dimensional peacekeeping operations are usually mandated to assist in the 
+development and implementation of national DDR programmes.
+14 This may 
+entail the provision of technical advice; the securing of disarmament and 
+cantonment sites; and/or the collection and destruction of weapons, ammu-
+nition and other materiel surrendered by the former combatants. Other 
+agencies, working in close coordination with the United Nations peace -
+keeping operation, are responsible for supporting the critical reintegration 
+pro cess, which aims to provide demobilized former combatants with sus -
+tainable livelihoods.
+Mine action. In many post-conflict settings, landmines and other unex -
+ploded ordinance constitute a threat to the safety of civilians and pose a 
+major obstacle to successful post-conflict recovery. Mine action is therefore 
+necessary to recreate a safe environment conducive to normal life and de-
+velopment. In addition to providing emergency mine action assistance, multi-
+dimensional United Nations peacekeeping operations are often mandated 
+to help the national authorities develop medium- and long-term mine action 
+plans.
+15 
+SSR and other rule of law-related activities. SSR is an essential compo -
+nent of efforts to re-establish and strengthen the rule of law. Progress in the 
+area of SSR is critical to the success of a multi-dimensional United Nations 
+peacekeeping operation and helps define its “exit strategy,” which is largely 
+dependent on the ability of national security actors and institutions to 
+function effectively. Depending on its mandate, a multi-dimensional United 
+Nations peacekeeping operation may be called upon to assist in the restruc-
+turing, reform and training of the national police and/or armed forces. 
+Multi-dimensional United Nations peacekeeping operations also play a cat-
+alytic role in the strengthening of national judiciary and corrections systems, 
+and have also been mandated by the Security Council to promote legal and 
+judicial reform or support the development of essential legislation.
+Protection and promotion human rights. The abuse and violation of human 
+rights is at the heart of most modern conflicts and is also a consequence of 
+them. Many of the worst human rights abuses occur during armed conflict 
+and the protection of human rights must be at the core of action taken to 
+address it. All United Nations entities have a responsibility to ensure that 
+human rights are promoted and protected by and within their field opera-
+tions.
+16 Most United Nations multi-dimensional peacekeeping operations 
+are therefore mandated to promote and protect human rights by monitor-
+ing and helping to investigate human rights violations and/or developing 
+the capacity of national actors and institutions to do so on their own.
+17 The 
+integration of human rights and the sustainability of human rights pro -
+grammes should always be a key factor in the planning of multi-dimensional 
+United Nations peacekeeping operations. 
+Restoration and extension of State authority. Multi-dimensional United 
+Nations peacekeeping operations are frequently called upon to support 
+the restoration and extension of State authority. In order to generate reve-
+nue and provide basic services to the population, the State must be able to 
+exert control over its national territory. Multi-dimensional United Nations 
+peacekeeping operations may support the restoration and extension of 
+State authority by creating an enabling security environment, providing
+28 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 2 | 29
+political leader ship or coordinating the efforts of other international actors. 
+Support to the restoration or extension of State authority may include efforts 
+to develop political participation, as well as operational support to the imme-
+diate activities of state institutions. Where relevant, it may also include small-
+scale capacity building or support to larger processes of constitutional or 
+institutional restructuring. 
+Electoral assistance. The holding of free and fair elections is often written 
+into the peace agreement underlying a multi-dimensional United Nations 
+peacekeeping operation and represents a major milestone towards the estab-
+lishment of a legitimate State. Multi-dimensional United Nations peace -
+keeping operations are usually mandated to play a direct role in efforts to 
+organize, monitor and carry out free and fair elections through the provision 
+of security, technical advice, logistical support and other forms of electoral 
+assistance. To this end, the electoral component of multi-dimensional United 
+Nations peacekeeping operations is normally staffed by experts recommended 
+by the United Nations Electoral Assistance Division (EAD) of the Department 
+of Political Affairs (DPA). 
+Although multi-dimensional United Nations peacekeeping operations may 
+be required to initiate a limited number of critical peacebuilding activities, 
+they are neither designed nor equipped to engage in longer-term institution 
+and capacity-building efforts. This is normally the work of development 
+actors within the UNCT, as well as key partners outside the United Nations, 
+who have the resources and technical expertise required to effectively under-
+take long-term institution and capacity-building activities. 
+Nevertheless, experience has shown that, in the short-term, a United Nations 
+peacekeeping operation may have little choice but to initiate longer-term 
+institution and capacity-building efforts, due to the inability of other actors 
+to take the lead. Whenever a United Nations peacekeeping operation is 
+required to engage in activities of an institution and/or capacity building 
+nature, it is essential that it be adequately resourced and that it seek out the 
+requisite expertise. In such circumstances, the United Nations peacekeeping 
+operation’s efforts should remain focused on preparing the ground for 
+those actors within and outside the United Nations system with the man -
+date to provide long-term peacebuilding assistance.
+2.5 Supporting Other Actors 
+There are a number of areas in which the role of United Nations peacekeep-
+ing operations is limited to facilitating the activities of other actors within 
+and outside the United Nations system, when requested, and within the 
+limits of their mandate and available capacity. The promotion of socio-
+economic recovery and development and the provision of humanitarian 
+assistance are two critical areas in which multi-dimensional United Nations 
+peacekeeping operations play a more limited supporting role.
+Socio-economic recovery and development is critical to the achievement of 
+a lasting peace. Experience has shown that security sector and other reform 
+programmes are unlikely to succeed if not supported by transparent and 
+effective economic management and civilian oversight systems. DDR efforts 
+are likely to fail unless sustainable, alternative livelihoods can be provided 
+to demobilized combatants. 
+Similarly, the return of refugees and other displaced populations is more 
+likely to be smooth and sustainable if the special needs of these persons are 
+taken into account in programmes designed to promote socio-economic 
+recovery. 
+The promotion of socio-economic recovery and development is the respon-
+sibility of development partners within and outside the United Nations 
+system. Multi-dimensional United Nations peacekeeping operations are 
+rarely mandated to play a direct role in the promotion of socio-economic 
+recovery and development, nor do they have ready access to the requisite 
+expertise and programmatic funding. Nevertheless, United Nations peace-
+keeping operations may assist the work of development partners by using
+30 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 3 | 31
+their influence with the national authorities to encourage key reforms, or 
+using the good offices of the SRSG and/or the DSRSG/RC/HC to help mobi-
+lize donor funding and attention for key development activities. 
+Responsibility for the provision of humanitarian assistance rests primarily 
+with the relevant civilian United Nations specialized agencies, funds and 
+programmes, as well as the range of independent, international and local 
+NGOs which are usually active alongside a United Nations peacekeeping 
+operation. The primary role of United Nations peacekeeping operations with 
+regard to the provision of humanitarian assistance is to provide a secure 
+and stable environment within which humanitarian actors may carry out 
+their activities.
+18 
+Multi-dimensional United Nations peacekeeping operations often imple -
+ment Quick Impact Projects (QIPs), which are small-scale projects, designed 
+to benefit the population. QIPs may take a number of forms, including infra-
+structure assistance or short-term employment generation activities. QIPs 
+establish and build confidence in the mission, its mandate and the peace 
+process. They are not a substitute for humanitarian and/or development 
+assistance and are used by United Nations multi-dimensional peacekeep -
+ing operations to support the mission’s objectives, by building confidence 
+in the mission’s mandate and the peace process. 
+Coordination and consultation with humanitarian actors
+19 in regard to ad-
+ministration of QIPs is essential to help alleviate humanitarian concerns 
+regarding the danger of conflating political-military activities with their 
+humanitarian operations. The mission should be aware that humanitarian 
+actors may have concerns about the characterization of QIPs, or Civil Mili-
+tary Coordination (CIMIC) projects, “hearts and minds” activities, or other 
+security or recovery projects as being of a humanitarian nature, when they see 
+these as primarily serving political, security or reconstruction priorities. 
+3.1 Applying the Basic Principles of  
+United Nations Peacekeeping
+Although the practice of United Nations peacekeeping has evolved signifi-
+cantly over the past six decades, three basic principles have traditionally 
+served and continue to set United Nations peacekeeping operations apart as 
+a tool for maintaining international peace and security:
+ Consent of the parties
+ Impartiality
+ Non-use of force except in self-defence and defence of the mandate
+These principles are inter-related and mutually reinforcing. It is important 
+that their meaning and relationship to each other are clearly understood 
+by all those involved in the planning and conduct of United Nations peace-
+keeping operations, so that they are applied effectively. Taken together, they 
+provide a navigation aid, or compass, for practitioners both in the field and 
+at United Nations Headquarters. 
+Consent of the parties. United Nations peacekeeping operations are deployed 
+with the consent of the main parties to the conflict.
+20 This requires a commit-
+ment by the parties to a political process and their acceptance of a peace -
+keeping operation mandated to support that process. The consent of the  
+The Basic Principles of  
+United Nations Peacekeeping
+Chapter 3
+32 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 3 | 33
+main parties provides a United Nations peacekeeping operation with the 
+necessary freedom of action, both political and physical, to carry out its 
+mandated tasks. In the absence of such consent, a United Nations peace -
+keeping operation risks becoming a party to the conflict; and being drawn 
+towards enforcement action
+, and away from its intrinsic role of keeping 
+the peace.
+In the implementation of its mandate, a United Nations peacekeeping opera-
+tion must work continuously to ensure that it does not lose the consent of 
+the main parties, while ensuring that the peace process moves forward. 
+This requires that all peacekeeping personnel have a thorough understand-
+ing of the history and prevailing customs and culture in the mission area, 
+as well as the capacity to assess the evolving interests and motivation of 
+the parties.
+The absence of trust between the parties in a post-conflict environment 
+can, at times, make consent uncertain and unreliable. Consent, particularly 
+if given grudgingly under international pressure, may be withdrawn in a 
+variety of ways when a party is not fully committed to the peace process. 
+For instance, a party that has given its consent to the deployment of a United 
+Nations peacekeeping operation may subsequently seek to restrict the opera-
+tion’s freedom of action, resulting in a de facto withdrawal of consent. The 
+complete withdrawal of consent by one or more of the main parties chal -
+lenges the rationale for the United Nations peacekeeping operation and will 
+likely alter the core assumptions and parameters underpinning the interna-
+tional community’s strategy to support the peace process. 
+The fact that the main parties have given their consent to the deployment 
+of a United Nations peacekeeping operation does not necessarily imply or 
+guarantee that there will also be consent at the local level, particularly if the 
+main parties are internally divided or have weak command and control 
+systems. Universality of consent becomes even less probable in volatile set-
+tings, characterized by the presence of armed groups not under the control 
+of any of the parties, or by the presence of other spoilers.
+21 The peacekeeping 
+operation should continuously analyze its operating environment to detect 
+and forestall any wavering of consent. A peacekeeping operation must have 
+the political and analytical skills, the operational resources, and the will to 
+manage situations where there is an absence or breakdown of local consent. 
+In some cases this may require, as a last resort, the use of force. 
+Impartiality. United Nations peacekeeping operations must implement their 
+mandate without favour or prejudice to any party. Impartiality is crucial to 
+maintaining the consent and cooperation of the main parties, but should 
+not be confused with neutrality or inactivity.
+22 United Nations peacekeep-
+ers should be impartial in their dealings with the parties to the conflict, but 
+not neutral in the execution of their mandate. 
+The need for even-handedness towards the parties should not become an 
+excuse for inaction in the face of behavior that clearly works against the 
+peace process. Just as a good referee is impartial, but will penalize infrac -
+tions, so a peacekeeping operation should not condone actions by the parties 
+that violate the undertakings of the peace process or the international norms 
+and principles that a United Nations peacekeeping operation upholds. 
+Notwithstanding the need to establish and maintain good relations with 
+the parties, a peacekeeping operation must scrupulously avoid activities 
+that might compromise its image of impartiality. A mission should not shy 
+away from a rigorous application of the principle of impartiality for fear of 
+misinterpretation or retaliation, but before acting it is always prudent to 
+ensure that the grounds for acting are well-established and can be clearly 
+communicated to all. Failure to do so may undermine the peacekeeping 
+operation’s credibility and legitimacy, and may lead to a withdrawal of con-
+sent for its presence by one or more of the parties. Where the peacekeeping 
+operation is required to counter such breaches, it must do so with transpar-
+ency, openness and effective communication as to the rationale and appro-
+priate nature of its response. This will help to minimize opportunities to 
+manipulate the perceptions against the mission, and help to mitigate the 
+potential backlash from the parties and their supporters. Even the best and
+34 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 3 | 35
+fairest of referees should anticipate criticism from those affected negatively 
+and should be in a position to explain their actions.
+Non-use of force except in self-defense and defense of the mandate. The 
+principle of non-use of force except in self-defense dates back to the first 
+deployment of armed United Nations peacekeepers in 1956. The notion of 
+self-defense has subsequently come to include resistance to attempts by force-
+ful means to prevent the peacekeeping operation from discharging its duties 
+under the mandate of the Security Council.
+23 United Nations peacekeeping 
+operations are not an enforcement tool. However, it is widely understood 
+that they may use force at the tactical level, with the authorization of the 
+Security Council, if acting in self-defense and defense of the mandate. 
+The environments into which United Nations peacekeeping operations are 
+deployed are often characterized by the presence of militias, criminal gangs, 
+and other spoilers who may actively seek to undermine the peace process 
+or pose a threat to the civilian population. In such situations, the Security 
+Council has given United Nations peacekeeping operations “robust” man-
+dates authorizing them to “use all necessary means” to deter forceful attempts 
+to disrupt the political process, protect civilians under imminent threat of 
+physical attack, and/or assist the national authorities in maintaining law 
+and order. By proactively using force in defense of their mandates, these 
+United Nations peacekeeping operations have succeeded in improving the 
+security situation and creating an environment conducive to longer-term 
+peacebuilding in the countries where they are deployed. 
+Although on the ground they may sometimes appear similar, robust peace-
+keeping should not be confused with peace enforcement, as envisaged under 
+Chapter VII of the Charter. Robust peacekeeping involves the use of force 
+at the tactical level with the authorization of the Security Council and con-
+sent of the host nation and/or the main parties to the conflict. By contrast, 
+peace enforcement does not require the consent of the main parties and may 
+involve the use of military force at the strategic or international level, which 
+is normally prohibited for Member States under Article 2(4) of the Charter, 
+unless authorized by the Security Council. 
+A United Nations peacekeeping operation should only use force as a mea-
+sure of last resort, when other methods of persuasion have been exhausted, 
+and an operation must always exercise restraint when doing so. The ulti -
+mate aim of the use of force is to influence and deter spoilers working 
+against the peace process or seeking to harm civilians; and not to seek 
+their military defeat. The use of force by a United Nations peacekeeping 
+operation should always be calibrated in a precise, proportional and appro-
+priate manner, within the principle of the minimum force necessary to 
+achieve the desired effect, while sustaining consent for the mission and its 
+mandate. In its use of force, a United Nations peacekeeping operation should 
+always be mindful of the need for an early de-escalation of violence and a 
+return to non-violent means of persuasion.
+The use of force by a United Nations peacekeeping operation always has 
+political implications and can often give rise to unforeseen circumstances. 
+Judgments concerning its use will need to be made at the appropriate level 
+within a mission, based on a combination of factors including mission capa-
+bility; public perceptions; humanitarian impact; force protection; safety and 
+security of personnel; and, most importantly, the effect that such action will 
+have on national and local consent for the mission. 
+The mission-wide ROE for the military and DUF for the police compo -
+nents of a United Nations peacekeeping operation will clarify the different 
+levels of force that can be used in various circumstances, how each level of 
+force should be used, and any authorizations that must be obtained by 
+commanders. In the volatile and potentially dangerous environments into 
+which contemporary peacekeeping operations are often deployed, these ROE 
+and DUF should be sufficiently robust to ensure that a United Nations peace-
+keeping operation retains its credibility and freedom of action to implement 
+its mandate. The mission leadership should ensure that these ROE and 
+DUF are well understood by all relevant personnel in the mission and are 
+being applied uniformly.
+36 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 3 | 37
+3.2 Other Success Factors 
+United Nations peacekeeping operations continue to be guided by the basic 
+principles of consent, impartiality and the non-use of force except in self-
+defense and defense of the mandate. The experiences of the past 15 years 
+have shown that in order to succeed, United Nations peacekeeping opera-
+tions must also be perceived as legitimate and credible, particularly in the 
+eyes of the local population. The United Nations recent experience with 
+multi-dimensional peacekeeping has also served to highlight the need for 
+United Nations peacekeeping operations to promote national and local 
+ownership, in order to contribute to the achievement of a sustainable peace.
+Legitimacy. International legitimacy is one of the most important assets of 
+a United Nations peacekeeping operation. The international legitimacy of 
+a United Nations peacekeeping operation is derived from the fact that it is 
+established after obtaining a mandate from the United Nations Security 
+Council, which has primary responsibility for the maintenance of interna-
+tional peace and security. The uniquely broad representation of Member 
+States who contribute personnel and funding to United Nations operations 
+further strengthens this international legitimacy. So too does the fact that 
+United Nations peacekeeping operations are directed by the United Nations 
+Secretary-General, an impartial and well-respected international figure, 
+committed to upholding the principles and purposes of the Charter.
+The manner in which a United Nations peacekeeping operation conducts 
+itself may have a profound impact on its perceived legitimacy on the ground. 
+The firmness and fairness with which a United Nations peacekeeping opera-
+tion exercises its mandate, the circumspection with which it uses force, the 
+discipline it imposes upon its personnel, the respect it shows to local cus -
+toms, institutions and laws, and the decency with which it treats the local 
+people all have a direct effect upon perceptions of its legitimacy.
+The perceived legitimacy of a United Nations peacekeeping operation is 
+directly related to the quality and conduct of its military, police and civilian 
+personnel. The bearing and behavior of all personnel must be of the highest 
+order, commensurate with the important responsibilities entrusted to a 
+United Nations peacekeeping operation, and should meet the highest stan-
+dards of efficiency, competence and integrity. The mission’s senior leader-
+ship must ensure that all personnel are fully aware of the standards of 
+conduct that are expected of them and that effective measures are in place to 
+prevent misconduct. Civilian, police and military personnel should receive 
+mandatory training on sexual exploitation and abuse; and this training 
+should be ongoing, as troops rotate in and out of peace operations. There 
+must be zero tolerance for any kind of sexual exploitation and abuse, and 
+other forms of serious misconduct. Cases of misconduct must be dealt with 
+firmly and fairly, to avoid undermining the legitimacy and moral authority 
+of the mission. 
+Experience has shown that the perceived legitimacy of a United Nations 
+peacekeeping operation’s presence may erode over time, if the size of the 
+United Nations “footprint” and the behavior of its staff becomes a source of 
+local resentment; or if the peacekeeping operation is not sufficiently respon-
+sive as the situation stabilizes. Peacekeeping missions must always be aware 
+of and respect national sovereignty. As legitimate and capable government 
+structures emerge, the role of the international actors may well need to 
+diminish quickly. They should seek to promote national and local ownership, 
+be aware of emerging local capacities, and be sensitive to the effect that the 
+behavior and conduct of the mission has upon the local population. 
+Credibility. United Nations peacekeeping operations are frequently deployed 
+in volatile, highly stressed environments characterized by the collapse or 
+degradation of state structures, as well as enmity, violence, polarization and 
+distress. Lawlessness and insecurity may still be prevalent at local levels, 
+and opportunists will be present who are willing to exploit any political 
+and security vacuum. In such environments, a United Nations peacekeep-
+ing operation is likely to be tested for weakness and division by those whose 
+interests are threatened by its presence, particularly in the early stages of 
+deployment.
+38 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I CHAPTER 3 | 39
+The credibility of a United Nations peacekeeping operation is a direct reflec-
+tion of the international and local communities’ belief in the mission’s ability 
+to achieve its mandate. Credibility is a function of a mission’s capability, 
+effectiveness and ability to manage and meet expectations. Ideally, in order 
+to be credible, a United Nations peacekeeping operation must deploy as 
+rapidly as possible, be properly resourced, and strive to maintain a confi -
+dent, capable and unified posture. Experience has shown that the early 
+establishment of a credible presence can help to deter spoilers and diminish 
+the likelihood that a mission will need to use force to implement its man -
+date. To achieve and maintain its credibility, a mission must therefore have 
+a clear and deliverable mandate, with resources and capabilities to match; 
+and a sound mission plan that is understood, communicated and impartially 
+and effectively implemented at every level.
+The deployment of a United Nations peacekeeping operation will generate 
+high expectations among the local population regarding its ability to meet 
+their most pressing needs. A perceived failure to meet these expectations, 
+no matter how unrealistic, may cause a United Nations peacekeeping opera-
+tion to become a focus for popular dissatisfaction, or worse, active opposition. 
+The ability to manage these expectations throughout the life of a peacekeep-
+ing operation affects the overall credibility of the mission. Credibility, once 
+lost, is hard to regain. A mission with low credibility becomes marginalized 
+and ineffective. Its activities may begin to be perceived as having weak or 
+frayed legitimacy and consent may be eroded. Critics and opponents of 
+the mission may well exploit any such opportunities to this end. The loss 
+of credibility may also have a direct impact on the morale of the mission 
+personnel, further eroding its effectiveness. Accordingly, the maintenance 
+of credibility is fundamental to the success of a mission. 
+Promotion of national and local ownership. Multi-dimensional United 
+Nations peacekeeping operations are increasingly involved in efforts to help 
+countries emerging from protracted internal conflict re-build the foundations 
+of a functioning State. The terms of the peace process and/or the Security 
+Council mandate will shape the nature of a peacekeeping operation’s role 
+in this area. In some instances, state and local capacity may be so weak that 
+the mission is required to temporarily assume certain functions, either directly , 
+as in the case of transitional administration, or in support of the State. Other 
+situations require less intrusive support to state authority, and sometimes 
+no such support at all. The nature and scale of a particular United Nations 
+peacekeeping operation’s role will depend on its mandate, the gravity of the 
+situation on the ground, the resources the international community is will-
+ing to invest and an assessment of the availability of capable, credible and 
+legitimate partners within the host nation. Each of these variables may change 
+during the course of a United Nations peacekeeping operation’s lifetime and 
+require adjustments in the peacekeeping operation’s approach.
+National and local ownership is critical to the successful implementation of 
+a peace process. In planning and executing a United Nations peacekeeping 
+operation’s core activities, every effort should be made to promote national 
+and local and ownership and to foster trust and cooperation between national 
+actors. Effective approaches to national and local ownership not only rein-
+force the perceived legitimacy of the operation and support mandate imple-
+mentation, they also help to ensure the sustainability of any national capacity 
+once the peacekeeping operation has been withdrawn.
+Partnerships with national actors should be struck with due regard to impar-
+tiality , wide representation, inclusiveness, and gender considerations. Missions 
+must recognize that multiple divergent opinions will exist in the body poli-
+tic of the host country. All opinions and views need to be understood, ensur-
+ing that ownership and participation are not limited to small elite groups. 
+National and local ownership must begin with a strong understanding of 
+the national context. This includes understanding of the political context, as 
+well as the wider socio-economic context. 
+A mission must be careful to ensure that the rhetoric of national ownership 
+does not replace a real understanding of the aspirations and hope of the 
+population, and the importance of allowing national capacity to re-emerge 
+quickly from conflict to lead critical political and development processes.
+40 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I ENDNOTES | 41
+The mission will need to manage real tensions between the requirement, 
+in some instances, for rapid transformational change from the status quo ex 
+ante, and resistance to change from certain powerful actors who have a 
+vested interest in maintaining the status quo. The ownership of change 
+must be built, first, through dialogue. Political, financial and other forms 
+of international leverage may be required to influence the parties on specific 
+issues, but those should only be used in support of the wider aspirations 
+for peace in the community.
+The activities of a multi-dimensional United Nations peacekeeping opera-
+tion must be informed by the need to support and, where necessary, build 
+national capacity. Accordingly, any displacement of national or local capacity 
+should be avoided wherever possible. A multi-dimensional United Nations 
+peacekeeping operation may be obliged, in the short-term, to take on impor-
+tant state-like functions, such as the provision of security and the mainte -
+nance of public order. However, these functions should be conducted in a 
+consultative manner. The aim must always be to restore, as soon as possible, 
+the ability of national actors and institutions to assume their responsibili -
+ties and to exercise their full authority, with due respect for internationally 
+accepted norms and standards. In building national capacity, women and 
+men should have equal opportunities for training. Targeted efforts may need 
+to address gender inequalities. 
+1 Although the United Nations Charter gives primary responsibility to the Security Council for the 
+maintenance of international peace and security, General Assembly resolution 377 (V) of 3 November 
+1950, also known as the “Uniting for Peace” resolution, states that: 
+“. . . if the Security Council, because of lack of unanimity of the permanent members, fails to exercise its pri -
+mary responsibility for the maintenance of international peace and security in any case where there appears to 
+be a threat to the peace, breach of the peace, or act of aggression, the General Assembly shall consider the matter 
+immediately with a view to making appropriate recommendations to Members for collective measures, includ -
+ing in the case of a breach of the peace or act of aggression, the use of armed force when necessary, to maintain 
+or restore international peace and security.” 
+General Assembly resolution 1000 (ES-1) of 5 November 1956 authorizing the establishment of the 
+First United Nations Emergency Force (UNEF I) was adopted under procedure established by the 
+“Uniting for Peace” resolution.
+2 It is widely recognized that the international community’s objectives in countries emerging from 
+conflict will be better served if women and girls are protected and if arrangements are put in place 
+to allow for the full participation of women in the peace process. Security Council resolution 1325 
+(2000) on women, peace and security therefore calls on all United Nations peacekeeping operations 
+to mainstream gender issues into operational activities. 
+3 Security Council resolution 1612 (2005) stresses the responsibility of United Nations peacekeeping 
+operations to ensure a coordinated response to children and armed conflict concerns and to monitor 
+and report to the Secretary-General. Under resolution 1612 (2005) the Secretary-General is required 
+to ensure that the need for, and the number and roles of Child Protection Advisers are systemati -
+cally assessed during the preparation of each United Nations peacekeeping operation . In United 
+Nations peacekeeping operations where there are country monitoring and reporting Task Forces on 
+CAAC, these are headed by the Special Representative of the Secretary-General (SRSG). 
+4 Security Council resolution 1674 (2006) reaffirms the Council’s commitment to ensuring that the 
+mandates of peacekeeping operations, where appropriate and on a case-by-case basis, include pro -
+visions regarding: (i) the protection of civilians, particularly those under imminent threat of physical 
+danger within their zones of operation, (ii) the facilitation of the provision of humanitarian assis -
+tance, and (iii) the creation of conditions conducive to the voluntary, safe, dignified and sustainable 
+return of refugees and internally displaced persons.
+Endnotes
+42 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I ENDNOTES | 43
+5 In most post-conflict environments, a peace accord or other agreement, such as a cease-fire agreement 
+or agreement on disengagement of forces, is likely to be in effect and include provisions directly 
+related to the peacekeeping operation. The peace accord may be quite detailed, spelling out the 
+various phases of the peace process and the specifics of post-conflict arrangements. Or, it could be 
+more general, leaving details for future negotiation. The signatories to a peace agreement have an 
+obligation to abide by the terms of the agreement. In certain cases, the United Nations or key Member 
+States have also signed peace agreements as guarantors, who undertake to ensure that the peace pro-
+cess remains on track.
+6 Even if the clearance of landmines and other explosive remnants of war (ERW) has not been explic -
+itly mandated by the Security Council, humanitarian mine action activities will invariably need to be 
+undertaken by a mission, as an issue of United Nations staff safety and security. 
+7 The United Nations High Commissioner for Refugees (UNHCR), the United Nations Children’s Fund 
+(UNICEF), and the Office of the High Commissioner for Human Rights (OHCHR) have express pro -
+tection mandates. In an increasing number of countries, one of these agencies will be responsible for 
+the overall coordination of the protection response among humanitarian actors through a dedicated 
+protection “cluster” or working group. The Mine Action Service of DPKO is also designated as the 
+focal point for mine action within the Protection Cluster Working Group (PCWG), and is actively 
+engaged with these agencies and partners.
+8 See Secretary-General’s Note of Guidance on Integrated Missions, clarifying the Role, Responsibility 
+and Authority of the Special Representative of the Secretary-General and the Deputy Special Repre -
+sentative of the Secretary-General/Resident Coordinator/Humanitarian Coordination, 17 January 
+2006.
+9 See para. 5 of the Secretary-General’s Note of Guidance on Integrated Missions.
+10 See Secretary-General’s Note of Guidance on Integrated Missions, para. 22 .
+11 See Report of the Secretary-General, No Exit without Strategy: Security Council Decision-making 
+and the Closure or Transition of United Nations Peacekeeping Operations, S/ 2001/394.
+12 According to Decision No. 2006/47 of the Secretary General’s Policy Committee, the rule of law in 
+the context of conflict and post-conflict settings includes the following sectors: transitional justice; 
+strengthening of national justice systems and institutions, including police and law enforcement 
+agencies and prisons; and other priority areas such as victim and witness protection and assistance, 
+anti-corruption, organized crime, trans-national crime, and trafficking and drugs.
+13 According to Decision No. 2007/11 of the Secretary-General’s Policy Committee: “The objective of a 
+United Nations approach to SSR is effective, accountable and sustainable security institutions oper -
+ating under civilian control within the framework of the rule of law and respect for human rights. 
+The focus should be on executive security agencies, armed forces, police and law enforcement agen -
+cies, relevant line ministries and judicial and civil society oversight bodies.” 
+14 The role of United Nations peacekeeping operations in this area is defined in the United Nations 
+Integrated DDR Standards (IDDRS), available at www.unddr.org/iddrs.
+15 The United Nations Mine Action Service (UNMAS) is responsible for building the capacity of the 
+national institutions that will ultimately assume responsibility for long-term mine action manage -
+ment within the country. 
+16 Decision No. 2005/24 of the Secretary-General’s Policy Committee on Human Rights in Integrated 
+Missions directs that human rights be fully integrated into peace operations and all human rights 
+functions coordinated by one component.
+17 The Office of the High Commissioner for Human Rights (OHCHR) is responsible for providing exper-
+tise, guidance and support to the human rights components of multi-dimensional United Nations 
+peacekeeping operations. 
+18 Depending on the situation, and when specifically requested by the relevant organizations, the 
+peacekeeping operation may also need to provide more direct forms of assistance to humanitarian 
+actors, such as escorting convoys or transporting humanitarian aid and personnel. Specific requests 
+for assistance should be managed through standing coordination structures of the mission, and with 
+reference to the United Nations Humanitarian Coordinator. 
+19 The term ‘humanitarian’ is often applied loosely to a wide group of actors and activities, whereas 
+many in the humanitarian community take a more restricted interpretation to embrace only those 
+delivering life-saving assistance delivered in accordance with the Humanitarian principles. United 
+Nations peacekeepers should respect this distinction.
+20 The Security Council may take enforcement action without the consent of the main parties to the 
+conflict, if it believes that the conflict presents a threat to international peace and security. This, 
+however, would be a peace enforcement operation. It may also take enforcement action for humani -
+tarian or protection purposes; where there is no political process and where the consent of the major 
+parties may not be achievable, but where civilians are suffering. Since the mid- 1990s, enforcement 
+action has been carried out by ad hoc coalitions of Member States or regional organizations acting 
+under United Nations Security Council authorization. 
+21 Spoilers are individuals or parties who believe that the peace process threatens their power and 
+interests, and will therefore work to undermine it. 
+22 Humanitarian actors also use the terms impartiality and neutrality as two of the fundamental prin -
+ciples of humanitarian action, along with humanity and independence. However, their meanings 
+are different. It is important to be aware of these differences, in order to avoid misunderstandings. 
+For the International Red Cross and Red Crescent Movement, in particular, impartiality means being 
+guided solely by needs, making no discrimination on the basis of nationality, race, gender, class, or 
+religious/political beliefs; while neutrality means to take no sides in hostilities or engage, at any 
+time, in controversies of a political, racial, religious or ideological nature.
+23 See para. 5 of the Report of the Secretary–General on the Implementation of Security Council resolu -
+tion 340 (1973), of 27 October 1973, (S/11052/Rev.1).
+44 | UNITED NATIONS PEACEKEEPING OPERATIONS PART I ENDNOTES | 45
+PART II
+Planning United Nations  
+Peacekeeping Operations
+United Nations peacekeeping operations are likely to be 
+far more effective when deployed as part of a United 
+Nations system-wide response based on a clear and 
+shared understanding of priorities, and on the willing -
+ness of all actors to contribute to achieving common 
+objectives. Integrated planning is at the heart of the 
+United Nations’ efforts to develop such a response.
+46 | UNITED NATIONS PEACEKEEPING OPERATIONS PART II CHAPTER 4 | 47
+4.1 Assessing the Options for United Nations Engagement 
+It is the prerogative of the United Nations Security Council, acting in its 
+capacity as the organ with primary responsibility for the maintenance of 
+international peace and security, to determine when and where a United 
+Nations peacekeeping operation should be deployed. The Security Council 
+responds to crises on a case-by-case basis and it has a wide range of options 
+at its disposal. Nevertheless, without prejudice to its ability to do so and to 
+respond flexibly as circumstances require, the Security Council has indicated 
+that it may take the following factors into account when the establishment of 
+new peacekeeping operations is under consideration:
+ Whether a situation exists the continuation of which is likely to endanger 
+or constitute a threat to international peace and security;
+ Whether regional or sub-regional organizations and arrangements exist 
+and are ready and able to assist in resolving the situation;
+ Whether a cease-fire exists and whether the parties have committed them-
+selves to a peace process intended to reach a political settlement;
+ Whether a clear political goal exists and whether it can be reflected in the 
+mandate;
+ Whether a precise mandate for a United Nations operation can be  
+formulated;
+Chapter 4 
+Deciding to Deploy a United Nations  
+Peacekeeping Operation
+Chapter 5 
+Planning a United Nations Peacekeeping Operation
+Deciding to Deploy a United Nations  
+Peacekeeping Operation
+Chapter 4
+48 | UNITED NATIONS PEACEKEEPING OPERATIONS PART II CHAPTER 4 | 49
+ Whether the safety and security of United Nations personnel can be 
+reasonably ensured, including in particular whether reasonable guar -
+antees can be obtained from the principal parties or factions regarding 
+the safety and security of United Nations personnel.
+1
+The United Nations Secretariat plays a critical role in helping the Security 
+Council determine whether the deployment of a United Nations peacekeep-
+ing operation is the most appropriate course of action, or whether other 
+options for United Nations engagement should be considered. As a particu-
+lar conflict develops, worsens, or approaches resolution, consultations will 
+normally take place among Member States, the Secretariat, the parties on 
+the ground, regional actors, and potential contributing countries. One or 
+more of the parties may even insist on a United Nations role as a precondi-
+tion for signing a peace agreement. 
+During this initial phase of consultations, the United Nations Secretary-
+General may decide to convene a Strategic Assessment of the situation, involv-
+ing all relevant United Nations actors, with the aim of identifying possible 
+options for United Nations engagement. The Strategic Assessment would 
+likely involve consultations with Member States, including the potential 
+host government and TCCs/PCCs, as well as regional and other intergov-
+ernmental organizations, and other key external partners. The Strategic 
+Assessment allows United Nations planners and decision-makers to con -
+duct a system-wide analysis of the situation, identify conflict resolution and 
+peace-building priorities, and define the appropriate framework for United 
+Nations engagement. 
+As soon as security conditions permit, the Secretariat usually deploys a 
+Technical Assessment Mission (TAM) to the country or territory where the 
+deployment of a United Nations mission is envisaged. The role of the TAM 
+is to analyze and assess the overall security, political humanitarian, human 
+rights and military situation on the ground, and the implications of an 
+eventual United Nations peacekeeping operation. As such, the TAM may 
+also consist of representatives from several departments and offices with-
+in the Secretariat, as well as the specialized agencies, funds and programs, 
+and should involve relevant actors from the UNCT.
+Based on the findings and recommendations of the TAM, the United Nations 
+Secretary-General normally issues a report to the Security Council, recom-
+mending options for the possible establishment of a United Nations peace-
+keeping operation, including its size and resources. The Security Council 
+may then pass a resolution authorizing the United Nations peacekeeping 
+operation’s deployment and determining its size and mandate.
+4.2 Key Lessons for Planners and Decision Makers
+Pressures to halt the slaughter of civilians or avert a humanitarian catas -
+trophe may lead the Security Council to deploy a United Nations peace -
+keeping operation in circumstances that are far from ideal. Nevertheless, 
+the Secretariat has a responsibility to provide the Security Council with an 
+accurate assessment of the risks associated with its decision to deploy a 
+United Nations peacekeeping operation, and ensure that its mandate and 
+capabilities are tailored to the requirements of the situation. The lessons 
+learned over the past six decades indicate that a United Nations peacekeeping 
+operation is unlikely to succeed when one or more of the following condi-
+tions are not in place.
+A peace to keep. A United Nations peacekeeping operation can only succeed 
+if the parties on the ground are genuinely committed to resolving the con-
+flict through a political process. A United Nations peacekeeping operation 
+deployed in the absence of such a commitment runs the risk of becoming 
+paralyzed or, worse still, being drawn into the conflict. The signing of a 
+cease-fire or peace agreement is an important indicator of whether or not 
+the parties are ready to engage in a political dialogue. However, the signing 
+of a cease-fire or peace agreement may not always translate into a genuine 
+commitment to peace, particularly if the parties have done so as a result of 
+international pressure.
+50 | UNITED NATIONS PEACEKEEPING OPERATIONS PART II CHAPTER 4 | 51
+Judging the parties’ real intentions is never easy and the deployment of a 
+United Nations peacekeeping operation always entails an element of risk. 
+Nevertheless, in gauging the parties’ level of commitment to a peace pro-
+cess, the Secretariat should always be prepared to tell the Security Council 
+what it needs to know, rather than what it may want to hear. If the parties 
+do not appear committed to resolving their differences through peaceful 
+means, the Security Council should be encouraged to explore the full range 
+of options at its disposal, such as the deployment of an advance mission, or 
+the reinforcement of mediation and other peacemaking efforts. 
+Positive regional engagement. Many of the crises before the Security Coun-
+cil are regional in character. Rarely can the problems in one state be treated 
+in isolation from its neighbours. The attitude of neighbouring states can be 
+as important a factor in determining the viability of a peace process, as the 
+commitment of the local parties, some of whom may even be acting as prox-
+ies for neighbouring states. The role regional actors or organizations may be 
+playing in the conflict must be carefully examined by the Secretariat and the 
+Security Council when the establishment of a United Nations peacekeep -
+ing operation is under consideration. A managed, positive and supportive 
+regional engagement strategy can pay enormous dividends in encouraging 
+the parties to stay the course and prevent the spread of conflict. To exclude 
+regional actors from the peace process may have a more detrimental effect 
+than managing their participation.
+The full backing of a united Security Council. While the establishment 
+of a United Nations peacekeeping operation only requires nine votes from 
+the Security Council’s fifteen members, anything other than unanimous 
+Security Council backing can be a serious handicap. Divisions within the 
+Security Council are likely to send mixed messages to the parties, and may 
+undermine the legitimacy and authority of the mission in the eyes of the 
+main parties and the population as a whole. Any perception that the Secu-
+rity Council is not fully committed to the implementation of a peace agree-
+ment is likely to embolden spoilers at both the local and regional levels, as 
+well as hamper contributions from Member States. On the other hand, by 
+showing the parties that it is actively engaged in the peace process and is 
+determined to stay the course, the Security Council can greatly enhance a 
+United Nations peacekeeping operation’s impact on the ground.
+A clear and achievable mandate with resources to match. When the Secu-
+rity Council decides to deploy a United Nations peacekeeping operation, the 
+Secretariat must help to ensure that the mandate is clear and achievable. 
+Since the credibility of a United Nations peacekeeping operation is depend-
+ent on it being able to carry out its mandated tasks, it is important to ensure 
+that the mandate reflects the level of resources that contributing nations are 
+able and willing to provide. There must be reason to believe that Member 
+States will be ready to finance the operation, to contribute the necessary 
+military and police personnel and to provide it with political support, on a 
+continuing basis. If the situation on the ground requires the deployment of 
+capabilities that a United Nations peacekeeping operation is unlikely to have, 
+the Security Council should be encouraged to consider alternative options. 
+The deployment of a United Nations peacekeeping operation is just the start 
+of a long-term, but volatile peace and capacity-building process. In recom-
+mending to the Security Council the resources and capabilities needed for 
+the peacekeeping operation, the Secretariat and its partners should also 
+conduct a rigorous assessment of the requirements for longer-term engage-
+ment. In conducting this assessment, worst case scenarios should be examined 
+as an aid in planning. Planning based solely on short-term engagement and 
+best case scenarios has rarely proven to be a successful basis for the deploy-
+ment of a United Nations peacekeeping mission and should be avoided. 
+If changing circumstances on the ground warrant an adjustment to a mis -
+sion’s mandate, this should be done explicitly on the basis of an objective 
+re-evaluation of the United Nations role. If a change in mandate entails a 
+significant increase in the number, scope or complexity of the tasks assigned 
+to a mission, the Secretariat should seek the necessary additional resources 
+to match a revised mandate. Similarly, if the mission’s role is augmented or 
+diminished, then the types and amount of resources required should also 
+be adjusted.
+52 | UNITED NATIONS PEACEKEEPING OPERATIONS PART II CHAPTER 5 | 53
+4.3 The Importance of Consultations with  
+Contributing Countries
+The United Nations has no standing army or police force. For every new 
+United Nations peacekeeping operation, the Secretariat must seek contribu-
+tions of military, police and other personnel from Member States who are 
+under no obligation to provide them. Sustained consultations with TCCs/
+PCCs and other contributing countries at all stages of the planning and 
+decision-making process are therefore critical to the success of any United 
+Nations peacekeeping operation. 
+Consultations with TCCs/PCCs may take several forms and should be held 
+at all key stages in the life of a United Nations peacekeeping operation, 
+including: a) the development of the concept of operations and the elabora-
+tion of the mandate of a new operation; b) any change in the mandate, in 
+particular the broadening or narrowing of the scope of the mission, the 
+introduction of new or additional functions or components, or a change in 
+the authorization to use force; c) the renewal of the mandate; d) significant 
+or serious political, military or humanitarian developments; e) a rapid dete-
+rioration of the security situation on the ground; f) the termination, with -
+drawal or scaling down in size of the operation, including the transition from 
+peacekeeping to post-conflict peacebuilding; and g) before and after Secu-
+rity Council missions to a specific peacekeeping operation.
+2
+Since United Nations peacekeeping operations would not be possible with-
+out the participation of contributing countries, it is critical that every effort 
+be made to ensure that they are fully consulted on any decisions that may 
+affect their personnel on the ground. Additionally, regular consultations 
+with contributing countries provide the Secretariat with a valuable opportu-
+nity to consider their views on a range of strategic and operational issues. 
+Planning a United Nations  
+Peacekeeping Operation
+Chapter 5
+5.1 The Integrated Approach
+As discussed in Chapter 2, United Nations peacekeeping began during the 
+Cold War as a tool for managing inter-state conflicts. Since then, a new gen-
+eration of multi-dimensional United Nations peacekeeping operations has 
+emerged. These multi-dimensional United Nations peacekeeping operations 
+are deployed as one part of a broader international effort to assist countries 
+making the transition from conflict to sustainable peace. 
+Successful recovery from conflict requires the engagement of a broad range 
+of actors – including the national authorities and the local population – in 
+a long-term peacebuilding effort. The rationale for the integration of activi-
+ties undertaken by the United Nations is to better assist countries to make 
+this transition from conflict to sustainable peace. A multi-dimensional United 
+Nations peacekeeping operation is likely to be far more effective when it is 
+deployed as part of a United Nations system-wide response based on a clear 
+and shared understanding of priorities, and on a willingness on the part 
+of all United Nations actors to contribute to the achievement of common 
+objectives. Integrated planning is at the heart of the United Nations efforts 
+to develop such a response.
+An integrated mission is one in which there is a shared vision among all 
+United Nations actors as to the strategic objectives of the United Nations 
+presence at the country-level. This strategy should reflect a shared under-
+54 | UNITED NATIONS PEACEKEEPING OPERATIONS PART II CHAPTER 5 | 55
+standing of the operating environment and agreement on how to maximize 
+the effectiveness, efficiency, and impact of the United Nations overall re -
+sponse. Structural or programmatic integration between United Nations 
+actors must be driven by an assessment of whether or not it will add real 
+value and improve the impact of the United Nations engagement. An inte-
+grated mission’s structure should be derived from an in-depth apprecia -
+tion of the specific country setting and an honest assessment of the United 
+Nations capacities to respond effectively. It should be driven by the United 
+Nations strategy for that country and the resources available to the United 
+Nations. 
+Integrated planning may, at times, appear to slow the deployment of a 
+United Nations peacekeeping operation. Therefore, a balance must be struck 
+between the need to ensure that developmental, human rights, gender and 
+other perspectives are fully taken into account, and the need to deliver a 
+timely and effective humanitarian and security response. Finding such a 
+balance is not easy and requires cooperation, coordination and communi -
+cation. Ultimately, integrated planning helps to ensure that all the actors 
+in the United Nations system, when deployed in the field, are pointing in 
+the same direction.
+Forcing integration where it is not needed may well be counter-productive. 
+Chapter 7 provides more detail on managing integrated missions in the 
+field. In situations where there is little or no peace to keep, integration may 
+create difficulties for humanitarian and development partners, particularly 
+if they are perceived to be too closely linked to the political and security 
+objectives of the peacekeeping mission. In the worst case, integration may 
+endanger their operations and the lives of their personnel. Integrated plan-
+ning should also bear these worse case scenarios in mind and ensure appro-
+priate dialogue, communication and contingency planning. 
+5.2 The Integrated Mission Planning Process (IMPP) 
+The United Nations has adopted an Integrated Mission Planning Process 
+(IMPP) to facilitate the planning of multi-dimensional United Nations peace-
+keeping operations. 3 The IMPP is intended to help the United Nations 
+system arrive at a common understanding of its strategic objectives in a 
+particular country by engaging all relevant parts of the United Nations sys-
+tem. It aims to ensure that the right people are at the planning table, that 
+the right issues are being discussed, and that the appropriate authorities and 
+accountabilities are in place to motivate integrated thinking and planning. 
+Full application of the IMPP may not always be necessary or feasible since 
+the deployment of an integrated mission is just one among a range of pos-
+sible options for United Nations engagement. Nevertheless, even in situa-
+tions requiring a more traditional United Nations peacekeeping response, 
+every effort should be made to ensure that planning is conducted in close 
+coordination with relevant United Nations system partners and other key 
+stakeholders. 
+The IMPP should be driven by a realistic assessment of existing capacities 
+at country-level, in order to avoid duplication of effort and ensure the most 
+efficient use of the United Nations limited resources. Any plans based on 
+overly ambitious, unfunded or aspirational capacities must be carefully 
+scrutinized at this stage to avoid unrealistic planning assumptions. The 
+UNCT should, therefore, be involved in the IMPP from the outset and con-
+tinue to play an active role in planning efforts within the context of an inte-
+grated mission. These considerations should be factored into the IMPP and 
+reflected in the accompanying budgetary process. 
+The IMPP does not and cannot take over all other planning processes. The 
+number of international and national actors involved in efforts to support 
+the process of post-conflict recovery means that, in practice, planning can-
+not always be fully coherent or integrated. These actors have different 
+roles, decision-making processes, deployment time-lines, procedures, budget-
+ary pressures and supervising authorities. However, the IMPP does provide
+56 | UNITED NATIONS PEACEKEEPING OPERATIONS PART II ENDNOTES | 57
+an inclusive framework to engage external partners, such as the International 
+Financial Institutions (IFIs), regional organizations or bilateral donors. The 
+cooperation of such external partners is necessary for the United Nations to 
+achieve its broader objectives. 
+Peacekeeping planners need to be aware of the other assessment and plan-
+ning processes that may be going on alongside the IMPP and actively seek to 
+create substantive linkages between them wherever possible. Such processes 
+include the Consolidated Humanitarian Appeal (CHAP)/Consolidated Appeal 
+(CAP), Common Country Assessment (CCA)/UN Development Assistance 
+Framework (UNDAF), Joint Assessment Missions (JAM)/Post-Conflict Needs 
+Assessments (PCNA) and Poverty Reduction Strategy Papers (PRSP). The 
+IMPP should draw on and capture any elements contained in these parallel 
+planning frameworks that are relevant to the achievement of the United 
+Nations overall strategic objectives. Development of these linkages will help 
+prevent circumstances in which uncoordinated initiatives create friction 
+and spark conflict among the many actors.
+The IMPP should be seen as a dynamic, continuous process allowing for 
+activities and objectives to be revised, as the mission’s understanding of its 
+operational environment grows and as that environment itself changes. 
+Significant developments at the country level – for example following na -
+tional elections, or a changed political, security or humanitarian situation 
+– may require a change in the United Nations strategic objectives, or a recon-
+figuration of the overall role and/or capabilities of the United Nations peace-
+keeping operation. Such a revision may also be requested by the United 
+Nations Security Council. In such situations, the SRSG/HOM will be re -
+sponsible for revising the strategic framework guiding the United Nations 
+system’s activities on the ground as the basis for the Secretary-General’s 
+report to the Security Council, which is ultimately responsible for deciding 
+whether the mission’s mandate should be revised. 
+1 Statement by the President of the Security Council S/PRST/ 1994/22, of 3 May 1994.
+2 Security Council resolution 1353 (2001), of 13 June 2001, on Measures for Cooperation with Troop 
+Contributing Countries 
+3 The IMPP was formally endorsed through a decision of the Secretary–General’s Policy Committee, 
+on 13 June 2006. A comprehensive set of implementation guidelines for the IMPP are currently under 
+development, in coordination with field missions and Headquarters planners.
+Endnotes
+58 | UNITED NATIONS PEACEKEEPING OPERATIONS PART II ENDNOTES | 59
+PART III
+The Art of Successful  
+Mandate Implementation
+The arrangements for directing and managing modern 
+United Nations peacekeeping operations are distinct 
+from those of other organizations, particularly those only 
+deploying a military capability. United Nations peace -
+keeping has evolved into a complex, multi-dimensional 
+enterprise, involving personnel from a wide range of 
+nationalities, disciplines and professional cultures  
+pursuing multiple lines of activity.
+60 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 6 | 61
+6.1 Typical Phases of Deployment 
+Part III of this document addresses some of the major challenges facing 
+United Nation peacekeeping operations during the various phases of deploy-
+ment. Although the trajectory of each United Nations peacekeeping opera-
+tion evolves differently , for planning purposes the lifecycle of a United Nations 
+peacekeeping operation can be divided into the following broad phases, 
+shown simplistically in Figure 3 below:
+ Mission Start-Up
+ Mandate Implementation
+ Transition (hand-over, withdrawal and liquidation)
+In general, the scale and tempo of operations rise steadily during initial 
+deployment and start-up, reaching a plateau during mandate implementa-
+tion, and finally tapering off once hand-over and withdrawal begin. Although 
+they are conceptually distinct, the various phases of the mission lifecycle 
+may overlap. There will also be spikes of activity during implementation as 
+critical milestones and tasks are achieved, for example, during a large DDR 
+programme, or during the period leading up to an election, or the critical 
+months and years following formation of a government. 
+Each phase of deployment presents its own specific challenges. During start-
+up, the mission strives to reach an initial operating capability (IOC), and 
+Chapter 6 
+Deployment and Start-Up of United Nations 
+Peacekeeping Operations
+Chapter 7 
+Managing United Nations Peacekeeping Operations
+Chapter 8
+Supporting and Sustaining United Nations  
+Peacekeeping Operations
+Chapter 9 
+Maintaining Support for the Mission 
+Chapter 10 
+Transition and Exit
+Deployment and Start-Up of United Nations 
+Peacekeeping Operations
+Chapter 6
+62 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 6 | 63
+eventually a full operating capability (FOC) so that mandate implementa-
+tion can begin in all areas of deployment. During the implementation phase, 
+efforts are focused on carrying out the tasks set out in the Security Council 
+mandate and achieving the objectives set out in the mission plan. The pro-
+cess of handover, withdrawal and liquidation begins following a decision 
+by the Security Council. It involves the departure of mission personnel follow-
+ing the hand-over of all remaining tasks to partners, and the final disposal 
+of mission assets and infrastructure in accordance with United Nations rules.
+The remainder of this chapter describes the United Nations mission deploy-
+ment and start-up concept, and the challenges associated with managing 
+the mission start-up process. Chapters 7, 8 and 9 describe the challenges of 
+managing, supporting and sustaining large integrated missions, as well as 
+managing their impact on the host country. Finally, Chapter 10 turns to the 
+challenges of transition, hand-over to partner organizations and withdrawal.
+6.2 The Mission Start-Up Process
+The first months after a cease-fire or peace accord are often the most criti -
+cal for establishing a stable peace and bolstering the credibility of a new 
+operation. Opportunities lost during this period are hard to regain. The 
+General Assembly has thus endorsed a requirement to be able to establish 
+a traditional peacekeeping mission within 30 days and a multi-dimensional 
+mission within 90 days of the authorization of a Security Council mandate. 
+In reality, there is no set sequence of events for establishing a United Nations 
+peacekeeping operation. The lead time required to deploy a mission varies 
+and depends on a number factors, particularly the will of Member States to 
+contribute troops and police to a particular operation, and the availability 
+of financial and other resources. For missions with highly complex man -
+dates or difficult logistics, or where peacekeepers face significant security 
+risk, it may take several weeks or even months to assemble and deploy the 
+necessary elements. The 90-day timeline for deploying the first elements 
+of a multi-dimensional United Nations peacekeeping operation is, thus, a 
+notional target.
+The term ‘mission start-up’ is used to describe the earliest phase of estab-
+lishing a mission in the field. During mission start-up, the main priority is to 
+bring internal mission processes, structures and services to an initial level 
+of operating capability so that mandate implementation can begin across the 
+mission area.
+As shown in Figure 4, the mission start-up process covers several notional 
+stages, even though these may overlap in practice, as follows:
+ Pre-deployment is largely a Headquarters responsibility and involves 
+many tasks such as the United Nations budgetary process, pre-deployment 
+visits to TCCs/PCCs to assess readiness, the negotiation of a Status of 
+Mission/Status of Forces Agreements (SOMA/SOFA), the mobilization 
+of Strategic Deployment Stocks (SDS), and the tendering of major sup-
+ply and service contracts for the mission; 
+ Rapid deployment involves the deployment of a small advance team to 
+commence the establishment of mission premises and other prerequi -
+site infrastructure and administrative systems, to allow for the reception 
+of larger numbers of staff and contingents as start-up progresses; 
+Figure 3 Typical Phases of Deployment
+Rapid deployment
+Mission Start-up
+Withdrawal/  
+Liquidation
+Transition/Hand-over
+Implementation
+64 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 6 | 65
+early weeks, sometimes referred to as a ‘honeymoon period,’ to push ahead 
+political progress with the parties so as to sustain the momentum of the 
+peace process. During this critical phase, it is essential that mission leaders 
+and personnel adhere to the basic principles of United Nations peacekeeping, 
+as outlined in Chapter 3 above, and actively seek to establish the mission’s 
+legitimacy and credibility in the eyes of the parties, the host population and 
+the international community, as a whole.
+Effective leadership and strong managerial skills are at a premium during 
+start-up. If basic systems and procedures are not established early on, this 
+can cause compounding confusion as the mission rapidly expands during 
+start-up. If effective and streamlined institutional processes to control the 
+fragmentation of a large and diverse mission are not installed during the 
+start-up period – such as establishing mission decision-making forums, 
+information sharing and information management protocols, reporting lines, 
+etc. – they will become increasingly difficult to introduce later.
+Leadership and conflict management are essential skills for a mission start-
+up manager. Few , if any , of the mission staff will have worked together before. 
+Peacekeeping personnel will come from diverse national and professional 
+backgrounds (including from significantly different civilian, military and 
+police working cultures) which may cause friction in a pressurized start-up 
+environment. Internal tensions must be managed proactively, during the 
+early months, to minimize misunderstandings and avoid resentments that 
+could pollute staff relations over the long-term. Mission leaders must under-
+score the need for all components to work towards shared objectives under 
+the leadership of a cohesive and collaborative mission leadership team. 
+MHQs Offices
+Field Offices
+Field Offices
+MHQs Offices
+Logistics Hub
+Liaison Offices
+Mission HQs
+Start-Up
+Overall Mission HQs
+IOC Established
+Rapid 
+Deployment
+Pre- 
+Deployment
+RAPID DEPLOYMENT
+FUNCTIONAL/FIELD OFFICE START-UP
+MISSION HQ & MANAGEMENT SYSTEMS START-UP
+PRE-DEPLOYMENT
+Figure 4 The Mission Start-Up Process
+ Mission headquarters start-up is the period when the mission leader -
+ship team arrives, managerial and command and control systems are 
+formed and increasing numbers of substantive and support personnel 
+begin arriving in-mission to help achieve an IOC. It also involves the 
+establishment of liaison offices and logistics hubs, if required;
+ Functional component and field office start-up occurs alongside the 
+establishment of the central structures of mission headquarters and in-
+volves the coordinated establishment of the different substantive civilian, 
+police and military command and managerial capacities. It also involves 
+the start-up of sector headquarters and field offices of the mission.
+6.3 Managing the Mission Start–Up Process
+Mission start-up can be a fast-paced and seemingly chaotic experience. 
+Small numbers of staff are pitted against time to put in place the founda -
+tions of a complex, new mission, often in unknown and volatile operating 
+environments. At the same time, new staff and contingents begin to deploy 
+and begin scoping out initial operations. Mission leaders must also use these
+66 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 7 | 67
+7.1 The Relationship between Headquarters and the Field 
+The arrangements established by the United Nations to direct and manage 
+its peacekeeping operations are distinct from those of other organizations, 
+particularly those only deploying a military capability.
+1 This is largely due 
+to the fact that United Nations peacekeeping has evolved into a complex, 
+multi-dimensional enterprise, involving personnel from a wide range of 
+nationalities, disciplines and professional cultures pursuing multiple lines 
+of activity.
+As depicted in Figure 5, the levels of authority in United Nations peacekeep-
+ing operations are not as clear-cut as they are in military organizations. 
+This difference must be noted when the United Nations is working in the 
+field with partner organizations. 
+Within the United Nations Secretariat, DPKO is responsible for providing 
+United Nations peacekeeping operations with policy guidance and strategic 
+direction, while DFS is responsible for providing logistical and administra-
+tive support. In order to ensure unity of command at the Headquarters 
+level, the Under-Secretary-General for Field Support reports to the Under-
+Secretary-General for Peacekeeping Operations on all peacekeeping related 
+matters. Standing Integrated Operational Teams (IOTs), located within DPKO 
+and managed by the Office of Operations (OO), bring together, in a formal 
+structure, political, military, police and mission support personnel, sup -
+Managing United Nations  
+Peacekeeping Operations
+Chapter 7
+Figure 5 Authority, Command and Control in Multi-dimensional United 
+Nations Peacekeeping Operations
+Civilian units
+Regional Offices
+UN Secretariat
+Component Heads
+Military units Police units
+Security Council
+Secretary-General
+Head of Mission
+Mission Headquarters  
+and Leadership Team
+STRATEGIC
+OPERATIONAL
+TACTICAL
+68 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 7 | 69
+ported by other specialist capacities as required, to provide integrated teams 
+to support missions, and to provide integrated policy advice and guidance 
+for senior DPKO and DFS staff. These teams enable delegation of decision 
+making and increased accountability; and they provide a principal entry 
+point for missions, TCCs/PCCs and partners to engage in the planning and 
+conduct of integrated peacekeeping operations.
+In the field, the Head of Mission (HOM) exercises operational authority over 
+the United Nations peacekeeping operation’s activities, including military, 
+police and civilian resources. In the case of military personnel provided by 
+Member States, these personnel are placed under the operational control 
+of the United Nations Force Commander or head of military component, 
+but not under United Nations command. However, once assigned under 
+United Nations operational control, contingent commanders and their per-
+sonnel report to the Force Commander and they should not act on national 
+direction, particularly if those actions might adversely affect implementa-
+tion of the mission mandate or run contrary to United Nations policies 
+applicable to the mission. Member States may withdraw their contributed 
+personnel from the mission through advice to United Nations Headquarters. 
+In integrated missions, the SRSG/HOM is a civilian who reports to the 
+Secretary-General through the Under-Secretary-General for Peacekeeping 
+Operations at United Nations Headquarters.
+2 Th e  S RS G / H O M  is  gi v en  
+significant delegated authority to set the direction of the mission and to lead 
+its engagement with the political process on the ground. The SRSG/HOM 
+is responsible for coordinating the activities of the entire United Nations 
+system in the field and is assisted in this task by the DSRSG/RC/HC, who 
+is expected to serve as the principal interface with the UNCT.
+The SRSG/HOM and his/her deputies form part of a Mission Leadership 
+Team (MLT). The core membership of the MLT is comprised of the heads 
+of the major functional components of the mission. The MLT is responsible 
+for overseeing the implementation of the mission’s activities. In the absence 
+of a standing “operational headquarters” structure, United Nations Head-
+quarters and the mission headquarters must form a strong and collegial 
+relationship to ensure that the mission can quickly and effectively leverage 
+political support for its operations on the ground. The United Nations Head-
+quarters personnel and the mission’s MLT need to play mutually supporting 
+roles, both in developing a political strategy for the mission and in managing 
+the operations and resources to support that strategy. 
+7. 2 The Challenge of Mission Integration and Coordination
+Integrated missions are designed to facilitate a coherent, system-wide  
+approach to the United Nations engagement in countries emerging from 
+conflict. The United Nations has the unique ability to employ a mix of civil-
+ian, police and military capabilities, under a unified leadership to support 
+a fragile peace process. At the same time, United Nations peacekeeping 
+operations are almost always deployed alongside a variety of external actors, 
+with widely differing mandates, agendas and time horizons. The challenge 
+of managing an integrated mission is thus further compounded by the need 
+to ensure that there is some degree of coordination between the United 
+Nations and the range of non-United Nations actors who are often present 
+in conflict and post-conflict settings.
+In essence, an integrated mission is a strategic partnership between a multi-
+dimensional United Nations peacekeeping operation and the UNCT, under 
+the leadership of the SRSG and the DSRSG/RC/HC. The SRSG is the “the 
+senior United Nations representative in the country” with “overall authority 
+over all the activities of the United Nations” and is responsible for “ensur-
+ing that all the United Nations components in the country pursue a coor -
+dinated and coherent approach.”
+3 The DSRSG/RC/HC is responsible for the 
+coordination of both humanitarian operations and United Nations devel -
+opment operations, and for maintaining links with governments and other 
+parties, donors, and the broader humanitarian and development commu -
+nities for this purpose.
+4
+70 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 7 | 71
+Ultimately, successful integration and coordination requires a high degree of 
+sensitivity to the interests and operating cultures of three broad sets of actors:
+ Mission components
+ UNCT members 
+ External partners
+Integration is more than just a matter of bureaucratic reporting lines. Figure 
+6, below, presents a simplified view of what is, in fact, a highly complex oper-
+ating environment. 
+Integrating the mission’s components. The various components of a United 
+Nations peacekeeping operation – civilian, police, military and support – 
+come under the direct authority of the SRSG/Head of Mission (HOM) and 
+the MLT. In large integrated missions, the MLT is normally supported by 
+the following structures, which are designed to facilitate integration between 
+the mission’s components: 
+ A Joint Operations Centre (JOC) that collates situation reports and opera-
+tional information from all mission sources to provide current situational 
+awareness for the mission. The JOC also acts as a crisis coordination 
+hub.
+5
+ A Joint Mission Analysis Centre (JMAC) that provides integrated analy-
+sis of all-sources of information to assess medium- and long-term threats 
+to the mandate and to support MLT decision-making.
+ An Integrated Support Service (ISS) that harnesses all logistical resources 
+of the mission.
+ A Joint Logistics Operations Centre (JLOC) to coordinate the provision 
+of logistical support, in accordance with MLT priorities.
+Although the components of a United Nations peacekeeping operation have 
+the same mandate, share a single budget, and depend on the same integrated 
+support services, there are significant cultural differences, both national and 
+professional, within and between them. Many civilian organizations and 
+government departments routinely function with a high degree of tolerance 
+for ambiguity and highly flexible management models. At the same time, 
+military staff tend to seek to minimize ambiguity by making informed 
+assumptions within a strong planning culture. Mission leaders and staff 
+must seek to reconcile these differing “institutional cultures,” while being 
+careful not to stifle the cultural diversity that constitutes one of the United 
+Nations main strengths.
+Integrating the United Nations effort. As discussed in Chapter 5, integrated 
+planning allows the United Nations system to maximize the impact of its 
+engagement in countries emerging from conflict by ensuring that its activi-
+ties are guided by a common strategic vision. However, integration does 
+not mean that all United Nations actors on the ground should be physically 
+integrated or subsumed under a single structure. Moreover, while the mem-
+bers of the UNCT come under the overall authority of the SRSG/HOM, in 
+reality, they are governed by mandates, decision-making structures and 
+funding arrangements that are quite distinct from those of the United Nations 
+peacekeeping operation. As a result, integration among the members of the 
+broader United Nations family cannot simply be imposed by edict from above, 
+and can only be achieved through a constant process of dialogue and nego-
+tiation between the actors concerned. 
+EXTERNAL PARTNERS
+UN COUNTRY TEAM
+MISSION COMPONENTS
+Figure 6 The Challenge of Mission Integration
+72 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 7 | 73
+There is no “one-size-fits-all approach” to achieving integration among 
+United Nations actors in the field. There is a range of implementation mo-
+dalities through which an integrated mission may pursue common United 
+Nations objectives in its mandated areas of activity. In some areas, for exam-
+ple, human rights or electoral assistance are fully integrated into the mission’s 
+activities, and the relevant components of the United Nations peacekeeping 
+operation are usually staffed by personnel drawn from the lead department 
+or agency concerned. Others, such as DDR, see a looser arrangement driven 
+by joint planning and conduct of programmes by different actors. Alterna-
+tively, the delivery of humanitarian assistance is conducted by humanitarian 
+agencies, as a parallel activity, under the coordination of the DSRSG/RC/
+HC.
+6 The United Nations system should decide at the country-level which 
+implementation modalities are best suited to the achievement of its com -
+mon objectives. To this end, individual United Nations actors may need to 
+revise their respective country programmes, annual work plans, and other 
+frameworks to reflect the new plans that have been developed.
+Ultimately, it is the responsibility of the SRSG/HOM, supported by the 
+DSRSG/RC/HC and the other members of the MLT, to define the United 
+Nations system’s strategic priorities at the country-level and to ensure that 
+the activities of all United Nations actors contribute to the achievement of 
+the mission’s strategic objectives. The SRSG/HOM must always consider 
+the views and concerns of the various constituencies within the mission in 
+order to ensure that, to the extent possible, activities undertaken in one area 
+do not undermine other aspects of the mandate. Senior mission leaders 
+and staff must ensure that any friction remains manageable and that the 
+United Nations family remains in control of the dynamic, in order to ensure 
+that others do not exploit the differences between United Nations actors. 
+This entails a respect for the diversity of approaches being pursued in a post-
+conflict context and the need for international strategies to evolve over time 
+along with the peace process.
+Coordination with external partners. The large number of international 
+and national actors implementing activities in post-conflict environments 
+precludes the development of one common plan or strategy, much less one 
+common structure or programme. Nevertheless, it is incumbent upon the 
+peacekeeping operation to meet regularly and share information with all 
+actors, and to harmonize activities, to the extent possible, by seeking their 
+input into the mission’s planning process and to respond actively and sub-
+stantively to requests for cooperation. Examples of such actors include:
+ Bilateral and multilateral donors, including the World Bank and the Inter-
+national Monetary Fund (IMF), as well as NGOs or contractors working 
+for donors; 
+ Non-United Nations led military formations deployed nationally, under 
+the aegis of a regional organization or as part of an ad hoc coalition; 
+ The diplomatic corps and other regional or international political actors; 
+ The International Committee of the Red Cross (ICRC) and other com -
+ponents of the International Movement, as well as other independent 
+humanitarian actors, such as humanitarian NGOs.
+These actors normally pursue independent agendas, which may or may not 
+coincide with the strategic priorities identified by the peacekeeping opera-
+tion. Some may be operating according to widely different timelines and 
+work methods, or they may simply not be capable of engaging in intensive 
+cooperation due to the periodic nature of their engagement in the country. 
+In these circumstances, proactive sharing of information by the mission is 
+still important, even if the intensity of cooperation is limited.
+Humanitarian actors, such as the ICRC, have as an institutional imperative 
+to maintain a high level of visible independence from political-military 
+structures to ensure the safety and feasibility of their actions and personnel. 
+United Nations peacekeepers must be cognizant of the concept of “humani-
+tarian space,” which can be understood as the space created through respect 
+for the humanitarian principles of independence and neutrality. It is in this 
+space that humanitarian action takes place. As such, a clear distinction must 
+be made between politically motivated actions to end conflict and move
+74 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 8 | 75
+toward national development, and apolitical humanitarian assistance based 
+exclusively on impartial response to assessed need, aimed at saving lives, 
+alleviating suffering and maintaining or restoring the dignity of people 
+affected by conflict. Maintaining this distinction better assures humanitar-
+ian agencies safe and secure access throughout a conflict zone.
+It is incumbent upon the peacekeeping operation to regularly meet and 
+share information with all actors and, to the extent possible, harmonize 
+activities by seeking their input into the mission’s planning process. This 
+includes the sharing of non-operationally sensitive geospatial data. The mis-
+sion may also be requested to assist with large-scale humanitarian responses 
+in extremis . For this eventuality, the MLT, through the DSRSG/HC/RC, 
+should seek to establish effective information sharing and coordination mech-
+anisms to ensure maximum coherence and to prevent any adverse impact on 
+humanitarian and development operations. Due to the high turnover of some 
+mission personnel, coordination arrangements and induction programmes 
+should be designed to minimize the burden on partner organizations. 
+8.1 United Nations Logistics and Administration
+As discussed in Chapter 2, United Nations peacekeeping operations have 
+evolved to encompass a wide range of mandated tasks. The administrative, 
+logistical and other specialized support arrangements for United Nations 
+peacekeeping operations are crucial for the effective implementation of 
+these tasks. The relationship between the military, police, substantive civil-
+ian and support components of a United Nations peacekeeping operation is, 
+therefore, of crucial importance. 
+At the United Nations Headquarters level, DFS is responsible for delivering 
+dedicated support to United Nations field operations, including personnel, 
+finance, field procurement, logistical, communications, information tech -
+nology, and other administrative and general management issues. In the 
+field, the support component of a United Nations peacekeeping operation 
+provides administrative and logistic support services that enable the mis -
+sion to carry out its core functions in an effective, coordinated and timely 
+manner, consistent with the regulations and procedures prescribed by the 
+United Nations. 
+Mission assets are distributed to all mission components on an equitable 
+basis, depending on functional need and assessed priorities. Delivering 
+common support services is part of the administrative functions of a United 
+Nations peacekeeping operation and falls under the responsibility of the  
+Supporting and Sustaining United Nations 
+Peacekeeping Operations
+Chapter 8
+76 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 8 | 77
+Director of Mission Support (DMS) or Chief of Mission Support (CMS). 
+The DMS/CMS reports directly to the SRSG/HOM. The DMS/CMS has 
+up-to-date information on the status of all resources available within the 
+mission, and direct access to all available means of acquiring items.
+United Nations peacekeeping operations are often deployed in environments 
+which are both volatile and unpredictable, and where host nation infrastruc-
+ture is minimal or severely degraded. Within this challenging operating 
+environment, United Nations peacekeeping operations undertake a broad 
+spectrum of civilian and military tasks, which may need to be sustained over 
+several years. Moreover, an operation may be required to switch to a more 
+robust posture and back again at various points in a mission’s lifecycle and 
+may need to switch the emphasis of operations between different compo -
+nents of the mission, for example, to support a DDR programme, an election 
+or a security operation.
+A mission support element which is flexible enough to adapt quickly to 
+changing circumstances on the ground allows for greater internal capacity 
+to respond to the mission’s substantive operations. This requires good logis-
+tic planning, communication and resourcing, and close integration between 
+the uniformed and support components of a mission. Most of all, it requires 
+strong integrated planning and priority-setting among the mission’s leader-
+ship team. It also requires flexibility in the management of mission assets by 
+the mission’s support element.
+The logistic and administrative support for United Nations operations is 
+more complex than many other logistical support models. This complexity 
+is due to the requirement to support contingents deploying with widely 
+varying levels of self-sufficiency, and the differing requirements between 
+military contingents, civilian staff, police and military observers. United 
+Nations operations are also subject to financial accountability procedures 
+which do not align operational responsibility with budgetary accountability. 
+Accordingly, the system of United Nations logistics is not well-designed to 
+support high-tempo, short-notice military operations. This helps define a point 
+beyond which a United Nations peacekeeping operation is not able to escalate. 
+United Nations peacekeeping operations function through a mix of civilian 
+contracted services procured by the United Nations and military support 
+capabilities, provided through ‘lease’ arrangements between the United 
+Nations and contributing Member States.
+7 When formed military units are 
+deployed to a mission, the logistic support concept is based on the integra-
+tion of United Nations-provided and contingent-provided resources to 
+support all components of the mission. All of a mission’s support resources 
+are managed jointly through an integrated civilian and military logistics 
+support service and a common administrative system throughout all United 
+Nations missions.
+The consolidation and integration function of integrated support services 
+is focused in a JLOC, which is staffed by military and civilian logistics 
+personnel and coordinates the logistical needs of all mission components. 
+The JLOC often becomes a focal point for cooperation and mutual assistance 
+on logistical issues between the United Nations peacekeeping operations, 
+other agencies and NGOs.
+Mission support elements must comply with strict rules and regulations 
+and are sometimes criticized for not being responsive enough to operational 
+requirements, especially during crises. Financial accountability controls for 
+United Nations peacekeeping are essential, and demanded by the Member 
+States. Yet, for the system to work effectively in support of the mission leader-
+ship, they need to be balanced with operational principles of flexibility and 
+responsiveness, and administered with a view to effective risk management.
+8.2 Human Resource Management 
+Attracting and retaining qualified personnel is a critical support function 
+in United Nations peacekeeping operations. As stated in Article 101 of the 
+Charter, securing the highest standards of efficiency, competence and integ-
+rity is the paramount consideration in the employment of United Nations 
+staff and the determination of conditions of service. The international and 
+national staff and uniformed personnel of a United Nations peacekeeping
+78 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 8 | 79
+operation are its most valuable assets and must be managed carefully. Being 
+a United Nations peacekeeper requires extraordinary professionalism, dedi-
+cation and self-restraint. The vast majority of the women and men serving 
+in United Nations peacekeeping operations around the world do, indeed, 
+possess these rare qualities. Yet, recent experience has shown that the actions 
+of a minority who do not possess such qualities can result in irreparable 
+damage to the reputation of the mission and the United Nations, as a whole. 
+Given the difficult environments in which many United Nations peacekeeping 
+operations are deployed, turn-over rates for international personnel can be 
+high. The conditions of service in many United Nations peacekeeping opera-
+tions make it extremely difficult to attract qualified and experienced person-
+nel. In the field, the provision of adequate welfare arrangements for both 
+uniformed and civilian personnel is not only crucial for maintaining morale, 
+but is also a key tool for preventing the instances of gross misconduct that 
+have marred the United Nations peacekeeping record. Missions should make 
+an effort to establish welfare committees and provide recreational facilities 
+for peacekeeping personnel, within their existing resources. In particular, 
+the civilian and military leadership within the mission must make an effort 
+to ensure that funds allocated by TCCs/PCCs for the welfare of uniformed 
+personnel actually reach their intended beneficiaries and that the welfare 
+needs of civilian staff, which are often neglected, are also addressed.
+Individual personalities are a major factor in any United Nations peacekeep-
+ing operation. Even when the necessary coordination mechanisms and 
+processes are in place, it is vital to ensure that key positions are filled by 
+the right individuals with the right skill-sets. Ultimately, it is the example 
+and guidance provided by the senior leadership of a United Nations peace-
+keeping operation that will unite the components and ensure that the United 
+Nations system is working as a team.
+The selection of senior mission leaders must be a carefully considered pro-
+cess. Mutual respect and the ability to transcend “turf” issues are essential 
+qualities for the successful management and integration of multi-dimensional 
+United Nations peacekeeping operations. Education and training are vital 
+to ensuring that the appointment of senior mission leaders is not a “lottery.” 
+Prior to assuming their functions, senior mission leaders should be given 
+adequate training and preparation on the challenges that they are likely to 
+face in the field. All personnel in leadership positions should exemplify the 
+highest standards and should be held accountable for their behaviour and 
+performance. If not performing up to expectations, they should be counselled 
+and, if necessary, removed from the mission. 
+8.3 Security of Personnel
+The primary responsibility for the security and protection of United Nations 
+peacekeeping personnel and assets rests with the host government. This 
+responsibility flows from the government’s inherent function of maintain-
+ing law and order, protecting persons and property within its jurisdiction, 
+as well as from the special responsibility enshrined in the Charter.
+8
+The Designated Official (DO), usually the senior-most United Nations offi-
+cial in a country, is responsible for the security of United Nations staff. When 
+appointed DO, the SRSG/HOM is accountable to the Secretary-General 
+(through the Under-Secretary-General for Safety and Security) for the secu-
+rity of all civilian personnel employed by the organizations of the United 
+Nations system and their recognized departments throughout the country 
+or designated area. The DO is supported by the Chief Security Adviser (CSA), 
+Department of Safety and Security (DSS), and the Security Management 
+Team (SMT) which oversees United Nations security arrangements in coun-
+try. The SMT’s composition and standing operating procedures are articu-
+lated in the DSS Field Security Handbook.
+While the safety and security of staff and facilities is largely situation specific, 
+some key standards have been developed, such as the Minimum Operating 
+Security Standards (MOSS). These standards are established, implemented 
+and monitored at the direction of the CSA and the DO. These standards apply
+80 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 9 | 81
+to both international and national staff. While uniformed personnel do 
+not fall under the United Nations security management system, the heads 
+of the military and police component should work closely with the CSA to 
+ensure that the best possible security arrangements are put in place for all 
+personnel. To this end, the respective heads of component will determine 
+the best balance between operational necessity and the security of uniformed 
+personnel. The heads of the military and police components are account -
+able to the HoM for the security of uniformed personnel. 
+9.1 Managing Mission Impact
+United Nations peacekeeping operations must be aware of and proactively 
+manage their impact, both real and perceived, in the host country and 
+community. United Nations peacekeeping operations are highly visible and 
+generate high expectations. Accordingly, United Nations peacekeeping per-
+sonnel should be careful to mitigate the possible negative consequences of 
+the mission’s presence. United Nations peacekeeping personnel must adhere 
+to national laws, where these do not violate fundamental human rights 
+standards, respect local culture, and maintain the highest standards of per-
+sonal and professional conduct.
+Personnel serving in United Nations peacekeeping operations should be 
+alert to any potential, unforeseen or damaging consequences of their actions 
+and manage these as quickly and effectively as possible. Poor driving and 
+vehicle accidents and lax waste management practices are just some of the 
+negative impacts that may seriously undermine the perceived legitimacy 
+and credibility of a mission, and erode its popular support. The size of a 
+United Nations peacekeeping operation’s human and material footprint is 
+likely to have a direct bearing on its impact, or perceived impact, in the 
+community. Missions should be aware of the possible side-effects they may 
+generate, including:
+ Social impact (for example, in the conduct and behavior of staff);
+Maintaining Support for the Mission
+Chapter 9
+82 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 9 | 83
+ Economic impact (for example, on housing and staple foods and materials);
+ Environmental impact (for example, waste management or water usage).
+Social impacts such as different cultural norms of mission staff and host 
+country customs may create friction (e.g.: employment of women in non-
+traditional gender roles, mixing and socialization amongst genders, drink-
+ing, gambling, inappropriate behaviour, etc.). United Nations peacekeeping 
+operations also have a major impact on the host economy, by pushing up 
+the price of local housing and accommodation, or placing demands on local 
+producers for staple foods and materials, placing such items out of reach of 
+the local community. All of these have the potential for creating friction 
+and discontent within the local population and they should be continuously 
+monitored and managed by the mission’s leadership.
+In assessing mission impact and devising strategies to address it, the mis -
+sion should be careful to ensure that the differential impacts on men and 
+women, as well as children and vulnerable groups, are considered. Although 
+no mission can control all of the side-effects of its presence, it must under-
+take due diligence in managing its own impact. Where problems do arise, 
+they should be addressed swiftly and honestly. At the same time, rumors 
+and vexatious or erroneous accusations against the mission must be coun-
+tered with vigor to maintain the good reputation of the international presence.
+9.2 Communications and Outreach
+Effective public information is a political and operational necessity. Its over-
+all objective in United Nations peacekeeping operations is to enhance the 
+ability of the mission to carry out its mandate successfully. Key strategic goals 
+are to maintain the cooperation of the parties to the peace process, manage 
+expectations and garner support for the operation among the local popula-
+tion, and secure broad international support, especially among TCCs/PCCs 
+and major donors. Public information should be thoroughly integrated into 
+a United Nations peacekeeping operation at all stages of planning and de-
+ployment. The mission’s Chief of Public Information should be a key actor 
+in the senior leadership’s decision-making process.
+From the moment a peacekeeping operation is authorized, the United Nations 
+must be able to ensure that the mandate and objectives of the mission are 
+fully understood by the host population and other key actors. Consideration 
+of the role that public information will play in the future peacekeeping 
+operation, as well as the structures and resources that will be required to 
+support that role, must begin at the earliest possible stage. A public informa-
+tion assessment gauging the most effective ways of reaching the population 
+should, thus, be conducted prior to the launch of any field mission.
+Effective communications and outreach will enhance the mission’s ability 
+to achieve its mandate and contribute to the security of mission personnel. 
+A well designed and skilfully implemented communications strategy will 
+increase confidence in the peace process, build trust among parties to a 
+conflict, and generate support for national reconciliation. It will establish 
+the mission as a trusted source of information and help counter the nega -
+tive effects of irresponsible, hostile and controlled media. If the parameters 
+of United Nations activity are clearly laid out and explained to the local 
+population and other target audiences, fear and misunderstanding will be 
+minimized, disinformation will be corrected, and the impact of those who 
+wish to damage the peace process through rumour and untruth will be 
+minimized. In addition, mission public information activities should be 
+geared towards helping establish an environment that promotes the devel-
+opment of free and independent media, and the adherence to the highest 
+journalistic ethics and standards.
+The mission’s public information campaign provides an opportunity to 
+reach out to key groups within society, whose voices may not otherwise be 
+heard, and to promote consensus around the peace process. Use should be 
+made of local public radio and television, if available, as well as traditional
+84 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 10 | 85
+forms of public information dissemination, such as the local community 
+and religious groups. Where no local dissemination capacity exists, a United 
+Nations capability should be deployed at the earliest stages, while helping 
+concurrently to build local capacities. 
+10.1 Partnerships and Transition Planning
+No single organization can presently conduct all of the multifaceted tasks 
+required to support and consolidate peace processes. Partnerships are thus 
+indispensable to the success of the international community’s efforts in post-
+conflict settings. Chapter 5 and 7 have provided guidance on how to man-
+age the relationship with partners in the planning and conduct of ongoing 
+operations. This chapter focuses on two important aspects of partnership: 
+the transition from other security actors to a United Nations peacekeeping 
+operation; and the hand-over of responsibilities from a United Nations peace-
+keeping operation to United Nations system partners and others, as it pre-
+pares to withdraw.
+The United Nations is no longer the only actor conducting peace operations. 
+The number of peace operations mounted by non-United Nations actors has 
+doubled in the past decade. The African Union (AU), the Economic Com -
+munity of West African States (ECOWAS), the European Union (EU), the 
+Organization for Security and Cooperation in Europe (OSCE), the Common-
+wealth of Independent States (CIS) and the North Atlantic Treaty Organi-
+zation (NATO) have all mounted major operations of their own (in most cases 
+with the authorization of the United Nations Security Council); and they 
+are making concerted efforts to increase their capacities in this area.
+The growing involvement of regional agencies and arrangements in the main-
+tenance of international peace and security, as envisaged in Chapter VIII 
+Transition and Exit
+Chapter 10
+86 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 10 | 87
+of the Charter, has created new opportunities for combining the capabili -
+ties of United Nations and non-United Nations actors to manage complex 
+crises. In several instances, troops and police deployed as part of a regional 
+organization-led peace operation have been “re-hatted” upon the deployment 
+of a United Nations peacekeeping operation. In some cases, United Nations 
+peacekeeping operations consisting only of civilian and/or police person-
+nel have been deployed alongside forces under the command of a regional 
+organization. The Security Council has also authorized the deployment of a 
+“hybrid” peacekeeping operation, in which elements from the United Nations 
+and a regional organization are deployed as part of the same mission under 
+joint leadership. Although cooperation between the United Nations and re-
+gional organizations in the area of peace and security has tended to occur 
+on an ad hoc basis and is often dictated by political expediency, new more 
+systematic partnerships are emerging.
+9
+In circumstances where a United Nations peacekeeping operation is required 
+to assume responsibility from a non-United Nations led peace operation, an 
+effort should be made to develop a mutually agreed joint transition plan 
+outlining the modalities, steps and timeframe for achieving transition and 
+the assumption of United Nations responsibility. In addition to detailing 
+when and how responsibilities will be transferred, such a plan should spell 
+out any implications for the UNCT and other partners, in order to ensure 
+consistency of approach and timing with the overall mission planning pro-
+cess. Emphasis should be placed on security and how to ensure maximum 
+stability at a moment of potential weakness, including as a result of any mis-
+match in capabilities and tasks.
+10.2 Hand-Over and Withdrawal
+The United Nations engagement in a country which is emerging from con-
+flict rarely begins with the deployment of a peacekeeping operation and is 
+likely to continue long after its withdrawal. In most cases, the UNCT will 
+have been on the ground long before the deployment of a United Nations 
+peacekeeping operation and will be responsible for supporting the process 
+of long-term recovery once the peacekeeping operation has withdrawn. In 
+some instances, a United Nations peacekeeping operation may be preceded 
+by or deployed alongside a United Nations special political mission or peace-
+building support office. Some United Nations peacekeeping operations have 
+also been succeeded by integrated offices, headed by an Executive Represent-
+ative of the Secretary-General (ERSG).
+10
+Ultimately, it is the prerogative of the Security Council to decide whether 
+a United Nations peacekeeping operation should hand-over responsibility 
+to another United Nations body or non-United Nations entity, and withdraw. 
+Nevertheless, the Secretariat and the United Nations peacekeeping opera-
+tion have a responsibility to ensure that the Security Council’s decision is 
+based on an honest assessment of real progress made towards the achieve-
+ment of a sustainable peace.
+As discussed in Chapter 2, traditional United Nations peacekeeping opera-
+tions are deployed as an interim measure to help manage a conflict and 
+create conditions in which the negotiation of a lasting settlement can pro -
+ceed. A traditional United Nations peacekeeping operation can be said to 
+have successfully completed its mandate once the states concerned have 
+arrived at a mutually agreed settlement to their conflict. Since they have 
+little direct involvement in diplomatic efforts to resolve the conflict, some 
+traditional peacekeeping operations are deployed for decades, due to the 
+absence of a lasting political settlement between the parties.
+Determining whether a multi-dimensional United Nations peacekeeping 
+deployed in the aftermath of a violent internal conflict has successfully 
+completed its mandate is far more challenging given the number of com -
+plex variables involved. Experience has shown that a domestic peace is 
+truly sustainable when the warring parties are able to move their struggles 
+from the battlefield and into an institutional framework where disputes 
+can be settled peacefully. The deployment of troops and police must be 
+accompanied by efforts to restore the State’s monopoly over the legitimate
+88 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III CHAPTER 10 | 89
+use of force; re-establish the rule of law and strengthen respect for human 
+rights; foster the emergence of legitimate and effective institutions of gov-
+ernance; and promote socio-economic recovery. The decision to shift the 
+focus of the United Nations engagement from stabilization to longer-term 
+peacebuilding must, therefore, take into account the degree of progress made 
+in each of these critical areas.
+The transition from a United Nations peacekeeping operation to subsequent 
+phases of United Nations engagement should be factored into the planning 
+process from the outset, with a view to clearly delineating the roles and 
+responsibilities of the various United Nations actors on the ground. Reli -
+able benchmarks and indicators are required to determine when the United 
+Nations peacekeeping operation can begin the process of hand-over and 
+withdrawal, without jeopardizing ongoing efforts to consolidate the peace. 
+There is no standard “check-list” of benchmarks applicable to all situations. 
+The specific benchmarks used will differ from situation to situation, depend-
+ing on the underlying causes of the conflict and the dynamics at play. They 
+must be developed in close collaboration with the rest of the United Nations 
+system, the national authorities, civil society, and other relevant stakehold-
+ers, taking into account the United Nations longer-term strategic goals.
+Care must be taken to identify appropriate benchmarks that reflect real 
+progress towards the consolidation of peace in the country. Indicators should 
+not simply be measurements of international community inputs to a peace 
+process, which may present an incomplete picture. Examples of key bench-
+marks that may be used to determine at which point the process of peace 
+consolidation is sufficiently advanced to allow for the hand-over of certain 
+mission responsibilities include the following:
+ The absence of violent conflict and large-scale human rights abuses, and 
+respect for women’s and minority rights; 
+ Completion of the DDR of former combatants (male and female, adults 
+and children) and progress in restoring or establishing responsible state 
+institutions for security;
+ The ability of the national armed forces and the national police to pro -
+vide security and maintain public order with civilian oversight and 
+respect for human rights; 
+ Progress towards the establishment of an independent and effective judi-
+ciary and corrections system;
+ The restoration of State authority and the resumption of basic services 
+throughout the country; 
+ The return or resettlement and reintegration of displaced persons with min-
+imal internal disruption or conflict in the areas of return or resettlement;
+ The successful formation of legitimate political institutions following the 
+holding of free and fair elections where women and men have equal rights 
+to vote and seek political office.
+Wherever possible, benchmarks should be established through dialogue 
+with national interlocutors. The mission should seek multiple sources of 
+validation regarding this progress and should not shy away from reporting 
+on a deteriorating situation. In this respect, United Nations peacekeeping 
+operations should resist the temptation to report overly optimistic assess -
+ments of progress against key benchmarks.
+Depending on the evolving situation, it may be appropriate for the bench-
+marks to be amended over time. Whatever the benchmarks adopted, they 
+should be regarded as interim objectives in the broader effort to build a 
+self-sustaining peace, the realization of which will allow the international 
+community to progressively shift the focus of its post-conflict assistance from 
+stabilization to long-term peacebuilding and economic recovery.
+The withdrawal of a United Nations peacekeeping operation should be 
+planned and conducted in close consultation with all relevant partners 
+and national stakeholders, to ensure minimal disruption of international 
+programmes as a result of the mission’s departure, and to minimize the 
+impact on the host population and environment. As a final contribution to 
+the institutional learning process, it is important that an effort be made to
+90 | UNITED NATIONS PEACEKEEPING OPERATIONS PART III ENDNOTES | 91
+capture any remaining lessons learned at the end of the mission by con -
+ducting of After Action Reviews (AARs) and/or End of Assignment Reports 
+(EoARs)11 that may benefit those responsible for the planning and conduct 
+of future United Nations peacekeeping operations. 
+1 See DPKO Policy Directive on Authority, Command and Control for United Nations Multi-dimensional 
+Peacekeeping Operations ( 2007).
+2 For missions of a military nature, the Secretary-General may appoint a Force Commander or Chief 
+Military Observer as Head of Mission.
+3 Note of Guidance on Integrated Missions, Clarifying the Role, Responsibility and Authority of the Spe-
+cial Representative of the Secretary-General and the Deputy Special Representative of the Secretary-
+General/Resident Coordinator/Humanitarian Coordination, 9 December 2005 , para. 5.
+4 Ibid., para. 18–19.
+5 See DPKO Policy Directive on JOCs and JMACs, 1 July 2006. In this context, the term “joint” refers 
+to the internal collaboration required between all mission components to achieve shared objectives 
+under a single leadership team.
+6 Where the DSRSG/RC/HC is supported by an office of the United Nations Office of the Coordination 
+of Humanitarian Affairs (OCHA), OCHA will normally serve as the humanitarian coordination 
+office. Where appropriate, the OCHA office may remain outside the mission structure to facilitate 
+access by the broader humanitarian community. 
+7 Generally, contingents arrive with between 30–90 days of supplies to maintain self-sufficiency.  
+During that period, the United Nations enters into service contracts to provide the bulk supplies of 
+a mission, such as water, rations, laundry, waste disposal and some transport services. Contingents 
+bringing their own equipment are paid for the lease of this equipment by the United Nations, based 
+on agreed reimbursement rates.
+8 Under Article 105 of the Charter, the United Nations is entitled to enjoy such privileges and immuni-
+ties as are necessary for the fulfilment of its purposes. Additional diplomatic privileges are accorded 
+to United Nations staff members and premises in times of international crisis, by the 1946 Conven-
+tion on the Privileges and Immunities of the United Nations and the Specialised Agencies and, 
+more explicitly, by the 1994 Convention on the Safety of United Nations and Associated personnel, 
+which obligates all signatories to ensure the safety and security of United Nations and associated 
+personnel deployed in their territory. 
+9 The “Joint Declaration on EU-UN Co-operation in Crisis Management” was signed in September 2003.
+10 Integrated offices consist of the members of the UNCT and may be augmented by the presence of 
+military and police specialists. 
+11 After Action Reviews (AARs) and End of Assignment Reports (EoARs) are tools developed by DPKO 
+to facilitate the capturing and sharing of lessons learned from the field. 
+Endnotes
+United Nations Peacekeeping  
+Doctrine Framework
+Annex 1
+As shown in the diagram below, the United Nations peacekeeping doctrine 
+framework is currently divided into six major guidance “series” (1000–6000), 
+which provide basic reference codes for the organization and management 
+of internal DPKO/DFS policy and guidance materials. Each series is further 
+subdivided into specific thematic and/or functional areas.
+DPKO/DFS Policy and Guidance Index 
+1000-Series: Capstone Doctrine
+The 1000-series covers the basic principles and key concepts underpinning the planning and conduct of 
+contemporary United Nations peacekeeping operations as well as their core functions and the main fac -
+tors affecting their success. United Nations Peacekeeping Operations: Principles and Guidelines sits at the highest 
+level in the 1000-series. 1000-series guidance also includes the Handbook on United Nations Multi-dimensional 
+Peacekeeping Operations. All subordinate guidance must be consistent with the principles and concepts set 
+out in the 1000 -series.  
+2000-Series: Headquarters Support to Operations
+The 2000-series contains guidance on DPKO/DFS headquarters roles, responsibilities and functions in 
+support of field missions. Specific areas covered in the 2000-series include: command and control and 
+executive direction; mission planning and budgeting; recruitment and force generation; deployment and 
+mission start-up; political analysis and briefings; and reporting, monitoring and operations management.  
+3000-Series: Management and Integration of Operations
+The 3000-series covers the management and integration of United Nations peacekeeping operations in 
+the field. Documents in this series are intended to provide guidance on arrangements for the effective 
+planning, management and integration of operational and support capabilities in the mission. The 3000- 
+series also contains guidance on the effective execution of managerial responsibilities related to the safety, 
+integrity and oversight of the mission and its resources. Specific areas covered in the 3000-series include: 
+mission command and control; political analysis and diplomatic activity; mission planning; safety and 
+security; crisis management; and conduct welfare and discipline. 
+4000-Series: Multi-dimensional Operations 
+The 4000-series contains guidance on the employment of military, police and substantive civilian capa -
+bilities within a United Nations peacekeeping operation. The use of guidance in this series will vary depend-
+ing on the deployed mission capabilities, and should be seen as modular. Guidance in the 4000-series 
+also draws on and must be consistent with the principles and concepts set out in the 1000-series. Specific 
+areas covered in the 4000-series include: political and civil affairs; military; law enforcement (police); 
+legal and judicial; corrections/prisons; human rights; DDR; SSR; mine action; and elections.  
+5000-Series: Field Operations Support
+The 5000-series contains guidance on the integration and employment of all support resources in a mission 
+with the aim of providing timely, efficient and effective support to meet mandate priorities. Guidance on 
+mission support capabilities should be consistent with and should directly support the operational and 
+managerial requirements identified in the 3000- and 4000-series. Specific areas covered in the 5000-series 
+include: logistics support; movement control; strategic deployment stocks; aviation; surface transport; 
+engineering; communications and information technology; medical; finance; and procurement and con -
+tract management. 
+6000 -Series: Headquarters Management and Administration
+The 6000-series sets out the managerial and administrative procedures governing the functioning of 
+DPKO and DFS as specialized, field-focused, operational arms of the United Nations Secretariat. Specific 
+areas covered in the 6000-series include: planning, budget and oversight; human resources and travel; 
+and writing and records. 
+1000-Series:  
+Capstone Doctrine
+2000-Series: Headquarters  
+Support to Operations
+3000-Series: Management and  
+Integration of Operations
+5000-Series:  
+Field Operations Support
+4000-Series:  
+Multi-dimensional Operations 
+6000-Series: Headquarters Management  
+and Administration
+HQ
+(    )
+UN
+92 | UNITED NATIONS PEACEKEEPING OPERATIONS ANNEX 1 | 93
+AU African Union
+CAAC Children and Armed Conflict
+CAP Consolidated Appeals Process 
+Cease-fire A temporary stoppage of war, which may also be undertaken as 
+part of a larger negotiated settlement. A cease-fire marking the permanent 
+end of war is referred to as an armistice. 
+CIS Commonwealth of Independent States
+CMS Chief of Mission Support
+CIMIC Civil-Military Cooperation
+Conflict Prevention Any structural or diplomatic measures to keep intra-state 
+or inter-state tensions and disputes from escalating into violent conflict. 
+Contingency Plan  A management tool used to ensure adequate arrange -
+ments are made in anticipation of a crisis. 
+Designated Official  The senior-most United Nations decision-maker on 
+safety and security issues, in a given country.
+DFS Department of Field Support 
+DMS Director of Mission Support
+Doctrine The evolving body of institutional guidance that provides support 
+and direction to personnel preparing for, planning and implementing UN 
+peacekeeping operations. 
+DDR Disarmament, Demobilization and Reintegration 
+DSRSG Deputy Special Representative of the Secretary-General. 
+DSRSG/RC/HC Deputy Special Representative of the Secretary-General/
+Resident Coordinator/Humanitarian Coordinator 
+DSS Department of Safety and Security 
+ECOWAS Economic Community of West African States
+EU European Union
+FC Force Commander
+Good Offices The authority and legitimacy afforded by one’s moral stature 
+or gained through one’s position or function that allows one to perform ben-
+eficial acts for another. This authority and legitimacy allows individuals to 
+act as third-party mediators in various types of disputes. 
+HC Humanitarian Coordinator
+HOM Head of Mission 
+HOMC Head of Military Component
+HOPC Head of Police Component
+Humanitarian Assistance  Material or logistical assistance provided for 
+human itarian purposes, typically in response to humanitarian crises. The 
+primary objective of humanitarian assistance is to save lives, alleviate suf-
+fering and maintain human dignity.
+Selected Glossary of Acronyms and Terms*
+Annex 2
+94 | UNITED NATIONS PEACEKEEPING OPERATIONS ANNEX 2 | 95
+Humanitarian Space This means the ability of humanitarian agencies to 
+work independently and impartially, without fear of attack in pursuit of the 
+humanitarian imperative.
+Hybrid Operation A peace operation involving the deployment of military, 
+police or civilian personnel from two or more entities under a single structure. 
+ICRC International Committee of the Red Cross
+IFI International Financial Institution is a generic term referring to the World 
+Bank, IMF and other international or regional development banks.
+IMF International Monetary Fund
+IMPP Integrated Mission Planning Process
+Integration The process through which the United Nations system seeks 
+to maximize its contribution towards countries emerging from conflict by 
+engaging its different capabilities in a coherent and mutually supportive 
+manner. 
+Integrated Mission A strategic partnership between a multi-dimensional 
+United Nations peacekeeping operation and the UNCT based on a shared 
+vision among all United Nations actors as to the strategic objectives of the 
+United Nations presence at country-level. 
+IPBS Integrated Peacebuilding Strategy
+ISS Integrated Support Services
+JLOC Joint Logistics Operations Centre 
+JOC Joint Operations Centre
+JMAC Joint Mission Analysis Cell 
+Multi-dimensional United Nations Peacekeeping Operations United Nations 
+peacekeeping operations comprising a mix of military, police and civilian 
+components working together to lay the foundations of a sustainable peace. 
+MOU Memorandum of Understanding
+NATO North Atlantic Treaty Organization
+NGO Non-governmental Organization
+OCHA Office for the Coordination of Humanitarian Affairs
+OHCHR Office of the High Commissioner for Human Rights
+OSCE Organization for Security and Cooperation in Europe
+Parties Persons or entities involved in a dispute.
+PCC Police Contributing Country
+Peace Agreement A formal treaty intended to end or significantly transform 
+violent conflict. 
+Peacebuilding Measures aimed at reducing the risk of lapsing or relapsing 
+into conflict, by strengthening national capacities for conflict management, 
+and laying the foundations for sustainable peace.
+Peace Enforcement Coercive action undertaken with the authorization of 
+the United Nations Security Council to maintain or restore international 
+peace and security in situations where the Security Council has determined 
+the existence of a threat to the peace, breach of the peace or act of aggression.
+Peacekeeping Action undertaken to preserve peace, however fragile, where 
+fighting has been halted and to assist in implementing agreements achieved 
+by the peacemakers.
+96 | UNITED NATIONS PEACEKEEPING OPERATIONS ANNEX 2 | 97
+Preventive Diplomacy Diplomatic efforts to avert disputes arising between 
+parties from escalating into conflict.
+Peacemaking Action to bring hostile parties to agreement. 
+Peace Operations Field operations deployed to prevent, manage, and/or 
+resolve violent conflicts or reduce the risk of their recurrence. 
+PRSP Poverty Reduction Strategy Papers
+QIPs Quick Impact Projects 
+RC Resident Coordinator
+Robust Peacekeeping The use of force by a United Nations peacekeeping 
+operation at the tactical level, with the authorization of the Security Council, 
+to defend its mandate against spoilers whose activities pose a threat to civil-
+ians or risk undermining the peace process. 
+ROE Rules of Engagement
+Rule of Law A principle of governance in which all persons, institutions 
+and entities, public and private, including the State itself, are accountable 
+to laws that are publicly promulgated, equally enforced and independently 
+adjudicated, and which are consistent with international human rights norms 
+and standards. 
+SDS Strategic Deployment Stocks
+SLT Senior Leadership Team 
+SMT Security Management Team 
+SOFA/SOMA Status of Forces Agreement/Status of Mission Agreement 
+Spoilers Individuals or groups that may profit from the spread or continu-
+ation  of violence, or have an interest to disrupt a resolution of a conflict in 
+a given setting. 
+SRSG Special Representative of the Secretary-General
+SSR Security Sector Reform
+TAM Technical Assessment Mission
+Traditional United Nations Peacekeeping Operations United Nations peace-
+keeping operations conducted with the consent of the parties to a conflict, 
+usually States, in which “Blue Helmets” monitor a truce between warring 
+sides while mediators seek a political solution to the underlying conflict. 
+Transition The hand-over of responsibilities between a non-United Nations 
+led peace operation to a United Nations peacekeeping operation; or from the 
+latter to other United Nations or non-United Nations actors upon the suc-
+cessful completion of its mandate. 
+Transitional Administration  A transitional authority established by the 
+Security Council to assist a country during a government regime change or 
+passage to independence. 
+TRM Transitional Results Matrix
+TCC Troop Contributing Country
+UNCT United Nations Country Team
+UNDP United Nations Development Programme
+United Nations-Led Peace Operation A Peace operation authorized by the 
+United Nations Security Council and conducted under the direction of the 
+United Nations Secretary-General.
+98 | UNITED NATIONS PEACEKEEPING OPERATIONS ANNEX 2 | 99
+* The list does not provide authoritative United Nations definitions. It is intended to assist with under -
+standing the usage of terms in this document only. Official United Nations definitions are being considered 
+in the context of the ongoing terminology deliberations of the General Assembly’s Special Committee on 
+Peacekeeping Operations on the basis of the DPKO Interim Glossary of Terms. 
+100 | UNITED NATIONS PEACEKEEPING OPERATIONS

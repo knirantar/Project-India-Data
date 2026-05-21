@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "9428d2e28ff70824438bbaaca3cd22dceafd9789821a5fa691e1dc5dc417c1eb",
-  "content_type": "application/xml",
-  "collected_at": "2026-05-21T12:14:10.005900+00:00",
-  "text_chars": 831995,
-  "raw_path": "data/geopolitics/raw/9428d2e28ff70824438bbaaca3cd22dceafd9789821a5fa691e1dc5dc417c1eb.xml",
-  "text_path": "data/geopolitics/raw/9428d2e28ff70824438bbaaca3cd22dceafd9789821a5fa691e1dc5dc417c1eb.txt"
+  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "content_type": "application/pdf",
+  "collected_at": "2026-05-21T12:14:55.253203+00:00",
+  "text_chars": 523907,
+  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
+  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
 }

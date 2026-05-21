@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "9428d2e28ff70824438bbaaca3cd22dceafd9789821a5fa691e1dc5dc417c1eb",
-  "content_type": "application/xml",
-  "collected_at": "2026-05-21T12:14:10.005900+00:00",
-  "text_chars": 831995,
-  "raw_path": "data/geopolitics/raw/9428d2e28ff70824438bbaaca3cd22dceafd9789821a5fa691e1dc5dc417c1eb.xml",
-  "text_path": "data/geopolitics/raw/9428d2e28ff70824438bbaaca3cd22dceafd9789821a5fa691e1dc5dc417c1eb.txt"
+  "url": "https://warontherocks.com/cogs-of-war/cheap-missiles-not-drones-will-win-the-next-air-war/",
+  "title": "Cheap Missiles, Not Drones, Will Win the Next Air War",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Mon, 04 May 2026 08:00:51 +0000",
+  "sha256": "f4f4ca461f05beeed1735bb57d7cde48351246d675269138c70a429d81a749df",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-21T12:14:55.379683+00:00",
+  "text_chars": 14794,
+  "raw_path": "data/geopolitics/raw/f4f4ca461f05beeed1735bb57d7cde48351246d675269138c70a429d81a749df.html",
+  "text_path": "data/geopolitics/raw/f4f4ca461f05beeed1735bb57d7cde48351246d675269138c70a429d81a749df.txt"
 }
