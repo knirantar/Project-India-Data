@@ -1,0 +1,155 @@
+{
+  "document": {
+    "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "sanctions_designations",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The document contains a list of individuals associated with sanctions designations by the United Nations, primarily focusing on those involved in conflicts in the Democratic Republic of the Congo (DRC) and Rwanda. It includes details such as names, roles, nationalities, and significant events related to each individual, including arrests, convictions, and current statuses. The information is crucial for understanding the ongoing issues of war crimes and human rights violations in the region.",
+    "key_takeaways": [
+      "The document lists individuals sanctioned by the UN for involvement in conflicts in the DRC.",
+      "Many individuals have been arrested or convicted for war crimes and related offenses.",
+      "The document provides details on the current whereabouts and statuses of these individuals.",
+      "It highlights the ongoing impact of these individuals on regional stability and security.",
+      "The information is sourced from INTERPOL and UN Security Council notices.",
+      "The document serves as a resource for tracking individuals involved in serious human rights violations."
+    ],
+    "why_it_matters": "This document is significant as it provides a comprehensive overview of individuals implicated in serious crimes in the DRC and Rwanda, aiding in accountability efforts and international law enforcement actions. It serves as a critical resource for researchers, policymakers, and human rights advocates monitoring the situation in these regions.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Eric Badege fled to Rwanda in March 2013 and is still living there as of early 2016.",
+      "evidence_text": "He fled to Rwanda in March 2013 and is still living there as of early 2016.",
+      "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Frank Kakolele Bwambale was involved in activities on behalf of the DRC government’s STAREC program.",
+      "evidence_text": "Since 2010, Kakolele has been involved in activities apparently on behalf of the DRC government’s Programme de Stabilisation et Reconstruction des Zones Sortant des Conflits Armés (STAREC).",
+      "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "confidence": "medium"
+    },
+    {
+      "claim_text": "Gaston Iyamuremye is the FDLR Interim President.",
+      "evidence_text": "FDLR Interim President.",
+      "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Jérôme Kakwavu was convicted by a DRC military court for war crimes.",
+      "evidence_text": "In November 2014, convicted by a DRC military court to ten years in prison for rape, murder, and torture.",
+      "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Germain Katanga was transferred to a DRC prison after serving his ICC sentence.",
+      "evidence_text": "Katanga was transferred to a DRC prison in December 2015 and charged for other crimes previously committed in Ituri.",
+      "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Thomas Lubanga was released on 15 March 2020 after serving his ICC sentence.",
+      "evidence_text": "He was released on 15 March 2020 after having served his ICC sentence.",
+      "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "individual",
+      "name": "Eric Badege",
+      "description": "A sanctioned individual who fled to Rwanda.",
+      "evidence_text": "He fled to Rwanda in March 2013 and is still living there as of early 2016."
+    },
+    {
+      "type": "individual",
+      "name": "Frank Kakolele Bwambale",
+      "description": "A former member of the CNDP involved in DRC government activities.",
+      "evidence_text": "Since 2010, Kakolele has been involved in activities apparently on behalf of the DRC government’s Programme de Stabilisation et Reconstruction des Zones Sortant des Conflits Armés (STAREC)."
+    },
+    {
+      "type": "individual",
+      "name": "Gaston Iyamuremye",
+      "description": "FDLR Interim President.",
+      "evidence_text": "FDLR Interim President."
+    },
+    {
+      "type": "individual",
+      "name": "Jérôme Kakwavu",
+      "description": "A general in the FARDC convicted for war crimes.",
+      "evidence_text": "In November 2014, convicted by a DRC military court to ten years in prison for rape, murder, and torture."
+    },
+    {
+      "type": "individual",
+      "name": "Germain Katanga",
+      "description": "A general in the FARDC transferred to a DRC prison after ICC sentencing.",
+      "evidence_text": "Katanga was transferred to a DRC prison in December 2015 and charged for other crimes previously committed in Ituri."
+    },
+    {
+      "type": "individual",
+      "name": "Thomas Lubanga",
+      "description": "A former UPC leader convicted by the ICC.",
+      "evidence_text": "He was released on 15 March 2020 after having served his ICC sentence."
+    }
+  ],
+  "events": [
+    {
+      "date": "2013-03-01",
+      "event": "Eric Badege fled to Rwanda.",
+      "location": "Rwanda",
+      "actors": [
+        "Eric Badege"
+      ],
+      "evidence_text": "He fled to Rwanda in March 2013 and is still living there as of early 2016."
+    },
+    {
+      "date": "2014-11-01",
+      "event": "Jérôme Kakwavu convicted for war crimes.",
+      "location": "Kinshasa, DRC",
+      "actors": [
+        "Jérôme Kakwavu"
+      ],
+      "evidence_text": "In November 2014, convicted by a DRC military court to ten years in prison for rape, murder, and torture."
+    },
+    {
+      "date": "2015-12-19",
+      "event": "Thomas Lubanga transferred to DRC prison.",
+      "location": "DRC",
+      "actors": [
+        "Thomas Lubanga"
+      ],
+      "evidence_text": "Transferred to a prison facility in the DRC on 19 December 2015 to serve out his sentence of imprisonment."
+    },
+    {
+      "date": "2020-03-15",
+      "event": "Thomas Lubanga released after serving ICC sentence.",
+      "location": "DRC",
+      "actors": [
+        "Thomas Lubanga"
+      ],
+      "evidence_text": "He was released on 15 March 2020 after having served his ICC sentence."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "title": "None",
+      "published": "None",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is from the UN sanctions list and INTERPOL notices."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

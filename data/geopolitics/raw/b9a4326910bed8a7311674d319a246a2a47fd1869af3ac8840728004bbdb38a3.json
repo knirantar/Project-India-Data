@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-21T19:46:57.440077+00:00",
-  "text_chars": 174113,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://www.theguardian.com/us-news/2026/may/21/senate-republicans-to-ditch-trump-ballroom-funding",
+  "title": "US Senate refuses to push through ICE funding amid row over Trump’s ballroom",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Thu, 21 May 2026 18:14:42 GMT",
+  "sha256": "b9a4326910bed8a7311674d319a246a2a47fd1869af3ac8840728004bbdb38a3",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-21T19:47:51.649092+00:00",
+  "text_chars": 3154,
+  "raw_path": "data/geopolitics/raw/b9a4326910bed8a7311674d319a246a2a47fd1869af3ac8840728004bbdb38a3.html",
+  "text_path": "data/geopolitics/raw/b9a4326910bed8a7311674d319a246a2a47fd1869af3ac8840728004bbdb38a3.txt"
 }
