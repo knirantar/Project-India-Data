@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26d6abeb7e6a6549b72ae35916862a618a1863103dc6372150a3b15e665127a0",
-  "content_type": "application/xml",
-  "collected_at": "2026-05-21T23:00:18.060468+00:00",
-  "text_chars": 824889,
-  "raw_path": "data/geopolitics/raw/26d6abeb7e6a6549b72ae35916862a618a1863103dc6372150a3b15e665127a0.xml",
-  "text_path": "data/geopolitics/raw/26d6abeb7e6a6549b72ae35916862a618a1863103dc6372150a3b15e665127a0.txt"
+  "url": "https://foreignpolicy.com/2026/05/21/trump-greenland-nato-ben-gvir-israel-gaza-qatar/",
+  "title": "Trump Hasn’t Given Up on Greenland",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Thu, 21 May 2026 22:00:56 +0000",
+  "sha256": "bb86c3cc107750d1baa9da0a1d1e0b5e10f0c446583b8d27b30b59f69bd521f4",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-21T23:01:36.270916+00:00",
+  "text_chars": 10808,
+  "raw_path": "data/geopolitics/raw/bb86c3cc107750d1baa9da0a1d1e0b5e10f0c446583b8d27b30b59f69bd521f4.html",
+  "text_path": "data/geopolitics/raw/bb86c3cc107750d1baa9da0a1d1e0b5e10f0c446583b8d27b30b59f69bd521f4.txt"
 }

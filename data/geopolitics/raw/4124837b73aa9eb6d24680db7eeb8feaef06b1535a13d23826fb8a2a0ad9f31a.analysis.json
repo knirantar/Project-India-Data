@@ -1,0 +1,139 @@
+{
+  "document": {
+    "source_url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+    "source_title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+    "published": "Thu, 21 May 2026 21:10:02 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Nickolay Mladenov, the high representative of the Board of Peace for Gaza, warned the UN Security Council that the current deteriorating situation in Gaza risks becoming permanent. He presented a roadmap for a ceasefire that requires both Israel and Hamas to fulfill their obligations. Mladenov emphasized the need for action from both parties to prevent a divided Gaza and a humanitarian crisis.",
+    "key_takeaways": [
+      "Mladenov warns of a permanent divide in Gaza if current conditions persist.",
+      "The UN Security Council is urged to enforce obligations on both Israel and Hamas.",
+      "Over 72,775 Palestinians have died since the conflict escalated in October 2023.",
+      "The ceasefire established in October 2025 is at risk due to ongoing violence.",
+      "A second phase of the ceasefire focusing on disarmament and governance is stalled.",
+      "Mladenov highlights the humanitarian crisis and the need for reconstruction financing."
+    ],
+    "why_it_matters": "The situation in Gaza is critical, with potential long-term implications for regional stability and humanitarian conditions. Mladenov's warnings underscore the urgency for international intervention and cooperation to prevent further deterioration.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The deteriorating status quo in Gaza risks becoming permanent.",
+      "evidence_text": "Mladenov warned that the deteriorating status quo becomes permanent: a divided Gaza, Hamas holding military and administrative control.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Over 72,775 Palestinians have been killed in the conflict.",
+      "evidence_text": "More than 72,775 Palestinians have been killed in the conflict.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The ceasefire established in October 2025 is at risk due to ongoing violence.",
+      "evidence_text": "Conflict monitors warn that since the ceasefire... Israeli bombardment of Gaza has accelerated.",
+      "source_url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Board of Peace",
+      "description": "A body overseeing peace efforts in Gaza, founded by the United States.",
+      "evidence_text": "the high representative overseeing the United States-founded Board of Peace for Gaza"
+    },
+    {
+      "type": "person",
+      "name": "Nickolay Mladenov",
+      "description": "High representative of the Board of Peace for Gaza and a veteran Bulgarian diplomat.",
+      "evidence_text": "Nickolay Mladenov, has warned that the deteriorating status quo"
+    },
+    {
+      "type": "event",
+      "name": "October 2023 attacks",
+      "description": "Attacks by Hamas and other armed Palestinian groups that escalated the conflict.",
+      "evidence_text": "the war that Israel launched following the October 7, 2023 attacks"
+    },
+    {
+      "type": "event",
+      "name": "October 2025 ceasefire",
+      "description": "A ceasefire that halted the conflict initiated by Israel.",
+      "evidence_text": "the ceasefire in October 2025"
+    }
+  ],
+  "events": [
+    {
+      "date": "2023-10-07",
+      "event": "Attacks by Hamas and other armed Palestinian groups",
+      "location": "Southern Israel",
+      "actors": [
+        "Hamas",
+        "Israeli military"
+      ],
+      "evidence_text": "the war that Israel launched following the October 7, 2023 attacks"
+    },
+    {
+      "date": "2025-10-01",
+      "event": "Ceasefire established",
+      "location": "Gaza",
+      "actors": [
+        "Israel",
+        "Hamas"
+      ],
+      "evidence_text": "the ceasefire in October 2025"
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Palestinian casualties",
+      "value": "72775",
+      "unit": "deaths",
+      "date": "2026-05-21",
+      "location": "Gaza",
+      "evidence_text": "More than 72,775 Palestinians have been killed in the conflict."
+    }
+  ],
+  "relationships": [],
+  "timelines": [
+    {
+      "date": "2026-01-01",
+      "milestone": "Transition to phase two of the ceasefire",
+      "evidence_text": "In January, the US announced that the Gaza 'ceasefire' was moving to phase two"
+    }
+  ],
+  "citations": [
+    {
+      "source_url": "https://www.aljazeera.com/news/2026/5/21/board-of-peace-envoy-warns-permanent-gaza-divide-under-current-status-quo?traffic_source=rss",
+      "title": "Board of Peace envoy warns ‘permanent’ Gaza divide under current status quo",
+      "published": "Thu, 21 May 2026 21:10:02 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "Al Jazeera is a well-known news organization that covers international events."
+  },
+  "geolocation": [
+    {
+      "name": "Gaza",
+      "type": "region",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "the deteriorating status quo in the devastated Palestinian enclave"
+    },
+    {
+      "name": "Deir el-Balah",
+      "type": "city",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "an Israeli drone attack killed a 26-year-old in Gaza’s al-Mahatta area, east of Deir el-Balah city"
+    }
+  ],
+  "timestamps": []
+}

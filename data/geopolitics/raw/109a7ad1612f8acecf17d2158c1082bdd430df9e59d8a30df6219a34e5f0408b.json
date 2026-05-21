@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26d6abeb7e6a6549b72ae35916862a618a1863103dc6372150a3b15e665127a0",
-  "content_type": "application/xml",
-  "collected_at": "2026-05-21T23:00:18.060468+00:00",
-  "text_chars": 824889,
-  "raw_path": "data/geopolitics/raw/26d6abeb7e6a6549b72ae35916862a618a1863103dc6372150a3b15e665127a0.xml",
-  "text_path": "data/geopolitics/raw/26d6abeb7e6a6549b72ae35916862a618a1863103dc6372150a3b15e665127a0.txt"
+  "url": "https://reliefweb.int/report/mozambique/health-cluster-monthly-bulletin-mozambique-april-2026",
+  "title": "Health Cluster Monthly Bulletin Mozambique (April 2026)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 21 May 2026 12:25:26 +0000",
+  "sha256": "109a7ad1612f8acecf17d2158c1082bdd430df9e59d8a30df6219a34e5f0408b",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-21T23:01:33.853221+00:00",
+  "text_chars": 1563,
+  "raw_path": "data/geopolitics/raw/109a7ad1612f8acecf17d2158c1082bdd430df9e59d8a30df6219a34e5f0408b.html",
+  "text_path": "data/geopolitics/raw/109a7ad1612f8acecf17d2158c1082bdd430df9e59d8a30df6219a34e5f0408b.txt"
 }

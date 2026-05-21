@@ -1,0 +1,107 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/technology/2026/may/22/wisetech-redundancies-australia-omits-ai-from-emails-to-chinese-employees",
+    "source_title": "WiseTech begins redundancies – but omits ‘AI’ from emails to Chinese employees, workers say",
+    "published": "Thu, 21 May 2026 15:00:35 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "WiseTech has initiated redundancies affecting 2,000 employees, citing advancements in artificial intelligence as the reason. However, an email to Chinese staff omitted the term 'AI', raising concerns among employees about transparency and legal implications. The company has begun the layoff process in South Korea and Mexico, with plans to extend it to Australia. Employees express low morale and anxiety over the uncertainty of their job status, while the union representing tech workers calls for fair treatment and accountability in the face of AI disruption.",
+    "key_takeaways": [
+      "WiseTech plans to cut 2,000 jobs, nearly 30% of its workforce.",
+      "An email to Chinese employees omitted the term 'AI' after a court ruling.",
+      "The redundancy process has started in South Korea and Mexico.",
+      "Employee morale is low due to uncertainty and lack of transparency.",
+      "The union has seen a surge in membership among WiseTech employees.",
+      "Calls for fair redundancy packages and accountability in AI disruptions."
+    ],
+    "why_it_matters": "This situation highlights the impact of AI advancements on employment and raises questions about corporate transparency and employee rights during significant organizational changes.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "WiseTech is laying off 2,000 employees due to AI advancements.",
+      "evidence_text": "WiseTech has begun informing staff that they will lose their jobs as part of redundancies the company has said are due to artificial intelligence advancements.",
+      "source_url": "https://www.theguardian.com/technology/2026/may/22/wisetech-redundancies-australia-omits-ai-from-emails-to-chinese-employees",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "An email to Chinese employees omitted the word 'AI'.",
+      "evidence_text": "In an email to staff sent this week laying out the timeline for the redundancy process, the company referred to an 'AI transformation', saying 'AI has fundamentally changed how work gets done across many industries and businesses'. However, in internal WiseTech Global Teams chats... staff noted the wording in the email sent to China-based employees was changed to 'global transformation'.",
+      "source_url": "https://www.theguardian.com/technology/2026/may/22/wisetech-redundancies-australia-omits-ai-from-emails-to-chinese-employees",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "company",
+      "name": "WiseTech",
+      "description": "A logistics software company based in Australia.",
+      "evidence_text": "WiseTech has begun informing staff that they will lose their jobs as part of redundancies the company has said are due to artificial intelligence advancements."
+    },
+    {
+      "type": "union",
+      "name": "Professionals Australia",
+      "description": "The union representing tech workers at WiseTech.",
+      "evidence_text": "The union representing the tech workers, Professionals Australia, presented a petition signed by nearly 600 WiseTech employees to Appoo last week."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "WiseTech begins redundancy process.",
+      "location": "South Korea, Mexico, Australia",
+      "actors": [
+        "WiseTech",
+        "employees"
+      ],
+      "evidence_text": "A spokesperson for WiseTech said the process had begun in South Korea and Mexico, and would start in other countries including Australia next week."
+    },
+    {
+      "date": "2026-02-28",
+      "event": "WiseTech announces layoffs.",
+      "location": "Australia",
+      "actors": [
+        "WiseTech"
+      ],
+      "evidence_text": "The Australian Stock Exchange-listed company announced in late February it would lay off almost 30% of its 7,000-strong workforce across 40 countries."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "percentage of workforce laid off",
+      "value": "30",
+      "unit": "%",
+      "date": "2026-02-28",
+      "location": "Australia",
+      "evidence_text": "The Australian Stock Exchange-listed company announced in late February it would lay off almost 30% of its 7,000-strong workforce across 40 countries."
+    },
+    {
+      "name": "number of employees affected",
+      "value": "2000",
+      "unit": "employees",
+      "date": "2026-05-21",
+      "location": "Australia",
+      "evidence_text": "WiseTech has begun informing staff that they will lose their jobs as part of redundancies the company has said are due to artificial intelligence advancements."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/technology/2026/may/22/wisetech-redundancies-australia-omits-ai-from-emails-to-chinese-employees",
+      "title": "WiseTech begins redundancies – but omits ‘AI’ from emails to Chinese employees, workers say",
+      "published": "Thu, 21 May 2026 15:00:35 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news organization with a history of reliable reporting."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

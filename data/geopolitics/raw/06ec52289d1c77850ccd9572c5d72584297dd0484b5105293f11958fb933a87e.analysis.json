@@ -1,0 +1,120 @@
+{
+  "document": {
+    "source_url": "https://reliefweb.int/attachments/6dfd8bd6-4ab3-4618-b082-0ac493529c92/Attacks%20and%20Displacement%20Continue%20in%20Lebanon_%20NGOs%20Call%20for%20a%20Genuine%20and%20Lasting%20Ceasefire.pdf",
+    "source_title": "Attacks and Displacement Continue in Lebanon: NGOs Call for a Genuine and Lasting Ceasefire (pdf)",
+    "published": "2026-05-21T12:45:46+00:00",
+    "data_type": "pdfs",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The document discusses the ongoing humanitarian crisis in Lebanon following a ceasefire that has not effectively reduced hostilities. Despite a temporary ceasefire declared on April 17, 2026, attacks have continued, resulting in significant civilian casualties and displacement. The report highlights the urgent need for humanitarian access and calls for a genuine and lasting ceasefire to protect civilians and allow for the safe return of displaced populations.",
+    "key_takeaways": [
+      "Ceasefire declared on April 17, 2026, has not stopped ongoing hostilities.",
+      "Over 600 people have been killed in Lebanon since the ceasefire declaration.",
+      "More than 3,000 people have died since the escalation began on March 2, 2026.",
+      "One million people remain internally displaced across Lebanon.",
+      "NGOs are struggling to meet the urgent needs of displaced populations.",
+      "Calls for immediate cessation of attacks on civilians and humanitarian access."
+    ],
+    "why_it_matters": "This report underscores the critical humanitarian situation in Lebanon, emphasizing the need for international intervention and support to protect civilians and facilitate humanitarian aid amidst ongoing violence.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The ceasefire has not effectively reduced hostilities.",
+      "evidence_text": "Yet hostilities are ongoing, albeit somewhat reduced in intensity and geographic scope.",
+      "source_url": "https://reliefweb.int/attachments/6dfd8bd6-4ab3-4618-b082-0ac493529c92/Attacks%20and%20Displacement%20Continue%20in%20Lebanon_%20NGOs%20Call%20for%20a%20Genuine%20and%20Lasting%20Ceasefire.pdf",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Over 600 people have been killed in Lebanon since the ceasefire was declared.",
+      "evidence_text": "Over 600 people have been killed in Lebanon since the ceasefire was declared, many of them women, children and emergency responders.",
+      "source_url": "https://reliefweb.int/attachments/6dfd8bd6-4ab3-4618-b082-0ac493529c92/Attacks%20and%20Displacement%20Continue%20in%20Lebanon_%20NGOs%20Call%20for%20a%20Genuine%20and%20Lasting%20Ceasefire.pdf",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "One million people remain internally displaced in Lebanon.",
+      "evidence_text": "One million people remain internally displaced, residing in collective shelters across the country.",
+      "source_url": "https://reliefweb.int/attachments/6dfd8bd6-4ab3-4618-b082-0ac493529c92/Attacks%20and%20Displacement%20Continue%20in%20Lebanon_%20NGOs%20Call%20for%20a%20Genuine%20and%20Lasting%20Ceasefire.pdf",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Lebanon Humanitarian INGO Forum (LHIF)",
+      "description": "An informal and independent coordinating body comprising 73 international NGOs working in Lebanon.",
+      "evidence_text": "The Lebanon Humanitarian INGO Forum (LHIF) is an informal and independent coordinating body comprising 73 international NGOs (INGOs) who are working to address the needs of vulnerable individuals, families, and communities throughout Lebanon."
+    },
+    {
+      "type": "organization",
+      "name": "Lebanon Humanitarian and Development NGOs Forum (LHDF)",
+      "description": "An independent network of over 90 local and national NGOs working across Lebanon.",
+      "evidence_text": "The Lebanon Humanitarian and Development NGOs Forum (LHDF) is an independent network of over 90 local and national NGOs (LNGOs) working across Lebanon to respond to humanitarian needs."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-16",
+      "event": "Temporary ceasefire renewed",
+      "location": "Lebanon",
+      "actors": [
+        "United States",
+        "Israel",
+        "Lebanon"
+      ],
+      "evidence_text": "On 16 May, the temporary ceasefire declared between Lebanon and Israel on 17 April was renewed for a second time, following negotiations brokered by the United States."
+    },
+    {
+      "date": "2026-03-02",
+      "event": "Escalation of violence begins",
+      "location": "Lebanon",
+      "actors": [],
+      "evidence_text": "More than 3,000 people have been killed in Lebanon since the escalation began on 2 March."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Deaths since ceasefire",
+      "value": "600",
+      "unit": "people",
+      "date": "2026-05-21",
+      "location": "Lebanon",
+      "evidence_text": "Over 600 people have been killed in Lebanon since the ceasefire was declared."
+    },
+    {
+      "name": "Total deaths since escalation",
+      "value": "3000",
+      "unit": "people",
+      "date": "2026-05-21",
+      "location": "Lebanon",
+      "evidence_text": "More than 3,000 people have been killed in Lebanon since the escalation began on 2 March."
+    },
+    {
+      "name": "Internally displaced persons",
+      "value": "1000000",
+      "unit": "people",
+      "date": "2026-05-21",
+      "location": "Lebanon",
+      "evidence_text": "One million people remain internally displaced."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://reliefweb.int/attachments/6dfd8bd6-4ab3-4618-b082-0ac493529c92/Attacks%20and%20Displacement%20Continue%20in%20Lebanon_%20NGOs%20Call%20for%20a%20Genuine%20and%20Lasting%20Ceasefire.pdf",
+      "title": "Attacks and Displacement Continue in Lebanon: NGOs Call for a Genuine and Lasting Ceasefire (pdf)",
+      "published": "2026-05-21T12:45:46+00:00",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The document is a formal statement from recognized NGOs addressing a critical humanitarian crisis."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
