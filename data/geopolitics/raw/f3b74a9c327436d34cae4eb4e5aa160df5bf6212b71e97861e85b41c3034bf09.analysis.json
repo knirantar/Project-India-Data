@@ -1,0 +1,160 @@
+{
+  "document": {
+    "source_url": "https://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/",
+    "source_title": "Ukraine and Russia Are Souring on U.S. Negotiations",
+    "published": "Wed, 20 May 2026 21:09:52 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses the deteriorating relationship between Ukraine and Russia regarding U.S.-led negotiations for peace in the ongoing conflict. Russia's initial enthusiasm for negotiations has waned, with officials expressing skepticism about the U.S. role. Ukraine, while making military gains, has also become critical of U.S. mediation efforts, indicating a shift towards seeking European involvement in negotiations. The dynamics of the conflict are evolving, with both sides reassessing their strategies and alliances.",
+    "key_takeaways": [
+      "Russia's enthusiasm for U.S.-led negotiations has diminished significantly.",
+      "Ukraine is increasingly critical of U.S. mediation and is seeking European involvement.",
+      "Military gains by Ukraine are changing the negotiation landscape.",
+      "U.S. pressure on Ukraine has reduced its leverage in negotiations.",
+      "European leaders are considering appointing an envoy to facilitate negotiations.",
+      "Diverse policy views among EU member states complicate a unified approach to Russia."
+    ],
+    "why_it_matters": "The article highlights the shifting dynamics in the Ukraine-Russia conflict and the implications for international diplomacy. As both Ukraine and Russia express disillusionment with U.S. mediation, the potential for European leadership in negotiations could reshape the conflict's trajectory and influence regional stability.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Russia's enthusiasm for U.S.-led negotiations has diminished.",
+      "evidence_text": "In March, Lavrov said the spirit of Anchorage was evaporating; and in April, he said negotiations were not Moscow’s 'top priority.'",
+      "source_url": "https://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ukraine is increasingly critical of U.S. mediation.",
+      "evidence_text": "Zelensky said in April that U.S. negotiators had 'no time for Ukraine.'",
+      "source_url": "https://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ukraine is making military gains against Russia.",
+      "evidence_text": "Ukraine is killing Russian troops faster than Russia can easily replace them.",
+      "source_url": "https://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Yuri Ushakov",
+      "description": "Top Russian foreign-policy official.",
+      "evidence_text": "Yuri Ushakov told Russian media: 'I don’t know about the ‘spirit of Anchorage.’ I’ve never used that phrase.'"
+    },
+    {
+      "type": "Person",
+      "name": "Steve Witkoff",
+      "description": "Real estate developer and friend of U.S. President Donald Trump, involved in negotiations.",
+      "evidence_text": "Negotiations have been led first by Steve Witkoff."
+    },
+    {
+      "type": "Person",
+      "name": "Jared Kushner",
+      "description": "Trump’s son-in-law, involved in negotiations.",
+      "evidence_text": "Later jointly by Witkoff and Jared Kushner."
+    },
+    {
+      "type": "Person",
+      "name": "Volodymyr Zelensky",
+      "description": "President of Ukraine.",
+      "evidence_text": "Zelensky said in April that U.S. negotiators had 'no time for Ukraine.'"
+    },
+    {
+      "type": "Person",
+      "name": "Sergey Lavrov",
+      "description": "Russian Foreign Minister.",
+      "evidence_text": "Lavrov said the spirit of Anchorage was evaporating."
+    },
+    {
+      "type": "Person",
+      "name": "JD Vance",
+      "description": "U.S. Vice President, expressed views on Ukraine's situation.",
+      "evidence_text": "Vance previously argued that Ukraine would likely lose the Donbas."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-02-01",
+      "event": "Meeting between Trump and Zelensky",
+      "location": "",
+      "actors": [
+        "Donald Trump",
+        "Volodymyr Zelensky"
+      ],
+      "evidence_text": "Trump has repeatedly framed Russia as the stronger power in the war, telling Zelensky that Ukraine didn’t 'have the cards.'"
+    },
+    {
+      "date": "2025-12-01",
+      "event": "Trump's statement on Ukraine's status",
+      "location": "",
+      "actors": [
+        "Donald Trump"
+      ],
+      "evidence_text": "Trump said in December 2025 that Ukraine was 'losing.'"
+    },
+    {
+      "date": "2026-05-11",
+      "event": "Putin proposes Gerhard Schröder as interlocutor",
+      "location": "",
+      "actors": [
+        "Vladimir Putin",
+        "Gerhard Schröder"
+      ],
+      "evidence_text": "Putin on May 11 proposed former German Chancellor Gerhard Schröder as an interlocutor."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "European Union funds unlocked for Ukraine",
+      "value": "104",
+      "unit": "billion",
+      "date": "2026-04-01",
+      "location": "Hungary",
+      "evidence_text": "The defeat of Hungarian Prime Minister Viktor Orban unlocked $104 billion in European Union funds for Ukraine."
+    },
+    {
+      "name": "Forecasted growth for Ukraine",
+      "value": "0.4",
+      "unit": "percent",
+      "date": "2026-01-01",
+      "location": "",
+      "evidence_text": "Contributing to a forecasted 0.4 percent growth for this year."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Ukraine",
+      "relationship": "seeking involvement",
+      "object": "European leaders",
+      "evidence_text": "Both Ukraine and Russia have said they are open to Europe leading negotiations."
+    },
+    {
+      "subject": "U.S.",
+      "relationship": "pressure on",
+      "object": "Ukraine",
+      "evidence_text": "The pressure the White House put on Ukraine has decreased its leverage."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://foreignpolicy.com/2026/05/20/ukraine-russia-war-negotiations-trump-europe/",
+      "title": "Ukraine and Russia Are Souring on U.S. Negotiations",
+      "published": "Wed, 20 May 2026 21:09:52 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable publication known for its analysis of international relations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

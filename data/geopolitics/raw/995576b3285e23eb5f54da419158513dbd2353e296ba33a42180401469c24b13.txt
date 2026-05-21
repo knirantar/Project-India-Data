@@ -1,0 +1,200 @@
+Commercial technologies are enabling the U.S. military and militaries around the world to operate with greater efficiency, speed, precision, and lethality. The benefits of commercial capabilities can be particularly impactful given the 
+defense industrial base’s
+ struggles to 
+produce
+ at the speed and scale needed to outmatch China, 
+Russia
+, and other aligned adversaries. It is largely for these reasons that President Donald Trump 
+mandated
+ the Department of Defense to preference commercial solutions. Congress also reinforced efforts to prioritize commercially available solutions in Section 1214 of the 
+2026 National Defense Authorization Act
+.
+Commercial technologies are also a driving factor behind increasingly rapid evolutions in the global threat landscape. Technologies widely accessible through commercial and 
+open-source
+ channels enable bad actors to threaten personnel, capital assets, and critical infrastructure for a fraction of the 
+cost
+ of “traditional” military capabilities, allowing adversaries to 
+erode
+ the U.S. military’s technological advantage.
+Amidst this backdrop of force modernization and technological disruption, the U.S. 
+National Defense Strategy
+ emphasizes the need for allies and partners to build up their own capabilities, thereby enhancing collective combat credibility and deterrence. In the event of a major conflict, the Department of Defense wants allies and partners to augment U.S. military capabilities, fight alongside American forces, and 
+hold the line in other regions.
+Herein lies a problem: Commercial technologies are increasingly critical for warfighting, but the Department of Defense still indexes heavily towards 
+providing
+ allies and partners exquisite platforms and traditional capabilities. The Department of Defense should evolve its approach to security cooperation and further encourage commercial solutions — everything from commercial cloud services to dual-use hardware — to build allied and partner capabilities.
+U.S. Security Cooperation Strategy Centers on Traditional Solutions 
+The Pentagon’s current strategy for building allied and partner capabilities centers on providing solutions currently or previously used by U.S. forces, predominantly through foreign military sales. The solutions provided to allies and partners are typically 
+defense articles
+ and 
+services
+ included on the United States Munitions List that are 
+programs of record
+. We will call these “traditional solutions.”
+The security cooperation enterprise 
+promotes
+ traditional solutions for three main reasons. First, global sales support the United States’ defense industrial base. To that end, recent executive orders by President Trump reinforced the need to 
+accelerate
+ and align foreign military sales to support expansion of the U.S. defense industrial base. The administration is now pursuing significant foreign military sales deals, such as a record 
+$142 billion
+ agreement with Saudi Arabia for air and missile defense systems, maritime security, and 
+more
+. Second, traditional solutions are rigorously tested and are therefore trustworthy. Third, promoting traditional solutions ostensibly builds interoperability. For these reasons, providing allies and partners with traditional solutions will continue to be a key part of U.S. security cooperation strategy.
+However, there are some limitations and drawbacks to exclusively relying on traditional solutions. First, many countries struggle to absorb, use, and sustain traditional solutions. Traditional solutions often require extensive training and institutional capacity before their incorporation into force structures and operations. They are also costly and resource-intensive to maintain, sometimes straining partner capacity. As a result, U.S.-provided weapons systems are sometimes reduced to prestige items for 
+hollow forces
+.
+Further, there is roughly $250 billion in 
+backlog
+ in foreign military sales, due in no small part to bottlenecks in weapons system production. Though the administration and Congress are trying to 
+fix
+ the defense industrial base’s 
+production challenges
+, doing so will take time. Realistically, weapons production capacity could remain inadequate to meet both the U.S. military’s needs and those of allies and 
+partners
+ for the foreseeable future.
+Though the rigor with which traditional solutions are tested and evaluated helps ensure the systems are reliable and trustworthy, that rigor comes at the cost of time to reach production. As a result, focusing foreign sales on traditional solutions undermines the U.S.’s ability to help allies and partners respond quickly to emergent needs. Ukraine is 
+rapidly developing
+ its global arms industry because of its ability to rapidly innovate and produce “good enough” solutions. This growth is made possible by exploiting commercial technologies at scale.
+The very characteristics of commercial technologies that make them so useful for rapid innovation —  design features like open architectures, plug-and-play designs, and cloud-based availability — also challenge the assumption that interoperability with allies and partners demands traditional solutions. In fact, commercial technologies could actually improve interoperability among U.S., allied, and partner forces. See, for example, the U.S. Army’s experimental 
+Mission Partner Kit
+, which was developed using commercial technologies and distributed to NATO allies during Saber Strike 2024. As the Department of Defense itself adopts more commercial solutions, maintaining interoperability with allies and partners may require them to adopt commercial technologies, as well (It is also worth noting how hard interoperability actually is: 
+Kuwait
+ downing American fighter jets is a poignant reminder of this fact).
+Finally, overreliance on 
+traditional solutions
+ simply does not reflect the trajectory of modern warfare, in which commercial technologies play a critical and disruptive role. In the author’s own experience, foreign partners are actively signaling demand for commercial solutions, but the Department of Defense is struggling to address these requirements. 
+Modernizing
+ allies’ and partners’ capabilities with commercial technologies could significantly advance the Department’s efforts to build collective combat credibility, 
+deter aggression
+,
+ advance 
+burden-sharing
+, and ensure the United States remains the partner of choice.
+Evolving Security Cooperation to Pace Modern Threats 
+Three years before Russia launched its full-scale invasion of Ukraine, President Volodymyr Zelensky launched an ambitious effort to build a “
+state in a smartphone
+,” digitizing everything from passports to vehicle registrations. During the earliest days of Russia’s invasion, the Ukrainian government migrated terabytes of essential data to the commercial 
+cloud
+. These efforts laid the foundations for the digital infrastructure that 
+remains vital
+ to Ukraine’s resistance. Today, a vast 
+ecosystem
+ of commercial companies leverages that very digital infrastructure for the rapid development of defense and national security applications. Commercial software, data analytics, compute, sensors, and communications allow Ukrainian forces to close kill chains and deliver 
+outsized operational effects
+. Commercial technologies are also being used to optimize the employment of traditional solutions. Precious 155-millimeter shells can be more 
+precisely targeted,
+ for example, maximizing effects and making limited supplies go farther.
+This trend is not isolated to Ukraine: It’s happening globally. For example, the 
+Israeli military
+ is reportedly using commercially available AI for intelligence analysis and target tracking, and the 
+Chinese
+ and 
+Russian
+ militaries increasingly use commercially available AI capabilities for 
+logistics
+ and even for developing 
+counter-AI
+ capabilities. Houthis are arming 
+commercial drones
+ with mortars and acquiring commercially available 
+jet engines
+ to build drones and rockets capable of hitting targets at a distance. Just minutes from the United States’ southern border, drug cartels in Tijuana, Mexico, used commercial drones to 
+attack
+ one of the state prosecutor’s offices.
+In the modern environment — one in which commercial technologies can rapidly improve military capabilities and rapidly spawn new threats — helping allies and partners build resilient capabilities and shoulder more responsibility requires commercial solutions. Recognizing this, President Trump’s 
+executive order
+ on arms transfers includes “new entrants and nontraditional defense companies.” But there is more to do.
+For example, the 
+National Security Strategy
+ and 
+National Defense Strategy
+ highlight foreign military sales as a priority, seemingly doubling down on traditional solutions, but make no mention of promoting commercial technologies to advance burden-sharing among allies and partners. Though there are some efforts already underway to work with 
+allies
+ and 
+partners
+ on commercial technology applications, the Department of Defense needs a broader vision to coordinate, scale, and sustain such efforts. Reflecting this gap, Congress 
+mandated
+ the Department of Defense to create a new office to facilitate the inclusion of commercial technology into foreign military sales.
+Congressional interest, coupled with ongoing 
+organizational changes
+ in the Department of Defense, offers an opportune time to designate a leader tasked with developing and executing a plan to make commercial technology a core component of the 
+United States’ security cooperation strategy
+. The plan would ideally include hardware and software, tactical capabilities, and backend systems. Ensuring the plan’s success will require new practices, policies, and processes. Some ideas for consideration follow.
+Cultivate a New Ecosystem of Solution Providers and Partners
+Foreign military sales are largely the provenance of traditional defense contractors. The security cooperation community and non-traditional contractors should build new relationships. Commercial technology companies can 
+outpace
+ the U.S. government in providing effective solutions to foreign militaries. The Department of Defense can better leverage industry’s agility and creativity. Sharing insights into allies’ and partners’ threats and needs with a network of trusted commercial companies can serve as the basis for partnership between the government and industry. Further, the Department of Defense could work more closely with the Department of State and 
+Department of Commerce
+ to promote American commercial technologies and 
+help non-traditional contractors navigate international defense markets
+.
+The network of government offices and agencies that support security cooperation activities could be expanded by designating the Defense Innovation Unit and the military services’ chief information officers as security cooperation implementing agencies. By tapping 
+fees
+ that allies and partners pay on foreign military sales, new security cooperation-focused roles could enable such organizations to consistently lend technical expertise to security cooperation programs. Technical expertise in the National Guard could also be leveraged via the 
+State Partnership Program
+.
+Prepare U.S. Military Groups and Security Cooperation Organizations to Introduce Commercial Technologies 
+U.S. Military Groups and 
+Security Cooperation Organizations
+ — Department of Defense teams in U.S. embassies — serve as interlocutors with allies and partners for arms transfers and capability-building activities. These teams need to be educated on commercial technology applications, as well as approaches to working with allies and partners to explore and identify potential solutions available through the commercial market. The 
+Defense Security Cooperation Service
+ and 
+Defense Security Cooperation University
+ can advance inclusion of commercial technology into security cooperation, incorporating use cases and guidance into the training and education delivered to the security cooperation professionals interfacing with allies and partners daily.
+Incentivize Problem-Solving for the Customer
+The same 
+risk aversion
+ that plagues the acquisition system exists in the security cooperation community: It is easier and “safer” to push traditional solutions. Concerns about recommending untested solutions and 
+negotiating foreign military sales contracts on behalf of partners
+ for solutions with which the acquisition community has little experience are valid. However, notwithstanding 
+guidance
+ to make all potential solutions accessible to allies and partners, the Department of Defense only offers allies and partners “non-traditional” solutions by exception. The 
+2024 Foreign Military Sales Tiger Task Force
+ correctly noted that Security Cooperation Organizations could be better “incentivized to tap into the wealth of burgeoning defense technology start-ups.” The same can be said for regional component commands and service program offices.
+Modernize Direct Commercial Sales
+Many assume that the Direct Commercial Sales process is better-suited for commercial solutions because it is faster than the foreign military sales process. In truth, even 
+direct commercial sales
+ are geared towards traditional solutions. Further, except in the case of 
+specific countries
+, direct commercial sales should be financed by the customer, which means a significant portion of direct commercial sales cases — particularly among under-resourced partners — are for low-cost, basic products and services.
+Congress could allow 
+foreign military financing
+ to be used by all allies and partners to procure American-made commercial technologies through direct commercial contracts. One way to implement this would be to allow foreign military financing for direct contracts with 
+pre-vetted
+ companies and 
+solutions
+ — effectively creating a marketplace for allies and partners to buy commercial capabilities. These steps would help reduce budgetary barriers for allies and partners, as well as open new markets to American technology companies and startups.
+Ukraine’s development of a 
+drone marketplace
+ shows how marketplace models can significantly accelerate the fielding of optimal solutions to unique operational problems. The U.S. Army’s own 
+efforts 
+to launch a drone marketplace are a great step in the right direction, and could be expanded upon to open avenues for allies and partners to acquire a wider array of solutions.
+Avoid Trust-Busters
+As noted above, rigorous testing, validation, and security checks on the traditional solutions provided to allies and partners give countries confidence in the quality and reliability of what they are buying from the United States. The Department of Defense could help instill similar confidence in commercial solutions at a pace that ensures delivery at the speed of relevance. For commercial solutions not already tested, validated, and in use by the Department, newly created 
+Combatant Command Experimentation Authorities
+ could enable and accelerate such validations. As a next step, the authority should be backed by funding to test solutions’ efficacy and trustworthiness, such as 
+foreign ownership, control, and influence assessments
+ of promising commercial solutions for allies and partners.
+Conclusion 
+Despite 
+hyperbolics
+ about the “changing nature” of warfare, traditional solutions will remain critical. Quadcopters are not rendering artillery obsolete. However, the cost of traditional solutions is too high for many partners to sustain, and the production bottlenecks and lead times are too extensive. Commercial technologies are also making militaries better — better at processing information, better at managing complex systems and operations, and better at employing forces. Ensuring an edge over adversaries means that the U.S. military and its network of allies and partners should adopt commercial technologies quickly.
+The United States should overcome the 
+inertia
+ in the foreign military sales apparatus that 
+inhibits
+ the delivery of anything outside of traditional solutions. America’s inability to deliver optimal solutions in a timely manner will push allies and partners to look 
+elsewhere
+. When the United States did not sell 
+military drones
+ to partners in the Middle East, those countries simply turned to China. The United States now risks the same happening with commercial technologies.
+The Department of Defense can best preserve its status as partner of choice and achieve its goals of enhancing burden-sharing and improving deterrence globally by helping allies and partners leverage best-of-class capabilities and cost-effective, scalable solutions. Now is the time to think anew about how to build allied and partner capabilities. Commercial technologies should be a major part of the approach.
+ 
+Jarrett Lane is an adjunct research staff member at the Institute for Defense Analyses and co-founder of the North Carolina Critical Technologies Alliance. His work focuses on emerging and dual-use technologies, industrial and technology policy, and global partnerships. 
+The views expressed are the author’s own and do not constitute endorsement by the Institute for Defense Analyses.
+**Please note, as a matter of house style, 
+War on the Rocks
+ will not use a different name for the U.S. Department of Defense until and unless the name is changed by statute by the U.S. Congress.
+Image: Sgt. 1st Class Kenneth Tucceri via 
+DVIDS
+.

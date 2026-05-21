@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: Lebanon: UN peacekeeping force warns drone incidents near its positions are putting personnel at risk (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/13-05-2026-UNIFIL-Lebanon.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml
+Content-Type: image/jpeg
+Bytes: 26965

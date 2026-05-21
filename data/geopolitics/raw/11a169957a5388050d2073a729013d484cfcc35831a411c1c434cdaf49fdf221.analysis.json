@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "http://www.euronews.com/2026/05/21/israel-says-all-gaza-flotilla-activists-have-been-deported-amid-global-outrage-over-their-",
+    "source_title": "Israel says all Gaza flotilla activists have been deported amid global outrage over their treatment",
+    "published": "2026-05-21T16:29:39+02:00",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Israel's foreign ministry announced the deportation of foreign activists from the Global Sumud Flotilla, who were detained after attempting to breach the naval blockade on Gaza. The decision comes amid international criticism of their treatment, particularly following footage of Israeli National Security Minister Itamar Ben-Gvir taunting the detainees. Leaders from various countries, including Italy, Ireland, and Spain, have condemned the actions and called for sanctions against Ben-Gvir, while Israeli officials have expressed disapproval of his conduct.",
+    "key_takeaways": [
+      "All foreign activists from the Global Sumud Flotilla have been deported from Israel.",
+      "The activists were detained after attempting to breach the naval blockade on Gaza.",
+      "International leaders have condemned the treatment of the detainees.",
+      "Video footage of Ben-Gvir taunting detainees has sparked outrage.",
+      "Calls for EU sanctions against Ben-Gvir are being made by multiple countries.",
+      "Israeli officials have criticized Ben-Gvir's actions as damaging to the state's image."
+    ],
+    "why_it_matters": "The deportation of the activists and the subsequent international outcry highlight ongoing tensions regarding Israel's blockade of Gaza and the treatment of detainees, raising questions about human rights and diplomatic relations.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "All foreign activists from the PR flotilla have been deported from Israel.",
+      "evidence_text": "Israel's foreign ministry said on Thursday that foreign activists from the Global Sumud Flotilla detained by Israeli forces have been deported.",
+      "source_url": "http://www.euronews.com/2026/05/21/israel-says-all-gaza-flotilla-activists-have-been-deported-amid-global-outrage-over-their-",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Video footage shows Ben-Gvir taunting detainees.",
+      "evidence_text": "Footage posted to his X account showed Ben-Gvir berating detainees and waving a large Israeli flag as they were forced to kneel with their hands tied behind their backs.",
+      "source_url": "http://www.euronews.com/2026/05/21/israel-says-all-gaza-flotilla-activists-have-been-deported-amid-global-outrage-over-their-",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "International leaders are calling for sanctions against Ben-Gvir.",
+      "evidence_text": "Italian Foreign Minister Antonio Tajani on Thursday said their treatment was 'unacceptable' and called on the European Union to sanction the minister.",
+      "source_url": "http://www.euronews.com/2026/05/21/israel-says-all-gaza-flotilla-activists-have-been-deported-amid-global-outrage-over-their-",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Global Sumud Flotilla",
+      "description": "A group of foreign activists attempting to breach the naval blockade on Gaza.",
+      "evidence_text": "foreign activists from the Global Sumud Flotilla detained by Israeli forces have been deported."
+    },
+    {
+      "type": "person",
+      "name": "Itamar Ben-Gvir",
+      "description": "Israeli National Security Minister who taunted detainees.",
+      "evidence_text": "Footage posted to his X account showed Ben-Gvir berating detainees."
+    },
+    {
+      "type": "person",
+      "name": "Antonio Tajani",
+      "description": "Italian Foreign Minister who condemned the treatment of detainees.",
+      "evidence_text": "Italian Foreign Minister Antonio Tajani on Thursday said their treatment was 'unacceptable'."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "Deportation of activists from the Global Sumud Flotilla",
+      "location": "Israel",
+      "actors": [
+        "Israeli foreign ministry",
+        "Global Sumud Flotilla activists"
+      ],
+      "evidence_text": "Israel's foreign ministry said on Thursday that foreign activists from the Global Sumud Flotilla detained by Israeli forces have been deported."
+    },
+    {
+      "date": "2026-05-16",
+      "event": "Detention of activists at sea",
+      "location": "Near Cyprus",
+      "actors": [
+        "Israeli forces",
+        "Global Sumud Flotilla activists"
+      ],
+      "evidence_text": "The roughly 430 activists from countries around the world had been placed in detention in Israel after being intercepted at sea on Monday near Cyprus."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "http://www.euronews.com/2026/05/21/israel-says-all-gaza-flotilla-activists-have-been-deported-amid-global-outrage-over-their-",
+      "title": "Israel says all Gaza flotilla activists have been deported amid global outrage over their treatment",
+      "published": "2026-05-21T16:29:39+02:00",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "Euronews is a reputable news source providing coverage of international events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,82 @@
+{
+  "document": {
+    "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "sanctions_designations",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The document contains a list of entities and individuals designated under U.S. sanctions, primarily related to Cuba and various organizations linked to terrorism. It includes details such as names, aliases, addresses, and the nature of their sanctions. The designations are part of efforts to enforce U.S. foreign policy and national security interests.",
+    "key_takeaways": [
+      "Includes multiple entities and individuals linked to Cuba.",
+      "Details aliases and addresses for each entity.",
+      "Highlights the U.S. sanctions regime against terrorism.",
+      "Lists secondary sanctions risks under Executive Order 13224.",
+      "Identifies key figures in various organizations.",
+      "Provides a comprehensive overview of sanctioned entities."
+    ],
+    "why_it_matters": "This document is significant as it outlines the U.S. government's efforts to impose sanctions on entities and individuals involved in activities that threaten national security, particularly those associated with terrorism and the Cuban regime.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "AEROCARIBBEAN AIRLINES is sanctioned.",
+      "evidence_text": "AEROCARIBBEAN AIRLINES Entity CUBA a.k.a. strong AERO-CARIBBEAN",
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "BANCO NACIONAL DE CUBA is sanctioned.",
+      "evidence_text": "BANCO NACIONAL DE CUBA Entity CUBA a.k.a. weak BNC a.k.a. strong NATIONAL BANK OF CUBA",
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Individuals associated with terrorism are sanctioned.",
+      "evidence_text": "Secondary sanctions risk: section 1(b) of Executive Order 13224, as amended by Executive Order 13886",
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Entity",
+      "name": "AEROCARIBBEAN AIRLINES",
+      "description": "Airline entity based in Cuba.",
+      "evidence_text": "AEROCARIBBEAN AIRLINES Entity CUBA a.k.a. strong AERO-CARIBBEAN"
+    },
+    {
+      "type": "Entity",
+      "name": "BANCO NACIONAL DE CUBA",
+      "description": "National bank of Cuba.",
+      "evidence_text": "BANCO NACIONAL DE CUBA Entity CUBA a.k.a. weak BNC a.k.a. strong NATIONAL BANK OF CUBA"
+    },
+    {
+      "type": "Individual",
+      "name": "Abu Abbas",
+      "description": "Director of PALESTINE LIBERATION FRONT - ABU ABBAS FACTION.",
+      "evidence_text": "Abu ABBAS Director of PALESTINE LIBERATION FRONT - ABU ABBAS FACTION Individual SDGT"
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "title": "None",
+      "published": "None",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The document is published by the U.S. Department of the Treasury."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

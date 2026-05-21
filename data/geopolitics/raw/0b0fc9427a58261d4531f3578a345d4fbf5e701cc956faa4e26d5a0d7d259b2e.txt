@@ -1,0 +1,53 @@
+KYIV, Ukraine — Senior White House 
+officials
+ publicly placed Ukraine’s military ahead of allied counterparts in Europe across four venues last week, and in some respects ranked Kyiv ahead of the United States itself, even as U.S. President 
+Donald Trump
+ has continued to dismiss Ukraine’s military strength.
+The Ukrainian armed forces are “the strongest, most powerful armed forces in all of Europe,” Secretary of State Marco Rubio 
+said
+ last week, citing a five-to-one Russian-to-Ukrainian casualty rate and four years of battlefield adaptation.
+The necessity of fighting the war, Rubio said, has pushed Ukrainians to develop “new tactics, new techniques, new equipment, new technology that is creating a sort of hybrid asymmetrical warfare.”
+U.S. Army Secretary Dan Driscoll 
+told
+ the Senate Armed Services Committee the same week that Ukraine has fused drones, sensors and weapons into a single command network running across the front, while U.S. Army systems remain “compartmentalized, isolated and ineffective against modern threats.”
+“Ukraine’s Delta common operating system, their modular open system architecture command and control system, is absolutely incredible,” Driscoll testified.
+“It fully integrates every single drone, every sensor and every shooting platform into just one single network. Ours does not.”
+The shift in tone comes as allied partners press Kyiv for help countering Iranian drones, and as several countries, including the U.S., are seeking to finalize new weapons deals to 
+route Ukrainian drone technology into joint ventures
+ across the West.
+It is a sharp turnaround from a second Trump administration that came in saying Kyiv had no cards to play. 
+Defense Secretary Pete Hegseth has spent the months since Trump assumed office telling European allies the continent’s defense is their problem, not Washington’s, and Trump has continued to frame NATO as a debtor to the U.S. rather than a partner. 
+In March, Trump continued to downplay Ukrainian dominance in the drone and counter-drone industry. 
+“We don’t need their help in drone defense,” he told 
+Fox News
+ at the time. “We know more about drones than anybody. We have the best drones in the world, actually.” 
+The remark came as the Pentagon was quietly moving in the opposite direction: U.S. forces deployed a 
+Ukrainian counter-drone system
+ to intercept Iranian Shahed attacks over an American installation in Saudi Arabia weeks later, and Ukrainian military officials flew in to train American warfighters on the tech. 
+The same pattern is showing up on the war front.
+Ukraine’s offensive operations exceed Russia’s “for the first time,” Commander-in-Chief Gen. Oleksandr Syrskyi 
+said
+ last week, with Russian casualties running 3.5 times higher than Ukrainian losses along the line.
+Much of Ukraine’s recent operational edge runs through a single piece of software: the Defense Ministry’s Delta system, the platform Driscoll told senators the U.S. Army cannot match.
+Delta
+ is the backbone of Ukraine’s digital kill chain. Developed by the Ministry of Defense, it fuses drone, sensor, radar and communications feeds onto a single digital map shared by verified frontline users. 
+In 2024, it became the first Ukrainian combat system to pass an information-security audit to NATO standards. 
+Kyiv has since folded a 
+Mission Control module into the ecosystem that logs every drone
+ sortie — type, launch point, route, mission and outcome — and pushes commander dashboards from battalion to leadership in minutes, logging and analyzing all the information along the way.
+Yurii Myronenko, the Defense Ministry’s 
+inspector general
+ and the official who oversaw Delta’s expansion before moving into the audit role in March, said the system was built for the war it is now fighting.
+“Delta is one of the best systems because, from the beginning, it was made for this drone war — integrated with EW systems, detectors, artillery, everything,” Myronenko told Military Times. 
+“And then we have all the data that we are learning from. It’s become a data war.”
+The platform now has 270,000 registered users, he said — up from a reported 200,000 in December — and is being refined for ease of use and tighter integration with frontline tools every day. 
+Pressed on why the Army is only embracing Ukrainian-style integration in the fifth year of the war, Driscoll told the committee the delay is on him. 
+“Chairman, I would look at myself and only myself that we haven’t moved faster on it,” he said. 
+Driscoll pointed to a six-week sprint underway at Fort Carson, called Operation Jailbreak, as the answer: rewiring legacy systems to share data, then layering in generative AI for decision-making, something Driscoll said the Ukrainians have been doing “for the entire war.”
+Earlier this month, the Army and a coalition of American defense companies, including Anduril, Boeing, Lockheed Martin, Perennial Autonomy and RTX, 
+announced
+ a hackathon sprint called “Right to Integrate,” built around the same modular open-systems architecture that lets Delta absorb new tools as Ukrainian engineers build them. 
+Several of those companies have already tested their systems on the Ukrainian front, where the war has become the most consequential live proving ground for Western drone and counter-drone tech.
+“The war in Ukraine showed the world that speed matters and an open architecture construct is highly effective in high-intensity warfare,” Driscoll said in the Army release.
+Rewriting the Army’s command-and-control architecture while the U.S. fights through limited weapons supplies and competing wars is no simple feat. But the alternative, Driscoll said, is worse.
+“The biggest risk is not going fast enough,” he told the committee.

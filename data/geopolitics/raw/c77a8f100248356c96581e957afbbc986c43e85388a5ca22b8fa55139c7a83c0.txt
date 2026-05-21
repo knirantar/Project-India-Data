@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-04-2026-WHO-Gaza-02.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml
+Content-Type: image/jpeg
+Bytes: 46238

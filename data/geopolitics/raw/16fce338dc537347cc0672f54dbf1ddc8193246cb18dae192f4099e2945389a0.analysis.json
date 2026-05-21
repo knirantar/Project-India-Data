@@ -1,0 +1,57 @@
+{
+  "document": {
+    "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image560x340cropped.jpg",
+    "source_title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages (image)",
+    "published": "2026-05-15T12:00:00Z",
+    "data_type": "images",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The image highlights the worsening hunger crisis in Sudan, where millions are facing acute food shortages. The United Nations has issued warnings regarding the dire situation, emphasizing the urgent need for humanitarian assistance. This crisis is a significant concern for global peace and security, as it affects the stability of the region.",
+    "key_takeaways": [
+      "Sudan is experiencing a deepening hunger crisis.",
+      "Millions are facing acute food shortages.",
+      "The UN has issued warnings about the situation.",
+      "Humanitarian assistance is urgently needed.",
+      "The crisis impacts regional stability.",
+      "It is a significant concern for global peace and security."
+    ],
+    "why_it_matters": "The situation in Sudan is critical as it not only affects the health and well-being of millions but also poses a threat to regional stability and international peace efforts. Addressing this crisis is essential for humanitarian reasons and for maintaining security in the region.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Sudan is facing a hunger crisis.",
+      "evidence_text": "The image highlights the worsening hunger crisis in Sudan.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image560x340cropped.jpg",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Millions are facing acute food shortages.",
+      "evidence_text": "Millions are facing acute food shortages.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image560x340cropped.jpg",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image560x340cropped.jpg",
+      "title": "Sudan hunger crisis deepens as UN warns millions face acute food shortages (image)",
+      "published": "2026-05-15T12:00:00Z",
+      "evidence_text": "The image highlights the worsening hunger crisis in Sudan."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "Source is from the United Nations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

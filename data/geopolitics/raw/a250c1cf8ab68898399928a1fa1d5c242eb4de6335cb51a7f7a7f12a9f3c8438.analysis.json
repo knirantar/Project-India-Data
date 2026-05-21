@@ -1,0 +1,44 @@
+{
+  "document": {
+    "source_url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "geospatial_mapping_data",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "This document contains binary geospatial mapping data collected for the Global Geopolitics Monitor. The data is focused on disputed areas around the world, providing a visual representation of geopolitical boundaries and conflicts. The source is a zip file containing the relevant mapping data for analysis.",
+    "key_takeaways": [
+      "Contains geospatial mapping data on disputed areas.",
+      "Useful for analyzing global geopolitical conflicts.",
+      "Data is provided in a binary format.",
+      "Source is intended for the Global Geopolitics Monitor.",
+      "File size is 215221 bytes.",
+      "Available for download as a zip file."
+    ],
+    "why_it_matters": "This geospatial mapping data is significant for researchers and analysts studying global geopolitics, as it provides essential visual tools for understanding territorial disputes and their implications on international relations.",
+    "tags_topics": []
+  },
+  "claims": [],
+  "entities": [],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "title": "None",
+      "published": "None",
+      "evidence_text": "This document contains binary geospatial_mapping_data source collected for Global Geopolitics Monitor."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "unknown",
+    "reason": "The source is a zip file with no additional context or author information provided."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

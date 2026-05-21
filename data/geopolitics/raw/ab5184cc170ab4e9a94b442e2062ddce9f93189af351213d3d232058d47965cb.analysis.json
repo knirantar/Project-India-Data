@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "https://www.cia.gov/the-world-factbook/",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "websites_html_pages",
+    "author": "",
+    "publisher": "CIA",
+    "language": "English",
+    "region": "",
+    "summary": "The World Factbook, a prominent intelligence publication by the CIA, has been discontinued. It transitioned from a classified document to an unclassified electronic resource over several decades, serving as a comprehensive reference for global information. Launched in 1962, it evolved significantly, becoming accessible online in 1997 and attracting millions of users annually. The publication was valued by a diverse audience, including researchers and travelers, and featured a collection of copyright-free photographs.",
+    "key_takeaways": [
+      "The World Factbook was launched in 1962 as a classified publication.",
+      "It became unclassified in 1971 and was renamed in 1981.",
+      "The digital version was introduced in 1997 on CIA.gov.",
+      "It served millions of users, including researchers and travelers.",
+      "The publication included over 5,000 copyright-free photographs.",
+      "The World Factbook has now been sunsetted."
+    ],
+    "why_it_matters": "The World Factbook was a vital resource for understanding global demographics, geography, and political structures, making it significant for researchers, educators, and the general public interested in international affairs.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The World Factbook has been discontinued.",
+      "evidence_text": "The World Factbook, a prominent intelligence publication by the CIA, has been discontinued.",
+      "source_url": "https://www.cia.gov/the-world-factbook/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The World Factbook transitioned from classified to unclassified.",
+      "evidence_text": "It transitioned from a classified document to an unclassified electronic resource over several decades.",
+      "source_url": "https://www.cia.gov/the-world-factbook/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The World Factbook was launched in 1962.",
+      "evidence_text": "The original classified publication, titled The National Basic Intelligence Factbook, launched in 1962.",
+      "source_url": "https://www.cia.gov/the-world-factbook/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The digital version of The World Factbook was introduced in 1997.",
+      "evidence_text": "In 1997, The World Factbook went digital and debuted to a worldwide audience on CIA.gov.",
+      "source_url": "https://www.cia.gov/the-world-factbook/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "publication",
+      "name": "The World Factbook",
+      "description": "A prominent intelligence publication by the CIA that provided global information.",
+      "evidence_text": "The World Factbook, a prominent intelligence publication by the CIA, has been discontinued."
+    },
+    {
+      "type": "organization",
+      "name": "CIA",
+      "description": "The Central Intelligence Agency, responsible for gathering intelligence and conducting foreign operations.",
+      "evidence_text": "The World Factbook, a prominent intelligence publication by the CIA, has been discontinued."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [
+    {
+      "date": "1962-01-01",
+      "milestone": "Launch of The National Basic Intelligence Factbook",
+      "evidence_text": "The original classified publication, titled The National Basic Intelligence Factbook, launched in 1962."
+    },
+    {
+      "date": "1971-01-01",
+      "milestone": "First unclassified version issued",
+      "evidence_text": "The first unclassified companion version was issued in 1971."
+    },
+    {
+      "date": "1981-01-01",
+      "milestone": "Renamed to The World Factbook",
+      "evidence_text": "A decade later it was renamed The World Factbook."
+    },
+    {
+      "date": "1997-01-01",
+      "milestone": "Digital version launched",
+      "evidence_text": "In 1997, The World Factbook went digital and debuted to a worldwide audience on CIA.gov."
+    }
+  ],
+  "citations": [
+    {
+      "source_url": "https://www.cia.gov/the-world-factbook/",
+      "title": "None",
+      "published": "None",
+      "evidence_text": "The World Factbook, a prominent intelligence publication by the CIA, has been discontinued."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "Published by the CIA, a recognized government agency."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

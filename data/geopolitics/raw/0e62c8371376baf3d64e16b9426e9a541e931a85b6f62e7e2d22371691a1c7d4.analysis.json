@@ -1,0 +1,123 @@
+{
+  "document": {
+    "source_url": "https://www.defensenews.com/global/europe/2026/05/14/blacklists-corruption-and-frontline-needs-ukraine-tackles-an-arms-export-puzzle/",
+    "source_title": "Blacklists, corruption and frontline needs: Ukraine tackles an arms-export puzzle",
+    "published": "Thu, 14 May 2026 15:48:59 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Ukraine is moving towards exporting its military technology, particularly drones, to the U.S. for the first time since the onset of the full-scale invasion by Russia in 2022. A memorandum between the U.S. State Department and Ukraine's ambassador aims to facilitate joint ventures and tech transfers. This comes alongside Ukraine's new 'Drone Deals' export framework and a significant increase in foreign defense funding, which has surged to $6.1 billion in 2025. The new policies are designed to enhance Ukraine's defense production capabilities while ensuring that domestic military needs are prioritized.",
+    "key_takeaways": [
+      "Ukraine's new export framework allows for the sale of military technology to the U.S.",
+      "Foreign defense funding to Ukraine increased tenfold from 2024 to 2025.",
+      "The Ukrainian arms industry has grown significantly since the invasion, with production capacity expected to reach $55 billion in 2026.",
+      "A memorandum aims to integrate Ukrainian defense producers with U.S. firms.",
+      "Ukraine is forming defense procurement coalitions with European nations.",
+      "The new export policies are designed to combat corruption and streamline approvals."
+    ],
+    "why_it_matters": "The developments in Ukraine's arms export policies signify a strategic shift in its defense capabilities, allowing for greater integration with Western military supply chains and addressing both domestic and international defense needs amidst ongoing conflict.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Ukraine is set to export military technology to the U.S. for the first time since 2022.",
+      "evidence_text": "The draft agreement would open a legal channel for Kyiv to sell its weapons to the U.S. for the first time since it effectively banned arms exports to maintain its own forces at the start of Russia’s full-scale invasion in 2022.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/14/blacklists-corruption-and-frontline-needs-ukraine-tackles-an-arms-export-puzzle/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Foreign defense funding to Ukraine hit $6.1 billion in 2025.",
+      "evidence_text": "Foreign defense funding to Ukraine hit $6.1 billion in 2025, marking a tenfold increase over the roughly $600 million the year before.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/14/blacklists-corruption-and-frontline-needs-ukraine-tackles-an-arms-export-puzzle/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ukraine's defense production capacity has grown significantly since the invasion.",
+      "evidence_text": "Ukraine’s defense production capacity has grown 35 times since the invasion began, from $1 billion to $35 billion.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/14/blacklists-corruption-and-frontline-needs-ukraine-tackles-an-arms-export-puzzle/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "U.S. State Department",
+      "description": "The U.S. government department responsible for foreign affairs.",
+      "evidence_text": "The U.S. State Department and Ukraine’s ambassador in Washington have outlined a memorandum."
+    },
+    {
+      "type": "person",
+      "name": "Olha Stefanishyna",
+      "description": "Ukrainian Ambassador to the U.S.",
+      "evidence_text": "The memorandum, drawn between the State Department and Ukrainian Ambassador Olha Stefanishyna."
+    },
+    {
+      "type": "organization",
+      "name": "National Security and Defense Council of Ukraine",
+      "description": "The body responsible for national security and defense policy in Ukraine.",
+      "evidence_text": "The National Security and Defense Council of Ukraine, based on intergovernmental agreements with partners, will define the framework for cooperation."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-13",
+      "event": "Zelenskyy speaks at a summit in Bucharest",
+      "location": "Bucharest, Romania",
+      "actors": [
+        "Volodymyr Zelenskyy"
+      ],
+      "evidence_text": "Zelenskyy touted the new framework at a May 13 summit in Bucharest, Romania."
+    },
+    {
+      "date": "2026-04-30",
+      "event": "Signing of the CORPUS Memorandum",
+      "location": "Kyiv, Ukraine",
+      "actors": [
+        "Ukraine",
+        "Finland",
+        "Italy",
+        "Norway",
+        "Sweden",
+        "United Kingdom"
+      ],
+      "evidence_text": "Ukraine and five European nations – Finland, Italy, Norway, Sweden and the United Kingdom – signed the CORPUS Memorandum on April 30."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Foreign defense funding",
+      "value": "6.1",
+      "unit": "billion USD",
+      "date": "2025",
+      "location": "Ukraine",
+      "evidence_text": "Foreign defense funding to Ukraine hit $6.1 billion in 2025."
+    },
+    {
+      "name": "Defense production capacity",
+      "value": "55",
+      "unit": "billion USD",
+      "date": "2026",
+      "location": "Ukraine",
+      "evidence_text": "The National Security and Defense Council projects capacity expected to hit $55 billion in 2026."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/14/blacklists-corruption-and-frontline-needs-ukraine-tackles-an-arms-export-puzzle/",
+      "title": "Blacklists, corruption and frontline needs: Ukraine tackles an arms-export puzzle",
+      "published": "Thu, 14 May 2026 15:48:59 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet specializing in defense and global affairs."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

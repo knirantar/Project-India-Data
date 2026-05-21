@@ -1,0 +1,119 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/",
+    "source_title": "Pakistan’s New Logic of Limited War May Not Keep War Limited",
+    "published": "Wed, 13 May 2026 07:15:11 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses Pakistan's evolving military strategy in response to recent conflicts, particularly the May 2025 crisis with India and the 2026 Iran war. It highlights how Pakistan is adapting its military doctrine to emphasize conventional capabilities while managing the risks of nuclear escalation. The analysis suggests that while Pakistan is developing strategies for limited warfare, the integration of conventional and nuclear forces presents inherent challenges that could complicate crisis management.",
+    "key_takeaways": [
+      "Pakistan's military strategy is shifting towards conventional capabilities for escalation control.",
+      "The May 2025 crisis revealed the limitations of nuclear signaling in managing conflicts.",
+      "Multi-domain warfare is becoming essential for Pakistan's military operations.",
+      "Structural centralization in command aims to improve escalation discipline.",
+      "Pakistan faces new vulnerabilities due to its reliance on energy imports and potential multi-front conflicts.",
+      "The lessons from the Iran war highlight the risks of rapid escalation in modern warfare."
+    ],
+    "why_it_matters": "Understanding Pakistan's military adaptations is crucial for assessing regional stability in South Asia, especially in the context of its relationship with India and the implications of nuclear deterrence. The evolving nature of warfare in the region necessitates a reevaluation of traditional military doctrines and crisis management strategies.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Pakistan's military doctrine is adapting to emphasize conventional warfare capabilities.",
+      "evidence_text": "The result is not a doctrinal revolution but a strategic recalibration.",
+      "source_url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The May 2025 crisis demonstrated the risks of nuclear escalation.",
+      "evidence_text": "The decision to withhold the Babur reflects the constraint of conventional-nuclear entanglement.",
+      "source_url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Pakistan is prioritizing multi-domain integration in its military strategy.",
+      "evidence_text": "Pakistan’s response has been to prioritize multi-domain integration — not as an aspirational concept but as an operational necessity.",
+      "source_url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Pakistan",
+      "description": "A South Asian country adapting its military strategy in response to regional conflicts.",
+      "evidence_text": "Pakistan’s military doctrine remains opaque, the institutional reforms and capability choices following the May 2025 conflict suggest a serious effort to internalize its lessons."
+    },
+    {
+      "type": "Country",
+      "name": "India",
+      "description": "A neighboring country of Pakistan, involved in military conflicts and crises.",
+      "evidence_text": "India expanded its conventional strikes following the first night of aerial combat."
+    },
+    {
+      "type": "Country",
+      "name": "Iran",
+      "description": "A country involved in a conflict that has implications for regional security dynamics.",
+      "evidence_text": "The sustained air campaign in the Gulf during the 2026 Iran war demonstrated the other side of this equation."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-05-07",
+      "event": "Operation SINDOOR launched by India",
+      "location": "India",
+      "actors": [
+        "India",
+        "Pakistan"
+      ],
+      "evidence_text": "India launched Operation SINDOOR on May 7, 2025."
+    },
+    {
+      "date": "2026-02-01",
+      "event": "Pakistan's airstrikes on Taliban-controlled targets",
+      "location": "Kabul and Kandahar, Afghanistan",
+      "actors": [
+        "Pakistan",
+        "Taliban"
+      ],
+      "evidence_text": "Pakistan’s February 2026 airstrikes on Taliban-controlled targets in Kabul and Kandahar marked a shift from indirect pressure to overt military coercion."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Range of Fatah-series rockets",
+      "value": "up to 700",
+      "unit": "kilometers",
+      "date": "",
+      "location": "Pakistan",
+      "evidence_text": "These long-range rockets now enable Pakistan to target India’s military assets, air bases, and ammunition depots without raising the nuclear threshold."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Pakistan",
+      "relationship": "adapting military strategy",
+      "object": "India",
+      "evidence_text": "Pakistan is adapting its military doctrine to emphasize conventional capabilities while managing the risks of nuclear escalation."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/pakistans-new-logic-of-limited-war-may-not-keep-war-limited/",
+      "title": "Pakistan’s New Logic of Limited War May Not Keep War Limited",
+      "published": "Wed, 13 May 2026 07:15:11 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable platform for analysis on military and geopolitical issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,124 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/cogs-of-war/the-new-era-of-air-and-missile-defense/",
+    "source_title": "The New Era of Air and Missile Defense",
+    "published": "2026-05-14T08:00:05Z",
+    "data_type": "rss_feed_content",
+    "author": "Retired U.S. Air Force Brigadier General",
+    "publisher": "War on the Rocks",
+    "language": "English",
+    "region": "Global",
+    "summary": "The article discusses the limitations of current air and missile defense systems in the face of evolving threats such as ballistic missiles and drones. It argues for a new approach, termed Integrated Air Missile Defense 3.0, which emphasizes fire-control-level integration, disaggregated architectures, and offensive operations as central to defense strategies. The author highlights recent combat experiences, particularly Operation Epic Fury and the June 2025 war, to illustrate the need for a shift in defense strategies to effectively counter modern threats.",
+    "key_takeaways": [
+      "Current air and missile defense systems are reaching structural limits.",
+      "Integrated Air Missile Defense 3.0 is necessary to address modern threats.",
+      "Recent operations reveal critical failure points in existing defense architectures.",
+      "Offensive actions are essential for sustainable defense against mass attacks.",
+      "Integration at the point of engagement is crucial for effective defense.",
+      "Economic pressures necessitate the use of lower-cost engagement layers."
+    ],
+    "why_it_matters": "This research is significant as it addresses the urgent need for modernizing air and missile defense systems to effectively counter the increasing complexity and volume of threats. The insights drawn from recent combat experiences provide a framework for developing more resilient and integrated defense architectures.",
+    "tags_topics": [
+      "Air Defense",
+      "Missile Defense",
+      "Military Strategy",
+      "Integrated Defense Systems"
+    ]
+  },
+  "claims": [
+    {
+      "claim_text": "The current air and missile defense model is effective but limited.",
+      "evidence_text": "The model that protected forces over the past two decades remains effective, but only within a narrower envelope than current threats demand.",
+      "source_url": "https://warontherocks.com/cogs-of-war/the-new-era-of-air-and-missile-defense/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Integrated Air Missile Defense 3.0 is necessary for modern threats.",
+      "evidence_text": "I use 'Integrated Air Missile Defense 3.0' as shorthand for the step change in operational capability and implementation that current threats require.",
+      "source_url": "https://warontherocks.com/cogs-of-war/the-new-era-of-air-and-missile-defense/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Recent operations have exposed critical failure points in defense systems.",
+      "evidence_text": "Recent operations exposed four consistent failure points.",
+      "source_url": "https://warontherocks.com/cogs-of-war/the-new-era-of-air-and-missile-defense/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "Northrop Grumman",
+      "description": "A defense contractor involved in air and missile defense systems.",
+      "evidence_text": "Northrop Grumman is the prime contractor for the Integrated Battle Command System."
+    },
+    {
+      "type": "Military Operation",
+      "name": "Operation Epic Fury",
+      "description": "A military operation that showcased the challenges of air and missile defense.",
+      "evidence_text": "Operation Epic Fury and the regional defense that followed against Iranian retaliation provide a clear window into the future of air and missile defense."
+    },
+    {
+      "type": "Military Conflict",
+      "name": "June 2025 War",
+      "description": "A conflict that highlighted the limitations of current air defense systems.",
+      "evidence_text": "Public analysis of Israel’s June 2025 war documented significant interceptor drawdown."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-06-01",
+      "event": "June 2025 War",
+      "location": "Israel",
+      "actors": [
+        "Israel",
+        "Iran"
+      ],
+      "evidence_text": "Public analysis of Israel’s June 2025 war documented significant interceptor drawdown."
+    },
+    {
+      "date": "2026-04-01",
+      "event": "April 2026 Ceasefire",
+      "location": "Middle East",
+      "actors": [
+        "United States",
+        "Iran"
+      ],
+      "evidence_text": "By the tenuous April 2026 ceasefire, the Center for Strategic International Studies assessed that the United States and its partners had expended interceptor inventories."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Interceptor Inventory",
+      "value": "Years to replenish",
+      "unit": "years",
+      "date": "2026-04-01",
+      "location": "United States",
+      "evidence_text": "The United States and its partners had expended interceptor inventories that would take years to replenish at current production rates."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Northrop Grumman",
+      "relationship": "is the prime contractor for",
+      "object": "Integrated Battle Command System",
+      "evidence_text": "Northrop Grumman is the prime contractor for the Integrated Battle Command System."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/cogs-of-war/the-new-era-of-air-and-missile-defense/",
+      "title": "The New Era of Air and Missile Defense",
+      "published": "2026-05-14T08:00:05Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The author is a retired U.S. Air Force brigadier general with direct experience in defense strategy and industry."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,102 @@
+{
+  "document": {
+    "source_url": "https://foreignpolicy.com/2026/05/18/g7-finance-ministers-iran-war-oil-prices-bond-markets-tariffs-trump-us/",
+    "source_title": "G-7 Finance Ministers Discuss Economic Fallout of Iran War",
+    "published": "Mon, 18 May 2026 20:42:49 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "G-7 finance ministers and central bank governors convened in Paris to address the economic fallout from the Iran war, focusing on rising crude prices and bond market volatility. The discussions highlighted concerns over potential global recession risks due to oil price increases and the impact of U.S. tariffs. U.S. Treasury Secretary Scott Bessent emphasized the need for economic unity among G-7 nations to combat these challenges, while also advocating for tighter sanctions on Iran. The meetings serve as a precursor to the upcoming G-7 leaders' summit in Evian next month.",
+    "key_takeaways": [
+      "G-7 ministers met in Paris to discuss the economic impact of the Iran war.",
+      "Concerns were raised about rising oil prices and potential global recession.",
+      "U.S. Treasury Secretary called for unity among G-7 nations.",
+      "Discussions included tightening sanctions on Iran and reopening the Strait of Hormuz.",
+      "The meetings are preparation for the G-7 leaders' summit next month.",
+      "Ongoing U.S. tariffs and sanctions exemptions for Russia complicate discussions."
+    ],
+    "why_it_matters": "The G-7 discussions are crucial for addressing the interconnected challenges of global economic stability, energy security, and international relations, particularly in light of the ongoing Iran conflict and its implications for global markets.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The G-7 finance ministers discussed the economic fallout of the Iran war.",
+      "evidence_text": "G-7 finance ministers and central bank governors convened in Paris on Monday for two days of meetings to discuss the economic fallout of the Iran war.",
+      "source_url": "https://foreignpolicy.com/2026/05/18/g7-finance-ministers-iran-war-oil-prices-bond-markets-tariffs-trump-us/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Rising oil prices could lead to a global recession.",
+      "evidence_text": "Among the group’s biggest concerns is that disruptions to oil markets could slow growth, increase inflation, and ignite a possible global recession.",
+      "source_url": "https://foreignpolicy.com/2026/05/18/g7-finance-ministers-iran-war-oil-prices-bond-markets-tariffs-trump-us/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "U.S. Treasury Secretary Scott Bessent is advocating for tighter sanctions on Iran.",
+      "evidence_text": "U.S. Treasury Secretary Scott Bessent is hoping to promote economic unity within the G-7 to combat some of these risks... to tighten international sanctions on Iran.",
+      "source_url": "https://foreignpolicy.com/2026/05/18/g7-finance-ministers-iran-war-oil-prices-bond-markets-tariffs-trump-us/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "G-7",
+      "description": "Group of seven major advanced economies.",
+      "evidence_text": "G-7 finance ministers and central bank governors convened in Paris."
+    },
+    {
+      "type": "person",
+      "name": "Scott Bessent",
+      "description": "U.S. Treasury Secretary advocating for economic unity and sanctions on Iran.",
+      "evidence_text": "U.S. Treasury Secretary Scott Bessent is hoping to promote economic unity within the G-7."
+    },
+    {
+      "type": "organization",
+      "name": "International Monetary Fund",
+      "description": "International organization working to foster global monetary cooperation.",
+      "evidence_text": "Kristalina Georgieva, the head of the International Monetary Fund, said on Monday."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "G-7 finance ministers meeting",
+      "location": "Paris",
+      "actors": [
+        "G-7 finance ministers",
+        "central bank governors"
+      ],
+      "evidence_text": "G-7 finance ministers and central bank governors convened in Paris on Monday for two days of meetings."
+    },
+    {
+      "date": "2026-06-01",
+      "event": "G-7 leaders' summit",
+      "location": "Evian, France",
+      "actors": [
+        "G-7 leaders"
+      ],
+      "evidence_text": "This week’s meetings are largely seen as preparation for a three-day G-7 leaders’ summit next month in the French spa town of Evian."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://foreignpolicy.com/2026/05/18/g7-finance-ministers-iran-war-oil-prices-bond-markets-tariffs-trump-us/",
+      "title": "G-7 Finance Ministers Discuss Economic Fallout of Iran War",
+      "published": "Mon, 18 May 2026 20:42:49 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "Foreign Policy is a reputable source known for its analysis of international affairs."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

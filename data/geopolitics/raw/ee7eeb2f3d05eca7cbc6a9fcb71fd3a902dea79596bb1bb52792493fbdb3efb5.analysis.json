@@ -1,0 +1,111 @@
+{
+  "document": {
+    "source_url": "https://thediplomat.com/2026/05/poll-how-the-us-lost-the-hearts-and-minds-of-people-worldwide/",
+    "source_title": "Poll: How the US Lost the ‘Hearts and Minds’ of People Worldwide",
+    "published": "Fri, 15 May 2026 22:22:00 +0900",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "A recent survey by NIRA Data, commissioned by the Alliance of Democracies, reveals a significant decline in the global perception of the United States, with many countries now viewing China more favorably. The survey, conducted in 85 countries from March 19 to April 21, 2026, highlights a dramatic shift in public opinion over the past three years, where the U.S. has lost its previous lead in soft power. The findings suggest that the U.S. image has deteriorated primarily due to domestic and foreign policies under Donald Trump, while perceptions of China and Russia have improved.",
+    "key_takeaways": [
+      "The U.S. has lost its global appeal, with many countries now favoring China.",
+      "Only Israel has a predominantly positive view of the U.S. compared to China.",
+      "Russia is now perceived more positively than the U.S. in many regions.",
+      "The shift in perceptions is largely attributed to Trump's policies since 2025.",
+      "Public opinion in developed countries has improved towards China, while it has declined in developing nations.",
+      "The U.S. remains powerful but faces a damaged global trust."
+    ],
+    "why_it_matters": "This research highlights the changing dynamics of global power and influence, particularly the declining trust in the U.S. and the rising favorability of China. Understanding these shifts is crucial for policymakers as they navigate international relations and strategize for future engagements.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The U.S. has lost its global appeal in recent years.",
+      "evidence_text": "The data shows how steeply the United States is losing its global appeal in recent years.",
+      "source_url": "https://thediplomat.com/2026/05/poll-how-the-us-lost-the-hearts-and-minds-of-people-worldwide/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Most countries now view China more favorably than the United States.",
+      "evidence_text": "Today, most countries around the world now view China more favorably than the United States.",
+      "source_url": "https://thediplomat.com/2026/05/poll-how-the-us-lost-the-hearts-and-minds-of-people-worldwide/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Russia is perceived more positively than the U.S.",
+      "evidence_text": "To underline just how bad the U.S. image worldwide has gotten: according to the data, even Russia is now seen more positively than the United States.",
+      "source_url": "https://thediplomat.com/2026/05/poll-how-the-us-lost-the-hearts-and-minds-of-people-worldwide/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The decline in U.S. image is attributed to Trump's policies.",
+      "evidence_text": "Much of these dynamics can obviously be attributed to the return of Donald Trump to the White House in January 2025.",
+      "source_url": "https://thediplomat.com/2026/05/poll-how-the-us-lost-the-hearts-and-minds-of-people-worldwide/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "NIRA Data",
+      "description": "An organization that conducts public opinion surveys.",
+      "evidence_text": "This week NIRA Data presented the results of its annual public opinion survey."
+    },
+    {
+      "type": "organization",
+      "name": "Alliance of Democracies",
+      "description": "An organization that commissioned the public opinion survey.",
+      "evidence_text": "commissioned by the Alliance of Democracies"
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-21",
+      "event": "Completion of annual public opinion survey",
+      "location": "85 countries worldwide",
+      "actors": [
+        "NIRA Data",
+        "Alliance of Democracies"
+      ],
+      "evidence_text": "conducted in 85 countries worldwide between March 19 and April 21, 2026."
+    },
+    {
+      "date": "2025-01-20",
+      "event": "Donald Trump returns to the White House",
+      "location": "United States",
+      "actors": [
+        "Donald Trump"
+      ],
+      "evidence_text": "Much of these dynamics can obviously be attributed to the return of Donald Trump to the White House in January 2025."
+    },
+    {
+      "date": "2022-02-24",
+      "event": "Full-scale invasion of Ukraine by Russia",
+      "location": "Ukraine",
+      "actors": [
+        "Russia"
+      ],
+      "evidence_text": "The beginning of the full-scale invasion of Ukraine in 2022 did affect Russia’s image negatively."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://thediplomat.com/2026/05/poll-how-the-us-lost-the-hearts-and-minds-of-people-worldwide/",
+      "title": "Poll: How the US Lost the ‘Hearts and Minds’ of People Worldwide",
+      "published": "Fri, 15 May 2026 22:22:00 +0900",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source presents data from a reputable survey conducted in multiple countries."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

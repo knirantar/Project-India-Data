@@ -1,0 +1,156 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/western-withdrawal-jihadist-expansion-how-the-sahel-became-ground-zero-for-global-terrorism/",
+    "source_title": "Western Withdrawal, Jihadist Expansion: How the Sahel Became Ground Zero for Global Terrorism",
+    "published": "2026-04-29T07:30:34+00:00",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Sahel has become the epicenter of global terrorism, with a significant increase in attacks and fatalities attributed to jihadist groups like Jama’at Nusrat al-Islam wal-Muslimin. Recent coordinated assaults across Mali highlight the deteriorating security situation exacerbated by the withdrawal of Western forces and the rise of Russian influence. The region now accounts for a substantial portion of global terrorism-related deaths, reflecting a shift in the dynamics of insurgency and governance.",
+    "key_takeaways": [
+      "Jama’at Nusrat al-Islam wal-Muslimin has become the dominant jihadist group in the Sahel.",
+      "The Sahel accounts for roughly half of all terrorism-related deaths worldwide.",
+      "Western military presence in the Sahel has collapsed, leading to increased insurgent activity.",
+      "Russian forces have not stabilized the region and have faced significant setbacks.",
+      "The April 2026 attacks demonstrate a coordinated effort by jihadist and separatist forces.",
+      "The situation in Mali reflects a broader trend of governance failure and insurgent expansion."
+    ],
+    "why_it_matters": "The research highlights the consequences of Western withdrawal from the Sahel, illustrating how it has created a power vacuum exploited by jihadist groups. Understanding these dynamics is crucial for developing effective counter-terrorism strategies and addressing the underlying governance issues that fuel insurgency in the region.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Sahel now accounts for roughly half of all terrorism-related deaths worldwide.",
+      "evidence_text": "The Sahel now accounts for roughly half of all terrorism-related deaths worldwide, a dramatic shift from just over a decade ago.",
+      "source_url": "https://warontherocks.com/western-withdrawal-jihadist-expansion-how-the-sahel-became-ground-zero-for-global-terrorism/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Jama’at Nusrat al-Islam wal-Muslimin has emerged as the dominant jihadist actor in the Sahel.",
+      "evidence_text": "Jamaat Nusrat al-Islam wal-Muslimin has emerged as the dominant jihadist actor in the Sahel, outpacing Islamic State in the Greater Sahara.",
+      "source_url": "https://warontherocks.com/western-withdrawal-jihadist-expansion-how-the-sahel-became-ground-zero-for-global-terrorism/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Western military presence and influence across the central Sahel have collapsed.",
+      "evidence_text": "Over the past three years, Western military presence and influence across the central Sahel have collapsed.",
+      "source_url": "https://warontherocks.com/western-withdrawal-jihadist-expansion-how-the-sahel-became-ground-zero-for-global-terrorism/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "jihadist group",
+      "name": "Jama’at Nusrat al-Islam wal-Muslimin",
+      "description": "A dominant jihadist group in the Sahel, formed in 2017 as an al-Qaeda-affiliated coalition.",
+      "evidence_text": "Jamaat Nusrat al-Islam wal-Muslimin has emerged as the dominant jihadist actor in the Sahel."
+    },
+    {
+      "type": "country",
+      "name": "Mali",
+      "description": "A country in the Sahel that has experienced significant jihadist violence and military instability.",
+      "evidence_text": "The attacks targeted military installations and strategic sites across Mali."
+    },
+    {
+      "type": "country",
+      "name": "Burkina Faso",
+      "description": "A country in the Sahel that expelled French forces and has seen increased jihadist activity.",
+      "evidence_text": "Burkina Faso followed in 2023, expelling French forces."
+    },
+    {
+      "type": "country",
+      "name": "Niger",
+      "description": "A country in the Sahel where the U.S. completed its withdrawal in September 2024.",
+      "evidence_text": "The United States completed its withdrawal from Niger in September 2024."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-25",
+      "event": "Coordinated attacks against military installations in Mali",
+      "location": "Mali",
+      "actors": [
+        "Jama’at Nusrat al-Islam wal-Muslimin",
+        "Tuareg separatist forces"
+      ],
+      "evidence_text": "On April 25, armed groups launched near-simultaneous attacks against military installations and key strategic sites across Mali."
+    },
+    {
+      "date": "2022-01-01",
+      "event": "French forces withdrew from Mali",
+      "location": "Mali",
+      "actors": [
+        "French military"
+      ],
+      "evidence_text": "French forces withdrew from Mali in 2022 after the military junta demanded its exit."
+    },
+    {
+      "date": "2023-01-01",
+      "event": "Burkina Faso expelled French forces",
+      "location": "Burkina Faso",
+      "actors": [
+        "French military"
+      ],
+      "evidence_text": "Burkina Faso followed in 2023, expelling French forces."
+    },
+    {
+      "date": "2024-09-01",
+      "event": "U.S. withdrawal from Niger",
+      "location": "Niger",
+      "actors": [
+        "U.S. military"
+      ],
+      "evidence_text": "The United States completed its withdrawal from Niger in September 2024."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "terrorism-related deaths",
+      "value": "20000",
+      "unit": "deaths",
+      "date": "2024-12-31",
+      "location": "Sahel",
+      "evidence_text": "Terrorism-related deaths have increased nearly tenfold since 2019, with almost 20,000 fatalities recorded over that period."
+    },
+    {
+      "name": "increase in violence involving Russian mercenaries",
+      "value": "81",
+      "unit": "percent",
+      "date": "2024-12-31",
+      "location": "Mali",
+      "evidence_text": "Violence involving Russian mercenaries in Mali has increased 81 percent, with a 65 percent increase in reported fatalities in recent years."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Jama’at Nusrat al-Islam wal-Muslimin",
+      "relationship": "coordinates with",
+      "object": "Tuareg separatist forces",
+      "evidence_text": "Claimed by Jama’at Nusrat al-Islam wal-Muslimin, a jihadist group, and conducted in coordination with Tuareg separatist forces."
+    },
+    {
+      "subject": "Western governments",
+      "relationship": "have diminished capacity to respond to",
+      "object": "jihadist violence in the Sahel",
+      "evidence_text": "Western governments now face a predicament of their own making."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/western-withdrawal-jihadist-expansion-how-the-sahel-became-ground-zero-for-global-terrorism/",
+      "title": "Western Withdrawal, Jihadist Expansion: How the Sahel Became Ground Zero for Global Terrorism",
+      "published": "2026-04-29T07:30:34+00:00",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source provides detailed analysis and data on the evolving security situation in the Sahel, supported by credible evidence."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

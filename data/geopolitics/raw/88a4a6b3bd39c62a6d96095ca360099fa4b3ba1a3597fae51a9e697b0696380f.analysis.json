@@ -1,0 +1,132 @@
+{
+  "document": {
+    "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/",
+    "source_title": "Russia launches unannounced nuclear exercise, including Belarusian launch sites",
+    "published": "Wed, 20 May 2026 08:31:29 +0000",
+    "data_type": "rss_feed_content",
+    "author": "Linus Höller",
+    "publisher": "Defense News",
+    "language": "English",
+    "region": "Europe",
+    "summary": "Russia has initiated its largest nuclear exercises in years, mobilizing approximately 65,000 troops and a significant array of military assets. The drills, which include participation from Belarusian forces, are framed as a rehearsal for potential nuclear responses to aggression. This unannounced exercise comes at a time of heightened tensions and is seen as a strategic move to influence NATO and showcase military readiness.",
+    "key_takeaways": [
+      "Russia mobilized nearly 65,000 troops for nuclear exercises.",
+      "The drills include over 200 missile launchers and 140 aircraft.",
+      "Belarusian forces are participating in parallel exercises.",
+      "The exercises are seen as a response to NATO and Western military actions.",
+      "Russia's nuclear arsenal is the largest in the world, with 4,400 active weapons.",
+      "The timing coincides with President Putin's diplomatic visit to China."
+    ],
+    "why_it_matters": "The exercises highlight Russia's military capabilities and strategic intentions amidst ongoing geopolitical tensions, particularly with NATO. They serve as a demonstration of military readiness and a signal to both domestic and international audiences regarding Russia's nuclear posture.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Russia launched its largest nuclear exercises in years.",
+      "evidence_text": "Russia launched its largest nuclear exercises in years on Tuesday, mobilizing nearly 65,000 troops.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The exercises involve Belarusian forces.",
+      "evidence_text": "A new dimension of these drills is the explicit integration of Belarus.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The drills are framed as a rehearsal for nuclear responses.",
+      "evidence_text": "The Russian Defense Ministry announced the maneuvers... framing them as a rehearsal for 'the preparation and use of nuclear forces in the event of a threat of aggression.'",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Russia",
+      "description": "The country conducting the nuclear exercises.",
+      "evidence_text": "Russia launched its largest nuclear exercises in years."
+    },
+    {
+      "type": "Country",
+      "name": "Belarus",
+      "description": "The country participating in parallel exercises with Russia.",
+      "evidence_text": "The Belarusian Defense Ministry announced its own parallel exercise on May 18."
+    },
+    {
+      "type": "Military Unit",
+      "name": "Strategic Missile Forces",
+      "description": "One of the military units involved in the exercises.",
+      "evidence_text": "The exercises involve the Strategic Missile Forces."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Launch of nuclear exercises",
+      "location": "Russia and Belarus",
+      "actors": [
+        "Russian Defense Ministry",
+        "Belarusian Defense Ministry"
+      ],
+      "evidence_text": "The Russian Defense Ministry announced the maneuvers without prior public notice on May 19."
+    },
+    {
+      "date": "2026-05-12",
+      "event": "Successful Sarmat ICBM test launch",
+      "location": "Russia",
+      "actors": [
+        "Russian military"
+      ],
+      "evidence_text": "The exercises also follow a successful Sarmat ICBM test launch on May 12."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Troops mobilized",
+      "value": "65000",
+      "unit": "troops",
+      "date": "2026-05-19",
+      "location": "Russia",
+      "evidence_text": "Russia launched its largest nuclear exercises in years on Tuesday, mobilizing nearly 65,000 troops."
+    },
+    {
+      "name": "Nuclear weapons stockpile",
+      "value": "4400",
+      "unit": "weapons",
+      "date": "2026-05-13",
+      "location": "Russia",
+      "evidence_text": "Russia currently has a total active stockpile of 4,400 nuclear weapons."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Russia",
+      "relationship": "conducts",
+      "object": "nuclear exercises",
+      "evidence_text": "Russia launched its largest nuclear exercises in years."
+    },
+    {
+      "subject": "Belarus",
+      "relationship": "participates in",
+      "object": "nuclear exercises with Russia",
+      "evidence_text": "The Belarusian Defense Ministry announced its own parallel exercise."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/russia-launches-unannounced-nuclear-exercise-including-belarusian-launch-sites/",
+      "title": "Russia launches unannounced nuclear exercise, including Belarusian launch sites",
+      "published": "Wed, 20 May 2026 08:31:29 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet specializing in defense and geopolitical reporting."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,62 @@
+{
+  "document": {
+    "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNICEF-Yemen.jpeg/image560x340cropped.jpg",
+    "source_title": "Yemen parties agree under UN mediation to release 1,600 detainees (image)",
+    "published": "Thu, 14 May 2026 12:00:00 +0000",
+    "data_type": "images",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The image depicts an announcement regarding the agreement between parties in Yemen to release 1,600 detainees. This agreement was reached under the mediation of the United Nations, highlighting ongoing efforts to resolve the conflict in Yemen. The release of detainees is a significant step towards peace and reconciliation in the region.",
+    "key_takeaways": [
+      "Agreement to release 1,600 detainees in Yemen.",
+      "Mediation facilitated by the United Nations.",
+      "Significant step towards peace in Yemen.",
+      "Reflects ongoing conflict resolution efforts.",
+      "Highlights the role of international organizations in local conflicts.",
+      "Potential for improved relations among conflicting parties."
+    ],
+    "why_it_matters": "This development is crucial as it represents a tangible outcome of UN mediation efforts, which may lead to further peace initiatives and stability in Yemen, a region that has faced prolonged conflict and humanitarian crises.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Yemen parties agree to release 1,600 detainees.",
+      "evidence_text": "Agreement to release 1,600 detainees in Yemen.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNICEF-Yemen.jpeg/image560x340cropped.jpg",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [
+    {
+      "date": "2026-05-14",
+      "event": "Agreement to release detainees in Yemen",
+      "location": "Yemen",
+      "actors": [
+        "Yemen parties",
+        "United Nations"
+      ],
+      "evidence_text": "Agreement to release 1,600 detainees in Yemen."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNICEF-Yemen.jpeg/image560x340cropped.jpg",
+      "title": "Yemen parties agree under UN mediation to release 1,600 detainees (image)",
+      "published": "Thu, 14 May 2026 12:00:00 +0000",
+      "evidence_text": "Agreement to release 1,600 detainees in Yemen."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "Source is from the United Nations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

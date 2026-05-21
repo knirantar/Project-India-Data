@@ -1,0 +1,99 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/does-opec-still-matter/",
+    "source_title": "Does OPEC Still Matter?",
+    "published": "Tue, 12 May 2026 19:45:38 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The United Arab Emirates announced its departure from OPEC on April 28, effective May 1, marking the end of nearly six decades of membership. This exit is significant as the UAE is the fourth-largest producer in OPEC, and its decision reflects a shift towards prioritizing national interests in oil policy. Experts suggest that while OPEC will survive this departure, it will face challenges in maintaining its influence and cohesion, especially in light of ongoing geopolitical tensions in the region.",
+    "key_takeaways": [
+      "UAE's exit from OPEC is effective May 1, 2026.",
+      "This marks the end of nearly 60 years of UAE membership in OPEC.",
+      "The UAE is the most significant producer to leave OPEC.",
+      "The departure may allow Saudi Arabia to reassert control over OPEC.",
+      "Geopolitical tensions, particularly with Iran, are influencing oil policy.",
+      "OPEC's future dynamics will be affected by the absence of the UAE."
+    ],
+    "why_it_matters": "The departure of the UAE from OPEC signifies a critical shift in the oil production landscape, highlighting the tension between national interests and collective agreements within OPEC. This event could reshape the future of oil pricing and production strategies in a volatile geopolitical environment.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The United Arab Emirates announced its departure from OPEC.",
+      "evidence_text": "On April 28, the United Arab Emirates announced that it would leave OPEC, effective May 1.",
+      "source_url": "https://warontherocks.com/does-opec-still-matter/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The UAE's exit is significant for OPEC's future.",
+      "evidence_text": "In terms of oil production, it is the most significant country to leave the group.",
+      "source_url": "https://warontherocks.com/does-opec-still-matter/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "OPEC will survive the departure of the UAE.",
+      "evidence_text": "OPEC will survive the departure of the United Arab Emirates, but the withdrawal of the group’s fourth-largest producer will have an impact.",
+      "source_url": "https://warontherocks.com/does-opec-still-matter/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "United Arab Emirates",
+      "description": "A country in the Middle East that has been a member of OPEC for nearly 60 years.",
+      "evidence_text": "the United Arab Emirates announced that it would leave OPEC, effective May 1."
+    },
+    {
+      "type": "organization",
+      "name": "OPEC",
+      "description": "The Organization of the Petroleum Exporting Countries, a group of oil-producing countries.",
+      "evidence_text": "the United Arab Emirates announced that it would leave OPEC."
+    },
+    {
+      "type": "country",
+      "name": "Saudi Arabia",
+      "description": "A leading member of OPEC that may reassert control following the UAE's departure.",
+      "evidence_text": "Officials in Saudi Arabia may view the absence of sparring with Emirati counterparts over oil price and output levels as an opportunity to reassert control over OPEC."
+    },
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "A country involved in ongoing geopolitical tensions affecting oil policy.",
+      "evidence_text": "How the Saudis engage with Iraq, within the context of the quota system and Iraq’s persistent overproduction, and with Iran, following Iranian attacks on Saudi energy facilities during the war."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-01",
+      "event": "UAE leaves OPEC",
+      "location": "OPEC",
+      "actors": [
+        "United Arab Emirates",
+        "OPEC"
+      ],
+      "evidence_text": "the United Arab Emirates announced that it would leave OPEC, effective May 1."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/does-opec-still-matter/",
+      "title": "Does OPEC Still Matter?",
+      "published": "Tue, 12 May 2026 19:45:38 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The article includes expert opinions and analysis on the implications of the UAE's departure from OPEC."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

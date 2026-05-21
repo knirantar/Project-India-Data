@@ -1,0 +1,132 @@
+{
+  "document": {
+    "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+    "source_title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
+    "published": "Wed, 13 May 2026 12:00:00 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Ramiz Alakbarov, the UN’s top aid official in the Occupied Palestinian Territory, visited a waste dumping site in Gaza that has exceeded its capacity, raising health risks for displaced families. In Sudan, drone attacks are worsening humanitarian needs, with aid agencies struggling to support displaced populations. Meanwhile, a World Food Programme truck in Ukraine was struck by a drone, injuring the driver and highlighting the dangers faced by humanitarian operations.",
+    "key_takeaways": [
+      "UN aid official Ramiz Alakbarov visited a waste site in Gaza, highlighting health risks.",
+      "Israeli authorities have denied access to landfills in Gaza, exacerbating waste issues.",
+      "Drone attacks in Sudan are increasing humanitarian needs and risks for civilians.",
+      "A WFP truck in Ukraine was struck by a drone, injuring the driver.",
+      "Civilian casualties in Ukraine have risen significantly in 2026 compared to previous years.",
+      "OCHA calls for protection of civilians and humanitarian access in conflict zones."
+    ],
+    "why_it_matters": "The report underscores the escalating humanitarian crises in Gaza, Sudan, and Ukraine, emphasizing the urgent need for international attention and action to protect vulnerable populations and ensure the delivery of aid.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Waste accumulating in Gaza is increasing the risk of disease.",
+      "evidence_text": "Waste accumulating near shelters and residential areas is increasing the risk of disease, especially for displaced families living in overcrowded conditions.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Drone attacks in Sudan are worsening humanitarian needs.",
+      "evidence_text": "Drone attacks and escalating fighting across Sudan are worsening humanitarian needs, as aid agencies race to support displaced families.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "A WFP truck in Ukraine was struck by a drone.",
+      "evidence_text": "A World Food Programme (WFP) truck delivering food to frontline communities in Ukraine was struck by a drone on Tuesday.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "UNICEF",
+      "description": "United Nations Children's Fund, involved in initiatives to strengthen access to food.",
+      "evidence_text": "children participating in UN Children’s Fund (UNICEF)-led initiatives to strengthen access to food."
+    },
+    {
+      "type": "organization",
+      "name": "OCHA",
+      "description": "UN Office for the Coordination of Humanitarian Affairs, coordinating aid efforts in conflict zones.",
+      "evidence_text": "According to the UN relief coordination office, OCHA, aid agencies and partners continue delivering lifesaving assistance."
+    },
+    {
+      "type": "organization",
+      "name": "WFP",
+      "description": "World Food Programme, providing food assistance in conflict areas.",
+      "evidence_text": "A World Food Programme (WFP) truck delivering food to frontline communities in Ukraine was struck by a drone."
+    },
+    {
+      "type": "organization",
+      "name": "UN Human Rights Monitoring Mission in Ukraine",
+      "description": "Monitors human rights conditions in Ukraine, reporting on civilian casualties.",
+      "evidence_text": "the UN Human Rights Monitoring Mission in Ukraine (HRMMU) warned that civilian casualties during the first four months of 2026 have exceeded the same period in any of the previous three years."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-12",
+      "event": "Visit by UN aid official to Gaza waste site",
+      "location": "Gaza",
+      "actors": [
+        "Ramiz Alakbarov"
+      ],
+      "evidence_text": "Ramiz Alakbarov, UN’s top aid official in Occupied Palestinian Territory visited a dumping site in Gaza on Tuesday."
+    },
+    {
+      "date": "2026-05-12",
+      "event": "Drone attack on WFP truck",
+      "location": "Dnipro, Ukraine",
+      "actors": [
+        "World Food Programme"
+      ],
+      "evidence_text": "A World Food Programme (WFP) truck delivering food to frontline communities in Ukraine was struck by a drone on Tuesday."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Civilian casualties in Ukraine (2026)",
+      "value": "815",
+      "unit": "deaths",
+      "date": "2026-04-30",
+      "location": "Ukraine",
+      "evidence_text": "According to the rights monitors, at least 238 civilians were killed and 1,404 injured in April alone, bringing the verified total for 2026 so far to 815 killed and 4,174 injured."
+    },
+    {
+      "name": "Displaced families receiving aid in North Kordofan",
+      "value": "85000",
+      "unit": "people",
+      "date": "2026-05-12",
+      "location": "North Kordofan, Sudan",
+      "evidence_text": "In North Kordofan, aid groups have reached around 85,000 people in Sheikan and Ar Rahad localities with water and sanitation assistance."
+    },
+    {
+      "name": "Displaced families receiving aid in South Kordofan",
+      "value": "88000",
+      "unit": "people",
+      "date": "2026-05-12",
+      "location": "South Kordofan, Sudan",
+      "evidence_text": "In South Kordofan, nearly 88,000 people, including displaced families and South Sudanese refugees, have received similar support."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167502",
+      "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine",
+      "published": "Wed, 13 May 2026 12:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a UN news outlet, providing verified information on humanitarian issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

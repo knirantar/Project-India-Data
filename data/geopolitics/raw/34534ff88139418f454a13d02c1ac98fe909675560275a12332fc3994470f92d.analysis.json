@@ -1,0 +1,129 @@
+{
+  "document": {
+    "source_url": "https://www.foreignaffairs.com/ukraine/iran-vietnam-ukraine-korea",
+    "source_title": "Iran as Vietnam, Ukraine as Korea",
+    "published": "2026-05-20T00:00:00-04:00",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article draws parallels between the conflicts in Iran, Vietnam, and Ukraine, highlighting the structural similarities in how these wars have unfolded. It discusses the rapid escalation of U.S. involvement in Iran, likening it to the Vietnam War's trajectory under the Johnson and Nixon administrations. The author suggests that the outcomes of these conflicts may follow similar patterns, with unresolved issues persisting after ceasefires and settlements.",
+    "key_takeaways": [
+      "The U.S. intervention in Iran mirrors the Vietnam War's escalation and eventual negotiations.",
+      "Historical analogies reveal patterns that can inform current policymaking.",
+      "The war in Ukraine shares structural similarities with the Korean War.",
+      "Both the Iranian and Ukrainian conflicts are likely to end with unresolved issues.",
+      "The article emphasizes the importance of recognizing historical patterns in conflict resolution.",
+      "The outcomes of these wars may lead to unstable compromises rather than definitive resolutions."
+    ],
+    "why_it_matters": "Understanding the historical parallels between these conflicts can provide insights into current U.S. foreign policy and the potential outcomes of ongoing military engagements. Recognizing these patterns may help policymakers navigate complex international relations and avoid repeating past mistakes.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The U.S.-Israeli war on Iran is likely to conclude like the Vietnam War did in 1973.",
+      "evidence_text": "The U.S.-Israeli war on Iran is likely to conclude like the Vietnam War did in 1973, with an unstable compromise settlement that addresses some issues but leaves other important ones unresolved.",
+      "source_url": "https://www.foreignaffairs.com/ukraine/iran-vietnam-ukraine-korea",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The war in Ukraine will probably end with a settlement similar to the Korean War.",
+      "evidence_text": "In contrast, the war in Ukraine, like the Korean War, will probably end with a settlement that solidifies something like the current line of conflict.",
+      "source_url": "https://www.foreignaffairs.com/ukraine/iran-vietnam-ukraine-korea",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "A country in the Middle East involved in a conflict with the U.S. and Israel.",
+      "evidence_text": "The Islamic Republic started rebuilding its conventional military capabilities."
+    },
+    {
+      "type": "country",
+      "name": "Vietnam",
+      "description": "A Southeast Asian country that experienced a significant conflict with the U.S. during the Vietnam War.",
+      "evidence_text": "The U.S.-Israeli war on Iran is likely to conclude like the Vietnam War did in 1973."
+    },
+    {
+      "type": "country",
+      "name": "Ukraine",
+      "description": "A country in Eastern Europe currently engaged in a conflict with Russia.",
+      "evidence_text": "The current war in Ukraine began with a surprise attack by Russian forces in late February 2022."
+    },
+    {
+      "type": "political leader",
+      "name": "Donald Trump",
+      "description": "Former President of the United States who initiated military action in Iran.",
+      "evidence_text": "As Johnson had done in Vietnam, President Donald Trump went into Iran to head off worrisome trends."
+    },
+    {
+      "type": "political leader",
+      "name": "Lyndon Johnson",
+      "description": "Former President of the United States during the Vietnam War.",
+      "evidence_text": "Johnson and his team were not greatly optimistic about winning the war."
+    },
+    {
+      "type": "political leader",
+      "name": "Richard Nixon",
+      "description": "Former President of the United States who oversaw the latter part of the Vietnam War.",
+      "evidence_text": "Nixon and Kissinger settled on a second strategy of extrication."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-06-01",
+      "event": "U.S.-Israeli airstrikes on Iran",
+      "location": "Iran",
+      "actors": [
+        "U.S.",
+        "Israel"
+      ],
+      "evidence_text": "Israeli and U.S. airstrikes in June 2025 had caused major damage to Iran’s nuclear program."
+    },
+    {
+      "date": "2026-04-08",
+      "event": "Cease-fire between U.S. and Iran",
+      "location": "Iran",
+      "actors": [
+        "U.S.",
+        "Iran"
+      ],
+      "evidence_text": "This revival of the 'madman' approach led to a cease-fire on April 8."
+    },
+    {
+      "date": "1973-01-01",
+      "event": "Vietnam War settlement",
+      "location": "Vietnam",
+      "actors": [],
+      "evidence_text": "The U.S.-Israeli war on Iran is likely to conclude like the Vietnam War did in 1973."
+    },
+    {
+      "date": "1953-07-27",
+      "event": "Korean War armistice",
+      "location": "Korea",
+      "actors": [],
+      "evidence_text": "An armistice was eventually signed in July 1953."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.foreignaffairs.com/ukraine/iran-vietnam-ukraine-korea",
+      "title": "Iran as Vietnam, Ukraine as Korea",
+      "published": "2026-05-20T00:00:00-04:00",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable publication known for in-depth analysis of international relations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

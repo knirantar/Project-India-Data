@@ -1,0 +1,225 @@
+The 
+Tomahawk Land Attack Missiles
+ the U.S. military 
+fired
+ during Operation Epic Fury take 
+months
+ to put on contract and 
+years
+ to produce.
+Whether driven by U.S. military 
+operations
+ or 
+support
+ to partners, the 
+challenge
+ of quickly replenishing U.S. munitions is 
+not new
+. Exquisite munitions often take an exquisite amount of time to manufacture and deliver. Defense 
+officials
+, in turn, frequently want to compress that 
+time
+ as much as possible, seeking to restock fast and 
+mitigate
+ future risks.
+The 
+Russo-Ukrainian War
+ has 
+illuminated
+ the challenge of accomplishing this feat. It also offers lessons for how the U.S can accelerate munitions production timelines in a crisis. Indeed, the U.S. experience 
+attempting
+ to surge munitions production from 2022 to 2024 did not reveal uniform failure in boosting production rates, but rather, sharp variation across weapons. Production rates of 
+some munitions
+ expanded meaningfully after 2022. Others 
+stagnated
+. Interestingly, the 
+emergency
+ 
+authorities
+ and supplemental
+ funding
+ unleashed after 2022 were not responsible for this variation, as the full results of those initiatives and investments are 
+still
+ 
+yet to come
+. Instead, decisions that pre-dated the Russo-Ukrainian War drove this variation.
+The true lesson from the Ukraine crisis is that the United States cannot solely rely on improvisation to surge munitions production. Surge is indeed 
+distinct
+ from peacetime manufacturing or the mobilization of commercial entities to support wartime production demands. The Department of Defense should treat surging production as a core competency to be developed and rehearsed well in advance of a crisis.
+ 
+Sign Up for Our Newsletter
+ 
+Surging Capacity is not Flipping a Switch
+Since 2022, U.S. commitments to Ukraine have forced the Department of Defense to attempt to ramp production both to meet Ukrainian demand and to replenish U.S. inventories. Early in the conflict, defense officials rapidly mobilized substantial 
+funding
+, leveraging flexible acquisition 
+authorities
+, Defense Production Act 
+resources
+, and new coordination 
+bodies
+ to accelerate munitions production.
+Coinciding with these investments, public reporting highlighted notable production increases across several systems. Such was the case in a September 2024 press 
+release
+, in which the department touted production increases in 155mm projectiles and propellant, Guided Multiple Launch Rocket System, Air Intercept Missile-9X, and others. Because such accounts omit munitions that stagnated or struggled to achieve more dramatic gains, this narrative provided an incomplete and potentially misleading account of the reasons for success. Each of the munitions referenced above with a successful surge saw sizeable crisis-era 
+investments
+. However, those weapons whose production struggled to surge also received similar support after 2022.
+A more 
+complete
+ analysis reveals that decisions pre-dating Russia’s full-scale invasion actually drove production rates, both for those systems whose production increased, and for those whose production flat-lined. Where production lines had sat idle before 2022, restarting them proved arduous. Consider the case of Stinger, a missile which had not been purchased by the U.S. Army in 18 years and a program of record which had been started and stopped at least 
+seven times
+. Attempts to surge Stinger production quickly ran into bottlenecks from the lack of a skilled 
+workforce
+ and 
+parts
+ obsolescence. Javelin, a program kept on life 
+support
+ by combined U.S. military and foreign procurement before 2022, similarly 
+stalled
+. For these munitions, capable production lines existed in theory, but in practice, ramping them up took more time than 
+anticipated
+.
+The munitions that did surge often benefited from sustained pre-conflict procurement combined with capital investments and proactive program management. The forty percent increase in Guided Multiple Launch Rocket Systems production from 2022 to 2024, for example, was rooted in sizeable pre-crisis purchases, as well as pre-emptive 
+lifetime buys
+ of circuit chips and building a new modular 
+pod
+ for its propulsion system. The Patriot Advanced Capability 3 program managers also adopted a proactive 
+approach
+ to managing 
+obsolescence
+, and sustained demand incentivized industry to break ground on a new production facility in 2019. That facility serendipitously 
+opened
+ in late 2022, amidst Ukraine’s desperate 
+need
+ for interceptors to protect its national infrastructure.
+Collectively, these findings suggest that in the absence of peacetime investments and proactive supply chain management, the Department of Defense struggles to surge production in operationally relevant timeframes. Effective surge production will require a conceptual middle ground, sitting between business-as-usual steady state production and full-scale mobilization of the civilian economy. The distinctiveness of surge — a time-bound increase in production or delivery rates — from these other two conditions, in turn, requires distinct planning, tools, and practice.
+Keep Production Warm
+The U.S. experience boosting munitions production to support Ukraine implies that surge success depends in part on whether production lines, sub-tier suppliers, and workforces are already active.
+The detrimental effects of the 
+boom-or-bust
+ munitions procurement 
+cycle
+ and use of munitions as “
+bill payers
+” to fund other priorities are well-documented. In tandem with remedies such as 
+multiyear procurement
+, the Department of Defense should consider maintaining production for selected munitions as a readiness requirement that is continuously funded rather than a discretionary line item that is purchased only when needed. This solution would require greater senior-level involvement to ensure the department maintains steady demand signals and avoids relying on surge production as a “
+Hail Mary
+.”
+Foreign 
+arms sales
+ could facilitate sustained production by 
+smoothing
+ historically volatile demand signals and lowering 
+unit costs
+. Whereas the former mechanism can provide industry with incentives to invest in production capacity, the latter can ensure that continued production remains economically feasible. No matter the mechanism, the department should deliberately 
+leverage
+ allied and partner requirements for munitions as an additional demand signal to boost production capacity and achieve economies of scale. Beyond arms sales, more robust forms of 
+international armaments cooperation
+ — to include co-production and procurement — could further serve to both enhance aggregate production capacity.
+Plan to Surge 
+Variation in munitions production surge performance during the Ukraine crisis also demonstrates that the United States cannot expect improvised tools to have an immediate impact.
+The Department of Defense thus needs a new playbook to surge munitions production. Part of this is necessarily conceptual: U.S. civilian and military officials first 
+need
+ a common definition of production surge. At present, definitions vary across acquisition 
+regulations
+, 
+academia
+, industrial 
+strategy
+, and service 
+documents
+. Nevertheless, surge can be defined as a time-bound increase in production or delivery rate executed without a full-scale mobilization of the civilian economy. It can 
+serve
+ as either a standalone response to a protracted crisis, or as a bridge to a more full-scale mobilization scenario.
+The specific production increases required and 
+methods
+ to achieve them (e.g., adding an extra shift, workforce hiring and training, direct investments in sub-tier suppliers) will vary across munitions. When writing contracts for munitions purchases, the department should thus require routine surge 
+capacity
+ data from the prime contractors, and, critically, from their sub-tier suppliers as well.
+Even with data in hand, a detailed surge plan for the U.S. military’s entire arsenal may be too onerous. A reasonable point of departure could be the U.S. Joint Force’s critical 
+munitions
+, defined as “those that affect warfighting capabilities during hostilities, emergencies, or exercises.” That list could be refined further to those most 
+relevant
+ to a China-related contingency. Another approach would be to simply leverage the 
+fourteen munitions
+ identified by the 
+Munitions Acceleration Council
+.
+From a narrowed list, the department should then assess the root causes behind production bottlenecks and identify required resourcing and authorities to achieve faster gains and production. One munition might have adequate facilities and production spare capacity to support the desired surge, but simply require direct 
+investments
+ in upstream suppliers producing unique components, materials, or other specialized inputs for the munition’s finished rounds. Others might require upgraded tooling and test equipment, while some might benefit from incorporating more advanced manufacturing techniques into their supply chain. In other instances, the challenge may be skilled labor, perhaps the longest lead time input in munitions production. Addressing workforce challenges would require a range of activities, including lowering barriers to entry for skilled workers, optimizing incentives for retired employees to train new ones, or 
+expanding
+ the pipeline altogether through initiatives such as the 
+Manufacturing and Engineering Education Reimagined for All program,
+ a K-12 curriculum designed to provide students with industry-recognized manufacturing skills.
+Waiting until a crisis escalates into conflict will be too late to exercise these solutions. Therefore, the department should, through careful (but quiet) 
+planning
+, also identify tripwires, escalatory adversary statements or behaviors that would trigger their use. The intelligence community would be best-placed to identify adversary-specific 
+indicators and warnings
+.
+Enhance the Surge Toolkit
+The limited immediate impact of emergency authorities to boost munitions production after 2022 to replenish U.S. stocks or support Ukraine underscores that these tools themselves are insufficient.
+The 2026 
+Acquisition Transformation Strategy
+ emphasizes surge capacity as one of its most important objectives. The institutionalization of relevant organizations under the 
+Wartime Production Unit
+ and greater senior leader 
+attention
+ to accelerating munitions production are other welcome developments. If funded, Congressional authorization for 
+multiyear procurement
+ of select munitions, alongside ambitious 
+acquisition
+ 
+frameworks
+, could also provide incentivize industry to make capital investments in production capacity.
+Additional steps are also warranted. The services should routinely include 
+surge clauses
+ in munitions contracts, explicitly providing the option to accelerate production or delivery rates when needed. In addition, defense officials should seek greater leeway from Congress across a number of areas relevant to developing surge capacity. The most important of these would be authorization to acquire and stockpile long-lead materials in the absence of an 
+end item
+, which would eliminate the need to wait for the production of those materials when surging. Finally, the Pentagon should continue to develop and invest in initiatives such as the 
+Civil Reserve Manufacturing Network
+, a coterie of manufacturers that defense leaders can call upon to convert commercial manufacturing or production into defense manufacturing or production. All of these items could certainly be viewed as wasteful if not ultimately employed in a crisis. Nevertheless, they are an insurance policy.
+Practice Surge Routinely and Pay to Fix Discovered Bottlenecks
+Even the best surge plans and tools will be insufficient, however, if defense policymakers are not accustomed to using them.
+The U.S. military regularly exercises and wargames its operational concepts. As an 
+article in these pages argued earlier this week
+, such activities can also clarify and quantify the operational impacts of acquisition decisions and authorities. The Department of Defense 
+can further use
+ wargames and exercises to stress test the responsiveness of the industrial base to contingency scenarios, uncovering whether and where the industry partners may be well-positioned to surge production, and where and when they might fall short.
+Opportunities for one-off exercises already exist, but such exercises should become routine. The 2026 National Defense Authorization Act’s 
+direction
+ for the Secretary of Defense and Chairman of the Joint Chiefs of Staff to conduct a “a comprehensive joint mobilization and sustainment readiness study,” modeled after the 1978 mobilization exercise “
+Nifty Nugget
+,” provides one opportunity to explicitly test surge capacity. Designed to test the U.S. government’s ability to rapidly mobilize in response to a short-warning Warsaw Pact attack on NATO, Nifty Nugget revealed systemic 
+failures
+ across virtually every 
+sector
+ of national mobilization. A more ambitious option would be moving from a command post or tabletop exercise to one that exercises surge capacity directly by actually producing a selected munition or component at an accelerated pace. An annual test of the emerging 
+Civil Reserve Manufacturing Network
+, mentioned above, is another avenue.
+No matter the format, industry should play a myriad of 
+roles
+ to force military planners to directly and realistically confront production-related tradeoffs. Even before a game has begun, industry can and should serve as data providers, offering up-to-date information on lead times, 
+supply chain
+ dependencies, facilities, and obsolete (or soon-to-be obsolete) components. As subject matter experts, industry representatives could also adjudicate the feasibility of production acceleration and mobilization timelines during a game, providing insights into constraints and assumptions behind players’ actions. Industry representatives could even serve as players themselves.
+Such exercises are likely to uncover previously unknown bottlenecks, many of which will require fixing. The Department of Defense should thus also advocate for Congress to authorize a working capital fund to address shortcomings these exercises identify.
+Conclusion 
+The U.S. experience attempting to surge munitions production during the Ukraine crisis demonstrates that surge capacity is determined before the crisis begins. Production increases and stagnation were a reflection of prior investments, not decisions made after Russia’s full-scale invasion. The Department of Defense should treat munitions production surge as a core competency to be maintained, planned for, enhanced, and practiced before it is needed.
+If competition with China escalates into conflict, the industrial outcomes will already have been set by choices made years in advance. Even if surged successfully, highly capable weapons alone will not guarantee 
+victory
+. And, the Department of Defense should continue to refine the optimal 
+balance
+ between highly capable and 
+affordable
+ munitions. Whatever that balance, though, the ability to surge production of the most capable munitions cannot be assumed in the next crisis.
+ 
+Write for Cogs of War
+ 
+Bryce Loidolt, Ph.D., is a senior fellow for Defense Capabilities and Partnerships at the National Defense University’s Institute of National Strategic Studies. The opinions and views expressed in this article are his own and are not those of the National Defense University, Department of Defense, or U.S. Government.
+**Please note, as a matter of house style, 
+War on the Rocks
+ will not use a different name for the U.S. Department of Defense until and unless the name is changed by statute by the U.S. Congress.
+Image: Dori Whipple via 
+DVIDS
+.

@@ -1,0 +1,134 @@
+{
+  "document": {
+    "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167521",
+    "source_title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
+    "published": "Fri, 15 May 2026 12:00:00 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The UN humanitarian update on Gaza and the West Bank highlights severe civilian suffering due to ongoing military strikes and displacement. Most of Gaza's population is displaced, with health risks increasing as residential areas are under attack. The situation is exacerbated by limited aid access and a spike in settler violence in the West Bank. The report coincides with the Nakba anniversary, emphasizing the historical context of displacement and ongoing humanitarian crises.",
+    "key_takeaways": [
+      "Over 85% of Gaza's population is displaced due to ongoing conflict.",
+      "Health risks are rising in Gaza, prompting UN pest control efforts.",
+      "Aid access remains severely restricted, with only half of aid trucks able to offload.",
+      "Settler violence in the Jordan Valley has increased 14-fold since 2020.",
+      "45 Palestinian-owned structures were demolished in the West Bank from May 5-11.",
+      "The situation in Lebanon remains dire despite a ceasefire, with ongoing airstrikes causing civilian casualties."
+    ],
+    "why_it_matters": "This report underscores the urgent humanitarian crisis in Gaza, the West Bank, and Lebanon, highlighting the need for international attention and intervention to protect civilians and facilitate aid access.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Most people in Gaza are displaced and exposed to health and environmental risks.",
+      "evidence_text": "The latest UN humanitarian update on conditions in Gaza and the West Bank, released on 15 May, reports that most people in Gaza are displaced and exposed to health and environmental risks.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167521",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The situation in Gaza is a catastrophe of grave proportions.",
+      "evidence_text": "Khaled Khiari, Assistant Secretary-General for the Middle East, said that the situation in Gaza today is a catastrophe of grave proportions.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167521",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Settler violence in the Jordan Valley has increased significantly.",
+      "evidence_text": "The Jordan Valley has witnessed a spike in settler violence, with the monthly average of incidents causing casualties or property damage increasing 14-fold since 2020.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167521",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "World Health Organization",
+      "description": "A specialized agency of the United Nations responsible for international public health.",
+      "evidence_text": "Over 43,000 people in Gaza have sustained life‑changing injuries, the World Health Organization (WHO) estimates."
+    },
+    {
+      "type": "event",
+      "name": "Nakba",
+      "description": "The commemoration of the displacement of Palestinians during the 1948 Arab-Israeli War.",
+      "evidence_text": "The update coincided with the UN commemoration of the 78th anniversary of the Nakba, in which more than 750,000 Palestinians were uprooted from their homes."
+    }
+  ],
+  "events": [
+    {
+      "date": "2023-10-07",
+      "event": "Hamas terrorist attacks",
+      "location": "Gaza",
+      "actors": [
+        "Hamas"
+      ],
+      "evidence_text": "Since the horrific terrorist attacks by Hamas on 7 October 2023, devastation from the subsequent war has been staggering."
+    },
+    {
+      "date": "2026-05-15",
+      "event": "UN humanitarian update release",
+      "location": "Gaza and West Bank",
+      "actors": [
+        "UN"
+      ],
+      "evidence_text": "The latest UN humanitarian update on conditions in Gaza and the West Bank, released on 15 May."
+    },
+    {
+      "date": "2023-04-17",
+      "event": "Ceasefire in Lebanon",
+      "location": "Lebanon",
+      "actors": [],
+      "evidence_text": "Despite the ceasefire that started on 17 April, civilians in Lebanon continue to endure an increasingly devastating toll from Israeli airstrikes."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Percentage of displaced population in Gaza",
+      "value": "85",
+      "unit": "%",
+      "date": "2026-05-15",
+      "location": "Gaza",
+      "evidence_text": "Khaled Khiari, Assistant Secretary-General for the Middle East, said that, since the horrific terrorist attacks by Hamas on 7 October 2023, devastation from the subsequent war has been staggering, with more than 85 per cent of Gaza’s population displaced."
+    },
+    {
+      "name": "Number of aid trucks able to offload",
+      "value": "50",
+      "unit": "%",
+      "date": "2026-05-11",
+      "location": "Gaza",
+      "evidence_text": "Only one in every two aid trucks from Egypt could offload at Israeli-controlled crossings along Gaza’s perimeter in the first 11 days of May."
+    },
+    {
+      "name": "Number of Palestinian-owned structures demolished",
+      "value": "45",
+      "unit": "structures",
+      "date": "2026-05-11",
+      "location": "West Bank",
+      "evidence_text": "In the West Bank, 45 Palestinian-owned structures were demolished between 5 and 11 May."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Israeli authorities",
+      "relationship": "must facilitate access to",
+      "object": "critical rubble removal and explosive ordnance clearance equipment",
+      "evidence_text": "To provide a more complete response to risks linked to rodents and pests, the Israeli authorities must let in critical rubble removal and explosive ordnance clearance equipment."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167521",
+      "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon",
+      "published": "Fri, 15 May 2026 12:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The information is provided by the United Nations, a recognized international organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

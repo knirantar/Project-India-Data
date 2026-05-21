@@ -1,0 +1,125 @@
+{
+  "document": {
+    "source_url": "https://www.defensenews.com/global/europe/2026/05/20/italy-settles-on-airbus-tanker-purchase-in-swing-toward-european-equipment/",
+    "source_title": "Italy settles on Airbus tanker purchase in swing toward European equipment",
+    "published": "Wed, 20 May 2026 07:37:38 +0000",
+    "data_type": "rss_feed_content",
+    "author": "Tom Kington",
+    "publisher": "Defense News",
+    "language": "en",
+    "region": "Europe",
+    "summary": "Italy has finalized a €1.4 billion deal to purchase six Airbus A330 MRTT multi-role tanker transport aircraft, marking a significant shift from its previous reliance on Boeing tankers. This decision follows a 15-year history of operating Boeing aircraft and comes amid a broader trend among European militaries to seek greater commonality in equipment. The deal includes ten years of logistic support and reflects Italy's changing defense procurement strategy, particularly in light of previous plans to acquire KC-46 tankers.",
+    "key_takeaways": [
+      "Italy to buy six Airbus A330 MRTT aircraft for €1.4 billion.",
+      "Shift from Boeing to Airbus for the Italian Air Force.",
+      "Deal includes ten years of logistic support.",
+      "Previous plans for KC-46 tankers were halted due to unforeseen needs.",
+      "European militaries are increasingly wary of U.S. military equipment.",
+      "Other European nations also operate the A330 MRTT through NATO pooling."
+    ],
+    "why_it_matters": "This purchase signifies a strategic pivot for Italy towards European defense capabilities, reflecting broader trends in European military procurement and cooperation amidst geopolitical tensions.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Italy is purchasing six Airbus A330 MRTT aircraft.",
+      "evidence_text": "Italy is to buy six Airbus A330 MRTT multi-role tanker transport aircraft in a €1.4 billion ($1.6 billion) deal.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/italy-settles-on-airbus-tanker-purchase-in-swing-toward-european-equipment/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The deal marks a shift from Boeing to Airbus for the Italian Air Force.",
+      "evidence_text": "The deal marks a shift from Boeing to Airbus for the Italian Air Force.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/italy-settles-on-airbus-tanker-purchase-in-swing-toward-european-equipment/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Italy halted its plans to acquire KC-46 tankers.",
+      "evidence_text": "Italy stated the €1.1 billion KC-46 purchase had been halted 'due to changed and unforeseen needs.'",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/italy-settles-on-airbus-tanker-purchase-in-swing-toward-european-equipment/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Aircraft",
+      "name": "Airbus A330 MRTT",
+      "description": "Multi-role tanker transport aircraft being purchased by Italy.",
+      "evidence_text": "Italy is to buy six Airbus A330 MRTT multi-role tanker transport aircraft."
+    },
+    {
+      "type": "Company",
+      "name": "Airbus",
+      "description": "European aerospace corporation manufacturing the A330 MRTT.",
+      "evidence_text": "The deal marks a shift from Boeing to Airbus for the Italian Air Force."
+    },
+    {
+      "type": "Company",
+      "name": "Boeing",
+      "description": "American aerospace company previously supplying tankers to Italy.",
+      "evidence_text": "Italy has a 15-year history of flying Boeing tankers."
+    },
+    {
+      "type": "Country",
+      "name": "Italy",
+      "description": "Country purchasing the Airbus A330 MRTT aircraft.",
+      "evidence_text": "Italy is to buy six Airbus A330 MRTT multi-role tanker transport aircraft."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-20",
+      "event": "Italy announces purchase of Airbus A330 MRTT aircraft.",
+      "location": "Italy",
+      "actors": [
+        "Italian Air Force",
+        "Airbus"
+      ],
+      "evidence_text": "Italy is to buy six Airbus A330 MRTT multi-role tanker transport aircraft in a €1.4 billion ($1.6 billion) deal."
+    },
+    {
+      "date": "2024",
+      "event": "Italy considers Airbus after suspending KC-46 plans.",
+      "location": "Italy",
+      "actors": [
+        "Italian government",
+        "Airbus"
+      ],
+      "evidence_text": "In 2024, however, Italy started to consider Airbus after suspending plans to acquire the KC-46 tankers."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Deal Value",
+      "value": "1.4",
+      "unit": "billion euros",
+      "date": "2026-05-20",
+      "location": "Italy",
+      "evidence_text": "Italy is to buy six Airbus A330 MRTT multi-role tanker transport aircraft in a €1.4 billion ($1.6 billion) deal."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Italian Air Force",
+      "relationship": "purchases",
+      "object": "Airbus A330 MRTT",
+      "evidence_text": "The deal marks a shift from Boeing to Airbus for the Italian Air Force."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/20/italy-settles-on-airbus-tanker-purchase-in-swing-toward-european-equipment/",
+      "title": "Italy settles on Airbus tanker purchase in swing toward European equipment",
+      "published": "Wed, 20 May 2026 07:37:38 +0000",
+      "evidence_text": "Italy is to buy six Airbus A330 MRTT multi-role tanker transport aircraft in a €1.4 billion ($1.6 billion) deal."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "Published by Defense News, a reputable source for defense-related news."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

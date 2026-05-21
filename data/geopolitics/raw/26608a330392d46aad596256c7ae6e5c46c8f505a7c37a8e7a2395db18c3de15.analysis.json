@@ -1,0 +1,119 @@
+{
+  "document": {
+    "source_url": "https://www.defensenews.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
+    "source_title": "Turkey to buy 100 one-way explosive naval drones for swarm attacks",
+    "published": "Thu, 21 May 2026 12:32:23 +0000",
+    "data_type": "rss_feed_content",
+    "author": "Cem Devrim Yaylali",
+    "publisher": "Defense News",
+    "language": "English",
+    "region": "Turkey",
+    "summary": "Turkey is set to procure 100 expendable unmanned surface vessels for its navy, a decision made during a February meeting of the Defense Industry Executive Committee. The procurement will be overseen by the Secretariat of Defense Industries, with three companies involved: Aselsan, STM, and Havelsan. These vessels are designed for precision strike missions and will operate in swarms, enhancing Turkey's naval capabilities.",
+    "key_takeaways": [
+      "Turkey to buy 100 unmanned surface vessels for its navy.",
+      "Decision made by the Defense Industry Executive Committee in February.",
+      "Three companies involved: Aselsan, STM, and Havelsan.",
+      "Vessels designed for precision strike missions against maritime targets.",
+      "Swarm architecture allows cooperative operation and real-time data sharing.",
+      "Aselsan's Tufan and STM's Yaktu unveiled at SAHA Expo 2026."
+    ],
+    "why_it_matters": "This procurement marks a significant enhancement of Turkey's naval capabilities, allowing for advanced operational strategies through the use of unmanned systems and swarm tactics, which are increasingly relevant in modern warfare.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Turkey is moving to buy 100 expendable unmanned surface vessels for its navy.",
+      "evidence_text": "Turkey is moving to buy 100 expendable unmanned surface vessels for its navy, Defense News learned during the SAHA Expo 2026 defense exhibition this month.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The decision to procure the systems was made during the February meeting of the Defense Industry Executive Committee.",
+      "evidence_text": "The decision to procure the systems was made during the February meeting of the Defense Industry Executive Committee, the highest decision-making body in Turkey’s defense procurement and industrial policy.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The 100 units are divided among three companies: Aselsan, STM, and Havelsan.",
+      "evidence_text": "The 100 units are divided as 40 for Aselsan, 32 for STM, and 32 for Havelsan.",
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "company",
+      "name": "Aselsan",
+      "description": "A Turkish defense company involved in producing unmanned surface vessels.",
+      "evidence_text": "One of the three providers is Aselsan, which has teamed up with Ares Shipyard."
+    },
+    {
+      "type": "company",
+      "name": "STM",
+      "description": "A Turkish defense company cooperating with Yonca Shipyard to produce unmanned surface vessels.",
+      "evidence_text": "The second provider is STM, which is cooperating with Yonca Shipyard."
+    },
+    {
+      "type": "company",
+      "name": "Havelsan",
+      "description": "A Turkish defense company working with Sefine Shipyard on unmanned surface vessels.",
+      "evidence_text": "The third producer is Havelsan, which is working with Sefine Shipyard."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "Announcement of procurement of unmanned surface vessels",
+      "location": "İzmir, Turkey",
+      "actors": [
+        "Turkey",
+        "Defense Industry Executive Committee"
+      ],
+      "evidence_text": "Turkey is moving to buy 100 expendable unmanned surface vessels for its navy."
+    },
+    {
+      "date": "2026-02-01",
+      "event": "Decision made to procure unmanned surface vessels",
+      "location": "Turkey",
+      "actors": [
+        "Defense Industry Executive Committee"
+      ],
+      "evidence_text": "The decision to procure the systems was made during the February meeting of the Defense Industry Executive Committee."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Number of unmanned surface vessels",
+      "value": "100",
+      "unit": "units",
+      "date": "2026-05-21",
+      "location": "Turkey",
+      "evidence_text": "Turkey is moving to buy 100 expendable unmanned surface vessels for its navy."
+    },
+    {
+      "name": "Distribution of vessels",
+      "value": "40 Aselsan, 32 STM, 32 Havelsan",
+      "unit": "units",
+      "date": "2026-05-21",
+      "location": "Turkey",
+      "evidence_text": "The 100 units are divided as 40 for Aselsan, 32 for STM, and 32 for Havelsan."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.defensenews.com/global/europe/2026/05/21/turkey-to-buy-100-one-way-explosive-naval-drones-for-swarm-attacks/",
+      "title": "Turkey to buy 100 one-way explosive naval drones for swarm attacks",
+      "published": "Thu, 21 May 2026 12:32:23 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "Defense News is a reputable source for defense-related news."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

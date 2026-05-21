@@ -1,0 +1,138 @@
+{
+  "document": {
+    "source_url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-world-4025-rdf",
+    "source_title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
+    "published": "2026-05-21T12:49:00Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Latvia's military reported a drone in its airspace, prompting NATO aircraft to respond. This incident follows a series of similar alerts in the Baltic region, including a recent drone incursion that led to the collapse of Latvia's coalition government. The Latvian Armed Forces confirmed the presence of the unmanned aircraft and advised citizens to seek shelter. The ongoing conflict in Ukraine raises concerns about future incursions.",
+    "key_takeaways": [
+      "Latvia reported a drone in its airspace, activating NATO jets.",
+      "The alert was lifted after a few hours but is part of ongoing incidents.",
+      "A previous drone incident contributed to the collapse of Latvia's coalition government.",
+      "Latvian Armed Forces confirmed the drone's presence and advised public safety measures.",
+      "The situation is linked to Russia's aggression in Ukraine.",
+      "Lithuania and Estonia also experienced similar drone alerts recently."
+    ],
+    "why_it_matters": "This situation highlights the increasing security risks faced by Baltic countries due to the ongoing conflict in Ukraine and the potential for foreign unmanned aerial vehicles to enter their airspace, which could escalate tensions in the region.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Latvia's military confirmed the presence of a drone in its airspace.",
+      "evidence_text": "The Latvian Armed Forces wrote online, 'We confirm that there is at least one unmanned aircraft in Lativan airspace.'",
+      "source_url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-world-4025-rdf",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The drone alert in Latvia is part of a series of incidents in the Baltic region.",
+      "evidence_text": "It was the latest of a series of such incidents in the Baltic.",
+      "source_url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-world-4025-rdf",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "A previous drone incident led to the collapse of Latvia's coalition government.",
+      "evidence_text": "The fallout from a stray drone landing in eastern Latvia... ultimately led to the collapse of the already fragile coalition government.",
+      "source_url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-world-4025-rdf",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Latvia",
+      "description": "A Baltic country experiencing security threats from drone incursions.",
+      "evidence_text": "Latvia's military on Thursday reported at least one drone flying in the country's airspace."
+    },
+    {
+      "type": "Country",
+      "name": "Lithuania",
+      "description": "A neighboring Baltic country that issued air alerts due to drone overflights.",
+      "evidence_text": "Lithuania issued air alerts that disrupted air travel and other activity in the capital."
+    },
+    {
+      "type": "Country",
+      "name": "Estonia",
+      "description": "A Baltic country where NATO planes shot down a drone.",
+      "evidence_text": "NATO planes shot down another drone over Estonian airspace on Tuesday of this week."
+    },
+    {
+      "type": "Organization",
+      "name": "NATO",
+      "description": "The North Atlantic Treaty Organization involved in responding to drone threats.",
+      "evidence_text": "NATO aircraft were activated to combat the apparent threat."
+    },
+    {
+      "type": "Person",
+      "name": "Evika Silina",
+      "description": "Prime Minister of Latvia who faced political fallout from a drone incident.",
+      "evidence_text": "First, Prime Minister Evika Silina fired her defense minister for his handling of the issue."
+    },
+    {
+      "type": "Person",
+      "name": "Gitanas Nauseda",
+      "description": "President of Lithuania who addressed the public regarding air alerts.",
+      "evidence_text": "President Gitanas Nauseda issued a televised address on Wednesday evening after the disruption."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "Drone alert issued in Latvia",
+      "location": "Latvia",
+      "actors": [
+        "Latvian Armed Forces",
+        "NATO"
+      ],
+      "evidence_text": "Latvia's military on Thursday reported at least one drone flying in the country's airspace."
+    },
+    {
+      "date": "2026-04-21",
+      "event": "Drone incursion leads to government collapse",
+      "location": "Latvia",
+      "actors": [
+        "Latvian government"
+      ],
+      "evidence_text": "The fallout from a stray drone landing in eastern Latvia... ultimately led to the collapse of the already fragile coalition government."
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Drone shot down over Estonian airspace",
+      "location": "Estonia",
+      "actors": [
+        "NATO"
+      ],
+      "evidence_text": "NATO planes shot down another drone over Estonian airspace on Tuesday of this week."
+    },
+    {
+      "date": "2026-05-20",
+      "event": "Air alerts issued in Lithuania",
+      "location": "Lithuania",
+      "actors": [
+        "Lithuanian government"
+      ],
+      "evidence_text": "Lithuania issued air alerts that disrupted air travel and other activity in the capital."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.dw.com/en/latvia-scrambles-nato-jets-in-drone-alert-the-latest-of-several-in-baltic/a-77244356?maca=en-rss-en-world-4025-rdf",
+      "title": "Latvia scrambles NATO jets in drone alert, the latest of several in Baltic",
+      "published": "2026-05-21T12:49:00Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news organization providing timely updates on security incidents."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

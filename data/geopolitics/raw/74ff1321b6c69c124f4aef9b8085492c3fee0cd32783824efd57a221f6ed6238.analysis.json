@@ -1,0 +1,135 @@
+{
+  "document": {
+    "source_url": "http://www.euronews.com/2026/05/21/tehran-politicians-are-holding-back-military-from-striking-us-fleet-iranian-mp-tells-euron",
+    "source_title": "Tehran politicians are holding back military from striking US fleet, Iranian MP tells Euronews",
+    "published": "2026-05-21T14:56:02+02:00",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "An Iranian MP revealed that political elites in Tehran are restraining the military from attacking US naval assets in the Persian Gulf. This internal friction highlights the complexities within Iran's power structure regarding responses to US actions. The MP emphasized that Iran has communicated to the US that any aggression against its vessels would lead to severe retaliation, including targeting US warships. Despite the tensions, he suggested that a diplomatic resolution may be more likely than total escalation.",
+    "key_takeaways": [
+      "Tehran's political leaders are holding back military action against US forces.",
+      "Internal divisions exist within Iran's power structure regarding military responses.",
+      "Iran has warned the US of severe retaliation for any attacks on its vessels.",
+      "The Iranian MP believes a diplomatic resolution is possible despite tensions.",
+      "Public opinion in Iran is divided, with a significant portion remaining loyal to the regime.",
+      "The ongoing conflict has shifted public focus away from recent domestic unrest."
+    ],
+    "why_it_matters": "Understanding the internal dynamics of Iran's political and military decision-making is crucial for assessing the potential for conflict or diplomacy in the region, especially in light of ongoing tensions with the US.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Political elites in Tehran are restraining the military from striking US naval assets.",
+      "evidence_text": "An Iranian member of parliament on the National Security and Foreign Policy Commission has told Euronews.",
+      "source_url": "http://www.euronews.com/2026/05/21/tehran-politicians-are-holding-back-military-from-striking-us-fleet-iranian-mp-tells-euron",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Iran has signaled that any seizure of its vessels would lead to retaliation against US warships.",
+      "evidence_text": "He added that Iran had nonetheless signalled to Washington that any seizure or strike on Iranian vessels would be met with the sinking of a US warship.",
+      "source_url": "http://www.euronews.com/2026/05/21/tehran-politicians-are-holding-back-military-from-striking-us-fleet-iranian-mp-tells-euron",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The absence of individual leaders does not threaten the state's survival.",
+      "evidence_text": "Ardestani dismissed the notion that the absence of individual leaders constitutes a threat to the state's survival.",
+      "source_url": "http://www.euronews.com/2026/05/21/tehran-politicians-are-holding-back-military-from-striking-us-fleet-iranian-mp-tells-euron",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Ahmad Bakhshayesh Ardestani",
+      "description": "An Iranian member of parliament on the National Security and Foreign Policy Commission.",
+      "evidence_text": "Ahmad Bakhshayesh Ardestani said in an interview with Euronews."
+    },
+    {
+      "type": "Organization",
+      "name": "Islamic Republic",
+      "description": "The governing body of Iran.",
+      "evidence_text": "This is the clearest public confirmation yet of internal friction within the Islamic Republic's power structure."
+    },
+    {
+      "type": "Person",
+      "name": "Mojtaba Khamenei",
+      "description": "Iran's new Ayatollah who has not appeared publicly since US-Israeli strikes.",
+      "evidence_text": "Khamenei has not appeared in any video or audio recording since then."
+    },
+    {
+      "type": "Organization",
+      "name": "IRGC",
+      "description": "Islamic Revolutionary Guard Corps, a branch of Iran's armed forces.",
+      "evidence_text": "IRGC commander General Ahmad Vahidi has been playing an increasingly prominent role."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-02-28",
+      "event": "US-Israeli strikes on Iran",
+      "location": "Iran",
+      "actors": [
+        "US",
+        "Israel",
+        "Iran"
+      ],
+      "evidence_text": "Reports have been circulating — unconfirmed by Iranian officials — that IRGC commander General Ahmad Vahidi has been playing an increasingly prominent role in day-to-day security decisions since the US-Israeli strikes on 28 February."
+    },
+    {
+      "date": "2025-12-01",
+      "event": "Country-wide protests begin",
+      "location": "Iran",
+      "actors": [
+        "Iranian citizens",
+        "Security forces"
+      ],
+      "evidence_text": "The country-wide protests began in December 2025, after the collapse of Iran's currency, the rial."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Death toll from protests",
+      "value": "3000",
+      "unit": "people",
+      "date": "2026-01-01",
+      "location": "Iran",
+      "evidence_text": "Tehran's own Supreme Council of National Security acknowledged a death toll of more than 3,000."
+    },
+    {
+      "name": "Estimated death toll from protests",
+      "value": "5000",
+      "unit": "people",
+      "date": "2026-01-01",
+      "location": "Iran",
+      "evidence_text": "The UN Special Rapporteur on Iran put the figure at a minimum of 5,000."
+    },
+    {
+      "name": "Estimated death toll from protests",
+      "value": "42000",
+      "unit": "people",
+      "date": "2026-01-01",
+      "location": "Iran",
+      "evidence_text": "Insiders in Iran and human rights groups claim the number may have surpassed 42,000."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "http://www.euronews.com/2026/05/21/tehran-politicians-are-holding-back-military-from-striking-us-fleet-iranian-mp-tells-euron",
+      "title": "Tehran politicians are holding back military from striking US fleet, Iranian MP tells Euronews",
+      "published": "2026-05-21T14:56:02+02:00",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "Euronews is a recognized news outlet providing coverage of international affairs."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

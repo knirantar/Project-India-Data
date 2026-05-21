@@ -1,0 +1,101 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/restrain-and-hedge-a-new-u-s-nuclear-strategy-for-a-two-peer-world/",
+    "source_title": "Restrain and Hedge: A New U.S. Nuclear Strategy for a Two-Peer World",
+    "published": "Fri, 15 May 2026 07:30:45 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses the implications of the U.S. nuclear strategy in a landscape dominated by two major nuclear rivals, China and Russia. It argues against increasing the U.S. nuclear arsenal, suggesting that such actions could lead to a new arms race. Instead, it advocates for a strategy of nuclear self-restraint and the pursuit of a new arms control framework to manage the risks posed by these rivals. The piece emphasizes the need for the U.S. to enhance its nuclear capabilities while avoiding escalation.",
+    "key_takeaways": [
+      "Increasing the U.S. nuclear arsenal may reduce security and provoke an arms race.",
+      "The U.S. should focus on nuclear self-restraint and damage limitation.",
+      "A new arms control framework with Russia and China is essential to manage nuclear competition.",
+      "China is rapidly expanding its nuclear capabilities, complicating U.S. damage limitation efforts.",
+      "The U.S. nuclear enterprise has significant shortcomings that need addressing.",
+      "Strategic arms control could help cap the arms race and shift competition to other technological areas."
+    ],
+    "why_it_matters": "This research is significant as it addresses the evolving nuclear landscape and the strategic choices facing the U.S. in response to the nuclear capabilities of China and Russia. It highlights the potential risks of an arms race and the importance of diplomatic efforts in nuclear arms control.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Increasing the U.S. nuclear arsenal could lead to a new arms race.",
+      "evidence_text": "Increasing the number of warheads on current nuclear platforms would therefore not be the end of nuclear competition. Instead, it would likely spur both Russia and China to build up their nuclear arsenals and further intensify a new arms race.",
+      "source_url": "https://warontherocks.com/restrain-and-hedge-a-new-u-s-nuclear-strategy-for-a-two-peer-world/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The U.S. should pursue a new arms control framework with Russia and China.",
+      "evidence_text": "In parallel with deemphasizing damage limitation, the United States should pursue a new arms control framework with both Russia and China to attempt to put a cap on an emerging trilateral arms race.",
+      "source_url": "https://warontherocks.com/restrain-and-hedge-a-new-u-s-nuclear-strategy-for-a-two-peer-world/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "United States",
+      "description": "The country whose nuclear strategy is being analyzed.",
+      "evidence_text": "What if fielding more nuclear weapons makes the United States less secure, not more?"
+    },
+    {
+      "type": "country",
+      "name": "China",
+      "description": "A major nuclear rival of the United States, rapidly expanding its nuclear arsenal.",
+      "evidence_text": "China is rapidly expanding and modernizing its nuclear arsenal."
+    },
+    {
+      "type": "country",
+      "name": "Russia",
+      "description": "Another major nuclear rival of the United States, involved in arms control discussions.",
+      "evidence_text": "the last remaining nuclear arms control deal between the United States and Russia, has expired."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "U.S. nuclear warheads",
+      "value": "1600",
+      "unit": "warheads",
+      "date": "",
+      "location": "United States",
+      "evidence_text": "Currently, the United States deploys around 1,600 warheads."
+    },
+    {
+      "name": "Projected Chinese nuclear warheads by 2030",
+      "value": "1000",
+      "unit": "warheads",
+      "date": "2030-01-01",
+      "location": "China",
+      "evidence_text": "the U.S. intelligence community assesses that China will field around 1,000 warheads by 2030."
+    },
+    {
+      "name": "Projected Russian strategic warheads",
+      "value": "1700",
+      "unit": "warheads",
+      "date": "",
+      "location": "Russia",
+      "evidence_text": "Russia (around 1,700 strategic warheads) are unlikely to accept the United States having a much larger strategic nuclear arsenal than they do individually."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/restrain-and-hedge-a-new-u-s-nuclear-strategy-for-a-two-peer-world/",
+      "title": "Restrain and Hedge: A New U.S. Nuclear Strategy for a Two-Peer World",
+      "published": "Fri, 15 May 2026 07:30:45 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The article is published on a reputable platform focused on defense and security analysis."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

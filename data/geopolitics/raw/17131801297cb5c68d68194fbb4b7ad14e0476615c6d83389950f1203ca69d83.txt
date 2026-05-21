@@ -1,0 +1,6 @@
+Binary video_content source collected for Global Geopolitics Monitor.
+Title: Why Russian jets intercepting an RAF spy plane is 'serious incident'
+URL: https://www.bbc.com/news/videos/cx21y59q35wo?at_medium=RSS&at_campaign=rss
+Source: https://feeds.bbci.co.uk/news/world/rss.xml
+Content-Type: text/html; charset=utf-8
+Bytes: 273720

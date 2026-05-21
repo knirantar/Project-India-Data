@@ -1,0 +1,106 @@
+{
+  "document": {
+    "source_url": "https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-russia-ukraine-war-trump/",
+    "source_title": "What Does Putin Want From Xi?",
+    "published": "Tue, 19 May 2026 19:44:16 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Russian President Vladimir Putin visited China for a two-day summit to reaffirm the Sino-Russian partnership amid geopolitical tensions. This visit marks the 25th time Putin has traveled to China as president, coinciding with the 25th anniversary of the Sino-Russian Treaty of Friendship. Despite the strong rhetoric of partnership, Russia's economic troubles have made the relationship increasingly lopsided, with Moscow becoming more dependent on Beijing for energy exports.",
+    "key_takeaways": [
+      "Putin's visit to China aims to strengthen bilateral ties amid geopolitical challenges.",
+      "China has purchased over $367 billion in Russian fossil fuels since the Ukraine war began.",
+      "The Power of Siberia 2 pipeline is set to enhance Russian gas exports to China.",
+      "Putin's aide reported a 35% increase in Russian oil exports to China in early 2026.",
+      "China maintains a neutral stance in the Russia-Ukraine conflict, despite allegations of military training.",
+      "Xi Jinping's recent comments suggest a potential shift in China's support for Russia."
+    ],
+    "why_it_matters": "The evolving dynamics of the China-Russia relationship are crucial for understanding global energy markets and geopolitical alliances, especially in the context of the ongoing Ukraine conflict and Western sanctions against Russia.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Russia's economic troubles have made its partnership with China increasingly lopsided.",
+      "evidence_text": "Russia’s growing economic troubles—from its war in Ukraine to the fallout of conflict in the Middle East—have transformed what the Kremlin considers to be an equal partnership into a more lopsided affair.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-russia-ukraine-war-trump/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "China has purchased over $367 billion worth of Russian fossil fuels since February 2022.",
+      "evidence_text": "Despite Western sanctions, China has purchased more than $367 billion worth of Russian fossil fuels since the Russia-Ukraine war began in February 2022.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-russia-ukraine-war-trump/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Putin's aide reported a 35% increase in Russian oil exports to China in early 2026.",
+      "evidence_text": "During the first quarter of 2026, Russian oil exports to China grew by 35 percent, according to Putin’s presidential aide Yuri Ushakov.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-russia-ukraine-war-trump/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "China has not provided lethal weapons to either side in the Russia-Ukraine war.",
+      "evidence_text": "Beijing maintains that it has never provided lethal weapons to either side of the Russia-Ukraine war.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-russia-ukraine-war-trump/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Vladimir Putin",
+      "description": "President of Russia, visiting China for a summit.",
+      "evidence_text": "Russian President Vladimir Putin—long dubbed an “old friend” of Xi’s—arrived in China late Tuesday for a two-day summit."
+    },
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "description": "President of China, hosting the summit with Putin.",
+      "evidence_text": "Chinese President Xi Jinping hosted U.S. President Donald Trump, Beijing welcomed another world leader."
+    },
+    {
+      "type": "Event",
+      "name": "Sino-Russian Treaty of Friendship",
+      "description": "A treaty marking 25 years of partnership between China and Russia.",
+      "evidence_text": "Putin’s visit coincides with the 25th anniversary of the Sino-Russian Treaty of Friendship."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Putin's visit to China for a summit",
+      "location": "China",
+      "actors": [
+        "Vladimir Putin",
+        "Xi Jinping"
+      ],
+      "evidence_text": "Russian President Vladimir Putin—long dubbed an “old friend” of Xi’s—arrived in China late Tuesday for a two-day summit."
+    }
+  ],
+  "metrics": [],
+  "relationships": [
+    {
+      "subject": "Russia",
+      "relationship": "dependent on",
+      "object": "China",
+      "evidence_text": "Moscow becomes increasingly dependent on Beijing."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://foreignpolicy.com/2026/05/19/putin-xi-jinping-china-talks-oil-gas-russia-ukraine-war-trump/",
+      "title": "What Does Putin Want From Xi?",
+      "published": "Tue, 19 May 2026 19:44:16 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable publication known for its analysis of international relations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

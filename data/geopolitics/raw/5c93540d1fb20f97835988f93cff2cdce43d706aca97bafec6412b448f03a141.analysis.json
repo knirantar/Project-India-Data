@@ -1,0 +1,100 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
+    "source_title": "The Pentagon Needs a Playbook for Munitions Surge Production",
+    "published": "2026-05-07T08:00:13Z",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses the challenges faced by the U.S. military in rapidly increasing munitions production, particularly highlighted by the Russo-Ukrainian War. It emphasizes the need for a structured approach to surge production, which differs from peacetime manufacturing. The piece argues that effective surge production requires pre-existing investments, proactive management, and a clear definition of surge capacity, alongside the establishment of a playbook to guide future efforts.",
+    "key_takeaways": [
+      "Surge production is distinct from peacetime manufacturing and requires specific planning.",
+      "The Russo-Ukrainian War has exposed the limitations of U.S. munitions production capabilities.",
+      "Pre-existing investments and proactive management are crucial for successful surge production.",
+      "The Department of Defense needs a new playbook to effectively manage munitions surges.",
+      "Maintaining production lines and workforce readiness is essential for rapid response.",
+      "International cooperation and arms sales can help stabilize production demands."
+    ],
+    "why_it_matters": "The article highlights the critical need for the U.S. military to enhance its munitions production capabilities in response to evolving global threats. By establishing a structured approach to surge production, the Pentagon can better prepare for future conflicts and ensure operational readiness.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The U.S. military's ability to surge munitions production is hampered by pre-existing decisions and lack of readiness.",
+      "evidence_text": "The true lesson from the Ukraine crisis is that the United States cannot solely rely on improvisation to surge munitions production.",
+      "source_url": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Surge production requires distinct planning and tools compared to regular manufacturing.",
+      "evidence_text": "Effective surge production will require a conceptual middle ground, sitting between business-as-usual steady state production and full-scale mobilization of the civilian economy.",
+      "source_url": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "military_operation",
+      "name": "Operation Epic Fury",
+      "description": "A military operation involving the use of Tomahawk Land Attack Missiles.",
+      "evidence_text": "The Tomahawk Land Attack Missiles the U.S. military fired during Operation Epic Fury take months to put on contract and years to produce."
+    },
+    {
+      "type": "conflict",
+      "name": "Russo-Ukrainian War",
+      "description": "A conflict that has highlighted the challenges of munitions production for the U.S. military.",
+      "evidence_text": "The Russo-Ukrainian War has illuminated the challenge of accomplishing this feat."
+    },
+    {
+      "type": "program",
+      "name": "Defense Production Act",
+      "description": "A U.S. law that allows the government to direct private industry to produce goods for national defense.",
+      "evidence_text": "Early in the conflict, defense officials rapidly mobilized substantial funding, leveraging flexible acquisition authorities, Defense Production Act resources."
+    }
+  ],
+  "events": [
+    {
+      "date": "2022-02-24",
+      "event": "Start of Russo-Ukrainian War",
+      "location": "",
+      "actors": [],
+      "evidence_text": "The U.S. experience attempting to surge munitions production from 2022 to 2024 did not reveal uniform failure in boosting production rates."
+    },
+    {
+      "date": "2024-09-01",
+      "event": "Production increases reported",
+      "location": "",
+      "actors": [],
+      "evidence_text": "Such was the case in a September 2024 press release, in which the department touted production increases in 155mm projectiles and propellant."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Increase in Guided Multiple Launch Rocket Systems production",
+      "value": "40",
+      "unit": "percent",
+      "date": "2022-2024",
+      "location": "",
+      "evidence_text": "The forty percent increase in Guided Multiple Launch Rocket Systems production from 2022 to 2024."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/cogs-of-war/the-pentagon-needs-a-playbook-for-munitions-surge-production/",
+      "title": "The Pentagon Needs a Playbook for Munitions Surge Production",
+      "published": "2026-05-07T08:00:13Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The article is published on a reputable platform focused on defense and military analysis."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

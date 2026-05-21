@@ -1,0 +1,101 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
+    "source_title": "Same but different: how Xi and China welcomed Trump and Putin",
+    "published": "Wed, 20 May 2026 13:44:56 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses the contrasting receptions of Donald Trump and Vladimir Putin during their visits to China, highlighting the differences in the political significance of their welcomes. While both leaders were greeted with grand ceremonies, the nature of their receptions reflected China's strategic positioning, with Trump receiving a more ceremonial welcome compared to Putin's. The article also explores the implications of these visits for China-Russia relations and the broader geopolitical landscape, particularly in light of Russia's economic struggles and its reliance on China.",
+    "key_takeaways": [
+      "Trump and Putin received mirrored ceremonial welcomes in Beijing, but with significant differences in political implications.",
+      "China's reception of Putin signals a stronger partnership compared to its relationship with Trump.",
+      "Both visits yielded few concrete outcomes, particularly regarding key disputes like tariffs and energy cooperation.",
+      "Russia's economic troubles are deepening its reliance on China, shifting the balance of their relationship.",
+      "Xi Jinping aims to project China as a global power capable of managing relations with both the US and Russia.",
+      "The summits did not address major global conflicts, including the wars in Ukraine and the US-Iran tensions."
+    ],
+    "why_it_matters": "This analysis sheds light on the evolving dynamics of China-Russia relations and the implications for global geopolitics, particularly as both nations navigate their positions in a changing world order. Understanding these interactions is crucial for comprehending the future of international relations and the balance of power.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "China's reception of Putin was more politically significant than that of Trump.",
+      "evidence_text": "Trump was met at the airport by China’s vice-president, while Putin was welcomed by a sitting member of the politburo.",
+      "source_url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Both visits produced relatively modest results.",
+      "evidence_text": "While Trump and Xi projected an image of cooperation, their summit yielded few concrete breakthroughs.",
+      "source_url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
+      "confidence": "medium"
+    },
+    {
+      "claim_text": "Russia's economic troubles are deepening its reliance on China.",
+      "evidence_text": "Russia’s economy struggles under the pressure of war and sanctions, transforming the relationship into an increasingly asymmetric one.",
+      "source_url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "description": "General Secretary of the Communist Party of China and President of China.",
+      "evidence_text": "Xi will cherish the image of China as a power capable of challenging the US economically."
+    },
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "description": "Former President of the United States.",
+      "evidence_text": "Trump was greeted in Beijing with a military band, an honour guard and dozens of youths waving American and Chinese flags."
+    },
+    {
+      "type": "Person",
+      "name": "Vladimir Putin",
+      "description": "President of Russia.",
+      "evidence_text": "Putin was being received in Beijing 'as an ally and reliable partner'."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-20",
+      "event": "Trump and Putin's state visits to China",
+      "location": "Beijing, China",
+      "actors": [
+        "Donald Trump",
+        "Vladimir Putin",
+        "Xi Jinping"
+      ],
+      "evidence_text": "Days after Donald Trump was greeted in Beijing, Vladimir Putin arrived in China to an almost identical spectacle."
+    }
+  ],
+  "metrics": [],
+  "relationships": [
+    {
+      "subject": "China",
+      "relationship": "has a strategic partnership with",
+      "object": "Russia",
+      "evidence_text": "China sees Moscow as a trusted partner of an emerging non-western world order led by Beijing."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/world/2026/may/20/how-xi-jinping-china-welcomed-donald-trump-vladimir-putin",
+      "title": "Same but different: how Xi and China welcomed Trump and Putin",
+      "published": "Wed, 20 May 2026 13:44:56 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news organization known for its journalistic standards."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

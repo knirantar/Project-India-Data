@@ -1,0 +1,63 @@
+{
+  "document": {
+    "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-04-2026-WHO-Gaza-02.jpg/image560x340cropped.jpg",
+    "source_title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine (image)",
+    "published": "Wed, 13 May 2026 12:00:00 +0000",
+    "data_type": "images",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The image highlights critical global issues, including the increasing waste crisis in Gaza, ongoing drone attacks in Sudan, and an incident involving an aid truck in Ukraine. These events reflect the broader challenges faced in conflict zones and humanitarian efforts. The visual representation serves to draw attention to these pressing matters.",
+    "key_takeaways": [
+      "Mounting waste crisis in Gaza.",
+      "Drone attacks reported in Sudan.",
+      "Aid truck struck in Ukraine.",
+      "Visual representation of global issues.",
+      "Highlighting humanitarian challenges.",
+      "Emphasis on conflict zone conditions."
+    ],
+    "why_it_matters": "This image encapsulates significant geopolitical issues that affect humanitarian efforts and international security, drawing attention to the urgent need for action in conflict-affected regions.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "There is a mounting waste crisis in Gaza.",
+      "evidence_text": "Mounting waste in Gaza.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-04-2026-WHO-Gaza-02.jpg/image560x340cropped.jpg",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Drone attacks are occurring in Sudan.",
+      "evidence_text": "Drone attacks in Sudan.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-04-2026-WHO-Gaza-02.jpg/image560x340cropped.jpg",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "An aid truck was struck in Ukraine.",
+      "evidence_text": "Aid truck struck in Ukraine.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-04-2026-WHO-Gaza-02.jpg/image560x340cropped.jpg",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-04-2026-WHO-Gaza-02.jpg/image560x340cropped.jpg",
+      "title": "World News in Brief: Mounting waste in Gaza, drone attacks in Sudan, aid truck struck in Ukraine (image)",
+      "published": "Wed, 13 May 2026 12:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is a recognized news outlet providing updates on global issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

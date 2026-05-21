@@ -1,0 +1,98 @@
+{
+  "document": {
+    "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4419785/justin-overbaugh/",
+    "source_title": "Justin Overbaugh",
+    "published": "Tue, 03 Mar 2026 17:20:00 GMT",
+    "data_type": "government_documents",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Justin P. Overbaugh serves as the Deputy Under Secretary of War for Intelligence and Security, overseeing defense intelligence and security agencies. He has a background as a U.S. Army Officer, leading operations in Afghanistan and Iraq, and has held various leadership roles in military intelligence. Overbaugh holds advanced degrees in Defense Analysis and National Security, and has received multiple military awards for his service.",
+    "key_takeaways": [
+      "Current role: Deputy Under Secretary of War for Intelligence and Security.",
+      "Oversees defense intelligence and security agencies.",
+      "Former Chief Operations Officer at a consulting firm.",
+      "Served as a U.S. Army Officer with experience in Afghanistan and Iraq.",
+      "Holds graduate degrees from the Naval Postgraduate School and the U.S. Naval War College.",
+      "Recipient of multiple military awards, including the Legion of Merit and two Bronze Stars."
+    ],
+    "why_it_matters": "Justin Overbaugh's role is crucial for shaping U.S. national security policy and overseeing intelligence operations, which are vital for military effectiveness and national defense.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Justin Overbaugh is the Deputy Under Secretary of War for Intelligence and Security.",
+      "evidence_text": "Honorable Justin Overbaugh serves as the Deputy Under Secretary of War for Intelligence and Security.",
+      "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4419785/justin-overbaugh/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Overbaugh has experience in military intelligence and operations.",
+      "evidence_text": "A former U.S. Army Officer, Mr. Overbaugh led an Infantry reconnaissance unit in Afghanistan and Iraq.",
+      "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4419785/justin-overbaugh/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "He has received multiple military awards.",
+      "evidence_text": "His military awards and decorations include the Legion of Merit, two Bronze Stars with 'V' device, and the Global War on Terrorism Expeditionary Medal.",
+      "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4419785/justin-overbaugh/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Justin P. Overbaugh",
+      "description": "Deputy Under Secretary of War for Intelligence and Security.",
+      "evidence_text": "Honorable Justin Overbaugh serves as the Deputy Under Secretary of War for Intelligence and Security."
+    },
+    {
+      "type": "organization",
+      "name": "U.S. Army",
+      "description": "Branch of the United States Armed Forces.",
+      "evidence_text": "A former U.S. Army Officer, Mr. Overbaugh led an Infantry reconnaissance unit in Afghanistan and Iraq."
+    },
+    {
+      "type": "institution",
+      "name": "Naval Postgraduate School",
+      "description": "Graduate school of the U.S. Navy.",
+      "evidence_text": "Mr. Overbaugh holds graduate degrees from the Naval Postgraduate School (M.S. in Defense Analysis/Irregular Warfare)."
+    },
+    {
+      "type": "institution",
+      "name": "U.S. Naval War College",
+      "description": "Educational institution for naval officers.",
+      "evidence_text": "Mr. Overbaugh holds graduate degrees from the U.S. Naval War College (M.A. in National Security and Strategic Studies)."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-03-03",
+      "event": "Appointment as Deputy Under Secretary of War for Intelligence and Security",
+      "location": "",
+      "actors": [
+        "Justin P. Overbaugh"
+      ],
+      "evidence_text": "Honorable Justin Overbaugh serves as the Deputy Under Secretary of War for Intelligence and Security."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4419785/justin-overbaugh/",
+      "title": "Justin Overbaugh",
+      "published": "Tue, 03 Mar 2026 17:20:00 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is a government biography."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

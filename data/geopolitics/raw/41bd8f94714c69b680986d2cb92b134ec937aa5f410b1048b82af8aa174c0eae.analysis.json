@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "http://www.euronews.com/2026/05/20/putin-arrives-in-china-for-talks-with-xi-jinping-less-than-one-week-after-high-stakes-trum",
+    "source_title": "Putin claims Russia-China ties at record high during Beijing visit",
+    "published": "Wed, 20 May 2026 05:21:16 +0200",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Russian President Vladimir Putin visited Beijing to meet with Chinese President Xi Jinping, where they signed a joint statement aimed at enhancing cooperation between Russia and China. The leaders discussed various agreements in technology and trade, marking the 25th anniversary of the China-Russia Treaty of Good-Neighborliness and Friendly Cooperation. Putin emphasized that relations with China have reached an unprecedentedly high level, especially in light of the ongoing geopolitical tensions involving the US.",
+    "key_takeaways": [
+      "Putin and Xi signed a joint statement on cooperation.",
+      "The visit marks the 25th anniversary of the China-Russia Treaty.",
+      "Putin claims Russia-China relations are at an unprecedented high.",
+      "China is a key trading partner for Russia post-Ukraine invasion.",
+      "Moscow's oil exports to China grew by 35% in Q1 2026.",
+      "The leaders discussed international conflicts and energy disruptions."
+    ],
+    "why_it_matters": "This meeting underscores the strengthening ties between Russia and China amidst global geopolitical tensions, particularly with the US. It highlights the strategic partnership that both nations are cultivating in response to international sanctions and economic isolation.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Putin claims Russia-China relations are at an unprecedented high.",
+      "evidence_text": "Putin added that relations with Beijing had reached an “unprecedentedly high level.”",
+      "source_url": "http://www.euronews.com/2026/05/20/putin-arrives-in-china-for-talks-with-xi-jinping-less-than-one-week-after-high-stakes-trum",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Moscow's oil exports to China grew by 35% in Q1 2026.",
+      "evidence_text": "Yuri Ushakov, the Russian presidential aide, said Moscow’s oil exports to China grew by 35% in the first quarter of 2026.",
+      "source_url": "http://www.euronews.com/2026/05/20/putin-arrives-in-china-for-talks-with-xi-jinping-less-than-one-week-after-high-stakes-trum",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Vladimir Putin",
+      "description": "President of Russia",
+      "evidence_text": "Russian President Vladimir Putin visited Beijing."
+    },
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "description": "President of China",
+      "evidence_text": "Chinese counterpart Xi Jinping signed a joint statement on cooperation."
+    },
+    {
+      "type": "Country",
+      "name": "Russia",
+      "description": "Country involved in the geopolitical discussions.",
+      "evidence_text": "China is a key trading partner for Russia."
+    },
+    {
+      "type": "Country",
+      "name": "China",
+      "description": "Country involved in the geopolitical discussions.",
+      "evidence_text": "China has become Russia's top trading partner."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-20",
+      "event": "Putin's visit to Beijing",
+      "location": "Beijing, China",
+      "actors": [
+        "Vladimir Putin",
+        "Xi Jinping"
+      ],
+      "evidence_text": "Putin and Xi signed a joint statement on cooperation in Beijing on Wednesday."
+    },
+    {
+      "date": "2026-05-20",
+      "event": "Opening ceremony of a joint education initiative",
+      "location": "Beijing, China",
+      "actors": [
+        "Vladimir Putin",
+        "Xi Jinping"
+      ],
+      "evidence_text": "The leaders also attended the opening ceremony of a new joint education initiative."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "http://www.euronews.com/2026/05/20/putin-arrives-in-china-for-talks-with-xi-jinping-less-than-one-week-after-high-stakes-trum",
+      "title": "Putin claims Russia-China ties at record high during Beijing visit",
+      "published": "Wed, 20 May 2026 05:21:16 +0200",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "Euronews is a reputable news source providing coverage of international events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

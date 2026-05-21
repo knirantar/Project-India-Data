@@ -1,0 +1,48 @@
+RIGA, Latvia — Exercising in Latvia’s dense pine and birch forests this week, local troops found themselves in an unfair fight against a new enemy: unmanned ground vehicles.
+As NATO tries to keep pace with fast-changing drone warfare, the alliance used Latvia’s Crystal Arrow exercise to test unmanned ground combat, equipping opposing forces with wheeled robots. The systems gave the red team an element of surprise over a blue team relying only on aerial drones, said Lt. Col. 
+Andris Brūveris
+, the Latvian battalion commander leading the opposing side.
+“They are force multipliers, and they are here to stay,” said Brūveris, who commands Latvia’s 2nd Mechanized Infantry Battalion, in a briefing with reporters at the Sēlija training area in central Latvia on Monday, during a press trip organized by NATO.
+“We are a little bit behind because we’ve been using only the air drones,” he added. “I hope we will move forward with this at a quick pace.”
+Ukraine reshaped aerial drone warfare, and now appears poised to do the same for unmanned ground vehicles, with 
+plans to buy 25,000 UGVs
+ by the end of June. For Crystal Arrow, Brūveris relied on Ukrainian veterans for training and tactics, using wheeled robots for gathering intelligence, attacking enemy positions, resupply and casualty evacuation.
+At the Sēlija training range, less than 200 kilometers from the border with Russia, the opposing force engaged the blue force using UGVs and aerial drones without direct troop-to-troop contact, according to Brūveris. After two days of reconnaissance, the exercise moved into a kinetic phase on Monday, with the opposing force pushing back the flanks of the blue force.
+“We specifically, deliberately employed the UGVs here with the opposing forces to allow the friendly forces to understand what the threat was, and how they would counter that,” Brig. Gen. 
+Chris Gent
+, Allied Land Command’s deputy chief of staff for transformation and integration, told Defense News.
+Lt. Col. Andris Brūveris, center, commander of Latvia's 2nd Mechanized Infantry Battalion, speaks with staff at the Sēlija training area on May 11, 2026, during the Crystal Arrow 2026 exercise. (Rudy Ruitenberg/staff)
+Brūveris said he made particular use of a small four-wheeled UGV from Estonia-based startup 
+Ark Robotics
+, likening it to the ground-based equivalent of an aerial first-person view drone. Battle-proven in Ukraine and reminiscent of a toy radio-controlled car, Ark-1 can be used for reconnaissance or to race a 15-kilogram antitank mine into an enemy position at more than 40 kilometers per hour.
+“So I can do road reconnaissance, and at the same time, if there is a valuable target, that’s a suicide drone, so I can do the kinetic effect as well,” Brūveris said. “This is really something new for me, and I implement that in my maneuvers a lot.”
+In the exercise, the red team used the Ark-1 for reconnaissance up to 15 kilometers away, including when conditions were too windy to fly UAVs on Monday, according to Brūveris. The opposing force used the kinetic drone to take out a road obstacle defended by the blue forces, as well as hit enemy positions.
+Ukraine has leaned on unmanned systems to compensate for Russia’s superior numbers, and ground drones are preferable to sending soldiers into unfamiliar terrain, a Ukrainian veteran with the callsign Sleb, in charge of training at Ark Robotics, told Defense News.
+Brūveris said Latvian troops will now need to figure out how to fit UGVs into the military decision-making loop, after having done the same for aerial drones.
+“The blue force is my sister battalion from the same brigade,” Brūveris said. “They haven’t seen the drones on the ground, I haven’t used the drones on the ground, so it’s a surprise for both of us. We’re both learning, and afterwards, we’ll have a good chat how it works out.”
+NATO Allied Land Command is likewise keen to integrate the feedback as the alliance builds up its Eastern Flank Deterrence Initiative, and leaders including U.S. Army Gen. Chris Donahue, who commands the alliance’s Landcom as the head of United States Army Europe and Africa, made their way to Selija on Tuesday. NATO covered the cost of travel and accommodation for media attending the exercise and event, including for Defense News.
+“What we are really interested in hearing is if these systems are able to provide tactical advantage, essentially, in the way that Lt. Col. Brūveris decided to employ them,” Sean Thorne, a Canadian reserve officer in charge of lessons learned and interoperability at Landcom, told Defense News.
+He said Landcom is really looking for “organic, bottom-up experimentation” to understand how UGVs can be used at the tactical level.
+Latvian troops of the Mechanized Infantry Brigade are pictured in the forests of the Sēlija training area in central Latvia on May 12, 2026, during the Crystal Arrow 2026 exercise. (Rudy Ruitenberg/staff)
+What systems to buy and how many remains up to individual countries, with several studies underway about the “optimum force ratio” of crewed and uncrewed systems, Brig. Gen. Gent said. He said the alliance has done the math to decide on, for example, how many UGVs would equal a NATO capability target for a vehicle.
+With every nation in NATO trying to shorten the procurement cycle, the next challenge becomes integrating the UGVs into doctrine, training and how troops actually use capabilities, Gent said.
+Troops spent two to three days learning the systems alongside Ukrainian veterans and company representatives, according to Brūveris, who called the UGVs fairly simple to operate.
+Due to its small size, some troops that received training to operate the UGVs in Crystal Arrow were initially dismissive of Ark-1, according to a Ukrainian with the callsign Backspace, who identified himself as the integration lead for Ark Robotics.
+“Even guys from Latvia and Canada, on the first day of our training, they’re laughing, they’re joking that it’s just a toy,” Backspace told Defense News. “But yesterday on the operation, they were shocked. We are doing war like in a movie, because it’s really very powerful.”
+Latvian troops were highly motivated, even if Ark Robotics usually takes more time to train troops in Ukraine, said trainer Sleb. A representative for Ukrainian firm UGV Laboratory who identified himself as Denys concurred, saying teaching Latvian operators was “pretty easy.”
+“Our task is to learn from them and prepare ourselves, and that’s what we’re doing right now,” Brūveris said of the Ukrainian firms providing training and advice. In the exercise, he used reconnaissance drones at the platoon level, with kinetic ground robots attached to the maneuver companies.
+The exercise also allowed suppliers to learn about challenges of the Baltic forest environment, as opposed to Ukraine, according to Brūveris. In addition to Ark Robotics, firms taking part within the NATO Task Force X framework were Latvia’s 
+Natrix
+, Ukraine’s UGV Laboratory, Poland’s 
+Husarion
+ and Estonia’s 
+Alfatec Group
+.
+The Ark-1 unmanned ground vehicle by Ark Robotics (front) and the Simba UGV by Ukraine's UGV Laboratory are pictured in a demo near the Sēlija training area in Latvia on May 12, 2026, during the Crystal Arrow exercise. (Rudy Ruitenberg/staff)
+Unmanned ground systems are at the stage where FPV drones were in 2023, according to Denys at UGV Laboratory. The company supplied its four-wheeled Simba drone, which can carry a load of more than 200 kilograms. The representative said he expects 2027 to be a boom for the industry. “Because right now it is impossible to fight without these UGVs, we wouldn’t survive without it.”
+The Simba is used in Ukraine as a logistics drone to supply forward positions, and while not certified to do so, troops also use it to transport wounded soldiers back on return trips, according to Denys. With the Ukrainian battlefield changing fast, the platform is updated about every three months, and the company is working on a version with a weapon turret, he said.
+A first lesson from using UGVs in Latvia was the need to plan missions around terrain and network coverage, with dense and boggy local forest interfering with control signals for the Starlink-equipped ground drones, something less of a concern in more open terrain in Ukraine.
+Whereas aerial drone use is easy to plan as long as the weather cooperates, relying on satellite internet to control the ground robots meant planning the axis of advance to take into account tree coverage, according to Brūveris.
+Brūveris said the exercise made clear Latvia needs ground-based systems to cover all war-fighting functions, including reconnaissance and strike missions. He said proof of their effectiveness was his company commanders in the field all asking when they would get back the UGVs being used for demos on Tuesday, because the robots were needed in the fight.
+“These unmanned systems are the future, because one way or the other, it’s cheaper than people’s lives.”
+Rudy Ruitenberg is a Europe correspondent for Defense News. He started his career at Bloomberg News and has experience reporting on technology, commodity markets and politics.

@@ -1,0 +1,76 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/secdef-ash-carter-on-how-the-military-will-build-the-force-of-the-future/",
+    "source_title": "Ash Carter: The Interview",
+    "published": "Thu, 19 Nov 2015 07:55:23 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "In an interview, Secretary of Defense Ash Carter discusses the 'Force of the Future' initiative, aimed at reforming the Department of Defense's personnel systems to attract and retain talented individuals. He emphasizes the importance of human capital in maintaining a competitive military force and addresses the challenges faced by service members considering leaving for private sector opportunities. Carter outlines the need for modern data analytics to understand personnel retention and the importance of providing educational opportunities and flexible career paths.",
+    "key_takeaways": [
+      "The 'Force of the Future' initiative aims to modernize personnel management in the military.",
+      "Attracting and retaining talented individuals is crucial for maintaining a competitive military force.",
+      "Carter emphasizes the need for data analytics to understand why service members leave.",
+      "Educational opportunities and career flexibility are key factors in retaining military personnel.",
+      "Carter advocates for learning from private sector best practices in technology and personnel management.",
+      "The initiative seeks to create 'on-ramps' for new recruits and 'off-ramps' for current service members to gain civilian experience."
+    ],
+    "why_it_matters": "The reforms proposed in the 'Force of the Future' initiative are significant as they aim to address the challenges of retaining skilled personnel in the military, which is essential for national security. By modernizing personnel systems and learning from private sector practices, the Department of Defense can enhance its competitiveness and effectiveness in a rapidly changing global landscape.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The U.S. military is facing challenges in retaining talented personnel due to outdated systems.",
+      "evidence_text": "Archaic personnel systems plaguing the armed forces and the Department of Defense are drawing talented young men and women away into the private sector.",
+      "source_url": "https://warontherocks.com/secdef-ash-carter-on-how-the-military-will-build-the-force-of-the-future/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The 'Force of the Future' initiative aims to reform how the Department of Defense manages its personnel.",
+      "evidence_text": "It’s a program of reforms, aimed at changing the way the Department of Defense handles its human capital.",
+      "source_url": "https://warontherocks.com/secdef-ash-carter-on-how-the-military-will-build-the-force-of-the-future/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Carter emphasizes the importance of educational opportunities for military personnel.",
+      "evidence_text": "One of the things we know matter to our young people is the opportunity to have — to get an advanced degree.",
+      "source_url": "https://warontherocks.com/secdef-ash-carter-on-how-the-military-will-build-the-force-of-the-future/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Ash Carter",
+      "description": "Secretary of Defense discussing military personnel reforms.",
+      "evidence_text": "Secretary of Defense Ash Carter sat down with WOTR’s Ryan Evans to talk about the Force of the Future initiative."
+    },
+    {
+      "type": "Organization",
+      "name": "Department of Defense",
+      "description": "U.S. government department responsible for military affairs.",
+      "evidence_text": "The Department of Defense handles its human capital."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/secdef-ash-carter-on-how-the-military-will-build-the-force-of-the-future/",
+      "title": "Ash Carter: The Interview",
+      "published": "Thu, 19 Nov 2015 07:55:23 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable platform focused on military and defense analysis."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

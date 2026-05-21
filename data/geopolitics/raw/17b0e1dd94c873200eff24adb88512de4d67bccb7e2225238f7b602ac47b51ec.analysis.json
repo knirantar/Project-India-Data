@@ -1,0 +1,147 @@
+{
+  "document": {
+    "source_url": "https://thediplomat.com/2026/05/philippine-supreme-court-rejects-fugitive-senators-challenge-to-icc-arrest-warrant/",
+    "source_title": "Philippine Supreme Court Rejects Fugitive Senator’s Challenge to ICC Arrest Warrant",
+    "published": "Thu, 21 May 2026 11:17:00 +0900",
+    "data_type": "legal_judicial_records",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Philippine Supreme Court has denied Senator Ronald 'Bato' dela Rosa's request for a temporary restraining order against his arrest by the International Criminal Court (ICC). Dela Rosa is wanted for crimes against humanity related to his role in the Duterte administration's anti-drug campaign. The court's ruling allows for his potential arrest, as the senator remains a fugitive. The Supreme Court will release a full resolution on May 25, detailing the judges' opinions.",
+    "key_takeaways": [
+      "Supreme Court rejected Dela Rosa's bid to prevent arrest.",
+      "Dela Rosa is charged with crimes against humanity by the ICC.",
+      "The senator's current whereabouts are unknown.",
+      "The ruling allows for potential arrest by authorities.",
+      "Dela Rosa's lawyers plan to file a motion for reconsideration.",
+      "Political tensions continue between the Marcos and Duterte families."
+    ],
+    "why_it_matters": "This ruling is significant as it highlights the ongoing legal and political struggles in the Philippines, particularly regarding accountability for human rights violations during the Duterte administration. It also reflects the tensions between current President Ferdinand Marcos Jr. and the Duterte family, impacting the political landscape ahead of the 2028 elections.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Philippine Supreme Court rejected Dela Rosa's request for a temporary restraining order.",
+      "evidence_text": "The Supreme Court justices denied Dela Rosa’s petition for a temporary restraining order and status quo ante order.",
+      "source_url": "https://thediplomat.com/2026/05/philippine-supreme-court-rejects-fugitive-senators-challenge-to-icc-arrest-warrant/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Dela Rosa is charged with crimes against humanity by the ICC.",
+      "evidence_text": "On May 11, the ICC unsealed a warrant for Dela Rosa’s arrest, charging him with crimes against humanity.",
+      "source_url": "https://thediplomat.com/2026/05/philippine-supreme-court-rejects-fugitive-senators-challenge-to-icc-arrest-warrant/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Dela Rosa's current whereabouts are unknown.",
+      "evidence_text": "Dela Rosa, whose current whereabouts are unknown, also filed three petitions to the Supreme Court.",
+      "source_url": "https://thediplomat.com/2026/05/philippine-supreme-court-rejects-fugitive-senators-challenge-to-icc-arrest-warrant/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The Supreme Court will release a full resolution on May 25.",
+      "evidence_text": "It added that the Supreme Court would release its full resolution, as well as the concurring and dissenting opinions of the 15 justices, on May 25.",
+      "source_url": "https://thediplomat.com/2026/05/philippine-supreme-court-rejects-fugitive-senators-challenge-to-icc-arrest-warrant/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Ronald 'Bato' dela Rosa",
+      "description": "Philippine senator charged with crimes against humanity.",
+      "evidence_text": "Senator Ronald 'Bato' dela Rosa for a temporary restraining order to prevent his arrest."
+    },
+    {
+      "type": "organization",
+      "name": "International Criminal Court (ICC)",
+      "description": "International court that issued an arrest warrant for Dela Rosa.",
+      "evidence_text": "the ICC unsealed a warrant for Dela Rosa’s arrest, charging him with crimes against humanity."
+    },
+    {
+      "type": "person",
+      "name": "Rodrigo Duterte",
+      "description": "Former President of the Philippines, associated with the anti-drug campaign.",
+      "evidence_text": "Dela Rosa is wanted by the ICC for his prominent role in the anti-drug campaign, which raged throughout Duterte’s six years in office."
+    },
+    {
+      "type": "person",
+      "name": "Ferdinand Marcos Jr.",
+      "description": "Current President of the Philippines, involved in the political tensions with the Duterte family.",
+      "evidence_text": "Claire Castro, a spokesperson for President Ferdinand Marcos Jr., said that the presidential palace will leave it to the Department of Justice to interpret the Supreme Court’s ruling."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-20",
+      "event": "Supreme Court ruling on Dela Rosa's petition",
+      "location": "Philippines",
+      "actors": [
+        "Philippine Supreme Court",
+        "Ronald 'Bato' dela Rosa"
+      ],
+      "evidence_text": "In a 9-5-1 ruling handed down yesterday, the Supreme Court justices denied Dela Rosa’s petition for a temporary restraining order."
+    },
+    {
+      "date": "2025-03-01",
+      "event": "Duterte's arrest and extradition to the ICC",
+      "location": "Philippines",
+      "actors": [
+        "Rodrigo Duterte",
+        "International Criminal Court"
+      ],
+      "evidence_text": "If arrested, Dela Rosa would join his former boss, Duterte, who was arrested in March 2025 and extradited to the ICC."
+    },
+    {
+      "date": "2026-05-11",
+      "event": "ICC issues arrest warrant for Dela Rosa",
+      "location": "The Hague",
+      "actors": [
+        "International Criminal Court",
+        "Ronald 'Bato' dela Rosa"
+      ],
+      "evidence_text": "On May 11, the ICC unsealed a warrant for Dela Rosa’s arrest."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Estimated deaths in anti-drug campaign",
+      "value": "6000 to 30000",
+      "unit": "deaths",
+      "date": "2016-2022",
+      "location": "Philippines",
+      "evidence_text": "Estimates of the number killed during the campaign range from an official estimate of around 6,000 to as many as 30,000."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Ronald 'Bato' dela Rosa",
+      "relationship": "was chief of",
+      "object": "Philippine National Police",
+      "evidence_text": "Dela Rosa, who served as Philippine National Police chief for the first two years of Duterte’s presidential term."
+    },
+    {
+      "subject": "Ferdinand Marcos Jr.",
+      "relationship": "is in political conflict with",
+      "object": "Duterte family",
+      "evidence_text": "both the ICC warrants and the impeachment of Sara Duterte sit downstream of the political feud that has raged between President Ferdinand Marcos Jr. and the Duterte family."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://thediplomat.com/2026/05/philippine-supreme-court-rejects-fugitive-senators-challenge-to-icc-arrest-warrant/",
+      "title": "Philippine Supreme Court Rejects Fugitive Senator’s Challenge to ICC Arrest Warrant",
+      "published": "Thu, 21 May 2026 11:17:00 +0900",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet providing detailed coverage of legal and political events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

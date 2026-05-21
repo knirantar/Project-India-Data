@@ -1,0 +1,106 @@
+{
+  "document": {
+    "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4379036/jonathan-witter/",
+    "source_title": "Jonathan Witter",
+    "published": "Wed, 14 Jan 2026 15:21:00 GMT",
+    "data_type": "government_documents",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Jonathan Witter is the Director of the Defense Finance and Accounting Service (DFAS) as of November 18, 2025. He oversees the accounting and finance activities of the Department of War, managing a workforce of over 9,900 personnel and handling significant financial transactions. Witter has held various leadership roles within DFAS since joining in 2006, contributing to financial management modernization and operational audits.",
+    "key_takeaways": [
+      "Appointed Director of DFAS on November 18, 2025.",
+      "Leads over 9,900 personnel in finance and accounting for the Department of War.",
+      "In fiscal year 2025, DFAS processed 132 million pay transactions totaling over $652 billion.",
+      "Responsible for managing $933 billion in foreign military sales and $2.4 trillion in military retirement funds.",
+      "Previously served as Principal Deputy Director since January 2021.",
+      "Holds a master's degree and is a certified public accountant."
+    ],
+    "why_it_matters": "Understanding the leadership and operational structure of DFAS is crucial for comprehending how financial management supports military operations and the broader Department of War initiatives.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Jonathan Witter is the Director of the Defense Finance and Accounting Service.",
+      "evidence_text": "Jonathan Witter is the Director of the Defense Finance and Accounting Service (DFAS) as of November 18, 2025.",
+      "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4379036/jonathan-witter/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "DFAS processed over $652 billion in fiscal year 2025.",
+      "evidence_text": "In fiscal year 2025, the agency disbursed over $652 billion by processing 132 million pay transactions.",
+      "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4379036/jonathan-witter/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "Defense Finance and Accounting Service",
+      "description": "Agency responsible for financial management and accounting for the Department of War.",
+      "evidence_text": "Jonathan Witter is the Director of the Defense Finance and Accounting Service (DFAS)."
+    },
+    {
+      "type": "organization",
+      "name": "Department of War",
+      "description": "U.S. government department responsible for military operations.",
+      "evidence_text": "Mr. Witter leads the day-to-day accounting and finance activities of the Department of War (DOW)."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-11-18",
+      "event": "Appointment as Director of DFAS",
+      "location": "",
+      "actors": [
+        "Jonathan Witter"
+      ],
+      "evidence_text": "Jonathan Witter is the Director of the Defense Finance and Accounting Service (DFAS) as of November 18, 2025."
+    },
+    {
+      "date": "2021-01-01",
+      "event": "Became Principal Deputy Director of DFAS",
+      "location": "",
+      "actors": [
+        "Jonathan Witter"
+      ],
+      "evidence_text": "Prior to this role, Mr. Witter served as the Principal Deputy Director since January 2021."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Total Disbursement",
+      "value": "652 billion",
+      "unit": "USD",
+      "date": "2025",
+      "location": "",
+      "evidence_text": "In fiscal year 2025, the agency disbursed over $652 billion."
+    },
+    {
+      "name": "Pay Transactions Processed",
+      "value": "132 million",
+      "unit": "transactions",
+      "date": "2025",
+      "location": "",
+      "evidence_text": "by processing 132 million pay transactions to 6.6 million military personnel."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.war.gov/About/Biographies/Biography/Article/4379036/jonathan-witter/",
+      "title": "Jonathan Witter",
+      "published": "Wed, 14 Jan 2026 15:21:00 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is a government biography."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

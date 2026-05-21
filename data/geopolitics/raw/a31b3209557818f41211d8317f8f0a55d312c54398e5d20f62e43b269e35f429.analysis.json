@@ -1,0 +1,51 @@
+{
+  "document": {
+    "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-05-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
+    "source_title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon (image)",
+    "published": "Fri, 15 May 2026 12:00:00 +0000",
+    "data_type": "images",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The image highlights the impact of Israeli military strikes on civilians in Gaza, the West Bank, and Lebanon. It serves as a visual representation of the ongoing conflict and its humanitarian consequences. The source emphasizes the suffering of civilians amidst military actions, drawing attention to the urgent need for peace and security in the region.",
+    "key_takeaways": [
+      "Israeli military strikes are affecting civilians in Gaza.",
+      "The conflict extends to the West Bank and Lebanon.",
+      "Humanitarian consequences are severe for affected populations.",
+      "The image serves as a call for peace and security.",
+      "Visual documentation of conflict impacts is crucial.",
+      "Awareness of civilian suffering is essential for international response."
+    ],
+    "why_it_matters": "This image underscores the humanitarian crisis resulting from military actions in the region, highlighting the urgent need for international attention and intervention to protect civilian lives and promote peace.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Israeli military strikes are causing civilian suffering.",
+      "evidence_text": "The image highlights the impact of Israeli military strikes on civilians in Gaza, the West Bank, and Lebanon.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-05-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-05-2026-WFP-Gaza-01.jpg/image560x340cropped.jpg",
+      "title": "Israeli military strikes add to civilian suffering in Gaza, West Bank and Lebanon (image)",
+      "published": "Fri, 15 May 2026 12:00:00 +0000",
+      "evidence_text": "The image serves as a visual representation of the ongoing conflict and its humanitarian consequences."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is from the United Nations, a recognized authority on international peace and security."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

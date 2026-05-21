@@ -1,0 +1,124 @@
+China’s diplomats are on an “AI governance” offensive. At a May 5 United Nations meeting, China’s vice minister of science and technology 
+championed China’s role in shaping U.N.-led frameworks
+ that determine how the technology should be built and used. Just a week earlier, two top Chinese AI experts actively involved in Beijing’s governance efforts appeared by video on a 
+Capitol Hill panel discussion hosted by Senator Bernie Sanders
+, touting China’s contributions to AI safety and cooperation.
+Norms and standards on AI development and applications are still being defined. Being a standards-setter rather than a standards-follower can simultaneously solidify a country’s technological leadership and ensure its companies retain an edge in global markets. Even as the United States 
+maintains its lead in frontier AI capabilities
+, the 
+rapid proliferation and adoption
+ of lower-cost open-weight Chinese models not only poses 
+security risks
+ but also risks entrenching Chinese standards.
+Washington has traditionally advocated for a light-touch regulatory approach to AI, although this is potentially changing since Anthropic announced that its Mythos model was able to 
+exploit zero-day cyber security vulnerabilities
+ at unprecedented scale. It also remains leery of multilateral fora. In contrast, the Chinese government has positioned itself as a public goods provider in global AI governance, gaining diplomatic ground in developing countries with 
+lofty rhetoric of “development-centric” AI and “inclusiveness
+.” In the last few years, China has proposed a flurry of multilateral initiatives, including the 
+2023 Global AI Governance Initiative
+, 
+2024 AI Capacity-Building Action Plan for Good and for All
+, and 
+2025 Global AI Governance
+ Action Plan
+.
+In addition to the political and reputational payoffs, the continued diffusion of Beijing’s approach to AI governance and regulatory standards promises to substantially harm U.S. competitive positioning in global markets — not only by lowering barriers for Chinese companies seeking to export their AI models, but also by increasing costs, friction, and political dilemmas for American AI firms.
+But this outcome is not yet predetermined. Global AI regulatory regimes (and China’s ultimate influence) are still being decided. For reasons of both U.S. national security and economic competitiveness, it would be short-sighted for Washington to stand aside while Beijing takes the lead. Even if Chinese engagement has been 
+more performative than substantive
+, Beijing still stands to reap diplomatic and reputational payoffs in the rest of the world. The United States should proactively participate in and shape multilateral frameworks on AI governance to ensure its interests are represented, rather than eschew any form of international intervention as a restriction on its sovereignty.
+ 
+Sign Up for Our Newsletter
+ 
+Chinese AI Governance Embeds Beijing’s Political Preferences
+China’s approach to AI governance manifests in high-level guidelines, which embed the Chinese Communist Party’s political considerations, alongside a concrete set of technical rules that determine what data a model can be trained on, what content a model is permitted to generate, and what registration and review steps a developer should complete before offering a service to users. Thus far, model safety has been viewed first and foremost through the lens of regime security.
+While some aspects of China’s AI governance address issues similar to those under review in the United States — such as copyright ownership claims over training data, and the propriety of child-safe content moderation — several other guidelines issued by various Chinese government bodies invariably emphasize the importance of ensuring “
+social safety
+” (
+shehui anquan
+). The China Academy of Information and Communications Technology, a think tank under the Ministry of Industry and Information Technology, issued an 
+AI Safety Benchmark
+ that evaluated models on a range of dimensions, including a category for “content safety” that covers “sensitive politics” such as territorial sovereignty, historical issues, and major national policies.
+China’s 
+AI Safety Governance Framework 2.0
+, released in September 2025, holds safeguarding national sovereignty as a key governance principle, and includes “values alignment” and non-interference in a country’s political and social systems as fundamental principles of trustworthy AI. It identifies threats to “social stability, public safety, and ideological safety” as a risk and suggests human intervention to mitigate bias and filter out inappropriate outputs — similar to the Chinese Communist Party’s broader approach to censorship. These are provisions most Western commentators object to as standing afield from longstanding democratic and free-market principles.
+China heavily regulates AI domestically at the technical level. The Cyberspace Administration of China in 2023 issued 
+Interim Measures for the Management of Generative AI Services
+, which require that any model offered to the public reflect “core socialist values” and be listed in a publicly available registry of algorithms before launch. China’s national cyber security standards committee also governs how algorithms function. The security requirement enacted by the Standardization Administration of China (which represents China in the International Organization for Standardization and other international standards bodies), 
+TC260-003
+, specifies how Chinese AI developers should filter training data and score model outputs, and how models should respond when users prompt them for sensitive content.
+The TC260-003 standard requires sampling 4,000 items from any training corpus and 
+blacklisting it as a data source if more than five percent of those items contain “illegal and negative” information
+. In practice, Chinese AI labs are restricted from including training datasets that include information the Communist Party finds politically inconvenient. Moreover, TC260-003 directs AI developers to suspend service to users who repeatedly attempt to induce a model to produce non-compliant outputs. Additional 
+standards
+ mandate how AI-generated text, images, audio, and video should be labeled both with metadata and visual markings for user inspection.
+Taken collectively, these rules form a coherent 
+regulatory environment governing both the way AI systems in China are trained
+ and the way they are served to users. While some of the aims of Chinese AI governance are shared by the United States — such as preventing malicious use of AI systems by would-be bioterrorists and cybercriminals — others are squarely designed to serve the Chinese Communist Party’s political objectives. China’s governance of AI bears directly on the 
+behavior of its open-weight models
+, which are increasingly popular in global markets. Models released by DeepSeek refuse to discuss the 
+events of June 4, 1989
+ and parrot Chinese state rhetoric on Taiwan’s political status. Even when researchers strip basic filters from model copies downloaded and run locally, the 
+underlying weights continue to mirror the political content of the training data
+ authorized by TC260-003.
+Exporting Governance Alongside Technology
+There are three pathways by which China’s approach to AI governance could become more widespread.
+The first is by standards-setting in international bodies. Beijing has, in recent years, been active in sending personnel and flooding standards bodies with proposals. In 2025, China’s State Council Information Office reported that 
+Chinese authorities filed 505 proposals
+ to the International Organization for Standardization and the International Electrotechnical Commission, many related to the AI and internet industries. Chinese government bodies, firms, and standards committees also attempted to lead the development of 285 international technical standards, a significant increase over 2024. To be sure, there is ample debate about whether 
+China’s increasingly prominent role in setting global technical standards
+ reflects genuine prowess or is being driven by volume-maximizing gamesmanship. The combination of will and capacity suggests a potential first-mover advantage for China, particularly if Washington continues to scorn multilateral settings.
+Second, Beijing has started to tout bilateral, regional, and multilateral governance frameworks. China and the Association of Southeast Asian Nations (ASEAN) agreed in September 2025 to 
+launch an AI safety network in 2026
+, remove barriers to the flow of their citizens’ data across borders, and pursue a joint “AI Plus” action plan modeled on Beijing’s strategy for boosting AI adoption domestically. The July 2025 World AI Conference held in Shanghai saw the launch of the China-BRICS AI Development and Cooperation Center.
+The third and most consequential channel for Chinese influence is the bundling of governance with infrastructure. China is exporting a full-stack AI ecosystem, and Beijing’s discourse on global AI governance emphasizes cooperation on capacity building, from computing power and data centers to joint laboratories and training programs. Through the 
+Digital Silk Road
+, Chinese state and private firms have invested or contracted more than $22 billion in digital infrastructure across 106 countries since 2017, including telecom networks and “smart city” surveillance systems. Countries may be more likely to adopt Chinese-style regulations simply out of convenience — because their technology products and services are offered at low cost, Chinese consultants are advising the relevant ministry, and the equipment in the government’s data centers came from Huawei. This creates a self-reinforcing cycle where AI exports and governance diffusion feed into each other, entrenching Chinese developer dominance.
+None of these venues is likely to produce frontier AI systems capable of rivaling the latest version of Claude, ChatGPT, or Gemini. However, the risk is that Beijing will effectively restrict sensitive training data and embed its political preferences in the AI systems being used by much of the world — 
+or Silicon Valley, for that matter
+ — while erecting legal barriers that implicitly exclude American AI services from strategic markets. China’s suite of multilateral proposals contains language reflective of its domestic regulatory approaches, such as the emphasis on respecting national sovereignty and political systems, eliminating algorithmic bias, and ensuring “high-quality” data.
+Chinese-Led AI Governance Undermines U.S. Competitiveness
+The diffusion of Chinese-style AI governance increases the compliance costs and political dilemmas for U.S. companies seeking to expand global market access, while simultaneously making it easier for Chinese firms to penetrate new markets and consolidate market dominance.
+The first concrete risk will be familiar to any technology company that has done business in China. If third-country markets adopt frameworks resembling Beijing’s, then Chinese AI products are already compliant. But U.S. companies, which are broadly committed to resisting censorship, will find themselves in the same trap that brought Google to its knees in mainland China. The company first entered the Chinese market in 2006 under a self-censoring arrangement, and 
+withdrew
+ in 2010 after concluding it could not operate without granting the Chinese Communist Party control over its search results. The 2018 attempt to re-enter through “
+Project Dragonfly
+” collapsed after its own employees revolted. In retrospect, search engines were the easy test case. Generative AI is much harder, because the object of influence is not a siftable and easily modulated list of links, but the often unpredictable outputs of algorithms with tens of billions of search parameters.
+If more markets begin adopting TC260-style training data audits, “approved” algorithm registries, and content labeling regimes modeled on Chinese standards, American developers will face three unattractive options. First, they could retrofit a separate, country-specific model variant — absorbing the engineering cost of training data filtering, output classification, and ongoing compliance review for a market that may be too small to justify it. Alternatively, they could refuse to operate in the market, thereby conceding it to Chinese competitors. Finally, they could comply, accepting the reputational cost and political risk of suppressing legitimate user queries about events Beijing finds inconvenient.
+While China’s domestic AI market is large enough that Chinese firms can build a Chinese-compliant model first and then adapt it for global deployments, American companies would face considerable inefficiencies from developing fragmented product lines for bespoke markets. This is a worst-case version of the 
+regional balkanization that plagued cloud deployments
+, in which U.S. hyperscalers had to stand up parallel, jurisdiction-specific technology stacks, each duplicating engineering and compliance work and undercutting the economies of scale that were supposed to make cloud profitable.
+Though it is a much different ecosystem, the European Union’s approach to AI regulation offers a preview of what Chinese-style regulatory capture might look like at global scale. Apple has publicly stated that it has delayed live translation, iPhone mirroring, and several other AI features in the European Union because of 
+compliance friction with the Digital Markets Act
+, and 
+Meta held back deployment of its Llama models
+ for the same reason. If a transparent, “friendly” regulatory environment in Brussels can generate so much delay and cost for U.S. firms, then an opaque, politically directed regulatory environment in emerging markets modeled on Beijing’s will generate considerably more.
+The growing incorporation of Chinese regulatory principles and standards internationally will further lower the barriers for Chinese AI companies seeking to export their products. Chinese-style AI regulation arrives bundled with computing infrastructure, models, training data, and developer tools. Because Chinese models are pre-cleared under the 
+rules Beijing is pushing other countries to adopt
+, developer communities in these countries are more likely to see widespread adoption of Chinese base models. The popularity of Chinese base models could, in turn, create spillover preferences for applications built on top of them, as developers prefer to use systems they are familiar with.
+China’s export of a full-stack AI ecosystem, from standards to models, provides an almost turnkey solution that may be particularly attractive to countries with weaker regulatory capacity seeking rapid industrial applications, or to governments that may be less concerned about political values they view as being defined by liberal democracies. Chinese cooperation initiatives with Southeast Asian countries have included the announcement of 
+joint AI standards with Laos and Cambodia
+, along with efforts to 
+translate Chinese technical standards as a reference point for ASEAN
+.
+U.S. Tech Leadership Demands a Vision for Governance
+The co-evolution of AI governance standards and AI infrastructure, especially under the Chinese model, has major effects on U.S. AI export competitiveness and tech leadership. It will create a fundamentally different playing field from the default where Silicon Valley is used to being the leader. One year after the Trump administration enacted its AI Action Plan, export controls have dominated the plan’s “international diplomacy and security” pillar. But 
+tools designed to slow down Chinese AI development, however successful
+, do not address the question of who writes the rules in the markets where China is already selling its AI stack.
+The Trump administration has 
+treated multilateral standards bodies as an impediment to American innovation
+ rather than as a venue worth contesting. To compete effectively with China in shaping AI governance, that should change. Concerns over Chinese influence in global governance organizations should prompt the United States to revitalize its leadership and advocate for its own interests and values, rather than work exclusively with like-minded partners. Abandoning the field leaves much of the world to choose between competing Chinese or European approaches to AI — 
+neither of which is friendly to American companies or U.S. security interests
+.
+By contrast, Beijing is treating AI governance as a primary instrument of statecraft. The 
+Global AI Governance Action Plan
+ calls for laboratories, safety assessments, and datasets that risk excluding American competitors by design. These are unglamorous, slow-moving, highly technical programs — but they are also exactly the kind of programs that, a decade from now, will determine which AI services are being offered in much of the world.
+An effective U.S. approach to international AI governance will require establishing a proactive vision for how the technology should and shouldn’t be regulated. To avoid capture by Beijing or Brussels, Washington — and leading private-sector labs in Silicon Valley — will need to seek out areas of common ground articulated by powers like Japan, Singapore, the United Kingdom, Canada, and India, each of which is beginning to craft its own approaches to AI. The difficult part will be coming to some internal consensus about what, exactly, the United States should want other countries to do with the world’s most consequential technology — and, even more basic, what kind of relationship Americans should have with AI.
+ 
+Write for Cogs of War
+ 
+Audrye Wong, Ph.D., is a nonresident senior fellow at the American Enterprise Institute. Her research focuses on China’s economic statecraft, propaganda and disinformation campaigns, and foreign influence operations. Her book 
+Subversion and Seduction: China’s Economic Statecraft
+ is forthcoming at Oxford University Press.
+Ryan Fedasiuk is a fellow for China and Technology at the American Enterprise Institute and an adjunct professor at Georgetown University’s Security Studies Program. He previously served as an advisor for U.S.-Chinese bilateral affairs at the U.S. Department of State.
+Image: Unnerving duck via 
+Wikimedia Commons

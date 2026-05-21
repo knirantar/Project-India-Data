@@ -1,0 +1,99 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/conflict-casevac-and-the-golden-hour-in-the-age-of-persistent-surveillance/",
+    "source_title": "Conflict, CASEVAC, and the Golden Hour in the Age of Persistent Surveillance",
+    "published": "Mon, 11 May 2026 07:15:54 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses the evolving nature of battlefield casualty evacuation (CASEVAC) in modern warfare, particularly in the context of persistent aerial surveillance and rapid fire integration. It critiques the traditional 'golden hour' model of evacuation, arguing that the presence of drones and other technological advancements has changed the dynamics of casualty management. The author draws on experiences from the Pokrovsk axis in eastern Ukraine to illustrate how these changes impact the decision-making process regarding evacuation and the care of wounded soldiers.",
+    "key_takeaways": [
+      "The 'golden hour' model is outdated in modern warfare due to constant drone surveillance.",
+      "Evacuation attempts can increase the risk of detection and engagement.",
+      "Terrain and mine contamination severely restrict movement options for evacuation.",
+      "Casualties often remain in forward positions for extended periods due to tactical constraints.",
+      "Training for soldiers must include prolonged casualty management under threat.",
+      "Decisions to evacuate are now tactical calculations rather than solely medical urgencies."
+    ],
+    "why_it_matters": "This research highlights the critical need for military medical practices to adapt to the realities of modern combat, where traditional assumptions about casualty evacuation no longer apply. Understanding these dynamics is essential for improving the survival rates of wounded soldiers in contemporary conflicts.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The golden hour model is no longer valid in modern warfare.",
+      "evidence_text": "The golden hour model is only valid in an environment where movement is possible without immediate detection and engagement.",
+      "source_url": "https://warontherocks.com/conflict-casevac-and-the-golden-hour-in-the-age-of-persistent-surveillance/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Evacuation attempts can increase the risk of detection and engagement.",
+      "evidence_text": "The act of evacuation itself generates risk, often exceeding that posed by the initial injury.",
+      "source_url": "https://warontherocks.com/conflict-casevac-and-the-golden-hour-in-the-age-of-persistent-surveillance/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Casualties often remain in forward positions for extended periods.",
+      "evidence_text": "In parts of the Ukrainian front, evacuation delays can extend far beyond doctrinal timelines.",
+      "source_url": "https://warontherocks.com/conflict-casevac-and-the-golden-hour-in-the-age-of-persistent-surveillance/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "person",
+      "name": "Dr. R. Adams Cowley",
+      "description": "Originator of the golden hour concept in civilian trauma medicine.",
+      "evidence_text": "The concept itself originated in civilian trauma medicine decades prior, generally attributed to Dr. R. Adams Cowley of Baltimore’s Shock Trauma Institute in 1975."
+    },
+    {
+      "type": "person",
+      "name": "Robert Gates",
+      "description": "Former Secretary of Defense who endorsed the golden hour model.",
+      "evidence_text": "In 2009, Secretary of Defense Robert Gates endorsed Cowley’s golden hour model."
+    },
+    {
+      "type": "location",
+      "name": "Pokrovsk axis",
+      "description": "A front in eastern Ukraine where the author has operational experience.",
+      "evidence_text": "Drawing on my operational experience on the Pokrovsk axis in eastern Ukraine."
+    },
+    {
+      "type": "location",
+      "name": "Staromayorske",
+      "description": "Location of a significant Ukrainian assault where casualties were not evacuated.",
+      "evidence_text": "I witnessed this during the Ukrainian assault on Staromayorske in June 2024."
+    }
+  ],
+  "events": [
+    {
+      "date": "2024-06-01",
+      "event": "Ukrainian assault on Staromayorske",
+      "location": "Staromayorske, Ukraine",
+      "actors": [
+        "Ukrainian forces",
+        "International Legion"
+      ],
+      "evidence_text": "I witnessed this during the Ukrainian assault on Staromayorske in June 2024."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/conflict-casevac-and-the-golden-hour-in-the-age-of-persistent-surveillance/",
+      "title": "Conflict, CASEVAC, and the Golden Hour in the Age of Persistent Surveillance",
+      "published": "Mon, 11 May 2026 07:15:54 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The article is published on a reputable platform focused on military and strategic analysis."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

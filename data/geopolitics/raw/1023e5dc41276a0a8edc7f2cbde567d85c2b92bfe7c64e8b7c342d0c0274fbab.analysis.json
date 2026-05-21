@@ -1,0 +1,105 @@
+{
+  "document": {
+    "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+    "source_title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
+    "published": "Wed, 13 May 2026 12:00:00 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "During a meeting in Addis Ababa, Secretary-General António Guterres emphasized the need for reforms to enhance Africa's representation in global governance. He highlighted the African Union's role as a leader in multilateralism and called for changes to the UN Security Council to address historical injustices. Guterres also pointed out the financial inequalities faced by African nations and the urgent need for climate action, particularly in renewable energy investment. The discussions underscored the importance of cooperation between the UN and the African Union in addressing peace, security, and development challenges.",
+    "key_takeaways": [
+      "Guterres stated this is likely his final AU-UN summit as Secretary-General.",
+      "He called for reforms in the UN Security Council to better represent Africa.",
+      "Guterres highlighted deep inequalities in the international financial system affecting Africa.",
+      "He warned of the severe impacts of climate change on the continent.",
+      "The AU is seen as a key player in multilateralism and addressing global challenges.",
+      "Guterres supports the AU's initiatives for peace and security in Africa."
+    ],
+    "why_it_matters": "The discussions at this summit are crucial for addressing systemic inequalities faced by African nations in global governance and finance, and for promoting sustainable development and peace in the region.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Guterres stated this is likely his final AU-UN summit as Secretary-General.",
+      "evidence_text": "This is my final AU-UN Conference as Secretary-General,” he told reporters in the Ethiopian capital afterwards.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Guterres called for reforms in the UN Security Council to better represent Africa.",
+      "evidence_text": "He called for reform of the Security Council to make it more representative of today’s world.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Guterres highlighted deep inequalities in the international financial system affecting Africa.",
+      "evidence_text": "He highlighted what he described as deep inequalities in the international financial architecture.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Guterres warned of the severe impacts of climate change on the continent.",
+      "evidence_text": "Mr. Guterres also warned that climate change continues to hit Africa hardest.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Organization",
+      "name": "African Union",
+      "description": "A continental union consisting of 55 African countries, focused on promoting unity and cooperation among African nations.",
+      "evidence_text": "Mr. Guterres described the African Union as 'the flagship for multilateralism in Africa'."
+    },
+    {
+      "type": "Person",
+      "name": "António Guterres",
+      "description": "The Secretary-General of the United Nations.",
+      "evidence_text": "Mr. Guterres said would most likely be his final AU-UN summit as Secretary-General."
+    },
+    {
+      "type": "Person",
+      "name": "Mahmoud Ali Youssouf",
+      "description": "Chairperson of the African Union Commission.",
+      "evidence_text": "Meeting with AU Commission Chairperson Mahmoud Ali Youssouf."
+    },
+    {
+      "type": "Country",
+      "name": "Ethiopia",
+      "description": "The country where the AU-UN summit took place.",
+      "evidence_text": "in the Ethiopian capital afterwards."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-13",
+      "event": "AU-UN summit",
+      "location": "Addis Ababa, Ethiopia",
+      "actors": [
+        "António Guterres",
+        "Mahmoud Ali Youssouf"
+      ],
+      "evidence_text": "During a meeting in Addis Ababa, Secretary-General António Guterres emphasized the need for reforms."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167503",
+      "title": "In Addis Ababa, Guterres urges reforms to give Africa stronger global voice",
+      "published": "Wed, 13 May 2026 12:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news outlet affiliated with the United Nations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

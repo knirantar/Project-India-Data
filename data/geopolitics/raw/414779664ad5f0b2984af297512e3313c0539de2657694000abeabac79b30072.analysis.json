@@ -1,0 +1,132 @@
+{
+  "document": {
+    "source_url": "https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
+    "source_title": "Iran Could Be Trump’s Greatest Failure",
+    "published": "Mon, 18 May 2026 14:52:06 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The ongoing war with Iran has proven disastrous for President Trump, with significant losses for the U.S. military and a detrimental impact on the global economy. Despite initial military gains, Iran retains a substantial portion of its military capabilities and nuclear materials. The conflict has also led to rising energy prices and strained U.S. alliances, raising questions about the long-term consequences of the war.",
+    "key_takeaways": [
+      "Trump's hope for a peace deal with China regarding Iran was unsuccessful.",
+      "Iran still possesses 70% of its prewar missile stockpile and highly enriched uranium.",
+      "The U.S. has suffered significant military losses, including damage to 217 structures at 15 military sites.",
+      "Energy prices have surged, with gasoline up nearly 50% and diesel by 59% since last year.",
+      "The IMF has downgraded global growth forecasts, predicting a potential recession.",
+      "U.S. alliances are strained, with allies questioning America's reliability."
+    ],
+    "why_it_matters": "The article highlights the multifaceted consequences of the Iran war, emphasizing its impact on U.S. military readiness, global economic stability, and international relations. It serves as a critical analysis of Trump's foreign policy failures and the long-term implications for the United States and its allies.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Iran retains significant military capabilities despite U.S. attacks.",
+      "evidence_text": "Iran still has 70 percent of its prewar missile stockpile, 70 percent of its mobile launchers, and operational access to more than 90 percent of its missile sites along the Strait of Hormuz.",
+      "source_url": "https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The war has led to significant U.S. military losses.",
+      "evidence_text": "Iran has damaged 217 structures at 15 U.S. military sites in the Middle East.",
+      "source_url": "https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Energy prices have risen significantly due to the war.",
+      "evidence_text": "The price of gasoline in the United States is up by nearly half since this time last year.",
+      "source_url": "https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The IMF has cut its global growth forecast.",
+      "evidence_text": "In April, the International Monetary Fund (IMF) cut its forecast for growth from 3.4 percent to 3.1 percent.",
+      "source_url": "https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "description": "Former President of the United States involved in the Iran conflict.",
+      "evidence_text": "Doubling down on the war remains an option that Trump has publicly contemplated."
+    },
+    {
+      "type": "Person",
+      "name": "Xi Jinping",
+      "description": "President of China who was approached for a peace deal regarding Iran.",
+      "evidence_text": "U.S. President Donald Trump had hoped he could get Chinese President Xi Jinping to broker a peace deal between Washington and Tehran."
+    },
+    {
+      "type": "Organization",
+      "name": "International Monetary Fund",
+      "description": "Global financial institution that has revised growth forecasts due to the war.",
+      "evidence_text": "In April, the International Monetary Fund (IMF) cut its forecast for growth from 3.4 percent to 3.1 percent."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-18",
+      "event": "Trump's failed peace negotiations with China regarding Iran.",
+      "location": "Beijing",
+      "actors": [
+        "Donald Trump",
+        "Xi Jinping"
+      ],
+      "evidence_text": "Amid the pomp and pageantry in Beijing last week, U.S. President Donald Trump had hoped he could get Chinese President Xi Jinping to broker a peace deal between Washington and Tehran."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Gasoline Price Increase",
+      "value": "50",
+      "unit": "percent",
+      "date": "2026-05-18",
+      "location": "United States",
+      "evidence_text": "The price of gasoline in the United States is up by nearly half since this time last year."
+    },
+    {
+      "name": "Diesel Price Increase",
+      "value": "59",
+      "unit": "percent",
+      "date": "2026-05-18",
+      "location": "United States",
+      "evidence_text": "Diesel, which is used by commercial vehicles, is up by 59 percent."
+    },
+    {
+      "name": "U.S. Military Structures Damaged",
+      "value": "217",
+      "unit": "structures",
+      "date": "2026-05-18",
+      "location": "Middle East",
+      "evidence_text": "Iran has damaged 217 structures at 15 U.S. military sites in the Middle East."
+    },
+    {
+      "name": "IMF Growth Forecast",
+      "value": "3.1",
+      "unit": "percent",
+      "date": "2026-04-01",
+      "location": "Global",
+      "evidence_text": "In April, the International Monetary Fund (IMF) cut its forecast for growth from 3.4 percent to 3.1 percent."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://foreignpolicy.com/2026/05/18/iran-war-trump-foreign-policy-failure-energy-crisis-military/",
+      "title": "Iran Could Be Trump’s Greatest Failure",
+      "published": "Mon, 18 May 2026 14:52:06 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable publication known for its analysis of foreign policy."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

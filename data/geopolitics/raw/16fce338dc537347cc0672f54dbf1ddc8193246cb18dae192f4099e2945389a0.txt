@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: Sudan hunger crisis deepens as UN warns millions face acute food shortages (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/03-05-2024-UNICEF-Sudan-UNI518587.jpeg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml
+Content-Type: image/jpeg
+Bytes: 70222

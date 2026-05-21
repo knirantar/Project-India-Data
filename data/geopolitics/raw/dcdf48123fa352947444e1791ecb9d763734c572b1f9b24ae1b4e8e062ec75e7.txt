@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: Security Council LIVE: Civilians in conflict under spotlight amid rising global toll (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/18-11-2020-UNMISS-Pibor-Shearer.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 61740

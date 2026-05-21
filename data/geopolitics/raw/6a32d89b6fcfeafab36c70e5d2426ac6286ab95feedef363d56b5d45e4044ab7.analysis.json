@@ -1,0 +1,86 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/strategy-without-hubris-how-china-rose-by-managing-americas-reaction/",
+    "source_title": "Strategy Without Hubris: How China Rose by Managing America’s Reaction",
+    "published": "Tue, 14 Apr 2026 07:15:47 +0000",
+    "data_type": "rss_feed_content",
+    "author": "Oriana Skylar Mastro",
+    "publisher": "War on the Rocks",
+    "language": "English",
+    "region": "Global",
+    "summary": "The article discusses how China has managed its rise as a great power by carefully calibrating its actions to avoid provoking a strong U.S. response. It argues that China's strategy has involved emulation, exploitation, and entrepreneurship, allowing it to gain advantages without triggering decisive containment from the United States. The author emphasizes the importance of understanding the iterative nature of great power competition and how China's approach has shifted the strategic landscape.",
+    "key_takeaways": [
+      "China's rise was facilitated by its strategic management of U.S. reactions.",
+      "The U.S. misjudged China's intentions, leading to a delayed containment strategy.",
+      "China employed a mix of emulation, exploitation, and entrepreneurship in its competition.",
+      "Great power rivalry is characterized by iterative interactions rather than linear escalation.",
+      "China's calibrated approach complicated U.S. responses and alliance consolidation.",
+      "Future U.S.-Chinese competition may require new strategies as conditions change."
+    ],
+    "why_it_matters": "Understanding China's strategic approach is crucial for U.S. policymakers as they navigate the complexities of great power competition. The insights provided can help in formulating responses that are more effective in managing the evolving dynamics of international relations.",
+    "tags_topics": [
+      "China",
+      "U.S.-China Relations",
+      "Great Power Competition",
+      "International Strategy"
+    ]
+  },
+  "claims": [
+    {
+      "claim_text": "China's rise was not met with an immediate containment strategy by the U.S.",
+      "evidence_text": "The U.S.-Chinese rivalry deepened gradually, punctuated by crises but rarely exploding into decisive pushback.",
+      "source_url": "https://warontherocks.com/strategy-without-hubris-how-china-rose-by-managing-americas-reaction/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "China's strategy involved managing reactions to its actions.",
+      "evidence_text": "China rose not despite American awareness, but partly because it competed in ways that made containment difficult to justify.",
+      "source_url": "https://warontherocks.com/strategy-without-hubris-how-china-rose-by-managing-americas-reaction/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Book",
+      "name": "Upstart: How China Became a Great Power",
+      "description": "A book by Oriana Skylar Mastro that analyzes China's rise and strategic behavior.",
+      "evidence_text": "Mastro’s framework helps illuminate how China did this."
+    },
+    {
+      "type": "Organization",
+      "name": "World Trade Organization",
+      "description": "An international organization that regulates trade between nations.",
+      "evidence_text": "Where participation in U.S.-led institutions — such as joining the World Trade Organization in 2001 — reassured others and reduced suspicion."
+    }
+  ],
+  "events": [
+    {
+      "date": "2001-01-01",
+      "event": "China joins the World Trade Organization",
+      "location": "Global",
+      "actors": [
+        "China",
+        "World Trade Organization"
+      ],
+      "evidence_text": "Where participation in U.S.-led institutions — such as joining the World Trade Organization in 2001 — reassured others and reduced suspicion."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/strategy-without-hubris-how-china-rose-by-managing-americas-reaction/",
+      "title": "Strategy Without Hubris: How China Rose by Managing America’s Reaction",
+      "published": "Tue, 14 Apr 2026 07:15:47 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The article is published on a reputable platform and authored by an expert in the field."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

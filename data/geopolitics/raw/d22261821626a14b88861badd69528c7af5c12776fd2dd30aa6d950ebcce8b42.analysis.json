@@ -1,0 +1,104 @@
+{
+  "document": {
+    "source_url": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+    "source_title": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences",
+    "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The event discusses China's initiative to promote Internet sovereignty as a governing concept for the global Internet. This initiative has gained momentum, particularly highlighted during the World Internet Conference in Wuzhen. If successful, it could significantly impact the Internet, various industries, media, and information accessibility.",
+    "key_takeaways": [
+      "China is promoting Internet sovereignty as a global governing concept.",
+      "The initiative has intensified over the past year.",
+      "The World Internet Conference in Wuzhen was a key moment for this initiative.",
+      "Potential wide-ranging consequences for the Internet and industries.",
+      "Implications for media and information accessibility.",
+      "Discussion featured experts from various fields."
+    ],
+    "why_it_matters": "Understanding China's Internet sovereignty initiative is crucial as it may reshape global Internet governance and affect international relations, trade, and information flow.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "China's initiative to promote Internet sovereignty could have wide consequences.",
+      "evidence_text": "If successful, this initiative could have wide consequences for not only the Internet, but also for a wide range of industries, the media, and information accessibility.",
+      "source_url": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "James A. Lewis",
+      "description": "Director of the Strategic Technologies Program at CSIS.",
+      "evidence_text": "Featuring: James A. Lewis, Director of the Strategic Technologies Program, CSIS"
+    },
+    {
+      "type": "Person",
+      "name": "Xiao Qiang",
+      "description": "Adjunct Professor at UC Berkeley and Founder and Editor-in-Chief of China Digital Times.",
+      "evidence_text": "Xiao Qiang, Adjunct Professor, School of Information, UC Berkeley, Founder and Editor-in-Chief, China Digital Times"
+    },
+    {
+      "type": "Person",
+      "name": "Amy Chang",
+      "description": "Staff Director for the Subcommittee on Asia and the Pacific, Committee on Foreign Affairs, U.S. House of Representatives.",
+      "evidence_text": "Amy Chang, Staff Director, Subcommittee on Asia and the Pacific, Committee on Foreign Affairs, U.S. House of Representatives"
+    },
+    {
+      "type": "Person",
+      "name": "John Lenhart",
+      "description": "Director of Global Policy at the Information Technology Industry Council.",
+      "evidence_text": "John Lenhart, Director of Global Policy, Information Technology Industry Council"
+    },
+    {
+      "type": "Person",
+      "name": "Scott Kennedy",
+      "description": "Deputy Director of the Freeman Chair in China Studies and Director of the Project on Chinese Business and Political Economy at CSIS.",
+      "evidence_text": "Moderated by: Scott Kennedy, Deputy Director of the Freeman Chair in China Studies and Director of the Project on Chinese Business and Political Economy, CSIS"
+    }
+  ],
+  "events": [
+    {
+      "date": "2016-02-16",
+      "event": "Discussion on China's Internet sovereignty initiative",
+      "location": "Wuzhen, China",
+      "actors": [
+        "James A. Lewis",
+        "Xiao Qiang",
+        "Amy Chang",
+        "John Lenhart",
+        "Scott Kennedy"
+      ],
+      "evidence_text": "Please join us for a discussion on China’s initiative to promote Internet sovereignty as a key governing concept of the global Internet."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.csis.org/events/china-reality-check-chinas-internet-sovereignty-initiative-origins-and-consequences",
+      "title": "China Reality Check: China's \"Internet Sovereignty\" Initiative: Origins and Consequences",
+      "published": "Tue, 16 Feb 2016 16:49:43 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable think tank (CSIS) known for its research and analysis on international issues."
+  },
+  "geolocation": [
+    {
+      "name": "Wuzhen",
+      "type": "City",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "most recently during the World Internet Conference in Wuzhen."
+    }
+  ],
+  "timestamps": []
+}

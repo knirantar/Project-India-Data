@@ -1,0 +1,70 @@
+{
+  "document": {
+    "source_url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+    "source_title": "None",
+    "published": "None",
+    "data_type": "pdfs",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The document outlines the Geneva Conventions of 12 August 1949, which are fundamental treaties aimed at protecting individuals in armed conflict. It details the responsibilities of the International Committee of the Red Cross (ICRC) and the application of humanitarian law. The conventions emphasize the protection of wounded and sick military personnel, medical units, and the rights of individuals during conflicts.",
+    "key_takeaways": [
+      "Established on 12 August 1949, the Geneva Conventions are crucial for humanitarian law.",
+      "The ICRC plays a key role in promoting and enforcing these conventions.",
+      "The conventions protect the rights of wounded and sick military personnel.",
+      "They outline the responsibilities of neutral powers and medical units.",
+      "The conventions aim to prevent suffering in armed conflicts.",
+      "They are foundational to the International Red Cross and Red Crescent Movement."
+    ],
+    "why_it_matters": "The Geneva Conventions are essential for maintaining humanitarian standards in warfare, ensuring that individuals affected by conflict receive protection and assistance. They serve as a legal framework for the conduct of armed forces and the treatment of non-combatants, thereby promoting peace and human dignity.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Geneva Conventions protect the lives and dignity of victims of armed conflict.",
+      "evidence_text": "The International Committee of the Red Cross (ICRC) is an impartial, neutral and independent organization whose exclusively humanitarian mission is to protect the lives and dignity of victims of armed conflict.",
+      "source_url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The ICRC coordinates international activities in armed conflicts.",
+      "evidence_text": "It directs and coordinates the international activities conducted by the Movement in armed conflicts and other situations of violence.",
+      "source_url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "International Committee of the Red Cross",
+      "description": "An impartial, neutral and independent organization focused on humanitarian missions.",
+      "evidence_text": "The International Committee of the Red Cross (ICRC) is an impartial, neutral and independent organization whose exclusively humanitarian mission is to protect the lives and dignity of victims of armed conflict."
+    }
+  ],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [
+    {
+      "date": "1949-08-12",
+      "milestone": "Adoption of the Geneva Conventions",
+      "evidence_text": "THE GENEV A CONVENTIONS OF 12 AUGUST 1949"
+    }
+  ],
+  "citations": [
+    {
+      "source_url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "title": "None",
+      "published": "None",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The document is published by the International Committee of the Red Cross, a recognized authority in humanitarian law."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

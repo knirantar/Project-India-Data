@@ -1,0 +1,87 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+    "source_title": "Many Nato countries not spending enough to support Ukraine, says Rutte – Europe live",
+    "published": "Thu, 21 May 2026 11:00:24 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Nato leaders, including Mark Rutte and Ulf Kristersson, emphasize the need for increased financial support for Ukraine from all member countries. Rutte highlights the uneven distribution of spending among Nato allies, with only a few countries contributing significantly. Kristersson notes Sweden's position as the third largest donor and calls for more nations to match their support. The leaders also address the importance of long-term commitment to Ukraine amidst ongoing Russian aggression.",
+    "key_takeaways": [
+      "Nato leaders call for increased spending to support Ukraine.",
+      "Rutte states that spending is unevenly distributed among Nato countries.",
+      "Sweden is the third largest donor to Ukraine.",
+      "Kristersson urges more countries to match Sweden's support.",
+      "Rutte and Kristersson defend Ukraine against Russian disinformation.",
+      "Nato's response to any attack would be 'devastating'."
+    ],
+    "why_it_matters": "The statements from Nato leaders underscore the critical need for unified financial support for Ukraine in the face of Russian aggression, highlighting the disparities in contributions among member states and the importance of collective defense commitments.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Not all Nato countries equally contribute to help fund Ukraine’s defence.",
+      "evidence_text": "Rutte says the spending 'is not evenly distributed within Nato,' with 'a limited' group of countries leading the effort.",
+      "source_url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Sweden is the third largest donor to Ukraine.",
+      "evidence_text": "Kristersson says Sweden is the third largest donor and it 'would be far better if more countries competed with our size of support.'",
+      "source_url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Country",
+      "name": "Sweden",
+      "description": "A Nato member and the third largest donor to Ukraine.",
+      "evidence_text": "Kristersson says Sweden is the third largest donor."
+    },
+    {
+      "type": "Country",
+      "name": "Ukraine",
+      "description": "A country receiving military and financial support from Nato allies.",
+      "evidence_text": "Rutte and Kristersson emphasize the need for support for Ukraine."
+    },
+    {
+      "type": "Organization",
+      "name": "Nato",
+      "description": "The North Atlantic Treaty Organization, a military alliance.",
+      "evidence_text": "Nato leaders call for increased spending to support Ukraine."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "Nato leaders discuss support for Ukraine.",
+      "location": "Nato meeting",
+      "actors": [
+        "Mark Rutte",
+        "Ulf Kristersson"
+      ],
+      "evidence_text": "Nato allies should spend more to support Ukraine, Nato and Sweden's leaders say."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/world/live/2026/may/21/czech-republic-petr-pavel-ukraine-baltics-drones-russia-nato-security-latest-news-updates",
+      "title": "Many Nato countries not spending enough to support Ukraine, says Rutte – Europe live",
+      "published": "Thu, 21 May 2026 11:00:24 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable news organization providing live updates on significant geopolitical events."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

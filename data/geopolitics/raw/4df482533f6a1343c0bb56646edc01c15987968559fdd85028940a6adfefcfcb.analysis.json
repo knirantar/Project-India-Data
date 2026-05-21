@@ -1,0 +1,51 @@
+{
+  "document": {
+    "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/15-05-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+    "source_title": "LIVE: Security Council meets on Syria transition and humanitarian crisis (image)",
+    "published": "2026-05-15T12:00:00Z",
+    "data_type": "images",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The image captures a moment from the United Nations Security Council meeting focused on the transition in Syria and the ongoing humanitarian crisis. This meeting highlights the international community's engagement in addressing the complex situation in Syria. The visual representation serves as a reminder of the urgent need for diplomatic efforts and humanitarian assistance in the region.",
+    "key_takeaways": [
+      "UN Security Council meeting on Syria.",
+      "Focus on humanitarian crisis.",
+      "International engagement in Syria's transition.",
+      "Visual representation of diplomatic efforts.",
+      "Highlighting urgent humanitarian needs.",
+      "Importance of global cooperation."
+    ],
+    "why_it_matters": "This image underscores the critical role of the UN Security Council in addressing global crises, particularly in Syria, where humanitarian needs are pressing. It reflects the ongoing international dialogue and efforts to find solutions to complex geopolitical issues.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The UN Security Council is addressing the humanitarian crisis in Syria.",
+      "evidence_text": "The image captures a moment from the United Nations Security Council meeting focused on the transition in Syria and the ongoing humanitarian crisis.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/15-05-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/15-05-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "title": "LIVE: Security Council meets on Syria transition and humanitarian crisis (image)",
+      "published": "2026-05-15T12:00:00Z",
+      "evidence_text": "The image captures a moment from the United Nations Security Council meeting focused on the transition in Syria and the ongoing humanitarian crisis."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "Source is from the United Nations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

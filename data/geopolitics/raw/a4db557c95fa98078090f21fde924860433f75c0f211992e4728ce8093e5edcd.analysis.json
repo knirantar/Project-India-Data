@@ -1,0 +1,99 @@
+{
+  "document": {
+    "source_url": "https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace",
+    "source_title": "The Crumbling Pillars of Global Peace",
+    "published": "2026-05-21T00:00:00-04:00",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses the decline of the long-standing peace established after World War II, which was based on the principles of no wars of aggression and the end of empires. It highlights the resurgence of conflicts, including wars of aggression by great powers, and the failure of the United Nations to mediate effectively. The author argues that the erosion of these foundational convictions is leading to a new era of instability and emphasizes the need to restore these principles to rebuild a peaceful global order.",
+    "key_takeaways": [
+      "The long peace of the last 80 years is under threat due to rising conflicts and wars of aggression.",
+      "The principles of no war and no empire, established post-World War II, are being abandoned.",
+      "The United Nations has failed to effectively mediate current conflicts, such as in Ukraine and Iran.",
+      "The decline of the liberal international order is not the root cause of the crisis; rather, it is the loss of moral leadership.",
+      "Restoring the twin convictions of peace and sovereignty is essential for a new global order.",
+      "Historical successes of UN peacemaking must be remembered to guide future efforts."
+    ],
+    "why_it_matters": "Understanding the decline of the principles that have maintained global peace is crucial for addressing current conflicts and rebuilding international cooperation. The article emphasizes the need for renewed political leadership and public demand for a world free of war and empire, which is vital for future stability.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The principles of no war and no empire are being abandoned.",
+      "evidence_text": "The twin convictions of no war and no empire, the load-bearing walls of the long peace, are fast buckling.",
+      "source_url": "https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The United Nations is failing to mediate effectively in current conflicts.",
+      "evidence_text": "As conflict spreads, United Nations peacemaking is missing in action.",
+      "source_url": "https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The liberal international order is breaking down.",
+      "evidence_text": "Washington’s retreat from multilateral alliances and institutions such as NATO and the World Trade Organization means this order is indeed breaking down.",
+      "source_url": "https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "United Nations",
+      "description": "An international organization founded in 1945 to promote peace and cooperation among countries.",
+      "evidence_text": "The United Nations Charter, signed in San Francisco in June 1945, gave both convictions political form."
+    },
+    {
+      "type": "country",
+      "name": "Ukraine",
+      "description": "A country in Eastern Europe that has been involved in conflict with Russia since 2014.",
+      "evidence_text": "The great powers themselves have launched wars of aggression, including Russia’s invasion of Ukraine."
+    },
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "A country in the Middle East involved in recent conflicts with the United States and Israel.",
+      "evidence_text": "The joint U.S.-Israeli war against Iran."
+    }
+  ],
+  "events": [
+    {
+      "date": "1945-06",
+      "event": "Signing of the United Nations Charter",
+      "location": "San Francisco",
+      "actors": [],
+      "evidence_text": "The United Nations Charter, signed in San Francisco in June 1945, gave both convictions political form."
+    },
+    {
+      "date": "2022-02-24",
+      "event": "Russia's invasion of Ukraine",
+      "location": "Ukraine",
+      "actors": [
+        "Russia"
+      ],
+      "evidence_text": "The great powers themselves have launched wars of aggression, including Russia’s invasion of Ukraine."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.foreignaffairs.com/united-states/crumbling-pillars-global-peace",
+      "title": "The Crumbling Pillars of Global Peace",
+      "published": "2026-05-21T00:00:00-04:00",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The article is published in Foreign Affairs, a reputable journal known for its analysis of international relations."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

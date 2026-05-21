@@ -1,0 +1,121 @@
+{
+  "document": {
+    "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+    "source_title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
+    "published": "Thu, 14 May 2026 12:00:00 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Somalia is experiencing a severe hunger crisis, with over half a million additional people facing acute food insecurity. The situation is exacerbated by poor rainfall, rising prices, and conflict-related displacement. In the Democratic Republic of the Congo, more than 26 million people are struggling with hunger, driven by conflict and disease outbreaks. Meanwhile, Cuba is facing an energy crisis with severe fuel shortages and blackouts affecting essential services.",
+    "key_takeaways": [
+      "Somalia's acute food insecurity has increased by over 500,000 people since February.",
+      "Nearly 1.88 million children in Somalia are expected to require treatment for acute malnutrition in 2026.",
+      "In the DRC, over 26 million people are struggling to meet basic food needs.",
+      "More than 4.1 million children under five in the DRC are projected to need treatment for acute malnutrition.",
+      "Cuba is facing severe fuel shortages and prolonged blackouts affecting hospitals and public services.",
+      "UN agencies are calling for urgent aid to address the crises in Somalia, DRC, and Cuba."
+    ],
+    "why_it_matters": "The worsening hunger crises in Somalia and the DRC highlight the urgent need for international aid and intervention to prevent further loss of life and health deterioration, particularly among vulnerable populations such as children and pregnant women. The energy crisis in Cuba underscores the interconnectedness of humanitarian needs and the importance of timely support to maintain essential services.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Somalia's hunger crisis has worsened sharply.",
+      "evidence_text": "Somalia’s hunger crisis has worsened sharply in recent months, with more than half a million additional people now facing acute food insecurity compared to projections released in February.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Nearly 1.88 million children in Somalia are expected to require treatment for acute malnutrition in 2026.",
+      "evidence_text": "Nearly 1.88 million children are now expected to require treatment for acute malnutrition in 2026, up from earlier estimates.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Over 26 million people in the DRC are struggling to meet basic food needs.",
+      "evidence_text": "More than 26 million people – nearly one in four Congolese – are struggling to meet their basic food needs, according to the latest IPC analysis.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Cuba is facing severe fuel shortages and blackouts.",
+      "evidence_text": "Cuba is facing a worsening energy crisis as severe fuel shortages and prolonged blackouts continue to disrupt services nationwide.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "Somalia",
+      "description": "A country in the Horn of Africa facing a severe hunger crisis.",
+      "evidence_text": "Somalia’s hunger crisis has worsened sharply in recent months."
+    },
+    {
+      "type": "country",
+      "name": "Democratic Republic of the Congo",
+      "description": "A country in Central Africa experiencing one of the world’s largest hunger crises.",
+      "evidence_text": "The Democratic Republic of the Congo (DRC) continues to face one of the world’s largest and most severe hunger crises."
+    },
+    {
+      "type": "country",
+      "name": "Cuba",
+      "description": "An island country in the Caribbean facing an energy crisis.",
+      "evidence_text": "Cuba is facing a worsening energy crisis as severe fuel shortages and prolonged blackouts continue to disrupt services nationwide."
+    }
+  ],
+  "events": [],
+  "metrics": [
+    {
+      "name": "Acute food insecurity in Somalia",
+      "value": "500000",
+      "unit": "people",
+      "date": "2026-05-14",
+      "location": "Somalia",
+      "evidence_text": "more than half a million additional people now facing acute food insecurity compared to projections released in February."
+    },
+    {
+      "name": "Children requiring treatment for acute malnutrition in Somalia",
+      "value": "1880000",
+      "unit": "children",
+      "date": "2026",
+      "location": "Somalia",
+      "evidence_text": "Nearly 1.88 million children are now expected to require treatment for acute malnutrition in 2026."
+    },
+    {
+      "name": "People struggling to meet basic food needs in DRC",
+      "value": "26000000",
+      "unit": "people",
+      "date": "2026-05-14",
+      "location": "Democratic Republic of the Congo",
+      "evidence_text": "More than 26 million people – nearly one in four Congolese – are struggling to meet their basic food needs."
+    },
+    {
+      "name": "Children under five requiring treatment for acute malnutrition in DRC",
+      "value": "4100000",
+      "unit": "children",
+      "date": "2026",
+      "location": "Democratic Republic of the Congo",
+      "evidence_text": "More than 4.1 million children under five are expected to require treatment for acute malnutrition in 2026."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167514",
+      "title": "World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba",
+      "published": "Thu, 14 May 2026 12:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is from the United Nations, a reputable international organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

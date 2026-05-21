@@ -1,0 +1,78 @@
+When India’s third ballistic missile-carrying, nuclear-powered submarine — the INS Aridhaman — 
+entered service
+ on April 3, 2026, it marked a milestone decades in the making.
+With three boomers, India can now reliably always maintain at least one on deterrent patrol, thus completing the sea leg of its nuclear deterrent. Earlier, India 
+successfully tested the capability
+ to deploy multiple independently targetable warheads from a single missile. If it integrates multiple warheads into its sea-launched ballistic missiles, India further ensures it can cause unacceptable damage to an aggressor in response to an initial nuclear strike. With these capabilities, India now has the hardware for a continuous at-sea nuclear deterrent.
+India’s achievement is significant, but it comes with a set of challenges, including restrictions imposed by its civil-military relations, disparities in the capabilities of its submarines, limitations in its current range of sea-launched ballistic missiles, and the lack of nuclear attack submarines. While some of these challenges can be alleviated by 
+building more ships
+ and 
+longer-range sea-launched ballistic missiles
+, India should also reform its nuclear doctrine and develop new operational practices to effectively utilize its boomer fleet.
+ 
+ 
+The Challenge of Turning Hardware into an Effective At-Sea Nuclear Deterrent
+Four issues constrain India from having at least one ballistic missile submarine continuously patrol the ocean and be ready to launch its nuclear missiles against an adversary.
+The first challenge pertains to 
+India’s civil-military relations
+, which are characterized by 
+overzealous civilian control
+ 
+over the arsenal
+. Analysts 
+have blamed
+ 
+the civilian distrust of the military
+ for the slow incorporation of nuclear weapons into India’s 
+doctrine
+, which emphasizes that 
+nuclear weapons are political tools
+ and not meant for warfighting.
+Even though boomers — as the last resort retaliatory force — should exemplify such a doctrine, their deployment requires them to be far at sea, with missiles aboard, warheads already mated, and communication prospects uncertain, especially during times of crises and war. India is not the only nuclear power facing these issues. 
+China also worries about
+ a communications 
+blackout and loose operational control
+ over sea-launched ballistic missiles. In the United Kingdom, the launch authorization must come from the prime minister, yet its boomers 
+reportedly have prewritten authorization letters
+ that can be opened in extreme circumstances, raising the possibility of an unauthorized launch.
+If India is to always maintain a boomer on patrol, it must make some tough decisions that may require compromising on aspects of its existing doctrine and operational practices. If India does 
+not plan — as has previously been suggested — to mate the warheads
+ with the missile tubes during peacetime, it would forgo the true benefits of building three boomers. The ability to mate the weapons during a crisis will not only be difficult but also carry the risk of inviting military strikes in the worst case — rendering the boomers incapacitated — or signaling escalation to a rival in the best case. India can mitigate this crisis-day problem by mating the warheads during peacetime patrols, building robust, redundant communication systems for contingencies, and enhancing the vetting and training of its submarine force. Given India’s immense physical size, which allows ample space for hiding land-based nuclear assets, and its no first use doctrine, these measures would be sufficient without resorting to prewritten authorization letters. Ultimately, however, India should be more flexible with the operational control of its warheads and more trusting of its military and training processes.
+Second, India’s three ballistic missile submarines vary in size and capabilities. These differences can produce signatures that help an adversary detect and identify the exact submarine on patrol at any given moment. The INS Arihant and INS Arighat both displace 6,000 tons, while Aridhaman displaces 7,000 tons. Arihant and Arighat can carry either 12 K-15 missiles with a range of 750 kilometers or four K-4 missiles with a range of 3,500 kilometers. K-15s have limited deterrent utility against China and even less against Pakistan if the submarines are deployed in the Bay of Bengal, 
+the most likely “bastion” for India’s sea-based deterrent
+. Meanwhile, Aridhaman 
+can carry eight K-4 missiles
+, increasing its deterrent utility against both countries. The Arihant also has 
+limited endurance
+, which might affect its patrolling duration. Given the differing characteristics, an adversary could use satellite imagery to identify each individual submarine. These observations can be supplemented with 
+acoustic signatures collected over time
+. India might resolve these problems in the future as 
+it commissions larger and better ballistic missile submarines
+, but in the meantime, it must maintain greater operational secrecy and randomized patrol durations and crew schedules.
+Third, the sea-launched ballistic missile program currently lags the submarine program. The current missile range limitation restricts a ballistic missile submarine’s patrolling area and telegraphs its location. The K-4 missile’s range is sufficient to strike both Beijing and Shanghai, the two most critical countervalue targets that would make India’s retaliatory posture credible. However, given Beijing’s distance at roughly 3,200 kilometers, the K-4 must be launched only from the northernmost parts of the Bay of Bengal, thereby potentially revealing the submarine’s location. Moreover, China can obtain more precise coordinates with sonar towed from surface vessels or from uncrewed underwater vehicles deployed from a port in either Myanmar or Bangladesh. To overcome this challenge, India should accelerate testing and integrating 
+K-5 and K-6 missiles
+, with ranges exceeding 5,000 kilometers. Until then, India should closely monitor Chinese activities at ports in Bangladesh and Myanmar and boost protection for its boomers by increasing the presence of diesel submarines, surface vessels, and maritime aircraft patrols in the northern Bay of Bengal.
+Fourth, India has yet to replicate the success of the ballistic missile submarine program with fast attack, nuclear-powered submarines. The lack of nuclear attack submarines has adverse operational implications, as it hampers the ability to detect and identify threats to the boomers. Indian submariners have valuable operational experience with 
+fast attack nuclear submarines previously leased
+ from the Soviet Union (Chakra I) and Russia (Chakra II). A 
+third such submarine from Russia
+, under a similar lease agreement, is scheduled for delivery in 2028. However, the 
+historical inability to manufacture nuclear attack submarines
+ owing to organizational, technological, and financial problems — if not reversed — would mean that other naval assets would have to be used to protect the boomers, creating opportunity costs.
+Whereas the boomers can operate within bastions, the nuclear attack submarines can be deployed forward to locate threats. Their speed, stealth, and hard-kill capabilities without revealing the location of ballistic missiles — as they do not carry them — make nuclear attack submarines a perfect platform for monitoring choke points such as the Strait of Malacca, detecting hostile submarines and quietly trailing them, and eliminating them if required. Without nuclear attack submarines, India’s bastion-protection strategy must rely on diesel-electric submarines — which have limited stealth because they must surface periodically — and on overtly visible surface vessels. While India has 
+plans to manufacture nuclear attack submarines domestically
+, 
+it might be a decade before they enter service
+. In the meantime, India must double down on a bastion strategy that relies on a dense co-location of naval assets to protect its boomers. While this strategy risks revealing the location of the boomer on patrol, the co-location of massive firepower deters an adversary’s attack submarine from initiating a boomer-hunting operation. The hostile 
+attack submarine must risk counter-detection
+ if it attempts to enter torpedo firing range, which tends to be between 20 and 50 kilometers. Given the dense aggregation of underwater assets, the enemy submarine might also find it difficult to distinguish between the boomers and diesel submarines — towed sonar arrays with the hostile submarine 
+are unlikely to provide high fidelity information in a target-rich environment
+. The hostile submarine may not risk firing a torpedo at the wrong submarine, because doing so would reveal its position and escalate the crisis, while leaving the Indian boomer intact to destroy countervalue targets. India must regularly practice the bastion protection campaign with a convoy to build the routines and habits to be executed in a crisis and to signal readiness to an adversary.
+Conclusion
+India’s ballistic missile-carrying, nuclear-powered submarine fleet is a commendable achievement, but to fully reap the benefits of these powerful platforms, greater operational readiness and doctrinal innovation will be necessary. Some issues will be addressed as India develops more capable boomers with greater endurance and the ability to carry more advanced missiles, while also testing and integrating longer-range missiles.
+In the long run, adding a fleet of nuclear attack submarines will further ease the load on its boomers and other naval assets. However, these advancements will not eliminate the need to reexamine operational practices and doctrinal rigidities that currently hinder India’s ability to exploit the advantages of a ballistic missile submarine force. Building nuclear deterrence involves not only producing platforms but also innovating routines, practices, standard operating procedures, and doctrines. These routines and processes should also be operationalized during peacetime so that crew members, military commanders, and policymakers know what to do during crises. India cannot simply assume that deterrent forces, inactive during peacetime, can be mobilized and become effective in a moment of crisis.
+ 
+ 
+Kunal Singh is a Stanton nuclear security postdoctoral fellow at the Belfer Center for Science and International Affairs at the Harvard Kennedy School.
+Image: Charlie Kumar via 
+Wikimedia Commons

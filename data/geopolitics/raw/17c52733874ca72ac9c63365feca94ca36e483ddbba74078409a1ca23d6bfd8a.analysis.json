@@ -1,0 +1,125 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/world/2026/may/21/uk-israel-video-itama-ben-gvir",
+    "source_title": "UK summons Israel’s chargé d’affaires over video of minister taunting activists",
+    "published": "Thu, 21 May 2026 12:18:11 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The UK has summoned Israel’s chargé d’affaires following a video of Minister Itamar Ben-Gvir taunting activists detained after a Gaza-bound flotilla was intercepted. The incident has sparked international outrage, with calls for sanctions and immediate release of the activists from various countries. Human rights groups have condemned the treatment of the activists, highlighting systemic abuse in Israeli detention facilities. The backlash has also led to criticism within Israel, including from Prime Minister Benjamin Netanyahu.",
+    "key_takeaways": [
+      "UK summons Israel’s chargé d’affaires over Ben-Gvir's taunting video.",
+      "International condemnation grows against Israel's treatment of detained activists.",
+      "Calls for sanctions on Ben-Gvir from Italy and other nations.",
+      "Human rights groups document systemic abuse in Israeli prisons.",
+      "Netanyahu criticizes Ben-Gvir's actions as not reflective of Israel's values.",
+      "Activists deportation process is underway amid global outcry."
+    ],
+    "why_it_matters": "This incident highlights the increasing international scrutiny of Israel's treatment of activists and the broader implications for human rights in the region, reflecting growing frustration with Israeli policies in Gaza and beyond.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The UK has summoned Israel’s chargé d’affaires.",
+      "evidence_text": "The UK has summoned Israel’s chargé d’affaires as international outrage escalates over a video posted by the national security minister, Itamar Ben-Gvir.",
+      "source_url": "https://www.theguardian.com/world/2026/may/21/uk-israel-video-itama-ben-gvir",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ben-Gvir's video has drawn international condemnation.",
+      "evidence_text": "The humiliating treatment of the Gaza flotilla activists has drawn unusually strong international condemnation of Israel.",
+      "source_url": "https://www.theguardian.com/world/2026/may/21/uk-israel-video-itama-ben-gvir",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Human rights groups have documented systemic abuse in Israeli prisons.",
+      "evidence_text": "Human rights groups have documented widespread, systemic torture and abuse of Palestinians in Israeli prisons and detention centres.",
+      "source_url": "https://www.theguardian.com/world/2026/may/21/uk-israel-video-itama-ben-gvir",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Itamar Ben-Gvir",
+      "description": "Israel's national security minister who posted the controversial video.",
+      "evidence_text": "Israel’s national security minister, Itamar Ben-Gvir, in which he is seen taunting activists."
+    },
+    {
+      "type": "Country",
+      "name": "Israel",
+      "description": "The country involved in the incident regarding the Gaza flotilla.",
+      "evidence_text": "Israel began releasing hundreds of the activists who attempted to breach Israel’s naval blockade of Gaza."
+    },
+    {
+      "type": "Country",
+      "name": "UK",
+      "description": "The country that summoned Israel’s chargé d’affaires.",
+      "evidence_text": "The UK has summoned Israel’s chargé d’affaires as international outrage escalates."
+    },
+    {
+      "type": "Country",
+      "name": "Italy",
+      "description": "Country whose foreign minister called for sanctions on Ben-Gvir.",
+      "evidence_text": "Italy’s foreign minister, Antonio Tajani, said on Thursday he had asked EU foreign policy chief, Kaja Kallas, to discuss sanctions on Ben-Gvir."
+    },
+    {
+      "type": "Country",
+      "name": "Turkey",
+      "description": "Country sending planes to retrieve its citizens involved in the flotilla.",
+      "evidence_text": "Turkey said on Thursday it was sending planes to retrieve its citizens and others who participated in the flotilla."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "UK summons Israel’s chargé d’affaires",
+      "location": "UK",
+      "actors": [
+        "UK Government",
+        "Israel's chargé d’affaires"
+      ],
+      "evidence_text": "The UK has summoned Israel’s chargé d’affaires as international outrage escalates."
+    },
+    {
+      "date": "2023-10-07",
+      "event": "Hamas-led attacks prompting Israeli response",
+      "location": "Gaza",
+      "actors": [
+        "Hamas",
+        "Israeli Government"
+      ],
+      "evidence_text": "Human rights groups have documented widespread, systemic torture and abuse of Palestinians in Israeli prisons and detention centres during Israel’s war in Gaza, prompted by the Hamas-led attacks on 7 October 2023."
+    },
+    {
+      "date": "2026-05-21",
+      "event": "International condemnation of Ben-Gvir's actions",
+      "location": "International",
+      "actors": [
+        "Various countries",
+        "Itamar Ben-Gvir"
+      ],
+      "evidence_text": "The humiliating treatment of the Gaza flotilla activists has drawn unusually strong international condemnation of Israel."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/world/2026/may/21/uk-israel-video-itama-ben-gvir",
+      "title": "UK summons Israel’s chargé d’affaires over video of minister taunting activists",
+      "published": "Thu, 21 May 2026 12:18:11 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The Guardian is a reputable news source known for its journalistic standards."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

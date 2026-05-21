@@ -1,0 +1,94 @@
+{
+  "document": {
+    "source_url": "https://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/",
+    "source_title": "The World Keeps Asking Iran the Wrong Question",
+    "published": "Tue, 19 May 2026 08:34:53 +0000",
+    "data_type": "sanctions_designations",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article argues that the focus on what the Islamic Republic of Iran wants is misguided. Instead, it suggests that understanding Iran's historical and geographical context is crucial for analyzing its strategic behavior. The piece highlights that Iran's strategic instincts have been shaped over centuries and that its actions, particularly regarding the Strait of Hormuz, reflect a consistent logic of deterrence and sovereignty. The author emphasizes that U.S. policies have often failed because they do not account for Iran's historical experiences and strategic imperatives.",
+    "key_takeaways": [
+      "The Islamic Republic's desires should not be conflated with Iran's historical state interests.",
+      "Iran's geographical position influences its strategic behavior significantly.",
+      "Weakness invites intervention, a lesson learned from historical treaties and conflicts.",
+      "Sovereignty is non-negotiable for Iran, as evidenced by past revolts and nationalizations.",
+      "Iran does not view itself merely as a regional power but as a global player.",
+      "U.S. policies have consistently failed to produce the desired strategic transformation in Iran."
+    ],
+    "why_it_matters": "Understanding Iran's strategic behavior through its historical context is essential for formulating effective U.S. policies. The article argues that misinterpretations of Iran's actions lead to failed diplomatic efforts and increased tensions, particularly in relation to global energy markets and regional stability.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Iran's strategic behavior is shaped by historical experiences rather than the current government.",
+      "evidence_text": "The more useful question is what Iran wants; not this government, not this supreme leader, but the state whose strategic instincts were shaped long before the revolution.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Weakness invites intervention, as seen in historical treaties.",
+      "evidence_text": "Every government since has read those events as a structural warning: A state that cannot project deterrence will find its sovereignty administered from the outside.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Iran's actions in the Strait of Hormuz can influence global markets.",
+      "evidence_text": "When Iran moved to restrict passage at the outset of the 2026 war, energy markets reacted before a single tanker was stopped.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "A country in the Middle East with a long history of strategic behavior shaped by its geographical and historical context.",
+      "evidence_text": "Iran, as a modern coherent political entity, is five centuries old."
+    },
+    {
+      "type": "geopolitical region",
+      "name": "Strait of Hormuz",
+      "description": "A strategic waterway through which a significant portion of the world's oil supply passes.",
+      "evidence_text": "Roughly a fifth of global oil supplies pass through that strait."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "Publication of article discussing Iran's strategic behavior and U.S. policy failures.",
+      "location": "",
+      "actors": [],
+      "evidence_text": "The World Keeps Asking Iran the Wrong Question"
+    },
+    {
+      "date": "2026-01-01",
+      "event": "Iran's actions in the Strait of Hormuz during the 2026 war.",
+      "location": "Strait of Hormuz",
+      "actors": [
+        "Iran",
+        "global energy markets"
+      ],
+      "evidence_text": "When Iran moved to restrict passage at the outset of the 2026 war, energy markets reacted before a single tanker was stopped."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-politics-strategy-war-sanctions-hormuz/",
+      "title": "The World Keeps Asking Iran the Wrong Question",
+      "published": "Tue, 19 May 2026 08:34:53 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The article presents a well-researched analysis of Iran's historical context and strategic behavior."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

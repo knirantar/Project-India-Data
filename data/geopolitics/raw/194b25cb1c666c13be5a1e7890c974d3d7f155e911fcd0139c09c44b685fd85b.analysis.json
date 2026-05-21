@@ -1,0 +1,101 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/four-key-leaders-in-munich-on-the-state-of-the-world/",
+    "source_title": "Four Key Leaders in Munich on the State of the World",
+    "published": "Tue, 16 Feb 2016 13:39:08 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The Munich Security Conference gathers global leaders to discuss defense and foreign policy. This article features interviews with key figures including Senators John McCain, Sheldon Whitehouse, David Perdue, and former Australian Prime Minister Kevin Rudd. They share insights on various global issues such as American power, Syria, Ukraine, and China, drawing from their extensive experience in politics and diplomacy.",
+    "key_takeaways": [
+      "The Munich Security Conference is a key event for international security discussions.",
+      "Interviews feature prominent political leaders sharing diverse perspectives.",
+      "Topics include American power, Syria, Ukraine, and China.",
+      "The discussions are informed by decades of experience in politics and diplomacy.",
+      "The podcast series is sponsored by American University’s School of International Service.",
+      "Applications for Fall 2016 Master's programs are still being accepted."
+    ],
+    "why_it_matters": "This source provides insights from influential leaders on pressing global issues, highlighting the importance of international dialogue in shaping defense and foreign policy.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Munich Security Conference is referred to as the Davos of international security.",
+      "evidence_text": "It has been called the Davos of international security.",
+      "source_url": "https://warontherocks.com/four-key-leaders-in-munich-on-the-state-of-the-world/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Ryan Evans interviewed key leaders at the conference.",
+      "evidence_text": "Our editor-in-chief, Ryan Evans, was privileged to join the U.S congressional delegation to this year’s conference.",
+      "source_url": "https://warontherocks.com/four-key-leaders-in-munich-on-the-state-of-the-world/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "John McCain",
+      "description": "U.S. Senator from Arizona.",
+      "evidence_text": "Listen here for Ryan’s interviews with Senator John McCain (R-AZ)."
+    },
+    {
+      "type": "Person",
+      "name": "Sheldon Whitehouse",
+      "description": "U.S. Senator from Rhode Island.",
+      "evidence_text": "Listen here for Ryan’s interviews with Senator Sheldon Whitehouse (D-RI)."
+    },
+    {
+      "type": "Person",
+      "name": "David Perdue",
+      "description": "U.S. Senator from Georgia.",
+      "evidence_text": "Listen here for Ryan’s interviews with Senator David Perdue (R-GA)."
+    },
+    {
+      "type": "Person",
+      "name": "Kevin Rudd",
+      "description": "Former Australian Prime Minister and President of the Asia Society.",
+      "evidence_text": "Listen here for Ryan’s interviews with former Australian Prime Minister Kevin Rudd, who is now the President of the Asia Society."
+    },
+    {
+      "type": "Organization",
+      "name": "American University’s School of International Service",
+      "description": "An institution that prepares graduates for global service.",
+      "evidence_text": "This special episode of our podcast series is sponsored by American University’s School of International Service."
+    }
+  ],
+  "events": [
+    {
+      "date": "2016-02-16",
+      "event": "Munich Security Conference",
+      "location": "Munich, Germany",
+      "actors": [
+        "Ryan Evans",
+        "U.S. congressional delegation",
+        "Senators",
+        "Kevin Rudd"
+      ],
+      "evidence_text": "Our editor-in-chief, Ryan Evans, was privileged to join the U.S congressional delegation to this year’s conference."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/four-key-leaders-in-munich-on-the-state-of-the-world/",
+      "title": "Four Key Leaders in Munich on the State of the World",
+      "published": "Tue, 16 Feb 2016 13:39:08 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source features interviews with prominent political figures and discusses significant global issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

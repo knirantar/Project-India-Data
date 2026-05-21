@@ -1,0 +1,63 @@
+{
+  "document": {
+    "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Ukraine-03.jpg/image560x340cropped.jpg",
+    "source_title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa (image)",
+    "published": "Mon, 18 May 2026 12:00:00 +0000",
+    "data_type": "images",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The image highlights ongoing global issues, including the escalation of violence in Ukraine, the plight of children in Haiti, and the challenges faced by refugees in Africa. These topics reflect significant humanitarian concerns that require urgent attention. The visual representation serves to raise awareness about these critical situations.",
+    "key_takeaways": [
+      "Increased attacks reported in Ukraine.",
+      "Violence against children continues in Haiti.",
+      "Refugee identification issues are prevalent in Africa.",
+      "Global humanitarian crises are escalating.",
+      "Visual media plays a role in raising awareness.",
+      "Urgent action is needed to address these issues."
+    ],
+    "why_it_matters": "This image serves as a visual reminder of pressing global humanitarian issues, emphasizing the need for international attention and action. It highlights the interconnectedness of crises affecting vulnerable populations worldwide.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Increased attacks reported in Ukraine.",
+      "evidence_text": "More attacks in Ukraine.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Ukraine-03.jpg/image560x340cropped.jpg",
+      "confidence": "medium"
+    },
+    {
+      "claim_text": "Violence against children continues in Haiti.",
+      "evidence_text": "Violence against children in Haiti.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Ukraine-03.jpg/image560x340cropped.jpg",
+      "confidence": "medium"
+    },
+    {
+      "claim_text": "Refugee identification issues are prevalent in Africa.",
+      "evidence_text": "Refugee IDs in Africa.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Ukraine-03.jpg/image560x340cropped.jpg",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [],
+  "events": [],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/30-03-2026-UNFPA-Ukraine-03.jpg/image560x340cropped.jpg",
+      "title": "World News in Brief: More attacks in Ukraine, violence against children in Haiti, refugee IDs in Africa (image)",
+      "published": "Mon, 18 May 2026 12:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The source is associated with the United Nations, which is a reputable international organization."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

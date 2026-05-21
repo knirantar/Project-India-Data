@@ -1,0 +1,115 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/presence-or-capacity-the-coast-guard-can-have-both-through-small-boat-stations/",
+    "source_title": "Presence or Capacity? The Coast Guard Can Have Both Through Small Boat Stations",
+    "published": "2026-04-24T07:30:17+00:00",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The article discusses the challenges and opportunities associated with U.S. Coast Guard small boat stations, which are vital community institutions and operational units. It highlights the difficulty of closing these stations despite operational inefficiencies and proposes a model to better align their missions with national priorities. The Coast Guard is entering a period of expansion, and the article suggests that small boat stations can be reimagined as multi-mission hubs to enhance surge capacity, training, and recruitment.",
+    "key_takeaways": [
+      "Closing small boat stations is politically challenging despite operational inefficiencies.",
+      "Coast Guard small boat stations serve as critical community institutions.",
+      "The Coast Guard plans to expand its personnel by approximately 15,000 under Force Design 2028.",
+      "Selected small boat stations can be redesigned to support national surge capacity and training.",
+      "The Coast Guard's operational environment has evolved, necessitating a reevaluation of station roles.",
+      "Effective use of small boat stations can enhance the Coast Guard's response to crises."
+    ],
+    "why_it_matters": "The research highlights the importance of small boat stations in the Coast Guard's operational strategy and their potential to adapt to changing national maritime priorities. By reimagining these stations, the Coast Guard can improve its readiness and response capabilities in the face of increasing maritime challenges.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The Coast Guard is entering a period of expansion with plans to grow by approximately 15,000 personnel.",
+      "evidence_text": "The Coast Guard is entering a period of expansion. Under Force Design 2028, directed by the Department of Homeland Security, the service has outlined plans to grow by approximately 15,000 personnel, a 36 percent increase over the current 41,426 active-duty force.",
+      "source_url": "https://warontherocks.com/presence-or-capacity-the-coast-guard-can-have-both-through-small-boat-stations/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Coast Guard small boat stations are deeply rooted community institutions.",
+      "evidence_text": "Coast Guard small boat stations are not just operational units — they are deeply rooted community institutions.",
+      "source_url": "https://warontherocks.com/presence-or-capacity-the-coast-guard-can-have-both-through-small-boat-stations/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Closing small boat stations is politically challenging.",
+      "evidence_text": "Once a Coast Guard station becomes embedded in a community, closing it is rarely a politically feasible option.",
+      "source_url": "https://warontherocks.com/presence-or-capacity-the-coast-guard-can-have-both-through-small-boat-stations/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "U.S. Coast Guard",
+      "description": "A maritime security organization responsible for search and rescue, law enforcement, and emergency response.",
+      "evidence_text": "A U.S. Coast Guard small boat station is a shore-based operational unit positioned along coasts, rivers, and major waterways that serves as the front line of the service’s maritime response."
+    },
+    {
+      "type": "government_agency",
+      "name": "Department of Homeland Security",
+      "description": "The department of the U.S. federal government responsible for public security, which includes immigration and border security.",
+      "evidence_text": "Under Force Design 2028, directed by the Department of Homeland Security, the service has outlined plans to grow by approximately 15,000 personnel."
+    },
+    {
+      "type": "legislation",
+      "name": "Force Design 2028",
+      "description": "A strategic plan for the U.S. Coast Guard's expansion and operational readiness.",
+      "evidence_text": "Under Force Design 2028, directed by the Department of Homeland Security, the service has outlined plans to grow by approximately 15,000 personnel."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-04-24",
+      "event": "Publication of article discussing Coast Guard small boat stations",
+      "location": "",
+      "actors": [],
+      "evidence_text": "The article discusses the challenges and opportunities associated with U.S. Coast Guard small boat stations."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Personnel Increase",
+      "value": "15000",
+      "unit": "personnel",
+      "date": "2026-04-24",
+      "location": "",
+      "evidence_text": "The Coast Guard is entering a period of expansion. Under Force Design 2028, directed by the Department of Homeland Security, the service has outlined plans to grow by approximately 15,000 personnel."
+    },
+    {
+      "name": "Current Active-Duty Force",
+      "value": "41426",
+      "unit": "personnel",
+      "date": "2026-04-24",
+      "location": "",
+      "evidence_text": "The Coast Guard is entering a period of expansion... a 36 percent increase over the current 41,426 active-duty force."
+    },
+    {
+      "name": "Number of Small Boat Stations",
+      "value": "183",
+      "unit": "stations",
+      "date": "2026-04-24",
+      "location": "",
+      "evidence_text": "If closing stations is not politically feasible, the Coast Guard should reconsider how its approximately 183 stations contribute to national readiness."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/presence-or-capacity-the-coast-guard-can-have-both-through-small-boat-stations/",
+      "title": "Presence or Capacity? The Coast Guard Can Have Both Through Small Boat Stations",
+      "published": "2026-04-24T07:30:17+00:00",
+      "evidence_text": "The article discusses the challenges and opportunities associated with U.S. Coast Guard small boat stations."
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "medium",
+    "reason": "The article is published on a reputable platform focused on military and security analysis."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

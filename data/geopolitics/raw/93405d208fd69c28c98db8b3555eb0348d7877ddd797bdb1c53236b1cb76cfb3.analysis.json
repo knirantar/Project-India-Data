@@ -1,0 +1,97 @@
+{
+  "document": {
+    "source_url": "https://www.war.gov/News/News-Stories/Article/Article/4497576/senior-special-ops-leaders-discuss-value-of-partnerships-alliances/",
+    "source_title": "Senior Special Ops Leaders Discuss Value of Partnerships, Alliances",
+    "published": "2026-05-20T20:55:13Z",
+    "data_type": "government_documents",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "Tampa, Florida",
+    "summary": "Senior military leaders from the U.S., Sweden, and the Philippines convened during Special Operations Forces Week 2026 to discuss the significance of partnerships and alliances in special operations. The panel emphasized the necessity of building trust among allies to enhance collective readiness and interoperability in complex environments. They highlighted the integration of advanced technologies and the importance of personal relationships in achieving strategic success.",
+    "key_takeaways": [
+      "Building trust is essential for effective international military partnerships.",
+      "Strong relationships with partner nations enhance operational readiness.",
+      "Advanced warfighting technologies require joint interoperability.",
+      "The U.S. has a long-standing partnership with the Philippines exemplified by Exercise Balikatan.",
+      "Personal trust between SOF communities can lead to strategic successes.",
+      "Countries like Jordan, UAE, and Israel are key partners in synchronizing warfighting technologies."
+    ],
+    "why_it_matters": "The discussions underscore the critical role of international cooperation in modern military operations, particularly in the face of evolving global threats. Strengthening alliances through trust and technology integration is vital for mission success in contested environments.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Building trust is crucial for mission success in contested environments.",
+      "evidence_text": "Building trust through international alliances enhances collective readiness and interoperability, making it a prerequisite for mission success in contested environments.",
+      "source_url": "https://www.war.gov/News/News-Stories/Article/Article/4497576/senior-special-ops-leaders-discuss-value-of-partnerships-alliances/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "The U.S. has a strong partnership with the Philippines exemplified by Exercise Balikatan.",
+      "evidence_text": "Philippine army Maj. Gen. Ferdinand B. Napuli pointed to the strong relationship his island nation has had with the U.S. for the past 80 years, specifically citing Exercise Balikatan.",
+      "source_url": "https://www.war.gov/News/News-Stories/Article/Article/4497576/senior-special-ops-leaders-discuss-value-of-partnerships-alliances/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Military Organization",
+      "name": "U.S. Special Operations Command Africa",
+      "description": "Command responsible for U.S. special operations in Africa.",
+      "evidence_text": "Air Force Maj. Gen. Claude K. Tudor Jr., commander of U.S. Special Operations Command Africa, noted that his command has to monitor 53 countries on the African continent."
+    },
+    {
+      "type": "Military Organization",
+      "name": "Philippine Special Operations Command",
+      "description": "The special operations command of the Philippines.",
+      "evidence_text": "Philippine army Maj. Gen. Ferdinand B. Napuli, commander of that country's special operations command."
+    },
+    {
+      "type": "Military Organization",
+      "name": "Swedish Special Operations Forces",
+      "description": "The special operations forces of Sweden.",
+      "evidence_text": "Swedish army Brig. Gen. Rickard Johansson, commander of Sweden's special operations forces."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-20",
+      "event": "Panel discussion on SOF partnerships and alliances",
+      "location": "Tampa, Florida",
+      "actors": [
+        "Brig. Gen. Rickard Johansson",
+        "Maj. Gen. Claude K. Tudor Jr.",
+        "Maj. Gen. Jasper Jeffers III",
+        "Maj. Gen. Ferdinand B. Napuli"
+      ],
+      "evidence_text": "Senior military special operations forces leaders from the U.S., Sweden and the Philippines participated in a morning panel today about the importance of SOF partnerships and alliances."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.war.gov/News/News-Stories/Article/Article/4497576/senior-special-ops-leaders-discuss-value-of-partnerships-alliances/",
+      "title": "Senior Special Ops Leaders Discuss Value of Partnerships, Alliances",
+      "published": "2026-05-20T20:55:13Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "The source is a government website reporting on military operations."
+  },
+  "geolocation": [
+    {
+      "name": "Tampa, Florida",
+      "type": "City",
+      "latitude": null,
+      "longitude": null,
+      "evidence_text": "Special Operations Forces Week 2026 in Tampa, Florida."
+    }
+  ],
+  "timestamps": []
+}

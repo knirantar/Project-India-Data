@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: World News in Brief: Malnutrition in Somalia, hunger crisis in DR Congo, energy shortages in Cuba (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/26-11-2025-UNICEF-Somalia-Drought.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml
+Content-Type: image/jpeg
+Bytes: 28928

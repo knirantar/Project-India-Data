@@ -1,0 +1,145 @@
+{
+  "document": {
+    "source_url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/",
+    "source_title": "The Missing Navies: The Hormuz Crisis and the Limits of America’s Indo-Pacific Partnerships",
+    "published": "Wed, 13 May 2026 07:30:28 +0000",
+    "data_type": "rss_feed_content",
+    "author": "Jean-Loup Samaan",
+    "publisher": "War on the Rocks",
+    "language": "English",
+    "region": "Asia",
+    "summary": "The article discusses the ongoing crisis in the Strait of Hormuz, highlighting the paradox of Asian countries' absence from discussions despite their significant economic stakes. It emphasizes the need for Asian naval involvement to address the crisis effectively, given their superior naval capabilities compared to European nations. The piece also critiques the fragmented nature of Asian diplomacy and the reluctance of Asian governments to engage in collective action, which poses challenges for U.S. coalition-building efforts in the Indo-Pacific.",
+    "key_takeaways": [
+      "The Hormuz crisis is primarily an Asian problem, yet Asian nations are largely absent from the response.",
+      "Asian countries are heavily dependent on oil and gas from the Strait of Hormuz, with significant economic implications.",
+      "Asian navies possess capabilities that could effectively address the challenges in Hormuz, surpassing European naval forces.",
+      "The reluctance of Asian governments to engage in multinational operations complicates U.S. strategic interests.",
+      "India's independent naval operations illustrate the lack of coordination among Asian nations.",
+      "The crisis highlights broader challenges for U.S. coalition-building in future Indo-Pacific conflicts."
+    ],
+    "why_it_matters": "The article underscores the critical need for a cohesive response to the Hormuz crisis from Asian nations, which could inform future U.S. strategies in the Indo-Pacific. It reveals the limitations of current diplomatic frameworks and the necessity for stronger coalitions to address regional security challenges effectively.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Asian countries are suffering from the Hormuz crisis but are absent from policy discussions.",
+      "evidence_text": "The closure of the Strait of Hormuz... is fundamentally an Asian problem, yet Asia is almost entirely absent from the debate over how to resolve it.",
+      "source_url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Asian navies have superior capabilities compared to European navies.",
+      "evidence_text": "By most indicators — submarines, principal surface combatants, or maritime patrol aircraft — Asian navies surpass their European counterparts.",
+      "source_url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "India's naval operations are independent of Western efforts.",
+      "evidence_text": "In late March, it launched Operation Urja Suraksha, deploying frigates and destroyers to escort Indian-flagged vessels through the Gulf of Oman.",
+      "source_url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/",
+      "confidence": "medium"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "South Korea",
+      "description": "A country that has been urged to join the U.S.-led operation in the Strait of Hormuz.",
+      "evidence_text": "President Donald Trump to urge the government in Seoul to join the U.S.-led operation to secure the waterway."
+    },
+    {
+      "type": "country",
+      "name": "Japan",
+      "description": "A country that signed a statement to participate in efforts to reopen the Strait of Hormuz.",
+      "evidence_text": "On March 19, Japan joined the United Kingdom, France, Italy, and the Netherlands in signing a statement that they were ready to participate."
+    },
+    {
+      "type": "country",
+      "name": "India",
+      "description": "A country that launched Operation Urja Suraksha to escort its vessels independently.",
+      "evidence_text": "In late March, it launched Operation Urja Suraksha, deploying frigates and destroyers to escort Indian-flagged vessels."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-04",
+      "event": "South Korean vessel came under fire in the Strait of Hormuz.",
+      "location": "Strait of Hormuz",
+      "actors": [
+        "South Korea",
+        "United States"
+      ],
+      "evidence_text": "On May 4, 2026, a South Korean vessel came under fire in the Strait of Hormuz."
+    },
+    {
+      "date": "2024-01-01",
+      "event": "Economic impact of the Hormuz crisis on Asian countries.",
+      "location": "Asia",
+      "actors": [],
+      "evidence_text": "Since the war against Iran began, Asian countries have felt its economic impact more acutely than anywhere else."
+    },
+    {
+      "date": "2023-10-01",
+      "event": "Gaza War begins, affecting Asian responses to maritime security.",
+      "location": "Red Sea",
+      "actors": [],
+      "evidence_text": "Another recent illustration of this Asian reluctance was their response, or lack thereof, to the Houthis’ attacks in the Red Sea after the start of the Gaza War in October 2023."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Percentage of crude oil imports from the Persian Gulf",
+      "value": "95",
+      "unit": "%",
+      "date": "2024-01-01",
+      "location": "Japan",
+      "evidence_text": "95 percent of Japan’s crude oil imports come from the Persian Gulf."
+    },
+    {
+      "name": "Percentage of oil sourced from the Middle East",
+      "value": "98",
+      "unit": "%",
+      "date": "2024-01-01",
+      "location": "Philippines",
+      "evidence_text": "The Philippines, which sources 98 percent of its oil from the Middle East."
+    },
+    {
+      "name": "Supplementary budget to address oil shortage",
+      "value": "17 billion",
+      "unit": "USD",
+      "date": "2024-01-01",
+      "location": "South Korea",
+      "evidence_text": "In Seoul, the government adopted emergency fuel price caps and a $17 billion supplementary budget to address the fears of oil shortage and inflation."
+    }
+  ],
+  "relationships": [
+    {
+      "subject": "Iran",
+      "relationship": "exerts naval pressure",
+      "object": "transiting vessels",
+      "evidence_text": "Iran’s demand to levy fees on transiting vessels has alarmed governments across Southeast and East Asia."
+    },
+    {
+      "subject": "Asian countries",
+      "relationship": "have a direct interest in",
+      "object": "supporting the reopening of the Strait of Hormuz",
+      "evidence_text": "Asian countries have a direct interest in supporting the reopening of the Strait of Hormuz."
+    }
+  ],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://warontherocks.com/the-missing-navies-the-hormuz-crisis-and-the-limits-of-americas-indo-pacific-partnerships/",
+      "title": "The Missing Navies: The Hormuz Crisis and the Limits of America’s Indo-Pacific Partnerships",
+      "published": "Wed, 13 May 2026 07:30:28 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The article is authored by a senior research fellow at a reputable institute and published on a well-known platform."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

@@ -1,0 +1,103 @@
+{
+  "document": {
+    "source_url": "https://foreignpolicy.com/2026/05/19/iran-war-nuclear-deal-uranium-enrichment-negotiations-jcpoa-united-states/",
+    "source_title": "The Myth of Zero Enrichment",
+    "published": "Tue, 19 May 2026 04:01:51 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The ongoing negotiations between the United States and Iran regarding Tehran's nuclear program remain deadlocked, with both sides holding firm to their positions. The U.S. demand for 'zero enrichment' is increasingly seen as unrealistic, as Iran views its enrichment capacity as a strategic asset and a matter of national pride. The article discusses the implications of the recent conflicts and the historical context of uranium enrichment in Iran, emphasizing the need for a more pragmatic approach to future agreements.",
+    "key_takeaways": [
+      "The U.S. and Iran are deadlocked over uranium enrichment negotiations.",
+      "Iran views its enrichment capacity as a strategic asset and national pride.",
+      "Demands for 'zero enrichment' are seen as unrealistic post-conflict.",
+      "Future agreements may need to focus on monitoring rather than dismantlement.",
+      "Iran has proposed a 'zero stockpile' to address U.S. concerns.",
+      "A multinational enrichment consortium could be a potential solution."
+    ],
+    "why_it_matters": "Understanding the complexities of U.S.-Iran negotiations is crucial for addressing nuclear proliferation concerns and finding a sustainable diplomatic solution.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The U.S. demand for 'zero enrichment' is unrealistic.",
+      "evidence_text": "Demands for 'zero enrichment' remain as unrealistic today as they were before the war.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-war-nuclear-deal-uranium-enrichment-negotiations-jcpoa-united-states/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Iran's nuclear program has not been fundamentally altered by U.S. military operations.",
+      "evidence_text": "Operation Epic Fury... has not fundamentally altered Iran’s nuclear calculus.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-war-nuclear-deal-uranium-enrichment-negotiations-jcpoa-united-states/",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Iran's enrichment capacity is viewed as a matter of national pride.",
+      "evidence_text": "We cannot give up enrichment because it is an achievement of our own scientists. And now, more than that, it is a question of national pride.",
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-war-nuclear-deal-uranium-enrichment-negotiations-jcpoa-united-states/",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "country",
+      "name": "Iran",
+      "description": "A country in the Middle East involved in nuclear negotiations with the United States.",
+      "evidence_text": "Iran has long insisted on retaining enrichment capacity citing their Nuclear Nonproliferation Treaty (NPT) rights."
+    },
+    {
+      "type": "country",
+      "name": "United States",
+      "description": "A country involved in negotiations with Iran regarding its nuclear program.",
+      "evidence_text": "The United States calls it Operation Epic Fury."
+    },
+    {
+      "type": "agreement",
+      "name": "Joint Comprehensive Plan of Action (JCPOA)",
+      "description": "An agreement aimed at curtailing Iran's nuclear program.",
+      "evidence_text": "The more consequential question has been domestic enrichment capacity in Iran—an issue that had already been resolved under the Joint Comprehensive Plan of Action (JCPOA)."
+    }
+  ],
+  "events": [
+    {
+      "date": "2025-06-01",
+      "event": "Operation Midnight Hammer",
+      "location": "Iran",
+      "actors": [
+        "United States",
+        "Iran"
+      ],
+      "evidence_text": "Since Operation Midnight Hammer in June 2025, the timeline for Iran to produce a nuclear weapon... has remained roughly nine to 12 months."
+    },
+    {
+      "date": "2025-06-01",
+      "event": "Joint strikes on Iran's nuclear program",
+      "location": "Iran",
+      "actors": [
+        "United States",
+        "Israel"
+      ],
+      "evidence_text": "The United States and Israel decided to jointly strike Iran’s nuclear program in June 2025."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://foreignpolicy.com/2026/05/19/iran-war-nuclear-deal-uranium-enrichment-negotiations-jcpoa-united-states/",
+      "title": "The Myth of Zero Enrichment",
+      "published": "Tue, 19 May 2026 04:01:51 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a reputable publication known for its analysis of foreign policy issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

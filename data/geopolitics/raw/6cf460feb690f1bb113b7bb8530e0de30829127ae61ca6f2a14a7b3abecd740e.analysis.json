@@ -1,0 +1,59 @@
+{
+  "document": {
+    "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/25-07-2025_Unsplash_Abu-Dhabi.jpg/image560x340cropped.jpg",
+    "source_title": "UN underscores protection of nuclear sites following drone strike on Emirati plant (image)",
+    "published": "2026-05-18T12:00:00Z",
+    "data_type": "images",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "The UN emphasizes the importance of safeguarding nuclear sites in light of recent security threats. Following a drone strike on an Emirati nuclear facility, the organization calls for heightened protection measures. This incident highlights the vulnerabilities of critical infrastructure in conflict zones and the need for international cooperation to ensure safety.",
+    "key_takeaways": [
+      "UN stresses the protection of nuclear sites.",
+      "Recent drone strike on an Emirati nuclear plant raises concerns.",
+      "Calls for enhanced security measures for critical infrastructure.",
+      "Highlights vulnerabilities in conflict zones.",
+      "Emphasizes international cooperation for safety.",
+      "Reinforces the significance of nuclear site security."
+    ],
+    "why_it_matters": "This source underscores the critical need for international attention and action regarding the security of nuclear facilities, especially in volatile regions. The implications of such incidents can affect global security and diplomatic relations.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "The UN underscores the protection of nuclear sites.",
+      "evidence_text": "UN underscores protection of nuclear sites following drone strike on Emirati plant.",
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/25-07-2025_Unsplash_Abu-Dhabi.jpg/image560x340cropped.jpg",
+      "confidence": "high"
+    }
+  ],
+  "entities": [],
+  "events": [
+    {
+      "date": "2025-07-25",
+      "event": "Drone strike on Emirati nuclear plant",
+      "location": "Emirati nuclear facility",
+      "actors": [],
+      "evidence_text": "following drone strike on Emirati plant"
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/UNHCR/Embargoed%202/25-07-2025_Unsplash_Abu-Dhabi.jpg/image560x340cropped.jpg",
+      "title": "UN underscores protection of nuclear sites following drone strike on Emirati plant (image)",
+      "published": "2026-05-18T12:00:00Z",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "official",
+    "reason": "Source from UN news feed."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

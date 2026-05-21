@@ -1,0 +1,285 @@
+Bellingcat has identified several high-profile incidents where authorities in the United Arab Emirates have 
+downplayed
+ damage, mischaracterised 
+interceptions
+ and in some instances 
+not acknowledged
+ successful Iranian drone strikes on the country.
+
+
+A review of official statements shows that the public account does not always align with what can be observed through open sources. This comes as the UAE faces 
+sustained aerial attacks
+ on civilian and economic infrastructure, challenging 
+its image as a secure global hub
+ for business and tourism. Hours after the United States and Israel launched coordinated attacks on Iran on Feb. 28, the Islamic Republic responded by launching an attack against US-allies in the region including the UAE. 
+
+
+In the wake of the attacks, the UAE’s attorney general 
+warned
+ that publication of images or videos of strikes was illegal. People were also 
+encouraged
+ to report anyone sharing photos or videos of the strikes to authorities. 
+
+
+The country’s attorney general has 
+ordered the arrest of 35 people
+ and said they would face an expedited trial for “publishing video clips on social media platforms containing misleading, fabricated content and content that harmed defence measures and glorified acts of military aggression against UAE.” Separately police in Abu Dhabi reported they had arrested 
+just over 100 people
+ on suspicion of filming incidents related to Iran’s attacks on the UAE and sharing misleading information online.
+
+
+Bellingcat contacted the Dubai Media Office, the Fujairah Media Office as well as the UAE’s Ministry of Defence to understand how statements are put out and how distinctions are made between successful drone strikes and damage caused by debris. We did not receive a response by the time of publication.
+
+
+“Spreading Rumours is a Crime”
+
+
+During the first days of the conflict several videos were posted on social media, primarily on X, TikTok and Telegram showing footage of Iranian attacks and interceptions across the UAE. 
+
+
+Around the same time the 
+Dubai Media Office
+, the X account of the Government of Dubai’s press office, warned followers that legal action would be taken against those sharing 
+“unverified material”
+.
+
+
+ The X account of the Dubai Media Office has more than 2.3 million followers making it one of the largest state-run accounts in the country. 
+
+
+“The public and media are urged to rely solely on official sources for accurate information and refrain from sharing unverified material,” the account posted.
+
+
+Dubai Police issued similar warnings on social media, stating that sharing content that contradicts official announcements could lead to imprisonment of at least two years and fines of no less than 200,000 dirhams (approximately $55,000).
+
+
+Despite authorities urging the public to rely on official sources only, Bellingcat found that some of the videos posted online as well as satellite imagery from the region contradicts a number of official accounts of high-profile attacks. For this piece we have only included links to videos that have already been widely published in mainstream news outlets, posted by professional journalists, or have been widely viewed on social media.
+
+
+Successful Interceptions?
+
+
+On March 3, a video filmed from a vessel appears to show a drone striking the port of Fujairah, one of the UAE’s most strategically important energy hubs. The port handles roughly 
+1.7 million
+ barrels of oil per day and is among the world’s largest.
+
+
+The drone appears to approach its target intact, with no visible sign of interception, Sam Lair, a researcher at James Martin Center for Nonproliferation Studies, told Bellingcat. 
+
+
+Moments after it descends behind storage tanks, an explosion is heard and a large plume of smoke rises from the site.
+
+
+
+
+On the same day, the 
+Fujairah Media Office
+ stated that a fire resulted from debris following a successful interception, adding that the fire had been brought under control. Satellite images captured on March 4 and 5 show thick black smoke rising from the site. 
+NASA FIRMS
+ data also detected fires on March 3, March 4 and March 5. By March 7, satellite imagery shows at least three storage tanks fully destroyed (
+25.184565, 56.345481
+).
+
+
+
+
+Satellite imagery of Fujiarah oil port from March 7, 2026, provided by Planet Labs PBC.
+
+
+Detained in Dubai
+, a group that provides legal advice to people detained in the UAE, said that a Vietnamese national who filmed the strike on Fujairah port had been detained by authorities after posting the footage online. 
+
+
+Authorities made a 
+similar report
+ on March 1, stating that a fire at one of the berths of Jebel Ali Port was caused by debris from an aerial interception. Satellite imagery from the same day shows fires at two separate locations – approximately 3 km apart – within the port. One appears to be a central facility associated with fuel handling operations, connected via pipelines to surrounding storage tanks (
+25.00704, 55.07499
+). The other is a large structure (
+24.97953, 55.05204
+) in the military area of the port, which is one of 
+the US Navy’s busiest ports in the Middle East
+. The 
+New York Times
+ previously identified an Iranian strike as the cause of the fire at the site. 
+
+
+
+
+Satellite imagery of Jebel Ali Port from March 1, 2026, Planet Labs PBC, inset imagery Google Earth. 
+
+
+Burj Al Arab: A “Limited” Fire
+
+
+Damage at Dubai’s Burj Al Arab Hotel was 
+attributed
+ by the Dubai Media Office to “shrapnel” from an intercepted drone and described as a “limited” fire. However, 
+footage
+ shows the fire extended to approximately 30 metres in height, covering approximately eight floors of the building, suggesting a far more significant incident than officially described.  
+
+
+
+
+Lair told Bellingcat that the damage appeared more consistent with a direct impact. He added that if the damage had resulted from an interception it would have occurred irresponsibly close to the building.
+
+
+Fairmont The Palm: Omission of Cause
+
+
+On Feb. 28, the Fairmont hotel in Dubai’s Palm Jumeirah area was struck by a drone, as shown in footage verified by Bellingcat.
+
+
+
+
+However the 
+Dubai Media office
+ did not confirm a strike took place, instead they stated  only that an “incident occurred in a building in the Palm Jumeirah area,” and urged the public not to share footage.
+
+
+One 
+video
+ of the fire was shared by a Dubai-based Bloomberg journalist. In the replies to the journalist’s post, multiple users tagged the Dubai Police, a pattern seen across posts documenting the strikes, in an apparent effort to flag violations of the cyber-crime laws to authorities.  
+
+
+The aftermath of the strike was also 
+captured
+ by a content-creator who has since left the UAE. 
+
+
+Radha Stirling, founder of 
+Detained in Dubai
+, told Bellingcat at least five people have been confirmed by the British embassy to have been charged and detained under the UAE’s cybercrime law in connection with documenting this strike. According to Stirling, authorities have sought access to individuals’ phones following incidents to determine whether they filmed or shared footage.
+
+
+“Even just taking a photo is illegal, it’s illegal to share content that the government deems negative, even in a private message,” Stirling said.
+
+
+Dubai International Airport: An Unacknowledged Strike
+
+
+On March 7, the 
+Dubai Media Office
+ announced the temporary suspension of operations at Dubai International Airport, stating only that a situation was being handled under safety protocols. 
+
+
+Footage
+ that emerged online around the same time, and was verified by Bellingcat, shows a drone strike next to an airport terminal building (
+25.24165, 55.37498
+).
+
+
+
+
+Stirling told Bellingcat that she has been in contact with a cabin crew member who was detained after sending an image to colleagues of Dubai airport after an explosion. 
+
+
+Warda Complex: A Direct Hit
+
+
+On March 1, a drone struck a residential apartment on the 19th floor of the Warda complex in Dubai (
+25.004320, 55.293164
+). Two 
+videos
+ filmed from different angles show the drone hitting the building directly, with no visible sign of interception. In 
+one clip
+, filmed inside the apartment, a British resident says: “We’ve just been hit by a drone… I didn’t even finish my cup of tea.”
+
+
+
+
+Geolocation diagram with screengrab of drone before impact. Satellite imagery provided by Google Earth. 
+
+
+The footage shows relatively limited damage and no explosion, indicating the drone did not detonate. However, the incident appears to show a direct hit by an Iranian drone. 
+
+
+In contrast, 
+statements
+ 
+published
+ the same day by the Dubai Media Office describe air defence activity and attribute sounds heard across the emirate to successful interception operations. Bellingcat was unable to find any acknowledgement of a direct hit in UAE media.
+
+
+These cases point to a gap between official accounts and observable evidence, raising questions about how incidents are being presented to the public.
+
+
+Influencers and Narrative Control
+
+
+At the same time, pro-government messaging has proliferated online. A number of 
+near-identical videos
+ posted by influencers promoting the UAE’s safety and leadership appeared, often using the format: “You live in Dubai, aren’t you scared?” followed by images of UAE leaders and the response: “No, because I know who protects us.” 
+
+
+Analysis by the 
+BBC
+ found that some of these videos were uploaded within seconds of each other, suggesting coordinated activity.
+
+
+Stirling told Bellingcat that influencers in the UAE, who require licences to operate, are often paid to promote official narratives. “They are seen as an asset,” she said, describing them as “almost an extension of the government.”
+
+
+As of April 1, 
+UAE media
+ reported that a total of 12 people had been killed and 190 injured by strikes since the beginning of the war.  
+
+
+“People are dying. It’s not as safe as the government is reporting. It’s not as safe as influencers are reporting. It’s like a dream narrative that you wish was true.” Stirling said.
+
+
+Bellingcat also identified 
+a number
+ 
+of incidents
+ in which authorities reported deaths or injuries caused by “debris” following “successful interceptions”. In these cases, however, we were unable to identify supporting photo, video, or other independently verifiable evidence to corroborate the official account.
+
+
+Notably, fewer videos of such incidents appear to have emerged online in recent weeks, likely as public awareness of detentions under the cyber-criminality law has increased.
+
+
+Jonathan Dagher, head of the Middle East desk at Reporters Without Borders told Bellingcat that the UAE government was using the Iran war to further restrict independent reporting in the country. 
+
+
+“When the conflict began, the government stepped up this repression, explicitly prohibiting the public (including journalists) from publishing photos or information related to the strikes, and encouraging the public to report on such incidents.”  
+
+
+He added that legitimate concerns about national security should not infringe on the public’s right to information. 
+
+
+“Broad and loosely worded bans on covering events, in the name of security, violate this right and expose journalists to arrest and violence.”
+
+
+Bellingcat contacted the Dubai Media Office, the Fujairah Media Office as well as the UAE’s Ministry of Defence to understand how statements are put out and how distinctions are made between successful drone strikes and damage caused by debris. We did not receive a response by the time of publication.
+
+
+Lana Nusseibeh, 
+a representative of the UAE’s Foreign Ministry
+ previously told the BBC: 
+
+
+“In order for everyone to feel safe it’s important at this time that the information is credible and the sources are reliable. That is the basis of the legislation that has come into play in this State, which is obviously a tense time.” 
+
+
+She added that her advice for residents, citizens, tourists and journalists in the UAE was to: “Follow the guidelines. The guidelines are there for your safety and for your protection.” 
+
+
+
+
+Merel Zoet contributed to this report.
+
+
+Bellingcat is a non-profit and the ability to carry out our work is dependent on the kind support of individual donors. If you would like to support our work, you can do so 
+here
+. You can also subscribe to our Patreon channel 
+here
+. Subscribe to our 
+Newsletter
+ and follow us on Bluesky 
+here
+, Instagram 
+here
+, Reddit 
+here 
+and YouTube 
+here
+.

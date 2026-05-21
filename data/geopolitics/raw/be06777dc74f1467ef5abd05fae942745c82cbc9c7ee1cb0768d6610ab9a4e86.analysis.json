@@ -1,0 +1,183 @@
+{
+  "document": {
+    "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+    "source_title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
+    "published": "Tue, 19 May 2026 12:00:00 +0000",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "A new UNCTAD report indicates that while the global economy showed resilience at the start of 2026, geopolitical tensions have become the primary source of instability, affecting trade and investment. The report forecasts a slowdown in global growth and merchandise trade due to rising costs and market volatility. In Gaza, severe funding shortfalls are hampering humanitarian efforts, leaving many families without essential services. Additionally, violence in South Sudan has displaced over 304,000 people, with ongoing military operations exacerbating the humanitarian crisis.",
+    "key_takeaways": [
+      "Global growth projected to slow from 2.9% in 2025 to 2.6% in 2026.",
+      "Merchandise trade growth expected to fall sharply from 4.7% in 2025 to between 1.5% and 2.5% in 2026.",
+      "Gaza's humanitarian operations face severe funding shortfalls, with only 12% of the $4 billion appeal funded.",
+      "Over 304,000 people displaced in South Sudan's Jonglei state since January due to conflict.",
+      "UN Secretary-General condemns deadly mosque attack in California, emphasizing the need to confront hatred.",
+      "UN peacekeepers to remain in Akobo, South Sudan, despite planned troop drawdowns due to ongoing insecurity."
+    ],
+    "why_it_matters": "The report highlights the interconnectedness of geopolitical tensions and global economic stability, emphasizing the need for international cooperation and investment in renewable energy to mitigate future crises. The humanitarian situation in Gaza and South Sudan underscores the urgent need for funding and support to address the needs of vulnerable populations.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Geopolitical tensions have replaced trade tensions as the main source of global instability.",
+      "evidence_text": "the report warns that geopolitical tensions have increasingly replaced trade tensions as the main source of global instability since energy markets, financial conditions and major shipping routes are disrupted by conflict in the Middle East.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Global growth is projected to slow due to various economic pressures.",
+      "evidence_text": "UNCTAD projects global growth will slow from 2.9 per cent in 2025 to 2.6 per cent in 2026 due to higher oil prices, transport disruptions, market volatility and weaker investment demand.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Gaza's humanitarian operations are severely underfunded.",
+      "evidence_text": "the 2026 Flash Appeal seeking more than $4 billion to support nearly 3 million people across Gaza and the West Bank is only 12 per cent funded, with just $490 million received so far.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Over 304,000 people have been displaced in South Sudan's Jonglei state due to conflict.",
+      "evidence_text": "More than 304,000 people have been displaced in South Sudan’s Jonglei state since conflict escalated in January.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "UN Secretary-General condemned a deadly mosque attack in California.",
+      "evidence_text": "UN Secretary-General António Guterres has condemned the deadly shooting at the Islamic Center of San Diego in the United States, which left three people dead on Monday.",
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "organization",
+      "name": "UN Conference on Trade and Development",
+      "description": "A UN agency that released a report on the global economy.",
+      "evidence_text": "According to a new report released on Tuesday by the UN Conference on Trade and Development (UNCTAD)."
+    },
+    {
+      "type": "organization",
+      "name": "UN Office for the Coordination of Humanitarian Affairs",
+      "description": "The UN agency responsible for coordinating humanitarian response efforts.",
+      "evidence_text": "According to the UN Office for the Coordination of Humanitarian Affairs (OCHA)."
+    },
+    {
+      "type": "organization",
+      "name": "UN Mission in South Sudan",
+      "description": "The UN peacekeeping mission in South Sudan.",
+      "evidence_text": "the newly appointed head of the UN Mission in South Sudan (UNMISS), Anita Kiki Gbeho."
+    },
+    {
+      "type": "person",
+      "name": "António Guterres",
+      "description": "UN Secretary-General who condemned the mosque attack.",
+      "evidence_text": "UN Secretary-General António Guterres has condemned the deadly shooting at the Islamic Center of San Diego."
+    },
+    {
+      "type": "location",
+      "name": "Gaza",
+      "description": "A region facing severe humanitarian challenges due to funding shortfalls.",
+      "evidence_text": "Humanitarian operations in Gaza are being squeezed by severe funding shortfalls."
+    },
+    {
+      "type": "location",
+      "name": "South Sudan",
+      "description": "A country experiencing conflict and humanitarian crises.",
+      "evidence_text": "More than 304,000 people have been displaced in South Sudan’s Jonglei state since conflict escalated in January."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-19",
+      "event": "UNCTAD report release",
+      "location": "",
+      "actors": [
+        "UN Conference on Trade and Development"
+      ],
+      "evidence_text": "According to a new report released on Tuesday by the UN Conference on Trade and Development (UNCTAD)."
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Funding shortfall in Gaza",
+      "location": "Gaza",
+      "actors": [
+        "UN Office for the Coordination of Humanitarian Affairs"
+      ],
+      "evidence_text": "the 2026 Flash Appeal seeking more than $4 billion to support nearly 3 million people across Gaza and the West Bank is only 12 per cent funded."
+    },
+    {
+      "date": "2026-05-19",
+      "event": "Displacement in South Sudan",
+      "location": "Jonglei state, South Sudan",
+      "actors": [
+        "UN Mission in South Sudan"
+      ],
+      "evidence_text": "More than 304,000 people have been displaced in South Sudan’s Jonglei state since conflict escalated in January."
+    },
+    {
+      "date": "2026-05-16",
+      "event": "Mosque attack in California",
+      "location": "San Diego, California, USA",
+      "actors": [
+        "UN Secretary-General",
+        "Islamic Center of San Diego"
+      ],
+      "evidence_text": "UN Secretary-General António Guterres has condemned the deadly shooting at the Islamic Center of San Diego in the United States."
+    }
+  ],
+  "metrics": [
+    {
+      "name": "Global growth rate",
+      "value": "2.6",
+      "unit": "percent",
+      "date": "2026",
+      "location": "",
+      "evidence_text": "UNCTAD projects global growth will slow from 2.9 per cent in 2025 to 2.6 per cent in 2026."
+    },
+    {
+      "name": "Merchandise trade growth",
+      "value": "1.5-2.5",
+      "unit": "percent",
+      "date": "2026",
+      "location": "",
+      "evidence_text": "World merchandise trade growth is also expected to fall sharply, from 4.7 per cent in 2025 to between 1.5 and 2.5 per cent in 2026."
+    },
+    {
+      "name": "Funding received for Gaza Flash Appeal",
+      "value": "490",
+      "unit": "million USD",
+      "date": "2026",
+      "location": "Gaza",
+      "evidence_text": "with just $490 million received so far."
+    },
+    {
+      "name": "Displaced persons in South Sudan",
+      "value": "304000",
+      "unit": "people",
+      "date": "2026",
+      "location": "Jonglei state, South Sudan",
+      "evidence_text": "More than 304,000 people have been displaced in South Sudan’s Jonglei state since conflict escalated in January."
+    }
+  ],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://news.un.org/feed/view/en/story/2026/05/1167551",
+      "title": "World News in Brief: Geopolitical tensions impact global economy, Gaza aid funding shortfall, violence in South Sudan, UN condemns deadly mosque attack",
+      "published": "Tue, 19 May 2026 12:00:00 +0000",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The source is a UN news outlet, providing credible information on global issues."
+  },
+  "geolocation": [],
+  "timestamps": []
+}

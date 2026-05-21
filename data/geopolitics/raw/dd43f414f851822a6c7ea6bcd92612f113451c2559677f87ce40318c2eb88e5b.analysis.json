@@ -1,0 +1,99 @@
+{
+  "document": {
+    "source_url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+    "source_title": "Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live",
+    "published": "Thu, 21 May 2026 14:28:30 GMT",
+    "data_type": "rss_feed_content",
+    "author": "",
+    "publisher": "",
+    "language": "",
+    "region": "",
+    "summary": "Senate Republicans are considering removing a $1 billion funding proposal for Donald Trump’s ballroom complex from a Department of Homeland Security bill due to concerns over its timing and details. Some GOP lawmakers are questioning the necessity of the funding amidst rising costs for voters. The Senate aims to pass the bill this week, but internal disagreements may complicate the process. Democrats criticize the proposal, arguing that taxpayer money should not be used for such projects when basic affordability issues are at stake.",
+    "key_takeaways": [
+      "Senate Republicans may strip a $1 billion proposal for Trump's ballroom from a funding bill.",
+      "Concerns arise over the timing and details of the Secret Service request.",
+      "Some GOP lawmakers question the necessity of the funding amidst rising costs for voters.",
+      "The Senate hopes to pass the bill before a week-long Memorial Day recess.",
+      "Democrats criticize the proposal, emphasizing the need for funds to address basic affordability issues.",
+      "Internal disagreements among Republicans may complicate the bill's passage."
+    ],
+    "why_it_matters": "The funding proposal for Trump's ballroom reflects broader tensions within the Republican party and raises questions about fiscal priorities amidst economic concerns for voters. The outcome of this bill could influence public perception of the party's commitment to addressing pressing issues faced by constituents.",
+    "tags_topics": []
+  },
+  "claims": [
+    {
+      "claim_text": "Senate Republicans could abandon the $1 billion proposal for Trump's ballroom.",
+      "evidence_text": "Senate Republicans could strip Donald Trump’s lavish White House ballroom complex from the Department of Homeland Security funding bill after members queried the timing and lack of detail in the $1bn Secret Service request.",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Some GOP lawmakers are questioning the necessity of the funding.",
+      "evidence_text": "However, the security proposal met with backlash from some GOP lawmakers who are questioning the cost and how the taxpayer dollars would be used.",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "confidence": "high"
+    },
+    {
+      "claim_text": "Democrats criticize the funding proposal.",
+      "evidence_text": "Democrats have criticized Republicans for trying to fund Trump’s ballroom when voters are concerned about basic affordability issues.",
+      "source_url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "confidence": "high"
+    }
+  ],
+  "entities": [
+    {
+      "type": "Person",
+      "name": "Donald Trump",
+      "description": "Former President of the United States, associated with the ballroom funding proposal.",
+      "evidence_text": "Senate Republicans could strip Donald Trump’s lavish White House ballroom complex from the Department of Homeland Security funding bill."
+    },
+    {
+      "type": "Organization",
+      "name": "Department of Homeland Security",
+      "description": "U.S. government department responsible for public security, which the funding bill pertains to.",
+      "evidence_text": "Senate Republicans could strip Donald Trump’s lavish White House ballroom complex from the Department of Homeland Security funding bill."
+    },
+    {
+      "type": "Political Party",
+      "name": "Republicans",
+      "description": "Political party involved in the funding proposal and internal disputes.",
+      "evidence_text": "Facing pressure from the Trump administration, Republicans have tried to add the money to a roughly $70bn bill."
+    },
+    {
+      "type": "Political Party",
+      "name": "Democrats",
+      "description": "Political party opposing the funding proposal for Trump's ballroom.",
+      "evidence_text": "Democrats have criticized Republicans for trying to fund Trump’s ballroom when voters are concerned about basic affordability issues."
+    }
+  ],
+  "events": [
+    {
+      "date": "2026-05-21",
+      "event": "Senate Republicans consider removing funding proposal",
+      "location": "United States Senate",
+      "actors": [
+        "Senate Republicans",
+        "Donald Trump"
+      ],
+      "evidence_text": "Senate Republicans could strip Donald Trump’s lavish White House ballroom complex from the Department of Homeland Security funding bill."
+    }
+  ],
+  "metrics": [],
+  "relationships": [],
+  "timelines": [],
+  "citations": [
+    {
+      "source_url": "https://www.theguardian.com/us-news/live/2026/may/21/donald-trump-ballroom-reconciliation-bill-republicans-democrats-war-powers-iran-epa-ai-latest-news-updates",
+      "title": "Republicans could abandon $1bn proposal for Trump’s ballroom – US politics live",
+      "published": "Thu, 21 May 2026 14:28:30 GMT",
+      "evidence_text": ""
+    }
+  ],
+  "evidence_snippets": [],
+  "source_credibility": {
+    "level": "high",
+    "reason": "The Guardian is a reputable news organization known for its political coverage."
+  },
+  "geolocation": [],
+  "timestamps": []
+}
