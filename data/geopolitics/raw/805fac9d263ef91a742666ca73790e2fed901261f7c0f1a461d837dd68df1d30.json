@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "sanctions_designations",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -32,14 +32,14 @@
     "web_archives_cached_content",
     "ai_generated_summaries_derived_intelligence"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
+  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb",
-  "content_type": "text/html",
-  "collected_at": "2026-05-22T00:04:19.457825+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.html",
-  "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt"
+  "sha256": "805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30",
+  "content_type": "application/xml",
+  "collected_at": "2026-05-22T00:03:45.880000+00:00",
+  "text_chars": 824889,
+  "raw_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.xml",
+  "text_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.txt"
 }
