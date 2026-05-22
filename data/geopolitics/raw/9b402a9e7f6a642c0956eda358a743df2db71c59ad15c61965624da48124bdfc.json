@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "video_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-05-22T14:19:12.316492+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://www.france24.com/en/video/20260522-nato-ministers-sound-out-us-on-trump-s-confusing-troop-moves",
+  "title": "NATO ministers sound out US on Trump's 'confusing' troop moves",
+  "source": "https://www.france24.com/en/rss",
+  "published": "Fri, 22 May 2026 13:16:02 GMT",
+  "sha256": "9b402a9e7f6a642c0956eda358a743df2db71c59ad15c61965624da48124bdfc",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-22T14:20:16.261878+00:00",
+  "text_chars": 341,
+  "raw_path": "data/geopolitics/raw/9b402a9e7f6a642c0956eda358a743df2db71c59ad15c61965624da48124bdfc.html",
+  "text_path": "data/geopolitics/raw/9b402a9e7f6a642c0956eda358a743df2db71c59ad15c61965624da48124bdfc.txt"
 }

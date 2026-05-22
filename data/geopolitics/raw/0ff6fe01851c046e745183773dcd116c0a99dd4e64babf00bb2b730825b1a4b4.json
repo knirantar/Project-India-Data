@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-05-22T14:19:12.316492+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://foreignpolicy.com/2026/05/22/russia-china-meeting-xi-putin-gas-oil-asymmetry/",
+  "title": "No Limits, No Good Options",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Fri, 22 May 2026 12:53:49 +0000",
+  "sha256": "0ff6fe01851c046e745183773dcd116c0a99dd4e64babf00bb2b730825b1a4b4",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-22T14:20:16.818691+00:00",
+  "text_chars": 8552,
+  "raw_path": "data/geopolitics/raw/0ff6fe01851c046e745183773dcd116c0a99dd4e64babf00bb2b730825b1a4b4.html",
+  "text_path": "data/geopolitics/raw/0ff6fe01851c046e745183773dcd116c0a99dd4e64babf00bb2b730825b1a4b4.txt"
 }
