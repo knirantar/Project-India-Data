@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "video_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb",
-  "content_type": "text/html",
-  "collected_at": "2026-05-22T11:41:51.228700+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.html",
-  "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt"
+  "url": "https://www.france24.com/en/video/20260522-latvia-standing-with-ukraine",
+  "title": "Latvia, standing with Ukraine",
+  "source": "https://www.france24.com/en/rss",
+  "published": "Fri, 22 May 2026 09:45:20 GMT",
+  "sha256": "e125cf1b79b5835f6e067c4aca64b42dd1720e5e0b6b083129dd62ea97b08d77",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-22T11:42:27.266528+00:00",
+  "text_chars": 276,
+  "raw_path": "data/geopolitics/raw/e125cf1b79b5835f6e067c4aca64b42dd1720e5e0b6b083129dd62ea97b08d77.html",
+  "text_path": "data/geopolitics/raw/e125cf1b79b5835f6e067c4aca64b42dd1720e5e0b6b083129dd62ea97b08d77.txt"
 }
