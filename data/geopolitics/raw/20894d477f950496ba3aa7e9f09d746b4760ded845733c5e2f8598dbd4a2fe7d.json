@@ -29,8 +29,7 @@
     "metadata",
     "archived_historical_content",
     "open_source_intelligence",
-    "web_archives_cached_content",
-    "ai_generated_summaries_derived_intelligence"
+    "web_archives_cached_content"
   ],
   "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
   "title": null,
@@ -38,8 +37,8 @@
   "published": null,
   "sha256": "20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d",
   "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-05-22T00:03:43.499457+00:00",
+  "collected_at": "2026-05-22T04:07:43.092488+00:00",
   "text_chars": 6187025,
-  "raw_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json.raw",
-  "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt"
+  "raw_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json.raw",
+  "text_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt"
 }

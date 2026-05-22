@@ -1,0 +1,101 @@
+The full-scale Russian invasion of Ukraine and the fraying of the transatlantic relationship have combined to provide Europe with an unprecedented security wake-up call. In response, many reports have been written, speeches have been delivered, and defense budgets have been revised. But while there is agreement across Europe on the need to integrate new military technologies, this process must be accelerated and accompanied by broader efforts to revise military doctrine and organization.
+
+
+Today’s European armies are still largely organized, equipped, and trained for the wars of the past. This reflects a range of outdated assumptions relating to fundamental factors including the role of infantry, air superiority, and procurement cycles. Such assumptions can be fatal on the modern battlefield, especially against an enemy as battle-hardened and technologically advanced as Putin’s Russia.
+
+
+Ukraine’s battlefield success since 2022 has often been explained through the lens of new technologies. This is reasonable. After all, technological innovation has helped Ukraine hold off a much larger enemy. Ukraine’s use of drones has been particularly notable, leading to unprecedented cost effectiveness and much reduced casualty rates.
+
+
+The emergence of Ukraine as a defense tech powerhouse is certainly worth studying. What began four years ago as a volunteer-driven grassroots effort to develop wartime cooperation between Ukraine’s rapidly expanding defense tech sector and the country’s military has since gone through various evolutionary stages and been deliberately institutionalized.
+
+
+Ukraine’s Army of Drones bonus program is an example of how the country is incorporating digital advances to transform modern warfare. This initiative has introduced a performance-based model that allocates equipment to units in relation to their effectiveness. Each strike is logged on Ukraine’s ground-breaking DELTA combat ecosystem, with exact coordinates and other data including video footage required in order to enable verification and secure points.
+
+
+This technological progress is only one of multiple factors driving the transformation of the Ukrainian armed forces. A new military structure has also taken shape, notably with the establishment of the Unmanned Systems Forces command, the first of its kind in the world. This has helped enable the emergence of a new drone warfare doctrine, while managing procurement processes above a network of organic drone units embedded in virtually every single Ukrainian combat brigade.
+
+
+Another ingredient is institutional support for defense sector innovation. In spring 2023, the Ukrainian government launched Brave1 as a defense tech cluster to help coordinate cooperation between the private sector, the government, the military, and investors. Over the past three years, Brave1 has supported more than 2300 companies and emerged as a key institution shaping Ukraine’s defense tech strategy. It is a public sector entity that operates like a private company, cutting through red tape to identify, empower, and fast-track innovation.
+
+
+These changes did not come about overnight. Ukraine has faced a steep learning curve and has been forced to adapt logistics, tactics, technologies, and platforms while defending against the largest European invasion since World War II. This has resulted in a system marked by rapid procurement, an innovation architecture designed to sustain continuous adaptation, and an institutional model that is robust without being rigid. 
+
+
+As the world watches the Russian invasion of Ukraine unfold, UkraineAlert delivers the best Atlantic Council expert insight and analysis on Ukraine twice a week directly to your inbox.
+
+
+
+
+European armies are not standing entirely still, of course. Modernization is now very much on the agenda and there is widespread recognition in European capitals of the need to learn from Ukraine’s experience. However, recent war games exercises have repeatedly demonstrated that NATO forces are currently far behind in terms of drone warfare and would not last long on the battlefields of Ukraine.
+
+
+Ukraine’s experience since 2022 should serve as the foundation for the modernization of every European military. A key lesson is the need for faster innovation, adoption, and technology deployment. New technology offers new capabilities which may in turn enable updated military doctrines. The first step is to learn how to use new kit via extensive training. This is not only about drones, but also about the integration of AI in decision-making processes, to provide better situational awareness and probability-weighted courses of action.
+
+
+Ukraine’s DELTA combat ecosystem is an example of how technological innovations can streamline this process. It transforms the massive flow of front line data into a single situational picture accessible to commanders, analysts, drone operators, and units at all levels, enabling decisions within seconds. Operating in a cloud environment, DELTA can be continuously updated and scaled under combat conditions. At least five NATO countries are already exploring adopting DELTA. The rest should follow suit.
+
+
+Another important lesson is institutional adaptation. For example, European military planners should assess the benefits of setting up dedicated command structures to align around unmanned systems, rather than treating drones as accessories to existing formations. Ukraine is the first country to have a dedicated command for unmanned systems, which is primarily a center of excellence that sets doctrine, trains operators, and pushes best practice, while also having its own dedicated brigades. This hybrid approach has proved highly durable on the battlefield.
+
+
+Building effective defense tech ecosystems involving both civilian and military components is also vital. Warfare is increasingly software-defined, while technological competition accelerates during conflict. This requires diversified and localized supply chains; a sizable pool of engineers and electronics specialists; incentives for innovation; certified training centers; and ample financing for defense startups.
+
+
+Ukraine’s Brave1 model should serve as the template, particularly in terms of minimizing bureaucratic barriers and reducing development cycles. Brave1 has created a vibrant ecosystem of defense tech manufacturers, military, and investors that accelerates the delivery of critical technologies from the lab to the front lines through a combination of integration, cooperation, and healthy competition. European governments should now be looking to replicate this logic and adapt it to their own regulatory and industrial contexts. This could potentially be done in partnership with Brave1. 
+
+
+Implementing these Ukrainian lessons across Europe will not be straightforward. European armed forces typically operate within constraints that wartime Ukraine has been able to sidestep, such as parliamentary procurement oversight, NATO interoperability requirements, and civil service recruitment regulations. Ukraine has also been relatively unhindered by powerful existing defense contractors with institutional influence. This would not be the case in many European countries.
+
+
+As indicated by the head of the military transformation office in one Western country, additional challenges abound. These include administrative complexity, rigid approaches adopted by financial inspectorates, European military procurement rules, and the proverbial “valley of death” between R&D and industrial production.
+
+
+The gap separating Ukraine’s bottom-up innovation ethos from the top-down hierarchies of most European defense establishments is real and should not be underestimated. The prescription is adaptation, with each military having to find its own path to the same destination. Ultimately, political will is the crucial ingredient that can drive the necessary change to overcome legacy structures that many will want to cling to.
+
+
+For now, European talk of learning from Ukraine has yet to translate into sufficient concrete measures. The clock is ticking. There is currently a very real danger that Europe could be caught out decisively while still stuck in the planning phase.
+
+
+It doesn’t have to be this way. Europe has a unique partner within reach that has already undergone a profound military transformation under the most demanding conditions imaginable. Ukraine’s systems were built specifically for the threat environment, electronic warfare conditions, and cost constraints that European armies now face. Ukraine’s AI models have been trained on four years of combat data at a scale no exercise or simulation can replicate.
+
+
+Ukraine has proven that effectiveness in modern warfare is determined not by individual technologies, but by the systems in which they are applied. Simply learning to build and operate drones is not enough. Combat operations generate data, data generates analytics, analytics drive decisions, and decisions shape how units are equipped to fight the next battle. In order to benefit from innovations, you must be able to rapidly test new kit on the battlefield, integrate it into command and control, and improve it on a daily basis using front line feedback.
+
+
+Ukraine’s wartime culture of rapid adaptation, cross-system interoperability, and data-driven decision-making is perhaps the most valuable lesson the country can offer to the rest of Europe. This requires a new philosophy to waging war that reflects the changing technological dynamics of the twenty-first century battlefield.
+
+
+Ukraine’s experience must inform European defense modernization in both technology and doctrine. Ukraine has the resources and the will to actively engage with European defense policymakers in order to share its knowledge and inform their transformation. The choice is now Europe’s: Seize the opportunity to adapt or procrastinate and risk future defeat.
+
+
+Valeriya Ionan is a nonresident senior fellow at the Atlantic Council’s Eurasia Center and Europe Center. She is the former Ukrainian Deputy Minister for Digital Transformation and currently serves as an advisor to the country’s Defense Minister and Ministry of Digital Transformation. Nicolas Dunais is an independent advisor on international cooperation who previously served as regional director for Eastern Europe at the Tony Blair Institute, where he set up the Institute’s Ukraine program.
+
+
+
+
+Further reading
+
+
+
+
+The views expressed in UkraineAlert are solely those of the authors and do not necessarily reflect the views of the Atlantic Council, its staff, or its supporters.
+ 
+
+
+
+
+
+
+
+
+The 
+Eurasia Center’s
+ mission is to enhance transatlantic cooperation in promoting stability, democratic values, and prosperity in Eurasia, from Eastern Europe and Turkey in the West to the Caucasus, Russia, and Central Asia in the East.
+
+
+
+
+
+
+Image: Servicemen of 24th Mechanized Brigade named after King Danylo of the Ukrainian Armed Forces prepare a Kazhan heavy combat drone before flying it over positions of Russian troops, amid Russia's attack on Ukraine, near the frontline town of Chasiv Yar in Donetsk region, Ukraine May 15, 2025. Oleg Petrasiuk/Press Service of the 24th King Danylo Separate Mechanized Brigade of the Ukrainian Armed Forces/Handout via REUTERS

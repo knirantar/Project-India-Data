@@ -29,8 +29,7 @@
     "metadata",
     "archived_historical_content",
     "open_source_intelligence",
-    "web_archives_cached_content",
-    "ai_generated_summaries_derived_intelligence"
+    "web_archives_cached_content"
   ],
   "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
   "title": null,
@@ -38,8 +37,8 @@
   "published": null,
   "sha256": "805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30",
   "content_type": "application/xml",
-  "collected_at": "2026-05-22T00:03:45.880000+00:00",
+  "collected_at": "2026-05-22T04:07:47.545946+00:00",
   "text_chars": 824889,
-  "raw_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.xml",
-  "text_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.txt"
+  "raw_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.xml",
+  "text_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.txt"
 }

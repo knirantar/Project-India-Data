@@ -29,8 +29,7 @@
     "metadata",
     "archived_historical_content",
     "open_source_intelligence",
-    "web_archives_cached_content",
-    "ai_generated_summaries_derived_intelligence"
+    "web_archives_cached_content"
   ],
   "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
   "title": null,
@@ -38,8 +37,8 @@
   "published": null,
   "sha256": "c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae",
   "content_type": "text/xml",
-  "collected_at": "2026-05-22T00:03:47.422986+00:00",
+  "collected_at": "2026-05-22T04:07:48.051739+00:00",
   "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.xml",
-  "text_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt"
+  "raw_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.xml",
+  "text_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt"
 }

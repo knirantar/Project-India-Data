@@ -1,0 +1,187 @@
+Key takeaways:
+
+
+
+
+
+
+
+
+Sanctions on Russian, Iranian, and Venezuelan oil removed millions of barrels per day from global markets between 2014 and 2025. China has emerged as the primary destination for the sanctioned crude.
+Russia, Iran, and Venezuela use similar tactics to sell sanctioned oil to China: shadow fleet tankers, ship-to-ship transfers for sanctioned crude cargoes, or re-exporting cargoes through third countries.
+Curbing oil sanctions evasion schemes will require a mix of primary and secondary sanctions and stronger information sharing with US partners and the private sector.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Three of the most heavily sanctioned regimes in the world—Iran, Russia, and Venezuela—also happen to be major players in the global energy market. The United States and its allies have levied major sanctions and other restrictive economic measures on these regimes’ crude oil exports to disrupt, deter, or deny them from funding activities that threaten US and allied national security interests and foreign policy goals.
+
+
+However, the use of sanctions and economic statecraft tools comes at a cost and often has unintended consequences. Sanctions against major oil-producing countries have led to realignment of global crude oil trade routes and the emergence of the global shadow fleet of tankers.
+
+
+The Atlantic Council’s Energy Sanctions Dashboard, created by the Economic Statecraft Initiative and Global Energy Center,
+1) assesses how sanctions have impacted global crude oil flows,
+2) explores the unintended consequences for the global crude oil industry, and
+3) analyzes lessons learned about the deployment of energy sanctions for achieving foreign policy objectives.
+
+
+The first edition of the Energy Sanctions Dashboard focuses on US sanctions and restrictive measures placed on crude oil. Subsequent editions will incorporate additional energy commodities such as national gas and petrochemicals as well as restrictive economic measures taken by Western allies.
+
+
+
+
+
+
+Overview of energy sanctions targeting Russia, Iran, Venezuela
+
+
+Economic restrictions aimed at the oil revenues of adversarial regimes—namely Russia, Iran, and Venezuela—have become a cornerstone of US economic statecraft. While oil income is vital to the stability of all three economies, it also represents a critical point of vulnerability that the United States and its allies have sought to exploit for various foreign policy goals. Meanwhile, prolific oil production in the United States in the past decade has made Washington a more influential player in global oil markets, lending policymakers greater confidence to turn to energy sanctions more frequently, increase their severity, or leave them in place for longer periods of time. 
+
+
+Nonetheless, the scope and severity of energy sanctions continue to be carefully calibrated in light of their potential ripple effects on the global crude oil market, where even a 
+1–2 percent disruption
+ in supply or demand can trigger sharp price volatility or have significant effects on refined product markets. For example, Russia’s outsized role in the global crude market (accounting for 
+11 percent
+ of global crude oil production in 2023), led the Group of Seven (G7) partners to institute a $60, and later $47.60, per barrel price cap on Russian oil for several years before instituting full blocking sanctions on 
+Rosneft, Lukoil, and their subsidiaries
+ in October 2025. 
+
+
+The sanctions regimes targeting Iran and Venezuela have shown similar levels of discipline, given their relatively small share of the global crude oil market (Iran at 
+4 percent
+ and Venezuela at 
+0.8 percent
+ as of 2023). The 
+legal foundation
+ for secondary sanctions on Iran required the US administration to assess the potential impact of Iran-related sanctions on global oil prices and to enhance diplomatic engagement with alternative oil suppliers. This strategic approach helped ensure that targeting Iranian oil exports would not trigger immediate spikes in global crude prices. When the Trump administration imposed sanctions on Venezuela’s PDVSA in 2019, US refineries were given time to secure alternative suppliers. While energy sanctions have had a substantial impact on Venezuela’s economy, they have caused minimal disruption to the global oil market. 
+
+
+As a consequence, while energy restrictions and sanctions against Russia, Iran, and Venezuela have resulted in millions of barrels being taken “off the market” at certain points between 2014 and 2025, these sanctions have in the aggregate had a limited effect on price volatility. In the past decade, the Brent Crude benchmark has only surpassed one hundred dollars per barrel once, and price volatility has averaged 
+36.5 percent
+—even though this period included notable moments of geopolitical volatility such as Iran’s attack on Saudi oil facilities, the COVID-19 pandemic, and Russia’s invasion of Ukraine. 
+
+
+
+
+
+
+The global shadow fleet and oil transshipment undermine the effectiveness of sanctions 
+
+
+Yet the persistent use of oil sanctions requires consistent enforcement, the absence of which leads to the 
+rerouting of trade flows
+. China has emerged as the primary destination for crude oil exports from all three heavily sanctioned producers—Russia, Iran, and Venezuela. The extent of this trade varies with the severity and enforcement of sanctions: While China has openly reported imports of Russian oil, it has continued purchasing oil from Iran and Venezuela more discreetly, often through intermediaries or underreported channels. In light of Treasury’s designation of Lukoil and Rosneft in October 2025, Chinese state-owned companies 
+reportedly
+ suspended Russian oil purchases as well.
+
+
+One of the most productive means of intermediary purchasing has been through transshipment (the ship-to-ship transfer of sanctioned crude cargoes to “unsanctioned” ones) or by re-exporting cargoes through third party countries. Attempts to calibrate sanctions against Russia via a price cap have also led to the emergence of a “shadow fleet,” crude trade often involving non-seaworthy ships, which takes place outside of the price cap by using 
+evasion schemes
+ such as complex ownership structures, changing flag registrations and ship names, and turning off tracking systems, as well as workarounds in insurance markets and bills of lading to circumvent proof of sale underneath the price cap. 
+
+
+
+
+
+
+
+
+Note: These graphs were updated to reflect millions of barrels per day.
+ 
+
+
+
+
+China’s demand for crude oil is expected to plateau, while India’s will continue to rise 
+
+
+While China’s imports of crude oil from heavily sanctioned countries provided a critical economic lifeline to Russia, Iran, and Venezuela, this overreliance on a single market created new vulnerabilities. Russia, in particular, felt the impact of this dependence in 2025, when China’s crude oil demand plateaued and its oil and gas revenues fell by 
+20.5 percent
+ in the first nine months of this year. The United States has some leverage to curb these flows by enforcing secondary sanctions on Chinese financial institutions that engage with sanctioned Russian banks and recently designated energy firms Rosneft and Lukoil, along with their subsidiaries. However, beyond the reach of sanctions, China’s domestic demand for crude oil—sanctioned or not—remains a key factor shaping its trade relationships with sanctioned regimes.
+
+
+China’s demand for crude oil is primarily driven by the 
+transportation and petrochemical sectors
+. However, the rapid adoption of electric vehicles has contributed to a leveling off of demand for transportation fuels—and, by extension, for crude oil. While total crude oil consumption remains high, recent growth has been largely fueled by demand for petrochemical feedstocks, which accounted for 
+90 percent
+ of China’s oil demand growth from 2021 to 2024.
+
+
+Looking ahead, China’s oil demand may be softening. According to 
+projections
+ from the China National Petroleum Corporation’s Economic and Technological Research Institute, 2025 will mark the high point of China’s oil consumption, with demand expected to plateau in the latter half of the decade. Another key variable is China’s approach to energy security. China is expected to accelerate its strategic crude oil stockpiling, potentially adding as much as 
+500,000 barrels
+ per day through the remainder of 2025 and into 2026.
+
+
+While multiple forces are shaping China’s crude oil demand in competing directions, the broader trend points toward an easing of China’s demand for oil imports. This emerging shift is already affecting oil-dependent economies such as Russia, and it is likely to undermine other heavily sanctioned regimes—like Iran and Venezuela—that rely heavily on oil exports to China as an economic lifeline.
+
+
+Against this backdrop, India is expected to emerge as the 
+main driver
+ of global crude oil demand for the remainder of the decade. To date, India has complied with US oil sanctions. For example, unlike China—which has been consistently importing oil from all three regimes—India has refrained from purchasing sanctioned Iranian oil since the US withdrawal from the JCPOA in 2019. Its oil imports from Venezuela have also been responsive to US sanctions. While India and China have both been top destinations of Russian oil since 2022, importing Russian oil was permissible (as long as buyers paid $60 and later $47.60 per barrel) until 
+Treasury’s designation
+ of major Russian oil companies in October 2025. However, in the coming years, if non-sanctioned oil exporters cannot satisfy India’s demand for oil, New Delhi might be inclined to reengage with sanctioned oil-producing countries.
+
+
+
+
+The United States has deployed energy sanctions against Iran, Venezuela, and Russia to change these regimes’ behaviors. As oil-producing countries, they are reliant on energy exports to generate revenue to prop up their economies and support the nefarious activity the United States and its allies are aiming to disrupt. In all three instances, sanctions have reduced these countries’ energy 
+profits
+, however evasion schemes and oil demand are undermining the effect of energy sanctions and the United States’ ability to compel these regimes to change their behavior. 
+
+
+To ensure energy sanctions achieve their intended goals, the United States and its allies should prioritize enforcement of these actions. Enforcement takes many forms, including derivative sanctions of individuals and entities involved in sanctions evasion, secondary sanctions targeting foreign financial institutions that continue to transact with sanctioned actors to sever their connection to US correspondent banks, as well as law enforcement actions and civil penalties against those that do not comply with sanctions or willingly evade them. 
+
+
+Enforcement requires coordination and collaboration with foreign partners, including alignment on sanctions targeting the shadow fleets and other evasion mechanisms and networks. It also requires providing adequate resources to the government entities responsible for sanctions enforcement and identifying evasion schemes so they can take appropriate action to prevent or disrupt sanctions evasion efforts. Further, information sharing within the US government and with foreign partners is critical for sanctions enforcement, as well as enabling and encouraging greater information sharing among private sector entities involved in oil supply chains and with governments through private-public sector partnerships and dialogue. Private-public partnerships around energy sanctions evasion can create dialogue around typologies, trends, and risks around the issue and policy recommendations to solve for them. 
+
+
+In addition to a greater emphasis on sanctions enforcement, the United States and its allies should take energy demand into account when developing energy sanctions. As we have outlined, oil cargos will go where there is demand, often despite sanctions or other restrictive measures. Through economic and market analysis, governments can identify and anticipate where sanctioned oil may go based on demand. With this information, governments may be able to get out ahead of potential sanctions evasion by providing incentives via trade deals or development financing opportunities to countries with the highest oil demands. Being able to assess where sanctioned oil is likely to go will also help governments adjust sanctions as needed to ensure sanctions effectiveness and enforcement.
+
+
+Finally, as with other national security tools, sanctions do not work alone. They must be part of broader national security strategies and work in concert with other government tools including diplomacy, international assistance and capacity building with affected third countries, law enforcement actions, intelligence operations, military support, and military intervention as a last resort.
+
+
+The recent sanctions on Russia’s oil companies may serve as solid test case. The objective is clear: to pressure Putin to end the war and negotiate a peace deal. The threat of secondary sanctions has sent a strong message to China and India, which are reportedly 
+suspending oil contracts
+ and moving away from Russian oil. However, policymakers must be willing to enforce the sanctions to ensure their success and compel Putin to end the war. The United States and its allies should be on the lookout for where and how sanctioned Russian oil will move next. 
+
+
+
+
+
+
+Housed within the GeoEconomics Center, the 
+Economic Statecraft Initiative (ESI)
+ publishes leading-edge research and analysis on sanctions and the use of economic power to achieve foreign policy objectives and protect national security interests.
+
+
+
+
+
+
+
+
+The 
+Global Energy Center
+ develops and promotes pragmatic and nonpartisan policy solutions designed to advance global energy security, enhance economic opportunity, and accelerate pathways to net-zero emissions.
+
+
+
+
+
+
+
+
+Image: Oil tankers ship at sea on a background of sunset sky. Oil tankers in the ocean. Early in the morning, the sunrise sky. South Africa. Mossel Bay

@@ -29,8 +29,7 @@
     "metadata",
     "archived_historical_content",
     "open_source_intelligence",
-    "web_archives_cached_content",
-    "ai_generated_summaries_derived_intelligence"
+    "web_archives_cached_content"
   ],
   "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
   "title": null,
@@ -38,8 +37,8 @@
   "published": null,
   "sha256": "a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438",
   "content_type": "application/zip",
-  "collected_at": "2026-05-22T00:04:19.398930+00:00",
+  "collected_at": "2026-05-22T04:08:17.008353+00:00",
   "text_chars": 238,
-  "raw_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
-  "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
+  "raw_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
+  "text_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
 }

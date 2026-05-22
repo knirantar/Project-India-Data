@@ -29,8 +29,7 @@
     "metadata",
     "archived_historical_content",
     "open_source_intelligence",
-    "web_archives_cached_content",
-    "ai_generated_summaries_derived_intelligence"
+    "web_archives_cached_content"
   ],
   "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
   "title": null,
@@ -38,8 +37,8 @@
   "published": null,
   "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
   "content_type": "application/pdf",
-  "collected_at": "2026-05-22T00:04:25.597970+00:00",
+  "collected_at": "2026-05-22T04:08:20.616747+00:00",
   "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "raw_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
+  "text_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
 }

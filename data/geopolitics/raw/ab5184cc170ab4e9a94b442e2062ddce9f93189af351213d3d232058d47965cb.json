@@ -29,8 +29,7 @@
     "metadata",
     "archived_historical_content",
     "open_source_intelligence",
-    "web_archives_cached_content",
-    "ai_generated_summaries_derived_intelligence"
+    "web_archives_cached_content"
   ],
   "url": "https://www.cia.gov/the-world-factbook/",
   "title": null,
@@ -38,8 +37,8 @@
   "published": null,
   "sha256": "ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb",
   "content_type": "text/html",
-  "collected_at": "2026-05-22T00:04:19.457825+00:00",
+  "collected_at": "2026-05-22T04:08:20.633443+00:00",
   "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.html",
-  "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt"
+  "raw_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.html",
+  "text_path": "/Users/nirantarkulkarni/Desktop/Project-India-Data/data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt"
 }
