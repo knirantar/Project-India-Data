@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30",
-  "content_type": "application/xml",
-  "collected_at": "2026-05-22T17:05:17.271244+00:00",
-  "text_chars": 824889,
-  "raw_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.xml",
-  "text_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.txt"
+  "url": "https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-world-4025-rdf",
+  "title": "US or Iran: Who will win the Hormuz endurance game?",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-05-22T15:38:00Z",
+  "sha256": "afcc510ebc320c0cf4c83c524799e2ef7715a7f2721d98ef278c35c133b73523",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-22T17:06:19.335155+00:00",
+  "text_chars": 6006,
+  "raw_path": "data/geopolitics/raw/afcc510ebc320c0cf4c83c524799e2ef7715a7f2721d98ef278c35c133b73523.html",
+  "text_path": "data/geopolitics/raw/afcc510ebc320c0cf4c83c524799e2ef7715a7f2721d98ef278c35c133b73523.txt"
 }

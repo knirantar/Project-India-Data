@@ -1,0 +1,108 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-22T17:06:27.908336+00:00",
+  "new_documents": 16,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt",
+      "metadata_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.txt",
+      "metadata_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.txt",
+      "metadata_path": "data/geopolitics/raw/805fac9d263ef91a742666ca73790e2fed901261f7c0f1a461d837dd68df1d30.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt",
+      "metadata_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.json"
+    },
+    {
+      "title": "Marco Rubio: Trump ‘disappointment’ with Nato will be discussed at summit",
+      "url": "https://www.theguardian.com/world/2026/may/22/marco-rubio-trump-disappointment-with-nato-will-be-discussed-at-summit",
+      "text_path": "data/geopolitics/raw/793eac208a8c86409edefa70e9f722d9e55edd956314fddf3346fe6d04257be6.txt",
+      "metadata_path": "data/geopolitics/raw/793eac208a8c86409edefa70e9f722d9e55edd956314fddf3346fe6d04257be6.json"
+    },
+    {
+      "title": "Gaza flotilla activists allege sexual assault and rape in Israeli detention",
+      "url": "https://www.theguardian.com/world/2026/may/22/gaza-flotilla-activists-allege-sexual-assault-and-in-israeli-detention",
+      "text_path": "data/geopolitics/raw/7eaf5f082bf33113153e8f21fb7457af43228e2617dcf50ff5a01a23e7cabbea.txt",
+      "metadata_path": "data/geopolitics/raw/7eaf5f082bf33113153e8f21fb7457af43228e2617dcf50ff5a01a23e7cabbea.json"
+    },
+    {
+      "title": "US or Iran: Who will win the Hormuz endurance game?",
+      "url": "https://www.dw.com/en/us-or-iran-who-will-win-the-hormuz-endurance-game/a-77211690?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/afcc510ebc320c0cf4c83c524799e2ef7715a7f2721d98ef278c35c133b73523.txt",
+      "metadata_path": "data/geopolitics/raw/afcc510ebc320c0cf4c83c524799e2ef7715a7f2721d98ef278c35c133b73523.json"
+    },
+    {
+      "title": "Gaza flotilla: Activists allege abuse, sexual assault on return from Israel",
+      "url": "https://www.france24.com/en/video/20260522-gaza-flotilla-activists-allege-abuse-sexual-assault-on-return-from-israel",
+      "text_path": "data/geopolitics/raw/3fa68d80a33505a929ff69d14957e8a97c1929c088421b2f0047820097827aca.txt",
+      "metadata_path": "data/geopolitics/raw/3fa68d80a33505a929ff69d14957e8a97c1929c088421b2f0047820097827aca.json"
+    },
+    {
+      "title": "Gaza: Life-saving medicines blocked as killing continues, disease gains ground (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-05-2026-UNICEF-Gaza-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/a842437e23428225ebc969e1f225f101b35d724f2e2a5fa2e3b1f4651409d9f9.txt",
+      "metadata_path": "data/geopolitics/raw/a842437e23428225ebc969e1f225f101b35d724f2e2a5fa2e3b1f4651409d9f9.json"
+    },
+    {
+      "title": "Libya and Syria join Turkey’s flagship military exercise in historic firsts",
+      "url": "https://www.defensenews.com/global/europe/2026/05/22/libya-and-syria-join-turkeys-flagship-military-exercise-in-historic-firsts/",
+      "text_path": "data/geopolitics/raw/7046d2f399624633266c532a9ddb52f5600d1ec595e1dfd98b721156c93d7702.txt",
+      "metadata_path": "data/geopolitics/raw/7046d2f399624633266c532a9ddb52f5600d1ec595e1dfd98b721156c93d7702.json"
+    }
+  ],
+  "txt_before": 254,
+  "txt_after": 260
+}
