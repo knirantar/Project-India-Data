@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/9b35489a-8c21-5d5c-9fdb-d55c91730669/Escalation_in_the_Middle_East_R11_12_18_May.pdf",
+  "title": "Iran: Escalation in the Middle East and Beyond — Mobility Report (12 - 18 May 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 22 May 2026 04:03:38 +0000",
+  "sha256": "ea29d1a042a1c05756a71df645df830e1a0e9cad7555ee6aec15ccb330496692",
   "content_type": "application/pdf",
-  "collected_at": "2026-05-22T08:20:38.526180+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-05-22T08:20:44.592560+00:00",
+  "text_chars": 31318,
+  "raw_path": "data/geopolitics/raw/ea29d1a042a1c05756a71df645df830e1a0e9cad7555ee6aec15ccb330496692.pdf",
+  "text_path": "data/geopolitics/raw/ea29d1a042a1c05756a71df645df830e1a0e9cad7555ee6aec15ccb330496692.txt"
 }

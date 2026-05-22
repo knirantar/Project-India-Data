@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-22T08:20:38.526180+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://thediplomat.com/2026/05/southeast-asias-mandalas-of-multialignment/",
+  "title": "Southeast Asia’s Mandalas of Multialignment",
+  "source": "https://thediplomat.com/feed/",
+  "published": "Tue, 19 May 2026 04:25:00 +0900",
+  "sha256": "564f13afbb6bfa6a532e83589d3dc24e6461ae09aa13cf5fbbc1520fca8080bf",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-22T08:21:21.125241+00:00",
+  "text_chars": 1709,
+  "raw_path": "data/geopolitics/raw/564f13afbb6bfa6a532e83589d3dc24e6461ae09aa13cf5fbbc1520fca8080bf.html",
+  "text_path": "data/geopolitics/raw/564f13afbb6bfa6a532e83589d3dc24e6461ae09aa13cf5fbbc1520fca8080bf.txt"
 }
