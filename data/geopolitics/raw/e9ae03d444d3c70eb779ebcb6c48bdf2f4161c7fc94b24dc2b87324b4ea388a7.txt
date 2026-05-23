@@ -1,0 +1,120 @@
+Only hours before 
+Donald Trump
+ was set to sign a long-awaited executive order on Thursday that would have called for a government safety review of new 
+artificial intelligence
+ models before their release, the president abruptly 
+backed out
+. Despite growing public backlash to the technology and experts warning new models will pose critical security risks, Trump vowed the US government would not slow down the AI race.
+During a meeting with reporters on Thursday, Trump cited both American dominance and competition with China and as his reasoning behind the reversal.
+“I didn’t like certain aspects of it, I postponed it,” Trump said of the executive order in the Oval Office. “We’re leading China, we’re leaving everybody, and I don’t want to do anything that’s gonna get in the way of that lead.”
+Trump’s postponing of the order was a victory for tech leaders who have 
+long
+ opposed AI regulation and 
+spent millions
+ lobbying 
+against it
+. The decision was also the direct result of their influence, according to reports from 
+multiple
+ 
+news
+ 
+outlets
+, with tech billionaires including Elon Musk, Mark Zuckerberg and former White House “AI czar” David Sacks personally urging Trump to reverse course in private phone calls.
+After a brief period in which the 
+White House
+ appeared concerned enough about potential security implications to consider restraints on frontier AI, Trump’s decision marks a return to his own earlier 
+hands-off approach
+ and signals a laissez-faire future. The tech industry retains its ability to pursue rapid advancement of AI regardless of the potential harms, and Silicon Valley’s leaders have successfully tested their power to kill any attempts at regulation in infancy.
+Powerful cybersecurity AI forces White House to consider regulation
+White House discussions around the order began after Anthropic last month announced its latest model, 
+Claude Mythos
+, but declared that it would hold off on publicly releasing it 
+due to safety concerns
+ – calling the model’s ability to find 
+vulnerabilities
+ in computer code a “reckoning” for the cybersecurity industry. Mythos sparked a small geopolitical crisis, with governments from the UK to India to China worrying the AI model could target financial systems and other critical infrastructure.
+The security risks posed by Mythos were also not a one-off. The capabilities of one company’s AI model are historically matched by other firms in the ensuing months, sometimes eventually becoming available in open-source models, which can have fewer restrictions on how they are deployed. Mythos may be unique in its potential harms, but only for now. 
+OpenAI
+ announced a cybersecurity AI product not long after Mythos debuted.
+The White House reaction to Mythos, which included JD Vance 
+calling the heads of AI firms
+ to urge cooperation, signaled a potential shift from the administration’s long-held view that the US should advance AI 
+as fast
+ and with as little restriction as possible in order to maintain a global lead in the technology. Only last year, Vance had proclaimed at an international summit that “the AI future is not going to be won by hand-wringing about safety”.
+Though the extent of Mythos’ capabilities is not known to the public, it appeared to have spooked the White House enough to consider some hand-wringing may, in fact, be necessary. But hat stance directly conflicted with the interests of much of the AI industry, which has closely aligned itself with the administration and 
+collectively
+ 
+donated
+ hundreds of millions to Republican political causes.
+In turn, the AI industry has greatly benefitted from Trump’s anti-regulation stance. The president has 
+publicly
+ 
+embraced
+ industry leaders including OpenAI CEO Sam Altman while appointing others such as 
+Musk
+ and 
+Sacks
+ to prominent government positions. In December the president 
+signed an executive order
+ seeking to block any state attempts on regulating AI, giving well-worn tech industry talking points about opposing bureaucracy and combating China as his rationale.
+AI companies lobby to kill order for voluntary review
+Soon after discussions of an executive order began, companies including Microsoft and Google appeared to submit to more overview and 
+struck a deal
+ to allow the government’s AI standards agency to review early versions of their models on national security grounds – though crucially only on a non-binding, voluntary basis. In private meetings, industry officials 
+also began lobbying
+ to weaken Trump’s potential order, which would have created another voluntary government review process for new models.
+This week’s planned executive order would have carried no legal weight to force AI companies to submit their models for review, and it falls miles behind what AI safety advocates have proposed. The minimal increase in oversight was still enough to cause a last-minute flurry to kill the directive. Sacks, the billionaire tech investor and former adviser to the administration, told Trump this week that the order would benefit China in the AI race, 
+according to Politico
+. Musk and Zuckerberg, the Washington Post 
+reported
+, warned the president the order would hurt the economy and US advantage in AI. Musk posted a denial of the report on X, his social media platform, saying he only talked to Trump after the president decided to cancel the order.
+A draft of the proposed order highlights just how watered-down the jettisoned order would have been, with explicit assurances that it would not “stifle this innovation with overly burdensome regulation”.
+“Nothing in this section shall be construed to authorize the creation of a mandatory governmental licensing, preclearance, or permitting requirement for the development, publication, release, or distribution of new AI models, including frontier models,” the draft order stated, according to a 
+copy obtained by Politico
+.
+Future AI regulation appears unlikely
+Less than a month after the first reports that the White House was 
+considering
+ vetting AI models, the prospect of the Trump administration creating any stringent AI regulations once again appears extremely unlikely. The threat of a global breakdown in 
+cybersecurity
+ joins 
+disinformation
+, 
+mass surveillance
+, 
+autonomous warfare
+, labor market disruption, 
+child abuse material
+, 
+nonconsensual
+ 
+sexualized images
+, 
+suicides
+, 
+mass
+ 
+shootings
+, 
+environmental
+ 
+damage
+ and a range of other potential harms linked to AI that have failed to spur any cohesive White House plans to rein in the technology.
+The extent of influence that tech leaders maintain over the Trump administration also has the potential to keep growing as 
+midterm elections
+ approach and Silicon Valley 
+pours
+ 
+money
+ into campaigns. Super Pacs such as 
+Leading the Future
+, which is backed by Greg Brockman, OpenAI’s president, and has amassed more than $125m, are set to spend huge sums pushing anti-regulation candidates and policies. Musk, who claimed last year he would 
+step away
+ from political donations, is also back 
+pouring tens of millions
+ into Republican, pro-tech causes.
+As many of these tech leaders have pivoted their entire companies and investments toward AI, in 
+the case of SpaceX
+ and 
+OpenAI
+ also making it central to their trillion-dollar public offerings this year, even a hint of regulation looks like a threat to gargantuan financial gain.

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb",
-  "content_type": "text/html",
-  "collected_at": "2026-05-23T14:56:40.649464+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.html",
-  "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt"
+  "url": "https://www.dw.com/en/who-will-win-as-new-alliances-emerge-in-middle-east/a-77246663?maca=en-rss-en-world-4025-rdf",
+  "title": "Who will 'win' as new alliances emerge in Middle East?",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-05-22T20:15:00Z",
+  "sha256": "55f4741992c0565e322defcdc9cdeb0da25a54a856555cb95e1c74fe2dfb26cc",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-23T14:57:01.222638+00:00",
+  "text_chars": 8440,
+  "raw_path": "data/geopolitics/raw/55f4741992c0565e322defcdc9cdeb0da25a54a856555cb95e1c74fe2dfb26cc.html",
+  "text_path": "data/geopolitics/raw/55f4741992c0565e322defcdc9cdeb0da25a54a856555cb95e1c74fe2dfb26cc.txt"
 }
