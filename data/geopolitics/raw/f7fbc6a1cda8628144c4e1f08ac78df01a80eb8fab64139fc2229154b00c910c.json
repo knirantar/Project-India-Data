@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-23T02:54:53.754303+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://thediplomat.com/2026/05/japans-frigate-diplomacy-and-what-it-could-mean-for-taiwan/",
+  "title": "Japan’s Frigate Diplomacy — and What It Could Mean for Taiwan",
+  "source": "https://thediplomat.com/feed/",
+  "published": "Mon, 25 May 2026 01:31:00 +0900",
+  "sha256": "f7fbc6a1cda8628144c4e1f08ac78df01a80eb8fab64139fc2229154b00c910c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-23T02:55:09.543612+00:00",
+  "text_chars": 8342,
+  "raw_path": "data/geopolitics/raw/f7fbc6a1cda8628144c4e1f08ac78df01a80eb8fab64139fc2229154b00c910c.html",
+  "text_path": "data/geopolitics/raw/f7fbc6a1cda8628144c4e1f08ac78df01a80eb8fab64139fc2229154b00c910c.txt"
 }
