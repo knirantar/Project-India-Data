@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-23T23:51:15.442198+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "http://www.euronews.com/2026/05/23/trump-says-agreement-to-end-iran-war-largely-negotiated",
+  "title": "Trump says agreement to end Iran war 'largely negotiated'",
+  "source": "https://www.euronews.com/rss?level=theme&name=news",
+  "published": "Sat, 23 May 2026 23:38:25 +0200",
+  "sha256": "c70213ecb00576303b6a00511ce4adce7b816f886458a7a85c92b3c30378fa1a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-23T23:51:32.305129+00:00",
+  "text_chars": 3169,
+  "raw_path": "data/geopolitics/raw/c70213ecb00576303b6a00511ce4adce7b816f886458a7a85c92b3c30378fa1a.html",
+  "text_path": "data/geopolitics/raw/c70213ecb00576303b6a00511ce4adce7b816f886458a7a85c92b3c30378fa1a.txt"
 }
