@@ -1,0 +1,78 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-24T06:32:34.589528+00:00",
+  "new_documents": 11,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt",
+      "metadata_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.txt",
+      "metadata_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ff58d6f6d05ea6833cc5b19f365448f9935a85be76eb0cb51eb3fa470208b548.txt",
+      "metadata_path": "data/geopolitics/raw/ff58d6f6d05ea6833cc5b19f365448f9935a85be76eb0cb51eb3fa470208b548.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt",
+      "metadata_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.json"
+    },
+    {
+      "title": "Middle East war live: Pakistan offers to host next Iran-US peace talks 'very soon'",
+      "url": "https://www.france24.com/en/middle-east/20260524-middle-east-war-live-pakistan-offers-to-host-next-iran-us-peace-talks-very-soon",
+      "text_path": "data/geopolitics/raw/d60b46d093e6bcd4382fa6ed5610fe6e0b6eb1d8a6eef57f363ec15f56975e72.txt",
+      "metadata_path": "data/geopolitics/raw/d60b46d093e6bcd4382fa6ed5610fe6e0b6eb1d8a6eef57f363ec15f56975e72.json"
+    }
+  ],
+  "txt_before": 290,
+  "txt_after": 291
+}
