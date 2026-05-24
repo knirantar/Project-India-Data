@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1",
-  "content_type": "text/xml",
-  "collected_at": "2026-05-24T09:16:07.796450+00:00",
-  "text_chars": 9071064,
-  "raw_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.xml",
-  "text_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.txt"
+  "url": "https://reliefweb.int/report/afghanistan/afghanistan-humanitarian-update-march-and-april-2026",
+  "title": "Afghanistan: Humanitarian Update, March and April 2026",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sun, 24 May 2026 08:08:20 +0000",
+  "sha256": "95f33fd327c98e1e0575f601665fa59eaddcb6739123b6e11cdd871398da4f70",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-24T09:16:15.859292+00:00",
+  "text_chars": 14946,
+  "raw_path": "data/geopolitics/raw/95f33fd327c98e1e0575f601665fa59eaddcb6739123b6e11cdd871398da4f70.html",
+  "text_path": "data/geopolitics/raw/95f33fd327c98e1e0575f601665fa59eaddcb6739123b6e11cdd871398da4f70.txt"
 }

@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/40a5a4e6-4cd5-4de3-8fb4-e3755c9e0d96/March%20and%20April%20Humanitarian%20Update%202026.pdf",
+  "title": "Afghanistan: Humanitarian Update, March and April 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sun, 24 May 2026 08:08:20 +0000",
+  "sha256": "75fbc25ed353bc7d7e192b48629c28c3795549f7eede806ea4d331e7eee9a6d5",
   "content_type": "application/pdf",
-  "collected_at": "2026-05-24T09:16:09.869110+00:00",
-  "text_chars": 174113,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-05-24T09:16:15.962823+00:00",
+  "text_chars": 16478,
+  "raw_path": "data/geopolitics/raw/75fbc25ed353bc7d7e192b48629c28c3795549f7eede806ea4d331e7eee9a6d5.pdf",
+  "text_path": "data/geopolitics/raw/75fbc25ed353bc7d7e192b48629c28c3795549f7eede806ea4d331e7eee9a6d5.txt"
 }
