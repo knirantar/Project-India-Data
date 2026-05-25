@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ff58d6f6d05ea6833cc5b19f365448f9935a85be76eb0cb51eb3fa470208b548",
-  "content_type": "application/xml",
-  "collected_at": "2026-05-25T14:37:41.334513+00:00",
-  "text_chars": 824889,
-  "raw_path": "data/geopolitics/raw/ff58d6f6d05ea6833cc5b19f365448f9935a85be76eb0cb51eb3fa470208b548.xml",
-  "text_path": "data/geopolitics/raw/ff58d6f6d05ea6833cc5b19f365448f9935a85be76eb0cb51eb3fa470208b548.txt"
+  "url": "https://www.theguardian.com/business/2026/may/25/oil-prices-fall-below-100-dollars-a-barrel-iran",
+  "title": "Oil prices fall below $100 a barrel on hopes of Iran peace deal",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Mon, 25 May 2026 12:43:34 GMT",
+  "sha256": "9b1261da27478f6806309aac7530a771b4b56e29809a6c1c2ba0e98f0a603eaf",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-25T14:38:58.488540+00:00",
+  "text_chars": 3063,
+  "raw_path": "data/geopolitics/raw/9b1261da27478f6806309aac7530a771b4b56e29809a6c1c2ba0e98f0a603eaf.html",
+  "text_path": "data/geopolitics/raw/9b1261da27478f6806309aac7530a771b4b56e29809a6c1c2ba0e98f0a603eaf.txt"
 }
