@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae",
-  "content_type": "text/xml",
-  "collected_at": "2026-05-25T11:46:20.978685+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.xml",
-  "text_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt"
+  "url": "https://www.npr.org/2026/05/25/nx-s1-5833671/muslims-begin-annual-hajj",
+  "title": "Muslims begin the annual Hajj against a backdrop of war concerns",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Mon, 25 May 2026 03:05:02 -0400",
+  "sha256": "1cb877b8880dc3dc4545f7b251c7fb50843d17224d82c7dfee155674aa4599aa",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-25T11:47:20.569488+00:00",
+  "text_chars": 4904,
+  "raw_path": "data/geopolitics/raw/1cb877b8880dc3dc4545f7b251c7fb50843d17224d82c7dfee155674aa4599aa.html",
+  "text_path": "data/geopolitics/raw/1cb877b8880dc3dc4545f7b251c7fb50843d17224d82c7dfee155674aa4599aa.txt"
 }
