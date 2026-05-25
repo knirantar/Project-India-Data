@@ -1,0 +1,16 @@
+Executive summary
+
+
+The resurgence of mpox in multiple African countries since 2022 has highlighted urgent gaps in preparedness, detection, and response capacities across the continent. While the mpox outbreak was initially classified as a Public Health Emergency of International Concern (PHEIC) and a Public Health Emergency of Continental Security (PHECS), the risk of continued transmission in high-risk areas of Africa remains significant, particularly due to persistent zoonotic reservoirs, cross-border spread, and fragile surveillance systems.
+
+
+In response, the Joint Continental Incident Management Support Team (IMST), co-led by WHO AFRO and Africa CDC with contributions from key partners, initiated the development of this Continental Mpox Surveillance Strategy. The goal is to provide a harmonized, adaptable, and sustainable framework that guides African Union Member States in strengthening mpox surveillance capacities, integrating mpox monitoring into routine national systems, and preparing for future outbreaks in line with International Health Regulations (IHR 2005) and the IDSR framework.
+
+
+This strategy outlines core components of effective mpox surveillance including alert detection, case investigation, laboratory confirmation, contact tracing, community-based surveillance, health information management, One Health coordination, and cross-border surveillance. It offers a roadmap tailored to countries’ epidemiological status, surveillance maturity, and operational context, and provides actionable tools, SOPs, and benchmarks to guide implementation.
+
+
+By leveraging lessons learned during the 2022–2025 continental response and aligning with existing WHO and Africa CDC guidelines, this strategy aims to transition mpox surveillance from reactive emergency response to a proactive, integrated component of national health security systems. It calls for enhanced partner coordination, investment in digital surveillance and genomic capacities, and strong engagement at the community and cross-border levels.
+
+
+This strategy will facilitate Member States and partner’s coordination towards achieving a resilient African surveillance ecosystem that detects mpox and other emerging threats early, responds effectively, and ultimately protects the health and well-being of populations across the continent.

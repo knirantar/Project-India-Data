@@ -1,0 +1,2917 @@
+AFRICA CONTINENTAL  
+MPOX SURVEILLANCE  
+STRATEGY
+MAY 2026
+The Incident Management Support Team 
+(IMST) is Africa’s continental effort co-led by 
+Africa CDC and WHO, that collaborates with 
+ministries of Health, regional partners, and 
+global stakeholders to expand vaccination 
+efforts, enhance diagnostic access, and 
+strengthen health system resilience.
+Incident Management Support Team
+Contents
+Abbreviations iii
+List of Contributors v
+Executive summary vi
+I. Background and context of mpox in Africa 1
+II. Challenges of mpox surveillance in Africa 2
+III. Purpose and objectives of the strategy 3
+Purpose 3
+Main objective 3 
+IV. Categorization of countries based on epidemiological status 4
+Category 1: Endemic countries 4
+Category 2: Non-endemic countries with active outbreak 4
+Category 3: Non-endemic countries with controlled or no local transmission 5
+Modalities of reclassification 5
+V. Mpox surveillance strategic actionsbased on epidemiological thresholds  5
+VI. Roadmap for the implementation of the surveillance strategy 8
+1. Partner and stakeholder mapping 8
+2. Establishing sustainable coordination mechanism and roles 8
+3. Establishing baselines, monitoring, evaluation and accountability framework 8
+VII. Monitoring, evaluation and accountability framework 11
+Tier 1: Core operational KPIs (Weekly / Dailyduring active outbreaks) 11
+Tier 2: System performance KPIs (Monthly / quarterly) 13
+Relationship between Tier 1 and Tier 2 KPIs 14
+Tools and methods for monitoring progress 14
+VIII. Integration and institutionalization of mpox surveillance 15
+VIII.  Operational Gap-to-Action framework for mpox surveillance integration (0–12 Months) 18
+IX.  Governance of mpox surveillance beyond emergency activation 21
+1. Governance principles 21
+2. National-level governance arrangements 21
+3. Subnational governance and decision authority 21
+4. Graded escalation and relationship to emergency activation 21
+5. Continental and regional governance 22
+6. Cross-border and multi-country governance 22
+7. Accountability and review mechanisms 22
+Annexes 23
+Annex 1: Threshold Criteria for Mpox Endemicity Classification  23
+Annex 2: Mpox surveillance tools 25
+Annex 3: Key surveillance areas and partner support actions 26
+Annex 4: Summary matrix of mpox surveillance strategies by epidemiological category 28
+Annex 5: Glossary of terms  30
+iii
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+4W Who–What–Where–When (partner mapping)
+AFRO WHO Regional Office for Africa
+API Application Programming Interface
+API/HL7 API and Health Level Seven standards
+CBS Community-Based Surveillance
+CBS/EBS Communityand Event-Based Surveillance
+CDC U.S. Centers for Disease Control and Prevention
+CEPI Coalition for Epidemic Preparedness Innovations
+CFR Case Fatality Rate
+CIF Case Investigation Form
+CITES Convention on International Trade in Endangered Species
+CRF Case Report Form
+CSR Corporate Social Responsibility
+DHIS2 District Health Information Software v2
+DQA Data Quality Assessment
+DRC Democratic Republic of the Congo
+EBS Event-Based Surveillance
+EPR Emergency Preparedness and Response
+EPRU Emergency Preparedness and Response Unit
+EPHI Ethiopian Public Health Institute
+EWARS Early Warning, Alert and Response System
+FAO Food and Agriculture Organization of the UN
+GIS Geographic Information System
+HCW Health Care Worker
+HIS Health Information System
+HL7 Health Level Seven
+HMIS Health Management Information System
+IAR Intra-Action Review
+IDSR Integrated Disease Surveillance and Response
+IFRC International Federation of Red Cross and Red Crescent Societies
+IHR (2005) International Health Regulations (2005)
+IM Incident Management (System)
+IMS Incident Management System
+IMST Incident Management Support Team
+Abbreviations
+iv
+INCIDENT MANAGEMENT SUPPORT TEAM
+KPI / KPIs Key Performance Indicator(s)
+KNPHI Kenya National Public Health Institute
+LIMS Laboratory Information Management System
+LIS Laboratory Information System
+LMIS Logistics Management Information System
+M&E Monitoring & Evaluation
+MDS Minimum Data Set
+MHPSS Mental Health and Psychosocial Support
+MoH Ministry of Health
+MPXV Mpox virus (formerly monkeypox virus)
+NCDC Nigeria Centre for Disease Control and Prevention
+NMC Notifiable Medical Conditions
+NPHI National Public Health Institute
+OCHA UN Office for the Coordination of Humanitarian Affairs
+PHEIC Public Health Emergency of International Concern
+PHERP Public Health Emergency Preparedness and Response Plan
+PoE / PoEs Point(s) of Entry
+PPE Personal Protective Equipment
+RCCE Risk Communication and Community Engagement
+REC / RECs Regional Economic Community(ies)
+RRT Rapid Response Team
+SIMAR National Animal Disease Information System (aligned with WOAH)
+SMS Short Message Service
+SOP Standard Operating Procedure
+SORMAS Surveillance Outbreak Response Management and Analysis System
+TAT Turnaround Time (laboratory)
+TG Technical Guidance / Guideline
+TWG Technical Working Group
+UNICEF United Nations Children’s Fund
+WHO World Health Organization
+WOAH World Organization for Animal Health (formerly OIE)
+v
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+1. Muteba Michel (WHO AFRO)
+2. Kyeng Mercy (Africa CDC)
+3. Yap Boum II (Africa CDC)
+4. Thierno Balde (WHO AFRO)
+5. Wilson Johwa (Africa CDC)
+6. Maryam Ibrahim Buba (Africa CDC)
+7. Wazih Nji Cho (Africa CDC)
+8. Olaniyi Felix  Sanni (WHO AFRO)
+9. Alhassan Kanu (WHO AFRO)
+10. Anna Hoxha (WHO Geneva)
+11. Usman Shehu (Africa CDC)  
+12. Abraham Alemayehu (Africa CDC)
+13. Haruna Issaka (Africa CDC)
+14. Victor DelRio Villas (UKHSA)
+15. Dougbeh Chris Nyah (National Public Health 
+Institute, Liberia)
+16. Ralph W.Jetoh, (National Public Health Institute, 
+Liberia) 
+17. Yakaria Toure (National Agency for Health 
+Security, Guinea)
+18. Bah Ibrahima (National Agency for Health Security, 
+Guinea)
+19. Danny Kalala (Ministry of Health, Democratic 
+Republic of Congo)
+20. Mata Mapombo Monzembela José (Ministry of 
+Health, Democratic Republic of Congo)
+21. Tamane Gouali Anthony ( INHP Cote d’Ivoire)
+22. N’Guette Nianke Emilienne (INHP Cote d’Ivoire)
+23. Austin Chibisa Zgambo (National Public Health 
+Institute, Malawi)
+24. James Jere, (National Public Health Institute, 
+Malawi)
+25. Medhanye Habtetsion (Ethiopian Public Health 
+Institute)
+26. Mikias Alemu Alayu (Ethiopian Public Health 
+Institute)
+27. Oliver Commey (Ghana Health service)
+28. Farida Abdulai (Ghana Health Services)
+29. Jabir Seidu (Ghana Health Services)
+30. Gideon Kwarteng Acheampong (Ghana Health 
+Services)
+31. Gnekoumou Libaba Youssef Ludovic Hervé 
+(Ministry of Health, Congo)
+32. Nanga Gilbert Aristide (Ministry of Health, Congo)
+33. Mandeng Nadia Jacqueline (Ministry of Health, 
+Cameroon)
+34. Barivuma Eugénie (Ministry of Health, Burundi)
+35. Freddy Nyabenda (Ministry of Health, Burundi)
+36. Kourkou Kpante Kissaou (Ministry of Health, Togo)
+37. Anoumou Dangra (Ministry of Health, Togo)
+38. Catarina Maguni Mavimbe (Ministry of Health 
+Mozambique)
+39. Clementina Mabuza, (Ministry of Health 
+Mozambique)
+40. Bernard Lubwama, Deputy Incident Commander – 
+(Ministry of Health Uganda)
+41. Ebong Moses, (Ministry of Health Uganda)
+42. Danstan Pascal Ngenzi – (Ministry of Health 
+Tanzania)
+43. Saumu Nungu (Ministry of Health Tanzania)
+44. Ndonye Francis Muoka – (National Public Health 
+Institute, Kenya)
+45. Samuel Kadivane (National Public Health Institute 
+Kenya)
+46. Kalthan Ernest (Ministry of Health, Central Africa 
+Republic)
+47. Pathe Mo-Ndang Nenso née Erepe Gladys 
+(Ministry of Health, Central Africa Republic)
+48. Davie Simwaba (National Public Health Institute, 
+Zambia)
+49. Joseph Sam Kanu, National Public Health Agency, 
+MoH, Sierra Leone
+50. Fatima Saleh (Nigeria Center for Disease Control 
+and Prevention)
+51. Odianosen Ehiakhamen (Nigeria Center for Disease 
+Control and Prevention)
+52. Eunice Baiden Laryea, Technical Advisor, US CDC 
+Ghana
+53. Ernest P. Nyame-Annan, Ghana Red Cross Society, 
+Ghana
+54. Esther Odome-Adiedu (Palladium)
+55. Elizabeth Gonese, International Federation of Red 
+Cross and Red Crescent (IFRC), Nairobi
+56. Martine Nkurikiye (International Federation of Red 
+Cross and Red Crescent)
+57. Thomas Aapore, International Federation of Red 
+Cross and Red Crescent (IFRC), Ghana
+58. Argata Guracha Guyo, WHO Ghana, Ghana
+59. Neil Saad Duque (GAVI)
+List of Contributors
+vi
+INCIDENT MANAGEMENT SUPPORT TEAM
+Executive summary
+The resurgence of mpox in multiple African countries 
+since 2022 has highlighted urgent gaps in prepared-
+ness, detection, and response capacities across 
+the continent. While the mpox outbreak was initially 
+classified as a Public Health Emergency of Interna-
+tional Concern (PHEIC) and a Public Health Emergency 
+of Continental Security (PHECS), the risk of continued 
+transmission in high-risk areas of Africa remains signif-
+icant, particularly due to persistent zoonotic reservoirs, 
+cross-border spread, and fragile surveillance systems.
+In response, the Joint Continental Incident Manage-
+ment Support Team (IMST), co-led by WHO AFRO 
+and Africa CDC with contributions from key partners, 
+initiated the development of this Continental Mpox Sur-
+veillance Strategy. The goal is to provide a harmonized, 
+adaptable, and sustainable framework that guides 
+African Union Member States in strengthening mpox 
+surveillance capacities, integrating mpox monitoring 
+into routine national systems, and preparing for future 
+outbreaks in line with International Health Regulations 
+(IHR 2005) and the IDSR framework.
+This strategy outlines core components of effective 
+mpox surveillance including alert detection, case 
+investigation, laboratory confirmation, contact tracing, 
+community-based surveillance, health information 
+management, One Health coordination, and cross-bor-
+der surveillance. It offers a roadmap tailored to coun-
+tries' epidemiological status, surveillance maturity, 
+and operational context, and provides actionable tools, 
+SOPs, and benchmarks to guide implementation.
+By leveraging lessons learned during the 2022–2025 
+continental response and aligning with existing WHO 
+and Africa CDC guidelines, this strategy aims to 
+transition mpox surveillance from reactive emergen-
+cy response to a proactive, integrated component of 
+national health security systems. It calls for enhanced 
+partner coordination, investment in digital surveillance 
+and genomic capacities, and strong engagement at the 
+community and cross-border levels.
+This strategy will facilitate Member States and 
+partner’s coordination towards achieving a resilient 
+African surveillance ecosystem that detects mpox and 
+other emerging threats early, responds effectively, 
+and ultimately protects the health and well-being of 
+populations across the continent.
+1
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+I. Background and context of mpox in Africa
+Figure 1: Distribution of 
+MPXV clades on the African 
+continent
+Mpox, historically endemic to Central and West Africa, 
+has necessitated a dynamic shift in continental surveil-
+lance systems, moving from localized, passive moni-
+toring of animal-to-human spillover to a coordinated, 
+proactive, and continent-wide alarm system in response 
+to evolving viral threats.
+Before the 2022 global outbreak, mpox surveillance 
+in endemic nations like the Democratic Republic of 
+Congo (DRC), Nigeria, and Central African Republic 
+was predominantly passive. Surveillance relied on 
+healthcare workers reporting suspected cases of 
+febrile rash illness, typically in rural and forest-adjacent 
+communities where zoonotic transmission was most 
+common. This routine monitoring was often integrated 
+into the established Integrated Disease Surveillance 
+and Response (IDSR) framework, an existing structure 
+used by African nations to track priority diseases. This 
+approach was adequate for managing sporadic cases 
+and localized outbreaks tied to animal exposure. The 
+global emergence of the Clade IIb outbreak in May 2022, 
+primarily characterized by human-to-human transmis-
+sion through sexual networks outside of Africa, spurred 
+a critical re-evaluation of surveillance systems across 
+the continent. The declaration of a Public Health Emer-
+gency of International Concern (PHEIC) by the WHO in 
+July 2022 accelerated the urgency to reinforce detection 
+capabilities in Africa. Following this, surveillance focus 
+was broadened to incorporate revised case definitions, 
+in addition to actively monitor high-risk groups for 
+human-to-human spread, moving beyond the traditional 
+focus on zoonotic cases.
+Other surveillance initiatives like the molecular and 
+genomic surveillance enhancement by global and con-
+tinental actors including Africa CDC and WHO allowed 
+countries to better track the lineage and movement of 
+MPXV variants. An example was of the impact of such 
+initiative was the ability of the DRC to detect the Clade 
+1b in 2023 which later spread to at least 25 countries in 
+2025. This variant exhibited an increased human-to-hu-
+man transmissibility which triggered a rapid scale-up of 
+the implementation of public health protocols, aimed at 
+strengthening active case finding, case investigations 
+and contact tracing. 
+While Mpox surveillance in Africa has evolved consid-
+erably, the 2024–2025 multi-country outbreaks exposed 
+persistent systemic gaps. To bridge these, Member 
+States must implement context-specific strategies that 
+account for the diverse geographical distribution of 
+clades and the shifting complexities of transmission 
+dynamics (Figure 1).
+2
+INCIDENT MANAGEMENT SUPPORT TEAM
+II. Challenges of mpox surveillance in Africa
+Despite notable progress, mpox surveillance across 
+Africa continues to face systemic, technical, and 
+operational challenges that undermine the efficiency 
+and sustainability of response systems. The following 
+challenges were highlighted [in the recent (2024-2025) 
+mpox outbreak] across Member States through coun-
+try presentations, IAR reports, and technical discus-
+sions:
+Stakeholder Engagement and One Health 
+Integration: 
+There remains a significant gap in the engagement of 
+private sector providers and clinics, which is concern-
+ing given their central role in community-level care. 
+This lack of integration extends to the animal health 
+sector, directly undermining the efficacy of One Health 
+approaches. Furthermore, other stakeholders like tra-
+ditional healers and informal health providers often the 
+primary point of contact in many communities are often 
+left out during community engagement initiatives. The 
+lack of participation from non-state actors and animal 
+health professionals in technical sessions and webi-
+nars further highlights the need for a more inclusive 
+outreach strategy.
+Cross-Border Surveillance: 
+Cross-border coordination remains weak or entirely 
+absent in critical regions, such as between the DRC 
+and its nine neighbouring countries, as well as be-
+tween Togo, Benin, and Ghana. Despite high popula-
+tion mobility and porous borders, the implementation of 
+formal surveillance mechanisms is limited. These gaps 
+are exacerbated by inadequate infrastructure and a 
+shortage of human resources at Points of Entry (PoE), 
+making effective monitoring nearly impossible.
+Technical and Operational: 
+Operational efficiency is hampered by delayed contact 
+tracing, insufficient case investigations, and a critical 
+shortage of test kits and reagents, which stalls confir-
+mation and sequencing. Data integration across pillars 
+remains a persistent challenge due to poor interopera-
+bility between platforms such as IDSR, laboratory sys-
+tems, case management, and vaccination. Additionally, 
+the inconsistent use of digital tools noted in several 
+countries have led to poor data quality. In addition, 
+the lack of sustainability pathways community health 
+workers has resulted in underreporting and poor con-
+tact tracing performance. These technical hurdles are 
+further complicated by rural stigma and mistrust in 
+several countries which causes delays in care-seeking 
+and resistance to isolation protocols.
+Governance and Policy: 
+Centralized coordination, particularly in the most af-
+fected countries limited the autonomy of provincial and 
+district authorities to drive the response and implement 
+context specific interventions. This top-down approach 
+is also coupled with significant delays in the allocation 
+and release of resources, affecting response timelines 
+in response. The absence of formal agreements, such 
+as Memorandum of understanding for cross-border 
+surveillance amongst several neighbouring revealed 
+impeded cross border coordination and collaboration.
+Financial and Logistical Constraints: 
+The limited domestic and donor finances to fund re-
+sponse plan has been reported by several countries as 
+one of the challenges to optimally roll out surveillance 
+strategies during the mpox response. In addition, logis-
+tical capacity is severely limited by a lack of vehicles, 
+fuel, and poor road infrastructure in especially in hard-
+to-reach areas. 
+Community Engagement and Risk 
+Communication: 
+Low awareness of symptoms and insufficient commu-
+nity engagement remain major barriers, particularly 
+in rural areas. In certain high-risk groups such as sex 
+workers, this has manifested as active resistance to 
+response teams due to associated stigma. Stigma 
+associated with infection continues to discourage pa-
+tients from seeking formal medical care highlighting a 
+critical need for more culturally sensitive risk commu-
+nication strategies.
+Human Resource and Institutional Capacity: 
+The workforce is stretched thin by a shortage and un-
+even distribution of trained epidemiologists, lab staff, 
+and community health workers. In high burden coun-
+tries, health workers face severe burnout due to pro-
+tracted outbreaks and overlapping emergencies. This 
+is worsened by high staff turnover, a heavy reliance on 
+external partners, and a lack of sustainable motivation 
+for community health workers
+3
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+III. Purpose and objectives of the strategy
+Purpose
+The purpose of this continental Mpox surveillance 
+strategy is to strengthen Africa’s capacity to detect, 
+report, and respond to Mpox cases and outbreaks 
+rapidly and effectively, ensuring timely public health 
+action that reduces morbidity, mortality, and cross-bor-
+der spread.
+Main objective
+The main objective is to improve rapid case detection, 
+reporting, and analysis to support prompt and coordi-
+nated public health responses at national and regional 
+levels. Timeliness is therefore positioned as a core 
+performance pillar of the strategy.
+To achieve this, the strategy promotes an integrated 
+and collaborative approach anchored in the IDSR 
+framework and guided by One Health principles. It also 
+leverages digital innovation, cross-sectoral collabo-
+ration, and community engagement to ensure sustain-
+ability and early action.
+Specific objectives
+1. Enhance early detection and notification of 
+suspected Mpox cases and outbreaks across all 
+Member States through strengthened event-based 
+and community-based surveillance.
+2. Improve the timeliness and quality of case inves-
+tigation, contact tracing, and laboratory confirma-
+tion, including genomic sequencing, to facilitate 
+rapid decision-making.
+3. Establish interoperable surveillance and data 
+management systems for real-time reporting and 
+cross-sector information sharing.
+4. Institutionalize Mpox surveillance within IDSR 
+and One Health frameworks to ensure sustained 
+prioritization and alignment with existing national 
+systems.
+5. Build resilient surveillance capacity at national, 
+subnational, and community levels, including 
+human resources, logistics, and digital tools.
+6. Promote risk communication and community en-
+gagement (RCCE) to strengthen public awareness, 
+reduce stigma, and encourage timely care-seek-
+ing and reporting.
+7. Reinforce cross-border and regional coordination 
+mechanisms to detect, report, and respond to 
+transboundary transmission.
+8. Ensure sustainability and adaptability of Mpox 
+surveillance systems to respond to evolving epide-
+miological trends and new dynamics.
+4
+INCIDENT MANAGEMENT SUPPORT TEAM
+IV. Categorization of countries based on epidemiological 
+status and operational implications for surveillance
+For the purpose of this strategy, African Union Member 
+States are categorized into three broad epidemiolog-
+ical groups based on their current mpox transmission 
+patterns, historical presence of the virus, and risk of 
+importation or resurgence. This categorization is es-
+sential for tailoring surveillance strategies, prioritizing 
+resources, and guiding technical support.
+Category 1: Endemic countries
+These are countries where the mpox virus is regularly 
+detected in humans and/or animals (primarily rodents 
+and non-human primates), with varying levels of 
+human-to-human transmission. Transmission in these 
+settings is often linked to both zoonotic spillover events 
+and sustained local human transmission chains. The 
+definition of an endemic country for mpox depends on 
+the specific clade and the source of transmission:
+• Clades Ia and IIa: Countries where mpox has been 
+detected in the animal including wildlife and or hu-
+man population for at least two consecutive years.
+• Clades Ib and IIb: Countries where human-to-hu-
+man transmission is established, defined by 
+reported cases with no travel history for at least 
+two consecutive years.
+Operational implications for surveillance:
+• Establish routine surveillance that links human 
+health, animal health, and environmental data. 
+This involves monitoring hotspots where hu-
+man-wildlife interaction is high to detect zoonotic 
+spillover early.
+• Empower community health workers and local 
+leaders to report unusual clusters of skin rashes 
+or unexplained deaths in wildlife (rodents/pri-
+mates), as these communities are often the first 
+point of contact.
+• Maintain continuous (rather than just out-
+break-specific) genomic sequencing to monitor 
+the evolution of clades and detect the emergence 
+of more transmissible or virulent strains within the 
+endemic reservoir.
+• Designate specific hospitals and clinics in high-
+risk geographic areas as sentinel sites to provide 
+consistent, high-quality data on disease trends 
+and severity over time.
+• Shift from centralized national testing to sub-na-
+tional or district-level laboratory capacity to re-
+duce laboratory turnaround time, which is critical 
+in remote endemic regions.
+Examples: DRC, Nigeria, Central African Republic, 
+Republic of the Congo, Cameroon, and others with 
+persistent or recurrent local transmission.
+Category 2: Non-endemic countries with 
+active outbreak
+These are countries where mpox is not historically 
+endemic, but where the disease has been introduced, 
+often through cross-border movement or international 
+travel. These countries are experiencing an active, 
+ongoing outbreak with sustained local transmission.
+Operational implications for surveillance:
+• Intensified alert and event-based surveillance, 
+especially at Points of Entry (PoE) and among 
+high-risk population
+• Implement wastewater/environmental surveil-
+lance, particularly at Points of Entry, in adjacent 
+communities e.g border towns or airports to detect 
+silent or imported mpox transmission.
+• Rapid case detection, exhaustive contact tracing, 
+and daily situation monitoring during outbreaks.
+• Weekly genomic sequencing of early and atypical 
+cases to identify clade introduction.
+• Deployment of surge capacity for outbreak man-
+agement and containment.
+• Establishment of a 4-week outbreak base-
+line to measure response timeliness and perfor-
+mance.
+Examples: Countries that have experienced recent 
+outbreaks following importation, e.g., Burundi, Gha-
+na, Liberia, Kenya, and Uganda (during re-emergent 
+outbreaks).
+5
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Category 3: Non-endemic countries with 
+controlled or no local transmission
+These are countries where mpox is not historically 
+or regularly found and that are currently reporting no 
+active local transmission. They may have reported spo-
+radic imported or travel-associated cases, but without 
+evidence of sustained local spread.
+This category also includes countries that, while 
+reporting zero probable or confirmed cases in the past 
+six weeks, have direct epidemiological connectivity to 
+endemic areas through shared borders (land or water) 
+or direct air travel routes with Category 1 countries.
+Operational implications for surveillance:
+• Maintain high vigilance through event-based and 
+indicator-based surveillance.
+• Strengthen PoE and traveler screening systems, 
+especially in airports and land crossings connect-
+ed to endemic or outbreak countries.
+• Implement wastewater/environmental surveil-
+lance, particularly at Points of Entry, in adjacent 
+communities e.g border towns or airports to detect 
+silent or imported mpox transmission.
+• Establish readiness protocols, including specimen 
+transport systems and contact tracing plans.
+• Conduct regular cross-border coordination meet-
+ings and data sharing with neighboring high-risk 
+countries.
+• Conduct rapid readiness assessments every six 
+months.
+Examples: Seychelles, Botswana, Rwanda, South 
+Africa, and others maintaining readiness but at high 
+importation risk due to travel or border linkages with 
+endemic countries.
+Modalities of reclassification
+Country categorization is dynamic rather than static, as 
+nations may be reclassified based on evolving epide-
+miological trends, genomic evidence of local circula-
+tion, the patterns of imported cases, and the overall 
+effectiveness of their surveillance and response ac-
+tivities. To maintain accuracy, WHO AFRO and Africa 
+CDC will review these classifications monthly, utiliz-
+ing the latest surveillance data, laboratory findings, 
+and official country reports. This flexible framework 
+enables differentiated strategies for resource allo-
+cation and technical support, ensuring that endemic, 
+outbreak-prone, and at-risk countries can implement 
+context-appropriate measures while remaining aligned 
+with coordinated regional oversight.
+V. Mpox surveillance strategic actionsbased on 
+epidemiological thresholds 
+Effective mpox surveillance must translate epidemi-
+ological signals into timely, proportionate, and con-
+text-specific public health action. Given the heteroge-
+neous epidemiology of mpox across Africa, the same 
+epidemiological event may require different responses 
+depending on whether it occurs in an endemic, out-
+break-affected, or non-endemic setting.
+Epidemiological thresholds provide pragmatic triggers 
+for action, enabling timely, proportional, and con-
+text-specific surveillance and response. These thresh-
+olds are applied proportionately and contextually, 
+recognizing that the same event may require different 
+responses in endemic and non-endemic settings. A 
+single confirmed case in a non-endemic setting may 
+warrant stronger activation than the same signal in an 
+endemic area. When resurgence criteria are met, an 
+additional package of escalation measures is imple-
+mented on top of routine surveillance and response 
+actions.
+6
+INCIDENT MANAGEMENT SUPPORT TEAM
+ Table 1: Core alert & action thresholds (with differentiated responses)
+Thematic area Indicator & Alert Thresh-
+old
+Categorization 
+of affected 
+district
+Rationale Recommended actions – En-
+demic setting
+Recommended actions – Non-endemic setting
+Surveillance Confirmed imported case 
+(≥1) detected in a district
+Non-endemic Possible intro-
+duction or seed-
+ing into new area
+1) Activate national RRT/IMS (light mode); isolate; ex-
+haustive contact tracing. 2) Targeted screening in travel/
+close-contact networks; immediate RCCE and traveler 
+advisory.
+3) Enhanced cross border coordination and systematic 
+information sharing
+4) Activate active case search in reporting district and 
+Continue EBS and CBS in districts not reporting yet
+Surveillance Local cluster (≥2 epi-
+linked confirmed locally 
+acquired cases) in a dis-
+trict OR confirmed case 
+in prison, camp, school, 
+etc
+Endemic and 
+non-endemic 
+Indicates local 
+transmission
+1) Intensify active case /EBS; 
+expand tracing to second-ring 
+contacts.
+ 2) Enhance facility triage and 
+IPC reminders.
+3. Enhance one health approach 
+in surveillance, case investiga-
+tion and response.
+1) Escalate Incident Management (IM); surge investiga-
+tion teams. 2) Consider ring vaccination (if available) per 
+national policy; daily situation updates.
+3) Activate active case search in reporting district and 
+Continue EBS and CBS in districts not reporting yet
+Surveillance
+>50% increase in 7-day 
+average within a 14-day 
+period OR 2x increase in 
+new weekly cases OR ≥3 
+days of rising daily con-
+firmed cases
+Endemic and 
+non-endemic 
+Acceleration  
+of community 
+transmission
+1) Declare localized resurgence-
+Activate surge response tea-
+mUpdate risk mapping and pre-
+dictive models 
+2) Expand testing access, review 
+case definition breadth. 
+3) Boost CBS and community 
+line-listing in hotspots.
+1) Expand testing sites and mobile sampling. 2) Pre-posi-
+tion PPE/supplies; prepare contingency beds.
+7
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Thematic area Indicator & Alert Thresh-
+old
+Categorization 
+of affected 
+district
+Rationale Recommended actions – En-
+demic setting
+Recommended actions – Non-endemic setting
+Surveillance Unlinked cases (≥2 with 
+no epi link or travel) in 
+one district/facility
+Non-endemic Suggests gap 
+in surveillance 
+and community 
+transmission
+1) Full outbreak posture: IM scale-up; community screen-
+ing around exposure venues. 2) Work with municipalities 
+for venue/setting-specific measures.
+3) Activate active case search nationwide. 
+Surveillance New district affected 
+after ≥6 weeks with no 
+cases
+Non-endemic Re-introduction/
+spread
+1) Activate rapid screening at PoE/transport hubs.
+ 2) Issue national advisory to clinicians and private sec-
+tor.
+IPC HCW infection (≥1 con-
+firmed)
+Endemic and 
+non-endemic
+IPC breach & 
+amplifying risk
+Immediate facility IPC audit; cor-
+rect PPE/triage gaps; monitor ex-
+posed staff.
+As endemic + national alert to facilities; reinforce stan-
+dard/airborne precautions guidance; spot-checks.
+Case Man-
+agement 
+Bed occupancy >50% in 
+mpox ward (referral fa-
+cility)
+Endemic and 
+non-endemic
+Stress on isola-
+tion/care capac-
+ity
+Open overflow areas; adjust ad-
+mission criteria for mild cases 
+(home care SOPs).
+Stand up step-down/alternate care sites; activate refer-
+ral redistribution; mobilize extra staff/logistics.
+Case Man-
+agement
+CFR ≥1% OR Bed occu-
+pancy ≥70% OR ≥3 gener-
+ations of person-to-per-
+son transmission 
+Endemic and 
+non-endemic
+Signals clinical 
+or surveillance 
+gaps
+Rapid mortality audit; clinical 
+mentorship; ensure essential 
+meds; review referral delays.
+1) Same as endemic + external clinical consult (tele-men-
+torship) and targeted supply push. Escalate to national 
+incident coordination
+ 2) Activate contingency bed capacityStrengthen supply 
+chain and case management oversight
+Laboratory
+Positivity >10% over ≥10 
+valid tests OR ≥5 per-
+centage point increase 
+over prior 7-day average
+Endemic and 
+non-endemic
+Testing too re-
+strictive / wider 
+spread Expand community testingRe-
+assess case definition sensitivi-
+tyReinforce CBS-EBS linkage
+Same + pop-up testing in exposure venues; fast logistics 
+for referral labs.
+One Health Zoonotic alert (animal 
+illness/deaths or human–
+animal exposure)
+Endemic and 
+non-endemic
+Spillover risk in 
+Clade I/IIa zones
+ Joint Vet–MoH investigation; 
+sample animals/humans; local-
+ized RCCE.
+As endemic + import control advisory (wildlife/products); 
+notify PoE and CITES focal points.
+Notes: ACS = Active Case Search; EBS/CBS = Event-/Community-Based Surveillance; IM/IMS = Incident Management (System); IPC = Infection Prevention & Control; CFR = 
+Case Fatality Rate; PoE = Points of Entry; RCCE= Risk communication and community engagement; CITES= Convention on International trade in endangered species of wild 
+fauna and flora.
+8
+INCIDENT MANAGEMENT SUPPORT TEAM
+VI. Roadmap for the implementation of the 
+surveillance strategy
+1. Partner and stakeholder mapping
+Primary Partners
+African Union Member States are the main implement-
+ers of the strategy. 
+Within each country, the Ministry of Health (MoH), 
+through the National Public Health Institute (NPHI) or 
+the Epidemiology Department, serves as the lead au-
+thority responsible for coordinating surveillance, labo-
+ratory testing, data reporting, and response activation.
+Implementation is conducted in close collaboration 
+with:
+• Ministries in charge of animal and wildlife health – 
+for zoonotic and One Health surveillance.
+• Ministries of environment and agriculture – for 
+ecosystem monitoring and integration of environ-
+mental determinants.
+• Border health and immigration authorities – for 
+cross-border and Points of Entry (PoE) surveil-
+lance.
+• Subnational health authorities – for district-level 
+data collection, investigation, and reporting.
+• Community structures and civil society organiza-
+tions – for community-based surveillance (CBS), 
+risk communication, and social mobilization.
+Technical and development partners
+Implementation is technically supported by a network 
+of partners including:
+• Africa CDC and WHO provides overall technical 
+leadership, normative guidance, capacity building, 
+and coordination with country offices. They are 
+to co-leads continental coordination, supports 
+harmonization of indicators, cross-border frame-
+works, and integration into event-based surveil-
+lance systems.
+• FAO and OIE/WOAH – support animal health 
+surveillance, laboratory capacity, and joint risk 
+assessments.
+• UNICEF and IFRC – support CBS and RCCE imple-
+mentation in communities.
+• World Bank, GAVI, CEPI, and other donors – 
+contribute financial and technical resources for 
+surveillance strengthening and integration into 
+national systems.
+• Academic and research institutions – provide 
+training, operational research, and genomic anal-
+ysis support.
+• Private sector laboratories and clinics – partici-
+pate in case detection, testing, and notification in 
+line with national surveillance protocols.
+2. Establishing sustainable coordination 
+mechanism and roles
+To ensure the effective management and long-term 
+monitoring Mpox, it is essential to establish a struc-
+tured and sustainable governance framework. The 
+table below outlines a multi-tiered coordination 
+mechanism designed to streamline operations across 
+national, subnational, and international levels. By de-
+fining clear roles and core functions for each body, this 
+framework facilitates the integration of surveillance 
+into existing national systems, and fosters seamless 
+collaboration between government entities, global 
+health organizations, and financial partners.
+3. Establishing baselines, monitoring, 
+evaluation and accountability framework
+Establishing a baseline for measurement
+Baseline assessments of surveillance timeliness and 
+completeness will guide target setting and enable 
+monitoring of progress toward faster, more coordinat-
+ed detection and response across all Member States. 
+To ensure that improvements in rapid case detection, 
+reporting, and analysis are measurable, this strategy 
+introduces a dual-level baseline assessment frame-
+work. This will provide the evidence base to monitor 
+progress and guide corrective actions over time.
+Purpose of the baseline 
+The baseline assessment establishes the current 
+performance of national and subnational surveillance 
+systems on key Mpox indicators—particularly timeli-
+ness, completeness, and coordination. It serves as the 
+reference point for evaluating whether surveillance 
+systems are becoming faster, more accurate, and 
+more responsive during both routine monitoring and 
+outbreak situations.
+9
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Levels of baseline assessment
+a. Systemic (Preparedness) baseline
+• Conducted at the start of strategy implementation 
+and updated annually.
+• Measures the structural and functional capacity of 
+national surveillance systems using data from the 
+preceding 6–12 months.
+• Reflects the overall efficiency of case detection, 
+reporting, investigation, and laboratory confirma-
+tion under routine conditions.
+• It applies primarily to endemic countries, where 
+Mpox surveillance operates continuously through 
+IDSR and One Health systems.
+b. Outbreak-specific (Event-
+Based) baseline
+• Conducted by the end of the fourth week of a 
+newly declared outbreak or resurgence.
+• Captures the initial response performance, the 
+speed and quality of early detection, notification, 
+confirmation, and response activation.
+• Particularly relevant to non-endemic countries or 
+districts with newly re-emerging cases.
+• Serves as the starting point for measuring im-
+provement at weeks 8 and 12 of the response.
+Table 2: Coordination at different administrative levels
+Level Coordination Body 
+/ Role
+Core Functions
+Subnational 
+Level
+Provincial and District 
+Health Authorities
+• Operationalize surveillance activities and conduct contact trac-
+ing, CBS/EBS, and sample transport. 
+Ensure data completeness and timeliness. 
+Supervise field teams and ensure feedback loops.
+National 
+Level
+National Public Health 
+Institute / MoH Sur-
+veillance Unit
+• Lead implementation of the strategy and integration into IDSR.
+• Ensure routine and outbreak baseline assessments are conduct-
+ed and reported.
+• Oversee data collection, analysis, and reporting through DHIS2.
+• Convene weekly surveillance review meetings.
+• Coordinate laboratory referral and genomic sequencing pro-
+cesses.
+• Ensure engagement of private and animal health sectors.
+Continental 
+Level
+WHO AFRO and Africa 
+CDC Joint Mpox IMST
+• Provide overarching technical direction, coordination, and 
+monitoring. 
+Consolidate continental performance data and maintain the 
+Mpox surveillance dashboard. 
+Support cross-border coordination and joint outbreak investiga-
+tions. 
+Facilitate partner alignment under “One Plan – One Budget – 
+One Monitoring Framework.”
+Partners and 
+Donors
+Technical and Finan-
+cial Support Mecha-
+nism
+• Provide resources, tools, and technical assistance. 
+Support operational research, digitalization, and evaluation. 
+Align funding with national priorities and baseline indicators.
+10
+INCIDENT MANAGEMENT SUPPORT TEAM
+Table 3: Core indicators for both baselines
+Indicator Definition Typical Data 
+Source
+Target 
+Median time from symptom 
+onset to notification
+Average number of days 
+between case onset and first 
+notification to the health system
+Case-based line lists 
+/ IDSR
+≤2 days
+Median time from notifica-
+tion to sample collection
+Time from case reporting to 
+specimen collection
+IDSR / laboratory 
+registers
+≤1 day
+Laboratory turnaround time 
+(TAT)
+Time from sample receipt to 
+confirmation
+National or regional 
+laboratory data
+≤72 hours
+Proportion of suspected 
+cases reported within 24 
+hours
+% of suspected cases notified 
+within 24h of detection
+IDSR / EBS / CBS ≥80%
+Proportion of confirmed 
+cases with completed inves-
+tigation forms
+Completeness of case investi-
+gations
+Case-based database ≥90%
+Proportion of contacts 
+traced and followed for 21 
+days
+% of listed contacts monitored 
+for 21 days
+Contact tracing data-
+base
+≥80%
+Time from alert verification 
+to response activation
+Average time between alert 
+validation and field response
+IMS / SitRep/ DHIS-2 
+tracker/ EWARS
+≤24 hours
+i. Frequency and use of the baseline
+• Endemic areas: Baseline indicators integrat-
+ed into routine IDSR and laboratory monitoring, 
+analyzed semi-annually to track systemic improve-
+ment.
+• Non-endemic areas: A Week-4 outbreak 
+baseline is established after detection of the first 
+confirmed case to evaluate readiness and early 
+response performance.
+ii. Use of baseline results for resource 
+mobilization and partner support
+Baseline assessment results will not only serve as 
+performance benchmarks but will also be actively 
+used to guide resource prioritization and partner 
+support at national and subnational levels. Coun-
+tries and districts demonstrating critical gaps in 
+surveillance timeliness, completeness, laboratory 
+turnaround time, or contact tracing performance 
+will be prioritized for targeted technical assis-
+tance, surge deployments, and catalytic financing 
+from WHO, Africa CDC, and partners. Baseline 
+findings will further inform partner coordination, 
+allocation of flexible or contingency funds, and 
+sequencing of surveillance investments, en-
+suring that resources are directed to areas of 
+highest operational need and potential impact. 
+This approach strengthens accountability, links 
+surveillance performance to tangible support, and 
+reinforces the use of data for decision-making and 
+financing within national and continental mpox 
+surveillance systems.
+11
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+VII. Monitoring, evaluation and accountability framework
+To ensure effective, practical, and streamlined per-
+formance monitoring, the Key Performance Indica-
+tors (KPIs) for mpox surveillance are organized into 
+a two-tier framework. This approach distinguishes 
+operational KPIs required for real-time outbreak 
+management from system-level KPIs used to assess 
+surveillance effectiveness, integration, and sustain-
+ability over time.
+This tiered structure reduces duplication, aligns 
+reporting frequency with decision-making needs, and 
+supports both immediate response and long-term 
+system strengthening.
+Tier 1: Core operational KPIs (Weekly / 
+Dailyduring active outbreaks)
+Purpose
+Tier 1 KPIs (Table A-E), monitor the day-to-day 
+functionality, timeliness, and completeness of mpox 
+surveillance and response operations. These indica-
+tors are used by district, national, and IM-level teams 
+to guide immediate corrective action during routine 
+surveillance and active outbreaks.
+Reporting frequency
+• Weekly under routine surveillance
+• Daily or semi-weekly during outbreaks or resur-
+gence
+Use of Tier 1 KPIs 
+Tier 1 KPIs are reviewed during:
+• Weekly national surveillance meetings
+• Incident Management (IM) operational briefings
+• District-level supervision and response coordina-
+tion
+Failure to meet Tier 1 targets should trigger immediate 
+operational adjustments, including surge deployment, 
+retraining, logistics support, or intensified supervision.
+Table 4 (A-E): Tier 1 Key performance indicators
+A. Alert detection, verification, and notification
+Indicator Numerator Denominator Target Purpose
+Total mpox alerts notified
+Number of mpox 
+alerts notified in re-
+porting period
+N/A N/A Measures overall sensitivity 
+of the surveillance system
+Proportion of alerts veri-
+fied Alerts verified Total alerts noti-
+fied ≥80% Assesses alert follow-up and 
+verification efficiency
+Proportion of verified 
+alerts meeting case defi-
+nition
+Alerts meeting sus-
+pected case defini-
+tion
+Total alerts veri-
+fied ≥80% Measures appropriateness 
+of alerts
+Proportion of suspected 
+cases notified within 24h
+Suspected cases 
+notified ≤24h
+Total suspected 
+cases ≥80% Evaluates timeliness of noti-
+fication
+B. Case investigation and sampling
+Indicator Numerator Denominator Target Purpose
+Proportion of suspected 
+cases investigated
+Suspected cases inves-
+tigated
+Total suspected 
+cases ≥80% Measures complete-
+ness of investigation
+Proportion investigated 
+within 24h
+Suspected cases investi-
+gated ≤24h
+Investigated sus-
+pected cases ≥80% Measures field inves-
+tigation timeliness
+12
+INCIDENT MANAGEMENT SUPPORT TEAM
+Indicator Numerator Denominator Target Purpose
+Proportion of suspected 
+cases sampled
+Suspected cases with 
+specimens collected
+Total suspected 
+cases ≥80% Assesses sampling 
+coverage
+Proportion sampled within 
+24h
+Suspected cases sam-
+pled ≤24h
+Sampled sus-
+pected cases ≥80% Measures timeliness 
+of sample collection
+C. Laboratory testing and turnaround time
+Indicator Numerator Denominator Target Purpose
+Proportion of samples sent 
+to laboratory
+Samples sent to 
+laboratory
+Samples col-
+lected ≥80% Assesses sample trans-
+port efficiency
+Proportion of samples 
+received Samples received Samples sent 100% Measures logistics reli-
+ability
+Proportion received within 
+24h
+Samples received 
+≤24h
+Samples re-
+ceived ≥80% Evaluates transport speed
+Proportion of samples 
+tested Samples tested Samples re-
+ceived ≥95% Measures lab testing 
+throughput
+Proportion of results avail-
+able ≤24–72h
+Results released 
+within TAT Samples tested ≥80% Monitors lab turnaround 
+time
+Test positivity rate Positive samples Samples tested Contextual Indicates outbreak trend 
+and testing adequacy
+D. Contact tracing and monitoring
+Indicator Numerator Denominator Target Purpose
+Case-to-contact ratio Total contacts listed Confirmed cases ≥1:15–
+20
+Evaluates completeness 
+of contact listing
+Proportion of cases with 
+contacts listed
+Confirmed cases with 
+≥1 contact
+Total confirmed 
+cases ≥90% Measures contact iden-
+tification
+Proportion of contacts 
+followed for 21 days
+Contacts followed 21 
+days Total contacts ≥80% Measures follow-up 
+completion
+Secondary attack rate Contacts becoming 
+confirmed cases Contacts followed — Measures secondary 
+transmission
+Proportion of eligible con-
+tacts vaccinated Contacts vaccinated Eligible contacts ≥80%* Evaluates ring vaccina-
+tion performance
+* where vaccination is available and recommended
+E. Case management and outcomes
+Indicator Numerator Denominator Target Purpose
+Proportion of confirmed 
+cases hospitalized
+Confirmed cases 
+hospitalized
+Total confirmed 
+cases
+≥80% (moderate/
+severe)
+Measures access 
+to care and iso-
+lation
+Proportion of moderate/
+severe cases hospital-
+ized
+Moderate/severe 
+cases hospitalized
+Moderate/severe 
+cases 100%
+Ensures proper 
+clinical manage-
+ment
+Proportion of mild cases 
+managed at home
+Mild cases under 
+home care
+Mild confirmed 
+cases ≥90% Evaluates safe 
+home-based care
+13
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Tier 2: System performance KPIs (Monthly / 
+quarterly)
+Purpose 
+Tier 2 KPIs (Table i-v) assess the effectiveness, cov-
+erage, integration, and sustainability of mpox surveil-
+lance within national health systems. These indicators 
+inform policy decisions, partner support, financing, and 
+institutionalization efforts.
+Reporting frequency
+• Monthly (national review)
+• Quarterly (regional / continental review)
+Use of Tier 2 KPIs 
+Tier 2 KPIs are used to:
+• Track progress toward institutionalization of mpox 
+surveillance
+• Identify systemic bottlenecks and capacity gaps
+• Prioritize partner support, catalytic financing, and 
+technical assistance
+• Inform annual WHO–Africa CDC joint reviews and 
+continental dashboards
+Table 5 (i-v): Tier 2 Key Performance Indicators
+i. Surveillance coverage and reporting
+Indicator Numerator Denominator Target Purpose
+Districts submitting weekly 
+mpox reports
+Reporting districts Total districts ≥90% Measures reporting com-
+pleteness
+Districts using IDSR for 
+mpox reporting
+IDSR-reporting 
+districts
+Total districts 100% Assesses IDSR integration
+Subnational levels imple-
+menting CBS/EBS
+Subnational units with 
+CBS/EBS
+Total subnational 
+units
+≥90% Measures event-based 
+surveillance coverage
+ii. Data quality and completeness
+Indicator Numerator Denominator Target Purpose
+Cases with age and sex 
+recorded
+Cases with age & 
+sex Total cases ≥80% Measures demographic 
+completeness
+Cases with date of onset 
+recorded
+Cases with onset 
+date Total cases ≥80% Enables trend and timeli-
+ness analysis
+Cases with vaccination 
+status recorded
+Cases with vacci-
+nation data Total cases 60–90% Supports vaccine effective-
+ness analysis
+Cases with animal expo-
+sure documented
+Cases with expo-
+sure info Total cases ≥80% Supports One Health anal-
+ysis
+Cases with HCW status 
+recorded
+HCW status docu-
+mented
+Probable/confirmed 
+cases ≥80% Monitors occupational risk
+Concordance between 
+surveillance & lab data Matching records Total records ≥95% Measures data interoper-
+ability
+Proportion of suspected 
+deaths investigated
+Deaths investi-
+gated
+Suspected mpox 
+deaths ≥90% Ensures mortality surveil-
+lance completeness
+iii. Digitalization and interoperability
+Indicator Numerator Denominator Target Purpose
+Districts using digital case-
+based reporting
+Digital-reporting 
+districts Affected districts 60–90% Measures digital cover-
+age
+Facilities syncing data 
+weekly
+Facilities syncing 
+weekly Reporting facilities ≥90% Measures system func-
+tionality
+14
+INCIDENT MANAGEMENT SUPPORT TEAM
+iv. Cross-border and PoE surveillance
+Indicator Numerator Denominator Target Purpose
+Borders with active coordination 
+mechanisms
+Borders with MoUs/
+SOPs Priority borders 100% Measures cross-border 
+readiness
+Priority PoEs with trained staff & 
+SOPs PoEs compliant Priority PoEs ≥90% Measures PoE prepared-
+ness
+Timeliness of PoE alert notification Alerts ≤24h PoE alerts ≤24h Measures rapid notifi-
+cation
+v. Governance, learning, and sustainability
+Indicator Numerator Denominator Target Purpose
+National surveillance performance 
+reviews conducted Reviews held Planned reviews ≥90% Ensures routine ac-
+countability
+AARs / cluster reviews conducted Reviews com-
+pleted Clusters/outbreaks 100% Supports continuous 
+learning
+Mpox included in national IDSR 
+budgets Yes/No — Yes Measures institutional-
+ization
+Relationship between Tier 1 and Tier 2 KPIs
+Tier 1 and Tier 2 KPIs are complementary:
+• Tier 1 KPIs ensure that mpox surveillance and 
+response are functioning effectively in real time.
+• Tier 2 KPIs ensure that surveillance systems are 
+robust, integrated, and sustainable over time.
+Together, they provide a comprehensive performance 
+monitoring framework that supports early detection, 
+rapid response, accountability, and long-term health 
+system strengthening.
+Tools and methods for monitoring progress
+To ensure effective monitoring, countries and regions 
+should employ a combination of digital, analytical, and 
+participatory tools:
+• Digital surveillance platforms: Use interop-
+erable electronic systems (e.g., DHIS2, EWARS, 
+SORMAS) for real-time data capture, validation, 
+and analysis.
+• Routine data quality audits (DQAs): Con-
+duct quarterly DQAs focusing on completeness, 
+timeliness, and accuracy of Mpox surveillance 
+data.
+• Geospatial and temporal analysis: Utilize 
+GIS and time-series analytics to identify hotspots, 
+emerging clusters, and transmission patterns.
+• Stakeholder feedback mechanisms: Estab-
+lish regular feedback loops between surveillance 
+officers, laboratories, and community networks to 
+improve performance and coordination.
+• Dashboard-based monitoring: Maintain a 
+national mpox surveillance dashboard integrating 
+country-level indicators for bench marking and 
+trend analysis.
+15
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+VIII. Integration and institutionalization of mpox 
+surveillance within routine health and One Health Systems
+The transition from emergency mpox surveillance to 
+routine public health systems is critical to preserving 
+the surveillance gains achieved during outbreaks. 
+Effective implementation of this Mpox Surveillance 
+Strategy requires coordinated leadership and collabo-
+ration among national, regional, and continental actors 
+to embed mpox surveillance within existing IDSR, 
+epidemic intelligence, and One Health frameworks. 
+This integrated approach promotes sustained readi-
+ness, efficient use of resources, timely data sharing, 
+and accountability across all levels of the public health 
+system.
+The process is implemented in two progressive 
+phases:
+• Phase 1 (Immediate transition): Align and 
+operationalize Mpox within IDSR and One Health 
+systems without compromising detection capacity.
+• Phase 2 (Institutionalization): Embed Mpox 
+surveillance permanently within routine epidemic 
+intelligence and national governance structures.
+Phase 1 – Immediate Transition 
+Strategic objective: Shift Mpox from emergency 
+response mode into existing IDSR and One Health plat-
+forms while maintaining sensitivity for early detection.
+Table 6: Actions for Phase 1 of Transition Roadmap
+Focus Area National / Country Level Continental / Regional Support
+Policy & Gover-
+nance
+• Add Mpox to the national list of notifiable 
+diseases and the One Health zoonoses 
+list.
+• Integrate private facilities into IDSR re-
+porting and supervision systems.
+• Establish joint coordination mechanisms 
+between MoH, Veterinary, and Environ-
+mental sectors.
+• Incorporate Mpox into national PHERP 
+and epidemic preparedness frameworks.
+• Endorse Mpox as a continental priority 
+zoonosis.
+• Provide standard templates, SOPs, and 
+tools for case reporting, line lists, and 
+surveillance integration.
+• Develop regional guidance for private 
+sector engagement within IDSR.
+Systems & Tools • Update IDSR guidelines, CRFs, and data 
+collection tools to include Mpox.
+• Configure Mpox modules in DHIS2, EW-
+ARS, or SORMAS.
+• Integrate laboratory, PoE, and CBS forms 
+into the HMIS.
+• Add Mpox to national animal reporting 
+and EBS signal lists (SIMAR/WOAH).
+• Provide technical support for DHIS2, 
+EWARS, and SORMAS integration.
+• Disseminate regional EBS alerts and 
+trend analyses to Member States.
+16
+INCIDENT MANAGEMENT SUPPORT TEAM
+Surveillance Cov-
+erage
+• Ensure routine reporting from community 
+→ facility → district → national levels.
+• Strengthen CBS in hotspots using 
+• CHWs and animal health workers.
+• Initiate environmental surveillance 
+(wastewater, wildlife, bushmeat markets).
+• Provide technical guidance on envi-
+ronmental surveillance pilots.
+• Facilitate comparative analysis of CBS/
+EBS yield across countries.
+Training & Capac-
+ity Building
+• Include Mpox in pre-service and in-ser-
+vice IDSR training programs.
+• Train CBS agents, PoE officers, and vet-
+erinary staff on Mpox detection and re-
+porting.
+• Strengthen data management and feed-
+back capacity at district level.
+• Organize regional Training-of-Trainers 
+(ToT) on IDSR, CBS, and One Health 
+modules.
+• Facilitate cross-country exchange of 
+lessons learned.
+Event-Based Sur-
+veillance (EBS)
+• Integrate Mpox signals within existing 
+EBS systems covering human, animal, 
+and environmental health.
+• Strengthen rumor verification mecha-
+nisms.
+• Maintain continental epidemic intelli-
+gence scanning and share alerts week-
+ly.
+Cross-Border & 
+PoE Surveillance
+• Activate MoUs and surveillance 
+zones with neighboring countries. 
+Link human and animal PoE data to IDSR.
+• Conduct PoE screening and tabletop sim-
+ulations.
+• Provide harmonized PoE SOPs and sup-
+port joint exercises.
+• Facilitate regional MoUs through RECs.
+Data Analysis & 
+Feedback
+• Conduct weekly analyses and publish na-
+tional bulletins.
+• Maintain district-level dashboards for 
+alerts and case trends.
+• Establish feedback loops with subnation-
+al structures.
+• Issue monthly continental synthesis re-
+ports and provide feedback to Member 
+States and partners.
+Phase 2 – Institutionalization 
+Strategic objective: Embed Mpox surveillance 
+within routine epidemic intelligence, One Health, and 
+national health information systems for long-term 
+sustainability.
+Sustainable mpox surveillance requires progressive 
+domestic financing to reduce reliance on emergency 
+funding and external support. As part of institution-
+alization, Member States are expected to establish 
+minimum domestic financing commitments for mpox 
+surveillance within routine health system budgets.
+At a minimum, countries should:
+• Include a dedicated mpox surveillance line within 
+national IDSR budgets and annual operational 
+plans.
+• Finance core surveillance functions (routine 
+reporting, basic laboratory confirmation, and 
+district-level investigation) through domestic 
+resources.
+• Aim to cover at least 30–50% of community-based 
+surveillance (CBS) operational costs through do-
+mestic financing by the end of Year 2, with partner 
+support focused on surge, innovation, and system 
+strengthening.
+These expectations are intended to be progressive 
+and context-specific, recognizing differences in fiscal 
+space, while reinforcing national ownership and sus-
+tainability.
+17
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Table 7: Actions for Phase 2 of Transition Roadmap
+Focus Area National / Country Level Continental / Regional Support
+Systems & Quality 
+Assurance
+• Include mpox in routine IDSR supervi-
+sion and quarterly DQAs
+• Expand Mpox reporting to all districts 
+and facilities (public, private, and 
+CBS).
+• Maintain Mpox within national HMIS 
+monitoring frameworks.
+• Develop and standardize mpox indica-
+tors and DQA tools for cross-country 
+comparison.
+• Coordinate peer learning and regional 
+data reviews.
+One Health Integra-
+tion
+• Strengthen animal-health and en-
+vironmental surveillance (SIMAR, 
+WOAH, wastewater, bushmeat mar-
+kets, wildlife).
+• Develop and implement trigger-based 
+animal surveillance protocols for die-
+offs in rodents and primates.
+• Conduct joint risk assessments and 
+simulation exercises.
+• Support establishment of a continental 
+One Health data platform linking hu-
+man, animal, and environmental sig-
+nals.
+• Coordinate regional genomic and 
+wastewater surveillance networks.
+Digitalization & Data 
+Interoperability
+• Harmonize human–animal–environ-
+ment data flows (DHIS2 ↔  SIMAR ↔  
+LIS ↔  PoE)
+• Maintain integrated national dash-
+boards for real-time case tracking and 
+analytics.
+• Maintain and enhance the mpox dash-
+board for multi-sectoral data visualiza-
+tion.
+• Provide and update interoperability 
+standards (API/HL7).
+Cross-Border Coordi-
+nation
+• Conduct quarterly cross-border sur-
+veillance reviews and joint importa-
+tion drills.
+• Institutionalize cross-border informa-
+tion exchange and joint data analysis.
+• Facilitate regional coordination 
+through RECs and technical working 
+groups.
+• Mobilize partners for PoE strengthen-
+ing and regional preparedness.
+Community & Pri-
+vate Sector Engage-
+ment
+• Institutionalize CBS reporting into rou-
+tine health systems.
+• Mandate private facility reporting 
+within IDSR, supported by supervision 
+and incentives.
+• Sustain alert mechanisms in border 
+and high-risk zones.
+• Develop regional guidance for private 
+sector participation
+• Track and compare private sector inte-
+gration across countries.
+Analysis, Feedback, 
+and Learning
+• Maintain monthly dashboards and 
+readiness assessments.
+• Conduct micro-risk mapping and clus-
+ter detection analyses.
+• Hold quarterly performance reviews 
+and after-action learning sessions.
+• Issue quarterly continental perfor-
+mance reports synthesizing national 
+data.
+• Support joint evaluations and ex-
+change of best practices among Mem-
+ber States.
+18
+INCIDENT MANAGEMENT SUPPORT TEAM
+Sustainability and Fi-
+nancing
+• Secure domestic funding lines for 
+Mpox surveillance and response.
+• Institutionalize Mpox within national 
+budgets and partner 4W matrices.
+• Conduct cost-effectiveness studies 
+to demonstrate value of sustained in-
+vestment.
+• Advocate for integration of Mpox into 
+continental health security financing 
+mechanisms.
+• Support resource mobilization and ac-
+countability frameworks.
+Environmental surveillance (including wastewater and 
+environmental sampling) is recognized as an emerging 
+and complementary surveillance modality for mpox. In 
+the context of this strategy, environmental surveillance 
+is positioned as a pilot or targeted application, to be 
+implemented selectively in high-risk urban settings, 
+endemic hotspots, or areas with recurrent transmis-
+sion, where feasibility, laboratory capacity, and public 
+health value are demonstrated. Environmental surveil-
+lance is not expected to be implemented universally 
+across all Member States or districts, particularly in 
+low-resource settings. Lessons generated from pilot 
+implementations will inform future scale-up decisions 
+and integration into broader One Health surveillance 
+systems.
+Expected Outcomes of institutionalization
+• Mpox fully embedded in IDSR, One Health, and 
+PHERP frameworks at national and regional levels.
+• Routine surveillance maintained across public, 
+private, and community sectors.
+• Interoperable digital systems linking human, ani-
+mal, environmental, and PoE data.
+• Regular data analysis, feedback, and performance 
+monitoring institutionalized.
+• Sustainable financing and trained workforce 
+secured for long-term implementation.
+VIII. Operational Gap-to-Action framework for mpox 
+surveillance integration (0–12 Months)
+Countries may use this Operational Gap-to-Action Framework as the primary implementation checklist during the 
+first 12 months of strategy rollout, guiding sequencing of activities, partner engagement, and monitoring of early 
+progress toward surveillance integration.
+Table 8: Implementation checklist for first 12 months
+Thematic area Practical 
+gaps seen
+Core strategies 
+(0–6 months)
+Institutionalization 
+(6–12 months)
+Lead actors Key KPIs 
+(examples)
+Stakeholder 
+engagement & 
+One Health
+Private sector, 
+animal health, 
+traditional 
+healers not 
+engaged; 
+weak 
+attendance 
+in technical 
+sessions
+Map & onboard 
+private clinics, 
+labs, and 
+veterinary 
+services; 
+sign simple 
+collaboration 
+ToRs; schedule 
+quarterly joint 
+briefings; include 
+traditional healers 
+& faith leaders in 
+CBS
+Formalize One Health 
+MoUs (Human–Animal–
+Environment); embed 
+private sector in TWGs; 
+annual joint simulation
+MoH/NPHI, 
+Veterinary. 
+Services, Private 
+associations, 
+IFRC/NGOs
+% districts with 
+private/animal-
+health reps in 
+TWGs (≥80%); # 
+joint One Health 
+investigations/
+quarter
+19
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Unequal support 
+cascade to 
+subnational 
+levels
+Support stuck 
+at national; 
+weak district 
+ops
+Create district 
+micro-plans & 
+budgets; deploy 
+RRTs; monthly 
+district coaching; 
+standardize 
+reporting 
+packages
+Integrate mpox into 
+routine IDSR workplans 
+and financing lines; 
+district performance 
+contracts
+MoH/NPHI, 
+Provinces/
+Districts, 
+Partners
+% districts 
+submitting weekly 
+sitreps (≥90%); RRT 
+deployment time 
+(≤48h)
+Cross-border & 
+PoE surveillance
+Limited 
+coordination; 
+porous 
+borders; 
+unmanned 
+PoEs
+Bi-national cross-
+border meetings; 
+harmonize 
+alerts & case 
+definitions; PoE 
+SOPs; traveler 
+screening/referral 
+pathways
+Formal cross-border 
+agreements; annual 
+joint tabletop/live 
+exercises; shared PoE 
+dashboards
+Neighboring 
+MoHs, IOM/
+WHO/Africa CDC, 
+Port Health
+# cross-border 
+meetings/
+semester (≥2); % 
+priority PoEs with 
+SOPs & trained 
+staff (≥90%); 
+time from PoE 
+alert→notification 
+(≤24h)
+Contact 
+tracing & case 
+investigation
+Under-tracing; 
+missed home-
+treated cases
+Standard tools; 
+train & roster 
+tracers; daily line-
+list audits; call/
+SMS follow-up; 
+escalate hard-to-
+reach via CHWs
+Digital contact-tracing 
+module (DHIS2/
+Go.Data); retention & 
+incentive scheme
+Surveillance 
+Pillar, District 
+teams, CHWs
+Case:contact ratio 
+(target context-
+specific, e.g., 
+≥1:15); % contacts 
+monitored 21 days 
+(≥80%)
+Diagnostics & 
+lab TAT
+Limited kits; 
+slow transport; 
+delayed 
+confirmation
+Map sample 
+routes; use 
+courier/motorbike 
+networks; 
+introduce RDT 
+where validated; 
+weekly stock 
+tracking
+Regional hub labs; 
+specimen referral 
+agreements; genomic 
+sequencing plan (≥5% 
+priority samples)
+National Laba, 
+Reference Labs, 
+Partners
+% suspected 
+sampled within 24h 
+(≥80%); median 
+sample TAT to 
+result (≤72h); 
+sequencing 
+coverage (≥5%)
+Data systems & 
+interoperability
+IDSR not 
+linked to LIS, 
+hotlines, PoE; 
+duplicate entry
+Minimum data 
+set; unique 
+case ID; weekly 
+reconciliation 
+(EBS/CBS–IDSR–
+LIS); automate 
+import templates
+API/HL7 integration 
+between DHIS2 & 
+LIS/PoE; national 
+interoperability 
+guideline
+HIS Unit, Lab IS, 
+PoE, Hotlines
+% districts using 
+digital case-based 
+reporting (≥80%); 
+data concordance 
+IDSR↔ LIS (≥95%)
+Connectivity & 
+digitalization
+Poor internet 
+(rural); weak 
+dashboards
+Offline-first tools; 
+data bundling for 
+facilities; simple 
+auto-dashboards 
+(district → 
+national)
+Scaled connectivity 
+packages for priority 
+sites; national analytics 
+hub
+MoH HIS, Telcos 
+(CSR), Partners
+% facilities syncing 
+weekly (≥90%); 
+# automated 
+dashboards live
+Community 
+engagement & 
+stigma
+Low 
+awareness; 
+refusal of 
+tracing/
+isolation
+Co-design RCCE 
+with communities; 
+rumor tracking; 
+targeted 
+messages (youth, 
+key networks); 
+MHPSS referral
+Embed RCCE into CBS 
+SOPs; periodic social-
+listening & behavior 
+metrics
+RCCE, CBS, 
+CSOs, Media
+% alerts originating 
+from CBS/EBS; 
+time onset→first 
+consultation 
+(declining trend); 
+stigma index (qual/
+quant)
+20
+INCIDENT MANAGEMENT SUPPORT TEAM
+Governance, 
+policy & 
+emergency 
+financing
+Centralized 
+coordination; 
+delayed funds; 
+absent MoUs
+Update mpox 
+policy notes (case 
+def., thresholds, 
+PoE); activate 
+contingency 
+funds; fast-track 
+micro-grants to 
+districts
+Include mpox in national 
+Notifiable lists & IDSR 
+TG; multi-year budget 
+lines; cross-border 
+MoUs
+MoH/Finance, 
+Parliament, 
+Partners
+Time from 
+request→fund 
+release (≤7 days); 
+# signed MoUs; 
+policy updates 
+approved
+Logistics & 
+supply chain
+Few vehicles/
+fuel; PPE & 
+cold-chain 
+gaps
+Establish pooled 
+transport 
+(motorbike hubs); 
+pre-position 
+sampling kits/
+PPE; route 
+optimization
+Framework contracts 
+for courier/cold chain; 
+e-LMIS for surveillance 
+commodities
+MoH Logistics, 
+Partners, Private 
+couriers
+% districts with ≥1 
+weekly cold-chain 
+pickup; stockout 
+rate of critical 
+items (≤5%)
+Human 
+resources & 
+retention
+Shortage/
+turnover; 
+burnout; 
+special groups 
+untrained
+Rapid ToT; short 
+refresher bursts; 
+micro-incentives 
+for CHWs/tracers; 
+enlist motorcycle 
+riders/traditional 
+healers
+Career pathways & 
+retention packages; 
+integrate mpox modules 
+into pre-service 
+curricula
+Human resource 
+Department, 
+Training Schools, 
+NGOs
+# trained & active 
+tracers; staff 
+retention at 6/12 
+months (≥80%); 
+supervision 
+coverage (≥90%)
+M&E, quality & 
+learning
+Weak routine 
+reviews; data 
+quality issues
+Monthly data-
+quality checks; 
+quarterly 
+performance 
+reviews using 
+KPIs; after-action 
+reviews for 
+clusters
+National M&E 
+framework with targets; 
+public dashboard; 
+annual learning brief
+M&E Unit, 
+Surveillance, 
+Partners
+% indicators 
+meeting targets; 
+Data quality 
+assessment error 
+rate;
+ # Intra and After 
+action reviews 
+conducted
+Hard-to-reach 
+& humanitarian 
+settings
+Insecurity, 
+access 
+constraints
+Mobile outreach; 
+negotiate 
+humanitarian 
+access; pop-up 
+sampling; partner 
+with local NGOs
+Add mpox to 
+humanitarian health 
+kits; integrate with 
+polio/cholera outreach; 
+flexible funding window
+MoH, OCHA/UN, 
+NGOs, Security
+% alerts 
+investigated in 
+insecure areas; # 
+mobile missions/
+month
+Private out-of-
+pocket costs
+Care-seeking 
+delays due to 
+costs
+Fee waivers for 
+testing/essential 
+care; clear 
+referral to public 
+services
+Policy to subsidize 
+mpox diagnostics & 
+essentials; reimburse 
+private providers for 
+notifications
+MoH/Finance, 
+Insurers, Private 
+sector
+% suspected 
+tested without out 
+of pocket; 
+% of cases 
+reported by private 
+sector
+21
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+IX. Governance of mpox surveillance beyond emergency 
+activation
+As mpox transitions from a protracted emergency re-
+sponse to an integrated, routine public health surveil-
+lance function, clear governance arrangements are re-
+quired to ensure continuity, accountability, and timely 
+action outside of formal emergency or IMST activation. 
+This section defines governance structures, roles, 
+and decision-making mechanisms that apply before, 
+between, and after emergency activations, ensuring 
+that mpox surveillance remains functional, responsive, 
+and sustainable within national and continental health 
+systems.
+1. Governance principles
+Mpox surveillance beyond emergency activation is 
+guided by the following principles:
+• Continuity: Surveillance functions must remain 
+operational regardless of emergency grading or 
+IMST status.
+• Proportionality: Governance arrangements 
+should enable graded escalation based on epide-
+miological thresholds rather than binary emergen-
+cy declarations.
+• Subsidiarity: Decisions should be taken at the 
+lowest effective level, with escalation only when 
+thresholds are exceeded.
+• Integration: Mpox surveillance governance 
+should be embedded within existing IDSR, epi-
+demic intelligence, and One Health coordination 
+structures.
+• Shared accountability: National authorities re-
+tain primary responsibility, supported by regional 
+and continental coordination mechanisms.
+2. National-level governance arrangements
+In the absence of an activated emergency response 
+or national IMST, Mpox surveillance governance rests 
+within routine national public health structures, led by 
+the Ministry of Health (MoH) through the National Pub-
+lic Health Institute (NPHI) or equivalent epidemiology 
+and surveillance directorate.
+Key national governance functions include:
+• Oversight of mpox surveillance integration within 
+IDSR, including routine indicator-based sur-
+veillance, event-based surveillance (EBS), and 
+community-based surveillance (CBS).
+• Validation and interpretation of epidemiological 
+thresholds and trends at national and subnational 
+levels.
+• Authorization of graded response actions (e.g. 
+deployment of RRTs, intensified contact tracing, 
+targeted RCCE) triggered by surveillance signals.
+• Coordination with national laboratory networks, 
+animal health authorities, and Points of Entry 
+(PoE).
+• Convening routine (e.g. weekly or bi-weekly) 
+surveillance review meetings where mpox data 
+are reviewed alongside other epidemic-prone 
+diseases.
+Where established, national epidemic intelligence or 
+multi-hazard surveillance committees should explicitly 
+include mpox as a standing agenda item, even in the 
+absence of active transmission.
+3. Subnational governance and decision 
+authority
+Provincial, regional, and district health authorities play 
+a central role in mpox surveillance beyond emergency 
+activation, particularly in endemic settings.
+Their governance responsibilities include:
+• Routine monitoring of mpox indicators and alerts 
+through IDSR, EBS, and CBS.
+• Initial verification of alerts and clusters and initia-
+tion of first-line response actions.
+• Escalation of signals to national level when pre-
+defined thresholds are met (e.g. unlinked cases, 
+geographic spread, rising positivity).
+• Oversight of community engagement, contact 
+tracing, and data quality at operational level.
+To support effective governance, countries are en-
+couraged to formalize district-level decision matrices 
+that specify which actions can be taken locally and 
+which require national authorization.
+4. Graded escalation and relationship to 
+emergency activation
+This strategy distinguishes surveillance escalation 
+from formal emergency activation.
+22
+INCIDENT MANAGEMENT SUPPORT TEAM
+• Crossing surveillance or resurgence thresholds 
+does not automatically trigger emergency decla-
+rations.
+• Threshold crossings trigger predefined surveil-
+lance and response actions, which may include:
+• Intensified case finding and testing,
+• Surge support to affected districts,
+• Activation of national coordination mecha-
+nisms in “light” or technical mode.
+• Formal emergency activation (e.g. national IMST 
+or public health emergency declaration) remains 
+a separate decision, informed by surveillance data 
+but subject to national legal and policy frame-
+works.
+This approach ensures that mpox surveillance remains 
+agile and responsive without over-reliance on emer-
+gency modalities.
+5. Continental and regional governance
+At continental level, WHO AFRO and Africa CDC 
+provide strategic oversight, coordination, and ac-
+countability for mpox surveillance beyond emergency 
+activation through joint mechanisms.
+Key continental governance functions include:
+• Consolidation and analysis of surveillance data 
+from Member States.
+• Periodic review of country epidemiological cate-
+gorization and reclassification.
+• Issuance of technical advisories, alerts, and risk 
+assessments based on regional trends.
+• Facilitation of cross-border information sharing 
+and joint investigations.
+• Monitoring of performance against agreed conti-
+nental KPIs and baselines.
+The Joint WHO–Africa CDC coordination platform for 
+mpox surveillance continues to function outside IMST 
+activation, ensuring continuity of technical leadership 
+and partner alignment.
+6. Cross-border and multi-country governance
+For countries sharing borders with endemic or 
+outbreak-affected areas, governance of mpox surveil-
+lance requires structured cross-border arrangements 
+even in non-emergency periods.
+These include:
+• Designated cross-border surveillance focal points.
+• Routine exchange of surveillance data and alerts.
+• Joint review of cross-border transmission risks 
+and mobility patterns.
+• Periodic simulation exercises and tabletop re-
+views.
+Regional Economic Communities may support these 
+arrangements by providing platforms for coordination, 
+standardization, and dispute resolution where needed. 
+Failure to notify cross-border mpox events or alerts 
+within agreed timelines should trigger a joint review 
+mechanism, facilitated by WHO AFRO and Africa CDC, 
+in collaboration with the affected Member States. 
+These reviews will identify operational bottlenecks, 
+clarify responsibilities, and agree on corrective actions 
+to strengthen cross-border surveillance and informa-
+tion exchange.
+7. Accountability and review mechanisms
+Governance beyond emergency activation is rein-
+forced through regular accountability processes, 
+including:
+• Monthly national surveillance performance 
+reviews.
+• Quarterly regional or continental surveillance 
+coordination calls.
+• Annual joint WHO–Africa CDC reviews of mpox 
+surveillance performance, integration progress, 
+and lessons learned.
+Findings from these reviews should inform:
+• Targeted technical assistance,
+• Partner support and resource allocation,
+• Updates to surveillance tools, thresholds, and 
+guidance.
+23
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+APPENDICES
+Annex 1: Threshold Criteria for Mpox 
+Endemicity Classification – Case Study from 
+the Democratic Republic of Congo (DRC)
+Establishing clear criteria for determining the endemic-
+ity status of Mpox at subnational levels is critical for 
+tailoring surveillance strategies, resource allocation, 
+and outbreak response. In countries like the Demo-
+cratic Republic of Congo, where Mpox has been his-
+torically present, delineating districts into endemic and 
+non-endemic zones ensures that surveillance efforts 
+are prioritized effectively.
+1. Operational definition of endemicity
+In the DRC context, a health zone (district equivalent) 
+is classified as endemic for Mpox if it meets one 
+or more of the following criteria based on surveillance 
+data trends over a two-year reference period:
+• Recurrent Mpox Detection: The zone reported 
+confirmed Mpox cases in at least two different 
+calendar years over the last five years.
+• Sustained Transmission: A zone with con-
+firmed Mpox cases for at least 6 cumulative 
+months (not necessarily continuous) within the 
+past 24 months.
+• Geographic Persistence: Health zones bor-
+dered by ≥3 other endemic health zones, indicat-
+ing probable local maintenance of transmission.
+• Zoonotic Confirmation: Verified zoonotic 
+transmission chains or spillover from animal reser-
+voirs in the zone.
+Zones not meeting any of the above criteria are con-
+sidered non-endemic and require a different surveil-
+lance posture.
+2. Threshold determination process
+The threshold-setting exercise in DRC followed a sys-
+tematic approach:
+• Data Review: Compilation of line-listed Mpox 
+surveillance data from 2020 to 2024, covering 
+confirmed cases by health zone, with attention to 
+seasonality, case density, and time trends.
+• Zonal Classification: Zones were mapped 
+and categorized using both quantitative case 
+frequency thresholds and expert epidemiological 
+judgment.
+• Validation: Thresholds and classifications were 
+validated in a joint technical workshop involving 
+MOH, WHO, and partners, incorporating local 
+knowledge and transmission history.
+3. Methodological approach
+Using five years of case-based surveillance data 
+(2018–2022), the DRC surveillance team assessed:
+• Confirmed case trends per health zone,
+• Persistence and recurrence of cases over 
+multiple years,
+• Seasonality and reporting frequency, and
+• Presence of animal reservoirs or documented 
+zoonotic events.
+Table 9: The DRC categories of endemicity 
+Endemicity Level Definition Criteria
+Highly Endemic Zones with sustained mpox detection 
+and frequent recurrence
+≥3 years with confirmed mpox cases in the last 5 
+years AND ≥1 outbreak with ≥10 confirmed cases
+Moderately En-
+demic
+Zones with intermittent but recurring 
+mpox transmission
+≥2 years with confirmed cases in the last 5 years, 
+with ≤9 cases per outbreak
+Non-Endemic Zones with rare or no mpox cases 
+reported in recent years
+≤1 confirmed case in the past 5 years OR zero 
+confirmed cases
+Source: Estimation-du-seuil-dendemicite-de-la-Mpox-en-République-Démocratique-du-Congo.pdf
+24
+INCIDENT MANAGEMENT SUPPORT TEAM
+4. Application of the thresholds
+Applying these thresholds:
+• 54 out of 519 health zones were categorized as highly endemic, notably in Équateur, Tshuapa, Sankuru, and 
+Maniema.
+• 90 zones were classified as moderately endemic with sporadic but repeated outbreaks.
+• The remaining 375 zones were considered non-endemic.
+5. Implications for surveillance strategy
+Table 10: The DRC Proposed interventions based on classification
+Surveillance Focus Area Highly Endemic Zones Non-Endemic Zones
+Case Detection & Re-
+porting
+Routine active case search, integrate into 
+IDSR weekly reports
+Enhanced event-based surveillance, 
+alert-triggered investigation
+Laboratory Testing Targeted sentinel site confirmation and pe-
+riodic genomic sequencing
+All suspected cases tested at national lab
+Community Engagement Continuous community-based surveillance 
+and education
+Targeted awareness campaigns following 
+alerts or suspected cases
+Outbreak Response 
+Readiness
+Pre-positioned RRTs and IPC supplies Rapid deployment mechanisms for con-
+tainment
+6. Surveillance Implications
+The endemicity classification impacts both routine surveillance intensity and thresholds for action.
+Table 11: DRC Alert thresholds and response actions
+Zone Classifi-
+cation
+Surveillance Focus Alert Threshold Response Activation
+Endemic zone Enhanced routine surveillance, 
+sentinel animal surveillance, 
+periodic community-based sur-
+veillance
+≥2x increase in weekly cases vs 
+4-week average OR New clade 
+introduced
+Review vaccination 
+needs, genomic sequenc-
+ing, assess IPC gaps
+Non-endemic  
+zone
+EBS alerts, travel-linked case 
+detection, POE monitoring
+≥1 confirmed case with no travel 
+history OR Cluster of ≥2 suspect-
+ed rash illness with epidemiologic 
+link
+Full outbreak investiga-
+tion, contact tracing, alert 
+WHO IMST
+7. Key Lessons from DRC Experience
+• Longitudinal data analysis is essential to determine true persistence versus repeated reintroductions.
+• Endemicity status is dynamic and should be reassessed every 2–3 years or during major outbreaks.
+• Integration of One Health surveillance (wildlife, bushmeat trade, human-animal contact) is key in suspected 
+spillover zones.
+25
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Annex 2: Mpox surveillance tools
+Data collection, analysis, and reporting
+Effective Mpox surveillance requires a standardized 
+framework for data collection, management, analysis, and 
+reporting. 
+The use of harmonized tools and digital platforms enables 
+comparability across Member States, improves data 
+quality, and ensures timely dissemination of information 
+to guide public health action at national and continental 
+levels.
+a. Standardized data collection tools
+• Case Report Forms (CRFs): 
+Structured templates capturing demographic, clini-
+cal, laboratory, and epidemiological information for 
+each suspected or confirmed case. 
+WHO and Africa CDC have developed standardized 
+CRFs to ensure harmonization; Ministries of Health 
+should adapt these forms to national contexts while 
+maintaining the core data elements.
+• Minimum data sets (MDS): 
+A defined list of key variables required for case-
+based and aggregate reporting. 
+These include identifiers, location, date of onset, 
+case classification, outcome, and laboratory confir-
+mation status. 
+Use of MDS ensures consistency and reduces report-
+ing burden across surveillance levels.
+• Communityand event-based reporting tools: 
+Simplified forms and mobile applications for commu-
+nity health workers (CHWs), animal health officers, 
+and Points of Entry (PoE) personnel to capture alerts 
+and rumors in real time.
+b. Digital data entry and management platforms
+• DHIS-2 Tracker: 
+The recommended digital platform for Mpox case-
+based surveillance, integrated within the IDSR 
+system and interoperable with laboratory and PoE 
+modules. 
+It allows online and offline data entry, real-time vali-
+dation, and national-to-continental data transmission.
+• Laboratory Information Management Systems (LIMS): 
+Used to manage sample tracking, test results, and ge-
+nomic data; should be linked electronically to DHIS2 
+and IDSR databases.
+• Integrated Databases and Interoperability: 
+Countries are encouraged to maintain unified national 
+databases that consolidate data from health facilities, 
+laboratories, animal health surveillance, and PoEs. 
+Data integration should follow standardized ex-
+change protocols (e.g., API or HL7) and ensure 
+real-time flow of information across sectors.
+• Data Security and Confidentiality: 
+All electronic data systems must implement strong 
+data governance measures, including user access 
+control, encryption, and compliance with national 
+data protection regulations.
+c. Data analysis and interpretation
+• Epidemiological analysis:  
+Routine generation of descriptive and analytical 
+statistics (e.g., incidence, positivity rate, CFR, and 
+case-to-contact ratio). 
+Data should be disaggregated by time, place, and 
+person, and analyzed to detect unusual increases, 
+geographic clustering, or changes in transmission 
+patterns.
+• Advanced analytics: 
+Countries are encouraged to apply statistical model-
+ing and geographic information system (GIS) tools for 
+hotspot mapping, forecasting, and risk assessment. 
+Integration of genomic sequencing results supports 
+tracking of clade circulation and virus evolution.
+• Performance monitoring: 
+Automated dashboards should calculate key sur-
+veillance indicators  such as notification timeliness, 
+laboratory turnaround time (TAT), and completeness  
+to assess system performance and guide corrective 
+action.
+d. Reporting and visualization tools
+• Standardized reporting protocols: 
+Clear national guidance should define the frequency 
+and format of Mpox reporting (e.g., weekly IDSR 
+updates, monthly summaries, and quarterly reviews). 
+(Reference to the  WHO Surveillance, case investiga-
+tion and contact tracing for mpox: interim guidance, 
+27 November 2024 available at https://www.who.int/
+publications/i/item/B09169#:~:text=Overview,as%20
+they%20are%20symptom%2Dfree. ) 
+Data flows must align with the national health infor-
+mation system and regional reporting timelines.
+• Interactive dashboards: 
+Digital dashboards enable real-time visualization of 
+alerts, cases, test results, and geographic distribu-
+tion. 
+These dashboards support rapid decision-making at 
+all levels and feed data into the joint Africa CDC WHO 
+continental Mpox dashboard for regional analysis.
+• Feedback and Information Sharing: 
+Routine dissemination of analytical reports and 
+performance reviews to subnational levels, laborato-
+ries, and partners ensures transparency, strengthens 
+accountability, and encourages the use of data for 
+public health action.
+26
+INCIDENT MANAGEMENT SUPPORT TEAM
+Annex 3: Key surveillance areas and partner support actions
+Surveillance area Key actions to support ministries of health
+Policy, coordination & 
+technical guidance
+• Provide technical guidance on mpox surveillance policy formulation and 
+strategic planning.
+• Support the development, review, and dissemination of surveillance proto-
+cols, case definitions, and standard operating procedures.
+• Facilitate multisectoral coordination platforms and response taskforces.
+• Promote alignment with International Health Regulations and regional 
+frameworks.
+Surveillance operations • Assist in the design and operationalization of mpox case investigation 
+forms, line lists, contact tracing tools, and early warning systems.
+• Provide technical support for outbreak investigations and epidemiological 
+analysis.
+• Strengthen alert verification, reporting channels, and rapid response mech-
+anisms at national and subnational levels.
+Community-Based and 
+Event-Based Surveillance 
+(CBS & EBS)
+• Support the development of community case definitions and job aids for 
+frontline workers.
+• Provide training, supervision, and incentives for community health workers 
+and surveillance volunteers.
+• Design and implement EBS platforms that integrate signals from communi-
+ties, media monitoring, and health facilities.
+• Strengthen linkages between CBS/EBS and national reporting systems.
+Laboratory & genomic sur-
+veillance
+• Supply equipment, reagents, and testing kits for PCR diagnosis and se-
+quencing.
+• Provide training on biosafety, sample collection, transport, and testing 
+protocols.
+•  Establish regional specimen referral networks and genomic surveillance 
+collaboration platforms.
+• Strengthen lab-based data reporting and integration with surveillance 
+dashboards.
+Cross-border surveillance • Develop joint cross-border surveillance plans and information sharing 
+agreements.
+• Enhance surveillance and screening at Points of Entry (PoEs) with stan-
+dardized tools.
+• Facilitate human and animal mobility mapping to inform preparedness.
+• Provide logistic and ICT support for sample transport and data exchange 
+across countries.
+27
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Digital surveillance & data 
+management
+• Design or enhance real-time data reporting systems (e.g., DHIS2 modules, 
+mobile apps).
+• Train surveillance officers on digital tools, data entry, validation, analysis, 
+and interpretation.
+• Integrate surveillance data across platforms and improve interoperability.
+• Support development of analytics dashboards for decision-making.
+One Health & zoonotic sur-
+veillance
+• Provide technical guidance on integrating animal health surveillance with 
+human health systems.
+• Support capacity building for joint investigations and data sharing between 
+veterinary and human health sectors.
+• Facilitate mapping of zoonotic reservoirs and potential spillover zones.
+• Promote One Health governance mechanisms and joint simulation exercis-
+es.
+Human resources & capaci-
+ty building
+• Conduct training needs assessments and develop national capacity-build-
+ing plans.
+• Offer cascade training on surveillance tools, outbreak response, data use, 
+and leadership.
+• Establish mentorship, supervision, and peer-learning networks for surveil-
+lance officers.
+• Support human resource surge capacity during outbreaks through rosters 
+and deployments.
+Monitoring, evaluation & 
+sustainability
+• Assist in developing national M&E frameworks for mpox surveillance. 
+Define and track performance indicators (KPIs) linked to surveillance goals.
+• Conduct after-action reviews, data quality audits, and joint evaluations.
+• Support sustainability planning, resource mobilization, and transition into 
+routine surveillance.
+28
+INCIDENT MANAGEMENT SUPPORT TEAM
+Annex 4: Summary matrix of mpox surveillance strategies by epidemiological category
+Category / 
+Approach
+Primary Surveil-
+lance Focus
+Core Strategic Actions Expected Impact / Out-
+comes
+1. Endemic 
+Countries 
+(Sustained 
+high-intensity 
+surveillance)
+Continuous detection 
+of zoonotic and human 
+transmission; inte-
+gration of One Health 
+and IDSR systems for 
+sustained response.
+• Conduct active case search (ACS) 
+and event-based surveillance 
+(EBS) in rural, forest-adjacent, 
+and urban hotspots.
+• Deploy community and animal 
+health workers for joint human–
+animal case finding.
+• Strengthen contact tracing, lab 
+testing, and genomic sequencing 
+(≥5 % coverage).
+• Implement cross-border and PoE 
+surveillance with joint investiga-
+tion platforms.
+• Integrate One Health data sharing 
+and environmental/wastewater 
+monitoring.Maintain surveillance 
+in humanitarian and insecure 
+settings.
+• Ensure domestic financing and 
+predictable partner support.
+• Early detection of 
+outbreaks and zoonotic 
+spillovers.                          
+• Continuous monitoring of 
+transmission dynamics 
+and clade shifts.
+• Rapid containment of 
+local clusters.
+• Reduced case fatality 
+and cross-border spread.
+• Institutionalized, sustain-
+able Mpox surveillance 
+embedded in IDSR and 
+One Health.
+2. Non-Endem-
+ic Countries 
+with Active 
+Outbreaks 
+(Rapid con-
+tainment and 
+transition to 
+routine moni-
+toring)
+Early identification and 
+interruption of intro-
+duced transmission 
+chains.
+• Implement rapid EBS/CBS activa-
+tion in facilities and communities.
+• Train HCWs on case definition, 
+differential diagnosis, and alert 
+verification.
+• Deploy comprehensive contact 
+tracing and quarantine protocols.
+• Strengthen PoE screening and 
+cross-border notification.
+• Maintain real-time outbreak data-
+base integrated with IDSR.
+• Conduct baseline performance 
+assessment by week 4 and fol-
+low-up at weeks 8 & 12.
+• Integrate genomic sequencing for 
+clade confirmation and epidemio-
+logic linkage.
+• Imported and local cases 
+detected within 48 hours.
+• ≥ 90 % of contacts 
+traced and monitored.
+• Local transmission 
+contained within two 
+generations.
+• Improved national 
+coordination and partner 
+alignment.
+• Documented reduction 
+in detection-to-response 
+timelines.
+29
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+3. Non-Endem-
+ic Countries 
+with No or 
+Controlled 
+Local Trans-
+mission 
+(Readiness 
+and preventive 
+integration)
+Sustained vigilance to 
+detect imported cases 
+and prevent re-intro-
+duction.
+• Maintain Mpox on national 
+epidemic-prone disease watchlist 
+with zero-reporting.
+• Integrate Mpox signals into PoE 
+and IDSR early-warning systems.
+• Conduct semi-annual readiness 
+assessments and simulation 
+exercises.
+• Retain or access PCR and 
+sequencing capacity through 
+referral networks.
+• Establish MoUs for data ex-
+change with endemic neighbors.
+• Conduct periodic refresher train-
+ing and awareness campaigns.
+• Publish monthly zero-report sum-
+maries and readiness briefs.
+• Continuous national 
+readiness demonstrated.
+• Imported cases detected 
+and managed promptly.
+• No sustained local trans-
+mission.
+• Strengthened cross-bor-
+der coordination and 
+information flow.
+• Maintained public and 
+political awareness of 
+Mpox risks.
+30
+INCIDENT MANAGEMENT SUPPORT TEAM
+Annex 5: Glossary of terms 
+Term Definition (as used in the Strategy)
+Active Case Search (ACS) Proactive, targeted search for suspected/confirmed cases in facilities, com-
+munities, and specific high-risk settings.
+Alert Any signal (clinical, community, media, hotline, PoE, animal event) that may 
+indicate mpox and requires verification.
+Baseline Assessment Measurement of existing surveillance performance (timeliness, complete-
+ness, testing, contact follow-up) against which improvement is tracked.
+Case-based Surveillance Individual-level data capture for each case (epidemiology, clinical, lab, con-
+tacts) using standardized tools (e.g., DHIS2 Tracker).
+Case Definition Standardized clinical/epidemiological/laboratory criteria to classify suspect-
+ed, probable, and confirmed mpox cases.
+Case Investigation Field verification and detailed data collection, including exposure history and 
+linkage to contacts and laboratory sampling.
+Cluster Two or more epidemiologically linked cases in time and place suggesting 
+common exposure or person-to-person transmission.
+Contact A person with exposure to a confirmed/probable case likely to result in infec-
+tion; followed for 21 days.
+Contact Listing & Tracing Systematic identification, listing, and active daily follow-up of contacts to 
+interrupt transmission.
+Data Interoperability Seamless, standards-based data exchange across systems (e.g., DHIS2, LIS/
+LIMS, SIMAR, PoE databases).
+Digital Dashboard Real-time visualization of alerts, cases, lab results, KPIs, and micro-risk 
+maps for decision-making.
+Epidemiological Threshold A predefined quantitative/qualitative level (e.g., rise in cases/positivity, HCW 
+infections) that triggers specific response actions.
+Environmental/Wastewater 
+Surveillance
+Testing environmental samples (e.g., sewage) to detect community circula-
+tion and support early warning.
+Event-Based Surveillance (EBS) Structured capture and rapid triage of unstructured signals (media, social, 
+hotlines, community rumors).
+Genomic Surveillance Sequencing and analysis to identify clades, track introductions, and monitor 
+spread/evolution.
+Hotspot Geographic or social setting with elevated risk of transmission, requiring 
+intensified detection and RCCE.
+Incident Management (IM/IMS/
+IMST)
+Structured command system to coordinate outbreak operations across 
+technical pillars.
+Indicator-Based Surveillance 
+(IBS)
+Routine, structured reporting (e.g., weekly IDSR) used to monitor trends and 
+thresholds.
+Infection Prevention and Con-
+trol (IPC)
+Policies and practices (e.g., PPE, triage, isolation) to prevent healthcare-as-
+sociated transmission.
+Intra-Action Review (IAR) Real-time review during an ongoing response to improve performance and 
+correct course.
+Key Performance Indicators 
+(KPIs)
+Agreed metrics to track surveillance performance (e.g., onset→notification, 
+sampling, TAT, contact follow-up).
+31
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+Laboratory Turnaround Time 
+(TAT)
+Time from lab receipt of specimen to result release; a core timeliness KPI.
+Line List Individual-level tabulation of cases or contacts used for analysis and linkage 
+(epi, lab, tracing).
+Micro-risk Mapping GIS-supported, fine-scale mapping of risk to target case-finding and RCCE.
+Minimum Data Set (MDS) Required core variables for all case/alert records to ensure comparability 
+and completeness.
+Mpox The disease caused by MPXV; term used throughout in preference to “mon-
+keypox.”
+One Health Integrated, multisectoral approach linking human, animal, and environmental 
+health for prevention, detection, and response.
+Points of Entry (PoE) Airports, seaports, and ground crossings applying screening, triage, referral, 
+and data exchange.
+Rapid Response Team (RRT) Multidisciplinary team ready for rapid deployment to investigate and support 
+response.
+Resurgence Threshold Composite criteria (epidemiology, positivity, spread, severity/system pres-
+sure, system risk) signaling escalating transmission requiring surge mea-
+sures.
+Risk Communication & Commu-
+nity Engagement (RCCE)
+Two-way information and engagement processes to build trust, counter 
+misinformation, and support public health action.
+Routine (Zero-) Reporting Regular reporting—including “zero reports”—to document absence/pres-
+ence of suspected cases and maintain vigilance.
+Standard Operating Procedure 
+(SOP)
+Agreed stepwise instructions for consistent execution of surveillance/lab/
+IPC processes.
+Surge Capacity Ability to rapidly scale staffing, supplies, diagnostics, and operations when 
+thresholds are crossed.
+Terms of Reference (ToR) Roles and responsibilities for committees, TWGs, or cross-border platforms.
+Technical Working Group 
+(TWG)
+Expert group providing coordination and technical oversight for a specific 
+thematic area.
+32
+INCIDENT MANAGEMENT SUPPORT TEAM
+References
+1. World Health Organization (WHO). Mpox 
+Surveillance, Case Investigation and Contact 
+Tracing: Interim Guidance. Geneva: WHO; 2024. 
+Available at: https://www.who.int/publications/i/
+item/WHO-MPX-Surveillance-2024.1 
+2. World Health Organization (WHO). Con-
+siderations for Border Health and Points of Entry 
+for Mpox: Interim Guidance, 25 November 2024. 
+Geneva: WHO; 2024. Available at: https://www.
+who.int/publications/i/item/B09144 
+3. World Health Organization (WHO). Interim 
+Guidance on Strengthening Community Detec-
+tion and Response during the Mpox Outbreak. 
+Draft, January 2025. Geneva: WHO. https://www.
+who.int/publications/i/item/B09313 
+4. World Health Organization (WHO). Mpox 
+Fact Sheet. Geneva: WHO; 2025. Available at: 
+https://www.who.int/news-room/fact-sheets/
+detail/mpox 
+5. World Health Organization (WHO). 
+Mpox Situation Reports and Global Dashboard. 
+Geneva: WHO; updated 2025. Available at: 
+https://cdn.who.int/media/docs/default-source/
+documents/emergencies/multi-country-out-
+break-of-mpox--external-situation-report_62.
+pdf?sfvrsn=3a355eb6_3&download=true
+6. World Health Organization (WHO). Interim 
+Laboratory Testing Guidance for Mpox. Geneva: 
+WHO; 2024. Available at: https://www.who.int/
+publications/i/item/B09166
+7. World Health Organization (WHO). Infec-
+tion Prevention and Control for Mpox in Health 
+Care and Community Settings: Interim Guidance. 
+Geneva: WHO; 2024. Available at: https://www.
+who.int/publications/i/item/9789240101654 
+8. World Health Organization (WHO). A 
+Guide to Establishing Event-Based Surveillance. 
+Manila: WHO Regional Office for the Western 
+Pacific; 2018. Available at: https://iris.who.int/
+server/api/core/bitstreams/1e38533c-30b3-419e-
+89b5-94d63b30df6f/content 
+9. World Health Organization (WHO) – 
+African Region (AFRO). Integrated Disease 
+Surveillance and Response (IDSR) Technical 
+Guidelines, Third Edition, 2020. Brazzaville: WHO 
+AFRO. Available at: https://www.afro.who.int/
+publications/technical-guidelines-integrat-
+ed-disease-surveillance-and-response-afri-
+can-region-third 
+10. World Health Organization (WHO) – Afri-
+can Region (AFRO). Early warning alert and 
+response (EWAR) in emergencies: an operation-
+al guideWHO AFRO; 2023. Available at: https://
+www.who.int/publications/i/item/9789240063587
+11. Africa Centres for Disease Control and 
+Prevention (Africa CDC). Mpox Surveillance 
+reporting protocol, 2024. https://africacdc.org/
+download/mpox-surveillance-reporting-proto-
+col-for-african-union-member-states/ 
+12. Africa CDC. Mpox Risk Categorization and Pre-
+paredness Report. Addis Ababa: Africa CDC; 
+2024. Available at:
+13. Africa CDC. Mpox Weekly Event-Based Sur-
+veillance (EBS) and Situation Reports. Addis 
+Ababa: Africa CDC; 2024–2025. Available at:
+14. Africa CDC. Guidance for Establishing Commu-
+nity-Based Surveillance Systems in Africa. Addis 
+Ababa: Africa CDC; 2023. Available at:
+15. Africa CDC & WHO AFRO. Joint Continen-
+tal Mpox Incident Management Support Team 
+(IMST) Situation Reports. Addis Ababa/Brazza-
+ville; 2023–2025.
+16. Africa CDC. Continental Framework for 
+Strengthening Integrated Disease Surveillance 
+and Early Warning Systems in Africa. Addis Aba-
+ba: Africa CDC; 2024.
+17. International Federation of Red Cross 
+and Red Crescent Societies (IFRC). Interim 
+Guidance on Using Community-Based Surveil-
+lance for Mpox. Geneva: IFRC; 30 August 2024.
+33
+AFRICA CONTINENTAL MPOX SURVEILLANCE STRATEGY
+17. U.S. CDC. Global Health Security – Mpox Re-
+sponse Updates and Surveillance Tools. Atlanta: 
+CDC; 2024.
+21. Masirika L.M. et al. “Ongoing Mpox Outbreak 
+in Kamituga, South Kivu Province, Democratic 
+Republic of the Congo, 2024.” Eurosurveillance. 
+2024. Available at:
+22. Masirika L.M. et al. “Mpox Surveillance 
+Trends in Africa, 2024.” Eurosurveillance. 2024.
+23. Ngere I. et al. “Mpox Outbreaks and Surveil-
+lance Gaps in Endemic and Non-Endemic Afri-
+can Countries, 2022–2024.” The Lancet Global 
+Health. 2024.
+24. Thornhill J.P. et al. “Mpox Transmission 
+Dynamics and Global Response: Lessons from 
+2022–2024.” The Lancet Infectious Diseases. 
+2024.
+25. Bunge E.M. et al. “The Changing Epidemiol-
+ogy of Human Monkeypox – A Systematic Re-
+view.” PLOS Neglected Tropical Diseases. 2022.
+26. WHO R&D Blueprint. Mpox Research and 
+Development Roadmap: Surveillance, Diagnos-
+tics, and Clinical Management Priorities. Gene-
+va: WHO; 2024.
+27. WHO OpenWHO Platform. Mpox: Global 
+Outbreak 2022–2023 Course. Geneva: WHO; 2023. 
+Available at: https://openwho.org/infectiousdis-
+eases/503162/Mpox 
+28. Africa CDC eLearning Platform. One Health 
+Surveillance and Data Integration Course. Addis 
+Ababa: Africa CDC; 2024.
+29. IFRC Learning Platform. Community-Based 
+Surveillance for Epidemic-Prone Diseases 
+(Mpox Module). Geneva: IFRC; 2024.
+31. WHO & WOAH & FAO. Joint One Health 
+Statement on Mpox Surveillance in Animals and 
+Humans. Geneva: Tripartite Secretariat; 2023. 
+Available at:
+32. WHO. Operational Framework for Early Warn-
+ing, Alert and Response in the African Region 
+(EWARS). Geneva: WHO AFRO; 2019.
+33. World Bank Group. Strengthening Health 
+Security and Pandemic Preparedness in Africa: 
+Lessons from Mpox and COVID-19 Responses. 
+Washington DC: World Bank; 2024.
+34. Africa Union Commission & Africa CDC. 
+Africa Health Strategy 2024–2030. Addis Ababa: 
+African Union; 2024.
+35. World Organisation for Animal Health 
+(WOAH). Terrestrial Animal Health Code: Chap-
+ter 8.1 – Infection with Monkeypox Virus. Paris: 
+WOAH; 2024. 
+36. United Nations Development Pro-
+gramme (UNDP). Socio-Economic Impact 
+of Mpox on Vulnerable Communities in Central 
+Africa. New York: UNDP; 2024.

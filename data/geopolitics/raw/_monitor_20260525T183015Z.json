@@ -1,0 +1,132 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-25T18:30:15.716147+00:00",
+  "new_documents": 20,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt",
+      "metadata_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.txt",
+      "metadata_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ff58d6f6d05ea6833cc5b19f365448f9935a85be76eb0cb51eb3fa470208b548.txt",
+      "metadata_path": "data/geopolitics/raw/ff58d6f6d05ea6833cc5b19f365448f9935a85be76eb0cb51eb3fa470208b548.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt",
+      "metadata_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.json"
+    },
+    {
+      "title": "Iran: The Greater Middle East Conflict : The Impact of Explosive Weapons on Civilian Infrastructure, Essential Services, and the Human Consequences (28 February to 15 April 2026)",
+      "url": "https://reliefweb.int/report/iran-islamic-republic/greater-middle-east-conflict-impact-explosive-weapons-civilian-infrastructure-essential-services-and-human-consequences-28-february-15-april-2026",
+      "text_path": "data/geopolitics/raw/19d9d7d764d8adc85955e224ca7216aecc15f724eece6739bd76988e5d2af878.txt",
+      "metadata_path": "data/geopolitics/raw/19d9d7d764d8adc85955e224ca7216aecc15f724eece6739bd76988e5d2af878.json"
+    },
+    {
+      "title": "Iran: The Greater Middle East Conflict : The Impact of Explosive Weapons on Civilian Infrastructure, Essential Services, and the Human Consequences (28 February to 15 April 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/e09fb2c8-8508-4019-bc73-04d62cb7bab0/2.-The-Greater-Middle-East-Conflict-The-Impact-on-Emergency-Services.pdf",
+      "text_path": "data/geopolitics/raw/d2a9598e10f8e2cfa60e8fd5e481afb773e0f71aa3b4d380b8558dd0506cbf1c.txt",
+      "metadata_path": "data/geopolitics/raw/d2a9598e10f8e2cfa60e8fd5e481afb773e0f71aa3b4d380b8558dd0506cbf1c.json"
+    },
+    {
+      "title": "oPt: Humanitarian Situation Report | 25 May 2026",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/opt-humanitarian-situation-report-25-may-2026",
+      "text_path": "data/geopolitics/raw/dc5c19a923cc515c82296738c0213f0f445adde697bdad92f286e2a72d4b04df.txt",
+      "metadata_path": "data/geopolitics/raw/dc5c19a923cc515c82296738c0213f0f445adde697bdad92f286e2a72d4b04df.json"
+    },
+    {
+      "title": "oPt: Humanitarian Situation Report | 25 May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/720b04f8-27f8-4516-948d-379e14d068e0/Humanitarian%20Situation%20Report%20_%2025%20May%202026%20_%20United%20Nations%20Office%20for%20the%20Coordination%20of%20Humanitarian%20Affairs%20-%20Occupied%20Palestinian%20Territory.pdf",
+      "text_path": "data/geopolitics/raw/f3ba7f220bb9c279f24bbb4185086ec779e96d0fe4c1e73f16963217a51173f0.txt",
+      "metadata_path": "data/geopolitics/raw/f3ba7f220bb9c279f24bbb4185086ec779e96d0fe4c1e73f16963217a51173f0.json"
+    },
+    {
+      "title": "OCCUPIED PALESTINIAN TERRITORIES (OPT) Crisis Situation Analysis (Period: 27/04/26 - 03/05/26) (pdf)",
+      "url": "https://reliefweb.int/attachments/a3e5b431-e35e-47ce-95db-b6b9577db061/occupied_Palestinian_territories_%28oPt%29_Crisis__Period__27_04_26_-_03_05_26.pdf",
+      "text_path": "data/geopolitics/raw/62c0d97c3eaf91ddd4481f5741da01c4d391f56c7cc60cb7b03a27593c3b2df5.txt",
+      "metadata_path": "data/geopolitics/raw/62c0d97c3eaf91ddd4481f5741da01c4d391f56c7cc60cb7b03a27593c3b2df5.json"
+    },
+    {
+      "title": "Israel escalates Gaza attacks as Netanyahu stalls ceasefire for polls",
+      "url": "https://www.aljazeera.com/news/2026/5/25/israel-escalates-gaza-attacks-as-netanyahu-stalls-ceasefire-for-polls?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/ae2a8f16727cc911378d9ef2b0d7c1d599df4fb6b991eccc4426f7781fc56a6a.txt",
+      "metadata_path": "data/geopolitics/raw/ae2a8f16727cc911378d9ef2b0d7c1d599df4fb6b991eccc4426f7781fc56a6a.json"
+    },
+    {
+      "title": "World: High-level meeting reaffirms shared commitment to strengthen cross-border collaboration and accelerate elimination of malaria and neglected tropical diseases",
+      "url": "https://reliefweb.int/report/world/high-level-meeting-reaffirms-shared-commitment-strengthen-cross-border-collaboration-and-accelerate-elimination-malaria-and-neglected-tropical-diseases",
+      "text_path": "data/geopolitics/raw/227f4d1b32fc771d4c28cab46002e07db6e23f3d47960d5b191658234ef7541f.txt",
+      "metadata_path": "data/geopolitics/raw/227f4d1b32fc771d4c28cab46002e07db6e23f3d47960d5b191658234ef7541f.json"
+    },
+    {
+      "title": "World: Africa Continental Mpox Surveillance Strategy",
+      "url": "https://reliefweb.int/report/world/africa-continental-mpox-surveillance-strategy",
+      "text_path": "data/geopolitics/raw/106b3cc1e8ee606b73ceebedf037d8ea63b605c26772d21e8772c35eefca38b4.txt",
+      "metadata_path": "data/geopolitics/raw/106b3cc1e8ee606b73ceebedf037d8ea63b605c26772d21e8772c35eefca38b4.json"
+    },
+    {
+      "title": "Uganda: High-level ministerial meeting on cross-border coordination on the Ebola disease outbreak caused by Bundibugyo virus",
+      "url": "https://reliefweb.int/report/uganda/high-level-ministerial-meeting-cross-border-coordination-ebola-disease-outbreak-caused-bundibugyo-virus",
+      "text_path": "data/geopolitics/raw/c7bfdc593adaac60b4ab725e44186c44d8ac01bb24a97b9d1d90e99b093f80c3.txt",
+      "metadata_path": "data/geopolitics/raw/c7bfdc593adaac60b4ab725e44186c44d8ac01bb24a97b9d1d90e99b093f80c3.json"
+    },
+    {
+      "title": "World: Africa Continental Mpox Surveillance Strategy (pdf)",
+      "url": "https://reliefweb.int/attachments/74ff72cf-1fe4-481a-8031-d4f38325427f/AFRICA-CONTINENTAL-MPOX-SURVEILLANCE-STRATEGY_IMST.pdf",
+      "text_path": "data/geopolitics/raw/f7ce737a660cb85a33bc597ba104b4b0a7de6a14b32ab5d0dced3c349059df9a.txt",
+      "metadata_path": "data/geopolitics/raw/f7ce737a660cb85a33bc597ba104b4b0a7de6a14b32ab5d0dced3c349059df9a.json"
+    }
+  ],
+  "txt_before": 323,
+  "txt_after": 333
+}

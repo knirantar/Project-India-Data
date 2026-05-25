@@ -1,0 +1,355 @@
+Since 28 February, Insecurity Insight has monitored how the conflict between Iran, 
+Israel, Lebanon and the United States has affected the delivery of aid, education, 
+food and water, and health care across Iran, Israel, Lebanon, and the Greater Middle 
+East region. Insecurity Insight’s open source monitoring recorded a total of 302 incidents 
+where conflict-related violence impacted aid, education, health, food and water systems 
+in ten countries: Azerbaijan, Bahrain, Iran, Iraq, Israel, Kuwait, Lebanon, the occupied 
+Palestinian territory (oPt), Syria and the United Arab Emirates (UAE). Of these incidents, 
+97% (293) involved explosive weapons and occurred in all listed countries except the oPt. 
+Explosive weapons included a range of weapons such as artillery, aerial and drone strikes, 
+improvised explosive devices (IEDs) and missiles. The highest number of incidents with 
+impact on essential civilian services were attributed to the Israeli Defence Forces (162) and 
+joint Israel-U.S. operations (92), and the U.S military (15). Other conflict parties included the 
+Islamic Republic of Iran Armed Forces, Islamic Revolutionary Guard Corps and Hezbollah. 
+Five incidents were attributed to an unidentified conflict party.
+The highest number of impacts were recorded in Lebanon (150) followed by Iran (117) with 
+the health system being particularly affected in both countries. 
+The Greater Middle East Conflict
+The Impact of Explosive Weapons on Civilian 
+Infrastructure, Essential Services, and the 
+Human Consequences
+Recorded incidents where explosives weapons impacted aid, education, health, food 
+and water systems, 28 February - 15 April 2026
+Aid 
+Operations
+Education 
+System 
+Food and Water 
+Systems
+Health 
+System
+Greater Middle East* 0 4 11 11
+Iran 18 41 12 66
+Israel 0 4 0 12
+Lebanon 21 22 2 115
+*Azerbaijan, Bahrain, Iraq, Kuwait, Syria and the UAE.
+28 FEBRUARY TO 15 APRIL 2026
+The publicly available incidents are not a full account of all incidents. Reporting restrictions 
+are placing limitations on reporting and verification. The identified effects are not necessarily 
+representative of all such reported cases where the use of explosive weapons caused 
+civilian harm and damage to critical infrastructure. Instead, they are a sample of the types 
+of harm that was reported. This report aims to highlight the scale and patterns of disruption 
+affecting civilian populations and essential services. A previous edition looked at the impact 
+of hostilities on food and water security.
+Focus: The impact of hostilities on emergency services
+This brief examines how explosive weapons have impacted emergency services 
+across the Greater Middle East region. These attacks not only disrupt immediate life-
+saving care but systematically weaken the emergency response networks that communities 
+depend on. The analysis focuses on: 
+1. Emergency medical facilities: Attacks on, or damage to, the physical infrastructure 
+needed to provide urgent health care and emergency response. This includes emergency 
+departments of hospitals, ambulance centres and headquarters, rescue stations, 
+emergency medical centres and warehouses containing emergency medical equipment 
+and supplies. These incidents involve destruction of buildings, damage to emergency 
+departments and equipment, collapse of structures, fires, and facilities being put out of 
+service. 
+2. Emergency medical personnel: Health care and rescue workers harmed while carrying 
+out emergency duties, including paramedics and ambulance crews, rescue workers and 
+emergency response teams. The incidents describe personnel being killed, injured, or 
+targeted while rescuing civilians, transporting patients, or responding to earlier strikes, 
+as well as those not yet dispatched. 
+3. Health providers: The organisations and institutions responsible for delivering health 
+care and emergency services included state services, Red Cross (including local services, 
+IFRC and ICRC), humanitarian organisation and private providers. In Lebanon, the main 
+non-state providers included the Islamic Health Authority (IHA) and Islamic Risala Scout 
+Association, as well as the Civil Defence, which is run by IHA.
+4. Emergency medical transport: Vehicles and transport systems used to move injured 
+people and emergency responders included ambulances, rescue vehicles and other 
+emergency health vehicles. Vehicles included cars, motorcycles, air-ambulances and 
+maritime ambulances and maybe transporting casualties, travelling to or from rescue 
+sites or stationary within facilities such as ambulance centres. 
+5. Sequential strikes: An attack on first responders who arrive at the scene of an initial 
+strike, to treat or evacuate wounded, or remove bodies. It can also be carried out on 
+emergency medical facilities such as emergency departments at the moment injured are 
+brought in. 
+*In the case of sequential strikes, details of what/who was impacted by the initial strike, to 
+which medical teams are responding to, is often not reported. 
+The categories above involve functional medical services which retain protection 
+under International Humanitarian Law (IHL) and whose targeting raises serious IHL 
+concerns.
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+2
+Strikes on emergency medical services in the Greater Middle East region
+Insecurity Insight documented 83 incidents where explosive weapons impacted 
+emergency medical services in the Greater Middle East region. Reported incidents 
+indicate a consistent pattern of damage to ambulances, emergency medical facilities, and 
+aid infrastructure. They include strikes at the time of emergency response where emergency 
+medical personnel are killed and injured, as well as on the emergency infrastructure - such 
+as an Iranian Red Crescents Society (IRCS) warehouse that was struck by a Israel-U.S. 
+drone strike, destroying two aid containers and an ambulance in Bushehr province (Iran). 
+These incidents affect the ability to provide care to people injured by the conflict.
+Nearly three quarters of incidents were attributed to Israeli forces (73%), and a 
+quarter to joint Israel-U.S. strikes (25%). One incident was attributed to Iranian 
+forces using drones in Kuwait. Of the 83 incidents, 83% involved airstrikes and 14% 
+involved drone strikes.
+Under international humanitarian law (IHL) medical personnel, units and transport are 
+afforded special protections. However, documented incidents indicate a pattern of harm 
+that severely undermines emergency response capacity across the region, particularly 
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+3
+Recorded incidents where explosive weapons impacted emergency medical services in the 
+Greater Middle East region, 28 February - 15 April 2026
+Iran Iraq Israel Kuwait Lebanon
+19 4 0 1 59
+Double tap or sequential strikes in conflict
+“Double tap” originally comes from shooting sports or marksmanship training, where it simply means firing two quick 
+shots at the same target to ensure accuracy. 
+The term has been used to describe a second attack on first responders who arrive at the scene of an initial strike 
+usually to treat or evacuate the wounded. It can also be carried out on emergency departments at the moment injured 
+are brought into the emergency care. 
+Transferral of a sports term into real-world conflict disguises a strike on medical care in conflict with the use of a 
+technical term that not only softens a harsh reality but fails to clearly articulate that such strikes are contrary to the rules 
+of war. While the initial target may have been a legitimate target in war, targeted strikes on medical personnel in the 
+process of providing medical aid is prohibited under IHL.
+The phrase “double tap” flattens a sequence of decisions and at times locations into something that sounds like a 
+repeat action or technique. But under IHL, the legal classification depends on who is being targeted, what precautions 
+were taken, and what the foreseeable effects are - not on the fact that there were “two strikes.” 
+The term ‘double tap’ is misleading because it obscures both the humanitarian protections at stake and the legal 
+scrutiny that should apply.
+The impact of attacks on emergency medical services
+Attacks on emergency services have immediate and long-term consequences for 
+civilians and health system resilience. Strikes on ambulances, rescue teams, and first 
+responders disrupt search-and-rescue operations, delay casualty evacuation, and obstruct 
+access to urgent medical treatment at the moment it is most critical. The risk of preventable 
+deaths and avoidable complications rises, while communities face reduced access to 
+lifesaving care during periods of heightened vulnerability. A recent study in Gaza showed 
+that those waiting over 30 minutes for ambulances faced longer durations in emergency 
+departments, and in many cases, ambulances either did not arrive or could not reach the 
+hospital. The killing and injury of emergency medical personnel further weakens already 
+strained health systems by depleting critical skills, experience, and specialised emergency 
+care capacity. Remaining staff face heavier workloads under dangerous and traumatic 
+conditions, undermining both the continuity and quality of care. 
+In southern Lebanon, strikes have increased caution among medics responding to incidents 
+due to fears of follow-up attacks. A Red Cross paramedic stated that teams now operate with 
+a deliberate 15-minute delay, describing it as “a gamble between life and death.” Despite 
+these risks, one paramedic stated “We pledged to be present here in Nabatieh, and we 
+will continue as long as the war lasts, even if there are more martyrs ,” following the 
+killing of their two colleagues, one of whom was a minor, on 24 March.
+Lebanon 
+Emergency medical services in Lebanon were impacted by Israeli air and drone 
+strikes on 59 occasions, making up 51% of the 115 documented incidents affecting health 
+care between 2 March and 15 April 2026. All but one took place in Nabatieh and South 
+governorates of Lebanon where first responders provided medical care in areas with a 
+high concentration of Hezbollah control, since they formed to ‘fight Israel’s invasion and 
+occupation of southern Lebanon’. One incident was recorded in the northeastern Baalbek-
+Hermel governorate on 8 April during Israel’s largest strike across Lebanon since its military 
+operation began on 2 March, damaging a Civil Defence centre and killing three people.
+A total of 13 emergency medical facilities, 132 emergency medical personnel and 25 
+emergency medical transports were impacted.
+Sequential strikes on emergency responders
+On at least 15 occasions, emergency health services in Lebanon were impacted by 
+sequential strikes, killing at least 18 first responders and injuring 26 from the Civil Defence, 
+Islamic Risala Scout Association, IHA and Red Cross. In one incident in Siddiqin town, 
+South governorate on 3 March, three paramedics were killed and another six injured while 
+recovering people injured by Israeli strikes. Rescuers were also fired at by a drone on 9 
+April in Toul town, Nabatieh governorate, while responding to casualties of five Israeli drone 
+strikes near Sheikh Ragheb Harb Hospital; an ambulance belonging to the Islamic Risala 
+Scout Association was also damaged. 
+A total of 13 emergency vehicles were damaged by sequential strikes. A recent case of 
+sequential strikes occurred on 15 April in Mayfadoun, Nabatieh governorate.
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+4
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+5
+Emergency medical facilities
+At least 13 emergency medical facilities in Lebanon were reported damaged or 
+destroyed by Israeli forces, of which nine were affiliated with the IHA. Complete destruction 
+occurred in three incidents in Nabatieh: the headquarters of the Al-Risala Ambulance 
+Association on 31 March which killed a paramedic; a Civil Defence (IHA-affiliated) centre on 
+17 March which injured nine health workers; and Beit al-Talaba Emergency Medical Centre 
+on 05 March which rendered it out of service, killing and injuring an unspecified number of 
+people. In one attack on 13 April, Israeli forces reported that they had targeted and killed a 
+Hezbollah member when a Lebanese Red Cross centre was hit by a drone strike. 
+Emergency medical personnel
+Emergency medical personnel were reported harmed in 81% of the 59 incidents 
+affecting emergency responses in Lebanon. In total, 55 were killed and 77 injured. 
+Emergency medical personnel are particularly vulnerable in conflict: Approximately 78% 
+of the health workers killed in Lebanon between 02 March and 15 April were emergency 
+responders. Among them a 16-year-old volunteer paramedic with Nabatieh Ambulance 
+Services, who was killed alongside another young medic when an Israeli drone strike fired 
+at their motorcycle whilst on a rescue operation; both were wearing uniforms which clearly 
+marked them as medical personnel. 
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+6
+Focus: Sequential strikes on emergency medical services in Mayfadoun, Nabatieh 
+governorate on 15 April 2026
+On 15 April, an IHA ambulance and its team of responders was hit by an Israeli airstrike in the late morning while 
+attempting to rescue casualties from an earlier Israeli strike in Mayfadoun town, Nabatieh district and governorate. One 
+paramedic was killed and a second was reported missing. 
+Minutes later, a second team from the IHA arrived at the scene, where two earlier strikes had already occurred. This 
+second rescue team was also hit by an Israeli airstrike, injuring three paramedics.
+Two ambulances - one from the Risala Scout Association and one from Nabatieh Ambulance Service - were deployed 
+following the three previous strikes and were subsequently struck by an additional Israeli airstrike at the same scene. 
+Two paramedics were killed and three others wounded. 
+The four strikes (initial strike and three sequential strikes on responders) happened in rapid succession. In total, three 
+responders were killed, six injured and one reported missing.  
+Under IHL medical personnel, units and transport are afforded special protections, irrespective of their political 
+affiliation. Ambulances and medics remain protected unless they are being used outside their medical role for acts 
+harmful to the enemy.
+At present, open-source reporting does not clearly establish the nature of the initial strike to which the first ambulance 
+team was responding. Though the Israeli military made generalisations and justifications stating that Hezbollah 
+uses ambulances and medical facilities to transport fighters and weapons, footage released by Nabatieh emergency 
+services shows that the ambulances struck in Mayfadoun were visibly empty of weapons.
+Information on the weapon system used in the sequential strikes remains limited, though a surviving medic from 
+the strike stated that a missile fired from a drone was “directly targeting paramedics”. The strikes occurred in rapid 
+succession, with each rescue team responding while casualties from the previous strike were still present, leaving 
+responders exposed and clearly identifiable during active rescue efforts.
+Emergency medical transport
+At least 26 ambulances were reported damaged or destroyed in Lebanon, though 
+this is likely underreporting. In one incident on 20 March, three Islamic Health Authority 
+vehicles were damaged by an Israeli airstrike while on humanitarian duty in Deir al-Zahrani 
+town, Nabatieh governorate, injuring nine paramedics. Emergency medical transport was 
+also impacted while the vehicle was not actively responding, as seen when Beit al-Talaba 
+Emergency Medical Centre in Nabatieh was destroyed by an Israeli airstrike, putting it out 
+of service, damaging ambulances and killing and injuring an unspecified number of people.
+Health providers 
+Over half of the documented incidents in Lebanon where explosive weapons impacted 
+emergency medical services affected the IHA, likely due to its affiliation with Hezbollah 
+and prior claims by Israel that the IHA is used as a “cover for terrorist activities” by Hezbollah 
+in southern Lebanon. The Islamic Risala Scout Association (an emergency and welfare 
+organisation affiliated with the Amal Movement, a political ally of Hezbollah), the state-run 
+ambulance services and the Red Cross were also affected.
+Red Cross personnel were also harmed: at least two medics were killed and 11 injured across 
+five incidents; four where ambulance teams were impacted and one where a Red Cross 
+centre was damaged. At least two ambulances clearly marked with Red Cross emblems 
+visible from all sides were struck by Israeli forces - one with a drone and one by aircraft - 
+despite prior coordination of movements through the usual channels, including UNIFIL, 
+raising concerns regarding the protection of humanitarian actors. 
+Iran
+Emergency medical services in Iran were impacted by air and drone strikes on 19 
+occasions, making up 29% of the 66 documented incidents affecting health care between 
+28 February and 15 April 2026. Incidents were reported across eight of Iran’s 31 provinces, 
+with nearly half reported in Tehran. Incidents were mainly geographically clustered in two 
+areas: the south, near key oil-producing areas and the Strait of Hormuz, and the west and 
+northwest, near locations identified as missile launch sites during the June 2025 Twelve-
+Day War.
+All but two incidents were attributed to joint Israel-U.S. forces. Two were linked to Israeli 
+forces. Eight emergency medical facilities, 132 emergency medical personnel and 19 
+emergency medical transports were impacted.
+Sequential strikes on first responders
+Two incidents of sequential strikes in Iran involved Iranian Red Crescent teams. The 
+first occurred on 10 March when responders were conducting debris-removal operations at 
+a prior attack site in the Resalat area of Tehran. The second struck an ambulance assisting 
+the injured in Lar, Fars province, on 18 March. No personnel were reportedly killed or injured 
+in either incident.
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+7
+Emergency medical personnel
+At least 14 emergency medical personnel were killed and eight injured by Israel-U.S. 
+airstrikes in Iran. Almost all casualties were recorded in Tehran province, including one 
+incident which killed 10 personnel when the Naziabad Emergency Base was hit by an Israel-
+U.S. airstrike on 7 March. Three emergency medical personnel were killed in Fars and 
+another three injured in Qom on 3 March. 
+Emergency medical facilities
+Eight emergency medical facilities in Iran were damaged or destroyed by joint 
+Israel-U.S. strikes across six provinces, five by aircraft and one by drone. One facility, the 
+Emergency Medical Services (EMS) 115 base in Shiraz city, Fars province, was completely 
+destroyed on 5 March during Israel-U.S. airstrikes targeting military sites. Five emergency 
+medical workers were injured in two facilities, and 13 were killed in another two facilities.
+Emergency medical transport
+Israel-U.S. forces damaged or destroyed 18 ambulances in Iran, including a maritime 
+ambulance in Hormozgan province on 11 March and an air ambulance in Bushehr province 
+on 9 March. Israeli forces damaged an ambulance in Tehran. At least 16 ambulances 
+were damaged in airstrikes. Two ambulances were destroyed when an IRCS warehouse 
+in Bushehr province was struck by an Israel-U.S. drone which also destroyed two aid 
+containers. Damage to or destruction of ambulances was mostly reported in Tehran but also 
+occurred in the south-western provinces.
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+8
+Iraq
+All four incidents in Iraq where explosive weapons impacted emergency medical 
+services were sequential Israel-U.S. aircraft strikes  impacting ambulance teams in 
+western Iraq between 12 and 24 March. Incidents were split evenly between Al Anbar 
+governorate, where a Popular Mobilization Forces military headquarters was damaged on 
+12 March, and neighbouring Salah al-Din governorate.
+At least one emergency worker was injured when the ambulance they were travelling in was 
+hit by an Israeli aircraft strike while attempting to evacuate casualties from an earlier strike 
+on 16 March. These incidents suggest repeated risks to emergency responders from attacks 
+during evacuation operations, similar to patterns observed in Mayfadoun in Lebanon.
+Kuwait
+One incident where explosive weapons impacted emergency medical services was 
+recorded in Kuwait. Debris from an intercepted drone strike from suspected Iranian forces 
+fell onto an ambulance centre and injured two emergency medical workers in Kuwait city on 
+17 March
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+9
+Key figures between 28 February and 15 April 
+• 69 emergency medical workers have been killed, 88 injured, and one remains missing. 
+The number of people who died because help could not reach them remains uncounted
+• 22 emergency medical facilities were damaged or destroyed
+• Sequential strikes were recorded in 21 incidents, demonstrating a concerning erosion of 
+the principle of protection of health care in conflict
+Key take aways:
+• Medical care is protected in conflict 
+• Emergency responders are particularly vulnerable in conflict
+• Attacks on emergency responses undermine the capacity of the health system to support 
+the injured
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+10
+The Greater Middle East Conflict: The Impact of Explosive Weapons on Civilian Infrastructure, Essential 
+Services, and the Human Consequences
+11
+Other resources
+Armed drones are becoming a defining feature of modern conflict, creating escalating risks for 
+humanitarian operations and forcing aid agencies to adapt their security strategies to better 
+protect staff in high-risk environments. Insecurity Insight’s Sudden Threats from the Sky: 
+Guidance for the Protection of Aid is a practical resource designed to help humanitarian 
+organisations strengthen preparedness and operational resilience. Created for local aid agencies 
+and their international partners, the guidance provides actionable strategies for assessing and 
+mitigating drone-related risks, identifying feasible protective measures, and developing effective 
+emergency response plans. Available in Arabic, Burmese, English, French and Spanish, the 
+guidance is designed for real-world application in staff briefings, training, and office awareness 
+materials. 
+Hovering Threats: The Challenges of Armed Drones in Humanitarian Contexts explores the 
+growing impact of armed drones on humanitarian operations in conflict zones, shedding light on 
+the evolving risks faced by aid workers and health care providers. By examining both the technical 
+capabilities of armed drones and the practical realities of operating under drone threats, it offers 
+critical insights into how humanitarian organisations can strengthen security risk management 
+and safeguard lifesaving assistance. Grounded in real-world challenges and emerging best 
+practices, the report delivers actionable recommendations for aid agency security managers and 
+advocates working to protect humanitarian access in increasingly volatile environments.  
+IHL and the protection of food systems, health care and aid operations in Sudan highlights 
+concerns under international humanitarian law arising from attacks on health care, food systems, 
+and humanitarian operations in Sudan. It examines how sequential strikes on protected civilian 
+infrastructure -  including medical facilities, markets, agricultural areas, and aid operations - may 
+violate the obligation to respect and protect objects indispensable to civilian survival and ensure 
+the safe delivery of humanitarian assistance. In a context where millions depend on aid, the 
+report underscores how disruptions to essential services and humanitarian access can have 
+foreseeable and devastating consequences for civilian populations.
+Using data by Insecurity Insight, the Safeguarding Health in Conflict Coalition (SHCC) identified 
+over 480 attacks on health care in Lebanon in 2024, including over 350 paramedics killed 
+alongside repeated strikes on emergency medical services and health facilities. The escalation 
+of Israeli airstrikes strained an already fragile health system, triggering widespread closures, 
+overwhelming facilities with mass casualties, and contributing to a deepening humanitarian and 
+economic crisis. Available in Arabic and English.
+This document is published by Insecurity Insight. The contents are the responsibility of 
+Insecurity Insight. The analysis and opinions expressed in this report belong solely to 
+the publisher, Insecurity Insight. Insecurity Insight is a Humanitarian to Humanitarian 
+(H2H) organisation committed to the Humanitarian Principles. 
+The incidents reported in this briefing are neither comprehensive nor independently 
+verified, but instead provide a snapshot of how explosive weapons have affected the 
+delivery of aid, education, food and water, and health care across Iran, Lebanon, 
+and the wider Middle East. Data is continuously updated and numbers may change if 
+new information is made publicly available. Subscribe to our Middle East mailing list. 
+Suggested citation: Insecurity Insight. 2026. The Greater Middle East Conflict: The 
+Conflict Impact on Emergency Services, 28 February-15 April 2026, May 2026. 
+Switzerland: Insecurity Insight. https://bit.ly/2MEConflictMay2026
