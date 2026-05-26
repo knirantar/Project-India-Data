@@ -1,0 +1,126 @@
+Epidemic and emerging disease alerts in the Pacific as of 26 May 2026
+Legend Cases reported are increasing or peaking
+Cases reported are decreasing or circulation is ongoing.
+Awaiting confirmation of aetiology.
+No update for more than 2 weeks
+DENV – Dengue Virus
+For the Pacific Public 
+Health Surveillance 
+Network (PPHSN)
+NEW ZEALAND
+HAWAII
+An interactive version of the map is available online at: 
+www.spc.int/phd/epidemics/ 
+POLIOVIRUS
+PERTUSSIS
+PERTUSSIS
+DENV-1 & DENV-2
+MEASLES
+DENV-2
+DENV-1 & DENV-2
+DENV-1 & DENV-2
+DENV-1
+ROTAVIRUS
+PERTUSSIS (Pohnpei)
+PERTUSSIS
+DENV-2
+Highlights/updates since the last map was sent on PacNet on 19 May 2026:
+Dengue
+• Cook Islands: Dengue transmission in the Cook Islands has been interrupted, with no new cases reported since 28 
+April 2026. The Ministry of Health officially declared the country dengue-free on 25 May 2026 after more than two 
+incubation periods (26 days) without any reported cases, meeting the criteria for declaring the end of the dengue 
+outbreak. This follows the scale-down of Operation Namu26 on 24 April 2026, with routine surveillance and vector 
+control measures continuing to sustain the dengue-free status. The blue alert for DENV-1 and DENV-2 is removed. 
+– Source: Cook Islands Dengue Free - Te Marae Ora Cook Islands Ministry of Health accessed on 26 May 2026.
+• Kiribati: Dengue transmission continues in Kiribati, with the outbreak ongoing since April 2025. As of 26 May 2026, 
+a cumulative total of 535 laboratory-confirmed cases and 1,583 suspected cases have been reported nationwide, 
+including 20 new confirmed cases and 19 new suspected cases since 13 April 2026. Transmission remains 
+concentrated in South Tarawa, with both DENV-1 and DENV-2 circulating, and most cases reported as mild, 
+although one death and 68 hospitalisations have been recorded to date. The blue alert for DENV-1 and DENV-2 
+remains in effect. – Source: Dengue Fever Situational Report 33 shared with PPHSN Coordinating Body Focal point 
+on 26 May 2026.
+• New Caledonia: As of 23 May 2026, dengue transmission remains ongoing in New Caledonia, with 1,837 cases 
+reported in 2026. The outbreak is driven by locally acquired infections, with DENV-1 as the predominant serotype. 
+Environmental conditions favourable to mosquito breeding, together with population movement, continue to 
+support transmission, and health authorities are reinforcing early care-seeking and vector control measures. The
+red alert for DENV-1 remains in effect. – Source: La dengue | Direction des Affaires Sanitaires et Sociales de
+Nouvelle-Calédonie accessed on 26 May 2026.
+• Samoa: As of EpiWeek 20 (11–17 May 2026), dengue transmission continues in Samoa, with 141 new cases 
+reported, representing a 7% increase compared with the previous week, and eight new hospital admissions with no 
+ICU cases or deaths. DENV-1 (54%) and DENV-2 (46%) continue to co-circulate, with transmission widespread across 
+Upolu (64%) and Savai‘i (36%), and children under 15 years accounting for the majority of cases (74%). Since 1st 
+January 2025, a cumulative total of 19,029 clinically diagnosed cases and 5,446 laboratory-confirmed cases have 
+been reported, with nine dengue-related deaths to date, while public health measures continue to focus on 
+community awareness, vector control and early healthcare seeking. The blue alert for DENV-1 and DENV-2 remains 
+in effect. – Source: Dengue-sitrep-issue-no-57 accessed on 26 May 2026.
+• Tonga: As of 25 May 2026, dengue transmission continues in Tonga, with a total of 66 laboratory-confirmed cases 
+reported, including two new cases since the 22 May 2026.  Two cases are currently hospitalised, with no dengue-
+related deaths reported to date. The epidemiological profile remains unchanged, with the highest burden among 
+children aged 11–14 years, predominantly male, and most cases reported from Tongatapu. DENV-2 remains the 
+identified circulating serotype, and response activities, including community awareness campaigns and vector 
+control measures, are ongoing to limit further transmission. The red alert for DENV-2 remains in effect. – Source: 
+Dengue Fever Outbreak Situation Report #23 - Ministry of Health Tonga - Official Facebook page accessed on 26 
+May 2026.
+Pertussis/Whooping cough
+• New Zealand: Pertussis activity in New Zealand continues as part of the ongoing national epidemic, with 
+transmission persisting nationwide. As of the week ending 15 May 2026, 48 cases were reported, an increase 
+compared with 44 cases in the previous week. This brings the cumulative total for 2026 to 734 cases. The blue alert 
+for pertussis remains in effect. – Source: Pertussis dashboard accessed on 26 May 2026.
+Other Information:
+Dengue
+• Federated States of Micronesia, Kosrae State: Dengue activity in Kosrae State, Federated States of Micronesia, 
+remains under monitoring, with three cases reported over the past two weeks, including two newly confirmed and 
+unlinked cases detected through laboratory surveillance. The affected individuals have been managed clinically, 
+with cases reported as isolated, treated and discharged, and no evidence of widespread transmission identified to 
+date. Given the presence of the mosquito vector on the island, public health authorities are maintaining 
+surveillance and implementing vector control and community clean-up measures to reduce the risk of further 
+transmission. – Source: FSM weekly surveillance report (May 4-14, 2026 – EpiWeek 19 & 20) shared with PPHSN 
+Coordinating Body Focal point on 22 May 2026.
+• New Zealand: In New Zealand, during EpiWeek 20 (16 – 22 May 2026), two confirmed imported dengue cases were 
+reported. The confirmed cases had each been to the Cook Islands and Samoa during the incubation periods. Given 
+the known serological cross-reactivity between dengue and other flaviviruses, some reported dengue cases may 
+ultimately be reclassified as other flavivirus infections as epidemiological and laboratory investigations continue. – 
+Source: NZ Arbovirus Notifications by Country (20: 16/05/2026–22/05/2026) shared with PPHSN Coordinating Body 
+Focal point on 25 May 2026.
+• Vanuatu: From EpiWeek 01 to EpiWeek 19, 2026, a total of eight dengue cases have been reported in Vanuatu, all 
+on Efate Island, with no hospitalisations or deaths recorded. Cases are primarily concentrated in the Pango Area 
+Council (88%), with the remaining cases reported in Port Vila, and epidemiological investigations have identified 
+links between several cases, including recent travel to Fiji within the incubation period. Although case numbers 
+remain below the alert threshold and no outbreak has been declared, a slight increase in cases has been observed 
+and health authorities are continuing close surveillance to monitor potential changes in transmission. – Source: 
+Vanuatu Dengue Situation Update 01 (18 May 2026) on PacNet on 26 May 2026.
+Diphtheria
+• Australia: Diphtheria activity in Australia has increased markedly since late 2025, with 221 confirmed cases 
+reported in 2026 as of 18 May, representing a substantial rise compared with previous years. The outbreak is 
+concentrated in the Northern Territory (60.2%) and Western Australia (35.7%), with most cases locally acquired and 
+occurring in remote and very remote areas, particularly among Aboriginal and Torres Strait Islander populations. 
+Both cutaneous (67.9%) and respiratory (31.7%) presentations are reported, with no confirmed diphtheria-related 
+deaths reported to date in 2026, although one death remains under investigation, and public health response 
+measures including enhanced surveillance, vaccination, contact tracing and infection control are ongoing. – Sources: 
+Diphtheria outbreak update, Diphtheria declared a Communicable Disease Incident of National Significance and 
+Diphtheria in Australia – Epidemiological update – 18 May 2026 accessed on 26 May 2026.
+Ebola virus
+• Democratic Republic of Congo and Uganda: As of 21–22 May 2026, the outbreak of Ebola disease caused by 
+Bundibugyo virus in the Democratic Republic of the Congo (DRC) and Uganda remains ongoing and has been 
+designated a Public Health Emergency of International Concern by WHO on May 16, 2026, with 85 confirmed cases 
+and 10 confirmed deaths reported across both countries, including two imported confirmed cases and one death in 
+Uganda. In DRC, 83 confirmed cases and 746 suspected cases, including 176 suspected deaths, have been reported 
+across Ituri, North Kivu and South Kivu provinces, with transmission concentrated in Mongbwalu, Rwampara and 
+Bunia. High population mobility with humanitarian challenges, weak contact follow-up and inadequate isolation and 
+referral systems continue to complicate response efforts. With no licensed vaccines or specific therapeutics 
+currently available for Bundibugyo virus disease, response measures continue to focus on surveillance, contact 
+tracing, infection prevention and control, case management, safe and dignified burials, and cross-border 
+coordination, while WHO temporary recommendations do not currently advise travel or border closures. – Sources: 
+Epidemic of Ebola Disease caused by Bundibugyo virus in the Democratic Republic of the Congo and Uganda 
+determined a public health emergency of international concern, Ebola disease caused by Bundibugyo virus, 
+Democratic Republic of the Congo & Uganda and Ebola disease caused by Bundibugyo virus – Democratic Republic 
+of the Congo accessed on 26 May 2026.
+Murray Valley Encephalitis
+• Australia, Northern Territory: Recent detections of Murray Valley encephalitis (MVE) virus have been reported in 
+the Northern Territory, including two confirmed cases in Alice Springs, both of whom died, and virus detection in 
+mosquitoes in the Greater Darwin region.  Increased rainfall during the wet season has contributed to higher 
+mosquito populations, elevating the risk of transmission of this rare but potentially severe mosquito-borne 
+infection affecting the central nervous system. Enhanced mosquito surveillance and control activities are ongoing, 
+and clinicians are advised to consider MVE in patients presenting with compatible symptoms, particularly during the 
+seasonal risk period from February to July. – Source: Murray Valley encephalitis | NT Health accessed on 26 May 
+2026.

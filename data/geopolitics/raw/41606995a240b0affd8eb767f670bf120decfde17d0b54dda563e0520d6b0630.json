@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-26T20:00:15.255874+00:00",
-  "text_chars": 174113,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/05/1167586",
+  "title": "Ukraine: Russian attack destroys humanitarian food aid in Dnipro",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Tue, 26 May 2026 12:00:00 +0000",
+  "sha256": "41606995a240b0affd8eb767f670bf120decfde17d0b54dda563e0520d6b0630",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-26T20:00:29.747052+00:00",
+  "text_chars": 3439,
+  "raw_path": "data/geopolitics/raw/41606995a240b0affd8eb767f670bf120decfde17d0b54dda563e0520d6b0630.html",
+  "text_path": "data/geopolitics/raw/41606995a240b0affd8eb767f670bf120decfde17d0b54dda563e0520d6b0630.txt"
 }
