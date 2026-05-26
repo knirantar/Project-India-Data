@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-05-26T13:51:00.030440+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://www.theguardian.com/world/2026/may/26/iran-internet-blackout",
+  "title": "End to Iran’s 88-day internet blackout stalled by legal challenge",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Tue, 26 May 2026 12:54:05 GMT",
+  "sha256": "f988cd103ba450cf8d20c1a1f03e796f1a0bf63cc6be3a75453c611226d26c48",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-26T13:51:48.647771+00:00",
+  "text_chars": 5109,
+  "raw_path": "data/geopolitics/raw/f988cd103ba450cf8d20c1a1f03e796f1a0bf63cc6be3a75453c611226d26c48.html",
+  "text_path": "data/geopolitics/raw/f988cd103ba450cf8d20c1a1f03e796f1a0bf63cc6be3a75453c611226d26c48.txt"
 }
