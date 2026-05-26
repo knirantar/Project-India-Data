@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae",
-  "content_type": "text/xml",
-  "collected_at": "2026-05-26T21:43:06.837059+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.xml",
-  "text_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt"
+  "url": "https://foreignpolicy.com/2026/05/26/us-strikes-iran-self-defense-abraham-accords-israel-trump-rubio/",
+  "title": "U.S. Launches ‘Self-Defense’ Strikes on Iran",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Tue, 26 May 2026 20:25:29 +0000",
+  "sha256": "bdac141192718f9d0111fecb50e80181d8e1397f4dad4092564f887e7b913ebd",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-26T21:43:58.861221+00:00",
+  "text_chars": 8996,
+  "raw_path": "data/geopolitics/raw/bdac141192718f9d0111fecb50e80181d8e1397f4dad4092564f887e7b913ebd.html",
+  "text_path": "data/geopolitics/raw/bdac141192718f9d0111fecb50e80181d8e1397f4dad4092564f887e7b913ebd.txt"
 }
