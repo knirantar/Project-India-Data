@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-27T20:03:06.619975+00:00",
-  "text_chars": 174113,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://warontherocks.com/what-did-the-npt-review-conference-achieve/",
+  "title": "What Did the NPT Review Conference Achieve?",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Wed, 27 May 2026 19:15:56 +0000",
+  "sha256": "7192b2df692c0596e9e6d07b07f7a5fec8c591a5a6a532757b899923020b1736",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-27T20:03:45.725380+00:00",
+  "text_chars": 2891,
+  "raw_path": "data/geopolitics/raw/7192b2df692c0596e9e6d07b07f7a5fec8c591a5a6a532757b899923020b1736.html",
+  "text_path": "data/geopolitics/raw/7192b2df692c0596e9e6d07b07f7a5fec8c591a5a6a532757b899923020b1736.txt"
 }
