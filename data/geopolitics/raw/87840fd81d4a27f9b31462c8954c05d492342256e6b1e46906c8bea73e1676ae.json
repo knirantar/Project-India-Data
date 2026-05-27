@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-27T14:22:25.951813+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/05/1167592",
+  "title": "Ebola outbreak in DR Congo collides with conflict and hunger, WHO warns",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Wed, 27 May 2026 12:00:00 +0000",
+  "sha256": "87840fd81d4a27f9b31462c8954c05d492342256e6b1e46906c8bea73e1676ae",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-27T14:22:41.140024+00:00",
+  "text_chars": 4469,
+  "raw_path": "data/geopolitics/raw/87840fd81d4a27f9b31462c8954c05d492342256e6b1e46906c8bea73e1676ae.html",
+  "text_path": "data/geopolitics/raw/87840fd81d4a27f9b31462c8954c05d492342256e6b1e46906c8bea73e1676ae.txt"
 }
