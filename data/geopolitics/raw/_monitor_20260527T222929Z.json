@@ -1,0 +1,150 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-27T22:29:29.554242+00:00",
+  "new_documents": 23,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/56552297117e9432099c06174625b09a4d2cf0c62ac9dc84132b429c29d2a124.txt",
+      "metadata_path": "data/geopolitics/raw/56552297117e9432099c06174625b09a4d2cf0c62ac9dc84132b429c29d2a124.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/dae17e32a2e9dd993262e74c02c3207f5ce04c21226f6fbe11d7518fb6bc3024.txt",
+      "metadata_path": "data/geopolitics/raw/dae17e32a2e9dd993262e74c02c3207f5ce04c21226f6fbe11d7518fb6bc3024.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/2b12ee5cf0bd9b4612408d4a93db2a262613866002c4ba33c9df3c767f1aa354.txt",
+      "metadata_path": "data/geopolitics/raw/2b12ee5cf0bd9b4612408d4a93db2a262613866002c4ba33c9df3c767f1aa354.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt",
+      "metadata_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.json"
+    },
+    {
+      "title": "World: Questions and answers on the Communication on Humanitarian Aid",
+      "url": "https://reliefweb.int/report/world/questions-and-answers-communication-humanitarian-aid",
+      "text_path": "data/geopolitics/raw/e3c7a82b73ed962286e9777d84ede1a6e93b3369f1d97be4709f6cf2fc46e665.txt",
+      "metadata_path": "data/geopolitics/raw/e3c7a82b73ed962286e9777d84ede1a6e93b3369f1d97be4709f6cf2fc46e665.json"
+    },
+    {
+      "title": "World: Questions and answers on the Communication on Humanitarian Aid (pdf)",
+      "url": "https://reliefweb.int/attachments/43d80300-e60d-582f-8e58-4e74ee9a64bc/Questions_and_answers_on_the_Communication_on_Humanitarian_Aid.pdf",
+      "text_path": "data/geopolitics/raw/a95c85f82b4059599778fa2fece4ed5137323f71c6f33c1c20e6cb8a7f3b84b5.txt",
+      "metadata_path": "data/geopolitics/raw/a95c85f82b4059599778fa2fece4ed5137323f71c6f33c1c20e6cb8a7f3b84b5.json"
+    },
+    {
+      "title": "World: Defending values, driving reform, delivering impact: new measures to strengthen EU humanitarian action",
+      "url": "https://reliefweb.int/report/world/defending-values-driving-reform-delivering-impact-new-measures-strengthen-eu-humanitarian-action",
+      "text_path": "data/geopolitics/raw/0ae7d19d2c50b50956fb6a1d2cd4667e870ae971090103826ed7b885fa7cb66a.txt",
+      "metadata_path": "data/geopolitics/raw/0ae7d19d2c50b50956fb6a1d2cd4667e870ae971090103826ed7b885fa7cb66a.json"
+    },
+    {
+      "title": "World: Defending values, driving reform, delivering impact: new measures to strengthen EU humanitarian action (pdf)",
+      "url": "https://reliefweb.int/attachments/72575a10-08c5-5ece-9732-c3dba941e15b/Defending_values__driving_reform__delivering_impact__new_measures_to_strengthen_EU_humanitarian_action.pdf",
+      "text_path": "data/geopolitics/raw/208f8526ac4f20406b265c9df906299472ab38ca193e1b572a2b96c372ca87b3.txt",
+      "metadata_path": "data/geopolitics/raw/208f8526ac4f20406b265c9df906299472ab38ca193e1b572a2b96c372ca87b3.json"
+    },
+    {
+      "title": "World: Press Remarks by Commissioner Lahbib on the Humanitarian Aid Communication",
+      "url": "https://reliefweb.int/report/world/press-remarks-commissioner-lahbib-humanitarian-aid-communication",
+      "text_path": "data/geopolitics/raw/324b0e6db2b0d028548abb11ababa85a9cc96a45ff93e63a162d82d24011bbe2.txt",
+      "metadata_path": "data/geopolitics/raw/324b0e6db2b0d028548abb11ababa85a9cc96a45ff93e63a162d82d24011bbe2.json"
+    },
+    {
+      "title": "World: Press Remarks by Commissioner Lahbib on the Humanitarian Aid Communication (pdf)",
+      "url": "https://reliefweb.int/attachments/de52a222-bd5a-5654-a1b8-02489c6ac32b/Press_Remarks_by_Commissioner_Lahbib_on_the_Humanitarian_Aid_Communication.pdf",
+      "text_path": "data/geopolitics/raw/440c58a27898e2a5f6002b86b5b30e052ae8b16e8a8432e35b91b57ef478db6d.txt",
+      "metadata_path": "data/geopolitics/raw/440c58a27898e2a5f6002b86b5b30e052ae8b16e8a8432e35b91b57ef478db6d.json"
+    },
+    {
+      "title": "Trump Is Making NATO Stronger, Lithuania’s Foreign Minister Says",
+      "url": "https://foreignpolicy.com/2026/05/27/kestutis-budrys-lithuanian-foreign-minister-iran-trump-drones-ukraine/",
+      "text_path": "data/geopolitics/raw/2bf89c98ca3ab12836fa411df506bc4650c05e9fe3f4c69e32e642ccf9c9bc85.txt",
+      "metadata_path": "data/geopolitics/raw/2bf89c98ca3ab12836fa411df506bc4650c05e9fe3f4c69e32e642ccf9c9bc85.json"
+    },
+    {
+      "title": "Trump threatens to ‘blow up’ Oman amid talks over strait of Hormuz",
+      "url": "https://www.theguardian.com/us-news/2026/may/27/donald-trump-oman-threat-strait-hormuz",
+      "text_path": "data/geopolitics/raw/3561def47df73b0efc3f1eddfe80fcae52ab0e8dd1fc9a818a52e131e1a2251d.txt",
+      "metadata_path": "data/geopolitics/raw/3561def47df73b0efc3f1eddfe80fcae52ab0e8dd1fc9a818a52e131e1a2251d.json"
+    },
+    {
+      "title": "Trump says Iran 'negotiating on fumes,' insists midterms won't impact his war strategy",
+      "url": "https://www.npr.org/2026/05/27/nx-s1-5836202/trump-cabinet-meeting",
+      "text_path": "data/geopolitics/raw/e3479f871fedd95c2df4d00d705fc443f2fe58ea4796963ced629418d850449b.txt",
+      "metadata_path": "data/geopolitics/raw/e3479f871fedd95c2df4d00d705fc443f2fe58ea4796963ced629418d850449b.json"
+    },
+    {
+      "title": "South Sudan: Protecting livelihoods and preventing famine - Urgent call for assistance",
+      "url": "https://reliefweb.int/report/south-sudan/south-sudan-protecting-livelihoods-and-preventing-famine-urgent-call-assistance",
+      "text_path": "data/geopolitics/raw/44d0bdd3e8dd0bc5856cadfc8840c5c52f970076a1de09b9b3b01cc11d835ec8.txt",
+      "metadata_path": "data/geopolitics/raw/44d0bdd3e8dd0bc5856cadfc8840c5c52f970076a1de09b9b3b01cc11d835ec8.json"
+    },
+    {
+      "title": "South Sudan: Protecting livelihoods and preventing famine - Urgent call for assistance (pdf)",
+      "url": "https://reliefweb.int/attachments/26ee72b4-1210-5f4e-b68b-cc16fde628ef/cd9894en.pdf",
+      "text_path": "data/geopolitics/raw/a263474854d14409000e1331cb8a4d340c7618cf1d837e794018cd6990c8abca.txt",
+      "metadata_path": "data/geopolitics/raw/a263474854d14409000e1331cb8a4d340c7618cf1d837e794018cd6990c8abca.json"
+    },
+    {
+      "title": "DR Congo: DRC: One in four confirmed Ebola deaths are children underscoring the urgent need to protect them",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/drc-one-four-confirmed-ebola-deaths-are-children-underscoring-urgent-need-protect-them",
+      "text_path": "data/geopolitics/raw/6c3138b2eff0e23a7b2c41b33f355e13d6c544cce139401dbb3351b6f35a4f1d.txt",
+      "metadata_path": "data/geopolitics/raw/6c3138b2eff0e23a7b2c41b33f355e13d6c544cce139401dbb3351b6f35a4f1d.json"
+    },
+    {
+      "title": "Markets rally amid hopes of US-Iran deal",
+      "url": "https://www.aljazeera.com/news/2026/5/27/markets-rally-amid-hopes-of-us-iran-deal?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/de3b4206acaa5f37513cc58695aba5ca994c0548911e540a88eac20869a6b5a3.txt",
+      "metadata_path": "data/geopolitics/raw/de3b4206acaa5f37513cc58695aba5ca994c0548911e540a88eac20869a6b5a3.json"
+    }
+  ],
+  "txt_before": 404,
+  "txt_after": 419
+}
