@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1",
-  "content_type": "text/xml",
-  "collected_at": "2026-05-27T10:54:25.957210+00:00",
-  "text_chars": 9071064,
-  "raw_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.xml",
-  "text_path": "data/geopolitics/raw/f931d9947a179fc04508da8cd7dd39aded3f6cb12e925added9967b9f644e0a1.txt"
+  "url": "https://reliefweb.int/report/world/aid-danger-bi-monthly-news-brief-29-april-12-may-2026",
+  "title": "World: Aid in Danger Bi-Monthly News Brief (29 April - 12 May 2026)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 27 May 2026 07:23:32 +0000",
+  "sha256": "18c5f11196136bc36b4b604c7980e41c233672d2dd309e1cec041c0de57eebc5",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-27T10:54:34.117976+00:00",
+  "text_chars": 6384,
+  "raw_path": "data/geopolitics/raw/18c5f11196136bc36b4b604c7980e41c233672d2dd309e1cec041c0de57eebc5.html",
+  "text_path": "data/geopolitics/raw/18c5f11196136bc36b4b604c7980e41c233672d2dd309e1cec041c0de57eebc5.txt"
 }
