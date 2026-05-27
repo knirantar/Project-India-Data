@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "geospatial_mapping_data",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438",
-  "content_type": "application/zip",
-  "collected_at": "2026-05-27T17:55:08.385355+00:00",
-  "text_chars": 238,
-  "raw_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
-  "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
+  "url": "https://www.dw.com/en/india-s-drug-lifeline-to-africa-disrupted-by-iran-war/a-77318563?maca=en-rss-en-world-4025-rdf",
+  "title": "India's drug lifeline to Africa disrupted by Iran war",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-05-27T14:22:00Z",
+  "sha256": "0ed164640ab441fcaf5a3567fbc0a47c07c229ff4093167f2e6ad184897eeb68",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-05-27T17:55:33.622205+00:00",
+  "text_chars": 7782,
+  "raw_path": "data/geopolitics/raw/0ed164640ab441fcaf5a3567fbc0a47c07c229ff4093167f2e6ad184897eeb68.html",
+  "text_path": "data/geopolitics/raw/0ed164640ab441fcaf5a3567fbc0a47c07c229ff4093167f2e6ad184897eeb68.txt"
 }

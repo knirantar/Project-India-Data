@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "geospatial_mapping_data",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438",
-  "content_type": "application/zip",
-  "collected_at": "2026-05-27T17:55:08.385355+00:00",
-  "text_chars": 238,
-  "raw_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
-  "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
+  "url": "https://www.theguardian.com/world/2026/may/27/who-chief-tedros-calls-for-drc-ceasefire-ebola",
+  "title": "WHO chief calls for DRC ceasefire to tackle Ebola outbreak",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Wed, 27 May 2026 15:51:55 GMT",
+  "sha256": "8b4eb5060723bda60b063b4a51adfaae3e042ce8ee95acf111ec9e74c9f43bb0",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-27T17:55:13.334357+00:00",
+  "text_chars": 4187,
+  "raw_path": "data/geopolitics/raw/8b4eb5060723bda60b063b4a51adfaae3e042ce8ee95acf111ec9e74c9f43bb0.html",
+  "text_path": "data/geopolitics/raw/8b4eb5060723bda60b063b4a51adfaae3e042ce8ee95acf111ec9e74c9f43bb0.txt"
 }
