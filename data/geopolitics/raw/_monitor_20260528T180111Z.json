@@ -1,0 +1,138 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-28T18:01:11.587476+00:00",
+  "new_documents": 21,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/a41c49ad936e55c87725b935abb0fea229bb3e4150f670e3906ceda9af259e75.txt",
+      "metadata_path": "data/geopolitics/raw/a41c49ad936e55c87725b935abb0fea229bb3e4150f670e3906ceda9af259e75.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/2fd86350b1ec4607eaff853dd2ed3cec08dc3a87055dfcd607b6421a13e3fc84.txt",
+      "metadata_path": "data/geopolitics/raw/2fd86350b1ec4607eaff853dd2ed3cec08dc3a87055dfcd607b6421a13e3fc84.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/91af141026fe53f51bd25567bb61f792e59856918c8a5beca739d77782a09cf9.txt",
+      "metadata_path": "data/geopolitics/raw/91af141026fe53f51bd25567bb61f792e59856918c8a5beca739d77782a09cf9.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt",
+      "metadata_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.json"
+    },
+    {
+      "title": "World: Care in the crosshairs: Violence Against Health Care in Conflict 2025 (pdf)",
+      "url": "https://reliefweb.int/attachments/a12a36a3-ffbe-47d2-b955-18df03ac6fef/2025-SHCC-Annual-Report.pdf",
+      "text_path": "data/geopolitics/raw/b78f2a8641d3290931ae5196c3563a1e183fe1fc5a1f90db63c731e87ce91f75.txt",
+      "metadata_path": "data/geopolitics/raw/b78f2a8641d3290931ae5196c3563a1e183fe1fc5a1f90db63c731e87ce91f75.json"
+    },
+    {
+      "title": "Lebanon: Flash Update #29 - Escalation of hostilities in Lebanon (as of 25 May 2026)",
+      "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-29-escalation-hostilities-lebanon-25-may-2026",
+      "text_path": "data/geopolitics/raw/715c6172043572b7f7be0dfe67e8e2ed00cb43a11a9b12b38e47509ac27620bb.txt",
+      "metadata_path": "data/geopolitics/raw/715c6172043572b7f7be0dfe67e8e2ed00cb43a11a9b12b38e47509ac27620bb.json"
+    },
+    {
+      "title": "Lebanon: Flash Update #29 - Escalation of hostilities in Lebanon (as of 25 May 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/890a6180-eaa8-4764-b5df-89d234a9b6f3/OCHA_Lebanon_Flash_Update%20No%2029%20-Final.pdf",
+      "text_path": "data/geopolitics/raw/0318c433e50439d3ad40a80ba17dcc1feba2b890c9b158160b30bab0519b440b.txt",
+      "metadata_path": "data/geopolitics/raw/0318c433e50439d3ad40a80ba17dcc1feba2b890c9b158160b30bab0519b440b.json"
+    },
+    {
+      "title": "Life for Relief and Development Intensifies Its Efforts to Combat Famine in Sudan: Escalating Hunger and Poverty Place Humanitarian Organizations Before Growing Challenges!",
+      "url": "https://reliefweb.int/report/sudan/life-relief-and-development-intensifies-its-efforts-combat-famine-sudan-escalating-hunger-and-poverty-place-humanitarian-organizations-growing-challenges",
+      "text_path": "data/geopolitics/raw/7e55ba0e95fa6f786528d84a5b37168e107962685a78ee21072d6dbd930abf4a.txt",
+      "metadata_path": "data/geopolitics/raw/7e55ba0e95fa6f786528d84a5b37168e107962685a78ee21072d6dbd930abf4a.json"
+    },
+    {
+      "title": "The Iran War Has Only Worsened Sudan’s Conflict",
+      "url": "https://foreignpolicy.com/2026/05/28/sudan-iran-war-gulf-proxy-ripple-effects-peace-talks-quad/",
+      "text_path": "data/geopolitics/raw/2571bea79f3db81430e70d90f5e85040f1978a32b77938da94ccab379cbf29b5.txt",
+      "metadata_path": "data/geopolitics/raw/2571bea79f3db81430e70d90f5e85040f1978a32b77938da94ccab379cbf29b5.json"
+    },
+    {
+      "title": "Plans for Gaza International Stabilisation Force in question as troop pledges stall",
+      "url": "http://www.euronews.com/2026/05/28/plans-for-gaza-international-stabilisation-force-in-question-as-troop-pledges-stall",
+      "text_path": "data/geopolitics/raw/e0edf5f4473541c889520b1237eccd67cb1d30c7b360ccb24bfeec157398e75f.txt",
+      "metadata_path": "data/geopolitics/raw/e0edf5f4473541c889520b1237eccd67cb1d30c7b360ccb24bfeec157398e75f.json"
+    },
+    {
+      "title": "Iran: World Health Organization - Middle East Escalation of Conflict, Global Situation report #8 - 28 May 2026",
+      "url": "https://reliefweb.int/report/iran-islamic-republic/world-health-organization-middle-east-escalation-conflict-global-situation-report-8-28-may-2026",
+      "text_path": "data/geopolitics/raw/a865b9b40285370b3d7b45c34d2a64342de574379406d6690ba9a6b8c701099f.txt",
+      "metadata_path": "data/geopolitics/raw/a865b9b40285370b3d7b45c34d2a64342de574379406d6690ba9a6b8c701099f.json"
+    },
+    {
+      "title": "Iran: World Health Organization - Middle East Escalation of Conflict, Global Situation report #8 - 28 May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/be294285-2ac6-4c7f-81d8-d28f9167af4e/Middle%20East%20Conflict%20Global%20Sitrep%2028%20May%202026.pdf",
+      "text_path": "data/geopolitics/raw/f44337428f2fd2cf59fc2f0544bb938b4b8979f79c26ce9785dbd13206403994.txt",
+      "metadata_path": "data/geopolitics/raw/f44337428f2fd2cf59fc2f0544bb938b4b8979f79c26ce9785dbd13206403994.json"
+    },
+    {
+      "title": "US and Iran reach tentative deal, pending Trump's approval",
+      "url": "http://www.euronews.com/2026/05/28/us-and-iran-reach-tentative-deal-pending-trumps-approval",
+      "text_path": "data/geopolitics/raw/6b51db488d3743876067222800ca4239057ccb61048898c12d3bc1ff0dbb62b5.txt",
+      "metadata_path": "data/geopolitics/raw/6b51db488d3743876067222800ca4239057ccb61048898c12d3bc1ff0dbb62b5.json"
+    },
+    {
+      "title": "Colombia: Flash update - Confinamientos y desplazamientos forzados en el municipio de Briceño (Antioquia). Mayo 28 de 2026",
+      "url": "https://reliefweb.int/report/colombia/colombia-flash-update-confinamientos-y-desplazamientos-forzados-en-el-municipio-de-briceno-antioquia-mayo-28-de-2026",
+      "text_path": "data/geopolitics/raw/53760697c31201191b0c1238475baad15abc35af816da78785cf2a0eb083b41a.txt",
+      "metadata_path": "data/geopolitics/raw/53760697c31201191b0c1238475baad15abc35af816da78785cf2a0eb083b41a.json"
+    },
+    {
+      "title": "Colombia: Flash update - Confinamientos y desplazamientos forzados en el municipio de Briceño (Antioquia). Mayo 28 de 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/42408273-fce3-4adc-8e4a-23d9b4ba8493/27052026%20Flash%20Update%20por%20emeregencias%20humanitaraias%20en%20Brice%C3%B1o_Antioquia%20VF.pdf",
+      "text_path": "data/geopolitics/raw/2c5248fc197c59833f241a5e07c52a3e55daf51d48a1683fd211159c2c267e49.txt",
+      "metadata_path": "data/geopolitics/raw/2c5248fc197c59833f241a5e07c52a3e55daf51d48a1683fd211159c2c267e49.json"
+    },
+    {
+      "title": "World: Availability, accessibility and affordability of quality food are vital for food security, says FAO",
+      "url": "https://reliefweb.int/report/world/availability-accessibility-and-affordability-quality-food-are-vital-food-security-says-fao",
+      "text_path": "data/geopolitics/raw/f0521e1369efd167ecc06f3763b7a02b687e65039ff2195c5bb976aeceea5b0c.txt",
+      "metadata_path": "data/geopolitics/raw/f0521e1369efd167ecc06f3763b7a02b687e65039ff2195c5bb976aeceea5b0c.json"
+    }
+  ],
+  "txt_before": 451,
+  "txt_after": 465
+}
