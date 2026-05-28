@@ -1,0 +1,126 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-28T20:16:31.195392+00:00",
+  "new_documents": 19,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.txt",
+      "metadata_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.txt",
+      "metadata_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/91af141026fe53f51bd25567bb61f792e59856918c8a5beca739d77782a09cf9.txt",
+      "metadata_path": "data/geopolitics/raw/91af141026fe53f51bd25567bb61f792e59856918c8a5beca739d77782a09cf9.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Netanyahu orders Israeli army to seize ‘70% of Gaza Strip’, violating ceasefire deal",
+      "url": "https://www.theguardian.com/world/2026/may/28/netanyahu-orders-israeli-army-seize-70-gaza-strip-violating-ceasefire-deal",
+      "text_path": "data/geopolitics/raw/d9c979f01c0c7e844e9c4b229e0966548ea66e1b7446574d7ede2f9206848dfb.txt",
+      "metadata_path": "data/geopolitics/raw/d9c979f01c0c7e844e9c4b229e0966548ea66e1b7446574d7ede2f9206848dfb.json"
+    },
+    {
+      "title": "What the Latest China-Russia Summit Means for Ukraine",
+      "url": "https://thediplomat.com/2026/05/what-the-latest-china-russia-summit-means-for-ukraine/",
+      "text_path": "data/geopolitics/raw/88cd00c47dc63641cc3bf3e8292d4763753c648e440bda4afbaa3f1b3263c7ff.txt",
+      "metadata_path": "data/geopolitics/raw/88cd00c47dc63641cc3bf3e8292d4763753c648e440bda4afbaa3f1b3263c7ff.json"
+    },
+    {
+      "title": "Dire strait? Trump’s bid to end Iran war before midterms risks Republican anger",
+      "url": "https://www.theguardian.com/us-news/2026/may/28/trump-iran-republicans-anger-midterms",
+      "text_path": "data/geopolitics/raw/c25b88f6997fd4106a4d338378667d4810e5d344d9e63099a2da40a9b3621f49.txt",
+      "metadata_path": "data/geopolitics/raw/c25b88f6997fd4106a4d338378667d4810e5d344d9e63099a2da40a9b3621f49.json"
+    },
+    {
+      "title": "Andrew A. Loomis",
+      "url": "https://www.war.gov/About/Biographies/Biography/Article/4502893/andrew-a-loomis/",
+      "text_path": "data/geopolitics/raw/30e39932a93909403721c449b9bf11b040b516903ba1e7644b83846830589119.txt",
+      "metadata_path": "data/geopolitics/raw/30e39932a93909403721c449b9bf11b040b516903ba1e7644b83846830589119.json"
+    },
+    {
+      "title": "Israel’s Netanyahu directs army to seize 70 percent of Gaza Strip",
+      "url": "https://www.aljazeera.com/news/2026/5/28/israels-netanyahu-directs-army-to-seize-70-percent-of-gaza-strip?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/76e607c8abd7e6338aa1cbe7f11de7d508a172989449df4889d481bf5c7309d0.txt",
+      "metadata_path": "data/geopolitics/raw/76e607c8abd7e6338aa1cbe7f11de7d508a172989449df4889d481bf5c7309d0.json"
+    },
+    {
+      "title": "The Putin-Xi Summit and the Asymmetry of the China-Russia Partnership",
+      "url": "https://thediplomat.com/2026/05/the-putin-xi-summit-and-the-asymmetry-of-the-china-russia-partnership/",
+      "text_path": "data/geopolitics/raw/60e9e67cee6d313682525558c3275841cda1262744c444391f76e66f4e823d0a.txt",
+      "metadata_path": "data/geopolitics/raw/60e9e67cee6d313682525558c3275841cda1262744c444391f76e66f4e823d0a.json"
+    },
+    {
+      "title": "Global temperatures set to stay near record levels: UN weather agency",
+      "url": "https://news.un.org/feed/view/en/story/2026/05/1167596",
+      "text_path": "data/geopolitics/raw/1c07d75936becdac8b7fbed164cc6d6c369cda2516fad7ac0fd10ea5a762ba1a.txt",
+      "metadata_path": "data/geopolitics/raw/1c07d75936becdac8b7fbed164cc6d6c369cda2516fad7ac0fd10ea5a762ba1a.json"
+    },
+    {
+      "title": "The Suez and Panama canals charge tolls. Why is Iran’s Hormuz fee triggering global outrage?",
+      "url": "https://www.dw.com/en/the-suez-and-panama-canals-charge-tolls-why-is-iran-s-hormuz-fee-triggering-global-outrage/a-77325707?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/35cb9c5d4549b931552ec9b32d01b8cf9fd1288d453457fa4f6e7a5e800d7696.txt",
+      "metadata_path": "data/geopolitics/raw/35cb9c5d4549b931552ec9b32d01b8cf9fd1288d453457fa4f6e7a5e800d7696.json"
+    },
+    {
+      "title": "The possible return of Somali pirates poses a new problem for the shipping industry",
+      "url": "https://www.npr.org/2026/05/28/nx-s1-5815335/the-possible-return-of-somali-pirates-poses-a-new-problem-for-the-shipping-industry",
+      "text_path": "data/geopolitics/raw/e65b3ec23cd8e64c5790462c0b30695c7cb4a86fc3a0630ee76004e744f6a3ff.txt",
+      "metadata_path": "data/geopolitics/raw/e65b3ec23cd8e64c5790462c0b30695c7cb4a86fc3a0630ee76004e744f6a3ff.json"
+    }
+  ],
+  "txt_before": 465,
+  "txt_after": 477
+}
