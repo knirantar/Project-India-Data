@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-05-28T22:28:38.477806+00:00",
-  "text_chars": 6187025,
-  "raw_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json.raw",
-  "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt"
+  "url": "https://foreignpolicy.com/2026/05/28/iran-war-trump-mou-deal-lebanon-israel/",
+  "title": "Groundhog Day: Iran War Edition",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Thu, 28 May 2026 22:02:31 +0000",
+  "sha256": "47cf7db4a3faa09c32af27edfd6d98ffb2ca2a52d494756851a6c123cdd4065e",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-28T22:29:47.880164+00:00",
+  "text_chars": 10178,
+  "raw_path": "data/geopolitics/raw/47cf7db4a3faa09c32af27edfd6d98ffb2ca2a52d494756851a6c123cdd4065e.html",
+  "text_path": "data/geopolitics/raw/47cf7db4a3faa09c32af27edfd6d98ffb2ca2a52d494756851a6c123cdd4065e.txt"
 }

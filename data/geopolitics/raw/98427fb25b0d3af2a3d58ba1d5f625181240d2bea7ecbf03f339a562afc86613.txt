@@ -1,0 +1,19 @@
+Cementing the digital infrastructure required to build enduring advantages and deter near-peer adversaries, the Department of War announced the award of the Microsoft Department of War Enterprise Software Agreement (ESA) II Core Enterprise Technology Agreement (CETA), to Dell Federal Systems, L.P., of Round Rock, Texas. This is a five-year Blanket Purchase Agreement (BPA) valued at approximately $9.7 billion.
+
+
+The agreement strengthens the Department's digital infrastructure and accelerates modernization efforts across the Joint Force by delivering enterprise-wide access to secure communications, collaboration, cloud, and productivity technologies essential to powering the American "Arsenal of Freedom." 
+
+
+Executing on the mandate to field a highly connected, agile, and secure Joint Force, the DoW ESA II CETA provides the Department with seamless access to Microsoft 365, advanced cloud subscriptions, and critical on-premises licensing capabilities. Together, these technologies form the foundation of the Department's digital ecosystem and support the secure connectivity required for Combined Joint All-Domain Command and Control (CJADC2), enabling warfighters, commanders, and civilian personnel to collaborate effectively from the Pentagon to the tactical edge. 
+
+
+"To dominate the modern battlefield, our warfighters must be armed with the most secure solutions the commercial sector can produce," said the Honorable Kirsten A. Davies, Chief Information Officer for the Department of War. "This $9.7 billion agreement is a foundational investment in decision advantage and to operate at the speed of relevance. We are fundamentally restructuring our Microsoft environment — shattering communication silos, aggressively driving efficiency, and employing a unified, collaboration environment required to defend, outmaneuver and defeat any cyber threats."
+
+
+The five-year BPA structure allows the Department to rapidly acquire and deploy critical software and cloud capabilities while reducing delays associated with fragmented procurement processes. By leveraging enterprise-wide purchasing power, the Department will achieve greater cost efficiency, standardized baseline configurations, and improved interoperability across the military services and defense agencies.
+
+
+"This contract is a game changer for the warfighters who rely on our networks every day," said Barry Tanner, performing the duties of the Chief Information Officer for the Department of the Navy. "It allows us to bypass fragmented procurement cycles and directly arm our Sailors and Marines with the resilient zero-trust cloud infrastructure required to fight and win in the digital battlespace." 
+
+
+As a critical enabler of the National Defense Strategy, the DoW ESA II CETA fuses foundational technologies into a single architecture designed to rapidly scale against dynamic global threats. The agreement arms the force with Microsoft 365 for instantaneous, cross-domain intelligence sharing, while robust Cloud Subscriptions accelerate the deployment of combat-critical AI and data analytics to guarantee decision superiority. Simultaneously, targeted on-premises licensing ensures unbroken operational continuity at the tactical edge, fortifying classified enclaves and disconnected, intermittent, and low-bandwidth (DIL) environments. By securing this comprehensive enterprise capability, the Department is telegraphing a clear, uncompromising message: the Arsenal of Freedom is fully networked, operationally hardened, and ready to dominate the digital battlespace.

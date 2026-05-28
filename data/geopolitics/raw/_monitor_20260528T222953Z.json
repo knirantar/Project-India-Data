@@ -1,0 +1,90 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-28T22:29:53.465713+00:00",
+  "new_documents": 13,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.txt",
+      "metadata_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.txt",
+      "metadata_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Security Council LIVE: Mounting attacks and Russian threats prompt emergency Ukraine meeting (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/28-05-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/edc299cbc49e4551817ffecffad3aacac758dedfc232bcc344e78c54be174287.txt",
+      "metadata_path": "data/geopolitics/raw/edc299cbc49e4551817ffecffad3aacac758dedfc232bcc344e78c54be174287.json"
+    },
+    {
+      "title": "EU sanctions ‘extremist’ Israeli settlers in occupied West Bank",
+      "url": "https://www.aljazeera.com/news/2026/5/28/eu-imposes-sanctions-on-extremist-israeli-settlers-in-occupied-west-bank?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/6944f2e60d9500c79e9f8a45d34de37f5c5d9b0d41d71176021d6ad7d60ad5de.txt",
+      "metadata_path": "data/geopolitics/raw/6944f2e60d9500c79e9f8a45d34de37f5c5d9b0d41d71176021d6ad7d60ad5de.json"
+    },
+    {
+      "title": "Groundhog Day: Iran War Edition",
+      "url": "https://foreignpolicy.com/2026/05/28/iran-war-trump-mou-deal-lebanon-israel/",
+      "text_path": "data/geopolitics/raw/47cf7db4a3faa09c32af27edfd6d98ffb2ca2a52d494756851a6c123cdd4065e.txt",
+      "metadata_path": "data/geopolitics/raw/47cf7db4a3faa09c32af27edfd6d98ffb2ca2a52d494756851a6c123cdd4065e.json"
+    },
+    {
+      "title": "Modernizing the Arsenal of Freedom: DoW Awards $9.7B Microsoft Enterprise Agreement to Power Global Mission Readiness",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4503069/modernizing-the-arsenal-of-freedom-dow-awards-97b-microsoft-enterprise-agreemen/",
+      "text_path": "data/geopolitics/raw/98427fb25b0d3af2a3d58ba1d5f625181240d2bea7ecbf03f339a562afc86613.txt",
+      "metadata_path": "data/geopolitics/raw/98427fb25b0d3af2a3d58ba1d5f625181240d2bea7ecbf03f339a562afc86613.json"
+    }
+  ],
+  "txt_before": 477,
+  "txt_after": 481
+}
