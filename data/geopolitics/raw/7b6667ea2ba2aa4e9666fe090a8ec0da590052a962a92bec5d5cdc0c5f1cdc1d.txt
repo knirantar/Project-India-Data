@@ -1,0 +1,547 @@
+1 
+WMO 2026 Calendar Competition - Niurma Sanchez
+2 
+WORLD METEOROLOGICAL ORGANIZATION 
+Global Annual to Decadal Climate Update 
+2026-2035 
+Key Messages 
+The Global Annual to Decadal Climate Update is issued annually by the World Meteorological 
+Organization (WMO). It provides a synthesis of the global annual to decadal predictions produced by 
+the WMO designated Global Producing Centres and other contributing centres. The latest predictions 
+show that: 
+ Global mean temperatures are likely to continue at or near record levels in the five-year
+period 2026-2030. The annually averaged global mean near-surface temperature for each
+year between 2026 and 2030 is predicted to be between 1.3°C and 1.9°C higher than the
+average over the years 1850-1900.
+ It is very likely (91% chance) that global mean near-surface temperature will exceed 1.5°C
+above the 1850-1900 average levels for at least one year between 2026 and 2030. It is also
+likely (75% chance) that the 2026-2030 five-year mean will exceed 1.5°C above the 1850-
+1900 average.
+ It is likely (86% chance) that at least one year between 2026 and 2030 will set a new annual
+record (currently 2024). It is exceptionally unlikely (<1%) that any year will exceed 2°C of
+warming in the next five years.
+ The five-year predicted average temperature in the Niño 3.4 region relative to the whole
+tropics indicates a preference for El Niño conditions, particularly in 2027 and 2028.
+ Arctic temperatures over the next five extended winters (November-March) are predicted to
+be 2.8°C above average temperatures for 1991-2020, an anomaly more than three and half
+times that of global mean temperature anomaly over the same period.
+ Decadal predictions of near-surface temperature for 2026-2035 are similar to those seen in
+climate projections. However, the predictions show warmer anomalies over the Amazon,
+North Africa, northern Scandinavia, and the Greenland Sea than projections.
+ Predictions of Arctic sea-ice for March 2026-2035 suggest further reductions in sea-ice
+concentration in the Barents Sea, Bering Sea, and Sea of Okhotsk.
+ Predicted precipitation patterns for May-September 2026-2030 suggest wet anomalies in
+the Sahel, northern Europe, Alaska and Siberia, and dry anomalies over the Amazon, are
+more likely in this season.
+ Regional forecasts are made for all WMO Regions. As an example, recent winters have been
+anomalously dry in the Southeastern European (SEECOF) region. The regional forecast
+suggests that the 2026-2030 period is likely to have anomalously high precipitation again.
+3 
+ 
+Observed Climate of the Last Five Years  
+This section provides a brief summary of the observed climate of the last five years to give context for 
+the predictions shown later in this report. Please refer to the WMO State of the Global Climate report 
+for a more complete discussion. Figure 1 shows the global patterns of surface air temperature, sea-
+level pressure and precipitation anomalies over the last year (2025) and the last five-year (2021-2025) 
+period with respect to the most recent climatological normal, the average over the years 1991-2020. 
+Last year, 2025, was one of the three warmest years on record, with the globally averaged near-
+surface temperature estimated at 1.43 °C ± 0.13 °C above the 1850–1900 baseline. Near-surface 
+temperatures in 2025 were warmer than the long-term average almost everywhere over land with 
+particularly large warm anomalies in North America, North Africa, Europe and parts of Asia.   
+Over 2021-2025, anomalous warmth was widespread, except over the eastern tropical Pacific and 
+parts of South America, Australia and India.  The anomalies were largest at high latitudes in the 
+Northern Hemisphere, especially the Arctic, and generally larger over land than ocean, apart from in 
+the North Pacific. Four out of five years in this period had La Niña conditions.  
+Sea-level pressure in 2025 and in the last five years was anomalously low over Antarctica. The Aleutian 
+Low for 2021-2025 was anomalously weak and the sea-level pressure was high in the eastern Pacific, 
+consistent with the extended La Niña conditions that prevailed.  
+Precipitation patterns in 2025 show that parts of central South America had below average rainfall. 
+Southern Africa and the maritime continent had above average rainfall. During 2021-2025, parts of 
+Asia and the African Sahel were wetter than average, and southern Africa, western Australia, central 
+and southern South America, southwestern Europe and parts of North America were drier than 
+average.
+4 
+ 
+ 
+Figure 1: Observed annual mean near-surface temperature (°C, top), pressure (hPa, middle) and precipitation (mm/day, 
+bottom) anomalies relative to 1991-2020. The left column shows the year 2025, the right column refers to the average of 
+the five-year period 2021-2025. Near-surface temperature is ERA5 2m temperature (Bell et al, 2021). Mean sea-level 
+pressure is also from ERA5. Precipitation is from GPCP (Adler et al, 2003, updated). 
+To highlight summer and winter differences, Figure 2 shows average anomalies over the last five years 
+for two extended seasons, May to September and November to March. Both seasons had generally 
+higher temperatures than the 1991-2020 average, apart from the East and South Pacific. Western 
+North America was anomalously warm in May to September and anomalously cold in November to 
+March. 
+The sea-level pressure anomalies seen in the five-year mean in Figure 1 over Antarctica and the 
+Aleutian Low were largest in November to March. Precipitation patterns show that East Asia and South
+5 
+ 
+Asia were wetter than average in May to September, but this hides large inter-annual variability. The 
+African Sahel also shows wet anomalies for this season. Western Australia and most of South America 
+were drier than average over the five years in both seasons. 
+ 
+Figure 2: Observed five-year seasonal mean near-surface temperature (°C, top), pressure (hPa, middle) and precipitation 
+(mm/day, bottom) anomalies relative to 1991-2020. The left column shows anomalies for May to September averaged 
+over 2021-2025, the right column shows anomalies for November to March averaged over 2020/2021-2024/2025. 
+Observational datasets are the same as those in Figure 1.
+6 
+ 
+Annually averaged global (land and sea) mean near-surface temperature has increased continuously 
+over recent decades (Figure 3). The last three years, 2023-2025, are the warmest years on record. 
+According to the WMO State of the Global Climate, the last eleven years are also the hottest on record, 
+primarily due to the rising atmospheric concentration of carbon dioxide. Atlantic Multidecadal 
+Variability (AMV) anomalies in the last five years are positive since near-surface temperatures in the 
+North Atlantic have been warmer than the rest of the oceans. After a string of three negative (La Niña) 
+December to February seasons, the tropical East Pacific had warm anomalies at the beginning of 2024 
+(El Niño). This was followed by La Niña in the last two December to February seasons. 
+ 
+Figure 3: Observed climate indicators. Global annual mean near-surface temperature anomaly (top), annual mean Atlantic 
+Multidecadal Variability (AMV) defined as the difference between two regions: 45°N-60°N,60°W-0°E minus 45°S-0°S, 30°W-
+10°E as in Roberts et al, 2013 (middle) and December to February Niño 3.4 defined as the average over 5°S-5°N, 170°W-
+120°W with the tropical average 20°S-20°N removed as in van Oldenborgh et al, 2021 (bottom). Nine datasets are used in the 
+calculation of global near-surface temperature and are the same as in the WMO State of Global Climate 2025 report. 
+Anomalies are with respect to 1850-1900. The other two indices are based on 2m temperature from ERA5 as in Figure 1 and 
+anomalies are relative to the 1991-2020 reference period.
+7 
+ 
+Predictions from the WMO Lead Centre 
+Predictions of climate indices and global fields are obtained from multi-model initialised annual-to-
+decadal climate predictions contributed to the WMO Lead Centre for Annual to Decadal Climate 
+Prediction. For this year’s update there are 250 ensemble members from prediction systems 
+contributed by 13 different institutes, including four Global Producing Centres: Barcelona 
+Supercomputer Centre, Canadian Centre for Climate Modelling and Analysis, Deutscher Wetterdienst, 
+and the Met Office. Predictions are either started from the conditions on 1 November 2024 or 1 
+January 2025, depending on the decadal prediction system. Retrospective forecasts, or hindcasts, 
+covering the period 1960-2018 are used to estimate forecast skill.  Uninitialised historical simulations 
+and projections are from the World Climate Research Programme’s Coupled Model Intercomparison 
+Project phase 6 (CMIP6). Please consult the “How to Use the Global Annual to Decadal Climate 
+Update” section of this report for information on forecast confidence and see Hermanson et al (2022) 
+for background information. 
+Predictions of Global Climate Indicators 
+Annually averaged global near-surface temperatures are likely to continue at or near record levels in 
+the five-year period 2026-2030 and stay well above annual mean temperatures seen in the last 60 
+years (Figure 4). Annually averaged global mean near-surface temperature for each year in this five-
+year period is predicted to be between 1.3°C and 1.9°C (90% confidence interval) higher than the 
+average for the period 1850-19001.  
+The chance of the annually averaged global near-surface temperature exceeding 1.5°C above 1850-
+1900 levels for at least one of the next five years has been increasing with time. For 2026-2030 it is 
+now very likely (91%, brown histogram and right-hand axis in Figure 4). The five-year mean is predicted 
+to be between 1.4°C and 1.8°C (90% confidence interval) and it is likely (75%) that the five-year mean 
+will also exceed 1.5°C. Note that the 1.5°C level specified in the Paris Agreement refers to long-term 
+level of warming inferred from global temperatures, typically over 20 years. Temporary exceedances 
+of the 1.5°C level are expected to occur with increasing frequency as the underlying rise in global 
+temperature approaches this level. It is exceptionally unlikely (<1%) that at least one year exceeds 2°C 
+in 2026-2030. 
+The chance of one or more annual global near-surface temperature records in the next five years is 
+86% (the current record is 1.55°C in 2024). The chance of the five-year mean for 2026-2030 being 
+higher than the last five-year mean is 91%. Confidence in forecasts of annually averaged global mean 
+near-surface temperature is high since hindcasts show very high skill in all measures (right-hand panels 
+of Figure 4).  
+ 
+1 Forecasts are produced relative to 1991-2020 and then the difference between this period and 1850-1900 
+derived from observations is added. This difference is most likely 0.88°C, but is uncertain due to the incomplete 
+observational network in the 19th century and could be as low as 0.72°C or as large as 0.99°C.
+8 
+ 
+ 
+Figure 4: Multi-annual predictions of global mean near-surface temperature relative to 1850-1900. Annual global mean 
+observations (see Figure 3) in black, forecast in blue, hindcasts in green. Shading indicates the 90% confidence interval. Grey 
+shading shows the 90% confidence interval of unininitialised simulations. The calibrated probability for the five-year-mean 
+forecast to be above the 1991-2020 average is given at the bottom of the main panel. Hindcast skill scores are shown in the 
+upper right panel; the square and the cross show the correlation skill and Mean Square Skill Score (MSSS) for five-year means, 
+respectively. Statistically significant correlation skill (at the 5% confidence level) is indicated by solid circles/square. The 
+contingency table for the prediction of above-average five-year means (compared to 1991-2020) is shown in the bottom right 
+panel. Also inset in the main panel, in brown, referring to the right hand axis, is the probability of global temperature 
+exceeding 1.5°C above 1850-1900 levels for at least one of the five following years, starting with the year indicated. This 
+probability is calculated as in Smith et al (2018) by counting the proportion of ensemble members that predict at least one 
+year above 1.5°C.  
+Predictions indicate a 75% calibrated probability (Bett et al, 2022) that Atlantic Multidecadal 
+Variability (AMV) index will be positive on average over the next five years (Figure 5). The hindcasts 
+have medium skill in both measures and a medium hit rate, giving medium confidence in this 
+prediction. The North Atlantic subpolar gyre, the main centre of action of the AMV, has had positive 
+near-surface temperature anomalies in the last five years (Figure 1). Some predictions from the 
+contributing centres indicate a return to cool temperatures in the next five years, but most predict 
+continued warming of the region (individual centre contributions can be seen on the website). 
+Predictions for the Atlantic Meridional Overturning Circulation (AMOC), which is related to AMV and 
+shows a decrease, can be found in the Appendix.  
+ 
+Figure 5: Multi-annual predictions of Atlantic Multidecadal Variability (AMV) relative to its 1991-2020 average, defined as 
+the anomaly difference between two regions: 45°N-60°N, 60°W-0°E minus 45°S-0°S, 30°W-10°E as in Roberts et al (2013). 
+Annual mean observations in black, forecast in blue, hindcasts in green. Shading indicates the 90% confidence interval. Grey
+9 
+ 
+shading shows the 90% confidence interval of unininitialised simulations, indicating the degree to which forecasts reduce the 
+uncertainty compared to projections. The calibrated probability (as in Bett et al, 2022 ) for the most likely category (above or 
+below climatology) of the five-year-mean forecast is given at the bottom of the main panel. Hindcast skill scores are shown 
+in the upper right panel; the square and the cross show the correlation skill and Mean Square Skill Score (MSSS) for five-year 
+means, respectively. Statistically significant correlation skill (at the 5% confidence level) is indicated by solid circles/square. 
+The contingency table for the prediction of above/below average five year means is shown in the bottom right panel.  
+The year of 2026 started with La Niña conditions in the tropical East Pacific. These anomalies are 
+predicted to decline and the Niño 3.4 region is predicted to show positive anomalies (El Niño) for 
+December 2026 – February 2027. There is a large ensemble spread (±0.5 °C) and skill is medium for 1 
+year ahead (Figure 6). There are indications that the following December 2027 – February 2028 may 
+also have positive anomalies, but skill for the two years ahead is low. The five-year average 
+temperature in the Niño 3.4 region relative to the whole tropics has a 64% calibrated probability of 
+being above average, indicating a small signal for dominance of El Niño in this period. Skill is medium, 
+giving medium confidence in this forecast. 
+ 
+Figure 6: As Figure 5, but for December-February averaged Niño 3.4 relative to the tropical mean defined as the average 
+over 5°S-5°N, 170°W-120°W with average over 20°S-20°N removed. This index is suitable for a warming climate (van 
+Oldenborgh et al, 2021). 
+Regional Predictions for 2026 
+Near-surface temperatures in 2026 are predicted to be higher than the 1991-2020 average in almost 
+all regions across the globe, except for parts of the South Pacific (Figure 7). The stippled regions in 
+Figure 7 indicate where the different prediction systems disagree on the sign of the anomaly. The 
+regions showing below-average temperatures are stippled, which implies low confidence in whether 
+the forecasts for these regions will be above or below normal. Skill is estimated from hindcasts (Figure 
+8) giving medium to high confidence in the forecast in most regions. 
+Sea-level pressure forecasts suggest the Aleutian Low will remain weak and anomalous high pressure 
+is likely over the South Pacific. The skill gives medium confidence in this prediction. The pattern of low 
+pressure over Antarctica and high pressure over the southern hemisphere mid-latitudes is consistent 
+with a positive Antarctic Oscillation index (see also Figure 21).  The skill for these regions gives medium 
+to low confidence. 
+Predicted precipitation patterns show an increased chance of wetter conditions in the African Sahel 
+due to a northward shifted Intertropical Convergence Zone (ITCZ) in the Atlantic, likely due to the 
+relatively warm North Atlantic and positive AMV. Northern high latitudes are likely to have above 
+average precipitation, consistent with climate change projections. Parts of Brazil are likely to be drier
+10 
+ 
+than usual. The correlation skill for precipitation in hindcasts is low (but significant) in these regions, 
+giving low confidence in the forecast. 
+ 
+Figure 7: Annual mean anomaly predictions for 2026 relative to 1991-2020. Ensemble mean (left column) for temperature 
+(top, °C), sea level pressure (middle, hPa), precipitation (bottom, mm/day), stippled where more than 1/3 of prediction 
+systems disagree on the sign of the anomaly, and probability of above average (right column). As this is an uncalibrated two-
+category forecast, the probability for below average is one minus the probability shown in the right column.
+11 
+ 
+ 
+Figure 8: Prediction skill of annual means evaluated using hindcast experiments. Pearson correlation (left) and ROC score 
+for predictions of above average conditions (right). For correlation stippling shows where skill is insignificant (at the 5% level).
+12 
+ 
+Regional Predictions for 2026-2030 
+This section shows predictions for the average of the next five extended seasons for May to September 
+and November to March.  
+For the May to September average, predicted temperature patterns over the years 2026-2030 show 
+a high probability of temperatures above the 1991-2020 average almost everywhere, with enhanced 
+warming over land in the northern hemisphere (Figure 9). High or very high skill gives high confidence 
+in this prediction (Figure 10). 
+For the same season, sea-level pressure is predicted to be anomalously low over the Mediterranean 
+and North America. There is some skill in the hindcasts for these regions and these negative anomalies 
+have appeared in forecasts over the last few years, but so far they have not appeared consistently in 
+the observations. Anomalously high pressure is predicted over the South Pacific and the mid-latitudes 
+of the other oceans in the Southern Hemisphere. These anomalies have also appeared in the 
+observations in the last five years (Figure 2). The skill for most of these regions gives low to medium 
+confidence. Predictions of precipitation show wet anomalies in the Sahel, northern Europe, Alaska and 
+Siberia, and dry anomalies for this season over the Amazon. Skill gives low to medium confidence. 
+For the November to March average over the years 2026/27-2030/31 (Figure 11), the predictions 
+again show that warm anomalies are likely almost everywhere, with land temperatures showing larger 
+anomalies than those over the ocean. The Arctic (north of 60°N) near-surface temperature anomaly 
+for this season is predicted to be 2.8°C above 1991-2020 average, which is more than three and half 
+times larger than the global mean anomaly with respect to the same period. The North Atlantic 
+subpolar gyre, the location of the so-called “warming hole”, has been linked to a reduction in the 
+AMOC and changes to regional winds. This is an area where the prediction systems disagree on the 
+sign of the anomaly, but consistently show colder temperatures than the rest of the North Atlantic. 
+Skill is high in most regions except for parts of the North Pacific, some areas in Asia, Australia, and the 
+Southern Ocean (Figure 12), giving medium to high confidence.  
+There will likely be a positive pressure anomaly over the tropical west and central Pacific. At high 
+latitudes, there is a negative pressure anomaly predicted and a positive anomaly in the North Atlantic 
+(though prediction systems disagree on the latter) implying increased likelihood of positive North 
+Atlantic Oscillation (NAO) conditions in this period. The skill over the tropical Pacific gives medium 
+confidence for the prediction there, but there is low confidence in the NAO prediction due to lower 
+skill in these regions. 
+Precipitation predictions favour wetter than average conditions at high latitudes in the northern 
+hemisphere for the next five extended winter seasons (November to March). The pattern of increased 
+precipitation in the tropics and high latitudes compared to the 1991-2020 reference period, and 
+reduced precipitation in the subtropics, particularly in the southern hemisphere, is consistent with 
+expectations of a warming climate. Skill cannot be measured over the oceans due to lack of 
+observations, and is moderate over large parts of northern Eurasia, Greenland, and the Canadian 
+Arctic Archipelago giving low to medium confidence in the forecast for an increased chance of 
+precipitation in these regions.
+13 
+ 
+ 
+Figure 9: Predictions for 2026-2030 May to September anomalies relative to 1991-2020. Ensemble mean (left column) for 
+temperature (top, °C), sea level pressure (middle, hPa), precipitation (bottom, mm/day), stippled where more than 1/3 of 
+prediction systems disagree on the sign of the anomaly, and probability of above average (right column). As this is an 
+uncalibrated two-category forecast, the probability for below average is one minus the probability shown in the right column.
+14 
+ 
+ 
+Figure 10: Prediction skill of five-year mean May to September anomalies evaluated using hindcast experiments. Pearson 
+correlation (left) and ROC score for predictions of above average conditions (right). For correlation stippling shows where skill 
+is not significantly positive (at the 5% level).
+15 
+ 
+ 
+Figure 11: Predictions for 2026/2027-2030/2031 November to March anomalies relative to 1991-2020. Ensemble mean 
+(left column) for temperature (top, °C), sea level pressure (middle, hPa), precipitation (bottom, mm/day), stippled where more 
+than 1/3 of prediction systems disagree on the sign of the anomaly, and probability of above average (right column). As this 
+is an uncalibrated two-category forecast, the probability for below average is one minus the probability shown in the right 
+column.
+16 
+ 
+ 
+Figure 12: Prediction skill of five-year means November to March anomalies evaluated using hindcast experiments. 
+Correlation (left) and ROC score for predictions of above average conditions (right). For correlation stippling shows where skill 
+is not significantly positive (at the 5% level). 
+Regional Predictions for 2026-2035 
+This section shows predictions out to ten years into the future. As many readers will be familiar with 
+climate projections, we compare what the initialised predictions show compared with what climate 
+projections show. Note that projections, in contrast to predictions, do not use initial condition 
+information and are therefore not in phase with decadal climate variability. This could therefore be 
+the source of the differences between the two. For comparison with the predictions, we use the 
+IPCC WGI Interactive Atlas using CMIP6 projections for 2021-2040, SSP2-4.5 and the 1995-2014 
+baseline. The periods and the models are not the same as used for the predictions, but for the multi-
+model mean there is enough commonality to make a comparison meaningful. 
+The ensemble mean forecast for 2026-2035 for near-surface temperatures (Figure 13) shows very 
+similar signals, but with warmer anomalies, to the projections over the Amazon, North Africa,
+17 
+ 
+northern Scandinavia, and the Greenland Sea. These regions also have high skill (Figure 14). 
+Anomalies are positive, but weaker than projections, in the seas adjacent to Antarctica, and in the 
+tropical East Pacific (the projections show an El Niño-like pattern). 
+The precipitation forecast for the next decade, shows compared to the projections, less rainfall over 
+the Amazon and the eastern Indian Ocean and more precipitation over the Barents and Kara Sea and 
+surrounding coastlines. The skill over the oceans for precipitation is not known as precipitation 
+observations over the oceans are not available for the full verification period, which starts in 1960. 
+Sea-level pressure is not available in the interactive atlas. The IPCC Assessment Report 6, Working 
+Group I, Chapter 4, section 4.5.1.6.1 and Figure 4.25, show features for sea-level pressure similar to 
+the predictions in Figure 13.
+18 
+ 
+Figure 13: Predictions for 2026-2035 relative to 1991-2020. Ensemble mean (left column) for temperature (top, °C), sea 
+level pressure (middle, hPa), precipitation (bottom, mm/day), stippled where more than 1/3 of prediction systems disagree 
+on the sign of the anomaly, and probability of above average (right column). As this is an uncalibrated two-category 
+forecast, the probability for below average is one minus the probability shown in the right column. 
+ 
+ 
+Figure 14: Prediction skill of ten-year mean anomalies evaluated using hindcast experiments. Correlation (left) and ROC 
+score for predictions of above average conditions (right). For correlation stippling shows where skill is not significantly positive 
+(at the 5% level). 
+ 
+Regional Forecast Indices 
+This section shows an example of a regional forecast index based on notable forecast signals found in 
+the previous section and where there is skill in the multi-model ensemble. The full set of regional 
+forecasts and hindcasts can be found on the website under the “Regional” tab. The regions are based
+19 
+ 
+on the WMO Regional Climate Outlook Forums (RCOFs) and Regional Associations. The season used 
+for the indices is the relevant season for that region, usually the wet season or monsoon season.  
+The Southeastern European (SEECOF) region, considered here as an example to showcase regional 
+forecast indices, has decadal variability in its December to February precipitation. Recent years have 
+been anomalously dry after many years of high precipitation since 2009. The forecast suggests the 
+2026-2030 period is likely to have anomalously high precipitation (Figure 15). The calibrated 
+probability of above average is 77%. Predictions for this region have low skill, so confidence is low in 
+this prediction. Note that although the five-year-mean may be positive, this may not be the case for 
+all the individual seasons in this period. 
+ 
+ 
+Figure 15: As Figure 5, but for December to February (DJF) averaged precipitation over the Southeastern Europe (SEECOF) 
+region. 
+Sea ice Forecasts 
+Sea ice forecasts are challenging for current decadal prediction systems. This can be seen by inspecting 
+the sea-ice concentration maps which are shown (under the “Forecasts” tab) and sea-ice extent 
+timeseries (under the “Timeseries” tab) on the website. Although there is a wide range of mean states 
+and forecast skill, the multi-model ensemble mean is skilful, and these forecasts are issued to 
+stimulate conversations to further improve this aspect of annual-to-decadal predictions. 
+The sea-ice concentration anomalies (Figure 16) for the Arctic in March (the time of maximum ice 
+extent) show predicted reductions for 2026-2035 in the Barents Sea, Bering Sea, and Sea of Okhotsk. 
+There is also agreement for reductions in the Greenland Sea and Labrador Sea. Skill is high in the North 
+Atlantic and medium in the Pacific for these predictions (Figure 17). For Arctic sea ice in September 
+(minimum extent) 2026-2035, reductions of more than 10% sea ice concentration are predicted for all 
+regions that normally have sea-ice at this time of year. There is high skill in predicting anomalies at 
+the sea-ice edge, so there is high confidence for these reductions, except in parts of the Arctic 
+Archipelago where there is low confidence.  
+For Antarctic September (maximum extent) the predictions show a high probability of below normal 
+sea ice along the climatological sea-ice edge and an above normal probability for increased sea-ice 
+concentration in the Weddell Sea. Correlation skill gives low-to-medium confidence in this prediction. 
+Many prediction systems have unrealistically low sea ice in Antarctica in March and so there is little
+20 
+ 
+agreement on anomalies (stippling) and skill is low except for near the coast of Ellsworth Land where 
+reductions are predicted. 
+ 
+Figure 16: Predictions for 2026-2035 March and September sea-ice concentration anomalies relative to 1991-2020. 
+Ensemble mean (left column) for March (top, %) and September (bottom, %), stippled where more than 1/3 of prediction 
+systems disagree on the sign of the anomaly, and probability of above average (right column). As this is an uncalibrated two-
+category forecast, the probability for below average is one minus the probability shown in the right column.
+21 
+ 
+ 
+Figure 17: Prediction skill of five-year means of March and September sea-ice anomalies evaluated using hindcast 
+experiments. Correlation (left) and ROC score for predictions of above average conditions (right). For correlation stippling 
+shows where skill is not significantly positive (at the 5% level). 
+Evaluation of Previous Forecasts 
+This section assesses forecasts that were issued in real time for the most recently completed one- and 
+five-year periods. The forecast for 2025, which was produced using simulations initialised at the end 
+of 2024, is shown in Figure 18. Stippling in the left-hand panels indicates low confidence in the forecast 
+when it was issued. Stippling in the right-hand panels indicates where observations are outside the 
+predicted 90% confidence interval for the multi-model ensemble spread.  
+For near-surface temperatures, the forecast was good with a spatial correlation (in brackets above the 
+observations) of 0.62. Cold anomalies over India and eastern tropical Pacific were captured by the 
+ensemble spread, though confidence was low for the latter. Cold anomalies over southern Africa and 
+warm anomalies over parts of Antarctica were not captured.  
+Sea-level pressure patterns agree reasonably well with the observations (spatial correlation of 0.49) 
+where there was confidence in the forecast with anomalously low pressure over the Arctic and 
+Antarctic and anomalously high pressure over much of the Pacific and Southern Ocean. However, 
+many of the predicted anomalies are systematically too small. The ensemble spread does not 
+encompass the largest anomalies in the Southern Ocean.  
+The multi-model ensemble mean predictions of precipitation captured the correct sign of anomalies 
+in many regions (spatial correlation of 0.50), including wetter conditions in northern Europe, Asia, and 
+the Sahel, as well as the rainfall patterns in the Pacific and Indian Ocean associated with ENSO. The 
+confidence interval does not encompass many of the southern hemisphere high latitude dry anomalies 
+and the dry conditions in the Amazon.
+22 
+ 
+ 
+Figure 18: Evaluation of the one-year forecast for 2025 relative to 1991-2020. Ensemble mean forecast (left) and observed 
+(right) anomalies. Top: temperature (°C); middle: sea level pressure (hPa); bottom: precipitation (mm/day). The spatial 
+Pearson correlation between forecast and observations is shown in brackets above the observations. Stippling on forecasts 
+shows where more than 1/3 of prediction systems disagree on the sign of the anomaly. Stippling on the observations shows 
+where they fall outside of the 90% range of the multi-model ensemble spread. Observations are from the same sources as in 
+Figure 1.
+23 
+ 
+Average forecast temperature anomalies for the last five years 2021-2025 (from forecasts initialised 
+at the end of 2020 shown relative to 1981-2010, Figure 19), generally agree well with observations 
+(spatial correlation of 0.79) with warm conditions over the Arctic and Eurasia, and enhanced warming 
+over the land compared to the ocean, especially in the northern hemisphere. Relatively cool 
+conditions in the South and tropical Pacific were captured within the confidence interval of the 
+ensemble spread. Relatively cool conditions off the Pacific coast of Mexico were not captured. 
+Sea-level pressure patterns show reasonable agreement with the observations (spatial correlation of 
+0.58), with lower-than-average pressure over the Arctic and Antarctic and higher than average 
+pressure over most ocean regions. The low pressure over the North Atlantic was not captured. As with 
+the one-year prediction evaluated above, the forecast anomalies are often too small and the 
+observations are outside the multi-model ensemble spread for regions over the Pacific, Antarctica, 
+and central Asia.  
+Precipitation patterns show some agreement with observations (spatial correlation of 0.38), including 
+wetter than usual conditions across much of Asia, India and sub-Saharan Africa, and drier than usual 
+conditions in southern Africa and in South America. The wet anomalies in East Asia and drier than 
+normal conditions in North America and South America were not within the ensemble spread.
+24 
+ 
+ 
+Figure 19: Evaluation of the five-year forecast for 2020-2024 relative to 1981-2010 (this was the forecast climatology at 
+the time of issue). Ensemble mean forecast (left) and observed (right) anomalies. Top: temperature (°C); middle: sea level 
+pressure (hPa); bottom: precipitation (mm/day). The spatial Pearson correlation between forecast and observations is shown 
+in brackets above the observations. Stippling on forecasts shows where more than 1/3 of prediction systems disagree on the 
+sign of the anomaly. Stippling on the observations shows where they fall outside of the 90% range of the multi-model 
+ensemble spread. Observations are from the same sources as in Figure 1. 
+How to Use the Global Annual to Decadal Climate Update 
+The forecasts shown here are intended as guidance for Regional Climate Centres (RCCs), Regional 
+Climate Outlook Forums (RCOFs) and National Meteorological and Hydrological Services (NMHSs). It 
+does not constitute an official forecast for any region or nation, but RCCs, RCOFs and NMHSs are 
+encouraged to appropriately interpret and develop value-added forecasts from this Climate Update.
+25 
+ 
+Where the ensemble mean is shown, this only indicates the most likely outcome. Other outcomes are 
+possible and may be almost as likely. A major volcanic eruption would change the expected climate, 
+and in this case new forecasts will be made (Sospedra-Alfonso et al, 2024). Signals with small spatial 
+extent are likely unreliable and will likely have lower skill. See Hermanson et al (2022) for more 
+information. 
+The skill of interannual to decadal forecasts is different to that of weather and seasonal timescales 
+and skill may vary considerably with region and season. It is important to view the forecast maps 
+together with the skill maps provided to evaluate the confidence in a prediction. Skill and therefore 
+the confidence in a forecast is evaluated from hindcasts. Note that skill of predictions from a given 
+initial climate state may differ from average skill estimated over many different cases. Correlation skill 
+is classified into five categories: very low (below 0.2, but still significant), low (between 0.2-0.4), 
+medium (between 0.4-0.6), high (between 0.6-0.8) and very high (0.8 and higher).
+26 
+ 
+Appendix – predictions for other indices 
+Predictions of Atlantic Meridional Overturning Circulation (AMOC) are important for the climate of 
+countries surrounding the North Atlantic and for global heat transport. The AMOC has been measured 
+at 26°N since 2004. The forecast for 2026-2030 (Figure 20, top row) shows below normal overturning 
+in the subpolar gyre and weaker anomalies further South. The AMOC is usually measured close to 
+1000m, these negative anomalies peak below that depth. Skill cannot be evaluated due to insufficient 
+observations, which only exist for particular locations.  
+The AMOC prediction for 2026-2035 (Figure 20, bottom row) shows anomalously low values in the 
+ensemble mean below 1000m throughout the Atlantic basin. Compared to results from projections, 
+these anomalies are deeper and extend further South (Bellomo et al, 2021). The probabilistic forecast 
+shows very low probabilities for above average overturning below 1000m (therefore high probability 
+for below average) in the North Atlantic. There is large variability in the ensemble (individual 
+prediction systems are shown on the WMO Lead Centre for Annual to Decadal Climate Prediction web 
+page, www.wmolc-adcp.org). Confidence is low as there are insufficient observations to evaluate skill. 
+ 
+Figure 20: Atlantic Meridional Overturning Circulation (AMOC) forecast for 2026-2030 (first row) and 2026-2035 (second 
+row) relative to 1991-2020. The left column shows the ensemble mean streamfunction prediction and the right column shows 
+the probability of a stronger than average AMOC. As this is an uncalibrated two-category forecast, the probability for below 
+average is one minus the probability shown in the right column.
+27 
+ 
+ 
+The AMOC close to 30°N is predicted to be near or slightly below recent observed values (Figure 21). 
+After a stable period since the strong decline observed during the 2000s, the AMOC is predicted to 
+decline at a rate similar to climate projections. However, confidence in this forecast is low because 
+there are insufficient past observations to evaluate skill and a recent hindcast (rightmost green plume) 
+predicted a stronger AMOC than was measured. Note that the AMV (Figure 5) is predicted to likely be 
+positive despite the weaker AMOC predicted here. 
+ 
+Figure 21: Atlantic Meridional Overturning Circulation close to 30°N and 1100m as in Roberts et al (2013). RAPID 
+observations (26°N) in black (anomalies relative to its full time series 2005-2021 and then adjusted to 1991-2020 using CMIP6 
+AMOC) and forecast in blue. 
+A positive phase of Pacific Decadal Variability (PDV) is characterised by warm anomalies in the tropical 
+eastern Pacific and cold anomalies in the central North Pacific. Predictions for the next five years show 
+warming in both these regions and therefore do not show a typical PDV pattern. Nevertheless, the 
+PDV index used here is predicted to be negative during 2026-2030 with an 81% calibrated probability 
+(Figure 22). This is consistent with the trend seen since 1990. 
+ 
+Figure 22: As Figure 5, but for Pacific Decadal Variability (PDV) defined as the difference in SST between the eastern tropical 
+Pacific (10°S-6°N, 110°W-160°W) and the North Pacific (30°N-45°N, 145°W-180°W) as in Dong et al (2014). 
+The recent strong Antarctic Oscillation (AAO) or Southern Annular Mode (SAM) is predicted to remain 
+above average (Figure 23). The calibrated probability of above average for 2024-2028 is 73%. Although
+28 
+ 
+skill is medium for individual years and high for the next five years, the hindcasts (green) 
+underestimate the strengthening in recent years leading to less confidence in the prediction.  
+ 
+Figure 23: As Figure 5, but for the Antarctic Oscillation (AAO) defined as the difference in November to March mean zonal 
+mean sea-level pressure between 65°S and 40°S as in Gong & Wang (1999). 
+The Arctic Oscillation has recently been close to neutral due to both high and low pressure in the 
+winter season in the Arctic (Figure 24). The calibrated probability of above average for the next five 
+years is 70%, but skill is very low. 
+ 
+Figure 24: As Figure 5, but for the Arctic Oscillation (AO) defined as the difference in November to March mean zonal mean 
+sea-level pressure between 80°N and 45°N similar to Gong & Wang (1999), but for the Northern Hemisphere.
+29 
+ 
+References 
+Adler, R.F., G.J. Huffman, A. Chang, R. Ferraro, P. Xie, J. Janowiak, B. Rudolf, U. Schneider, S. Curtis, D. 
+Bolvin, A. Gruber, J. Susskind, and P. Arkin, 2003: The Version 2 Global Precipitation Climatology 
+Project (GPCP) Monthly Precipitation Analysis (1979-Present). J. Hydrometeor., 4,1147-1167.  
+https://doi.org/10.1175/1525-7541(2003)004%3C1147:TVGPCP%3E2.0.CO;2   
+Bell, B., Hersbach, H., Simmons, A., Berrisford, P., Dahlgren, P., Horányi, A., et al. (2021) The ERA5 
+global reanalysis: Preliminary extension to 1950. Q J R Meteorol Soc, 147 (741, 4186– 4227. Available 
+from: https://doi.org/10.1002/qj.4174 
+Bellomo, K., Angeloni, M., Corti, S. et al. Future climate change shaped by inter-model differences in 
+Atlantic meridional overturning circulation response. Nat Commun 12, 3659 (2021). 
+https://doi.org/10.1038/s41467-021-24015-w  
+Bett, P.E., H.E. Thornton, A. Troccoli, M. De Felice, E., L. Dubus, Y.-M. Saint-Drenan, D.J. Brayshaw 
+(2022) A simplified seasonal forecasting strategy, applied to wind and solar power in Europe, Climate 
+Services, 27 (100318). https://doi.org/10.1016/j.cliser.2022.100318  
+Dong, L., Zhou, T., and Chen, X. (2014), Changes of Pacific decadal variability in the twentieth century 
+driven by internal variability, greenhouse gases, and aerosols, Geophys. Res. Lett., 41, 8570– 8577 
+doi:10.1002/2014GL062269. 
+Gong, D. and Wang, S. (1999) Definition of Antarctic Oscillation index, Geophys. Res. Lett., 26, 459—
+462, https://doi.org/10.1029/1999GL900003 
+Hermanson, L., Smith, D., Seabrook, M., Bilbao, R., Doblas-Reyes, F., Tourigny, E., Lapin, V., Kharin, V. 
+V., Merryfield, W. J., Sospedra-Alfonso, R., Athanasiadis, P., Nicoli, D., Gualdi, S., Dunstone, N., Eade, 
+R., Scaife, A., Collier, M., O’Kane, T., Kitsios, V., Sandery, P., Pankatz, K., Früh, B., Pohlmann, H., Müller, 
+W., Kataoka, T., Tatebe, H., Ishii, M., Imada, Y., Kruschke, T., Koenigk, T., Karami, M. P., Yang, S., Tian, 
+T., Zhang, L., Delworth, T., Yang, X., Zeng, F., Wang, Y., Counillon, F., Keenlyside, N., Bethke, I., Lean, 
+J., Luterbacher, J., Kolli, R. K., & Kumar, A. (2022). WMO Global Annual to Decadal Climate Update: A 
+Prediction for 2021–25, Bulletin of the American Meteorological Society, 103(4), E1117-E1129., 
+https://journals.ametsoc.org/view/journals/bams/103/4/BAMS-D-20-0311.1.xml 
+Roberts, C. D., F. K. Garry, and L. C. Jackson, 2013: A Multimodel Study of Sea Surface Temperature 
+and Subsurface Density Fingerprints of the Atlantic Meridional Overturning Circulation. J. Climate, 26, 
+9155–9174, https://doi.org/10.1175/JCLI-D-12-00762.1 
+Smith, D. M., Scaife, A. A., Hawkins, E., Bilbao, R., Boer, G. J., Caian, M., et al. (2018). Predicted chance 
+that global warming will temporarily exceed 1.5 °C. Geophysical Research Letters, 45, 11,895– 11,903. 
+https://doi.org/10.1029/2018GL079362  
+Sospedra-Alfonso, R., and Coauthors (2024). Decadal prediction centers prepare for a major volcanic 
+eruption. Bull. Amer. Meteor. Soc., 105, E2496-E2524. https://doi.org/10.1175/BAMS-D-23-0111.1  
+van Oldenborgh, G. J., H. Hendon, T. Stockdale, M. L’Heureux, E. C. de Perez, R. Singh, and M. van 
+Aalst, 2021: Defining El Niño indices in a warming climate. Environ. Res. Lett., 16, 044003, 
+https://doi.org/10.1088/1748-9326/ABE9ED.
