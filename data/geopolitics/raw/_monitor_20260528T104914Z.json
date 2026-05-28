@@ -1,0 +1,168 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-28T10:49:14.415352+00:00",
+  "new_documents": 26,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.txt",
+      "metadata_path": "data/geopolitics/raw/c969d43d8b401adb826a685de33834707ee845e5b50da722df3916495d876dae.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/32bee2361c2ae72393ce23197c1735c9acdb5c49bfeac5986bc457c76f8f3c8e.txt",
+      "metadata_path": "data/geopolitics/raw/32bee2361c2ae72393ce23197c1735c9acdb5c49bfeac5986bc457c76f8f3c8e.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/91af141026fe53f51bd25567bb61f792e59856918c8a5beca739d77782a09cf9.txt",
+      "metadata_path": "data/geopolitics/raw/91af141026fe53f51bd25567bb61f792e59856918c8a5beca739d77782a09cf9.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.txt",
+      "metadata_path": "data/geopolitics/raw/ab5184cc170ab4e9a94b442e2062ddce9f93189af351213d3d232058d47965cb.json"
+    },
+    {
+      "title": "World: GEOGLAM Global Crop Monitor | No. 43 – May 2026",
+      "url": "https://reliefweb.int/report/world/geoglam-global-crop-monitor-no-43-may-2026",
+      "text_path": "data/geopolitics/raw/84c2de5d0f204a6d3a698008937eec23c7bf11de9e21e12b3c6eb3d26c1b0e02.txt",
+      "metadata_path": "data/geopolitics/raw/84c2de5d0f204a6d3a698008937eec23c7bf11de9e21e12b3c6eb3d26c1b0e02.json"
+    },
+    {
+      "title": "World: GEOGLAM Global Crop Monitor | No. 43 – May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/44642813-0a10-45ae-b9b0-879c201d3d71/Global_CropMonitor_202605.pdf",
+      "text_path": "data/geopolitics/raw/e9d489a18d21aa96d2f87787eac6b357a7337f503f1c84dd3714094a01073674.txt",
+      "metadata_path": "data/geopolitics/raw/e9d489a18d21aa96d2f87787eac6b357a7337f503f1c84dd3714094a01073674.json"
+    },
+    {
+      "title": "Middle East crisis live: Iran says Trump’s threats to ‘blow up’ Oman ‘dangerous and bullying’",
+      "url": "https://www.theguardian.com/world/live/2026/may/28/middle-east-crisis-trump-us-iran-war-lebanon-israel-strikes-latest-news-live",
+      "text_path": "data/geopolitics/raw/6e921ad613edc168ac91a5f566febf71c08d5cfee85b39eaeecb1a752b10aa21.txt",
+      "metadata_path": "data/geopolitics/raw/6e921ad613edc168ac91a5f566febf71c08d5cfee85b39eaeecb1a752b10aa21.json"
+    },
+    {
+      "title": "Kaja Kallas warns against walking into Russian ‘trap’ as EU ministers meet for talks – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/may/28/europe-russia-ukraine-talks-heatwave-kaja-kallas-putin-latest-news-updates",
+      "text_path": "data/geopolitics/raw/e61766145d1b6ef4a59768a07146932a7f48d79d674ff8f2029c47882bcbafd7.txt",
+      "metadata_path": "data/geopolitics/raw/e61766145d1b6ef4a59768a07146932a7f48d79d674ff8f2029c47882bcbafd7.json"
+    },
+    {
+      "title": "Norway will come under France's nuclear umbrella",
+      "url": "https://www.france24.com/en/video/20260528-norway-will-come-under-france-s-nuclear-umbrella",
+      "text_path": "data/geopolitics/raw/d2fdc6cab05c5c8987a3e046d1e940b4fbb0309a13dd918cf76da0bc86415c95.txt",
+      "metadata_path": "data/geopolitics/raw/d2fdc6cab05c5c8987a3e046d1e940b4fbb0309a13dd918cf76da0bc86415c95.json"
+    },
+    {
+      "title": "World: EU humanitarian action: MdM calls for concrete implementation",
+      "url": "https://reliefweb.int/report/world/eu-humanitarian-action-mdm-calls-concrete-implementation",
+      "text_path": "data/geopolitics/raw/2b36fa501fc71bb4a6ac00c42cf2d369bf7bc9287e1c9b925f2f2c1d4b3aa748.txt",
+      "metadata_path": "data/geopolitics/raw/2b36fa501fc71bb4a6ac00c42cf2d369bf7bc9287e1c9b925f2f2c1d4b3aa748.json"
+    },
+    {
+      "title": "Control Without Ownership: How China’s Party-Business Networks Dominate Indonesia’s Mineral Supply Chains",
+      "url": "https://warontherocks.com/cogs-of-war/control-without-ownership-how-chinas-party-business-networks-dominate-indonesias-mineral-supply-chains/",
+      "text_path": "data/geopolitics/raw/0174ca26a67ebf4ef82f29edad76c556db21a07f36c680db149138029567af15.txt",
+      "metadata_path": "data/geopolitics/raw/0174ca26a67ebf4ef82f29edad76c556db21a07f36c680db149138029567af15.json"
+    },
+    {
+      "title": "A Sea Control Revolution?",
+      "url": "https://warontherocks.com/a-sea-control-revolution/",
+      "text_path": "data/geopolitics/raw/a874957eaf855d1dcc7f7a3e1a430165b2da1732fb7908ed3f5857f9584eaf95.txt",
+      "metadata_path": "data/geopolitics/raw/a874957eaf855d1dcc7f7a3e1a430165b2da1732fb7908ed3f5857f9584eaf95.json"
+    },
+    {
+      "title": "World: Crop Monitor for Early Warning | No. 115 - May 2026",
+      "url": "https://reliefweb.int/report/world/crop-monitor-early-warning-no-115-may-2026",
+      "text_path": "data/geopolitics/raw/e2b84a8a9b8ee5cdd9509da01d01afe8a3d30e932832d8aa5cbff06c094a53f4.txt",
+      "metadata_path": "data/geopolitics/raw/e2b84a8a9b8ee5cdd9509da01d01afe8a3d30e932832d8aa5cbff06c094a53f4.json"
+    },
+    {
+      "title": "World: Crop Monitor for AMIS | No. 138 – May 2026",
+      "url": "https://reliefweb.int/report/world/crop-monitor-amis-no-138-may-2026",
+      "text_path": "data/geopolitics/raw/21ea2071a054c9d0767aa9c3b128c648030ba5e6e6f48b7f7574934be7627cee.txt",
+      "metadata_path": "data/geopolitics/raw/21ea2071a054c9d0767aa9c3b128c648030ba5e6e6f48b7f7574934be7627cee.json"
+    },
+    {
+      "title": "What’s happening on Iran war day 90 as US launches new strikes",
+      "url": "https://www.aljazeera.com/news/2026/5/28/whats-happening-on-iran-war-day-90-as-us-launches-new-strikes?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/62ffb31686c3d9e0fb96817b026e56058c0ec13735f45f8e5de1cd39642ebc8c.txt",
+      "metadata_path": "data/geopolitics/raw/62ffb31686c3d9e0fb96817b026e56058c0ec13735f45f8e5de1cd39642ebc8c.json"
+    },
+    {
+      "title": "World: Crop Monitor for Early Warning | No. 115 - May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/5c99709b-179d-4427-b8b4-20320c6e04ac/EarlyWarning_CropMonitor_202605.pdf",
+      "text_path": "data/geopolitics/raw/3b95a979580da001325912eceed69e00f706f7d640a7431f430e00b3838963c5.txt",
+      "metadata_path": "data/geopolitics/raw/3b95a979580da001325912eceed69e00f706f7d640a7431f430e00b3838963c5.json"
+    },
+    {
+      "title": "World: Crop Monitor for AMIS | No. 138 – May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/6509de91-2f0e-48ea-972f-edafdb72aba7/AMIS_CropMonitor_202605.pdf",
+      "text_path": "data/geopolitics/raw/6e663eec9b33d976ad8c52b0e56ce3cdb424a6f0e7148488cbd79d282fdf97b7.txt",
+      "metadata_path": "data/geopolitics/raw/6e663eec9b33d976ad8c52b0e56ce3cdb424a6f0e7148488cbd79d282fdf97b7.json"
+    },
+    {
+      "title": "What Everyone is Missing About North Korea’s Reunification Strategy",
+      "url": "https://warontherocks.com/what-everyone-is-missing-about-north-koreas-reunification-strategy/",
+      "text_path": "data/geopolitics/raw/b0e1a734454b20faa7ccf9d9213b645128986465e8a8ed18d4494378eb17e354.txt",
+      "metadata_path": "data/geopolitics/raw/b0e1a734454b20faa7ccf9d9213b645128986465e8a8ed18d4494378eb17e354.json"
+    },
+    {
+      "title": "Canada wants Saab early-warning aircraft under push to retool defense suppliers",
+      "url": "https://www.defensenews.com/air/2026/05/28/canada-wants-saab-early-warning-aircraft-under-push-to-retool-defense-suppliers/",
+      "text_path": "data/geopolitics/raw/265ee598c4e92f6f37072e9128e39324a98e78ff42b362ab20fc4230bee549e8.txt",
+      "metadata_path": "data/geopolitics/raw/265ee598c4e92f6f37072e9128e39324a98e78ff42b362ab20fc4230bee549e8.json"
+    },
+    {
+      "title": "US firm fined for Australian immigration security failures. How much? Border force refuses to say",
+      "url": "https://www.theguardian.com/australia-news/2026/may/28/australian-border-force-chief-on-us-prison-company-mtc-prison-security-failures",
+      "text_path": "data/geopolitics/raw/684faaf6ca796d931603c06ba6cc4b5d367dc60893b7bd8a8e6fcec4e0b2bb2c.txt",
+      "metadata_path": "data/geopolitics/raw/684faaf6ca796d931603c06ba6cc4b5d367dc60893b7bd8a8e6fcec4e0b2bb2c.json"
+    }
+  ],
+  "txt_before": 431,
+  "txt_after": 447
+}
