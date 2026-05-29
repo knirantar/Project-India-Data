@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: World News in Brief: Lebanon violence continues, Israel ‘severs ties’ with UN chief, Internal displacement in Haiti, warning to France over prison overcrowding (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-04-2026-UNICEF-Lebanon-04.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 57939
