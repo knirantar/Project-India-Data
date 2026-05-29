@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "geospatial_mapping_data",
+  "data_type": "sanctions_designations",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438",
-  "content_type": "application/zip",
-  "collected_at": "2026-05-29T00:06:28.075214+00:00",
-  "text_chars": 238,
-  "raw_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
-  "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
+  "sha256": "c5fdcfb70c725fecc9976c6c1a4ecae02c839b9c39b20629c9a2d51f19dcf27d",
+  "content_type": "application/xml",
+  "collected_at": "2026-05-29T00:05:52.897175+00:00",
+  "text_chars": 824889,
+  "raw_path": "data/geopolitics/raw/c5fdcfb70c725fecc9976c6c1a4ecae02c839b9c39b20629c9a2d51f19dcf27d.xml",
+  "text_path": "data/geopolitics/raw/c5fdcfb70c725fecc9976c6c1a4ecae02c839b9c39b20629c9a2d51f19dcf27d.txt"
 }
