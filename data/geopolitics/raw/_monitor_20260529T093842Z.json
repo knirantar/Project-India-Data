@@ -1,0 +1,132 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-29T09:38:42.383080+00:00",
+  "new_documents": 20,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.txt",
+      "metadata_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.txt",
+      "metadata_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Friday briefing: ​What do the cuts in aid mean for the fight against Ebola in the DRC?",
+      "url": "https://www.theguardian.com/world/2026/may/29/friday-briefing-what-do-the-cuts-in-aid-mean-for-the-fight-against-ebola-in-the-drc",
+      "text_path": "data/geopolitics/raw/5d083d9379ef65b342f2bcd469efa197357572faca6fd117f7ebbe49b0964ef6.txt",
+      "metadata_path": "data/geopolitics/raw/5d083d9379ef65b342f2bcd469efa197357572faca6fd117f7ebbe49b0964ef6.json"
+    },
+    {
+      "title": "Russian drone strike ‘most serious security incident’ in Romania since start of Ukraine war – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/may/29/romania-ukraine-russia-galati-drone-strike-europe-live-breaking-news",
+      "text_path": "data/geopolitics/raw/254d7d2e1441801eb2bdb8e082b434e642b0e0c4178026cceb319b1b29ec27ca.txt",
+      "metadata_path": "data/geopolitics/raw/254d7d2e1441801eb2bdb8e082b434e642b0e0c4178026cceb319b1b29ec27ca.json"
+    },
+    {
+      "title": "Nato ready to defend ‘every inch’ of territory as Russian drone hits Romania",
+      "url": "https://www.theguardian.com/world/2026/may/29/russian-drone-romanian-apartments-wounding-two-people-and-starting-fire",
+      "text_path": "data/geopolitics/raw/8f01077115eaee09a1b434c93558500117205d9f09b75214931e681c321f588a.txt",
+      "metadata_path": "data/geopolitics/raw/8f01077115eaee09a1b434c93558500117205d9f09b75214931e681c321f588a.json"
+    },
+    {
+      "title": "Romania: First footage shows damage after drone hits residential block near Ukraine border",
+      "url": "http://www.euronews.com/video/2026/05/29/romania-first-footage-shows-damage-after-drone-hits-residential-block-near-ukraine-border",
+      "text_path": "data/geopolitics/raw/2b261685220161a411c6a4c2aff08cda6fbdb7d49ed1fd7dd9bd6ec8f6305dd9.txt",
+      "metadata_path": "data/geopolitics/raw/2b261685220161a411c6a4c2aff08cda6fbdb7d49ed1fd7dd9bd6ec8f6305dd9.json"
+    },
+    {
+      "title": "Minister insists Labour not committed to living wage for over-18s before election, despite manifesto pledge – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/may/29/labour-welfare-youth-unemployment-living-wage-milburn-starmer-burnham-blair-latest-news-updates",
+      "text_path": "data/geopolitics/raw/1e6f50aabda2fd1b3a4d1d46dd95cdedb8f7d79b62aaa9407d94b7c6bbf07602.txt",
+      "metadata_path": "data/geopolitics/raw/1e6f50aabda2fd1b3a4d1d46dd95cdedb8f7d79b62aaa9407d94b7c6bbf07602.json"
+    },
+    {
+      "title": "NATO states slam Russia after drone crashes in Romania",
+      "url": "https://www.aljazeera.com/news/2026/5/29/nato-states-slam-russia-after-drone-crashes-in-romania?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/59ace2b45fb45fab0793761ac3fbe48786269c7ad1720e5abd6e7017d019c41d.txt",
+      "metadata_path": "data/geopolitics/raw/59ace2b45fb45fab0793761ac3fbe48786269c7ad1720e5abd6e7017d019c41d.json"
+    },
+    {
+      "title": "Civilians in Lebanon hit hardest as Israel targets Hezbollah",
+      "url": "https://www.dw.com/en/civilians-in-lebanon-hit-hardest-as-israel-targets-hezbollah/a-77332295?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/44c646ccbd025bf4e70c06474e617a08ba4fa23e431bdf2abeccd050accdad89.txt",
+      "metadata_path": "data/geopolitics/raw/44c646ccbd025bf4e70c06474e617a08ba4fa23e431bdf2abeccd050accdad89.json"
+    },
+    {
+      "title": "How America Lost Its Most Important Defense Tech Habit",
+      "url": "https://warontherocks.com/cogs-of-war/how-america-lost-its-most-important-defense-tech-habit/",
+      "text_path": "data/geopolitics/raw/3a9bed021edfec0ea5bd75fb117aae8da5c8251f28e804bb323404a6df493a31.txt",
+      "metadata_path": "data/geopolitics/raw/3a9bed021edfec0ea5bd75fb117aae8da5c8251f28e804bb323404a6df493a31.json"
+    },
+    {
+      "title": "WHO chief arrives in DRC promising Ebola outbreak ‘can be stopped’",
+      "url": "https://www.theguardian.com/world/2026/may/29/who-chief-tedros-adhanom-ghebreyesus-drc-ebola-outbreak-epidemic",
+      "text_path": "data/geopolitics/raw/19c5548deba8869e21b131ddcd1687a48572614f7d925597ee0246f9f76c3cb9.txt",
+      "metadata_path": "data/geopolitics/raw/19c5548deba8869e21b131ddcd1687a48572614f7d925597ee0246f9f76c3cb9.json"
+    },
+    {
+      "title": "At French Army FPV competition, NATO soldiers race drones and swap tips",
+      "url": "https://www.defensenews.com/global/europe/2026/05/29/at-french-army-fpv-competition-nato-soldiers-race-drones-and-swap-tips/",
+      "text_path": "data/geopolitics/raw/8a97d8f92a0896512714438cf45f6f3090bed3004601e3eab4a7eeef76c90ea4.txt",
+      "metadata_path": "data/geopolitics/raw/8a97d8f92a0896512714438cf45f6f3090bed3004601e3eab4a7eeef76c90ea4.json"
+    },
+    {
+      "title": "Live: NATO condemns 'Russia's recklessness' after drone hit apartment building in Romania",
+      "url": "https://www.france24.com/en/europe/20260529-live-nato-condemns-russia-s-recklessness-after-drone-hit-apartment-building-in-romania",
+      "text_path": "data/geopolitics/raw/c400325ce621653532c92ad4288002916d4910d53bf0d50b1ffa734ec86d5734.txt",
+      "metadata_path": "data/geopolitics/raw/c400325ce621653532c92ad4288002916d4910d53bf0d50b1ffa734ec86d5734.json"
+    }
+  ],
+  "txt_before": 487,
+  "txt_after": 498
+}
