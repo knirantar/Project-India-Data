@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8",
-  "content_type": "text/html",
-  "collected_at": "2026-05-29T19:30:40.679369+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.html",
-  "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/05/1167603",
+  "title": "Conflict-related sexual violence cases more than doubled in 2025, UN warns",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Fri, 29 May 2026 12:00:00 +0000",
+  "sha256": "5eeab1e0b37e8a69a326366a6f50697902c815dc07173f5a62d37f8a0c6a1263",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-29T19:31:10.651169+00:00",
+  "text_chars": 3909,
+  "raw_path": "data/geopolitics/raw/5eeab1e0b37e8a69a326366a6f50697902c815dc07173f5a62d37f8a0c6a1263.html",
+  "text_path": "data/geopolitics/raw/5eeab1e0b37e8a69a326366a6f50697902c815dc07173f5a62d37f8a0c6a1263.txt"
 }

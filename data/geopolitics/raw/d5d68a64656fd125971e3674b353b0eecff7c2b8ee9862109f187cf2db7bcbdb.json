@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8",
-  "content_type": "text/html",
-  "collected_at": "2026-05-29T19:30:40.679369+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.html",
-  "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt"
+  "url": "https://thediplomat.com/2026/05/how-the-china-us-reset-recasts-the-quad/",
+  "title": "How the China-US Reset Recasts the Quad",
+  "source": "https://thediplomat.com/feed/",
+  "published": "Fri, 29 May 2026 21:33:00 +0900",
+  "sha256": "d5d68a64656fd125971e3674b353b0eecff7c2b8ee9862109f187cf2db7bcbdb",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-29T19:31:16.149848+00:00",
+  "text_chars": 6379,
+  "raw_path": "data/geopolitics/raw/d5d68a64656fd125971e3674b353b0eecff7c2b8ee9862109f187cf2db7bcbdb.html",
+  "text_path": "data/geopolitics/raw/d5d68a64656fd125971e3674b353b0eecff7c2b8ee9862109f187cf2db7bcbdb.txt"
 }
