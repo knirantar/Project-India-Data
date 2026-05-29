@@ -1,0 +1,2533 @@
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+SOLUTIONS AND MOBILITY INDEX
+West And Central Africa
+Regional Report
+2023 - 2024
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+The opinions expressed in this publication are those of the authors and do not necessarily reflect the views of the 
+International Organization for Migration (IOM). The designations employed and the presentation of material throughout the 
+publication do not imply expression of any opinion whatsoever on the part of IOM concerning the legal status of any 
+country, territory, city or area, or of its authorities, or concerning its frontiers or boundaries. 
+IOM is committed to the principle that humane and orderly migration benefits migrants and society. As an intergovernmental 
+organization, IOM acts with its partners in the international community to: assist in meeting the operational challenges of 
+migration; advance understanding of migration issues; encourage social and economic development through migration; and 
+uphold the human dignity and well-being of migrants.
+Publisher: International Organization for Migration
+  Regional Office for West and Central Africa
+  Dakar, Senegal 
+This publication was issued without formal editing by IOM. 
+This publication was issued without IOM Publications Unit (PUB) approval for adherence to IOM’s brand and style standards.
+This publication was issued without IOM Research Unit (RES) endorsement. 
+Cover photo: Baga Sola, Chad. © IOM 2022 / Andrea Ruffini
+Required citation: International Organization for Migration (IOM), May 2026. Solutions and Mobility Index 2023-2024. IOM, 
+West and Central Africa.
+© IOM 2026
+Some rights reserved. This work is made available under the Creative Commons Attribution- NonCommercial-NoDerivs 3.0 
+IGO License (CC BY-NC-ND 3.0 IGO).* 
+For further specifications, please see the Copyright and Terms of Use. 
+This publication should not be used, published or redistributed for purposes primarily intended for or directed towards 
+commercial advantage or monetary compensation, with the exception of educational purposes, e.g. to be included in 
+textbooks. 
+Permissions: Requests for commercial use or further rights and licensing should be submitted to publications@iom.int. 
+* https://creativecommons.org/licenses/by-nc-nd/3.0/igo/legalcode
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+Contents
+Introduction – Displacement crises in West and Central Africa and role of the Solutions and Mobility Index (SMI)   3
+ 
+Key Findings Across Crisis Contexts (2023-2024) – Stability trends, sub-scores, and main drivers across all three crises 4
+Lake Chad Basin: Context and Data Coverage – SMI results for the Lake Chad Basin crisis    5 
+6.1 Data Collection and Coverage         5
+6.2 Comparability and Limitations         5
+6.3 Perceived Stability and Community Outlook        6
+6.4 Geographic Distribution of Stability Scores        7
+6.5 Key Indicators Shaping Stability Profiles (2023 vs 2024)      9
+6.6 Detailed Analysis of Key Indicators in 2024        10
+6.7 Summary: Cross-Cutting Patterns Across Key Indicators      11
+6.8 Cluster Analysis          12
+6.9 Conclusion           14
+Liptako-Gourma Region: Context and Data Coverage – SMI results for the Liptako-Gourma crisis   15 
+7.1 Data Collection and Coverage         15
+7.2 Comparability and Limitations         15
+7.3 Perceived Stability and Community Outlook        16
+7.4 Geographic Distribution of Stability Scores        17
+7.5 Key Indicators Shaping Stability Profiles (2023 vs 2024)      19
+7.6 Detailed Analysis of Key Indicators in 2024        20
+7.7 Summary: Cross-Cutting Patterns Across Key Indicators      21
+7.8 Cluster Analysis          22
+7.9 Conclusion           24
+Coastal Countries: Context and Data Coverage  – SMI results for the Coastal Countries crisis    25 
+8.1 Data Collection and Coverage         25
+8.2 Comparability and Limitations         25
+8.3 Perceived Stability and Community Outlook        26
+8.4 Geographic Distribution of Stability Scores        27
+8.5 Key Indicators Shaping Stability Profiles (2023 vs 2024)      29
+8.6 Detailed Analysis of Key Indicators in 2024        30
+8.7 Summary: Cross-Cutting Patterns Across Key Indicators      31
+8.8 Cluster Analysis          32
+8.9 Conclusion           34
+Conclusion Across All Crises – Regional synthesis and implications for differentiated prioritisation   35
+Annexes – Detailed methodology notes on locality selection, index design, logistic regression, and interpretation limitations  36
+Appendix: Survey Indicators – Full list of survey indicators across all four scales     37
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+Acronyms and Definitions
+IOM International Organization for Migration
+DTM Displacement Tracking Matrix
+SMI Solutions and Mobility Index
+WCA West and Central Africa
+LCB Lake Chad Basin
+LG Liptako-Gourma
+BAY States Borno, Adamawa and Yobe states in north-east Nigeria
+IDPs Internally displaced persons; persons displaced within their country of habitual residence.
+Returnees Former IDPs or migrants who have returned to their area of origin or habitual residence, 
+depending on the country methodology.
+Refugees Persons who have crossed an international border and are recognised or recorded as 
+refugees.
+Repatriated persons Persons who have returned from another country, as defined in the relevant country 
+dataset.
+KIs Key informants; individuals interviewed to provide information on conditions in assessed 
+localities.
+Locality The assessed location or community unit used for SMI data collection and analysis.
+Thematic sub-scores Scores calculated for specific dimensions of stability, such as security, services, social cohesion 
+and resilience.
+Stability score Composite score from 0 to 100 used to summarise perceived stability at locality level.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+2. Methodology
+Stability scores are derived from a composite index constructed at the locality level. Indicators are grouped into thematic dimensions, typically covering security, 
+services and livelihoods, social cohesion, and, in some contexts, resilience or disaster adaptation. Three anchor perception questions underpin the analysis: (i) 
+perceptions of stability, (ii) future intentions (whether people feel they need to leave), and (iii) the third anchor question captures key informants' perceptions of 
+how the situation in their locality has evolved over the preceding six months.
+For each locality, three separate logistic regression models are fitted, one per anchor question. Each model produces a predicted probability (0 to 1) that the 
+locality is perceived positively on that anchor. The final stability score is the unweighted average of these three probabilities, rescaled to a 0-100 scale. The logistic 
+regression coefficients are then used to identify which indicators are most strongly associated with perceived stability, with higher-magnitude coefficients indicating 
+stronger association. Thematic sub-scores are calculated separately as the mean of the indicator values within each dimension, rescaled to a comparable range.
+Cluster analysis is used to group localities with similar stability profiles. The clusters are defined using the stability score and thematic dimensions, then described by 
+their average scores across security, services, social cohesion and resilience where available. This helps identify whether different groups of localities are mainly 
+affected by security, service, livelihood or cohesion constraints.
+Data were collected across multiple rounds between 2022 and 2024, with the specific rounds varying by country as detailed in each crisis chapter. Multiple key  
+informants were interviewed for each locality to support cross-checking of reported information. Results represent conditions at the time of data collection and 
+may change between rounds.
+4. Limitations
+Several limitations should be considered when interpreting the results presented in this report. Year-to-year crisis comparisons are affected by differences in locality 
+coverage, with some localities assessed in one year but not the other. Not all indicators were used in every context due to country-specific exclusions and missing 
+data. With logistic regression, localities with missing indicator responses may be dropped, which can shift crisis-level averages. Coverage and access constraints mean 
+that some localities, particularly in the most insecure areas, could not be assessed, which may reduce representativeness and introduce coverage bias. Finally, the 
+score is perception-linked because it is anchored to sentiment questions and should be read as indicative rather than purely objective. Key informants are not 
+randomly selected, and perceptions may vary by respondent profile, recent events, and local context.
+Coverage scope may vary within a crisis context across years. In some cases, additional subnational areas were assessed in one year but not the other (for example, 
+additional Nigerian states in the Lake Chad Basin, or Ménaka and Dosso in the Liptako-Gourma context). Where these areas appear in tables or figures, they 
+should be interpreted with caution, as year-to-year comparisons are most robust for areas assessed in both rounds. Readers should refer to the data coverage 
+sections of each crisis chapter for details on which areas were included in each year.
+The West and Central Africa (WCA) region faces some of the world's most complex displacement crises. Across the Lake 
+Chad Basin, the Liptako Gourma tri-border area, and the coastal countries of the Gulf of Guinea, millions of people are affected 
+by armed conflict, intercommunal violence, climate shocks, and governance challenges, driving large-scale population movements, 
+straining services, and undermining community resilience.
+In response, IOM's Displacement Tracking Matrix (DTM) has deployed the Solutions and Mobility Index (SMI) to measure 
+perceived stability at the locality level and provide actionable evidence for humanitarian, development, and peacebuilding actors.
+This report presents a comparative analysis of SMI results for 2023-2024 across three crisis contexts:
+Lake Chad Basin: Nigeria (BAY States), Cameroon (Far North), Niger (Diffa), and Chad (Lac Province); Liptako Gourma: 
+Burkina Faso (Est, Sahel), Mali (Gao, Kidal, Mopti, Ségou, Timbuktu), and Niger (Dosso, Tahoua, Tillabéri); Coastal Countries: 
+Benin (Alibori, Atakora), Côte d'Ivoire (Bounkani), and Ghana (North East, Upper East, Upper West).
+Drawing on over 5,000 locality-level assessments, the report enables cross-crisis comparison and highlights differentiated 
+priorities for each setting. While crisis-level averages provide a useful summary, they are aggregations of conditions that vary 
+significantly across localities. Different areas face distinct challenges and require differentiated, context-specific support. A stable 
+average can therefore coexist with significant subnational variation.
+1. Introduction
+3. Partnerships
+Data collection for the SMI relied on close collaboration between IOM, government counterparts, and humanitarian partners across all three crisis contexts. In 
+Nigeria, the tool was implemented by IOM to support authorities and partners in understanding relative stability in locations hosting displaced people and 
+returnees. In Cameroon’s Far North, implementation depended on coordination with local authorities and community-level stakeholders. In Mali, the National 
+Directorate of Social Development collaborated with IOM to implement the Stability Index in 2023 and the Solutions and Mobility Index in 2024. In Niger, IOM has 
+used the SMI since 2019 to support strategy design, resource prioritization, and planning in fragile areas across both the Lake Chad Basin and Liptako Gourma 
+contexts. In Burkina Faso, the SMI was also used in Est and Sahel regions, while in the coastal countries, partnerships with national disaster management agencies 
+and local authorities were central to implementation.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+5.1 Lake Chad Basin
+Crisis trend: The overall stability score increases slightly from 80 in 2023 to 81 in 2024, remaining strong overall.
+Underlying stress: The security sub-score drops from 74 to 66 and social cohesion from 74 to 69, while services 
+improve slightly from 58 to 60.
+Main drivers: Perceptions remain shaped by security conditions and daily functioning, including the security situation, 
+incident trends, daily public life, and freedom of movement.
+5.2 Liptako Gourma
+Crisis trend: Overall stability declines from 66 in 2023 to 64 in 2024.
+What drives the decline: Security remains broadly stable at around 70–71, while the decline is driven by a drop in 
+social cohesion from 71 to 64 and a sharp fall in services from 65 to 55.
+Most fragile cluster identified in the 2024 cluster analysis: Very weak averages across dimensions, with stability at 34, 
+security at 42, social cohesion at 44, and services at 43, reflecting compound fragility.
+Main drivers: The 2024 profile emphasises insecurity exposure, including incident trends and worry about security, 
+alongside basic conditions such as housing quality and primary school access.
+5.3 Coastal Countries
+Crisis trend: Stability decreases slightly from 78 in 2023 to 76 in 2024 (-2). Services weaken from 58 to 56 (-2), 
+while resilience to natural hazards improves from 23 to 30 (+7), with security (72 to 71) and social cohesion (69 to 
+70) broadly stable.
+Uneven geography: Stability remains high in parts of Ghana, such as North East, while severe fragility is concentrated 
+in parts of Benin.
+Key hotspot: Only 9 per cent of assessed localities in Alibori were perceived as safe and 91 per cent unsafe, 
+indicating acute stress.
+Main drivers: The 2024 profile shifts towards insecurity and mobility constraints, with worry about security and 
+freedom of movement rising in prominence, alongside access and resilience perceptions.
+Key Findings Across Crisis Contexts (2023-2024)
+Regional observation: When results are summarised as crisis-level average scores (the mean 
+score across all assessed localities within a crisis area)*, the overall average shifts only slightly 
+between 2023 and 2024. However, changes are uneven across countries and locality clusters, 
+meaning a “stable” crisis-level average can still mask pockets of vulnerability.
+*Note: Mean scores are calculated on a 0-100 scale across assessed localities. These crisis-level averages summarise the overall trend but do not capture all 
+variation between countries, regions and localities.
+What these changes mean: Small shifts in the overall stability score should not be interpreted in 
+isolation. In several crisis contexts, the overall score changes only slightly, but thematic sub-scores 
+show more important deterioration in security, social cohesion or services. This means 
+programming should look beyond the overall average and identify which dimensions are 
+weakening in each country, region or locality.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+In 2023 and 2024, the Lake Chad Basin crisis remained characterised by persistent insecurity, attacks by non-state 
+armed groups, and repeated population movements, including both new and protracted displacement. Across 
+affected areas, internally displaced persons, returnees, refugees, and host communities continued to face major 
+protection and assistance gaps, alongside constrained access to essential services such as safe drinking water, food, 
+health care, and education. Mobility patterns remained fluid where insecurity was unpredictable and where camp 
+closures and relocation decisions reshaped settlement patterns.
+Data were collected at the locality level by way of key informant interviews across Lake Chad Basin crisis settings.
+The raw data used correspond to the following rounds:
+For this report, the consolidated dataset used for analysis includes 4,384 entries, comprising 2,341 entries in 2023 and 2,043 entries 
+in 2024. Region-wide, the average stability score is similar across years (80 in 2023 versus 81 in 2024), but the underlying factors 
+differ: average security sub-score decreases from 74 to 66 and average social cohesion from 74 to 69, while average services 
+increases from 58 to 60. Cluster counts are presented in the cluster analysis section to show how localities are distributed across 
+stability profiles in each year. Perceived stability remains high across assessed areas in both years (for example: Key Informants in 91 
+per cent of assessed localities in Extrême-Nord reported that the locality was safe in 2023 and 89 per cent in 2024; Lac 96 per 
+cent and 94 per cent; Diffa 97 per cent and 98 per cent; BAY states remain high overall, including Borno at 85 per cent safe in 
+both years, and Yobe decreasing from 94 per cent to 90 per cent safe).
+IDPs: 3,164,764
+Table LCB-1. Displacement figures (2024)  
+Returnees from abroad: 
+397,669
+Returnees: 2,043,323 Refugees: 506,996
+LAKE CHAD BASIN
+6.1 Data Collection and Coverage
+Comparability across years is strongest for areas covered in both years (Extrême-Nord, Lac, Diffa, and Nigeria’s BAY states). 
+Overall, compiled coverage is lower in 2024 than in 2023 (2,043 versus 2,341 entries), with the year-to-year difference reflecting 
+changes in achieved coverage and/or the entries retained in the consolidated analytical file after compilation and cleaning.
+6.2 Comparability and Limitations
+Country (Area) 2023 round and period 2024 round and period Coverage Reported coverage
+Nigeria (BAY States) Round 3, Dec 2022-Jan 2023 Round 4, Dec 2024 Borno, Adamawa and 
+Yobe states
+Round 4 covered 696 displacement-affected 
+locations: Adamawa 362, Borno 252, Yobe 82
+Cameroon (Far North) Round 4, 8-22 Feb 2023 Round 5, 19-30 Jun 2024 Extrême-Nord
+2023: 1,145 localities and 1,263 key informants. 
+2024: 1,043 localities, including 909 villages and 
+134 urgent spontaneous sites
+Niger (Diffa) Round 4, 4-23 Mar 2023 Round 6, 22 Jun-21 Jul 2024 Diffa region
+2023: 304 localities. 2024: 222 localities across
+Bosso, Diffa, Goudoumaria, Maine Soroa and
+Nguigmi, with cross-validation using multiple
+informants
+Chad (Lac) Round 3, Mar-May 2023 Round 4, Dec 2023-Jan 2024 Fouli, Mamdi and Kaya Data collected in person and by phone
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+In 2024, Key Informants continued to report high perceived stability across assessed localities in the Lake Chad Basin. At least 85 per cent of key 
+informants described their locality as safe in every area, ranging from 85 per cent in Borno to 99 per cent in Adamawa. Reports of unsafe 
+conditions were limited overall (1 to 15 per cent), with the highest shares reported in Borno (15 per cent) and Extreme-Nord  (11 per cent), 
+while Diffa (2 per cent) and Adamawa (1 per cent) reported very low levels. Compared to 2023, the overall picture is broadly consistent: safety 
+perceptions remained high in all areas, with only small shifts by area (for example, Extrême-Nord and Lac remain above roughly nine in ten “safe” 
+responses, and Borno stays at a similar level).
+6.3 Perceived Stability and Community Outlook
+Figure LCB-1: Feeling of stability
+Figure LCB-2 : Intention to leave
+Figure LCB-3 : Evolution of the situation over the past 6 months
+In 2024, intentions to remain were also very strong across the crisis 
+area. Most responses indicate that Key Informants reported that 
+residents did not need to leave, ranging from 91 per cent in Diffa 
+to 100 per cent in Lac. The share reporting they may need to leave 
+stays low overall (0 to 9 per cent), peaking in Diffa (9 per cent) and 
+Borno (9 per cent), followed by Extrême-Nord (8 per cent), while 
+several areas report very low levels (0 per cent in Lac; 2 per cent in 
+Adamawa and Yobe). Relative to 2023, this remains aligned with 
+the earlier pattern of generally low intentions to move: “may need 
+to leave” responses were also limited, with only modest year-to-
+year changes by area. Programmatically, the consistency of high 
+perceived stability and low reported need to leave suggests that 
+support for local integration, basic services and community-level 
+recovery remains relevant in areas where residents are perceived as 
+intending to remain.
+Perceived Safety
+Intention to Stay or Leave
+In 2024, perceptions of how the situation is evolving are 
+considerably more mixed than the other two questions and vary by 
+area. “More hopeful” responses range from 60 per cent in 
+Extrême-Nord to 82 per cent in Adamawa, while other areas show 
+lower optimism, including Diffa (42 per cent more hopeful) and 
+Borno and Yobe (79 per cent more hopeful each). This confirms 
+that optimism about the direction of the situation is highly context 
+specific, even where perceived safety and intentions to remain are 
+strong. Compared with 2023, the same pattern holds: hopefulness 
+shows wider dispersion than the stability and future-intention 
+questions, and the direction of change differs by area rather than 
+following a single crisis-wide trend.
+Perceived change in optimism about the situation 
+over the previous six months
+40%
+85%
+58%
+18%
+21%
+21%
+60%
+15%
+42%
+82%
+79%
+79%
+Extrême-Nord
+Lac
+Diffa
+Adamawa
+Borno
+Yobe
+Cameroon Chad Niger Nigeria
+Lake Chad Crisis (2024)
+Less hopeful
+More hopeful
+89%
+94%
+98%
+99%
+85%
+90%
+11%
+6%
+2%
+1%
+15%
+10%
+Extrême-Nord
+Lac
+Diffa
+Adamawa
+Borno
+Yobe
+Cameroon Chad Niger Nigeria
+Lake Chad Crisis (2024)
+Safe
+Unsafe
+92%
+100%
+91%
+98%
+91%
+98%
+8%
+<1%
+9%
+2%
+9%
+2%
+Extrême-Nord
+Lac
+Diffa
+Adamawa
+Borno
+Yobe
+Cameroon Chad Niger Nigeria
+Lake Chad Crisis (2024)
+Do not need to
+leave
+May need to leave
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+Overall Direction of Change
+Based on stability measurement results derived from key informant interviews, the comparison between 
+2023 and 2024 shows a small average increase in the overall stability score across assessed areas, with an 
+average change of plus 1 point. Over the same period, the security sub score decreased on average by 8 
+points and the social cohesion sub score decreased on average by 5 points. Access to services increased by 2 
+points, with increases recorded in almost all areas. These results indicate that changes were not uniform 
+across dimensions, with more negative shifts recorded for security and social cohesion than for services, while 
+the overall stability score shows a modest net increase.
+Areas Showing the Largest Increases and Decreases
+Across assessed areas, overall stability changed only slightly, with the largest increase in Diffa (+5 points) and a smaller 
+increase in Extrême-Nord (+2 points). Borno recorded a slight decrease (-1 point), while Adamawa, Lac and Yobe 
+showed no change. At crisis level, the Lake Chad Basin overall stability score increased by +2 points.
+However, the sub-scores show more important shifts. Security declined by -8 points overall, with the largest decreases 
+in Adamawa (-15), Yobe (-13), and Lac and Borno (-11 each). Social cohesion also declined by -5 points overall, with 
+the largest decrease in Diffa (-11). Services improved slightly overall (+2 points), although Adamawa recorded a small 
+decline (-1).
+Programmatically, these fluctuations show where stabilisation support may need more focus. Even where the overall 
+stability score remains high, declines in security and social cohesion suggest that some areas may require closer 
+monitoring and targeted interventions. Areas with the strongest negative shifts, particularly Adamawa, Yobe, Borno, Lac 
+and Diffa, should be considered priority areas for stabilisation programming, depending on the specific constraints 
+identified in each locality.
+Table LCB-2 : Change in SMI scores between 2023 and 2024, on a 0-100 scale
+6.4 Geographic Distribution of Stability Scores
+Area Stability Δ Security Δ Social Δ Services Δ
+Cameroon 2 -7 -4 3
+Extrême-Nord 2 -7 -4 3
+Chad 0 -11 -5 1
+Lac 0 -11 -5 1
+Niger 5 1 -11 2
+Diffa 5 1 -11 2
+Nigeria -1 -13 -6 1
+Adamawa 0 -15 -6 -1
+Borno -1 -11 -6 1
+yobe 0 -13 -4 3
+Lake Chad Crisis (overall) 1 -8 -5 2
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+Map LCB-1: Stability score in the assessed localities in 2024
+The representation and use of boundaries, geographical names and related data appearing on the maps and included in this report are not guaranteed 
+to be error-free and do not imply any judgment on the legal status of any territory, nor any endorsement or acceptance of such boundaries by IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+6.5 Key Indicators Shaping Stability Profiles (2023 vs 2024)
+Table LCB-3 summarises the highest-ranked indicators associated with perceived stability in 2023 and 2024. 
+The results point to both continuity and change in the factors shaping local perceptions of stability. Some 
+dimensions remain prominent across both years, particularly everyday security, freedom of movement, and 
+daily public life, suggesting that routine social functioning and the ability to move safely remain central to how 
+stability is experienced. At the same time, the ranking also indicates shifts in emphasis. In 2023, security-
+related indicators were especially prominent, including recent security incidents, incidents involving non-state 
+armed groups, and informal curfews. In 2024, concern about security remained important, but other 
+dimensions such as farmland conditions and resilience to disruption became more visible among the top-
+ranked indicators. Overall, the findings suggest that while security continues to underpin perceived stability, 
+livelihoods and local adaptive capacity also play an important role in shaping how communities assess their 
+situation.
+This section examines the indicators most strongly associated with perceived stability in 2023 and 2024, 
+based on the ranked results of the logistic regression analysis. The purpose is not to suggest that all ranked 
+indicators are directly comparable across years, but rather to identify which dimensions were most influential 
+in each year and where continuity or change can be observed.
+To support interpretation, indicators are reviewed by thematic group, namely services, safety and security, 
+social cohesion, and resilience. Where the same indicator, or a closely related indicator within the same 
+thematic group, appears among the top-ranked results in both 2023 and 2024, its evolution is discussed 
+comparatively. For indicators that appear only in one year’s ranking, the analysis focuses on their relevance 
+within that year rather than implying a direct year-on-year comparison.
+This approach makes it possible to distinguish between enduring drivers of perceived stability and shifts in the 
+factors most closely associated with stability across the two years.
+Table LCB-3. T op ranked indicators by year
+1 Recent Security Incidents Community Concerns About Security
+2 Security Incidents due to Non-State Armed 
+Groups Farmland Grounds
+3 Informal Curfew Level of Resilience
+4 Daily Public Life Daily Public Life
+5 Freedom of Movement Freedom of Movement
+Services Security Social cohesion Resilience
+2023 2024
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+16% 7%
+28%
+12% 14% 2%
+14% 1%
+4% 30% 24%
+20%
+70%
+93%
+68% 57% 62%
+78%
+Extrême-Nord Lac Diffa Adamawa Borno Yobe
+Cameroon Chad Niger Nigeria
+Has degraded. Has improved Has remained the same
+56%
+94%
+45% 44% 33% 33%
+38%
+6%
+51% 55%
+56% 58%
+6%
+4% 1%
+11% 9%
+Extrême-Nord Lac Diffa Adamawa Borno Yobe
+Cameroon Chad Niger Nigeria
+Not worried Somewhat worried Very worried
+In 2024, the top-ranked indicator shaping stability is community 
+concern about security. At crisis level, 55 per cent of localities 
+report communities are not worried, 40 per cent are 
+somewhat worried, and 5 per cent are very worried. Concern 
+is lowest in Chad's Lac region (94% not worried) and highest in 
+Borno (11% very worried) and Yobe (9%).
+In 2023, security was also the top-ranked driver but was 
+measured through an incident-based indicator. At crisis level, 86 
+per cent of locations reported no serious incidents in the past 
+three months, while 14 per cent reported at least one incident. 
+The pattern was most favourable in Chad/Lac (94% no 
+incidents) and least favourable in Borno (10% past month; 26 % 
+past three months).
+1.
+Farmland situation
+Residents worried about security Figure LCB-4 : Residents worried about security
+In 2024, the second-ranked indicator is farmland use, reflecting 
+the prominence of livelihood on the perceived stability. At crisis 
+level, 44 per cent of localities report that all available farmland 
+is being cultivated, 2 per cent report that farmland exists but is 
+not currently cultivated, and 54 per cent report no farmland. 
+Constraints are most pronounced in Chad/Lac (95% no 
+farmland) and remain high Borno (69%) and in Diffa (59%).
+This indicator did not rank among the top five in 2023. For 
+context, the second-ranked indicator in 2023 was security 
+incidents attributed to non-state armed groups, which formed 
+part of the broader incident-based security profile described 
+above.
+3.
+In 2024, the third-ranked indicator is the evolution of village 
+resilience over the past six months. At crisis level, 70 per cent 
+of localities report resilience has remained the same, 14 per 
+cent report it has improved, and 16 per cent report it has 
+degraded. Diffa stands out with the highest reported 
+degradation (28%), while Chad/Lac is largely unchanged (93% 
+remained the same).
+This indicator also did not rank among the top five in 2023. 
+The third-ranked indicator in 2023 was informal curfews, which 
+were not widely reported at crisis level (84% no; 16% yes) but 
+were highly concentrated in Diffa (91% yes). Notably, Diffa is 
+also the area where resilience degradation is most frequently 
+reported in 2024, suggesting a degree of continuity in the 
+constraints affecting that area.
+Evolution of village resilience over the past 6 
+months
+2. Figure LCB-5 : Farmland situation
+Figure LCB-6 : Evolution of village resilience over the past 6 months
+53%
+2%
+36%
+69%
+30% 40%
+2%
+3%
+5%
+1%
+1%
+1%
+45%
+95%
+59%
+30%
+69% 59%
+Extrême-Nord Lac Diffa Adamawa Borno Yobe
+Cameroon Chad Niger Nigeria
+There is no farmland in this area.
+Farmland exists, but none of it is currently being cultivated.
+All available farmland is currently being cultivated.
+6.6 Detailed Analysis of Key Indicators
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+Across the Lake Chad Basin crisis, the key indicators point to broadly stable day-to-day conditions in most assessed areas, while 
+specific locations face more pronounced challenges.
+Security conditions vary significantly. In 2023, 86 per cent of localities reported no serious incidents in the past three months, 
+though Borno recorded only 64 per cent. In 2024, the indicator shifted to perceptions of concern: 55 per cent not worried, 40 
+per cent somewhat worried, and 5 per cent very worried. In both years, Chad's Lac region reports the most favourable 
+conditions, while north-east Nigeria, particularly Borno, records the highest security stress.
+Livelihood constraints are more visible in 2024, with 54 per cent reporting no farmland, including Chad/Lac (95%), Borno 
+(69%), and Diffa (59%).
+Resilience perceptions are mostly stable (70% remained the same), but Diffa shows the highest degradation (28%), consistent 
+with 2023 patterns where informal curfews were highly concentrated in Diffa (91%).
+Public life and movement remain broadly functional. Daily public life shifts slightly toward more tension, with the clearest 
+deterioration in Diffa (37%). In 2024, 76 per cent of localities report no movement restrictions, though Borno remains the 
+most constrained (61% no restrictions versus 97% in Lac).
+Overall, Chad and Lac appear comparatively stable, Diffa shows heavier constraints and resilience stress, and Nigeria, particularly 
+Borno, remains the main hotspot for insecurity and day-to-day tension.
+76%
+97%
+69% 76%
+61% 63%
+15%
+2%
+27% 20%
+24% 30%
+5% 1%
+9% 2%
+5% 1% 4% 3% 7% 5%
+Extrême-Nord
+Lac
+Diffa
+Adamawa
+Borno
+Yobe
+Cameroon Chad Niger Nigeria
+Restrictions in
+place with a
+small impact
+Restrictions in
+place with a
+significant
+impact
+Restrictions in
+place but with
+no impact
+No restrictions
+77%
+97%
+63%
+82%
+66% 73%
+14%
+3%
+28%
+17%
+31% 27%
+10% 9%
+1% 3%
+Extrême-Nord
+Lac
+Diffa
+Adamawa
+Borno
+Yobe
+Cameroon Chad Niger Nigeria
+Very few people are
+in the streets, and
+only for essential
+needs.
+Streets are lively,
+but the situation
+feels tense.
+Streets are lively and
+people move
+around without
+worry.
+Daily public life 4.
+5. Residents' freedom of movement
+In 2024, most report no restrictions (76%), with 17 per cent 
+reporting restrictions with no impact, 3 per cent significant 
+impact, and 4 per cent small impact. Borno remains the most 
+constrained in 2024 (61% no restrictions; 24% no impact; 9% 
+significant; 7% small).
+In 2023, the crisis-wide distribution was very similar (78%; 12%; 
+4%; 6%). The main difference is a shift toward more 
+“restrictions with no impact” and slightly fewer impactful 
+restrictions overall. In Borno, the share reporting impactful 
+restrictions is lower in 2024 (16%) than in 2023 (25%), even 
+though restrictions remain more common there than 
+elsewhere.
+In 2024, daily public life is generally functioning: 77 per cent 
+report streets are lively, 17 per cent tense, and 6 per cent very 
+limited movement. The most constrained pattern is in Diffa 
+(63% without worry; 28% tense; 9% very limited) and parts of 
+Nigeria, especially Borno (66%; 31%; 3%).
+In 2023, the crisis-wide profile was slightly more positive (81%; 
+14%; 4%). The largest shift is again visible in Diffa (from 75%; 
+24%; 1% in 2023 to 63%; 28%; 9% in 2024) and in Nigeria 
+overall (from 83%; 15%; 1% to 75%; 24%; 2%), indicating more 
+tension and, in Diffa, more severely limited public life.
+Figure LCB-7 : Daily public life 
+Figure LCB-8 : Residents' freedom of movement
+6.7 Summary: Cross-Cutting Patterns Across Key Indicators
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+In the Lake Chad Basin crisis context, marked by persistent insecurity, recurrent population movements, and gaps in protection and access to essential services, 
+cluster analysis was used to identify groups of localities with similar multidimensional stability profiles. Rather than interpreting each locality only through its overall 
+stability score, this approach helps show how different thematic dimensions combine within each profile, particularly security, social cohesion, services, and 
+resilience where available.The clusters were generated using a K-Means clustering algorithm applied to the standardized thematic sub-scores. Once the clusters 
+were identified, the average overall stability score and the average thematic sub-scores were calculated for each group to support interpretation. The objective 
+was therefore not to rank localities by the overall stability index, but to identify broad patterns among localities that share similar characteristics across the main 
+dimensions of stability.This analysis helps distinguish localities that may have similar overall stability levels but different underlying constraints. For example, some 
+profiles may be mainly affected by weak access to services, while others may be more constrained by lower security or weaker social cohesion. In this way, the 
+cluster analysis supports more targeted prioritisation by identifying which dimensions require the most attention within each group of localities.
+Methodology
+Cluster Profiles: 2023 and 2024
+6.8 Cluster Analysis
+Cluster profiles in 2023
+In 2023, three cluster profiles were identified across the Lake Chad Basin crisis context.
+Cluster 0 shows the strongest overall profile, with high average stability (87), high security (81), high social cohesion (84), and strong services (74). 
+This pattern is consistent across countries, with the highest stability in Nigeria (89) and the lowest stability within this cluster in Niger (77).
+Cluster 1 is an intermediate profile, with moderately high stability (77) and security (72), while social cohesion is lower (70) and services are 
+substantially weaker (43).
+Cluster 2 records the lowest profile, with lower average stability (70) and security (63), alongside lower social cohesion (63) and mid-range 
+services (55).
+At crisis level, the 2023 averages indicate relatively high stability (80), with similar security (74) and social cohesion (74), while services remain the 
+lowest scoring dimension (58). The consolidated dataset includes 2,341 assessed localities.
+Cluster profiles in 2024
+In 2024, three cluster profiles were also identified, but their ordering differs from 2023.
+Cluster 2 presents the most favourable profile, combining high stability (87) with strong services (75), high social cohesion (78), and moderate 
+security (70). This pattern is observed across countries, with stability reaching 88 in Cameroon and Nigeria within this cluster.
+Cluster 0 shows moderately high stability (81), but lower security (67), social cohesion (69), and especially services (50) compared with Cluster 2.
+Cluster 1 is the most fragile profile in 2024, with lower stability (69), lower security (57), lower social cohesion (50), and weak services (47).
+At crisis level, the 2024 averages show stability at 81, security at 66, social cohesion at 69, and services at 60. The consolidated dataset includes 
+2,043 assessed localities.
+Crisis-level comparison between 2023 and 2024
+Across the crisis, average stability is broadly similar between 2023 (80) and 2024 (81), but the composition of the underlying dimensions changes 
+notably. Security declines from 74 to 66 and social cohesion from 74 to 69, while services improve slightly from 58 to 60. This means the modest 
+increase in overall stability masks significant deterioration in security and social cohesion, partially offset by a small gain in service access. The 
+number of assessed localities also decreased from 2,341 to 2,043, reflecting changes in coverage between rounds.
+In 2024, the strongest profile is characterised by high stability alongside strong services and social cohesion (Cluster 2), while another large profile 
+combines moderately high stability with weaker services (Cluster 0). The most fragile profile (Cluster 1) concentrates lower security and social 
+cohesion, with services also weak. Overall, the cluster results indicate that the main constraints vary by profile, with some localities primarily shaped 
+by service limitations and others by lower security and social cohesion.
+Table LCB-4. Scores of the different clusters
+Year Cluster Stability (Average) Security (Average) Social (Average) Services (Average)
+Lake Chad Crisis 
+(2023)
+0 87 81 84 74
+1 77 72 70 43
+2 70 63 63 55
+Average 80 74 74 58
+Lake Chad Crisis 
+(2024)
+0 81 67 69 50
+1 69 57 50 47
+2 87 70 78 75
+Average 81 66 69 60
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+The representation and use of boundaries, geographical names and related data appearing on the maps and included in this report are not guaranteed to 
+be error-free and do not imply any judgment on the legal status of any territory, nor any endorsement or acceptance of such boundaries by IOM.
+Map LCB-2: Clusters of localities with similar characteristics in 2024
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+6.9 Conclusion
+Crisis context and continued relevance of the tool
+Across 2023 and 2024, the Lake Chad Basin crisis remained shaped by persistent insecurity, attacks by non-state armed groups, and repeated 
+population movements, including new and protracted displacement. In this context, the Stability Index and the Solutions and Mobility Index 
+continued to provide a structured way to measure perceived stability in displacement-affected hosting areas and to support prioritisation linking 
+humanitarian response with recovery, stabilisation, and long-term solutions across Nigeria, Cameroon, Niger, and Chad. The SMI can support 
+prioritisation across humanitarian response, recovery, stabilisation and durable solutions to internal displacement, particularly in localities hosting 
+IDPs, returnees and affected host communities.
+Stability perceptions and intention to stay remain strong
+Perceived safety stayed high across assessed areas. At crisis level, 92 per cent reported areas are safe in 2023. In 2024, safety remained high 
+across all areas, including Extrême-Nord (89%), Lac (94%), Diffa (98%), and Adamawa (99%). In Nigeria, Borno remained lowest at 85 per cent 
+safe in both years, while Yobe decreased from 94 per cent to 90 per cent.
+Key Informant perceptions suggest that residents in most assessed localities do not need to leave. At crisis level in 2023, 95 per cent reported 
+communities do not need to leave. In 2024, Key Informants in most assessed localities reported that residents did not need to leave, with 
+particularly high shares in Lac, Adamawa and Yobe. Reports that residents may need to leave remained limited overall, reaching 9 per cent in 
+Diffa and Borno. Compared with 2023, “may need to leave” increased slightly in Diffa (5% to 9%) and Borno (4% to 9%), while Yobe improved 
+from 10 per cent to 2 per cent.
+Confidence about trends is the most uneven signal
+Perceptions of how the situation is evolving varied the most across areas. At crisis level in 2023, 54 per cent were more hopeful. In 2024, 
+optimism ranged from Adamawa (82 per cent more hopeful) and Borno and Yobe (79 per cent each) to Diffa (42 per cent), while Lac remained 
+largely pessimistic (15 per cent more hopeful).
+Index results stayed stable overall, but dimensions shifted
+At crisis level, overall stability remained broadly similar (80 in 2023 to 81 in 2024), but underlying dimensions changed:
+• Security: 74 to 66
+• Social cohesion: 74 to 69
+• Services: 58 to 60
+• Resilience (new in 2024): 34 on average
+Nigeria maintained the highest stability in both years (86 to 85), supported by strong services and social cohesion despite a marked security 
+decline. Lac showed a sharp security drop but retained relatively strong cohesion, while Diffa recorded the largest decline in social cohesion.
+What drives stability shifted between 2023 and 2024
+In 2023, leading drivers were mainly incident-based security indicators (recent incidents, incidents linked to non-state armed groups, informal 
+curfews). In 2024, security remained prominent but shifted toward perceived concerns about security, alongside stronger contributions from 
+livelihood and resilience factors (including farmland use and village resilience). Across both years, daily public life and freedom of movement 
+remained consistent drivers.
+Implications for prioritisation
+Overall, perceived stability and intentions to stay remain high, but confidence about trends varies sharply by area, and security and social cohesion 
+weakened on average despite slight improvement in services. This supports differentiated prioritisation by context, with constraints more linked 
+to services and livelihoods in some areas and to security and social cohesion in others. In areas where services are the main constraint, 
+prioritisation could focus on access to basic services and livelihoods. In areas where security and social cohesion are weakening, programming 
+could focus on community safety, social cohesion initiatives and support to local governance. Links to country-level SMI reports should be 
+included where available so readers can consult more detailed findings.
+Links to available country-level SMI reports are provided where available to allow readers to consult more detailed findings and country-specific 
+analysis.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+Data were collected at the locality level by way of key informant interviews across Liptako-Gourma crisis settings. Localities were 
+identified through mapping and cartography exercises intended to locate areas hosting displaced persons and returnees. Locality 
+coverage was influenced by security and access conditions, and the assessment included only areas that were accessible at the time 
+of data collection. Multiple informants were interviewed for each locality to support cross-checking of reported information. Results 
+represent conditions at the time of data collection and may change between cycles.
+The raw data used correspond to the following rounds:
+For this report, the consolidated dataset used for analysis includes 715 entries, comprising 320 entries in 2023 (Mali and Niger) and 
+395 entries in 2024 (Mali, Niger and Burkina Faso). Region-wide, the average stability score decreases slightly across years (66 in 
+2023 versus 64 in 2024), with the underlying factors differing: average security sub-score increases slightly from 70 to 71, while 
+average social cohesion decreases from 71 to 64 and average services decreases from 65 to 56.
+7.1 Data Collection and Coverage
+7.2 Comparability and Limitations
+Comparability across years is strongest for Mali and Niger, where data are available for both 2023 and 2024. Burkina Faso is
+included only in 2024, so it should not be interpreted as part of a year-on-year trend. Dosso is part of the broader Liptako-
+Gourma operational context but was not retained in the consolidated analytical dataset because data coverage was insufficient for
+reliable analysis. Changes in coverage and accessibility mean that year-on-year comparisons should be interpreted with caution,
+especially where the geographic coverage shifted between rounds.
+Country Regions covered 2023 coverage 2024 coverage Main comparability issue
+Mali Gao, Kidal, Mopti, Ménaka, 
+Ségou and Timbuktu 191 assessed localities 110 assessed localities
+Coverage decreased in 2024 and shifted geographically, with 
+fewer localities in Ségou and Mopti and additional coverage in 
+Gao, Kidal, Ménaka and Timbuktu.
+Niger Tahoua and Tillabéri 129 assessed localities 184 assessed localities
+Coverage increased in 2024, especially in Tillabéri. Dosso was 
+not retained in the consolidated analytical dataset due to 
+insufficient data coverage.
+Burkina Faso Est and Sahel Not available in the 
+dataset used for analysis 101 assessed localities Burkina Faso is only available for 2024, so it cannot be compared 
+year-on-year in this report.
+IDPs in the millions, up to just over 2.6 
+million (highest figure in the data: 
+2,627,308).
+Repatriated persons in the tens of 
+thousands, up to just over 85 thousand (highest 
+figure in the data: 85,146).
+Returnees in the hundreds of thousands, 
+up to just over 0.8 million (highest figure in 
+the data: 832,070).
+Refugees in the hundreds of thousands, up to 
+just over 0.3 million (highest figure in the data: 
+303,896).
+*Note: these figures come from different reference dates and rounds, so they describe the overall scale and composition, not a single basin-wide total.
+Table LG-1. Displacement figures*
+Across 2023 and 2024, the Liptako-Gourma region and adjacent displacement affected areas continued to face 
+severe, multidimensional crises linked to persistent insecurity, attacks by armed groups, intercommunal tensions, and 
+the threat of improvised explosive devices. Population movements persisted as people fled violence, while urgent 
+needs, particularly food, safe drinking water, basic health care, and education, remained high for displaced 
+populations and host communities. In Mali, many internally displaced persons continued to live in precarious 
+conditions, including in urban settings, while others were hosted by families or lived on self settled sites in rural areas. 
+Although some returns were reported in specific localities, obstacles to durable solutions remained significant.
+LIPTAKO-GOURMA REGION
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+Perceived Safety
+In 2024, perceived stability varied across assessed areas. At crisis level, 70 per cent of responses described areas as safe and 30 per 
+cent as unsafe overall. Results vary sharply by area. Higher shares of unsafe responses were recorded in Ségou at 100%*, Est 
+(Burkina Faso) at 64 per cent, Sahel (Burkina Faso) at 44 per cent, and Mopti (Mali) at 44 per cent. In Niger, safety remained high in 
+Tahoua (99 per cent safe) but was lower in Tillabéri (79 per cent safe). Mali also shows mixed results, including Gao (71 per cent 
+safe), Timbuktu (67 per cent safe) and Ménaka (64 per cent safe).
+Figure LG-1: Feeling of stability
+Figure LG-2: Intention to leave Figure LG-3: Evolution of the situation over the past 6 months
+Intention to Stay or Leave
+In 2024, intentions to remain are strong overall, with 75 per cent of responses indicating communities do not need to leave, versus 
+25 per cent who may need to leave. Results for Do not need to leave range from 0 per cent in Ségou (Mali) to 100 per cent in 
+Kidal (Mali), with very high levels also in Niger, with Tahoua at 99 per cent and Tillabéri at 80 per cent. Burkina Faso shows more 
+caution, particularly Est (68 per cent may need to leave) and Sahel (47 per cent). Within Mali, intentions to stay remain high in Gao 
+(86 per cent), Mopti (82 per cent) and Timbuktu (81 per cent), while Ménaka is lower at 73 per cent.
+Perception of the Situation (Hopefulness)
+In 2024, perceptions of how the situation is evolving are considerably mixed and vary sharply by area. At crisis level, 53 per cent are 
+less hopeful and 47 per cent more hopeful. The balance varies widely, with Ségou (Mali) at 100 per cent less hopeful. Less hopeful 
+views are also prominent in Sahel (66 per cent), Timbuktu (71 per cent) and Gao (86 per cent). More hopeful perceptions stand 
+out in Tillabéri (63 per cent more hopeful), Kidal (67 per cent more hopeful) and Ménaka (55 per cent more hopeful), while Est 
+(Burkina Faso) is evenly split at 50/50. This confirms that optimism about the direction of the situation is highly context-specific, even 
+where perceived safety and intentions to remain vary.
+7.3 Perceived Stability and Community Outlook
+36%
+56%
+71%
+100%
+56%
+67%
+64%
+99%
+79%
+64%
+44%
+29%
+44%
+100%
+33%
+36%
+1%
+21%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+Menaka
+Tahoua
+Tillabéry
+Burkina
+Faso Mali Niger
+Liptako-Gourma crisis (2024)
+Safe
+Unsafe
+32%
+53%
+86%
+100%
+82%
+81%
+73%
+99%
+80%
+68%
+47%
+14%
+18%
+100%
+19%
+27%
+1%
+20%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+Menaka
+Tahoua
+Tillabéry
+Burkina Faso Mali Niger
+Liptako-Gourma crisis (2024)
+Do not need
+to leave
+May need to
+leave
+50%
+66%
+86%
+33%
+46%
+100%
+71%
+45%
+61%
+37%
+50%
+34%
+14%
+67%
+54%
+<1%
+29%
+55%
+39%
+63%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+Menaka
+Tahoua
+Tillabéry
+Burkina Faso Mali Niger
+Liptako-Gourma crisis (2024)
+Less hopeful
+More hopeful
+*Caution: Kidal and Ségou include fewer than ten assessed localities in 2024. Percentages for these areas should be interpreted with caution.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+7.4 Geographic Distribution of Stability Scores
+Based on stability measurement results derived from key informant interviews, the comparison between 2023 
+and 2024 shows a small average decrease in the overall stability score across assessed areas, with an average 
+change of minus 2 points. Over the same period, the security sub-score increased slightly by an average of 1, 
+the social cohesion sub-score decreased on average by 7 points, and the services sub-score decreased on 
+average by 9 points. These results indicate that changes were not uniform across dimensions, with more 
+negative shifts recorded for social cohesion and services than for security, while the overall stability score 
+shows a modest net decline.
+Changes were not uniform across areas. Mali’s national average remained stable overall, but regional results 
+varied considerably.. Mopti recorded an increase in stability of 4 points, alongside a strong improvement in 
+security (plus 20), while Timbuktu declined slightly in stability (minus 6) despite gains in security (plus 8) and 
+services (plus 7). By contrast, Ségou recorded the sharpest deterioration, with stability decreasing by 51 
+points, driven by large declines in security (minus 44), social cohesion (minus 49), and services (minus 37). In 
+Niger, stability increased by 4 points, supported by moderate gains in security (plus 3) and social cohesion 
+(plus 2), while services remained nearly unchanged (minus 1). Within Niger, Tahoua recorded the largest 
+increase with plus 6 stability points, reflecting improvements in security (plus 8) and social cohesion (plus 7), 
+while Tillabéry increased by 4 points, with no change in security and a small decline in services (minus 4).
+Table LG-2: Change in SMI scores between 2023 and 2024, on a 0-100 scale
+Overall Direction of Change
+Areas Showing the Largest Increases and Decreases
+Area Stability Δ Security Δ Social Δ Services Δ
+Mali 0 5 -7 -10
+Gao -1 -5 -10 -9
+Mopti 4 20 -4 -3
+Ségou -51 -44 -49 -37
+Timbuktu -6 8 1 7
+Niger 4 3 2 -1
+Tahoua 6 8 7 0
+Tillabéry 4 0 -3 -4
+Liptako-Gourma crisis (overall) -2 1 -7 -9
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+Map LG-1: Stability score in the assessed localities in 2024
+The representation and use of boundaries, geographical names and related data appearing on the maps and included in this report are not guaranteed to be error-free 
+and do not imply any judgment on the legal status of any territory, nor any endorsement or acceptance of such boundaries by IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+7.5 Key Indicators Shaping Stability Profiles (2023 vs 2024)
+Table LG-3 summarises the highest-ranked indicators associated with perceived stability in 2023 and 2024. 
+The results suggest both continuity and change in the dimensions shaping perceptions of stability across the 
+Liptako-Gourma region. In 2023, the most influential indicators combined security and living conditions, with 
+residents worried about security, connectivity situation, market situation, daily public life, and the presence of 
+police or gendarmerie all appearing among the top-ranked factors. In 2024, trend in incident related activities 
+becomes the highest-ranked indicator, while residents worried about security remains prominent. Other 
+leading indicators point more strongly to the functioning of everyday community life and access to basic 
+services, including daily public life, housing quality, and primary school situation. Only one indicator, daily public 
+life, appears in both years, suggesting that the continuity of routine social functioning remains closely linked to 
+perceived stability, even as the broader profile of key influences shifts over time.
+This section examines the indicators most strongly associated with perceived stability in 2023 and 2024, based on the 
+ranked results of the logistic regression analysis. The indicators are ranked according to their average logistic regression 
+coefficients across the three anchor questions: perceived stability, intention to stay or leave, and perceived evolution of 
+the situation. Higher-ranked indicators therefore represent those most strongly associated with modelled stability in 
+each year. The purpose is not to suggest that all ranked indicators are directly comparable across years, but rather to 
+identify which dimensions were most influential in each year and where continuity or change can be observed. To 
+support interpretation, indicators are reviewed by thematic group: services, safety and security, social cohesion, and 
+resilience. Where the same indicator, or a closely related indicator within the same thematic group, appears among the 
+top-ranked results in both 2023 and 2024, its evolution is discussed comparatively. For indicators that appear only in 
+one year’s ranking, the analysis focuses on their relevance within that year rather than implying a direct year-on-year 
+comparison.
+This approach helps distinguish between persistent drivers of perceived stability and shifts in the factors most closely 
+associated with stability across the two years.
+Table LG-3. T op ranked indicators by year
+1 Residents worried about security Trend in incident related activities
+2 Connectivity situation Residents worried about security
+3 Market situation Daily public life
+4 Daily public life Housing quality
+5 Presence of police or gendarmerie Primary school situation
+Services Security Social cohesion Resilence
+2023 2024
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+7%
+25%
+71%
+100%
+63%
+0%
+67%
+18%
+88%
+66%
+11%
+38%
+35%
+75%
+5%
+55%
+7%
+25%
+82%
+37% 29%
+2%
+25% 29% 27%
+4% 9%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+Menaka
+Tahoua
+Tillabéry
+Burkina Faso Mali Niger
+Very few people
+are in the streets,
+and only for
+essential needs.
+Streets are lively,
+but the situation
+feels tense.
+Streets are lively
+and people move
+around without
+worry.
+4%
+22%
+43%
+67%
+28%
+48%
+27%
+52%
+40%
+57%
+58%
+29%
+33%
+58%
+25%
+48%
+36%
+35%
+44%
+39%
+21% 29%
+14%
+75%
+5%
+36%
+13% 16%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+Menaka
+Tahoua
+Tillabéry
+Burkina Faso Mali Niger
+Very worried
+Somewhat
+worried
+Not worried
+61% 73%
+14%
+67% 54% 62%
+91% 80%
+60%
+14%
+19%
+36%
+14%
+100%
+10%
+0%
+3%
+8%
+25%
+8%
+50%
+33% 32% 29%
+9% 17%
+32%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+Menaka
+Tahoua
+Tillabéry
+Burkina Faso Mali Niger
+Has not changed in
+the past three
+months
+Has increased in
+the past three
+months
+Has decreased in
+the past three
+months
+In 2024, the incident trend affecting activities is reported as 
+improving at crisis level: 64 per cent say it decreased, 24 per cent 
+say it did not change, and 12 per cent say it increased. In 2023, 
+security perceptions were already tense overall: 30 per cent not 
+worried, 54 per cent somewhat worried, and 16 per cent very 
+worried.
+Taken together, this suggests that even when activity disruption is 
+more often reported as easing in 2024, baseline concern in the 
+crisis context (as captured by worry in 2023) was already high, 
+which is consistent with why perceptions can remain pressured 
+even as one operational trend improves.
+1.
+Residents worried about security
+Trend in incident related activities Figure LG-4: Trend in incident-related activities
+In 2024, security worry remains substantial: 34 per cent not 
+worried, 47 per cent somewhat worried, and 18 per cent very 
+worried. In 2023, connectivity was highly split: 44 per cent 
+reported improved, 13 per cent no change, and 43 per cent 
+worsened.
+Read together, the crisis shows a pattern where “systems 
+conditions” (connectivity) were already polarized in 2023, and in 
+2024 the dominant security experience is still uncertainty (the 
+modal response remains somewhat worried, with a meaningful 
+very worried share).
+3.
+In 2024, daily public life is mixed: 56 per cent say streets are lively 
+and people move without worry, 24 per cent report a tense 
+situation, and 20 per cent report movement limited to essential 
+needs. In 2023, markets were more often functioning: 60 per 
+cent say the main market is open and regularly supplied, 28 per 
+cent say it is open but many items are scarce, and 12 per cent 
+report it closed.
+So, while market access in 2023 looks relatively functional at crisis 
+level, 2024 public life still shows sizable restriction and tension, 
+meaning “economic functioning” (market open) does not 
+necessarily translate into “social normalcy” (movement without 
+worry), especially in the more constrained areas.
+Daily public life
+2. Figure LG-5: Residents worried about security
+7.6 Detailed Analysis of Key Indicators *
+Figure LG-6: Daily public life
+*Percentages may not always sum to exactly 100 per cent due to rounding.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+57%
+25% 21%
+100%
+5%
+100%
+19%
+4%
+29%
+59%
+14%
+11%
+5%
+64%
+4% 8%
+11% 15%
+43%
+70% 52% 81%
+82%
+4%
+7%
+11%
+5%
+9%
+13% 2%
+1%
+14%
+4%
+19% 27%
+1% 4%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+MENAKA
+Tahoua
+Tillabéry
+Burkina Faso Mali Niger
+There is no primary
+school in the site, but a
+primary school is
+accessible nearby.
+There is no primary
+school in the site and no
+accessible school nearby.
+The primary school in
+the site is open.
+The primary school in
+the site is closed, but
+children can attend a
+school nearby.
+The primary school in
+the site is closed and
+children cannot access a
+school nearby.
+25%
+51% 43%
+67%
+30%
+48% 45%
+22% 34%
+75%
+49% 57% 70%
+100%
+52% 55%
+78% 66%
+Est
+Sahel
+Gao
+Kidal
+Mopti
+Ségou
+Timbuktu
+Menaka
+Tahoua
+Tillabéry
+Burkina Faso Mali Niger
+Fewer than 50 per
+cent of shelters
+are in good
+condition.
+At least 50 per
+cent of shelters
+are in good
+condition.
+Across the Liptako-Gourma crisis, the key indicators point to improving incident trends but continued pressure on perceptions 
+and living conditions, with the heaviest stress concentrated in parts of Burkina Faso and specific areas in Mali.
+Security remains strained and shifts slightly toward higher concern in 2024. In 2023, 29 per cent of localities were not worried 
+about security, 54 per cent somewhat worried, and 16 per cent very worried. In 2024, not worried rises to 34 per cent, but 
+very worried also increases to 18 per cent. Burkina Faso shows the strongest concern in 2024, with only 17 per cent not 
+worried and 26 per cent very worried, and Est stands out at 39 per cent very worried.
+Incident trends affecting activities improved overall in 2024. At crisis level, 64 per cent of assessed localities reported a decrease 
+in incidents affecting activities over the previous three months, compared with 12 per cent reporting an increase. Niger shows 
+the strongest improvement signal, while Ségou shows a deterioration. However, the Ségou result should be interpreted with 
+caution due to the very small number of assessed localities in 2024.
+Daily public life becomes more constrained from 2023 to 2024. The share of reporting movement without worry drops from 
+63 per cent in 2023 to 56 per cent in 2024, while essential-needs-only movements rise from 14 per cent to 20 per cent. This 
+shift is driven mainly by Burkina Faso.
+Living conditions are a key pressure point in 2024. Housing quality is weak across the crises, with 65 per cent reporting fewer 
+than half of shelters in good condition. School access is mixed, with 57 per cent reporting primary schools are open, but serious 
+gaps remain in Burkina Faso.
+Overall, Niger appears comparatively more functional on daily public life and schooling, Burkina Faso— especially Est—
+concentrates the most acute pressure, and Mali shows the strongest internal divergence, with Ségou repeatedly standing out as 
+the main hotspot.
+Housing quality4.
+5.
+Figure LG-7: Housing quality
+Figure LG-8: Primary school situationPrimary school situation
+In 2024, primary school access was among the highest-ranked 
+indicators shaping perceived stability. At crisis level, 57 per cent of 
+assessed localities reported that the primary school was open, 
+while 33 per cent reported access constraints, either because the 
+school was closed or because no accessible school was nearby.
+The strongest access was reported in Kidal, while Ségou recorded 
+the most severe constraint, with all assessed localities reporting 
+that the primary school was closed and no nearby school was 
+accessible. 
+In 2023, the fifth-ranked indicator was the presence of police or 
+gendarmerie, suggesting that the 2023 profile was more security-
+oriented, while the 2024 ranking gives more prominence to access 
+to basic services.
+In 2024, housing conditions are predominantly weak: 65 per cent 
+report that fewer than half of shelters are in good condition (only 
+35 per cent report at least half in good condition). In 2023, daily 
+public life looked more positive than in 2024: 63 per cent 
+movement without worry, 23 per cent tense, 14 per cent 
+essential-only.
+This combination points to a crisis context where “being able to 
+move around” in 2023 could coexist with structural deficits that 
+are clearly visible in 2024 housing conditions. In other words, 
+public-space functioning and shelter conditions are not moving in 
+lockstep.
+7.7 Summary: Cross-Cutting Patterns Across Key Indicators
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+In the Liptako-Gourma crisis context, marked by persistent insecurity, armed violence, ongoing population movements, and sustained constraints 
+in access to essential services, cluster analysis was used to identify groups of localities with similar multidimensional stability profiles. Rather than 
+interpreting localities only through their overall stability score, this approach helps show how thematic dimensions combine within each profile, 
+particularly security, social cohesion, services, and resilience where available.
+The clusters were generated using a K-Means clustering algorithm applied to the standardized thematic sub-scores. Once the clusters were 
+identified, the average overall stability score and the average thematic sub-scores were calculated for each group to support interpretation. The 
+objective was therefore not to rank localities by the overall stability index, but to identify broad patterns among localities that share similar 
+characteristics across the main dimensions of stability.
+7.8 Cluster Analysis
+Cluster profiles in 2023
+In 2023, three cluster profiles were identified across the Liptako-Gourma assessed localities.
+Cluster 2 shows the strongest overall profile, combining high average stability (74), high security (80), and the highest social cohesion (82), 
+alongside strong services (81). This profile is consistently strong in both Mali (73 stability, 80 security, 83 social, 81 services) and Niger (80 stability, 
+82 security, 77 social, 77 services).
+Cluster 0 also records relatively high stability (75) with strong security (77) and social cohesion (71), but services are notably weaker (50). This 
+pattern is driven by lower services in Mali (43) and mid-range services in Niger (52).
+Cluster 1 is the most fragile profile, with low stability (47) and low security (51), while social cohesion (57) and services (59) remain higher than 
+stability and security.
+At crisis level, the 2023 averages indicate moderate overall performance, with stability at 66, security at 70, and social cohesion at 71, while 
+services average 65.
+Cluster profiles in 2024
+In 2024, three cluster profiles were also identified across the assessed localities, now including Burkina Faso alongside Mali and Niger.
+Cluster 0 presents the most favourable profile, with high stability (78) and the highest security (82), alongside solid social cohesion (75) and 
+services (69). This cluster includes localities across all three countries, with services ranging from 64 to 77.
+Cluster 1 is an intermediate profile, with moderate stability (57) and relatively high security (74), but weaker social cohesion (57) and very low 
+services (34). This service constraint is consistent across Burkina Faso (41), Mali (34), and Niger (28).
+Cluster 2 is the most fragile profile in 2024, with very low stability (35), low security (42), low social cohesion (45), and limited services (43). This 
+profile reflects compound fragility where all dimensions score poorly.
+At crisis level, the 2024 averages show stability at 64, security at 71, social cohesion at 64, and services at 56.
+Crisis-level comparison between 2023 and 2024
+Across the crisis, average stability is broadly similar between 2023 (66) and 2024 (64), and average security is stable (70 to 71). The main changes 
+are in social cohesion, which drops from 71 to 64, and services, which decline from 65 to 56. These two dimensions drive the slight overall 
+stability decline. In 2024, the strongest profile (Cluster 0) combines high stability with stronger services than the crisis average, while a distinct 
+intermediate profile (Cluster 1) shows that services can fall very low even when security remains relatively high. The most fragile profile in 2024 
+(Cluster 2) concentrates low scores across all dimensions, particularly stability and security, and represents the localities facing the most severe 
+compound constraints.
+Methodology
+Cluster Profiles: 2023 and 2024
+Table LG-4: Scores of the different clusters
+Year Cluster Stability (Average) Security (Average) Social (Average) Services (Average)
+2023
+0 75 77 71 50
+1 47 51 57 59
+2 75 81 82 80
+Average 66 70 71 65
+2024
+0 78 82 75 69
+1 57 74 57 34
+2 35 42 45 43
+Average 64 71 64 56
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+Map LG-2: Clusters of localities with similar characteristics in 2024
+The representation and use of boundaries, geographical names and related data appearing on the maps and included in this report are not guaranteed to be error-
+free and do not imply any judgment on the legal status of any territory, nor any endorsement or acceptance of such boundaries by IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+May 2026
+Solutions and Mobility Index - Liptako Gourma
+Burkina Faso (Est, Sahel) | Mali (Gao, Kidal, Mopti, Ségou, Timbuktu) |
+Niger (Tahoua, Tillabéri) | 2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration,
+April 2026. Displacement Tracking Matrix, SMI.” The views expressed in this report 
+are those of the authors and do not necessarily reflect the views of IOM.
+7.9 Conclusion
+Crisis context and continued relevance of the tool
+Across 2023 and 2024, the Liptako Gourma crisis remained driven by persistent insecurity and armed violence, continued population 
+movements, and acute humanitarian needs among displaced populations and host communities. Displacement was both new and protracted, 
+with many households living in precarious conditions in urban areas, with host families, or on self-settled sites. In this context, the Stability 
+Index and the Solutions and Mobility Index continued to provide a structured way to measure perceived stability in displacement-affected 
+areas and to support prioritisation linking humanitarian response with recovery, stabilisation, and longer-term solutions across Mali, Niger, and 
+Burkina Faso.
+Perceptions of security and day-to-day functioning remain uneven
+Perceptions of security remained strained and slightly more polarised in 2024. At crisis level, the share not worried increased from 29 per 
+cent (2023) to 34 per cent (2024), while the share very worried also increased from 16 per cent to 18 per cent. In 2024, concern was most 
+concentrated in Burkina Faso, where only 17 per cent of localities were not worried and 26 per cent were very worried. Est stood out with 
+39 per cent very worried and only 4 per cent not worried. Mali remained highly uneven, with Kidal at 0 per cent very worried while Ségou 
+reached 75 per cent very worried, confirming that stress is concentrated in specific settings rather than evenly distributed across the crisis.
+Key message
+• Security perceptions are not uniform and show strong subnational contrasts, especially within Mali and Burkina Faso.
+Incident trends improve in 2024, but local hotspots persist
+In 2024, incidents affecting activities were more often reported as decreasing. At crisis level, 64 per cent reported decreases in the past three 
+months, compared with 12 per cent reporting increases. Niger showed the strongest improvement signal. However, Mali (Ségou) remained a 
+clear outlier, with 100 per cent reporting increases, highlighting the need for targeted attention to hotspots even when overall trends 
+improve.
+Index results shifted slightly downward, driven by cohesion and services
+At crisis level, overall stability decreased from 66 (2023) to 64 (2024). Security remained broadly stable (70 to 71). The main declines were:
+• Social cohesion: 71 to 64
+• Services: 65 to 56
+This indicates a deterioration in perceived social conditions and service access that drove the slight decline in overall stability despite stable 
+security.
+Service and living condition constraints are prominent in 2024
+Living conditions emerged as a key pressure point in 2024:
+• Housing quality: 65 per cent of localities reported fewer than 50 per cent of shelters in good condition.
+• Education access: At crisis level, 57 per cent reported primary schools are open, but major gaps persisted, especially in Burkina Faso:
+• Burkina Faso: 14 per cent reported schools open; 34 per cent reported closed with no accessible nearby option (rising to 57 
+per cent in Est).
+• Mali: extremes remained pronounced, with Ségou at 100 per cent of localities with the school closed with no accessible 
+nearby school, while Kidal reported 100 per cent of localities with an open school.
+Implications for prioritization
+Across 2023 and 2024, average stability declined slightly, driven mainly by weaker social cohesion and services, while security remained stable 
+at crisis level. This supports differentiated prioritisation:
+• In some settings, constraints are most linked to service access and living conditions (shelter quality, schooling).
+• In others, security concern and day-to-day functioning remain the primary stressors.
+Overall, the results point to the need for integrated interventions that reduce protection risks, restore essential services, and strengthen social 
+cohesion and resilience in displacement-affected communities.
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+Across 2023 and 2024, coastal countries in West Africa were shaped by two reinforcing pressures: climate and 
+environmental shocks that undermined livelihoods and strained natural resources, and the spillover of the Central 
+Sahel crisis that increased insecurity and population movements in northern border areas. Together, these dynamics 
+intensified displacement patterns, raised humanitarian needs, and placed additional pressure on already limited basic 
+services and local economies in hosting areas. In Côte d’Ivoire, the narrative centres on difficult living conditions in 
+the north, especially Bounkani, linked to growing arrivals connected to the Sahel crisis, rising insecurity, and limited 
+access to quality services and socio-economic opportunities. It also highlights rising risks to social cohesion, including 
+tensions around natural resource access that are further strained by climate impacts. 
+The reported increase in attacks in Burkina Faso and the associated inflow into northern Côte d’Ivoire reinforce the 
+need for targeted planning in host communities. In Ghana, the same compound pressures are framed through 
+resilience and food security. The 2023 emphasis on limited disaggregated data evolves in 2024 into sharper focus on 
+increasing arrivals and the strain on host community resources and food systems, with northern food insecurity 
+highlighted as a key fragility driver. In Benin, the crisis framing emphasizes insecurity as the dominant driver of 
+displacement in the north, alongside major service gaps for displaced and host communities, with 2024 adding more 
+operational detail on displacement levels and causes.
+Data were collected through locality-level key informant interviews during successive Solutions and Mobility Index rounds across the coastal 
+countries settings covered in the consolidated analysis. The raw information corresponds to the following rounds and fieldwork windows:
+• Côte d’Ivoire (Bounkani): Round 1 fieldwork from 14 August to 13 September 2023, covering 317 villages across four departments in the 
+Bounkani region, and Round 2 fieldwork from 8 January to 7 February 2024, implemented in the same 317 villages.
+• Ghana (Upper East and Upper West): Round 1 fieldwork from 18 to 28 October 2023, covering 242 locations and 395 key informant 
+interviews, and Round 2 fieldwork in November 2024, covering 175 localities and 323 key informant interviews.
+• Benin (Alibori and Atakora): Round 1 fieldwork during June to July 2023, covering 123 assessed displacement locations and reporting 10,034 
+internally displaced persons, and Round 2 conducted in February 2024 across the same 123 locations, reporting 12,501 internally displaced 
+persons.
+Across settings, the tool is framed as a structured stability measurement approach using key informant reporting and logistic regression to link 
+stability indicators to three anchor questions on perceptions of stability, community future intentions, and perceived evolution of the situation. 
+Methodology notes differ slightly by context and year, including 66 indicators stated for Côte d’Ivoire Round 1 and 63 indicators for Round 2, and 
+63 indicators stated for Ghana Round 1. In Benin, the methodology is described as combining more than 60 indicators.
+IDPs reaching 17,438 (highest figure). Refugees (and asylum seekers) include 
+41,864.
+*Note: these figures come from different reference dates and rounds, so they describe the overall scale and composition, not a single basin-wide total.
+8.1 Data Collection and Coverage
+COASTAL COUNTRIES
+8.2 Comparability and Limitations
+Comparability across years is strongest within the same geographic footprints and rounds in each setting, such as Bounkani in Côte d’Ivoire where 
+both rounds cover the same 317 villages, Benin where both rounds cover the same 123 assessed displacement locations, and Ghana where both 
+rounds cover Upper East and Upper West but with lower achieved coverage in Round 2, from 242 locations in 2023 to 175 localities in 2024.
+Table CC-1. Displacement figures*
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+Perceived Safety
+In 2024, perceived stability is high in Ghana and Côte d’Ivoire, but much lower in Benin. In Ghana, “safe” shares are very high across assessed 
+areas, including North East (100% safe), Upper East (96% safe), and Upper West (82% safe). In Côte d’Ivoire (Bounkani), perceptions are also 
+predominantly positive, at 78 per cent safe and 22 per cent unsafe. Benin stands out as the main pressure point: in Alibori, only 9 per cent report 
+“safe” while 91 per cent report “unsafe”, and in Atakora perceptions remain mixed but tilt negative at 44 per cent safe and 56 per cent unsafe. 
+Across assessed areas, the grand total is 75 per cent safe and 25 per cent unsafe.
+Figure CC-1: Feeling of stability
+Figure CC-2: Intention to leave Figure CC-3: Evolution of the situation over the past 6 months
+Intention to Stay or Leave
+Community future intentions to stay were high in Côte d’Ivoire and Ghana in 2024, but more divided in Benin. In Côte d’Ivoire (Bounkani), 96 per 
+cent report they do not need to leave. Ghana shows near-universal intentions to stay, with North East (100%), Upper East (99%), and Upper 
+West (98%). In Benin, intentions are notably less settled: Alibori records 55 per cent “do not need to leave” and 45 per cent “may need to leave”, 
+while Atakora records 65 per cent versus 35 per cent.
+Perception of the Situation (Hopefulness)
+Perceptions of how the situation is evolving are more uneven than intentions to stay in 2024 and show a clear split. Ghana is consistently 
+optimistic, with North East (100% more hopeful), Upper East (92% more hopeful), and Upper West (61% more hopeful). Côte d’Ivoire 
+(Bounkani) leans positive but is more mixed, at 56 per cent more hopeful and 44 per cent less hopeful. Benin is the most pessimistic overall, 
+especially Alibori, where 73 per cent are less hopeful, while Atakora is close to balanced at 49 per cent less hopeful and 51 per cent more 
+hopeful. Across assessed areas, the grand total is 35 per cent less hopeful and 65 per cent more hopeful.
+9%
+44%
+78%
+100%
+96%
+82%
+91%
+56%
+22%
+4%
+18%
+Alibori
+Atakora
+Bounkani
+North East
+Upper East
+Upper West
+Benin
+Côte
+d'Ivoire Ghana
+Coastal countries (2024)
+Safe
+Unsafe
+73%
+49%
+44%
+8%
+39%
+27%
+51%
+56%
+100%
+92%
+61%
+Alibori
+Atakora
+Bounkani
+North East
+Upper East
+Upper West
+Benin
+Côte
+d'Ivoire Ghana
+Coastal countries (2024)
+Less
+hopefull
+More
+hopefull
+8.3 Perceived Stability and Community Outlook
+55%
+65%
+96%
+100%
+99%
+98%
+45%
+35%
+4%
+1%
+2%
+Alibori
+Atakora
+Bounkani
+North East
+Upper East
+Upper West
+Benin
+Côte
+d'IvoireGhana
+Coastal countries (2024)
+Do not need
+to leave
+May need to
+leave
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+8.4 Geographic Distribution of Stability Scores
+Based on stability measurement results derived from key informant interviews, the comparison between 
+2023 and 2024 across the coastal countries assessed areas suggests a broadly stable overall picture. On 
+average, the stability score shows no change (0) across assessed areas. Dimension-level changes are also 
+limited: security (0) and social cohesion (0) remain unchanged on average, while services show a small decline 
+(-1). By contrast, resilience increases (+5) on average, indicating that the main positive movement between 
+cycles is concentrated in the resilience component rather than in perceived stability, security, or social 
+cohesion.
+Across areas, changes are uneven and concentrated in a small number of locations. The largest increase in 
+overall stability is recorded in Benin (Alibori) at +11, while the largest decreases are observed in Ghana 
+(North East) at -6 and Côte d’Ivoire (Bounkani) at -4. Ghana also shows a mixed internal pattern, with 
+stability decreasing in Upper East (-2) but increasing in Upper West (+2). At country level, the most notable 
+deterioration is in Côte d’Ivoire, where stability declines by -4, driven by declines in services (-5) and a small 
+decline in security (-1), despite a slight improvement in social cohesion (+1). In Benin, the overall country 
+value shows no change (0), but this masks a sharp contrast between Alibori (+11) and Atakora (-1).
+Resilience is the dimension showing the most consistent positive change and the largest swings. The highest 
+resilience increase is recorded in Côte d’Ivoire (Bounkani) at +9, followed by Benin (Atakora) at +5, Ghana 
+(North East) at +5, and Ghana (Upper West) at +5. Even where stability declines, resilience can still improve, 
+as seen in Côte d’Ivoire (Bounkani) where stability decreases (-4) while resilience increases (+9).
+Overall Direction of Change
+Table CC-2: Change in SMI scores between 2023 and 2024, on a 0-100 scale
+Areas Showing the Largest Increases and Decreases
+Area Stability Δ Security Δ Social Δ Services Δ Resilience Δ
+Benin 0 0 0 0 4
+Alibori 11 0 0 0 3
+Atakora -1 0 0 0 5
+Côte d'Ivoire -4 -1 1 -5 9
+Bounkani -4 -1 1 -5 9
+Ghana 0 0 0 0 4
+North East -6 0 0 0 5
+Upper East -2 1 0 0 3
+Upper West 2 0 0 0 5
+Average 0 0 0 -1 5
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+Map CC-1: Stability score in the assessed localities in 2024
+The representation and use of boundaries, geographical names and related data appearing on the maps and included in this report are not guaranteed to be error-
+free and do not imply any judgment on the legal status of any territory, nor any endorsement or acceptance of such boundaries by IOM.
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+8.5 Key Indicators Shaping Stability Profiles (2023 vs 2024)
+Table CC-3 summarises the top indicators for 2023 and 2024, highlighting both continuity and change. In 2023, the 
+leading signals were anchored in community resilience and security perceptions, with proximity of community disaster 
+risk reduction committees ranked first and residents worried about security ranked second. In 2024, the profile shifts 
+toward security perceptions and mobility, with residents worried about security ranked first and residents’ freedom of 
+movement ranked second, while resilience remains prominent. A security actor presence indicator— NSAG presence—
+emerges among the top five in 2024, suggesting a stronger role of armed-group dynamics. Four indicators— access to 
+population, residents’ freedom of movement, evolution of village resilience and residents worried about security—
+remain consistent across both years, indicating that access constraints and the ability to move safely continue to be 
+closely linked to perceived stability.
+This section examines the indicators most strongly associated with perceived stability in 2023 and 2024, based on the 
+ranked results of the logistic regression analysis. The indicators are ranked according to their average logistic regression 
+coefficients across the three anchor questions: perceived stability, intention to stay or leave, and perceived evolution of 
+the situation. Higher-ranked indicators therefore represent those most strongly associated with modelled stability in 
+each year. The purpose is not to suggest that all ranked indicators are directly comparable across years, but rather to 
+identify which dimensions were most influential in each year and where continuity or change can be observed. To 
+support interpretation, indicators are reviewed by thematic group: services, safety and security, social cohesion, and 
+resilience. Where the same indicator, or a closely related indicator within the same thematic group, appears among the 
+top-ranked results in both 2023 and 2024, its evolution is discussed comparatively. For indicators that appear only in 
+one year’s ranking, the analysis focuses on their relevance within that year rather than implying a direct year-on-year 
+comparison. This approach helps distinguish between persistent drivers of perceived stability and shifts in the factors 
+most closely associated with stability across the two years.
+Table CC-3. T op ranked indicators by year
+1 Proximity of community disaster risk reduction 
+committees Residents worried about security
+2 Residents worried about security Residents’ freedom of movement
+3 Access to services and basic resources across groups Evolution of village resilience over the past 6 
+months
+4 Evolution of village resilience over the past 6 months Presence of non-state armed groups
+5 Residents’ freedom of movement Access to services and basic resources across 
+groups
+Services Security Social cohesion Resilence
+2023 2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+36% 36%
+82%
+100% 100% 99%18% 13%
+9%
+1%
+21%
+6%
+45%
+30%
+3%
+Alibori Atakora Bounkani North East Upper East Upper West
+Benin Côte d'Ivoire Ghana
+Restrictions in place
+with a significant
+impact
+Restrictions in place
+with a small impact
+Restrictions in place
+but with no impact
+No restrictions
+18%
+35%
+14% 1% 11%
+64%
+6%
+5% 14%
+16%
+18%
+59%
+81%
+100%
+84%
+74%
+Alibori Atakora Bounkani North East Upper East Upper West
+Benin Côte d'Ivoire Ghana
+Has remained the
+same
+Has improved
+Has degraded.
+10%
+51%
+100%
+57%
+83%
+55%
+25%
+35% 28%
+16%
+45%
+65%
+15% 14%
+1%
+Alibori Atakora Bounkani North East Upper East Upper West
+Benin Côte d'Ivoire Ghana
+Very worried
+Somewhat worried
+Not worried
+At the crisis level, perceived security is broadly stable year-
+on-year, with only small shifts. In 2023, 51 per cent were not 
+worried, 29 per cent somewhat worried, and 20 per cent 
+very worried. In 2024, the distribution is similar: 49.6 per 
+cent not worried, 29 per cent somewhat worried, and 21 
+per cent very worried.
+The stability in the crisis aggregate masks sharp country 
+differences. Benin is consistently the most negative profile, 
+with a very high very worried share (63 per cent in both 
+years), while Ghana remains the most positive (2024: 69 per 
+cent not worried and 9 per cent very worried).
+1.
+Residents’ freedom of movement
+Residents worried about security Figure CC-4: Residents worried about security
+Freedom of movement is also broadly stable at crisis level. In 
+2023, 80 per cent reported no restrictions, while roughly 
+one-fifth reported some form of restrictions (about 7.2 per 
+cent restrictions with no impact, 8 per cent significant 
+impact, and 5 per cent small impact). In 2024, 80 per cent 
+again reported no restrictions, with very similar shares across 
+restriction types (about 6.7 per cent no impact, 7 per cent 
+significant impact, and 6 per cent small impact).
+The main structural contrast remains country-level: Ghana is 
+almost entirely “no restrictions” (100 per cent in both years), 
+while Benin reports a much higher restriction burden, with 
+only 36 per cent no restrictions and sizeable shares 
+reporting significant or small impacts.
+3.
+At the crisis level, resilience is reported as slightly less 
+“stable” in 2024. In 2023, 80 per cent reported resilience 
+remained the same, 8 per cent said it improved, and 12 per 
+cent said it degraded. In 2024, the “remained the same” 
+share declines to 76per cent, while degraded rises to 14 per 
+cent and improved rises to 10 per cent.
+This suggests more perceived movement in both directions 
+in 2024, but with the balance tilting slightly toward 
+deterioration at crisis level. Country patterns remain distinct: 
+Benin has relatively high “degraded” (33 per cent) alongside a 
+majority “same” (55 per cent), while Côte d’Ivoire remains 
+strongly stable (81 per cent “same”).
+Evolution of village resilience over the past 6 months
+2. Figure CC-5: Residents’ freedom of movement
+Figure CC-6: Evolution of village resilience over the past 6 months
+8.6 Detailed Analysis of Key Indicators in 2024*
+*Percentages may not always sum to exactly 100 per cent due to rounding.
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+These are different indicators, so this is a contextual 
+comparison rather than a direct trend. In 2024, non-state 
+armed groups presence is reported as very limited at crisis 
+level: 97 per cent “No” and 3 per cent “Yes”. In 2023, 
+community disaster risk reduction committees are most often 
+reported as not existing / not known: 65 per cent, while 21 
+per cent report committees are close and interact regularly, 
+and 14 per cent report they exist but are not close.
+Read together, both years point to limited local institutional 
+“visibility” in different forms: in 2024, armed group presence is 
+rarely reported overall, while in 2023 the more common issue 
+is that formal community risk structures are often absent or 
+not recognized by residents.
+100%
+95%
+99%
+100% 99%
+91%
+5%
+1% 1%
+9%
+Alibori Atakora Bounkani North East Upper East Upper West
+Benin Côte d'Ivoire Ghana
+Yes
+No
+45%
+71%
+85%
+100% 95% 99%
+55%
+29%
+15%
+5% 1%
+Alibori Atakora Bounkani North East Upper East Upper West
+Benin Côte d'Ivoire Ghana
+No equal
+access
+Equal access
+Non-state armed groups presence
+5.
+Figure CC-7: Non-state armed groups presence
+Figure CC-8: Access to services and basic resources across 
+groups
+Access to services and basic resources across 
+groups
+Access to services and basic resources remains essentially 
+unchanged at crisis level. In 2023, 86 per cent reported equal 
+access, and 13 per cent reported unequal access. In 2024, 86 
+per cent reported equal access, and 14 per cent reported 
+unequal access. The same pattern holds within countries: 
+Ghana remains very high in equal access (97 per cent), while 
+Benin shows substantially more unequal access (32 per cent 
+unequal vs 68 per cent equal), and Alibori is particularly 
+constrained (45 per cent equal vs 54 per cent unequal).
+Across the Coastal countries crisis, the results show limited change at the crisis aggregate level, while country differences remain pronounced. 
+This aligns with a context shaped by climate and environmental pressures and spillover dynamics from the Central Sahel crisis, with uneven 
+impacts across northern areas.
+Security perceptions are stable in the crisis aggregate. In 2023, 52 per cent were not worried, 29 per cent somewhat worried, and 20 per 
+cent very worried. In 2024, the distribution remains similar. The aggregate masks sharp contrasts, with Benin consistently at 63 per cent very 
+worried in both years, and Ghana at 69 per cent not worried and 9 per cent very worried in 2024.
+Freedom of movement is stable at crisis level. In both years, 80 per cent reported no restrictions. Ghana reports near-universal absence of 
+restrictions (100 per cent in both years), while Benin reports 36 per cent no restrictions and higher reporting of restrictions with impacts.
+Resilience perceptions shift modestly in 2024. In 2023, 80 per cent reported resilience remained the same and 12 per cent reported 
+degradation. In 2024, 76 per cent remained the same and 14 per cent reported degradation, with Benin recording higher degradation at 33 
+per cent.
+Access conditions remain largely unchanged. Equal access is reported by 87 per cent in 2023 and 86 per cent in 2024, with persistent gaps in 
+Benin at 68 per cent equal access and more acute constraints in Alibori at 46 per cent.
+Overall, Benin concentrates higher security concern, mobility restrictions, resilience deterioration, and access constraints, while Ghana remains 
+comparatively stable across all indicators.
+8.7 Summary: Cross-Cutting Patterns Across Key Indicators
+4.
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+In the Coastal countries context, shaped by climate and environmental pressures and the spillover of the Central Sahel crisis, 
+including rising insecurity and displacement dynamics in northern areas and increasing pressure on services, livelihoods, and natural 
+resources, cluster analysis was used to identify groups of localities with similar multidimensional stability profiles. Rather than 
+interpreting localities only through their overall stability score, this approach helps show how thematic dimensions combine within 
+each profile, particularly security, social cohesion, services, and resilience where available.
+The clusters were generated using a K-Means clustering algorithm applied to the standardized thematic sub-scores. Once the 
+clusters were identified, the average overall stability score and the average thematic sub-scores were calculated for each group to 
+support interpretation. The objective was therefore not to rank localities by the overall stability index, but to identify broad patterns 
+among localities that share similar characteristics across the main dimensions of stability.
+Cluster profiles in 2023
+In 2023, three cluster profiles were identified in the Coastal Countries context.
+Cluster 0 is a higher stability profile (stability 86), with security (74) and social cohesion (72), but lower services (55) and low resilience (18). 
+Within this cluster, Benin is lower on stability (67) and resilience (9) than Côte d'Ivoire (86, 18) and Ghana (84, 20).
+Cluster 2 is also a higher stability profile (stability 86) with similar security (74) but stronger social cohesion (80) and higher services (67) and 
+resilience (28). Ghana records the highest stability (88), and Côte d'Ivoire the highest social cohesion (84) and services (74).
+Cluster 1 is the lowest stability profile: stability is 46, with weak social cohesion (45) and services (48), while security is 62 and resilience is 22.
+At crisis level in 2023, averages are stability (78), security (72), social cohesion (69), services (58), and resilience (23).
+Cluster profiles in 2024
+In 2024, the same three profiles are observed, with higher resilience overall.
+Cluster 0 remains the strongest profile: stability is 88, with security (74), social cohesion (81), services (70), and resilience (33). Côte d'Ivoire stands 
+out with social cohesion (85), services (77), and resilience (41).
+Cluster 2 remains relatively stable: stability is 82, with security (73) and social cohesion (72), but lower services (49) and resilience (29), with similar 
+scores across countries.
+Cluster 1 remains the lowest stability profile: stability is 44, with social cohesion (45) and services (49), while security is 62 and resilience is 25.
+At crisis level in 2024, averages are stability (76), security (71), social cohesion (70), services (56), and resilience (30).
+Crisis-level comparison between 2023 and 2024
+Average stability declines slightly from 78 to 76, and security from 72 to 71. Social cohesion improves marginally from 69 to 70, while services 
+decrease from 58 to 56. The most notable positive shift is in resilience, which increases from 23 to 30, driven by higher resilience in 2024 across 
+all profiles, particularly in the strongest cluster and in Côte d'Ivoire. This indicates that perceived coping capacity has improved even as service 
+access has weakened slightly. The lowest stability profile (Cluster 1) remains largely unchanged across years, confirming persistent fragility in a 
+subset of localities where all dimensions score poorly.
+Methodology
+8.8 Cluster Analysis
+Cluster Profiles: 2023 and 2024
+Table CC-4: Scores of the different clusters
+Year Cluster Stability (Average) Security (Average) Social (Average) Services (Average) Resilience (Average)
+2023
+0 86 74 72 55 18
+1 46 62 45 48 22
+2 86 74 80 67 28
+Average 78 72 69 58 23
+2024
+0 88 74 81 70 33
+1 44 62 45 49 25
+2 82 73 72 49 29
+Average 76 71 70 56 30
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+Map CC-2: Clusters of localities with similar characteristics in 2024
+The representation and use of boundaries, geographical names and related data appearing on the maps and included in this report are not guaranteed to be error-free 
+and do not imply any judgment on the legal status of any territory, nor any endorsement or acceptance of such boundaries by IOM.
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Coastal Countries  
+Benin (Alibori, Atakora) | Côte d’Ivoire(Bounkani) | Ghana (North East,
+Upper East, Upper West) | 2023-2024 Overview
+May 2026
+8.9 Conclusion
+Crisis context and continued relevance of the tool
+Across 2023 and 2024, the Coastal countries context in West Africa was shaped by two reinforcing pressures: climate and environmental 
+shocks affecting livelihoods and straining natural resources, and the spillover from the Central Sahel crisis increasing insecurity and population 
+movements in northern border areas. In this setting, the Solutions and Mobility Index supported measurement of perceived stability, 
+identification of fragility pockets, and prioritisation across assessed areas of Benin, Côte d’Ivoire, and Ghana.
+• Main pressures: climate shocks and Sahel spillover
+• Use of the tool: measure stability and target prioritization
+Perceptions of stability and future intentions vary sharply by country
+In 2024, perceived stability was high in Ghana and Côte d’Ivoire, but lower in Benin. Ghana recorded very high “safe” shares, while Côte 
+d’Ivoire (Bounkani) remained predominantly positive. Benin is the main pressure point, especially Alibori (very low “safe”, high “unsafe”), with 
+Atakora mixed but slightly negative. Intentions to remain were very strong in Ghana and Côte d’Ivoire, whereas Benin was more divided, 
+notably in Alibori where “may need to leave” is substantial.
+• Benin: most negative signals, especially Alibori
+• Ghana and Côte d’Ivoire: strong perceived stability and intentions to stay
+Crisis level changes are limited, but resilience improves
+Between 2023 and 2024, crisis-level averages were broadly stable: stability unchanged, security and social cohesion unchanged, and services 
+slightly lower, while resilience increased. Changes were uneven, including a strong increase in Benin (Alibori) and declines in Ghana (North East) 
+and Côte d’Ivoire (Bounkani). Côte d’Ivoire showed the most notable deterioration at country level due to weaker services, despite improved 
+resilience.
+• Main positive change: resilience up
+• Main negative change: services down, notably in Côte d’Ivoire
+Priority indicators indicate a shift toward security and mobility in 2024
+In 2024, priority indicators placed more weight on security perceptions and freedom of movement, while resilience remained prominent and 
+NSAG presence appeared among top indicators. Access and mobility remained key in both years.
+• 2024 signal: stronger emphasis on security and movement
+Key perception indicators show stable aggregates but concentrated stress
+Crisis-level aggregates are broadly stable, but stress remains concentrated. Benin consistently shows higher security concern, more movement 
+restrictions, higher resilience degradation, and sharper access inequality, particularly in Alibori, while Ghana reports lower concern and near 
+universal absence of movement restrictions.
+• Stress concentration: Benin, especially Alibori
+Cluster patterns confirm differentiated profiles and rising resilience in 2024
+Cluster analysis confirms differing locality profiles. The strongest profile (stability, 88) combines high social cohesion, services, and resilience, with 
+Côte d'Ivoire standing out. The most fragile profile (stability, 44) remains largely unchanged across years. Resilience is the dimension showing 
+the most consistent improvement, rising from 23 to 30 at crisis level, even as services decline slightly from 58 to 56.
+Implications for prioritization
+Crisis-level averages remain broadly stable, but stress is concentrated in Benin, particularly Alibori, where security concern, mobility restrictions, 
+and access inequality coincide. Côte d'Ivoire shows deterioration driven by declining services despite strong resilience gains. Ghana remains 
+comparatively stable. The results support differentiated prioritisation: services and livelihoods where service decline drives fragility, protection 
+and mobility where insecurity is most salient, and resilience interventions addressing climate pressures and resource-related tensions.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+Conclusion across all crises
+Across 2023 and 2024, the three crisis contexts show that perceived stability can remain broadly steady at crisis level while stress 
+concentrates in specific countries and subnational areas. The Stability Index and the Solutions and Mobility Index remain useful 
+because they capture these differences and help translate them into prioritisation across security, services, social cohesion, and 
+resilience.
+Main regional pattern
+• Lake Chad Basin and Liptako Gourma are primarily shaped by insecurity and armed violence, with repeated displacement and 
+persistent service gaps. This produces uneven stability profiles within the same crisis area.
+• Coastal countries are shaped by climate and environmental pressures combined with spillover from the Central Sahel crisis, 
+which increases pressure on livelihoods, natural resources, and basic services in northern hosting areas. Outcomes are highly 
+uneven across countries.
+Where the problems are most concentrated
+• Benin is the clearest pressure point in the Coastal countries context.
+• In Alibori, perceived stability is very low in 2024 at 9 per cent safe and 91 per cent unsafe, and intentions are more 
+divided, with 45 per cent may need to leave. This aligns with high stress across multiple dimensions, including mobility 
+constraints and access inequality.
+• Côte d’Ivoire shows deterioration driven by services, despite improved resilience.
+• In Bounkani, the year to year change indicates weakening services, even while resilience indicators improve, suggesting 
+that coping capacity can increase without immediate improvement in service delivery.
+• Nigeria remains the main security stress area in the Lake Chad Basin narrative.
+• The country level pattern continues to be driven by the north east, with Borno repeatedly standing out as the key 
+insecurity hotspot relative to other assessed areas.
+• Liptako Gourma continues to show concentrated fragility.
+• The 2024 cluster structure includes a profile where security remains relatively high but services fall very low, 
+confirming that service access is a defining constraint in parts of the crisis.
+What the numbers say across crises
+• Lake Chad Basin: stability stays high and changes little at crisis level, from 80 in 2023 to 81 in 2024, but the balance shifts 
+underneath it, with security and social cohesion weakening and services improving slightly.
+• Liptako Gourma: stability declines slightly, from 66 to 64, driven mainly by drops in social cohesion and services, not by security.
+• Coastal countries: overall change is limited, with stability moving from 78 to 76, services declining slightly, and resilience 
+increasing from 23 to 30, indicating improved perceived resilience alongside marginally weaker services.
+How to use this for prioritisation
+• Target services and livelihoods where service decline is driving fragility.
+• This is most relevant where scores show deterioration in services and where cluster profiles indicate service 
+constrained localities.
+• Target protection and mobility where insecurity and movement restrictions coincide.
+• This is most relevant where security concern is high and freedom of movement is restricted, as seen in specific settings 
+rather than uniformly across crises.
+• Use resilience programming to address climate pressures and resource related tensions.
+• This is most relevant in the Coastal countries context, where resilience improves at crisis level but access and service 
+pressures remain, and where tensions around natural resources can affect social cohesion.
+Overall, the three crises point to a common operational message: crisis level averages can appear stable, but the drivers of fragility 
+differ by crisis and concentrate in specific locations, requiring differentiated, locality specific prioritisation.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+ANNEXES 
+1.  Locality selection
+The index is built as a composite measure intended to link 
+stability analysis with programming priorities, including in a 
+Humanitarian Development Peace Nexus logic. The data 
+collection tool captures a set of indicators describing conditions 
+within each locality and their potential contribution to stability. 
+Indicators are organised into themes and thematic sub-scores 
+to support operational interpretation by dimension. Depending 
+on the report and country, these themes include safety and 
+security, access to basic services and or livelihoods, social 
+cohesion, and in some contexts resilience or adaptation 
+capacity related to shocks and disasters. The approach also 
+relies on anchor perception questions, commonly three, 
+covering sense of stability, community future intentions, and 
+perceived trends in the situation. In some contexts, an 
+additional anchor question related to adaptation capacity may 
+be included. Before estimation, response categories for 
+indicators are ordered from more favourable to less favourable 
+conditions and then normalised to ensure comparability and 
+model readiness.
+3.  Logistic regression and score production
+4.  Limitations and interpretation notes
+Locality selection aimed to be as comprehensive as possible 
+within displacement and or return affected areas, to ensure a 
+sufficiently strong evidence base for crisis level analysis. An initial 
+list of localities was compiled using available displacement and 
+return information, complemented by other existing reference 
+sources where relevant (for example administrative lists, census 
+references, or other established registries).The objective was to 
+cover a large enough number of localities to support meaningful 
+statistical analysis and allow internal comparisons across areas. A 
+“locality” corresponds to the lowest administrative unit available 
+in each country context, and is typically represented through a 
+formal or informal local authority structure. For the aggregated 
+analysis used in this work, datasets were consolidated at the 
+crisis level and analysed separately by year, meaning that 2023 
+and 2024 were treated as distinct analytical snapshots. As a 
+result, some localities present in one year may not be present in 
+the other, reflecting differences in coverage, accessibility, or 
+operational prioritisation rather than only changes in conditions.
+2.   Index design and calculation
+Logistic regression is used to examine the relationship between 
+the stability indicators (independent variables) and the anchor 
+perception responses (dependent variable, defined as binary 
+according to the operational specification used in each report). 
+This method estimates, for each locality, a probability associated 
+with stability as captured by the anchor framework. Model 
+output is produced on a 0 to 1 probability scale and then 
+rescaled to a 0 to 100 score to facilitate interpretation and 
+comparison across localities. Where multiple anchor questions 
+are used, separate models are run for each anchor question, 
+and the resulting locality scores are then combined, for example 
+by averaging, to produce a final stability score for each locality. 
+In addition to the overall stability score, thematic sub-scores are 
+generated using the indicators belonging to each theme. These 
+sub-scores help identify which dimensions are most closely 
+associated with higher or lower stability and can support more 
+targeted prioritisation.
+Several limitations should be considered when interpreting 
+results.
+- Coverage and access constraints: Some localities may not be 
+assessed due to insecurity, access restrictions, or logistical 
+constraints. This can reduce representativeness in the most 
+difficult areas and may introduce coverage bias.
+- Year to year comparability: Because the crisis level datasets 
+were aggregated and analysed separately for 2023 and 2024, 
+the set of localities included may differ across years. Some 
+observed changes can therefore reflect shifts in coverage as well 
+as genuine changes in conditions.
+- Indicators not used in scoring: Not all collected indicators are 
+necessarily included in the final score. Exclusions may occur to 
+maintain consistency across rounds, because an indicator is not 
+comparable across contexts, or because data availability is 
+insufficient.
+- Missing data and dropped observations: In logistic regression, 
+localities with missing values on required indicators may be 
+excluded from model estimation. This can affect aggregated 
+means and reduce comparability across areas.
+- Perception based measurement: The index is anchored in key 
+informant perceptions. It provides an indicative, operationally 
+useful measure of perceived stability, but it is not a fully 
+objective measurement of a complex concept. Key informants 
+are not randomly selected, and perceptions may vary by 
+respondent profile, recent events, and local positioning.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+APPENDIX : SURVEY INDICATORS
+ANCHOR QUESTIONS: PERCEPTION OF STABILITY.
+These key indicators were used to measure the perception of stability in each locality. The key indicators were then tested 
+against each of the thematic indicators below to identify the most influential thematic indicators on the perception of stability.
+Feeling of Stability in the Locality
+Does the locality feel safe and stable or unsafe and unstable?
+Ability to Continue Living in the Locality
+Do people in the locality feel that they need to leave within the next six months?
+Changes in Perception in the Last Six Months
+Do people feel more or less hopeful about the state of the community than they did six months ago?
+SCALE 1: LIVELIHOODS & SERVICES
+Shelter Access and Quality
+Proportion of the community that has access to shelter and conditions of shelter
+Damage to Homes
+Level of damage to homes due to conflict, and whether reconstruction is underway
+Primary Education
+Access to primary education and availability of schools in the locality or neighboring towns
+Health Centre and Medical Care
+Access to a functioning health center in the locality or a neighboring town
+Local Market
+Whether markets are open regularly and supplied
+Electricity
+Electricity access and reliability in the locality
+Drinking Water
+Drinking water access and availability in the locality
+Farmland and Fishing Grounds
+Extent of fishing grounds and farmland being used in the locality
+Presence of Public Sector Employees
+Whether public sector employees are present and how they reacted to any conflict
+Internet and Communications Technology
+Access and reliability of internet or phone services
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+19
+SCALE 3: SOCIAL COHESION
+Illegal occupation of a house, land or property
+Illegal occupation of land, a dwelling or property (without authorization from family, neighbors, local authorities)
+Theft of personal belongings
+Thefts of personal belongings reported in the locality over the last 6 months
+Livestock thefts reported
+Cattle theft has been reported in the area over the past 6 months.
+Daily public life
+If residents are able to carry out basic activities without worry (going to the market, letting children play outside, street vendors, etc.)
+Community support
+Probability of cooperation between neighbors in case of problems (such as water or food supply) in the locality.
+Community tension
+Incidents or clashes involving two groups (religious, ethnic, herders/farmers, displaced/returned/host communities) in the locality.
+Equal access to services
+The local population has equal access to basic services and resources, regardless of their age, gender or group (ethnicity, clan, displacement status).
+Identity documents
+Level of possession or access to identity documents in the locality.
+Participation in public affairs
+Level of participation in local public and political life (civil society organizations, trade unions, committees, social gatherings, religious groups).
+SCALE 2: SAFETY AND SECURITY
+Recent security incidents
+If there have been any serious security incidents in recent months.
+Security Incidents - Resources
+Trends in the number of security incidents related to resource tensions (cattle theft, land disputes, etc.) over the past three months.
+Security incidents - Non-state armed groups
+Trends in the number of security incidents related to the activities of non-state armed groups (kidnappings, terrorist attacks, raids, etc.) over the last three months.
+Petty crime
+Trends in the number of minor offences (theft, pickpocketing, vandalism, public drunkenness, etc.) over the last three months.
+Community concerns about safety
+Residents are concerned about their safety (kidnappings, crimes, fighting between armed groups, etc.).
+Police presence
+Police/gendarmerie presence in the locality.
+Presence of security forces
+Security forces are present in the area.
+Presence of non-state armed groups
+Presence of non-state armed groups in the locality.
+Presence of informal militias/self-defense groups
+Presence of informal self-defense militias and self-defense groups in the locality.
+Freedom of movement
+Freedom of movement of residents (to markets, to their homes, to their workplaces, to farms, etc.) within the locality.
+Formal curfew
+Official curfew imposed by the state for security reasons.
+Informal curfew
+Informal curfew imposed by non-state armed groups.
+State of emergency
+Indicates whether the locality is in a state of emergency.
+Legal recourse
+If residents have access to legal avenues for resolving conflicts.
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index 
+West and Central Africa  
+2023-2024
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), April 2026. Displacement Tracking Matrix SMI.” The views expressed in this 
+report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+SCALE 4: DAMAGE CAUSED BY CATASTROPHES
+Frequency of disasters
+Frequency and type of disasters that have struck the locality over the past five years.
+Schooling
+Impact of disasters on school infrastructure and its accessibility to schoolchildren after the disaster.
+Livelihood and economic activities
+Impact of disasters on livelihoods and economic activities over the past five years
+Shelter, water, sanitation and hygiene
+Resilience of shelters to disasters and proportion of latrine destruction by disasters over the past five years.
+Health
+Resilience of health infrastructure to disasters, accessibility of health facilities for patients after a disaster, and shortage of medicines following disasters.
+Organization and relationship with the community
+Availability and proximity of community disaster risk reduction (DRR) committees, participation in simulation exercises, knowledge of early warning systems and assembly points.
+Information and communication
+Community members' knowledge of community information sources on disaster preparedness and response
+Land vulnerabilities
+Proportion of land potentially affected by disasters in the locality
+Climate hazard preparedness policy
+Existence of local policies for preparing for daily climate risks (waste management policy, drainage policy, water supply policy, etc.)
+Adaptability
+Are there measures in place to increase community resilience to disasters through adaptation mechanisms (operational emergency plan, availability of recovery funds, 
+construction of weather-resistant buildings, etc.)?
+Dependence on natural resources
+Level of use of natural resources such as arable land, firewood and water
+Environmental health
+Methods of managing biodegradable and non-biodegradable waste in the locality
+Stability Index - Lake Chad Basin, Round 2
+Province(s), Country | Month YEAR
+Solutions and Mobility Index - Lake Chad Basin   
+Nigeria (BAY) | Cameroon (Far North) | Niger (Diffa) | Chad (Lac Province)  
+2023-2024 Overview
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
+For any information extracted from this document, whether paraphrased or used in 
+any way, the source must be cited as follows: “InternationalOrganisation for Migration
+(IOM), February 2026. Displacement Tracking Matrix SMI.” The views expressed in 
+this report are those of the authors and do not necessarily reflect the views of IOM.
+May 2026
+SOLUTIONS AND MOBILITY INDEX
+West And Central Africa
+Regional Report
+2023-2024  
+WCA DTM Publications 
+rodakar-dataresearch@iom.int
