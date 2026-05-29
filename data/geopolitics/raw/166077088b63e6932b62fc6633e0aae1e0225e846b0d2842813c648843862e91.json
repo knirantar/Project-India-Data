@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-29T12:44:56.979112+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+  "title": "US designates Brazil’s two largest gangs as terrorist organizations",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Fri, 29 May 2026 12:31:26 GMT",
+  "sha256": "166077088b63e6932b62fc6633e0aae1e0225e846b0d2842813c648843862e91",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-29T12:45:32.825740+00:00",
+  "text_chars": 4308,
+  "raw_path": "data/geopolitics/raw/166077088b63e6932b62fc6633e0aae1e0225e846b0d2842813c648843862e91.html",
+  "text_path": "data/geopolitics/raw/166077088b63e6932b62fc6633e0aae1e0225e846b0d2842813c648843862e91.txt"
 }

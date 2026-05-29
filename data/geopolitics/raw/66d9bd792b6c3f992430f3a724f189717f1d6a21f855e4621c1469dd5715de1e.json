@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "video_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-05-29T12:44:56.979112+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.france24.com/en/video/20260529-closer-to-war-or-to-peace-us-iran-near-deal-on-60-day-ceasefire",
+  "title": "Closer to war or to peace? US, Iran near deal on 60-day ceasefire",
+  "source": "https://www.france24.com/en/rss",
+  "published": "Fri, 29 May 2026 11:35:49 GMT",
+  "sha256": "66d9bd792b6c3f992430f3a724f189717f1d6a21f855e4621c1469dd5715de1e",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-29T12:45:02.579421+00:00",
+  "text_chars": 347,
+  "raw_path": "data/geopolitics/raw/66d9bd792b6c3f992430f3a724f189717f1d6a21f855e4621c1469dd5715de1e.html",
+  "text_path": "data/geopolitics/raw/66d9bd792b6c3f992430f3a724f189717f1d6a21f855e4621c1469dd5715de1e.txt"
 }

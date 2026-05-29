@@ -1,0 +1,138 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-05-29T12:45:38.628834+00:00",
+  "new_documents": 21,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.txt",
+      "metadata_path": "data/geopolitics/raw/52ed466937957a27670d476fd1a3a385f7e9510dc1c5e8494a7e437d05e978a4.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.txt",
+      "metadata_path": "data/geopolitics/raw/6f04fe216dc3abb8b7360f8bf74c7b81633f968106e33b27bc6da730ecd3a29e.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/c5fdcfb70c725fecc9976c6c1a4ecae02c839b9c39b20629c9a2d51f19dcf27d.txt",
+      "metadata_path": "data/geopolitics/raw/c5fdcfb70c725fecc9976c6c1a4ecae02c839b9c39b20629c9a2d51f19dcf27d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Closer to war or to peace? US, Iran near deal on 60-day ceasefire",
+      "url": "https://www.france24.com/en/video/20260529-closer-to-war-or-to-peace-us-iran-near-deal-on-60-day-ceasefire",
+      "text_path": "data/geopolitics/raw/66d9bd792b6c3f992430f3a724f189717f1d6a21f855e4621c1469dd5715de1e.txt",
+      "metadata_path": "data/geopolitics/raw/66d9bd792b6c3f992430f3a724f189717f1d6a21f855e4621c1469dd5715de1e.json"
+    },
+    {
+      "title": "Russian drone hits Romania apartment block, drawing NATO, EU outrage",
+      "url": "https://www.france24.com/en/video/20260529-russian-drone-hits-romania-apartment-block-drawing-nato-eu-outrage",
+      "text_path": "data/geopolitics/raw/44ebe0a0b560bea29eb018221b2cec1e6890d532f47bdc71f5a7666b899143f3.txt",
+      "metadata_path": "data/geopolitics/raw/44ebe0a0b560bea29eb018221b2cec1e6890d532f47bdc71f5a7666b899143f3.json"
+    },
+    {
+      "title": "Russian drone launched against Ukraine crashes in Romania, injuring 2",
+      "url": "https://www.france24.com/en/video/20260529-russian-drone-launched-against-ukraine-crashes-in-romania-injuring-2",
+      "text_path": "data/geopolitics/raw/77dd277f32acf9065b6488543ed443c2d0bcef488b800f378a16590fe263a557.txt",
+      "metadata_path": "data/geopolitics/raw/77dd277f32acf9065b6488543ed443c2d0bcef488b800f378a16590fe263a557.json"
+    },
+    {
+      "title": "NATO vows 'absolute solidarity' with Romania over Russian drone",
+      "url": "https://www.france24.com/en/video/20260529-nato-vows-absolute-solidarity-with-romania-over-russian-drone",
+      "text_path": "data/geopolitics/raw/5fc21d9c2168b6097e1ea37accaa16b2d01b83fd9359fd37c8ad8055b36d2233.txt",
+      "metadata_path": "data/geopolitics/raw/5fc21d9c2168b6097e1ea37accaa16b2d01b83fd9359fd37c8ad8055b36d2233.json"
+    },
+    {
+      "title": "Hungarian police approve Budapest Pride in break from Orbán era",
+      "url": "https://www.theguardian.com/world/2026/may/29/hungarian-police-approve-budapest-pride-despite-previous-ban",
+      "text_path": "data/geopolitics/raw/c0fc6c37210d5a67524ccdfb3d2c2ae4a58029f448c8fc2c70b0f495cc3fabcc.txt",
+      "metadata_path": "data/geopolitics/raw/c0fc6c37210d5a67524ccdfb3d2c2ae4a58029f448c8fc2c70b0f495cc3fabcc.json"
+    },
+    {
+      "title": "Myanmar: Drivers influencing mental health and psychosocial needs (Thematic Report 29 May 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/2479fddc-3857-5c1e-b1ff-4979f0859ccb/20260529_ACAPS_Myanmar_-_Drivers_influencing_mental_health_and_psychosocial_needs.pdf",
+      "text_path": "data/geopolitics/raw/044f2e63ea75da8beb5d5134a98d4d0fa401032411d4cce86e5f126d64002e9d.txt",
+      "metadata_path": "data/geopolitics/raw/044f2e63ea75da8beb5d5134a98d4d0fa401032411d4cce86e5f126d64002e9d.json"
+    },
+    {
+      "title": "US-Iran 60-day proposal: What we know",
+      "url": "https://www.aljazeera.com/news/2026/5/29/us-iran-60-day-proposal-what-we-know?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/f1bf783c33e2aefbd9f76a9bba310631e8faaca39c8b622be4d231f20344eea0.txt",
+      "metadata_path": "data/geopolitics/raw/f1bf783c33e2aefbd9f76a9bba310631e8faaca39c8b622be4d231f20344eea0.json"
+    },
+    {
+      "title": "WFP Sudan Country Brief May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/da3773b7-3d63-4d92-b8e5-d8567e31ea84/WFP%20Sudan%20Country%20Brief%20May%202026.pdf",
+      "text_path": "data/geopolitics/raw/e7497bc12f2ee318489b2d3f58334eee72b1289d8521b5064f8e54cebc8255a6.txt",
+      "metadata_path": "data/geopolitics/raw/e7497bc12f2ee318489b2d3f58334eee72b1289d8521b5064f8e54cebc8255a6.json"
+    },
+    {
+      "title": "Trump’s former attorney general to face closed-door questioning from House committee over Epstein files – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/may/29/donald-trump-pam-bondi-jeffrey-epstein-iran-redistricting-latest-news-updates",
+      "text_path": "data/geopolitics/raw/0a694c81e3c4a9e861c42adab068e33644d89182d471df67ab801b51a2e32694.txt",
+      "metadata_path": "data/geopolitics/raw/0a694c81e3c4a9e861c42adab068e33644d89182d471df67ab801b51a2e32694.json"
+    },
+    {
+      "title": "Quad nations step up Indo-Pacific push with new initiatives",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/05/29/quad-nations-step-up-indo-pacific-push-with-new-initiatives/",
+      "text_path": "data/geopolitics/raw/c53ddc6a625b33a05fe0b68d839a3c50e5a41bfe39d0c5d919e452fcfe29642c.txt",
+      "metadata_path": "data/geopolitics/raw/c53ddc6a625b33a05fe0b68d839a3c50e5a41bfe39d0c5d919e452fcfe29642c.json"
+    },
+    {
+      "title": "US designates Brazil’s two largest gangs as terrorist organizations",
+      "url": "https://www.theguardian.com/world/2026/may/29/brazil-gangs-terrorist-rubio",
+      "text_path": "data/geopolitics/raw/166077088b63e6932b62fc6633e0aae1e0225e846b0d2842813c648843862e91.txt",
+      "metadata_path": "data/geopolitics/raw/166077088b63e6932b62fc6633e0aae1e0225e846b0d2842813c648843862e91.json"
+    }
+  ],
+  "txt_before": 498,
+  "txt_after": 509
+}

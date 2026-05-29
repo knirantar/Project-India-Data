@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/2479fddc-3857-5c1e-b1ff-4979f0859ccb/20260529_ACAPS_Myanmar_-_Drivers_influencing_mental_health_and_psychosocial_needs.pdf",
+  "title": "Myanmar: Drivers influencing mental health and psychosocial needs (Thematic Report 29 May 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 29 May 2026 08:03:08 +0000",
+  "sha256": "044f2e63ea75da8beb5d5134a98d4d0fa401032411d4cce86e5f126d64002e9d",
   "content_type": "application/pdf",
-  "collected_at": "2026-05-29T12:44:56.979112+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-05-29T12:45:22.157811+00:00",
+  "text_chars": 35370,
+  "raw_path": "data/geopolitics/raw/044f2e63ea75da8beb5d5134a98d4d0fa401032411d4cce86e5f126d64002e9d.pdf",
+  "text_path": "data/geopolitics/raw/044f2e63ea75da8beb5d5134a98d4d0fa401032411d4cce86e5f126d64002e9d.txt"
 }

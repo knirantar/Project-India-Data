@@ -1,0 +1,508 @@
+1      Any comments or questions? Please contact us at info@acaps.org
+Thematic report 
+29 May 2026
+OVERVIEW OF MENTAL HEALTH AND PSYCHOSOCIAL NEEDS IN MYANMAR
+The population of Myanmar is experiencing widespread and severe mental health 
+and psychosocial support (MHPSS) needs driven by decades of conflict and political 
+instability. Since the country’s independence in 1948, recurrent displacement, 
+economic deterioration, and climate hazards have exposed people to multiple, often 
+prolonged psychosocial stressors (Lieber Institute 09/12/2025; OCHA 10/12/2025) . Since 
+the February 2021 military takeover, populations have been increasingly exposed 
+to potential sources of trauma and distress across the country. By March 2026, 
+an estimated 45% of the population was in need of humanitarian assistance, with 
+around half the population estimated to be directly exposed to armed conflict, 
+including widespread air strikes, armed violence, and other human rights abuses 
+(WHO 09/03/2026; Fortify Rights 29/01/2026) . Displacement – which affects nearly 3.7 
+million people (6% of the population) – is a major compounding driver of MHPSS 
+needs, leaving IDPs at risk of anxiety, including fear of air strikes and other forms 
+of violence, as well as uncertainty about their future (UNHCR accessed 28/05/2026) . 
+These factors collectively contribute to weakened psychosocial resilience at 
+both household and community levels. The breakdown of health, education, and 
+protection systems, particularly in conflict-affected areas, has reduced access 
+to essential MHPSS structures, including informal community networks (OCHA 
+10/12/2025). At the same time, economic deterioration has limited households’ coping 
+capacities to meet basic needs, increasing reliance on potentially harmful coping 
+strategies and aggravating psychological strain. Geophysical events, including the 
+2025 earthquake and its aftershocks, have introduced acute and longer-term effects 
+of trauma and anxiety, further compounding existing stressors in conflict-affected 
+areas (STC 28/03/2026; UNICEF 28/05/2025) . 
+Despite significant mental health risks across the country, especially for 
+communities affected by conflict or climate hazards, access to MHPSS services 
+remains highly constrained and uneven. 
+Map 1. Drivers of MHPSS needs in Myanmar
+Armed conflict/violence
+Unemployment/loss of income
+Source: OCHA (10/12/2025)
+MYANMAR  
+Drivers influencing mental health and psychosocial needs
+Thematic report | 29 May 2026
+2
+The full spectrum of MHPSS services in Myanmar 
+is historically under resourced, largely available only 
+in urban areas, and poorly integrated into primary 
+healthcare, leaving rural and conflict-affected 
+populations with especially limited access (WHO accessed 
+24/04/2026). In many areas, service provision relies on 
+community-based and informal support networks, with 
+limited availability of specialised MHPSS care. While 
+humanitarian organisations deliver MHPSS services, 
+their response capacity is insufficient relative to the scale 
+of needs, largely owing to access limitations resulting 
+from armed conflict, particularly in high-needs-severity 
+areas, such as Rakhine state and Sagaing region. As 
+a result, many affected populations rely on informal 
+coping mechanisms, including family and community 
+support, which, while potentially helpful, do not offer 
+the specialised support some individuals need (Tun et al. 
+19/12/2025; KII 23/04/2026) .
+Despite variations in context and severity across 
+geographic and administrative areas, several factors 
+consistently emerge as key drivers of MHPSS needs 
+across Myanmar. These include, but are not limited to, 
+the impacts of prolonged exposure to armed conflict, 
+conscription-related anxiety among youth, limited 
+MHPSS support targeting caregivers, the additional 
+psychological burden created by the 2025 earthquake in 
+conflict-affected areas, and longstanding limitations on 
+state and civil society protection and health responders 
+that constrain people’s access to MHPSS services. While 
+the severity of these stressors differs across locations, 
+consultations with grassroots and international MHPSS 
+responders indicate that affected populations are 
+experiencing overlapping pressures that continue to 
+erode communities’ coping capacities.
+Figure 1. Drivers influencing MHPSS needs
+Source: ACAPS
+Thematic report | 29 May 2026
+3
+ABOUT THIS REPORT
+Methodology and limitations
+ACAPS collected primary data for the analysis through key informant interviews (KIIs), 
+which contributed to the identification and prioritisation of risk factors presented 
+in this report. Discussions with humanitarian workers, MHPSS practitioners, and 
+community-based responders across Myanmar informed the analysis, and the 
+report used secondary data to design data collection tools and to triangulate and 
+corroborate findings from primary data sources.
+Significant data limitations remain, a result of Myanmar’s security-sensitive context, 
+which hampers information-sharing and limits access for assessments. These 
+constraints affect the availability and representativeness of data.
+The risk factors presented in this report are not exhaustive but reflect those most 
+consistently identified through KIIs and consultations with operational responders. 
+While these factors are presented analytically as distinct categories, much of the 
+population experiences them simultaneously, often in overlapping and reinforcing 
+ways.
+Available assessments – including multi-sector needs assessments (MSNAs) 
+– indicate that in several regions, these stressors are not only associated with 
+increased psychological distress but may also act as triggers for more severe 
+mental health outcomes, including self-harm and suicide.
+GAPS IN MENTAL HEALTH SERVICE PROVISION 
+Mental health service provision within the health system
+Figure 2: Intervention pyramid for MHPSS in emergencies
+  
+Source: IASC (01/06/2007)
+Historically, Myanmar’s health system has been significantly under-resourced, with 
+mental health receiving limited priority. Prior to 2022, the absence of an up-to-date 
+mental health policy and implementation plan hindered service development and 
+coordination, restricting access to mental healthcare as part of primary care (HelpAge 
+18/12/2019; WHO 06/09/2022). Until 2022, service provision remained highly centralised, 
+limited, and largely concentrated in urban areas, with only two specialised mental 
+health hospitals (in Yangon and Mandalay cities), two tertiary-level drug treatment 
+hospitals, and 17 general hospitals equipped with mental health units at the secondary 
+level. Community-based services were largely absent, with no rehabilitation centres
+Thematic report | 29 May 2026
+4
+for substance abuse and no dedicated system for estimating or forecasting the 
+supply of essential psychotropic medications (WHO 06/09/2022) . After the 2021 
+coup, many health professionals, including the few available specialised MHPSS 
+practitioners, walked out during the civil servants’ Civil Disobedience Movement. 
+Some refused to work under military authority, with many leaving the country (KII 
+23/04/2026; TNH 04/01/2022; PHR et al. 26/01/2022; Wootton et al. 18/09/2025) .
+Since 2021, at least 1,900 incidents of violence against the healthcare system 
+have been reported across Myanmar, and the destruction of infrastructure and 
+obstruction of services have significantly reduced healthcare access, including to 
+MHPSS services (Insecurity Insight 24/04/2026) . The depletion of health facilities not 
+only reduces the availability of MHPSS services for individuals in need but also 
+contributes directly to increased psychosocial distress. According to the 2025 
+MSNA, concerns about the destruction of the health system and limited access to 
+healthcare and specialised services, particularly in Ayeyarwady region, Bago (West) 
+region, Chin state, Kachin state, Magway region, Rakhine state, and Tanintharyi 
+region, have become significant household stressors. In areas experiencing lower 
+levels of active violence, anxiety over deteriorating health conditions and inadequate 
+access to care has emerged as a primary driver of psychosocial distress  (OCHA 
+10/12/2025).
+Map 2. States reporting health concerns as a driver of MHPSS needs
+41-54%
+21-40%
+1-20%
+Source: OCHA (10/12/2025)
+Thematic report | 29 May 2026
+5
+Human resources 
+Myanmar has a severely limited mental health workforce, with shortages of key 
+professional personnel, including psychiatrists, counsellors, mental health nurses, 
+social workers, and psychiatric rehabilitation specialists. Psychology training is 
+generally limited to a three-year bachelor’s degree that provides foundational 
+theoretical knowledge but does not fully equip graduates with the clinical 
+competencies required to diagnose or treat mental health conditions. Other health 
+professionals, including doctors and nurses, receive minimal exposure, with only a 
+few hours of mental health training during their four-year undergraduate medical 
+programmes (WHO 06/09/2022) . The absence of postgraduate (master’s level) training 
+programmes contributes to a shortage of specialised personnel, resulting in 
+significant gaps in diagnosis, referral of severe cases, and access to appropriate 
+psychotropic medication (Health Cluster 08/12/2025; KII 01/05/2026) . Despite an increase 
+in the mental health workforce between 2014–2020, there remains less than one 
+mental health worker per 100,000 people in Myanmar. This does not match the 
+growing mental health needs in the country, hindering efforts to integrate mental 
+health services into primary healthcare (WHO 06/09/2022) .
+In 2025, the WHO Mental Health Gap Action Programme was translated into Burmese. 
+This is likely to strengthen the capacity of non-specialist health workers, support 
+the integration of mental health into primary healthcare and humanitarian response 
+settings, and help frontline providers identify, manage, and refer common mental 
+health conditions for appropriate care (WHO 19/12/2025; KII 01/05/2026) . Evidence from 
+multiple countries shows that integrating the programme into health worker training 
+improves the management of mental health disorders, particularly in low-resource 
+settings with few mental health specialists (Chaulagain et al. 29/06/2020) .
+Operational challenges further affect service delivery. High levels of displacement 
+and mobility, driven by conflict and economic pressures, contribute to service 
+disruptions and require repeated investment in training new providers (MSF 
+10/10/2023). Private sector groups are also engaged in MHPSS provision, primarily 
+through remote or online platforms (UNFPA Myanmar 28/06/2023) . The heavy reliance 
+on remote and online delivery, however, requires sustained trust-building and 
+perceptions of confidentiality so individuals can engage effectively with services. 
+The cost implications of the service, as well as limited internet connectivity, digital 
+literacy barriers, and insecurity in conflict-affected areas, may limit access (KII 
+16/03/2026; UNFPA 14/06/2023) .
+Role of non-state groups in covering gaps
+In many conflict-affected areas of Myanmar, particularly in Kayah state, 
+Rakhine state, and Sagaing region, international and national NGOs, alongside 
+community-based organisations, play a central role in delivering MHPSS 
+services (WHO 09/03/2026; KII 23/04/2026) . Given the limited availability of 
+specialised mental health professionals in Myanmar, current interventions 
+are largely concentrated at levels two and three of the Interagency Standing 
+Committee intervention pyramid, emphasising the strengthening of community 
+and family support systems and providing focused, non-specialised 
+psychosocial interventions for individuals or smaller groups experiencing 
+heightened distress. As a result, organisations prioritise capacity-building 
+initiatives targeting community members, teachers, frontline responders, 
+and volunteers to deliver more basic psychosocial support and community-
+based care in areas where specialised services remain limited or inaccessible. 
+While this model expands reach and aims to build individual and community 
+psychosocial resilience, there are limitations in the scope of care. Non-
+specialist providers are typically trained to address specific conditions, such 
+as mild to moderate anxiety, depression, and stress-related disorders, and 
+require supervision and referral pathways for more complex cases. In practice, 
+this can disrupt continuity of care, particularly when referral options are limited 
+or geographically inaccessible (KII 01/05/2026; WHO 24/06/2019) .
+Thematic report | 29 May 2026
+6
+ARMED CONFLICT AND VIOLENCE
+Map 3. States reporting conflict as a driver of MHPSS needs
+Source: OCHA (10/12/2025)
+Armed conflict is a central driver of MHPSS needs in frontline areas of Myanmar. 
+Conflict is associated with a range of mental health outcomes and risks, as not 
+all affected populations develop mental health disorders. Impacts largely depend 
+on individual and community coping capacities, including access to community 
+networks and religious practices. In Myanmar, the protracted nature of the crisis, 
+repeated exposure to violence and displacement, and declining access to social and 
+economic support systems continue to erode coping capacities (Tun et al. 19/12/2025; 
+OCHA 10/12/2025; HRW 16/01/2025; UN HRC 02/10/2024)
+Conflict-related displacement condition s are also associated with a heightened 
+risk of MHPSS needs. Increased exposure to insecurity – including fear of air strikes 
+targeting displacement sites – and increased risk of forced eviction, gender-based 
+violence (GBV), and livelihood loss contribute to these outcomes (AP 23/01/2026). By 
+April 2026, an estimated 3.7 million people were internally displaced in Myanmar, 
+many residing in informal settlements or displacement sites with limited access to 
+basic services (UNHCR 07/04/2026) . In 2024, a small qualitative study in Bago (East) 
+region, Kayah state, and Kayin state found that even though some displacement 
+sites were located away from active frontline areas, the persistent threat of air strikes 
+diminished psychological security and led displaced communities to experience 
+significant anxiety. Consulted IDPs also frequently reported emotional exhaustion, 
+feelings of helplessness, and trauma effects, while humanitarian responders 
+described experiencing anxiety and guilt over their inability to deliver sufficient 
+assistance (Tun et al. 19/12/2025; KII 23/04/2026; KHRG 08/07/2022; KII 16/03/2026) .
+The war tactics deployed by the military, ethnic armed organisations (EAOs), People’s 
+Defence Forces, and local resistance groups formed in opposition to military rule 
+further aggravate mental health risks. 
+• The military relies on indiscriminate aerial bombardment of civilian areas  in 
+Chin, Kayah, Mon, and Rakhine states, as well as Sagaing region, including the 
+use of cluster munitions and air strikes on villages and displacement camps. 
+These attacks usually take place at night and without warning, making it harder 
+for civilians to flee or take shelter, sustaining fear among those who cannot 
+predict or protect against attacks from above, and increasing the risk of chronic 
+hypervigilance, sleep disturbances, and acute stress reactions (IISS 08/05/2025; 
+KHRG 08/07/2022; UN HRC 27/04/2026; AJ 27/05/2024) .
+Thematic report | 29 May 2026
+7
+Figure 3.  Mental health and psychosocial risks caused by conflict
+Source: ACAPS
+• The military has deployed extensive, systematic arson attacks on villages in 
+opposition strongholds in Chin state, Magway region, Mandalay city, Rakhine 
+state, Sagaing region, and Tanintharyi region, destroying more than 100,000 
+homes since 2021 (UN HRC 27/04/2026; Mizzima 22/02/2026; PV 08/03/2025) . Several key 
+informants observed that the deliberate nature of the arson attacks and their 
+recurrence across affected areas have contributed to sustained perceptions of 
+insecurity and unpredictability, elevating anxiety among affected communities 
+(KII 30/04/2026; KII 16/03/2026) .
+• The military’s and EAOs’ extensive use of antipersonnel landmines, combined 
+with reports of both groups forcing civilians to act as ‘human minesweepers’ or 
+engage in mine-clearing activities, has significantly heightened MHPSS risks in 
+Chin, Kayin, Mon, and Rakhine states, as well as Tanintharyi region, which are 
+among the areas most heavily contaminated by landmines. In 2025, the country 
+recorded 2,029 landmine casualties – the highest number reported globally (ECHO 
+04/12/2025; UNICEF 10/10/2025; KII 28/04/2026) . Many survivors sustain life-changing 
+injuries, including amputations, which may increase the risk of acute and longer-
+term mental health disorders, including depression, as individuals readjust to 
+living with their injuries (ICRC 11/03/2022) . Amputees may face additional mental 
+health risks because of harassment and suspicion of affiliation with armed 
+groups, reinforcing isolation and stigma (UN HRC 22/11/2024).
+“Amputees are being forced into hiding to avoid harassment and arrest, as a missing 
+limb has become a source of suspicion that they are part of the resistance.” (UN HRC 
+22/11/2024)
+Conflict has also significantly heightened GBV risks, particularly for women and 
+girls affected by conflict, insecurity, and repeated displacement (Protection Cluster 
+13/12/2024). Although underreporting means that prevalence data is unlikely to reflect 
+the scale of GBV in emergency settings, reports indicate rising incidents of sexual 
+violence, intimate partner violence, exploitation, forced marriage, and trafficking, 
+especially in areas affected by conflict and other access constraints, which limit 
+protection services (OHCHR 03/07/2024; UN Women 27/02/2024) . All these forms of 
+violence can have acute and longer-term detrimental impacts on survivors’ mental 
+health and wellbeing. Movement restrictions, overcrowded displacement sites, the 
+collapse of community protection mechanisms, and reduced access to healthcare 
+and legal support also further heighten women’s and girls’ vulnerabilities to GBV and 
+impede survivors’ access to services that can help support their recovery. At the 
+same time, insecurity, fear of stigma, and the limited availability of specialised GBV 
+services continue to constrain reporting and access to survivor-centred support 
+(including for MHPSS), increasing the risk of long-term physical and psychosocial 
+harm among affected populations (Protection Cluster 20/02/2025; UN HRC 01/07/2024; Linn 
+et al. 18/08/2025).
+The disruption of education  has significantly increased MHPSS risks, particularly 
+among children in frontline areas. The closure and destruction of schools in states 
+such as Rakhine deprive children of safe and structured environments that provide 
+stability, social interaction, and emotional support, exposing many to MHPSS risks 
+(UNICEF 28/08/2025; FCA 20/11/2025; EiE Hub accessed 24/05/2026; Cesvi 23/01/2026) . Children 
+have been observed playing unsupervised in known ordnance-contaminated areas 
+and other unsafe areas, engaging in child labour, and, for adolescents, engaging in 
+substance abuse (KII 23/04/2026; Ballard Brief 24/03/2022; Huh et al. 01/03/2022) .
+Thematic report | 29 May 2026
+8
+Map 4. States reporting the presence of mines and explosive ordnance as a 
+driver of MHPSS needs
+Source: OCHA 10/12/2025
+Map 5. States reporting livelihood loss as a driver of MHPSS needs 
+Source: OCHA 10/12/2025
+Thematic report | 29 May 2026
+9
+The destruction of livelihoods, income loss, and worsening economic insecurity 
+also heighten stress, uncertainty, and feelings of hopelessness across the 
+country. In areas experiencing active conflict, communities further face movement 
+restrictions that disrupt access to markets, trade, and income-generating activities, 
+undermining household resilience and aggravating mental health and psychosocial 
+risks (UNDP 10/10/2025; OGR 16/04/2026; WB 06/12/2025) .
+CONSCRIPTION AND FORCED RECRUITMENT
+Conscription and forced recruitment by both the military and EAOs have emerged 
+as major drivers of declining mental health among young men and ethnic minority 
+communities (UNDP 10/10/2025; MOHR 28/04/2025; KHRG 31/03/2025) . In 2024, the 
+Government activated a 2010 conscription law requiring compulsory military service 
+for men ages 18–35 and women ages 18–27. Introduced amid mounting military 
+casualties and defections following the 2021 coup, the law has heightened fears of 
+forced enlistment, particularly among young men who face increased targeting and 
+enforcement measures despite the law applying to both men and women (OHCHR 
+21/02/2024; BBC 27/02/2024; The Diplomat 03/01/2024) . Reports suggest that anxiety and 
+deterioration in mental health and wellbeing – often presenting as social withdrawal 
+and hypervigilance, particularly among youth – have intensified. This is likely a 
+result of the threat of arbitrary arrests, night raids, and the military’s and EAO’s 
+coercive recruitment practices, which include abductions, forced portering, and the 
+recruitment of child soldiers by armed groups in areas such as Kachin, Karen, and 
+Shan states (The Diplomat 03/01/2024; GCHR 27/02/2025; UNDP 10/10/2025; MOHR 28/04/2025; 
+SAJ 13/06/2024).
+Across Myanmar, conscripted soldiers, many of whom are reportedly untrained, are 
+being deployed to conflict-affected areas with limited support and high exposure 
+to violence and insecurity. At the same time, families often receive little or no 
+information regarding their whereabouts, safety, or condition, creating prolonged 
+uncertainty, fear, and emotional distress. The absence of communication, combined 
+with concerns over injury, death, detention, or forced recruitment, is likely to increase 
+MHPSS needs among family members (BBC 11/11/2024). In 2025, young men reported 
+heightened concerns about personal safety as a result of perceived conscription 
+risks irrespective of the recruiting group. A UNDP report found that feelings of 
+insecurity increased after dark, with over 40% of youth reporting feeling ‘unsafe’ or 
+‘very unsafe’ when walking alone at night, more than double pre-2021 levels, likely 
+caused in part by the reenactment of the conscription law (UNDP 10/10/2025).
+Map 6. States reporting conscription as a driver of MHPSS needs 
+Source: OCHA (10/12/2025)
+Thematic report | 29 May 2026
+10
+In 2024, because of conscription, young men reported slightly higher levels of 
+perceived safety concerns (16.7%) than young women (13.4%), diverging from 
+broader global patterns where women typically report greater safety concerns (UNDP 
+10/10/2025).
+Fear of recruitment has prompted many men to restrict their movement or flee 
+their communities. As male family members flee, hide, or are forcibly recruited, 
+many women face increased caregiving responsibilities and economic pressure, 
+contributing to heightened household MHPSS needs (ISP 26/07/2024; RFA 26/06/2024; 
+The Diplomat 07/07/2024). Youth of conscription age who limit their movements to avoid 
+being identified can experience exclusion from urban centres and constrained access 
+to employment, while the detention or loss of primary earners further weakens 
+household coping capacity. Some families also incur additional financial burdens 
+when bribed to avoid conscription, compounding economic strain and associated 
+psychological stress (KHRG 31/03/2025) . At the same time, growing mistrust within 
+communities, as people fear being reported as eligible for conscription, has eroded 
+social networks critical to collective wellbeing and psychosocial resilience (HBS 
+15/09/2025; The Diplomat 03/01/2024) .
+MARCH 2025 EARTHQUAKE 
+The magnitude-7.7 earthquake on 28 March 2025 killed people and livestock, 
+damaged housing and infrastructure, and disrupted livelihoods and services, 
+exposing the people in Magway region, Mandalay city, and Sagaing region to 
+potentially heightened mental health risks in contexts where broader national 
+instability had already strained coping mechanisms (WHO 09/03/2026; MSF 11/06/2025 
+and 10/04/2025) . Six months after the earthquake, communities reported heightened 
+anxiety regarding their immediate future, including concerns related to accessing 
+basic services (MSF 12/06/2025) . 
+In Mandalay and parts of Magway – areas comparatively less exposed to sustained 
+armed conflict since the 2021 coup – the earthquake introduced a new and acute 
+natural hazard stressor. Many urban and peri-urban households in the affected 
+areas had previously maintained relative stability. In these contexts, the earthquake 
+introduced an acute and potentially longer-term stressor that contributed to 
+heightened anxiety, fear, and uncertainty. In more heavily conflict-affected areas, 
+the earthquake likely compounded pre-existing stress and trauma, further straining 
+already weakened coping capacities and increasing vulnerability to psychosocial 
+distress (KII 01/05/2026; OCHA 10/12/2025; MSF 11/06/2025; WHO 09/03/2026) . Immediately 
+after the earthquake, affected communities faced not only acute stressors 
+associated with the earthquake but also additional conflict-related MHPSS risks 
+as the military carried out air strikes in opposition strongholds (IISS 08/05/2025; HRW 
+27/03/2026). 
+In contrast, the earthquake-affected communities in Sagaing region had already 
+endured years of intense conflict, displacement, and loss. In an assessment 
+conducted after the earthquake, 67% reported anxiety associated with both the 
+earthquake and the conflict (UN 24/06/2025) . The convergence of conflict-related 
+trauma and hazard-related shocks increases affected communities’ risk of MHPSS 
+needs (UNICEF 18/02/2026; WHO 30/05/2025) .
+Aftershocks have emerged as recurring stressors, particularly for populations still 
+recovering from initial losses. More than 140 aftershocks, including some reaching 
+a magnitude of 5.9, were recorded in the weeks following the earthquake (USGS 
+accessed 04/05/2026; UN 18/04/2025) . Continued seismic activity has prolonged fear of 
+further earthquakes and destruction, reinforcing a state of heightened alert and 
+psychological strain, with many households continuing to sleep outdoors because 
+of concerns about the further collapse of or damage to their homes (KII 30/04/2026; 
+MSF 12/06/2025; UN 18/04/2025) .
+The earthquake’s mental health impacts appear to vary across population groups, 
+with certain groups facing heightened risks because of pre-existing vulnerabilities 
+or specific exposure patterns. Rapid needs assessments after the earthquake 
+confirmed rising mental health challenges among women and girls, as overcrowded 
+displacement sites with limited privacy and inadequate security increased exposure 
+to GBV, a known contributor to poor mental health (GiHA WG 08/2025; UN 03/04/2025) . 
+Even after six months, children continued to report persistent fear and anxiety, with 
+reported behavioural changes including increased dependency on caregivers, sleep 
+disturbances, and heightened startle responses (STC 26/09/2025; HelpAge 09/05/2025) .
+The earthquake also heavily affected religious monuments and temples, which 
+often serve as important sources of informal and non-specialised MHPSS services 
+through community gatherings, spiritual counselling, collective mourning, and 
+social connection. It destroyed almost 10,000 religious sites across affected areas 
+(RFA 14/04/2025) . The loss of these spaces has not only further reduced already-
+limited mental health service capacity in affected townships but also weakened the 
+community-based support systems that populations rely on for emotional support, 
+increasing psychosocial risks (Health Cluster 08/12/2025; UNDP 30/09/2025; KII 01/05/2026) .
+Thematic report | 29 May 2026
+11
+Map 7. Earthquake-affected areas control status in 2025
+Sources: USGS (accessed 06/06/2025); COAR (accessed 09/04/2026); Worden et al. (2012) 
+Notes:All hand-drawn maps are indicative.
+Thematic report | 29 May 2026
+12
+LIMITED MHPSS SERVICES TARGETING CAREGIVERS
+Layered stressors associated with conflict – including displacement, trauma 
+exposure, financial strain, and prolonged insecurity – combined with limited access 
+to psychosocial support, may undermine caregivers’ ability to provide consistent 
+care, emotional support, and protection. These pressures can heighten the risk of 
+family stress (Pearson et al. 24/10/2025) .
+In contexts where caregivers face unaddressed stress, anxiety, or trauma, they may 
+have reduced capacity to provide stable emotional support and consistent care 
+to children, older people, people with health issues, and people with disabilities. 
+This is particularly significant in displacement settings and conflict-affected areas, 
+where overcrowding, poverty, and repeated exposure to violence have weakened 
+traditional family and community coping mechanisms. A 2024 study indicated that 
+violence against children had increased since 2021, with at least 80% of respondents 
+reporting experiences of caregiver psychological violence between 2023–2024 
+(Pearson et al. 24/10/2025) .
+Caregivers in conflict-affected areas face elevated mental health risks and extremely 
+limited mental health services. As a result, those facing stress or anxiety may 
+aggravate children’s pre-existing mental health risks (KII 23/04/2026; PATH 15/01/2026; 
+Bendavid et al. 13/01/2022; Ferrara et al. 12/2025) . 
+In many cases, caregivers themselves do not know how to identify signs of MHPSS 
+needs in children or respond to trauma-related behaviours, limiting early support and 
+referral pathways (Ferrara et al. 12/2025; Tun et al. 19/12/2025; KII 21/04/2026) . The absence 
+of adequate caregiver-focused MHPSS interventions may contribute to longer-
+term psychosocial risks for children (KII 05/01/2026; WHO 06/09/2022) . Humanitarian 
+responders in Myanmar highlight how caregivers’ weakened mental health conditions 
+place a growing emotional burden on children, while access to specialised mental 
+health services remains limited, particularly in areas experiencing access constraints 
+(Rizkalla et al. 12/11/2020; Bendavid et al. 06/02/2021) . Disruptions to education are likely to 
+compound these MHPSS risks, as school closures and interrupted learning reduce 
+children’s access to structured environments, peer support networks, and school-
+based psychosocial services that can help mitigate distress and identify children in 
+need of protection services (De Lille et al. 24/06/2025; UNICEF 31/07/2024) .
+Role of community networks
+Given the limited availability of formal MHPSS services across much of 
+Myanmar, communities continue to rely heavily on informal support networks, 
+including family structures, community groups, religious leaders, monasteries, 
+and community-based organisations. These networks play an important 
+role in providing emotional support, strengthening social connectedness, 
+and offering practical assistance that can help mitigate psychosocial stress 
+during periods of crisis and displacement. For displaced populations, peer and 
+family support systems, religious practices, and shared expectations of future 
+political change are reported to help affected people cope with insecurity (KII 
+23/04/2026; KII 16/03/2026; Tun et al. 19/12/2025) . 
+Community-based organisations, religious groups, and grassroots NGOs also 
+play an important role in providing non-specialised psychosocial support and 
+identifying individuals in need of referral to more specialised MHPSS services, 
+where available. Humanitarian interventions such as psychological first aid 
+– an approach that provides humane, supportive, and practical assistance to 
+individuals experiencing distress – as well as self-care interventions aimed 
+at helping individuals and caregivers manage stress, maintain emotional 
+wellbeing, and strengthen coping strategies – contribute to reinforcing 
+community-level coping mechanisms and mutual support structures (KII 
+23/04/2026; KII 01/05/2026) . While these informal support networks do not replace 
+specialised mental health services, they provide an important protective 
+function by facilitating referrals where available, helping sustain social 
+cohesion, reducing isolation, and partially mitigating MHPSS risks in contexts 
+characterised by conflict, displacement, and limited access to formal care.
+“When community groups and organizations started showing up and providing 
+support, I slowly began to regain some hope. The next step is to think ahead.” 
+(MSF 12/06/2025)
+Thematic report | 29 May 2026
+13
+Role of the internet in aggravating mental health risks
+Since 2021, social media platforms have become central sources of 
+information, particularly in conflict-affected areas where access to traditional 
+media and services is constrained (K4DM 04/07/2025) . While these platforms 
+provide an important lifeline for communities seeking information, they are 
+also associated with increased mental health risks. Continuous exposure to 
+political developments, graphic conflict-related content, misinformation, and 
+reports of violence contributes to heightened MHPSS needs among users. The 
+rapid circulation of distressing images and rumours, often without verification, 
+also reinforces perceptions of insecurity and uncertainty (Thomas 08/2024) .
+In Myanmar, technology-facilitated GBV functions as a systematic state 
+weapon deployed by the military and affiliated groups to silence women’s 
+participation in political activities and enforce authoritarian control. By the end 
+of 2022, politically motivated online abuse targeting politically vocal women 
+had increased at least fivefold since immediately after the coup, with incidence 
+rates up to 500 times higher than international benchmarks, according to an 
+analysis of 1.6 million social media posts (HRM 05/11/2025; APC 21/04/2026) . A 
+primary tactic is doxxing, which involves the malicious release of women’s 
+private information, including addresses, phone numbers, and photographs. 
+This enables cascading offline consequences, including targeted arrest, sexual 
+violence threats, family harassment, and physical attacks when published 
+information allows perpetrators to locate survivors of technology-facilitated 
+GBV (APC 21/04/2026) .
+The military’s AI-powered Person Scrutinization and Monitoring System is 
+also understood to systematically profile individuals from conflict zones 
+and ethnic minority areas as resistance supporters, triggering their arbitrary 
+arrest, detention, and torture (PV 20/07/2025; Fulcrum 30/01/2026) . Women from 
+ethnic minorities in conflict-affected states, including Chin, Kachin, Kayah, 
+and northern Shan, face compounded risks as both their gender and ethnicity 
+trigger algorithmic targeting. This convergence of AI surveillance with 
+gendered violence has created persistent fear and hypervigilance, forcing self-
+censorship that eliminates women from political discourse, heightens MHPSS 
+risks linked to family safety following doxxing, and causes social isolation as 
+women withdraw from online and physical spaces to avoid targeting (Human 
+Rights Myanmar 20/11/2025).
+Figure 4. Role of the internet in aggravating mental health risks

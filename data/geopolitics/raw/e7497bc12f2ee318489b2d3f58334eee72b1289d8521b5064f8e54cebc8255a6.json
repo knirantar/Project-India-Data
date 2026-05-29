@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/da3773b7-3d63-4d92-b8e5-d8567e31ea84/WFP%20Sudan%20Country%20Brief%20May%202026.pdf",
+  "title": "WFP Sudan Country Brief May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 29 May 2026 09:25:45 +0000",
+  "sha256": "e7497bc12f2ee318489b2d3f58334eee72b1289d8521b5064f8e54cebc8255a6",
   "content_type": "application/pdf",
-  "collected_at": "2026-05-29T12:44:56.979112+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-05-29T12:45:28.104107+00:00",
+  "text_chars": 15811,
+  "raw_path": "data/geopolitics/raw/e7497bc12f2ee318489b2d3f58334eee72b1289d8521b5064f8e54cebc8255a6.pdf",
+  "text_path": "data/geopolitics/raw/e7497bc12f2ee318489b2d3f58334eee72b1289d8521b5064f8e54cebc8255a6.txt"
 }
