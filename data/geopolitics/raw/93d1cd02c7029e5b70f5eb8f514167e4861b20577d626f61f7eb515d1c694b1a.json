@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ef7e97902d24e10d206c287bd13388161bc52b3866e6e81bdce3ab0aed9c758e",
-  "content_type": "application/xml",
-  "collected_at": "2026-05-30T15:01:45.569556+00:00",
-  "text_chars": 824889,
-  "raw_path": "data/geopolitics/raw/ef7e97902d24e10d206c287bd13388161bc52b3866e6e81bdce3ab0aed9c758e.xml",
-  "text_path": "data/geopolitics/raw/ef7e97902d24e10d206c287bd13388161bc52b3866e6e81bdce3ab0aed9c758e.txt"
+  "url": "https://press.un.org/en/2026/db260529.doc.htm",
+  "title": "Daily Press Briefing by the Office of the Spokesperson for the Secretary-General",
+  "source": "https://press.un.org/en/rss.xml",
+  "published": "Fri, 29 May 2026 14:56:02 -0400",
+  "sha256": "93d1cd02c7029e5b70f5eb8f514167e4861b20577d626f61f7eb515d1c694b1a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-30T15:02:45.323225+00:00",
+  "text_chars": 17851,
+  "raw_path": "data/geopolitics/raw/93d1cd02c7029e5b70f5eb8f514167e4861b20577d626f61f7eb515d1c694b1a.html",
+  "text_path": "data/geopolitics/raw/93d1cd02c7029e5b70f5eb8f514167e4861b20577d626f61f7eb515d1c694b1a.txt"
 }
