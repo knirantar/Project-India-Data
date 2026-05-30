@@ -1,0 +1,75 @@
+KYIV, Ukraine — Russia is using GPS spoofing to steer Ukrainian strike drones off course and into NATO airspace, Lithuania said this week, days before one of 
+Moscow’s own drones hit a Romanian apartment block
+ and wounded two civilians — likely the first casualties on NATO soil since Russia’s 2022 invasion of Ukraine.
+Russia’s interference
+ reached Lithuania’s capital on May 20, when a 
+drone forced Vilnius into shelters
+, shut its airport and cleared parliament, the first such alert in the city since 2022. 
+The jamming has been escalating for nearly three years, since Russia began disrupting signals around the 2023 NATO summit in Vilnius, and now spikes whenever 
+Ukrainian
+ drones fly toward Russian targets.
+“This is the new reality of what the 
+Baltic states
+ face,” Lithuanian Defense Minister Robertas Kaunas said last week. 
+Romanian F-16s scrambled in response, President Nicușor Dan said.
+Unlike the attacks that struck homes in Romania on Friday, most of the drones that have crossed into Baltic airspace over the last few months have not been launched by Russia, but instead have been operated by Ukraine and thrown off course by Russia.
+Both strike drones launched at refineries and ports inside Russia and interceptor drones meant to take out incoming attacks have been steered off course and into NATO airspace by Russian spoofing several times over the last few years.
+They have already done damage on allied soil: one struck a Latvian oil depot on May 7, exploding on impact. On May 19, a Romanian F-16 on NATO patrol shot another down over Estonia, the 
+first time an allied jet had downed a drone
+ believed to be Ukrainian.
+From Kaliningrad, Russian transmitters broadcast counterfeit satellite signals strong enough to seize a drone’s navigation in flight, feed it false coordinates and send it off course.
+Lithuania counted 36 of those spoofing transmitters this week, up from three at the start of 2025, reaching 450 kilometers (280 miles) across the region, according to 
+Reuters
+.
+NATO has condemned each strike and scrambled jets to meet them, but has not threatened any retaliation.
+Romania’s foreign minister said the Galați strike could justify emergency consultations under NATO’s Article 4, the treaty’s mechanism for talks when a member’s security is threatened. 
+After speaking with Dan on Friday, Secretary-General Mark Rutte said the alliance stands ready to defend 
+“every inch”
+ of allied territory.
+No member, though, has invoked Article 5, the clause that treats an attack on one ally as an attack on all.
+Spoofing, meanwhile, is a form of electronic warfare that works by deception rather than brute force. 
+While jamming overwhelms a drone’s receiver with noise until it can no longer fix its position, spoofing instead sends a stronger, counterfeit signal that the receiver treats as genuine.
+“The idea behind spoofing is to create deception,” Thomas Withington, an electronic-warfare specialist at the Royal United Services Institute, told 
+PBS
+. 
+When a drone is fed a false fix, it can fly on a completely different path than its operator intended.
+The drones most exposed are Ukraine’s long-range models, which fly north toward Russian oil-export terminals on the Gulf of Finland, including Ust-Luga and Primorsk near St. Petersburg.
+Their routes hug the Baltic coast, where Russian electronic warfare is densest, and a drone that loses its true fix drifts into allied airspace, according to the 
+Atlantic Council
+.
+Drones crossed into Latvia “as a result of Russian electronic warfare systems,” Ukrainian Foreign Minister Andrii Sybiha said this month. 
+Ukraine’s own investigations, he said, “proved that this was the result of Russian electronic warfare deliberately diverting Ukrainian drones from their targets in Russia.”
+Outside researchers have started to locate the transmitters. 
+A team from Gdynia Maritime University and the University of Colorado 
+traced Baltic interference over the last year
+ to two coastal sites in Kaliningrad, near the town of Okunevo and the naval base at Baltiysk, each beside known Russian electronic-warfare units.
+“Interfering with GNSS signals is, unfortunately, very easy,” Ralf Ziebold of the German Aerospace Center told Defense News.
+The network has only grown more entrenched.
+“Now they have built up the infrastructure and the interference has become systemic, permanent,” Darius Kuliešius, deputy head of Lithuania’s communications regulator, told 
+Reuters
+ this week.
+Ukraine has spent weeks insisting the strays are not its fault. Kyiv says it never routes attacks through allied airspace and has apologized to the Baltic states for drones it argues Russian jamming pushed off course.
+Heorhii Tykhyi, the Foreign Ministry spokesperson, said as much after the Estonia shootdown on May 19. 
+“Moscow does this on purpose,” he said, apologizing to “Estonia and all our Baltic friends” and noting Ukraine’s only targets lie inside Russia.
+Russia has denied steering the drones, casting the incursions instead as proof that the Baltics are abetting Ukrainian attacks.
+To beat the spoofing, Ukraine is building drones that can fly without satellites at all.
+Newer long-range models carry controlled-reception-pattern antennas that filter out spoofing signals, plus cameras and inertial backups that hold a course when the satellite link drops. Kyiv unveiled one, the Sichen, built to fly “under conditions of active electronic warfare,” in April, according to 
+Militarnyi
+.
+Countering wired drones that emit no signal at all is another challenge. 
+“Fiber-optic drones have shown us that drones insensitive to electronic warfare are a serious threat to logistics and personnel,” Defense Minister Mykhailo Fedorov said last month.
+Kyiv is racing to field more of them, even building a shared ground station to fly them at scale, he said, though the skyrocketing cost of fiber-optic cable limits how far they reach.
+Officials from Kyiv and the Baltic states said they hope that increasing air defense coordination between countries in the region will help counter the threat, according to 
+ERR
+.
+Sybiha has offered to send Ukrainian experts to strengthen Baltic air defenses, and Kyiv and Vilnius agreed this week to build drones together and station Ukrainian specialists in Lithuania, according to 
+Militarnyi
+.
+The decision to fire on an intruding drone rests with national governments, not the alliance: NATO’s Baltic air-policing mission, 
+run from a combined air operations center in Uedem, Germany
+, intercepts only on a member’s behalf, and each country sets its own rules of engagement.
+Romania changed its law in 2024 to let its military shoot down intruding drones as a last resort, and its 
+pilots were cleared to fire over Galați
+ had they been able to do so without endangering civilians.
+For the alliance’s frontline states, the working assumption is that the drones will keep coming. 
+“We need to adapt,” Lithuanian Defense Minister Robertas Kaunas said, “because the possibility of repeated similar scenarios is very high.”
