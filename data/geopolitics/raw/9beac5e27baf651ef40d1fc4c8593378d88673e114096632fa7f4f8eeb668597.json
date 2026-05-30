@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-05-30T06:17:09.331207+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/05/1167610",
+  "title": "Gaza: 26 killed over Eid holiday, UN rights investigators report",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Fri, 29 May 2026 12:00:00 +0000",
+  "sha256": "9beac5e27baf651ef40d1fc4c8593378d88673e114096632fa7f4f8eeb668597",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-05-30T06:18:12.538859+00:00",
+  "text_chars": 3550,
+  "raw_path": "data/geopolitics/raw/9beac5e27baf651ef40d1fc4c8593378d88673e114096632fa7f4f8eeb668597.html",
+  "text_path": "data/geopolitics/raw/9beac5e27baf651ef40d1fc4c8593378d88673e114096632fa7f4f8eeb668597.txt"
 }
