@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-01T09:16:07.378464+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://warontherocks.com/fences-not-f-35s-drone-attacks-and-the-illogic-of-gulf-procurement/",
+  "title": "Fences Not F-35s: Drone Attacks and the Illogic of Gulf Procurement",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Mon, 01 Jun 2026 07:30:07 +0000",
+  "sha256": "0d6fe66135acbaf7c7eda6d226a022cc7e6b9e82556468434d38f179a7c8f25d",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-01T09:16:25.163079+00:00",
+  "text_chars": 24029,
+  "raw_path": "data/geopolitics/raw/0d6fe66135acbaf7c7eda6d226a022cc7e6b9e82556468434d38f179a7c8f25d.html",
+  "text_path": "data/geopolitics/raw/0d6fe66135acbaf7c7eda6d226a022cc7e6b9e82556468434d38f179a7c8f25d.txt"
 }

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-01T09:16:07.378464+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://foreignpolicy.com/2026/06/01/germany-merz-military-trump-rearm-bundeswehr-nato-europe/",
+  "title": "Germany Is Scrambling to Speed Up Its Rearmament",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Mon, 01 Jun 2026 08:18:45 +0000",
+  "sha256": "766dbcb753c62e5db698adb25aba4887c4d289cda6aa733a2116b6835da21fd5",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-01T09:16:37.661189+00:00",
+  "text_chars": 9193,
+  "raw_path": "data/geopolitics/raw/766dbcb753c62e5db698adb25aba4887c4d289cda6aa733a2116b6835da21fd5.html",
+  "text_path": "data/geopolitics/raw/766dbcb753c62e5db698adb25aba4887c4d289cda6aa733a2116b6835da21fd5.txt"
 }
