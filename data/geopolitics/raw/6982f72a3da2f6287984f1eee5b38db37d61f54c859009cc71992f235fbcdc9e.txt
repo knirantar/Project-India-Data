@@ -1,0 +1,2410 @@
+Ukraine Food Security 
+Assessment: Acute Food 
+Insecurity in the Frontline 
+ 
+May 2026
+Ukraine Food Security Assessment | 2026                   2 
+ 
+REQUIRED CITATION 
+WFP. 2026. Ukraine Food Security Assessment: Acute Food Insecurity in Frontline. Kyiv  
+ 
+ 
+ 
+ 
+Contributing authors: Chinedu Obi; Hanna Kurovska; Oksana Sokolenko; and Giada Dimaria 
+ 
+ 
+ 
+DISCLAIMERS 
+Notice encouraging dissemination: The World Food Programme encourages the dissemination of the material contained in this 
+publication on condition that reference is made to the source. 
+Disclaimer notices: The designations employed and the presentation of material in this information product do not imply the 
+expression of any opinion whatsoever on the part of the World Food Programme (WFP) concerning the legal or development 
+status of any country, territory, city or area or of its authorities, or concerning the delimitation of its frontiers or boundaries.  
+Maps: The designations employed and the presentation of material in the map(s) do not imply the expression of any opinion 
+whatsoever of WFP concerning the legal or constitutional status of any country, territory or sea area, or concerning the 
+delimitation of frontiers. 
+Views of the author: The views expressed in this publication are those of the author(s) and do not necessarily reflect the views of 
+WFP.  
+Accuracy at time of preparation: The conclusions given in this report are considered appropriate at the time of its preparation. 
+They may be modified in the light of knowledge gained at subsequent stages of the project. 
+Electronic notices. WFP declines all responsibility for errors or deficiencies in the database or software or in the documentation 
+accompanying it, including those that may arise from maintenance and upgrading, as well as for any damage that may result from 
+them. WFP also declines any responsibility for the misuse or misinterpretation of the data and assumes no responsibility for errors 
+and omissions in the data provided. Users are, however, kindly asked to report any errors or deficiencies in this product to WFP. 
+Please contact wfp.publications@wfp.org.
+Ukraine Food Security Assessment | 2026                                 3 
+ 
+CONTENTS 
+ 
+FIGURES AND TABLES 4 
+ABBREVIATIONS AND ACRONYMS 5 
+EXECUTIVE SUMMARY 6 
+CONTEXT OVERVIEW 8 
+HOUSEHOLD PROFILE 12 
+FOOD INSECURITY PREVALENCE 14 
+People in need of food assistance 14 
+Characteristics of food insecure households 17 
+DIMENSIONS OF FOOD INSECURITY 19 
+Household food consumption 19 
+Reduced coping strategies 21 
+Livelihood coping strategies 23 
+Economic capacity to meet needs 25 
+OVERLAPPING VULNERABILITIES 27 
+Insecurity 27 
+Limited livelihoods 28 
+Reduced home food production 31 
+Limited market functionality 32 
+Multidimensional deprivation 33 
+HUMANITARIAN ASSISTANCE 35 
+CONCLUSION 39 
+End Note 41 
+Photo Credits 43
+Ukraine Food Security Assessment | 2026                                 4 
+ 
+ FIGURES AND TABLES 
+ 
+Figure 1: Conflict and Attack Escalated in Ukraine in 2025 ................................ ................... 9 
+Figure 2: Heat Map of Stikes in 2025 ................................ ................................ .................... 11 
+Figure 3: Socio Economic Profile of Frontline Households ................................ ................. 13 
+Figure 4: HNRP and National PIN Methodology ................................ ................................ ... 16 
+Figure 5: Number of People in Need of Food Assistance ................................ .................... 16 
+Figure 6: Prevalence of People in Need of Food by Year ................................ .................... 17 
+Figure 7: Food Insecurity Prevalence by Groups ................................ ................................ . 18 
+Figure 8: Prevalence of Inadequate Food Consumption ................................ ..................... 20 
+Figure 9: Median Food Consumption by Food Types ................................ ..........................  20 
+Figure 10: Food Consumption Score by Groups ................................ ................................ .. 21 
+Figure 11: Food Coping Strategies by Location ................................ ................................ .... 22 
+Figure 12: Prevalence of Adoption of Coping Strategy ................................ ........................  22 
+Figure 13: Prevalence of Adoption of Livelihood Coping ................................ .................... 23 
+Figure 14: Prevalence of Low Economic Capacity by Location ................................ ........... 25 
+Figure 15:Unified Transfer Value and Gap ................................ ................................ ........... 26 
+Figure 16: Livelihood Opportunities and Aid Dependency ................................ ................. 29 
+Figure 17: Agriculture Activities in Frontline ................................ ................................ ......... 32 
+Figure 18: Share of Households Expressing Food Needs ................................ ................... 36 
+Figure 19: Expenditure by Decile, Assisted and Non-Assisted Households ...................... 37 
+ 
+Table 1: Number of People in Needs of Food Assistance ................................ ................... 15 
+Table 2: Types of Livelihoods Coping by Location ................................ ...............................  24 
+Table 3: Multidimensional Deprivation by Location ................................ ............................  34
+Ukraine Food Security Assessment | 2026                                 5 
+ 
+ABBREVIATIONS AND ACRONYMS 
+CARI Consolidated Approach for Reporting Indicators of Food Security 
+CATI Computer-Assisted Telephone Interviewing 
+DiD Difference-in-Differences 
+ECMEN Economic Capacity to Meet Essential Needs 
+FCS Food Consumption Score 
+FFSA Frontline Food Security Assessment 
+FI Food Insecure / Food Insecurity 
+GCA Government-Controlled Areas 
+HH Household 
+HNRP Humanitarian Needs and Response Plan 
+IDP Internally Displaced Person 
+IPC Integrated Food Security Phase Classification 
+KIIS Kyiv International Institute of Sociology 
+LCS Livelihood Coping Strategies 
+MEB Minimum Expenditure Basket 
+MDDI Multidimensional Deprivation Index 
+MSNA Multisectoral Needs Assessment 
+OT Occupied Territories 
+PIN People in Need 
+RDNA Rapid Damage and Needs Assessment 
+rCSI Reduced Coping Strategies Index 
+RF Russian Federation 
+SMEB Survival Minimum Expenditure Basket 
+SP Strategic Priority 
+UAH Ukrainian Hryvnia 
+WFP World Food Programme
+Ukraine Food Security Assessment | 2026                                 6 
+ 
+EXECUTIVE SUMMARY 
+2025 was the deadliest for civilians since the 
+full-scale invasion of Ukraine began, 
+particularly for people living at the frontlines. 
+It marked a significant escalation in hostilities 
+despite efforts to impose a ceasefire, with 
+Ukraine recording the highest levels of deadly 
+violence for every month compared to previous 
+years. The escalation of the war continues to 
+disrupt domestic production, trade routes, energy 
+supply, and foreign investment, further restricting 
+Ukraine’s economic outlook. Attacks on ports 
+significantly reduced Ukraine’s agricultural export 
+capacity, which translated into higher prices and 
+inflation, directly increasing household 
+vulnerability. 
+The human impact of the war continues to 
+deepen, particularly among households living 
+closest to active hostilities, with those residing 
+within 50 km of the frontline bearing the greatest 
+burden. More than 90% of all conflict events 
+recorded in 2025 occurred within this zone, and 
+67% of civilian casualties also occurred near the 
+frontline. 
+Approximately 2 million war-affected people 
+in Ukraine are identified as high-priority cases 
+for humanitarian food assistance. More than 
+half of the high-priority cases, about 1.2 million 
+people, live within 50km of the frontline. This 
+number reflects a vulnerability-driven analysis 
+centered on four key issue areas: vulnerable 
+populations within 50km of the frontline, IDPs, 
+evacuees, and people affected by strikes. 
+However, a nationwide analysis show that the 
+overall number of food insecure people in 
+Ukraine continues to rise, with an additional 1.5 
+million people now requiring food assistance 
+across the country, compared to 2024. 
+Households living within 50 km of the 
+frontline are older, poorer, more dependent, 
+and more reliant on assistance than those 
+living further away. The proportion of elderly-
+only households rises to 36% in the 0–50 km 
+zone, compared to 27% beyond 50 km, while 
+older persons living alone are significantly more 
+common close to the frontline. Displacement and 
+return dynamics are more pronounced close to 
+the frontline with up to 30% of surveyed 
+household within 50km of the frontline displaced 
+and 20% returnees. 
+Household-level analysis shows that at least 
+one in four households at the frontlines are 
+food insecure. This is more prevalence in the 
+20km zone in eastern and southern region where 
+more than 30% of the households are food 
+insecure. Rural households tend to experience 
+higher levels of food insecurity than urban 
+households, although the magnitude of this gap 
+varies by proximity to the frontline. Within the 0–
+20 km zone, 27% of rural households are food 
+insecure compared to 22% of urban households. 
+In the 20–50 km zone, food insecurity levels are 
+nearly identical between rural and urban 
+households (both around 21%).  
+The higher share of food insecurity within 
+frontline areas particularly among rural 
+residents reflects both the direct effects of 
+conflict and the concentration of vulnerable 
+populations in these locations. Large families, 
+households with elderly members living alone, 
+and households with a member with a disability 
+show food insecurity levels well above the overall 
+average. Many food-insecure households 
+continue to adopt unhealthy coping strategies 
+including consuming less preferred food or
+Ukraine Food Security Assessment | 2026                                 7 
+ 
+spending their savings, and more than half lack 
+the economic capacity to meet their basic need 
+without humanitarian assistance. 
+Frontline households face compounded 
+vulnerabilities. Limited economic opportunities, 
+reduced agriculture production, deterioration in 
+security, shelter and health lead to 
+multidimensional deprivation. In fact, about half 
+of food insecure households within 20km of the 
+frontline are also multidimensionally deprived. 
+While market generally functions, households 
+living closest to the frontline continue to 
+experience significant disruption in market 
+access. About 20% of households within 20km of 
+the  frontline report lacking uninterrupted access 
+to markets, and around 13%, particularly those 
+living within 10 km of the frontline, report having 
+no market access at all.  
+Food assistance, provided both as in‑kind and 
+cash transfers, has been central to alleviating 
+immediate food gaps for vulnerable 
+households in the frontline. WFP assistance is 
+targeted toward households with the lowest 
+economic capacity, and analysis shows that it 
+translates into a measurable and meaningful 
+reduction in food insecurity, reducing the 
+probability of low economic capacity among 
+assisted households by close to 20 percentage 
+points. But with humanitarian funding declining 
+and needs continuing to rise, many vulnerable 
+households may soon be unable to access the 
+food assistance they depend on.  
+Three actions are critical to prevent a reversal 
+of hard-won progress: First, sustaining monthly 
+food assistance for the 2 million priority cases is 
+essential, alongside protecting the 0–20 km 
+frontline zone from coverage reductions, where 
+the near-total collapse of local markets means 
+that any cut would have immediate and severe 
+consequences for household food security. Due 
+to market disruption, the 0-20km zone is 
+particularly suited for in-kind food distribution. 
+Second, cash transfer values should be regularly 
+adjusted to reflect documented food inflation, as 
+maintaining outdated transfer levels results in a 
+silent erosion of impact and undermines the 
+purchasing power donors intend their 
+contributions to deliver. Finally, robust impact 
+evidence provides strong proof of effectiveness 
+and should be actively leveraged in dialogue to 
+justify sustained investment in Ukraine, 
+particularly in contexts where assistance has 
+successfully reduced visible needs without 
+eliminating underlying vulnerability.
+Ukraine Food Security Assessment | 2026                                 8 
+ 
+ CONTEXT OVERVIEW 
+Now in its fifth year of full-scale war, 
+the humanitarian crisis in Ukraine 
+continues to deepen. Large numbers of 
+people are still fleeing active hostilities 
+along the frontline, while some previously 
+displaced households are returning to 
+areas close to the frontline whenever 
+security conditions temporarily allow. As 
+of December 2025, almost 9.2 million 
+Ukrainians remain displaced, including 
+more than 5.8 million refugees abroad, 
+over 3.4 million internally displaced 
+persons, and nearly 4.4 million returnees 
+residing in Ukraine1. 
+The year 2025 was the deadliest for 
+civilians since the full-scale invasion 
+began in Ukraine. It marked a significant 
+escalation in hostilities despite efforts to 
+impose a ceasefire, with Ukraine 
+recording the highest levels of deadly 
+violence for every month compared to 
+2023 and 2024 (Figure 1). The scale and 
+nature of attacks also shifted, with regular 
+strikes on civilian infrastructure including 
+residential areas, public facilities, and 
+critical logistics hubs. Security incidences 
+increased by 26% in 2025 across Ukraine 
+and airstrikes and drone attacks were the 
+main drivers of this escalation, showing a 
+remarkable 94% increase2. The targeting 
+of energy infrastructure intensified 
+sharply in the last quarter of 2025 as 
+temperatures dropped. Bombardments of 
+densely populated areas resulted in 
+growing numbers of civilians killed or 
+injured. Total civilian casualties in 2025 
+reached at least 2,514 killed and 12,142 
+injured, representing a 31% increase 
+compared to 2024 and a 70% increase 
+compared to 20233.  
+The escalation of the war continues to 
+disrupt domestic production, trade 
+routes, energy supply, and foreign 
+investment, further restricting 
+Ukraine’s economic outlook. Despite 
+initial signs of recovery, the intensified 
+hostilities in 2025 led to a marked 
+slowdown in economic growth. After 
+contracting by nearly 30% in 2022 
+following the full-scale invasion, the 
+economy rebounded in 2023 with a 
+growth rate of 5.5%. However, growth 
+decelerated to 2.9% in 
+ 2024 and fell further to 1.8% in 2025 
+amid widespread missile attacks on 
+energy infrastructure, logistical 
+disruptions, and reduced agricultural 
+The scale of destruction, the economic 
+disruption, and the geographic concentration of 
+hostilities in frontline areas directly determine 
+who is food insecure, how severely, and why 
+recovery without external support is not feasible.
+Ukraine Food Security Assessment | 2026                                 9 
+ 
+output due to adverse weather 
+conditions. These economic losses are 
+closely linked to extensive damage in key 
+export sectors, particularly agriculture.   
+Note: Graph show the number of attacks by month reported by INSO data. Attacks include both 
+airstrike, drones attack and ground operations.
+According to the Fifth Rapid Damage 
+and Needs Assessment (RDNA5), the 
+scale of destruction and reconstruction 
+needs in Ukraine continued to rise. The 
+2025 assessment reported an additional 
+US$2 billion in direct infrastructure 
+damage, bringing total war related 
+damages to US$195 billion and total losses 
+to US$667 billion. Recovery and 
+reconstruction need also increased 
+substantially, rising from US$523.6 billion 
+in 2024 to US$587.7 billion in 2025. Total 
+damages to the agriculture sector alone 
+now amount to US$12.1 billion, with 
+recovery needs estimated at US$55.3 
+billion. These figures underscore not only 
+the destruction of assets but also the long-
+term losses in productivity, service delivery, 
+and economic stability across affected 
+regions. 
+Attacks on ports significantly reduced 
+Ukraine’s agricultural export capacity, 
+lowering incomes for farmers and 
+agro-allied industries. In 2025, there were 
+over 150 strikes on ports in Greater Odesa, 
+through which most Ukraine’s grain 
+exports typically pass4. Agriculture, one of 
+the country’s main economic pillars, 
+remains a crucial source of employment 
+and income, with Ukraine leading global 
+production of sunflower oil, corn, wheat, 
+and soybeans. While production and yields 
+declined sharply after the record harvest of 
+2021, domestic output has since stabilized. 
+However, even as production shows 
+resilience, total agricultural export earnings 
+have decreased. In 2024, agriculture 
+generated 59% of Ukraine’s foreign 
+exchange earnings from goods exports, but 
+by 2025, revenues had fallen by nearly 9% 
+0
+2000
+4000
+6000
+8000
+10000
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+Number of events
+Month
+2023
+2024
+2025
+Figure 1: Conflict and Attack Escalated in Ukraine in 2025
+Ukraine Food Security Assessment | 2026                                 10 
+ 
+due heightened logistical risks, severe port 
+infrastructure damage and occupation and 
+inaccessibility of some major agriculture 
+production hubs. 
+The impact of the conflict has also 
+translated into higher prices and 
+inflation, directly increasing household 
+vulnerability. Infrastructure damage, 
+supply chain disruptions, and the 
+displacement of populations toward 
+western oblasts have driven up the cost of 
+food, housing, and utilities. The year-
+on-year inflation rate ranged between 8% 
+and 16% in 2025, missing the government 
+target of 5%. Food inflation was even more 
+severe, peaking at 23% in June 2025 before 
+easing to 10% by December. Between 2024 
+and 2025, the Ukrainian currency 
+depreciated by nearly 4%, raising the cost 
+of imported goods.  According to the World 
+Bank, a growing share of households 
+reports financial strain from declining 
+purchasing power. In 2025, the World Bank 
+estimated that almost 35% of the 
+population lived in poverty, a figure up 
+sharply from 21% in 20215. 
+The human impact of the war continues 
+to deepen, particularly among 
+households living closest to active 
+hostilities. Civilians across all regions 
+remain exposed to escalating attacks that 
+destroy homes, cause mass-casualty 
+incidences, and disrupt essential services. 
+However, those residing within 0–50 km of 
+the frontline bears the greatest burden 
+(Figure 2). More than 90% of all conflict 
+events recorded in 2025 occurred within 
+this zone, and according to UN Human 
+Rights Monitoring Mission figures, 67% of 
+civilian casualties also occurred near the 
+frontline.  
+Civilian movement within 50 km of the 
+frontline is extremely dangerous and 
+often restricted due to explosive 
+ordnance contamination, yet some 
+people continue to return to the 
+frontline. Health facilities operate with 
+minimal staff and limited supplies, while 
+education services are severely disrupted, 
+forcing children to rely almost entirely on 
+remote learning. Recurrent disruptions in 
+frontline areas affect food availability and 
+access to markets.  
+World Bank notes that the share of 
+adults unable to work is substantially 
+higher in frontline communities where 
+conflict has been most intense. Older 
+people and persons with disabilities, who 
+constitute a large proportion of those 
+remaining in frontline, are particularly 
+isolated and heavily dependent on 
+humanitarian assistance. Despite these 
+challenges, a significant number of people 
+continue to return to frontline areas. 
+According to IOM, returns to areas within 
+50 km of the frontline consistently 
+accounted for approximately 40% of all 
+returns in 2025. Many returnees complain 
+of high cost of living in displaced areas as 
+well as stronger attachment to their home 
+in the frontline.
+Ukraine Food Security Assessment | 2026                                 11 
+ 
+Recognizing the concentration of needs 
+in frontline, WFP identifies the 0–50 km 
+zone as a strategic priority. The 
+Humanitarian Need and Response Plan 
+(HNRP) in Ukraine also noted that the 
+frontline is the centre of Ukraine’s 
+humanitarian crisis, with a 
+disproportionately high share of people 
+facing compounded vulnerabilities 
+requiring urgent and sustained assistance6.  
+The HNRP reports that more than 70% of 
+people living within 50 km of the frontline 
+are in need of humanitarian assistance. 
+WFP has also designated the 0–50 km zone 
+from the frontline as a strategic priority for 
+humanitarian food assistance, given the 
+concentration of conflict-related 
+disruptions and the scale of unmet needs. 
+This report provides an overall picture 
+of the food security situation across 
+Ukraine, but places particular emphasis 
+on households living within 50 km of the 
+frontline.  This focus aligns with WFP’s 
+operational priorities and the broader 
+inter-agency strategy to target support 
+where the crisis is most intense. The 
+specific objective is to estimate the food 
+insecurity prevalence in the frontline and 
+how it manifests at the household level; to 
+explore the key drivers of food insecurity in 
+the frontline; and explain the role and 
+impact of WFP food assistance in mitigating 
+vulnerabilities in the frontline.
+Figure 2: Heat Map of Stikes in 2025
+Ukraine Food Security Assessment | 2026                                 12 
+ 
+ HOUSEHOLD PROFILE
+The analysis presented in this report 
+draws on two complementary data 
+sources: the Multisectoral Needs 
+Assessment (MSNA) led by REACH (2025) 
+and supported by WFP, and the 
+Frontline Food Security Assessment 
+(FFSA) conducted by WFP (2025). The 
+MSNA was implemented in July–August 
+2025 using a computer-assisted telephone 
+interviewing (CATI) methodology. The 
+survey covers the country and includes a 
+total sample of 2,813 households. The FFSA 
+was conducted by WFP in August–
+September 2025, also using a CATI and 
+implemented by Kyiv International Institute 
+of Sociology (KIIS), which is the same 
+provider that implemented MSNA. The WFP 
+assessment was able to identify 
+households receiving WFP assistance at the 
+time of the survey or prior to it covering 
+many areas within 30km of the frontline. 
+For the purposes of this analysis, data 
+from the two assessments were 
+harmonized and merged by aligning 
+identical variables across both datasets. 
+The combined dataset was then 
+reweighted to ensure consistency and 
+comparability between assisted and 
+non-assisted populations, resulting in a 
+final analytical sample of 4,886 households. 
+The merged dataset includes key variables 
+used to construct food security indicators, 
+as well as detailed information on 
+household characteristics, economic 
+conditions, security perceptions, market 
+access, household needs and receipt of 
+humanitarian assistance. This harmonized 
+dataset enables a rigorous assessment of 
+food insecurity outcomes and the 
+contribution of WFP assistance across 
+frontline settings7.
+Ukraine Food Security Assessment | 2026                                 13 
+ 
+The household profile show that 
+households living within 50 km of the 
+frontline are older, poorer, more 
+dependent, and more reliant on 
+assistance than those living further 
+away. The harmonized data show a 
+markedly different demographic and 
+socio-economic profile between frontline 
+household and those residing further away 
+(Figure 3). Frontline areas are characterized 
+by higher concentrations of vulnerable 
+household types, particularly among 
+populations with reduced labour capacity, 
+greater dependency ratios, and heavier 
+reliance on external support. 
+Displacement and return dynamics are 
+more pronounced close to the frontline 
+with many returnees found in the 
+frontline. While displaced households 
+remain the majority across all zones, they 
+account for only 18–30% of households in 
+the 0–50 km zone, compared to 17% 
+beyond 50 km. Frontline areas also host a 
+substantially higher share of returnee 
+households, especially in the 20–50 km 
+zone, where returnees represent 20% of 
+households, compared to 13% in areas 
+further from the frontline.  
+Frontline areas have a higher share of 
+elderly households including those 
+living alone and a high presence of 
+persons with disability. The proportion of 
+elderly-only households rises to 32–36% in 
+the 0–50 km zone, compared to 27% 
+beyond 50 km, while older persons living 
+alone are significantly more common close 
+to the frontline (21% within 20 km versus 
+14% beyond 50 km). At the same time, 
+frontline areas have fewer non-elderly 
+households and higher shares of 
+households without any working-age 
+members. While there is no significant 
+difference between the share of 
+households with person with disability 
+across the frontline zone, it is important to 
+stress that at least 1 in 5 households in the 
+frontline has a member with registered 
+disability.   
+ 
+  
+36
+21
+30
+15
+20
+36
+32
+18
+18
+20
+20
+32
+27
+14
+17
+13
+18
+27
+Elderly-only households
+Older persons living alone
+Displaced households
+Returnee households
+HHs with disability
+No working-age members
+50+ km
+20–50 km
+0–20 km
+Figure 3: Socio Economic Profile of Frontline Households
+Ukraine Food Security Assessment | 2026                                 14 
+ 
+FOOD INSECURITY PREVALENCE 
+ 
+People in need of food assistance 
+According to the HNRP8, approximately 
+2 million people in Ukraine are 
+identified as being in need of food and 
+livelihood assistance, representing 32% 
+of the population included in the 
+analysis. Among those identified as food 
+insecure under the HNRP, approximately 
+1.83 million people are moderately food 
+insecure, while about 180,000 people are 
+severely food insecure (Table 1). This 
+estimate was calculated by the Food 
+Security and Livelihoods Cluster using the 
+Consolidated Approach for Reporting 
+Indicators of Food Security (CARI)9.    
+ 
+More than 50% of the population in 
+need of food assistance under the 
+HNRP, around 1.2 million people, live 
+within 0–50 km of the frontline. Of this 
+group, approximately 790,000 people 
+reside in government-controlled areas 
+(GCA), while about 468,000 live in occupied 
+territories (OT). Among those living in 
+government-controlled areas, roughly 
+110,000 people are in severe need of food 
+assistance. The HNRP further estimates 
+that food insecurity will affect 126,000 
+newly displaced evacuees, 377,000 people 
+affected by strikes, and more than 1.4 
+million displaced persons nationwide, 
+including those living within the frontline. 
+ 
+Food insecurity is concentrated in frontline areas 
+and rising: this chapter reports the number of 
+people affected, where they are located, and who 
+among them faces the most acute food need.
+Ukraine Food Security Assessment | 2026                                 15 
+ 
+Table 1: Number of People in Needs of Food Assistance 
+      
+The HNRP estimate of People in Need 
+(PIN) does not represent the total 
+food-insecure population across 
+Ukraine. In 2025, Ukraine became the first 
+country to fully operationalize the 
+humanitarian reset, which prioritized 
+urgent life-saving actions and simplified 
+coordination structures. This shift entailed 
+moving from cluster-level strategies to 
+issue-based, multisectoral strategic 
+priorities. Under this new approach, the 
+Ukraine Humanitarian Country Team (HCT) 
+reframed the HNRP around four 
+issue-based strategic priorities: SP1: 
+Supporting the most vulnerable 
+populations living near the frontline; SP2: 
+Supporting evacuees; SP3: Emergency 
+response following strikes; and SP4: 
+Humanitarian assistance to the most 
+vulnerable internally displaced persons 
+(IDPs), including those residing in collective 
+centres. Furthermore, the PIN was not 
+calculated based on the total population 
+within these groups, but rather on a subset 
+identified as “affected population.”  
+Consequently, the 2026 HNRP is based on 
+issue-based boundary setting (Figure 1), 
+which resulted in a significant reduction in 
+the number of people identified as in need. 
+Specifically, the analysis considered only 
+17% of Ukraine’s total population, thereby 
+substantially narrowing the overall scope of 
+needs assessment. 
+Nevertheless, a nationwide analysis 
+indicates that the number of people in 
+need of food assistance increased 
+significantly in 2025 compared to 2024, 
+with an additional 1.5 million people, 
+putting the number of food insecure 
+people across Ukraine to be 6.5 million. 
+When the restrictive boundaries applied 
+under the HNRP are relaxed, the PIN 
+estimate across Ukraine is substantially 
+higher. In short, the 2 million HNRP figure 
+and the 6.5 million nationwide figures are 
+not contradictory: the former reflects who 
+qualifies under the reset’s issue-based 
+boundaries, while the latter reflects the 
+total population experiencing food 
+insecurity by standard CARI thresholds. 
+Both figures are methodologically valid and 
+serve different purposes. In 2025, 
+extending beyond frontline areas and 
+other HNRP priority groups, the 6.5 million 
+figure represents a 30% increase compared 
+to the 5 million PIN estimated across 
+Ukraine in 2024. 
+Strategic Priority (SP) Group HNRP PIN (Total) Moderate FI Severe FI 
+SP1 — Frontline 0–50 km (GCA) 790,121 680,121 110,000 
+SP1 — Frontline 0–50 km (OT) 468,285 433,164 35,121 
+SP2 — Evacuees 126,060 120,513 5,547 
+SP3 — Strikes affected 377,501 360,891 16,610 
+SP4 — Vulnerable IDPs 241,041 232,122 8,919 
+OVERALL PIN 2,003,008 1,826,811 176,197
+Ukraine Food Security Assessment | 2026                                 16 
+ 
+ 
+Figure 4: HNRP and National PIN Methodology 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+At oblast level, the highest PIN (based 
+on the whole of Ukraine PIN) is 
+concentrated in conflict-affected 
+eastern and southern oblasts,  
+ 
+particularly Donetska (43%), Luhanska 
+(41%, estimated), Khersonska (40%), and 
+Zaporizka (39%). Compared to 2024, the 
+largest increases are observed in several 
+8.9
+7.3
+5.0
+2.0
+3.5
+Y2022-Y2023 Y2023-Y2024 Y2024-Y2025 Y2025-Y2026
+WFP PIN
+ HNRP PIN
+6.5
+Figure 5: Number of People in Need of Food Assistance 
+Whole of Ukraine population 
+National food insecure population  
+HNRP Shock-based boundary setting 
+People to be prioritized for 
+humanitarian assistance. 
+People to be targeted for assistance. 
+Total Population 
+National PIN 
+HNRP priority groups 
+HNRP PIN 
+Target
+Ukraine Food Security Assessment | 2026                                 17 
+ 
+central and western oblasts, notably 
+Khmelnytska, Zhytomyrska, 
+Ivano-Frankivska, Kyivska, and Odeska, 
+which continue to host many more IDPs, 
+indicating a widening geographic spread of 
+food insecurity beyond frontline areas 
+(Figure 6). In contrast, the lowest 
+prevalence is recorded in Rivnenska (3%), 
+Vinnytska (6%), and Volynska (7%).
+ 
+Characteristics of food insecure households 
+Households living at the frontlines are 
+generally more likely to be food 
+insecure than households living away 
+from the frontlines. About 25% of 
+households within 20km of the frontline 
+are food insecure (Figure 7). This is more 
+prevalence in the 20km zone in eastern 
+and southern region where more than 30% 
+of the households are food insecure. In 
+areas 20-50km from the frontline, the 
+share of households that are food insecure 
+decreases slightly to 21%, while for 
+households living in the 50+km zone, 14% 
+are food insecure.  
+Rural households tend to experience 
+higher levels of food insecurity than 
+urban households, although the 
+magnitude of this gap varies by 
+proximity to the frontline. Within the 0–
+20 km zone, 27% of rural households are 
+food insecure compared to 22% of urban 
+households. In the 20–50 km zone, food 
+insecurity levels are nearly identical 
+between rural and urban households (both 
+around 21%). Beyond 50 km from the 
+frontline, the rural–urban gap re-emerges, 
+with 16% of rural households classified as 
+food insecure compared to 13% of urban 
+households. 
+The higher share of food insecurity 
+within frontline areas particularly 
+among rural residents reflects both the 
+43 41 40 39
+31 30 30 30 28 27
+24 23 21 21 20 20 18 18 17 17
+12 10 9 7 6
+3
+Doneska
+Luhanska
+Khersonska
+Zaporizka
+Khmelnytska
+Kirovohradska
+Zhytomyrska
+Ivano-Frankivska
+Zakarpatska
+Kharkivska
+Odeska
+Kyivska
+Cherkaska
+Mykolaivska
+National
+Chernivetska
+Ternopilska
+Sumska
+Dnipropetrovska
+Kyiv
+Lvivska
+Poltavska
+Chernihivska
+Volynska
+Vinnytska
+Rivnenska
+2025 (%) 2024 (%)
+Figure 6: Prevalence of People in Need of Food by Year
+Ukraine Food Security Assessment | 2026                                 18 
+ 
+direct effects of conflict and the 
+concentration of vulnerable populations 
+in these locations. As demonstrated in 
+Chapter 4, households living within 50 km 
+of the frontline tend to be older, poorer, 
+more dependent, and more reliant on 
+assistance than those living further away, 
+all of which are key drivers of food 
+insecurity. Within the 0–20 km zone, 
+low-income households, IDP households, 
+households with only non-working 
+working-age members, households with 
+registered disabilities, and large families 
+exhibit the highest levels of food insecurity. 
+In the 20–50 km zone, in addition to these 
+groups, elderly households and 
+single-adult households with children 
+emerge as particularly food insecure. 
+Beyond 50 km from the frontline, food 
+insecurity remains most pronounced 
+among households with registered 
+disabilities, non-working working age 
+members, and other structurally vulnerable 
+household types, although overall 
+prevalence is lower than in 
+frontline-adjacent areas. 
+ 
+ 
+35
+33
+32
+30
+29
+27
+19
+27
+22
+31
+30
+12
+25
+34
+37
+23
+20
+33
+28
+33
+21
+21
+23
+16
+15
+21
+22
+24
+29
+23
+24
+21
+16
+16
+13
+12
+15
+8
+14
+Low-income households
+IDP households
+Non-working adults only
+HHs with disability
+Large families (3+ children)
+Elderly households
+Single adult with children
+Rural
+Urban
+East
+South
+North
+National Average
+50+ km
+20–50 km
+0–20 km
+Figure 7: Food Insecurity Prevalence by Groups
+Ukraine Food Security Assessment | 2026                                 19 
+ 
+DIMENSIONS OF FOOD INSECURITY  
+ 
+Household food consumption 
+Inadequate food consumption10 remains 
+a concern in the frontline; notably, 
+affecting 16% of households living 
+within 20 km of the front line. 
+Nationwide, about 9% of all surveyed 
+households were found to have 
+inadequate food consumption, defined as 
+either poor (2%) or borderline (7%). The 
+share of those with poor or borderline 
+scores increased significantly closer to the 
+front lines (Figure 8): 16% within the 0–20 
+km zone and 12% within the 20–50 km 
+zone, compared to 8% beyond the 50 km 
+mark. In frontline oblasts such as 
+Donetska, Khersonska, and Zaporizka, the 
+share of households with insufficient food 
+consumption is more than double the 
+whole of Ukraine average (22%, 21%, and 
+19% respectively, compared to 9%). 
+ 
+ 
+ 
+This chapter examines food insecurity  depth and 
+nature across four  dimensions, showing that 
+frontline households suffer worse outcomes on 
+every indicator and that severity intensifies sharply 
+within 20 km of the frontline.
+Ukraine Food Security Assessment | 2026                                 20 
+ 
+ 
+Proximity to frontline is associated with 
+reduced dietary diversity and lower 
+intake of nutrient-rich foods. While 
+staple goods including cereals, vegetables, 
+oils, and sugar remain consistently 
+consumed seven days a week across all 
+zones, the intake of perishable proteins 
+and fruits drops sharply as one approach 
+the front line. For households within the 0–
+20 km zone, meat and fruit consumption 
+both fall to a median of only four days per 
+week, while dairy intake reaches a critical 
+low of just two days per week. This stands 
+in stark contrast to areas beyond 50 km, 
+where meat and fruits are consumed daily 
+and dairy is consumed five days a week. 
+Notably, pulses and legumes remain the 
+least consumed food group nationwide at 
+just one day per week, a trend likely 
+attributable to long-standing cultural 
+dietary preferences rather than conflict-
+related supply disruptions. These results 
+indicate that frontline populations are 
+increasingly forced to adopt "coping diets," 
+prioritizing shelf-stable staples over fresh 
+produce and animal proteins due to a 
+combination of market fragmentation, high 
+transport costs, and the collapse of cold-
+chain infrastructure.
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+4% 2% 1% 2%
+12%
+10%
+6% 7%
+16%
+13%
+8% 9%
+0–20 km 20–50 km 50+ km National Average
+Borderline FCS Poor FCS
+7
+1
+2
+4
+7
+4
+7 7 77
+1
+3
+6
+7
+5
+7 7 77
+1
+5
+7 7 7 7 7 7
+0
+1
+2
+3
+4
+5
+6
+7
+8
+Median days of consumption
+0-20 km 20-50 km 50+ km
+Figure 8: Prevalence of Inadequate Food Consumption 
+Figure 9: Median Food Consumption by Food Types
+Ukraine Food Security Assessment | 2026                                 21 
+ 
+Households with persons with 
+disabilities, displaced households, and 
+those with at least one unemployed 
+adult often report significantly lower 
+food consumption score than the 
+national average (Figure 10). Due to 
+reduced earning potential and limited 
+access to stable markets, these households 
+are more likely to rely on less nutritious, 
+calorie-dense foods, resulting in borderline 
+or poor food consumption levels that 
+jeopardize their long-term health and 
+nutritional well-being. 
+ 
+Reduced coping strategies 
+Adoption of consumption based coping 
+strategies is another dimension of food 
+insecurity11. Nearly four in ten households 
+had to rely on food-related coping 
+strategies in the week before the survey. 
+This share increases closer to the frontline, 
+where 50% of households within 20 km 
+resorted to at least one coping mechanism, 
+compared with 38% among households 
+located more than 50 km away (Figure 11). 
+Regarding the intensity of coping, 16% of 
+households adopted a high level of 
+food-based coping strategies. This 
+proportion is considerably higher in 
+frontline areas (0–50 km), particularly in 
+Donetska (32%), Khersonska (28%), and 
+Zaporizka (26%) oblasts. Displaced 
+households, households composed only of 
+older persons, and households with a 
+person with a disability more frequently 
+reported high levels of coping compared 
+with the national average (25%, 25%, and 
+36% respectively).
+7% 3% 2% 2% 2%
+17%
+11% 11% 6% 7% 9%
+24%
+14% 13%
+8% 9% 9%
+Displaced
+households
+HHs with
+disability
+Large family (3+
+children)
+Elderly-only
+households
+Unemployed
+member
+National Average
+Borderline FCS Poor FCS
+Figure 10: Food Consumption Score by Groups
+Ukraine Food Security Assessment | 2026                                 22 
+ 
+ 
+The top consumption coping adopted by 
+households is shifting to less preferred 
+and cheaper foods. This pattern reflects 
+short-term adjustments households make 
+when faced with constrained food access 
+or affordability. According to the data, 34% 
+of surveyed households nationally  
+reported switching to cheaper foods at 
+least once in the previous week, but  
+ 
+this share increases markedly to 43% in the 
+0–20 km zone and 41% in the 20–50 km 
+area, compared with 33% among 
+households living more than 50 km away 
+(Figure 12). Other coping strategies show 
+similar gradients: limiting portion sizes is 
+reported by 18% of households within 0–20 
+km versus 15% in the 50+ km zone; 
+   
+56%
+59%
+66%
+65%
+20%
+19%
+19%
+19%
+24%
+22%
+15%
+16%
+0–20 km 
+20–50 km 
+50+ km
+National Average
+Low coping
+Medium coping
+High coping
+Figure 12: Food Coping Strategies by Location 
+Figure 11: Prevalence of Adoption of Coping Strategy 
+34%
+15%
+13%
+10%
+6%
+Eat less preferred…
+Limit portion size
+Reduce number of…
+Borrow food
+Restrict…
+National Average
+41%
+15%
+12%
+10%
+5%
+Eat less preferred…
+Limit portion size
+Reduce number of…
+Borrow food
+Restrict…
+20-50 km
+43%
+18%
+14%
+13%
+5%
+0-20 km
+33%
+15%
+13%
+10%
+6%
+50+ km
+Ukraine Food Security Assessment | 2026                                 23 
+ 
+reducing the number of meals by 14% 
+versus 13%; and borrowing food by 13% 
+versus 10%. Restricting adult consumption 
+in favour of children remains less 
+widespread overall, at 5–6% across 
+distance categories but still indicates stress 
+on household food consumption.  
+ 
+Livelihood coping strategies 
+Beyond consumption coping, almost 
+three in four households living within 
+20km of the frontline continue to adopt 
+unfavourable livelihood coping 
+strategies to meet their essential 
+needs12.  Around 65% of surveyed 
+households reported using at least one 
+unfavourable livelihood coping strategy, 
+but this rises to 72% among households 
+living in the 0–20 km zone. Crisis level 
+coping strategies continue to be the most 
+reported (32%), occurring predominantly 
+through reductions in health-related 
+expenditures. Stress strategies are used by 
+28% of households, typically spending 
+savings, borrowing money, or seeking 
+additional income sources (Figure 13). 
+Emergency strategies, which represent the 
+most severe form of livelihood erosion, 
+were reported by 5% of households 
+nationally. In frontline areas within 20 km, 
+reliance on crisis strategies is notably 
+higher than the national average (39% 
+versus 32%). 
+ 
+ 
+ 
+Among households closest to the 
+frontline, the most frequently used 
+livelihood coping strategies are 
+spending savings and reducing 
+health-care expenses. These households 
+are adopting these strategies due to a lack 
+of resources to meet essential needs 
+including due to food shortages and  
+ 
+ 
+ 
+financial difficulties. Although a slightly 
+smaller share of households in the 0–20  
+km zone reported spending savings in the 
+past 30 days compared with the overall 
+average (37% versus 41%), a greater 
+proportion indicated they had already 
+exhausted their savings and therefore 
+could not continue to rely on this strategy 
+(8% versus 6%) (Table 2). Households near 
+6% 2% 5% 5%
+39%
+33% 32% 32%
+27%
+26% 28% 28%
+28%
+39% 35% 35%
+0-20 km 20-50 km 50+ km National Average
+No coping
+Stress
+Crisis
+Emergency
+Figure 13: Prevalence of Adoption of Livelihood Coping
+Ukraine Food Security Assessment | 2026                                 24 
+ 
+the frontline are also somewhat more likely 
+to seek additional income sources, 
+including high-risk, exploitative, or 
+degrading forms of work, than households 
+in 50+. In addition, they more often 
+reported sending one or more household 
+members elsewhere due to a lack of food 
+or money to buy it. 
+ 
+Table 2: Types of Livelihoods Coping by Location 
+Strategy 0–20 km 20–50 km 50+ km National 
+Average 
+STRESS COPING 
+        
+Spend savings 37% 32% 42% 41% 
+Borrow money for food 21% 28% 0% 25% 
+Seek additional income 21% 18% 18% 18% 
+Sell household assets/goods 5% 4% 4% 4% 
+CRISIS COPING     
+Reduce health expenditure 37% 31% 32% 32% 
+Reduce education expenditure 3% 5% 0% 4% 
+Move to cheaper dwelling 3% 4% 0% 4% 
+Sell productive assets 2% 2% 2% 2% 
+Send member elsewhere 4% 1% 1% 1% 
+EMERGENCY COPING     
+High-risk/exploitative work 4% 1% 2% 2% 
+Ask strangers for money/food 1% 1% 1% 1% 
+Sell house or land 1% 0% 0.2% 0.25
+Ukraine Food Security Assessment | 2026                                 25 
+ 
+Economic capacity to meet needs 
+In terms of capacity, more than half of 
+frontline households are unable to meet 
+their essential needs without 
+humanitarian assistance. This is 
+measured through the Economic Capacity 
+to Meet Essential Needs (ECMEN) indicator, 
+which compares a household’s actual level 
+of essential consumption with expenditure 
+thresholds13. Overall, 59% of households 
+have monthly per-capita expenditures 
+below the MEB, including 14% below the 
+SMEB (Figure 14). The situation 
+deteriorates sharply closer to active conflict 
+areas: 74% of households within 20 km of 
+the frontline fall below the MEB threshold, 
+a statistically significantly higher share than 
+among households living more than 50 km 
+away (58%). This pattern is particularly 
+pronounced in oblasts heavily affected by 
+hostilities, including Khersonska, Donetska, 
+Sumska, and Kharkivska, where over 73% 
+of households lack the economic capacity 
+to meet their essential needs.  
+ 
+ 
+  
+22% 18%
+13% 14%
+54%
+50%
+45% 46%
+24%
+32%
+42% 41%
+0–20 km 20–50 km 50+ km National Average
+Above MEB (>
+UAH 8,422)
+Below MEB
+(< UAH 8,422)
+Below SMEB
+(< UAH 3,708)
+Figure 14: Prevalence of Low Economic Capacity by Location
+Ukraine Food Security Assessment | 2026                                 26 
+ 
+Unified Cash Transfer for Frontline Response 
+In 2025, humanitarian actors under the Cash 
+Working Group launched the Unified Cash Transfer 
+in Ukraine. The Unified Cash Transfer for people 
+living in frontline areas aims to address the specific 
+humanitarian pressures associated with frontline 
+living. The objective is to provide a coherent, 
+needs-based, and harmonized cash response that 
+supports affected households in managing the 
+financial impacts of frontline conditions and reduces 
+reliance on negative coping strategies, while 
+ensuring complementarity with national social 
+protection systems. The methodology is based on 
+the Government Actual Subsistence Minimum (ASM), 
+which is used as the Minimum Expenditure Basket 
+(MEB) and was set at UAH 8,422 per person per 
+month as of June 2025. Recognizing the higher cost 
+of living in frontline areas, estimated at +8.33%, an 
+adjusted MEB of UAH 9,124 per person per month 
+was applied. 
+When compared to the average 
+monthly income of the bottom 40 percent 
+most vulnerable households living in 
+frontline areas, estimated at UAH 4,250 per 
+person, a transfer value of UAH 1,800 per 
+person per month was calculated as the 
+unified transfer value. The assistance is 
+designed to be provided over a period of six 
+months. Participating organizations may 
+deliver assistance either as a lump sum of 
+UAH 10,800 or through monthly instalments 
+of UAH 1,800 per person. Based on 
+operational experience and strategic 
+considerations, WFP will prioritize monthly 
+distributions. The monthly transfer value of 
+UAH 1,800 enables assisted households to 
+meet approximately 66 percent of their 
+MEB requirements. The distribution of 
+assistance is expected to commence in the 
+second half of 2026. 
+ 
+ 
+4250 4250
+1,800
+3,074
+4874
+9,124 9,124
+0
+1000
+2000
+3000
+4000
+5000
+6000
+7000
+8000
+9000
+10000
+Assisted households Not assisted households
+Average income bottom 40%
+UCT transfer
+Unmet need
+Figure 15:Unified Transfer Value and Gap
+Ukraine Food Security Assessment | 2026                                 27 
+ 
+OVERLAPPING VULNERABILITIES  
+ 
+Insecurity  
+Security conditions overlap considerably 
+with food insecurity with households 
+reported security issues more likely to 
+be food insecure. Households living more 
+than 50 km from frontline where food 
+insecurity is more prevalent reported 
+experiencing around four conflict-related 
+incidences per month, roughly one per 
+week, compared with more than 10 
+monthly incidences in the 20–50 km zone. 
+In areas within 20 km of the frontline, 
+monthly conflict incidences reached up to 
+50, meaning households faced armed 
+violence nearly every day. Within 0–5 km of 
+the frontline or the international border, 
+incidence intensified reaching 
+approximately 70 incidences per month, or 
+2-3 incidences per day14. Statistically 
+modelling show a significant correlation 
+between number of incidence and 
+prevalence of food insecurity. High security 
+incidences create an operational 
+environment where humanitarian access 
+becomes extremely limited or, at times, 
+entirely impossible.  
+Household living in frontline equally 
+experience widespread damage to 
+housing and essential infrastructure. 
+Data show that households living close to 
+the frontline are almost ten times more 
+likely to have their homes damaged by the 
+war than non-frontline households. While 
+only 6% of households located more than 
+50 km from the frontline reported 
+damaged housing, this share rises to 38% 
+in the 20–50 km zone and 47% within 0–20 
+km. Households with damaged housing are 
+also slightly more likely to be food 
+insecure, reflecting the compounding 
+nature of shocks. Financial constraints 
+remain the main barrier to repair: although 
+around 70% of households with 
+war-related damage report having repaired 
+their homes, the likelihood of repair 
+declines sharply with proximity to the 
+Food insecurity in frontline areas does not arise 
+from a single cause. This chapter examines the 
+structural drivers that produce it, showing how 
+conflict exposure, livelihood collapse, reduced 
+agricultural production, and poor market 
+functionality reinforce each other, making self-
+recovery without external assistance extremely 
+difficult.
+Ukraine Food Security Assessment | 2026                                 28 
+ 
+frontline, from 74% beyond 50 km, to 68% 
+in the 20–50 km zone, and just 53% within 
+0–20 km. The most common reason for not 
+repairing damage is inability to afford the 
+cost (48%), followed by security concerns 
+that prevent maintenance (36%). 
+Beyond physical destruction, frontline 
+households face recurring disruptions to 
+essential services. Nearly one-third (30%) 
+of surveyed households overall reported 
+electricity cuts or low voltage, but this 
+share increases to 57% in areas within 20 
+km of the frontline, where 6% reported 
+having no electricity at all. As of summer 
+2025, only 28% of households had access 
+to any backup power source, leaving many 
+unable to cope with prolonged outages. 
+Water access challenges follow a similar 
+pattern: while 92% of surveyed households 
+nationally reported having sufficient 
+drinking water, this falls to 85% among 
+households in the 0–20 km zone.  
+Limited livelihoods  
+Livelihood vulnerability continues to 
+rise as unemployment, low income and 
+humanitarian dependency increases as 
+households get closer to the frontline. 
+Employment patterns reveal that 
+households in the 0–20 km zone face the 
+greatest labour constraints: 36% of 
+households there have no working-age 
+members, compared with 32% in the 20–50 
+km band and 27% in areas beyond 50 km. 
+Households composed only of working-age 
+earners are also less common close to the 
+frontline (33%) than in the 20–50 km (40%) 
+and 50+ km (43%) zones, reflecting reduced 
+labour capacity and higher dependency 
+ratios in frontline areas.  
+Households where every adult aged 18–
+60 without disability or chronic illness is 
+not engaged in any form of employment 
+is distributed relatively evenly across 
+distance zones, with around 12% of 
+households in the 0–20 km area falling 
+into this category. Despite this even 
+distribution, the barriers they face in 
+accessing employment differ markedly 
+depending on proximity to the frontline. 
+The most commonly reported constraints 
+during job search include unsatisfactory 
+salaries or working conditions (37%), a lack 
+of available opportunities (25%), and 
+experiences of discrimination (17%). While 
+low wages and discrimination appear more 
+frequently in areas located beyond 20 km 
+from the frontline, the lack of livelihood 
+opportunities becomes particularly 
+pressing close to frontline: 38% of 
+households in the 0–20 km zone identify 
+the absence of job opportunities as the 
+main barrier, compared with 25% 
+elsewhere.
+Ukraine Food Security Assessment | 2026                                 29 
+ 
+ 
+Income sources follow a similar pattern 
+of vulnerability, with households closer 
+to the frontline far more dependent on 
+external support and far less able to rely  
+ 
+on their own economic activity. Almost 
+half of households living within 0–50 km of 
+the frontline depends solely on social 
+benefits, humanitarian assistance, or family 
+support. This reliance intensifies in the 
+49
+31 30
+34
+39 32
+17
+30 38
+0–20 km 20–50 km 50+ km
+b. Per-Capita Income Distribution (%)
+High income
+(>UAH 9,500)
+Mid income
+(4,250–9,500)
+Low income
+(<UAH 4,250)
+48
+38
+28
+30
+35
+41
+22 27 31
+0–20 km 20–50 km 50+ km
+a. Income Source Composition (%)
+Economic
+activity only
+Mixed
+(econ+transfers)
+Benefits/aid
+only
+Figure 16: Livelihood Opportunities and Aid Dependency
+Ukraine Food Security Assessment | 2026                                 30 
+ 
+areas closest to active hostilities: in the 0–
+20 km zone, only 22% of households rely 
+exclusively on income from economic 
+activities, compared with 27% in the 20–50 
+km band and 31% beyond 50 km. In 
+practical terms, this means that nearly 78% 
+of households in the 0–20 km zone and 
+73% of those in the 20–50 km zone receives 
+some form of external assistance, from the 
+government, humanitarian organisations, 
+or social transfers, to meet their basic 
+needs. Exclusive dependence on social 
+benefits or aid is highest in the 0–20 km 
+area (48%), decreases in the 20–50 km zone 
+(37%), and reaches its lowest level in 50+ 
+areas (28%). At the same time, households 
+with mixed income sources, which 
+generally provide more stable and 
+diversified livelihoods, are least common 
+near the frontline (30% in 0–20 km, 
+compared with 35% in 20–50 km and 41% 
+in 50+ km).  
+Nearly half of households in the 0–20 
+km zone (49%) has - income from own 
+source below UAH 4,25015. In contrast, the 
+share of low-income households in other 
+areas is 30%. At higher income thresholds, 
+the disparity becomes more pronounced: 
+only 17% of households within 20 km earns 
+more than 9,500 UAH per capita, compared 
+with 30% in the 20–50 km band and 38% in 
+the 50+ km zone. These disparities are 
+reflected in income composition: frontline 
+households rely far more heavily on social 
+benefits, humanitarian assistance, and 
+family support, while households outside 
+the frontline are more likely to depend 
+primarily on income from economic 
+activities. 
+Engaging in economic activity and 
+earning income clearly reduce the 
+likelihood of food insecurity across all 
+frontline zones. Households that rely 
+solely on income from economic activity 
+have some of the lowest food insecurity 
+rates (8% overall; 15% in 0–20 km), while 
+those depending only on social benefits or 
+aid face much higher levels (27% overall; 
+33% in frontline areas). Income level shows 
+a similar pattern: households with very low 
+income below 4,250 UAH have food 
+insecurity rates of 35% in the 0–20 km 
+zone, compared with just 7% among 
+households earning more than 9,500 UAH. 
+Food insecurity is lowest among 
+households where all working-age 
+members are employed (9% nationally; 
+16% in 0–20 km) and highest among 
+households where working-age adults are 
+not working (29–32%). Overall, having 
+income from work either alone or 
+combined with transfers offers clear 
+protection against food insecurity, 
+especially in frontline areas. 
+The collapse of employment and income in 
+frontline areas does not occur in isolation: 
+it directly undermines households’ capacity 
+to produce their own food and to access 
+functioning markets, creating a self-
+reinforcing cycle of deprivation. The 
+following two subsections examine how 
+reduced agricultural production and 
+disrupted market access compound the 
+income constraints documented above.
+Ukraine Food Security Assessment | 2026                                 31 
+ 
+ 
+Reduced home food production  
+Among the economic activities 
+households engage in, food production 
+plays an important role in supporting 
+household food consumption, especially 
+in frontline areas, yet production level 
+continues to decrease due to the war. 
+Among households living within 30 km of 
+the frontline, nearly half (46%) produce 
+some food for their own use, and this 
+proportion increases to almost 60% among 
+households within 20 km of the frontline. 
+In general, most agricultural households 
+produce fruits and vegetables (39%), 
+cereals, pulses and tubers (33%), or animal 
+proteins (18%). By engaging in small-scale 
+agricultural production, frontline 
+households are able to ease the financial 
+constraints that limit their ability to 
+purchase food or cope with supply 
+shortages. The majority of households 
+producing food for self-consumption (60%) 
+do so to compensate for insufficient money 
+to buy food, while 29% cite the absence of 
+functioning local markets. Relatively few 
+households (10%) produce food for sale. 
+Many households engaged in agriculture 
+also support others in their communities: 
+31% share food with relatives and
+Ukraine Food Security Assessment | 2026                                 32 
+ 
+neighbours, and 12% provide informal food 
+assistance to community members in 
+need.  
+The ongoing insecurity and 
+unfavourable weather conditions have 
+forced many to reduce or stop 
+production altogether, disrupting not 
+only their own food access but also the 
+informal support networks they sustain. 
+Among households practicing agricultural 
+activities, 56% reduced their production in 
+2025 compared to 2024, and 6% stopped 
+entirely. The main reasons for reducing or 
+stopping production were unfavourable 
+weather or climate conditions (54%), lack of 
+water (29%), and shelling or aerial attacks 
+(26%). Within 20 km from the frontline, a 
+third of household (32%) has heard or saw 
+mine/UXO contamination threat. Most of 
+those households (80%) claim that the 
+mine/uxo threat prevents people in their 
+settlement from accessing land or other 
+resources to earn living.  
+ 
+ 
+ 
+ 
+60
+31
+29
+12
+10
+Compensate for insufficient money to buy food
+Share with relatives and neighbours
+Absence of functioning local markets
+Provide informal assistance to community
+Sell food for income
+Why Produce Food (%)
+54
+32
+29
+26
+15
+Unfavourable weather/climate conditions
+Mine/UXO contamination threat (within 20 km)
+Lack of water
+Shelling or aerial attacks
+Lack of inputs or equipment
+Why Production Reduced (%)
+Figure 17: Agriculture Activities in Frontline
+Ukraine Food Security Assessment | 2026                                 33 
+ 
+Limited market functionality  
+While markets continue to function in 
+the country despite the conflict, many 
+households living closest to the 
+frontline continue to experience 
+significant disruption in market access. 
+About 20% of households within 20km of 
+the frontline report lacking uninterrupted 
+access to markets, and around 13%, 
+particularly those living within 10 km of the 
+frontline, report having no market access 
+at all. Security concerns remain the main 
+factor hindering people’s ability to reach 
+markets. Households without markets in 
+their settlements cope primarily by 
+travelling to other settlements (57%), 
+relying on humanitarian assistance (47%), 
+asking others to buy food on their behalf 
+(27%), or depending on their own food 
+production (21%). 
+Even coping strategies such as travelling 
+to other settlements are constrained by 
+lack of sustainable transportation in the 
+frontline areas. Nearly one-third of 
+households in frontline were unable to use 
+public transport whenever needed. About 
+55% reported having interrupted transport 
+connections with other settlements. The 
+most reported barriers to public transport 
+were the absence of functioning transport 
+services (47%), war-related security 
+concerns (33%), and irregularity of 
+transport schedules. 
+These disruptions in market and 
+transport access directly heighten food 
+insecurity. When households cannot 
+safely reach markets, they lose access to a 
+diverse and affordable food supply, face 
+higher prices in limited local outlets, and 
+become more reliant on coping strategies 
+such as reducing food consumption or 
+depending on assistance. In areas where 
+markets do not function reliably, 
+households also have fewer opportunities 
+to supplement diets, diversify income 
+sources, or engage in normal economic 
+activity. As a result, limited market access, 
+driven primarily by insecurity, acts as a 
+major constraint on household food 
+availability and affordability, contributing to 
+higher levels of food insecurity in frontline 
+zones. 
+The four drivers examined above do not 
+operate sequentially: they overlap and 
+reinforce each other in ways that make 
+frontline food insecurity qualitatively 
+different from food insecurity elsewhere in 
+Ukraine. A household that loses 
+employment income, cannot produce food 
+due to shelling or mine contamination, and 
+cannot reach a functioning market faces a 
+depth of vulnerability that no single 
+intervention can address alone. The 
+following subsection quantifies this 
+compounding effect through a 
+Multidimensional Deprivation Index.
+Multidimensional deprivation 
+Households living in the frontline face 
+multiple and overlapping vulnerabilities 
+that compound their hardship. A 
+Multidimensional Deprivation Index 
+(MDDI), which measures deprivations 
+across six dimensions, including food, 
+education, health, shelter, WASH, and 
+safety shows increase in multidimensional 
+deprivation the closer households are to 
+the frontline16. Households are considered
+Ukraine Food Security Assessment | 2026                                 34 
+ 
+deprived when facing deprivations in at 
+least two domains, and severely deprived 
+when facing deprivations in half or more of 
+them. Results indicate that 11% of 
+households beyond 50 km are 
+multidimensionally deprived, rising to 15% 
+in the 20–50 km zone and reaching 23% 
+among those living within 20 km of the 
+frontline. With an average deprivation 
+intensity of 39%, deprived households 
+typically face constraints in two to three 
+dimensions simultaneously (Table 3).
+ 
+Table 3: Multidimensional Deprivation by Location 
+ 
+Food-insecure households experience 
+even higher rates of multidimensional 
+deprivation. Across the frontline, 41% of 
+food-insecure households are also 
+multidimensionally deprived in the 0–20 
+km zone, compared with 32% in the 20–50 
+km zone and 25% beyond 50 km. This 
+indicates that food insecurity rarely occurs 
+in isolation: it is strongly associated with 
+limited access to safe water, disrupted 
+education, unmet health needs, 
+inadequate shelter, or heightened safety 
+risks. Among the most common 
+deprivations faced by food-insecure 
+households in frontline areas, apart from 
+food-related components, are deprivation 
+in health (34%), safety (29%), and shelter 
+concerns (28%).  
+ 
+ 
+These overlapping vulnerabilities 
+reinforce each other: households living 
+close to the frontline not only face greater 
+food insecurity but also significant 
+challenges in safety, shelter, and access to 
+essential services. As a result, 
+multidimensional deprivation becomes 
+both a driver and a consequence of food 
+insecurity, compounding household 
+hardship, deepening vulnerability and 
+limiting households’ ability to recover or 
+cope with ongoing shocks. To a large 
+extend, this also means that a single-sector 
+food interventions alone cannot fully 
+address the compounding nature of 
+vulnerability. 
+ 
+  
+MDDI Indicator National 
+Food-
+insecure 
+HHs 
+0–20 km 
+Food-
+insecure 
+HHs 
+20–50 km 
+Food-
+insecure 
+HHs 
+50+ km 
+Share multidimensionally deprived (H) 12% 41% 32% 25% 
+Average deprivation intensity (A) 39% 42% 38% 34% 
+Combined score (H × A) 0.05 0.17 0.12 0.09
+Ukraine Food Security Assessment | 2026                                 35 
+ 
+HUMANITARIAN ASSISTANCE 
+As the war protracts, households across 
+Ukraine, particularly vulnerable 
+households residing in frontline 
+continue to report increasing difficulty 
+meeting their basic food needs. Data 
+show that 27% of households living within 
+20 km of the frontline report needing food 
+while additional 36% need non-food items 
+(Figure 18). This is significantly higher 
+compared with only 13% and 17% 
+respectively in areas beyond 50 km. Among 
+food-insecure households, this pattern is 
+even more pronounced, with over 42% of 
+households in the 0–20 km zone reporting 
+food needs and 39% reporting non-food 
+needs. Vulnerable households living in 
+frontline areas have consistently ranked 
+food as their priority need, often 
+surpassing several non-food essential 
+items.  
+Food assistance, provided both as 
+in‑kind and cash transfers, has been 
+central to alleviating immediate food 
+gaps for vulnerable households in the 
+frontline. In 2025, the number of 
+vulnerable people assisted in Ukraine with 
+food assistance by a cluster of 
+humanitarian partners averaged around 1 
+million per month, with in‑kind 
+distributions accounting for approximately 
+65% of all food assistance delivered. 
+Despite these efforts, the scale of support 
+remains small relative to the size of the 
+population and the number of people that 
+need food assistance. Overall, the food 
+assistance provided reaches only about 5% 
+of all Ukrainians and covers around 23% of 
+the total population assessed as food 
+insecure. Even when compared against the 
+ultra‑prioritized 2 million individuals 
+identified in the HNRP, partners collectively 
+reached only about 76% of that priority 
+caseload.  
+Funding gaps continue to force 
+humanitarian organizations to narrowly 
+target households closest to the 
+frontline, where food access barriers are 
+most severe. Consequently, food 
+assistance is highly concentrated 
+geographically, with 70% of all distributions 
+in December 2025 delivered within the 0–
+50 km zone. This prioritization reflects both 
+the increased severity of needs in the 
+frontline areas as shown in this report and 
+the limited capacity to maintain adequate 
+coverage in whole of Ukraine. It is 
+therefore not surprising that for the 2026 
+HNRP exercise, humanitarian partners 
+including WFP elected to focus on people 
+living in the front lines, as well as other 
+vulnerable groups scattered around the 
+country including IDPs, evacuees and 
+people affected by air strike
+WFP assistance is reaching the most vulnerable 
+households, and it contributes significantly to 
+food security improvement.
+Ukraine Food Security Assessment | 2026                                 36 
+ 
+ 
+WFP has remained one of the leading 
+providers of humanitarian food 
+assistance in Ukraine since the full‑scale 
+invasion in 2022, with strong strategic 
+advantage in providing assistance in the 
+frontline. Operating alongside a network 
+of other 25 organizations delivering either 
+in‑kind food or cash‑for‑food assistance, 
+WFP contributed significantly to food 
+assistance, reaching over 250,000 people 
+monthly in 2025.  
+A core component of WFP’s strategic 
+advantage lies in its strong operational 
+footprint in areas closest to the 
+frontline including having a network of 
+cooperating partners (CPs), warehouses 
+and local offices closer to the frontline. In 
+fact, more than 98% of WFP’s total food 
+assistance in 2025 was delivered within 20 
+km of the frontline. Notably, WFP continue 
+to provide more cash assistance than in-
+kind, positioning it as a key actor for a 
+future transition toward more flexible, 
+universal cash assistance in frontline areas. 
+ 
+WFP assistance is targeted toward 
+households with the lowest economic 
+capacity. WFP implement a rigorous 
+targeting framework both at geographical 
+and household level with the developed 
+algorithm able to identify most vulnerable 
+people in the frontline.  When households 
+are sorted into ten expenditure deciles, 
+strong evidence on the ability of WFP 
+targeting framework to reach the most 
+vulnerable emerges: assisted households 
+consistently report much lower 
+pre-assistance food and non-food spending 
+compared to non-assisted households, 
+especially in the lowest deciles. Figure 18 
+show that in the lowest expenditure decile, 
+assisted households has only UAH 928 
+expenditure per capita per month without 
+assistance, compared with UAH 2,185 
+among non-assisted households in the 
+same decile. This pattern persists across 
+the distribution. Even in the middle deciles 
+(3–5), assisted households report 
+significantly lower pre-assistance 
+expenditure compared with non-assisted 
+households. This confirms that WFP 
+support is concentrated among 
+economically constrained households. 
+27% 22% 13% 22% 16% 10%
+42% 43%
+32%
+36%
+27%
+17%
+36%
+26%
+16%
+39% 35%
+25%
+0-20 km 20-50 km 50+ km 0-20 km 20-50 km 50+ km 0-20 km 20-50 km 50+ km
+General sample Food secure household Food insecure household
+Need food Need non-food only
+Figure 18: Share of Households Expressing Food Needs
+Ukraine Food Security Assessment | 2026                                 37 
+ 
+At the same time, data highlight a 
+significant contribution of WFP’s cash 
+assistance on household consumption 
+where it covers around 78% of the gap 
+between household capacity and SMEB. 
+In the lowest three deciles, assisted 
+households receive around UAH 1,185 per 
+capita, which represents 55–70% of their 
+baseline expenditure. Without this support, 
+these households would experience severe 
+reductions in consumption, but with WFP 
+assistance, total expenditure rises to 
+comparable level to their non assisted 
+counterpart. For example, in decile 1, total 
+expenditure increases from UAH 928 
+(baseline) to UAH 2,096 due to WFP 
+assistance, substantially narrowing the gap 
+with non-assisted households (UAH 2,185). 
+Among household receiving assistance, 
+WFP assistance covers up to 48% of the 
+expenditure gap for the lowest decile, 78% 
+for second decile and 100% for the third 
+decile.
+ 
+ 
+ 
+WFP’s assistance translates into a 
+measurable and meaningful reduction 
+in food insecurity and vulnerability 
+among frontline households. Using a 
+causal inference statistical approach, WFP 
+assistance is estimated to reduce the 
+probability of low economic capacity 
+among assisted households by 18.3 
+percentage points after accounting for 
+baseline differences and household 
+characteristics17. In practical terms, this 
+means that WFP assistance enabled 
+around one in every five assisted 
+household with low economic capacity to 
+meet their subsistence (food) needs. In a 
+frontline area where close to one million 
+people are food insecure, this represents 
+an important contribution to stabilizing 
+household well-being and narrowing 
+vulnerability gaps. WFP assistance 
+effectively offset the severe consumption 
+constraints faced by frontline households 
+and smooth food consumption, thereby 
+protecting the most at-risk households 
+from further deterioration. It is important 
+to note that this estimate captures the 
+impact of WFP assistance alone; the 
+combined effect of assistance delivered by 
+0
+5000
+10000
+15000
+20000
+25000
+D1 D2 D3 D4 D5 D6 D7 D8 D9 D10
+Monthly per-capita expenditure 
+Expenditure without WFP assistance WFP assistance SMEB line MEB line
+Figure 19: Expenditure by Decile, Assisted and Non-Assisted Households
+Ukraine Food Security Assessment | 2026                                 38 
+ 
+other humanitarian actors is not included, 
+suggesting that the total contribution of 
+humanitarian food assistance to reducing 
+food insecurity among frontline 
+households is likely larger. 
+Thus, as food insecure households also 
+face multidimensional vulnerability, 
+with regular monthly WFP assistance, 
+households become less worried about 
+food and substitute their limited income in 
+pursuing other non-food need. WFP 
+assistance allows families to allocate their 
+limited income to urgent non-food needs, 
+such as repairing damaged homes, 
+purchasing fuel or generators, or covering 
+additional expenses related to disrupted 
+services without compromising 18their food 
+intake.
+Ukraine Food Security Assessment | 2026                                 39 
+ 
+ CONCLUSION 
+The assessment shows that an 
+estimated two million war-affected 
+people in Ukraine, primarily frontline 
+residents and IDPs, require 
+prioritization for humanitarian food 
+assistance. Frontline communities face the 
+most acute needs, with over half of priority 
+food assistance cases (1.2 million people) 
+living within 50 km of the frontline, where 
+conflict and economic disruption are most 
+severe. At the same time, food insecurity 
+continues to rise nationwide, with 2025 
+assessments identifying 1.5 million 
+additional people in need compared to 
+2024.  
+ 
+Looking at 2025 in retrospect, the report 
+shows that escalating hostilities sharply 
+increased civilian harm, making it the 
+deadliest year since the invasion, with 
+most conflict events and civilian 
+casualties concentrated in frontline 
+areas. Households in these locations face 
+compounded vulnerabilities, including 
+higher concentrations of elderly people, 
+IDPs and returnees, extensive housing 
+damage, deteriorating health conditions, 
+limited livelihood opportunities, and high 
+dependence on assistance. At least one in 
+four frontline households is food insecure, 
+with nearly half also experiencing 
+multidimensional deprivation, particularly 
+large families, households with persons 
+with disabilities, and older people living 
+alone, many of whom continue to rely on 
+negative coping strategies. 
+Against this backdrop, declining 
+humanitarian funding and rising needs 
+pose a critical risk to the ability of 
+vulnerable households to access the 
+food assistance they depend on. The 
+evidence presented in this report 
+underscores the essential role of WFP 
+assistance, which not only stabilizes 
+household food consumption but also 
+generates positive welfare effects among 
+the most vulnerable populations exposed 
+to ongoing conflict-related shocks. 
+Structural drivers explain why food 
+insecurity in frontline areas is so 
+persistent and so difficult to escape 
+without external support. Conflict 
+proximity destroys income sources, 
+damages housing and essential services, 
+and collapses local markets 
+simultaneously. These shocks fall hardest 
+on the demographic profile that dominates 
+the frontline: elderly residents, people with 
+disabilities, displaced and returned 
+households with limited labour capacity. 
+The interaction between structural 
+exposure and demographic vulnerability 
+produces pockets of deep, chronic 
+deprivation in the 0–20 km zone that 
+cannot resolve themselves without 
+sustained external intervention. Declining 
+humanitarian coverage in this context is 
+not a marginal reduction in support; it is 
+the removal of the only functioning buffer 
+available to the most exposed households. 
+Ensuring the continuity of food 
+assistance at regular, preferably 
+monthly, intervals remain the 
+operational minimum necessary to 
+prevent a deepening of humanitarian
+Ukraine Food Security Assessment | 2026                                 40 
+ 
+needs and to protect the progress 
+achieved in stabilising the food security 
+and wellbeing of frontline communities 
+in Ukraine. As global humanitarian 
+pressures intensify and funding competes 
+across multiple crises, the case for Ukraine 
+must be made on evidence. This report 
+provides that evidence. Acting on it is the 
+responsibility of donors and partners. 
+Three operational priorities follow 
+directly from the evidence.  
+First, the 0–20 km zone must be insulated 
+from any proportional funding cuts. Where 
+feasible, humanitarian actors should 
+pursue blanket coverage in this area, and, 
+where this is not achievable across the 
+entire 0–20 km zone, prioritize blanket 
+coverage in the immediate 
+frontline-adjacent locations. Market access 
+in this zone has effectively collapsed, own-
+income is near zero for close to half of 
+households, and no viable alternative food 
+source exists. A coverage reduction here 
+eliminates, rather than merely reduces, the 
+food security buffer for the most exposed 
+population. Due to market disruption, the 
+0-20km zone is particularly suited for in-
+kind food distribution. 
+Second, cash transfer values should be 
+reviewed against the inflation trajectory 
+documented which is constantly increasing. 
+Transfers calibrated on earlier price 
+baselines now cover a substantially smaller 
+share of household need than intended, 
+creating an effective real-terms cut without 
+any explicit policy decision having been 
+made. Moreover, due to the overlapping 
+vulnerabilities across the frontline, a single 
+sector intervention cannot fully address the 
+compounding nature of vulnerabilities. The 
+unified cash transfer initiative is a welcome 
+development.  
+Third, the WFP assistance contribution 
+analysis, showing an almost 20 percent 
+reduction in low economic capacity, 
+provides a rigorous and quantitative basis 
+to defend Ukraine’s humanitarian 
+allocation in an increasingly competitive 
+global funding environment. It is important 
+to note that this analysis reflects the effect 
+of WFP assistance alone; if the cumulative 
+impact of assistance delivered by other 
+humanitarian actors were incorporated, 
+the overall effect size would likely be even 
+larger. This is particularly relevant in 
+countering the emerging perception that 
+food insecurity in Ukraine is limited or no 
+longer acute, an interpretation that may be 
+partially explained by the high 
+concentration of humanitarian assistance 
+mitigating visible outcomes rather than the 
+absence of need. In a crowded 
+humanitarian landscape, such 
+misperceptions risk diverting resources 
+away from Ukraine; therefore, this 
+evidence should be systematically and 
+proactively deployed in donor engagement 
+to substantiate continued support 
+alongside other global crises.
+Ukraine Food Security Assessment | 2026                                 41 
+ 
+End Note 
+1 International Organization for Migration 
+(IOM), Displacement Tracking Matrix (DTM) 
+– Ukraine. Available at: 
+https://dtm.iom.int/ukraine 
+2 International NGO Safety Organisation 
+(INSO), Conflict Data Dashboard. Available 
+at: https://ngosafety.org/conflict-data-
+dashboard/ 
+3 OHCHR, Ukraine: Protection of Civilians in 
+Armed Conflict – December 2025. Available 
+at: 
+https://ukraine.ohchr.org/sites/default/files
+/2026-01/Ukraine%20-
+%20protection%20of%20civilians%20in%20
+armed%20conflict%20%28December%2020
+25%29_ENG.pdf 
+4 Black Sea News, “Russian Attacks on the 
+Ports of Greater Odesa,” available at: 
+https://www.blackseanews.net/en/read/23
+9081 
+5 World Bank, listening to Ukraine: Poverty 
+Note (2024). Available at: 
+https://thedocs.worldbank.org/en/doc/2c2
+d81f33cb64ac4695818d3cf988fa2-
+0080012024/original/Listening-to-Ukraine-
+Poverty-Note.pdf 
+6 OCHA, Ukraine: Humanitarian Needs and 
+Response Plan 2026. Humanitarian 
+Programme Cycle. January 2026. Available 
+at: 
+https://www.unocha.org/attachments/f431
+c763-f667-4d8f-9120-
+8cf2a1dc0d6c/Ukraine%20HNRP%202026%
+20Humanitarian%20Needs%20and%20Res
+ponse%20Plan%20EN.pdf 
+7 For this analysis, WFP-assisted and non-
+assisted households were matched on 
+observable characteristics including 
+household composition, income, and 
+proximity to the frontline, and a Difference-
+in-Differences estimator was applied to 
+isolate the causal effect of assistance from 
+pre-existing differences between the two 
+groups. A technical annex with full 
+methodological details is available on 
+request. 
+8 Ukraine Humanitarian Needs and 
+Response Plan 2026 (January 2026) [EN/UK] 
+| OCHA 
+9 The food insecurity prevalence is 
+measured using the Consolidated 
+Approach for Reporting Indicators of Food 
+Security (CARI). See The Consolidated 
+Approach for Reporting Indicators of Food 
+Security (CARI)  for further reading about 
+CARI 
+10 The Food Consumption Score tells us 
+how well a household has been eating over 
+the past week. It looks at the variety of 
+foods they ate and how often they ate 
+them, giving more importance to foods 
+that are more nutritious.  
+11 The Reduced Coping Strategies Index 
+(rCSI) is used to assess the adequacy of a 
+household’s current food consumption.
+Ukraine Food Security Assessment | 2026                                 42 
+ 
+12 The Livelihood Coping Strategies for 
+Essential Needs (LCS-EN) indicator 
+measures how households respond when 
+they lack sufficient income to cover basic 
+needs. These strategies are grouped by 
+severity: stress strategies such as spending 
+savings, borrowing money, or taking on 
+additional work; crisis strategies such as 
+reducing expenditures on health or 
+education or selling productive assets; and 
+emergency strategies including selling a 
+house or land, relocating to seek work, or 
+engaging in high-risk or exploitative income 
+sources. 
+13 The two thresholds are the Survival 
+Minimum Expenditure Basket (SMEB), set 
+at 3,708 UAH per capita per month, and the 
+Minimum Expenditure Basket (MEB), set at 
+8,422 UAH per capita based on the Factual 
+Minimum Subsistence Level published by 
+the Ministry of Social Policy of Ukraine 
+(June 2025). Households with expenditures 
+below the MEB are considered unable to 
+meet essential needs without assistance, 
+while those below the SMEB face severe 
+restrictions in meeting even basic survival 
+requirements.  
+14 Incidence reported at admin3 level; 
+number of incidences is calculated based 
+on ACLED database, where incidence 
+reported in media are recorded 
+15 The threshold used in this analysis is 
+grounded in the Government of Ukraine’s 
+official subsistence minimum calculation 
+for June 2025, which specifies the cost of 
+the minimum food basket per person per 
+month. This threshold represents 
+approximately 60% of the total subsistence 
+minimum (UAH 8,422) shown in the 
+national calculation table. In the 
+harmonized dataset, this threshold 
+corresponds to the upper expenditure limit 
+of the bottom 40% of the population living 
+within 0–50 km of the frontline and has 
+subsequently been adopted by the Cash 
+Working Group (CWG) as the reference 
+value for estimating the transfer gap in 
+Ukraine. 
+16 MDDI components and further analysis 
+can be found in Multidimensional 
+Deprivation Index (MDDI) 
+17 To estimate the causal impact of WFP 
+assistance on household food insecurity, a 
+Difference-in-Differences (DiD) approach 
+was applied using paired pre- and 
+post-assistance data for the same 
+households. The method compares 
+changes in food insecurity among 
+households that received assistance 
+(treatment group) with changes observed 
+among similar households that did not 
+receive assistance (control group), thereby 
+controlling for baseline differences and 
+time-invariant unobserved factors. In this 
+framework, households were assigned a 
+treatment indicator (treat = 1 for those 
+receiving WFP assistance) and a time 
+indicator (post = 1 for the post-assistance 
+period). The interaction term (post × treat) 
+captures the net impact of assistance by 
+isolating how much food insecurity 
+changed for treated households beyond 
+any change observed in the control group. 
+The model further adjusts for key 
+household characteristics such as 
+employment status, household 
+composition, dependency ratios, and 
+income vulnerability to account for 
+structural differences that may influence 
+food insecurity. This approach allows for a 
+robust estimation of the effect of WFP
+Ukraine Food Security Assessment | 2026                                 43 
+ 
+assistance on reducing food insecurity 
+specifically within the conflict-affected 0–50 
+km zone. 
+ 
+Photo Credits  
+All Photos: WFP/Sayed Asif Mahmud
+World Food Programme 
+Via Cesare Giulio Viola 68/70, 
+00148 Rome, Italy - T +39 06 65131 
+wfp.org 
+ 
+[Title of document]
