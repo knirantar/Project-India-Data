@@ -1,0 +1,1186 @@
+This report is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+May 2026 | Ukraine
+Joint Market Monitoring Initiative in Ukraine
+Four years of evolution: From economic shock 
+to the protracted economic impacts of the war  
+(2022-2025)
+CONTEXT & RATIONALE
+The full-scale invasion in February 2022 posed an immense challenge to the pursuit of a 
+dignified and secure life in Ukraine. Changes in controlled territories, the displacement of a 
+significant portion of the population, the destruction of economic and social infrastructure, and 
+the relocation of businesses created set of challenges that required an immediate humanitarian 
+response1. One of the primary forms of assistance that designed to stabilize living conditions for 
+Ukrainians was the provision of cash assistance, coordinated by the Cash Working Group (CWG) 
+Ukraine.
+In coordination with the Ukraine CWG, REACH launched the Joint Market Monitoring 
+Initiative (JMMI) in March 2022 to better understand market dynamics in Ukraine and 
+inform cash-based interventions. Between April 2022 and December 2025 REACH conducted 
+45 data collection rounds. This built an evidence-base on the functionality of local markets at the 
+hromada, raion, and oblast levels to ensure the effective provision of cash assistance in Ukraine. 
+In particular, JMMI focused on analyzing the availability of essential goods in local markets, 
+prices of relevant goods, barriers to accessing local markets — including physical and financial 
+barriers, the availability of financial service providers, the ability to make payments in local 
+markets, and more.
+JMMI utilized a collaborative model between REACH and JMMI partners where 
+humanitarian organizations providing cash assistance primarily implemented JMMI, and the 
+REACH team filled coverage gaps. In 2025, JMMI became fully partner-led. Data collection took 
+place in areas where JMMI-participating partners were actively providing cash.
+This review outlines the main trends in changes to the functioning of local markets and 
+the Ukrainian economy as a whole that accompanied cash assistance processes from 2022 
+to 2025. 
+KEY MESSAGES
+• Air attacks and damage to energy infrastructure from 2022 
+to 2025 had a significant and multifaceted impact on the 
+functioning of the economy, financial infrastructure, and 
+local markets. In particular, they limited the operating hours 
+of local shops and financial service providers. Damage to 
+infrastructure also contributed to rising prices for agricultural 
+products.  
+• Agricultural yields were among the most important long-
+term factors influencing inflationary processes in Ukraine. 
+Poor weather conditions and the loss of agricultural territories 
+led to lower harvests, creating substantial inflationary pressure 
+which disproportionately affecting vulnerable population 
+groups.
+• Financial factors appeared to have a much stronger impact 
+on access to goods than physical barriers. Older customers 
+(i.e., persons 60 years old or older) were among the most 
+vulnerable groups, with 80 to 90% typically reporting the 
+impact of financial barriers on their access to goods. 
+• Local markets demonstrated a high level of resilience and 
+adaptability, continuing to meet the needs of residents. The 
+greatest difficulties in market functionality were observed in 
+frontline hromadas, where conditions remained particularly 
+severe and complex.
+FACTSHEET
+2
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+JMMI Four years of evolution: From economic shock to market stabilization and the protracted economic impacts of the war  (2022-2025) | UKRAINE 2
+Map 1: Hromadas covered by JMMI throughout rounds of data collection, starting from April 2022
+GEOGRAPHIC COVERAGE OVER 
+TIME
+• The geographic scope and coverage of JMMI 
+shifted alongside the priorities and information 
+needs of the response. While at its initial 
+implementation in Ukraine, the JMMI had 
+countrywide coverage, overtime,  the coverage 
+shifted to a more frontline focus. This mirrored the 
+humanitarian response in Ukraine, which became 
+increasingly focused on frontline areas. The most 
+marked shift in priorities came at the beginning 
+of 2025, where needs within 50 kilometers of 
+the front line became a key and driving focus, 
+alongside support to evacuees, support to 
+vulnerable internally displaced persons (IDPs), and 
+emergency response after strikes.
+• Because of the shifting geographic scope 
+and coverage of the JMMI, and that the same 
+hromadas were not assessed over time, nor the 
+same respondents, the findings in this brief should 
+be interpreted with caution. The assessment is 
+indicative and its methodology aims to provide 
+monthly snapshots rather than a longitudinal 
+examination of specific markets over time. In light 
+of this, please note the following: 
+1. Trends observed across years may be attributed to 
+biases inherent in the geographic coverage rather 
+than genuine trends (i.e., physical barriers became 
+more pronounced over time because the JMMI 
+focused more on frontline hromadas, not because 
+they became more common overall). Wherever 
+possible, the brief attempts to support or explain 
+such findings with secondary data in order to 
+avoid such misrepresentation of apparent trends 
+in the JMMI data.
+2. The findings indicate markets are resilient in 
+Ukraine. However, extremely frontline hromadas 
+(e.g., within 20 kilometers of the front line/border 
+with the Russian Federation) were a small minority 
+in the JMMI sample. Thus, this brief‘s findings 
+may not always be applicable to the situation in 
+frontline areas, where the response increasingly 
+focuses. In response to this, beginning in April 
+2026, the JMMI was redesigned to focus only on 
+hromadas within 50 kilometers of the front line, 
+with substantial coverage in the 0-to-20 kilometer 
+zone facilitate by REACH, and complementary 
+coverage in the 21-to-50 kilometer zone facilitated 
+by CWG partner
+3
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+802
+730
+1051 1062
+1255
+1069
+1231
+1351
+1238
+700
+800
+900
+1000
+1100
+1200
+1300
+1400
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+2022 2023 2024 2025
+Between 2022 and 2025, prices for food and hygiene 
+products included in the JMMI basket fluctuated 
+quite notably, with periods of relatively sharp price 
+increases and decreases alternating with periods of 
+more sustained, moderate price growth.
+At the start of the full-scale invasion, local markets 
+underwent a significant economic transformation, 
+leading to a sharp rise in prices for all items in the 
+JMMI basket between March and July 2022. When 
+JMMI began its observations in April, the cost of the 
+JMMI basket was 802 UAH; this was followed by a 
+decline to 730 UAH, primarily due to a decrease in the 
+cost of non-food items3. However, the cost of the JMMI 
+basket subsequently rose to 1,051 UAH in July. Thus, the 
+increase from May to July amounted to 44%. At the same 
+time, between May and July, the cost of the non-food 
+basket rose from 240 UAH to 456 UAH, a 90% increase. 
+Meanwhile, the cost of the JMMI food basket showed a 
+more moderate price increase from April to July, rising 
+from 424 to 595 UAH, a 40% increase. 
+After April, price fluctuations stabilized as the economy 
+and retailers adjusted and the 2022 harvest began in 
+territories controlled by the Government of Ukraine.     
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE 3
+in 2023 and import. This led to market saturation, while 
+export opportunities remained limited4.
+In the second half of 2024 and the first half of 2025, 
+the cost of the JMMI basket experienced its longest 
+period of growth since the start of the full-scale 
+invasion. From April 2024 to May 2025, the price of the 
+JMMI basket rose by 29%. The food component of the 
+JMMI basket showed significantly higher growth, rising 
+by 46% over the same period. The food component 
+peaked in May (see Figure 2). Meanwhile, the non-food 
+component of the JMMI basket rose by only 13% over 
+the same period. 
+The main driver of the most recent long-term 
+increase in the cost of the JMMI basket was the rise 
+in food prices. This steady rise in food prices is driven 
+by complex and long-term factors. In 2024, the rise in 
+food prices was primarily driven by adverse weather 
+conditions, including spring frosts, record-breaking 
+heat in July, and prolonged periods of no rainfall in 
+the summer and early fall. This was also accompanied 
+by rising electricity prices, which led to an additional 
+increase in the cost of greenhouse produce. 
+This period of price stability continued through the 
+end of 2022. However, during the second half of 2022, 
+Ukraine faced a substantial number of airstrikes, leading 
+to the destruction of production facilities and rising 
+prices for items in the JMMI basket, notably chicken and 
+eggs. For example, the price of eggs increased from 38 
+UAH in September to 65 UAH in November. Similarly, the 
+price of chicken meat rose from 73 UAH in September 
+2022 to 95 UAH in January 2023.
+At the start of 2023, the cost of the JMMI basket rose 
+again. However, favorable weather conditions allowed 
+for a good harvest, and export restrictions helped 
+increase supply specifically in Ukraine’s domestic market, 
+which led prices increases to be partial. For example, in 
+December 2023, compared to December 2022, prices 
+for carrots and onions were 52% lower, and for cabbage, 
+21% lower. Further, the resumption of buckwheat imports 
+allowed for a 61% reduction in cost over the same period.
+During the first half of 2024, prices remained 
+relatively stable; the cost of the JMMI basket 
+remained virtually unchanged from January 2024 
+(1,098 UAH) to July 2024 (1,095 UAH). This price 
+situation was most likely driven by weak consumer 
+demand, which failed to offset the gradual recovery of 
+domestic supply — particularly due to the high harvest 
+Figure 1: Monthly evolution of the JMMI basket price (in UAH), 
+overall
+Figure 2: Monthly evolution of the JMMI basket price - food 
+component (in UAH), overall
+PRICE TRENDS2
+424
+595
+581
+668
+522485 520
+644
+711
+629
+635
+400
+450
+500
+550
+600
+650
+700
+750
+800
+Jan Feb Mar Apr May Jun Jul Aug Sep Oct Nov Dec
+2022 2023 2024 2025
+4
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+96%
+97%
+99%
+100%
+98%
+98%
+98%
+99%
+93%
+95%
+99%
+99%
+96%
+95%
+97%
+94%
+76%
+76%
+92%
+95%
+93%
+87%
+92%
+94%
+69%
+84%
+82%
+93%
+88%
+87%
+75%
+85%
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+Jun
+Dec
+2022202320242025202220232024202520222023202420252022202320242025
+FoodHygiene itemsMedicationWarm clothes
+After a lengthy period of growth in 2024 and the first 
+half of 2025, the cost of the JMMI basket declined 
+in the final months of summer and stabilized in the 
+second half of 2025. The primary reason for the price 
+decline was a larger harvest in 2025 compared to 20245. 
+According to expert estimates, vegetable production in 
+the summer and fall of 2025 increased by 20% to 25% 
+compared to 2024. This is likely to reduce dependence on 
+imports in 20265.
+AVAILABILITY OF GOODS6
+Food and hygiene items
+The availability of food and hygiene items in the 
+assessed local markets remained high from 2022 to 
+2025. The percentage of Customer Key informants (KIs)7 
+who reported full availability of these product categories 
+rarely fell below 95% and never dropped below 93%.
+Difficulties in accessing food and hygiene items 
+were reported primarily by respondents shopping 
+in frontline communities within 50 kilometers of the 
+front line, particularly in the Donetska, Khersonska and 
+Zaporizhzhska oblasts.
+Medication and warm clothes
+The availability of medication in the assessed areas 
+remained relatively low in 2022. In July 2022, 76% 
+of Customer KI survey reported full availability of 
+medication, compared to only 61% in April. This relatively 
+low availability was primarily driven by rapidly shifting 
+front lines and disruptions to drug supply logistics 
+routes8. After the situation stabilized in 2023, the average 
+level of medication availability remained around 90%. 
+From 2023 onward, availability issues were reported 
+mainly in surveyed communities located near the front 
+line.
+Warm clothing was also in short supply during the 
+first half of 2022, following the onset of large-scale 
+hostilities in Ukraine. After that period, availability 
+indicators stabilized and began to show clear seasonal 
+patterns. Customer KIs tended to report lower awareness 
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE 4
+of the availability of warm clothing in local markets 
+during the spring and summer months, while availability 
+indicators improved noticeably during the fall and winter.
+AVAILABILITY AND PRICES OF FUEL
+At the start of the full-scale invasion, Ukraine faced 
+a breakdown in trade relations with the Russian 
+Federation and Belarus, leading to a crisis in the 
+vehicle markets. Under these conditions, the availability 
+of vehicle fuel was extremely low. For example, in June 
+2022, only 9% of Customer KIs reported in the assessed 
+areas full availability of vehicle fuel in local markets. In 
+response, the government lifted State price controls and 
+allowed gas stations to set their own prices. Although 
+this resulted in a substantial increase in fuel prices, it 
+also helped meet urgent fuel demand and restore critical 
+economic activity.9
+As a result of these legislative changes and the 
+resumption of fuel supplies through European Union 
+countries10, by September 2022, 75% of Customer KIs in 
+the assessed areas reported that vehicle fuel was fully 
+available in assessed local markets.
+After the fuel supply situation in local markets 
+improved in the fall of 2022, it deteriorated 
+somewhat during the winter and spring of 2023. 
+However, starting in the summer of 2023, no shortages of 
+vehicle fuel were reported in assessed local markets.
+Unlike vehicle fuel, there were virtually no reports of 
+heating fuel shortages in local markets, except during 
+the initial stage of the full-scale invasion. 
+Government measures helped prevent a critical rise in 
+fuel prices during the first half of 2022, despite supply 
+shortages and the weakening of the national currency11.
+At the start of the full-scale invasion, the VAT rate on fuel 
+was reduced from 20% to 7%, and the excise tax was 
+abolished. However, by September 2022, the excise tax 
+had been partially reinstated.12 Following this, the 20% 
+VAT rate was reinstated in July 2023, notably increasing 
+fuel prices.13 Subsequently, the Ukrainian government 
+Figure 3: % of Customer KIs reporting full 
+availability of goods in the hromada, overall
+5
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+raised excise tax rates twice, in early 2024 and 2025. 
+Despite the shifting State policy, gasoline prices remained 
+stable and showed only a moderate trend toward gradual 
+growth.14, 15
+ACCESS TO STORES16 
+At the beginning of the full-scale invasion most 
+Customer KIs reported relatively limited physical 
+barriers to accessing stores in the assessed areas. For 
+example, in April 2022, only 30% of surveyed Customer 
+KIs reported that physical barriers affected their access 
+to stores, while in June 2022 this figure declined to 18%. 
+Overall, in 2022 to 2023, the share of Customer KIs facing 
+physical barriers in the assessed areas averaged 26%. At 
+the national level, Customer KIs most frequently reported 
+the impact of air raid alerts and movement restrictions on 
+their ability to physically access local stores.
+The impact of physical barriers on access to stores 
+was notably greater in frontline areas. In some 
+surveyed hromadas located close to the front line, 
+residents faced nearly all possible physical barriers, and 
+in many cases all Customer KIs reported difficulties 
+accessing stores. 
+JMMI recorded the most severe situation in Donestka 
+and Khersonska oblasts, During the second half of 
+2025 in Donetska Oblast most barriers were reported 
+by virtually all Customer KIs. This Oblast consistently 
+faced a wide range of barriers limiting access to markets. 
+The most significant barriers were fighting and shelling, 
+feelings of insecurity, and movement restrictions, which 
+were reported on average by 97%, 87%, and 33% of 
+respondents, respectively during the second half of the 
+2025. The similar situation was observed in Khersonka 
+Oblast. During the second half of 2025, an average of 
+90% of Customer KIs reported facing physical barriers 
+to accessing stores. The main obstacles affecting access 
+were movement restrictions, feelings of insecurity, and 
+fighting or shelling.
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE 5
+9%
+75%
+57% 61%
+79% 81% 78%
+67% 69%
+67% 73% 74% 79%
+74% 76%49%
+79%
+68% 71%
+85% 82%
+90% 84% 85%
+75% 81% 84% 85% 85%
+76%
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2022 2023 2024 2025
+Vehicle fuel Heating fuel
+Figure 4: % of customer KIs reporting full availability of fuel, overall
+Figure 5: Average consumer price for vehicle fuel (UAH per liter),                             
+nationally, (Source: SSSU17)
+56,58
+30,47
+53,86
+56,30
+58,74
+29,63
+47,88
+41,95
+48,97
+55,91
+26
+31
+36
+41
+46
+51
+56
+61
+Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2022 2022 2023 2024 2025
+Diesel fuel Petrol A-95 Petrol A-92
+6
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+MARKET FUNCTIONALITY18
+Analysis of market functionality in the assessed 
+markets indicates a high level of resilience and 
+adaptability among local retail structures. Despite 
+the prolonged negative effects of military operations, in 
+the assessed markets maintained a level of functionality 
+sufficient to meet the needs of residents.
+A relatively high share of Retailer KIs reported no 
+difficulties in maintaining their operations in the 
+assessed areas. In the assessed areas in June 2022, 52% 
+of respondents reported no operational challenges, and 
+this share remained largely unchanged through the end 
+of the year. The main difficulty faced by local stores was 
+rising supplier prices, primarily driven by rapid inflation 
+during the first half of 2022 (see Table 2).
+In 2023, operational challenges decreased substantially 
+due to price stabilization and the partial recovery of 
+goods and vehicle fuel supplies in local markets19. As of 
+June and December 2023, 73% and 83% of Retailer KIs in 
+the assessed areas, respectively, reported no difficulties in 
+their operational activities.
+However, following large-scale attacks on Ukraine’s 
+energy infrastructure in the spring of 2024, and the 
+subsequent electricity outages, the functionality of local 
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE 6
+Table 1: % of Customer KIs reporting physical barriers to accessing goods 
+accessing goods, by type, overall
+Reported barrier Jun
+2022
+Dec
+2022
+Jun 
+2023
+Dec 
+2023
+Jun 
+2024
+Dec 
+2024
+Jun 
+2025
+Dec 
+2025
+Not affected to physcal barrier 82% 72% 78% 83% 74% 61% 62% 57%
+Movement restrictions related to 
+martial law 10% 10% 5% 4% 8% 20% 18% 18%
+I feel unsafe 9% 3% 1% 1% 9% 17% 12% 16%
+Active fighting or shelling in the area 0% 3% 2% 2% 5% 11% 11% 15%
+Power outages - - 2% 1% 7% 6% 5% 14%
+Air allerts - - 15% 8% 11% 9% 12% 14%
+markets in the assessed areas weakened. In particular, 
+such outages impacted the storage of goods in stores. 
+In June 202420, 29% of surveyed Retailer KIs reported 
+storage issues, while 24% continued to experience the 
+problem in December.
+In 2025, the overall level of market functionality 
+remained broadly unchanged compared to the 
+previous year. However, as data collection became 
+increasingly focused on frontline obalsts, the frequency 
+of certain reported challenges changed. Retailer KIs 
+more frequently reported difficulties related to staffing 
+shortages and unsafe working conditions. In addition, 
+toward the end of 2025, local stores again experienced 
+notable operational difficulties related to power outages. 
+When reporting on expected future challenges by 
+Retailer KIs in the assessed areas during from 2022 
+to 2025, concerns were primarily related to financial 
+issues. The most commonly anticipated risk throughout 
+the four years of the full-scale invasion was further price 
+increases. Retailer KIs also frequently expressed concerns 
+about posssiible declining consumer purchasing power. 
+Table 2:  % of Retailer KIs reporting difficulties in keeping their stores 
+operational and well-stocked due to the full-scale war, overall
+Reported difficulty Jun
+2022
+Dec
+2022
+Jun 
+2023
+Dec 
+2023
+Jun 
+2024
+Dec 
+2024
+Jun 
+2025
+Dec 
+2025
+No new difficulties 52% 50% 73% 83% 52% 41% 53% 45%
+Prices charged by suppliers 39% 17% 17% 10% 19% 28% 15% 7%
+Movement restricions 8% 7% 6% 1% 1% 24% 21% 9%
+Fully staffing the store 3% 1% 5% 3% 12% 18% 17% 17%
+Dangerous coditions 4% 4% 3% 1% 0% 11% 9% 17%
+Abscence of electricity - - 3% 3% 29% 24% 8% 36%
+Reported expected 
+challenge
+Jun
+2022
+Dec
+2022
+Jun 
+2023
+Dec 
+2023
+Jun 
+2024
+Dec 
+2024
+Jun 
+2025
+Dec 
+2025
+No new changes 33% 23% 45% 50% 35% 23% 41% 47%
+Rising prices 60% 70% 46% 41% 59% 70% 49% 36%
+Reduced purchasing power 39% 50% 31% 35% 31% 50% 34% 26%
+Reduced mobility of 
+customers 9% 16% 5% 6% 7% 16% 5% 8%
+Scarcity of new emolyees - - - - 7% 10% 9% 12%
+Table 3: % of Retailer KIs reporting anticipating new challenges
+7
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+AFFORDABILTY20
+With the start of the full-scale invasion in 2022 and 
+the deterioration of Ukraine’s economic situation1, 
+affordability issues became increasingly severe. When 
+monitoring began in April 2022, slightly less than half of 
+Customer KIs (44%) reported facing financial barriers to 
+accessing local markets. However, just two months later, 
+in June, this figure had risen to 69%, and by August it 
+had reached 78%. This trend directly correlates with the 
+increase in the cost of the JMMI basket during the same 
+period.
+In the second half of 2022, the worsening trend 
+in financial access to stores slowed somewhat, 
+most likely due to the stabilization of prices in 
+local markets. The accelerated economic recovery in 
+the spring of 2023 and increased demand for labor 
+contributed to higher employment and household 
+incomes. As a result, after a decline in the spring, the 
+share of surveyed Customer KIs who reported that 
+financial factors did not affect their access to goods 
+in stores and markets increased in June and remained 
+relatively stable at around 30% over the following 
+months. However, as inflation accelerated again toward 
+the end of the year18, the share of respondents reporting 
+that financial factors negatively affected their access to 
+goods gradually increased, reaching 73% in December 
+2023.
+In 2024, the customer`s financial difficulties continued 
+to worsen. By the second quarter, the share of Customer 
+KIs reporting problems accessing goods had increased 
+from 72% in March to 75% in June, and continued to rise, 
+reaching 81% in November—the highest level recorded 
+from 2022 to 2025 observation period.
+In the first half of 2025, the share of Customer KIs 
+reporting financial barriers was high, but remained 
+stabled. The share of Customer KIs reporting financial 
+barriers ranged from 71% to 80%, with an average of 
+75% over the six-month period. The lowest figure was 
+recorded in June, which may be linked to the end of the 
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE 7
+Figure 6: Main financial barriers to accessing goods in stores or marketplaces 
+reported by Customer Kls, overall
+prolonged increase in prices in local markets.
+However, a short-term easing in the impact of financial 
+factors on access to goods during the second half of 
+2025 there was a small uptick in Customer KIs reporting 
+financial barriers. This may indicate a gradual decline in 
+the real purchasing power of Customer KIs, as even the 
+stabilization of prices in local markets and lower inflation 
+rates have not produced lasting improvements in access 
+to goods.
+From 2022 to 2025, the main factors limiting 
+affordability were rising prices for goods, increasing 
+fuel costs, and insufficient income. At the very 
+beginning of monitoring in April 2022, the most 
+frequently reported reason for limited access to goods 
+due to financial constraints was low income, which 
+prevented Customer KIs from purchasing the items they 
+needed. For example in April 2022, 23% of Customer KIs 
+reported insufficient income as a barrier to accessing 
+goods. Throughout 2022, this figure generally fluctuated 
+between 15% and 20%, reaching a peak of 27% in July. 
+In subsequent years, however, the impact of this factor 
+stabilized somewhat and generally remained within 10 to 
+20%.  
+The impact of high vehicle fuel prices during from 2022 
+to 2025 remained moderate but relatively stable. 
+The main financial factor limiting access to goods was 
+rising prices. Notably, throughout 2022 the frequency 
+with which respondents mentioned this factor fluctuated 
+in line with price dynamics in local markets. During the 
+period of rapid price increases, the share of respondents 
+citing rising prices as a barrier grew from 4% in April to 
+48% in July. After prices stabilized, this figure temporarily 
+declined to 30%. However, with the approach of winter 
+and renewed price increases linked to insufficient 
+harvests, the frequency of mentions began to rise again.
+In 2023, 2024, and 2025, seasonal increases in 
+the impact of rising prices were also observed. In 
+particular, local peaks were recorded during the winter 
+months, likely reflecting the need to cover not only 
+food expenses but also heating costs. Another recurring 
+period of increased pressure was observed from May to 
+June, before seasonal vegetables and fruits from the new 
+harvest became available in local markets. These patterns 
+indicate a potential dependence of household financial 
+stability on seasonal fluctuations in local market prices.
+44%
+77%
+59%
+73% 77%
+71% 76%
+9%
+27%
+7%
+23% 17% 22%
+4%
+48%
+30%
+53%
+61%
+68% 70%
+59% 63%
+23% 24%
+6%
+12%0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+Apr Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2022 2023 2024 2025
+% of Customer KIs affected by financial barriers to goods access,overall % of Customer KIs affected by expensive vehicle fuel to goods access
+% of Customer KIs affected by price increase to goods access % of Customer KIs affected by low income to goods access
+8
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+ACCESSIBILITY OF FINANCIAL SERVICES21
+At the beginning of the full-scale invasion in 2022, 
+the rapid movement of the front line disrupted the 
+regular operation of many financial service providers. 
+This was reflected in relatively low levels of reported full 
+availability in the assessed areas in April 2022: 52% for 
+banks, 65% for ATMs, and 71% for Ukrposhta services as 
+reported by Customer KIs.
+The availability of financial services improved 
+substantially after the situation stabilized and control was 
+restored over a significant share of previously occupied 
+territories. By September 2022, 89% of Customer KIs 
+reported full availability of banking services, while 91% 
+and 94% reported full availability of ATMs and Ukrposhta 
+services, respectively.
+With the onset of autumn and the approach of winter, 
+missile attacks intensified, including strikes targeting 
+critical infrastructure22. This led to frequent service 
+disruptions caused by air raid alerts and power outages, 
+and thus a  noticeable decline in the availability of 
+financial services. By December 2022, full availability was 
+reported by Customer KIs for 72% for banking services, 
+71% for ATMs, and 76% for Ukrposhta services. Problems 
+related to electricity shortages continued throughout the 
+winter. 
+As of March 2023, full availability of banking services 
+and Ukrposhta had further declined to 66% and 62%, 
+respectively, in the assessed areas, as reported by 
+Customer KIs. At the same time, the availability of ATMs 
+improved, with 78% of Customer KIs reporting full access. 
+The situation improved again by mid-2023.
+A new wave of intensive attacks began in late spring 
+2024, leading to widespread power outages across 
+Ukraine20. As a result, the full availability of bank 
+branches and ATM services fell to their lowest levels 
+recorded during the 2022 to 2025 period. However, the 
+availability of Ukrposhta services remained relatively 
+stable. 
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE 8
+Figure 7: % of Customer KIs reporting full availability of functioning financial services, 
+overall
+The inability to fully restore energy infrastructure led 
+to renewed power outages during the autumn and 
+winter, primarily affecting ATM operations. Repeated air 
+raid alerts also continued to disrupt the work of bank 
+branches and Ukrposhta offices.
+In 2025, no major changes were observed in the 
+operation of financial service providers. Customer KIs 
+generally reported gradual improvements in availability 
+in local assessed markets. However, toward the end of 
+2025, the availability of banks and ATMs declined again, 
+mainly due to the renewed impact of power outages.
+It is worth noting that limited access to financial service 
+providers was reported most frequently in oblasts 
+close to the front line and the border with the Russian 
+Federation, particularly in Chernihivska, Donetska, 
+Khersonska, Mykolaivska and Sumska Oblasts. 
+The most severe situation was observed in Donetska 
+Oblast. On average throughout 2025, only 7% of 
+Customer KIs reported full availability of banking 
+services, while 26% reported full availability of ATMs. 
+The main reasons for limited access were air alerts and 
+electricity outages. Respondents also frequently reported 
+the complete absence of ATMs. Ukrposhta branches 
+52%
+68%
+89% 72%
+66% 66% 69% 66% 58%
+47% 57%
+60%
+49% 53%
+56% 48%65%
+82% 91%
+71%
+78%
+90% 89% 90%
+84%
+68%
+78% 75% 80% 83% 88%
+68%71%
+80%
+94%
+76%
+62%
+72% 78% 68% 65%
+63%
+59% 61% 56% 60%
+68% 66%
+Apr Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec Mar Jun Sep Dec
+2022 2023 2024 2025
+Banks
+ATMs
+Ukrposhta
+remained the primary source of financial services in 
+Donetska Oblast, with an average of 70% of surveyed 
+Customer KIs reporting full availability of Ukrposhta 
+services.
+A similarly difficult situation regarding the availability 
+of financial services was observed in Khersonska Oblast. 
+During 2025, only 17% of Customer KIs, on average, 
+reported full availability of banking services and 37% 
+ATMs. The main reason was the absence of banks and 
+ATMs in the hromadas surveyed by JMMI, although such 
+services were often available in neighboring hromadas. 
+At the same time, Ukrposhta services were fully available 
+according to 62% of surveyed Customer KIs.
+Overall, financial service providers remained 
+accessible at an adequate level across most of Ukraine 
+from 2022 to 2025, preventing major disruptions 
+to the functioning of local markets. In areas facing 
+security risks or an insufficient network of banks and 
+ATMs, Ukrposhta played a critical role in ensuring access 
+to financial services for the population.
+9
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+INFLATION AND MACROECONOMY
+The full-scale invasion in 2022 had a significant 
+impact on macroeconomic stability in Ukraine. This, in 
+turn, led to a sharp rise in inflation and a substantial 
+depreciation of the national currency23.
+From January to September 2022, consumer price indices 
+increased by approximately 17%, while inflation rates for 
+food and non-alcoholic beverages more than doubled 
+during the same period23. The main drivers of this 
+inflationary pressure included the temporary occupation 
+of certain territories and the comes from the effects 
+of the UAH exchange rate adjustment23. In addition, 
+logistical disruptions, particularly in the steel industry, 
+the destruction of production capacity, and declining real 
+household incomes negatively affected the economy23. 
+Inflationary pressure eased somewhat in the autumn 
+due to the completion of the harvest season and the 
+continued operation of the grain export corridor24.
+In 2023, annual inflation slowed to 5.1%. This sharp 
+deceleration was driven by several factors. In particular, 
+measures implemented by the National Bank of Ukraine 
+(NBU) to maintain stability in the foreign exchange 
+market helped reduce underlying inflationary pressures. 
+These measures limited price increases for a wide range 
+of imported goods and contributed to improved inflation 
+and exchange rate expectations. Additionally, the freezing 
+of tariffs for certain housing and utility services helped 
+contain inflationary pressure and slowed the growth of 
+administered prices. Favorable harvests in 2023 and the 
+resulting increase in food supply also contributed to a 
+significant decline in food inflation.25
+Despite a slowing down in 2023, in 2024, consumer 
+prices continued to show moderate year-over-
+year growth. At the same time, economic growth in 
+Ukraine remained significantly constrained. One of the 
+main limiting factors was the large-scale shelling of 
+infrastructure and energy facilities, which caused severe 
+damage and led to increasing electricity shortages26. 
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE 9
+Figure 9: Real GDP (% year-on-year growth 
+rate) (Source: SSSU29)
+Figure 8: Annual inflation rate (%) (source: SSSU17)
+-40%
+-30%
+-20%
+-10%
+0%
+10%
+20%
+30%
+40%
+Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4Q1Q2Q3Q4
+2022 2023 2024 2025
+In addition, shortages of labor and high-quality 
+agricultural raw materials created further constraints 
+on economic activity. Entrepreneurs also faced a new 
+challenge in the form of higher tax rates26.
+In the first half of 2025, inflation continued to rise, 
+reaching its highest level of the 2024 to 2025 period 
+in May and June. This increase was driven by higher 
+food prices and rising business costs for raw materials 
+and wages. However, inflation began to decline in the 
+second half of 2025, mainly due to a strong harvest, 
+stable consumer demand, and improvements in the 
+energy sector.
+The NBU expects that challenges in the energy sector 
+will continue to constrain business activity in the near 
+term. At the same time, higher crop yields, along with 
+investments in infrastructure reconstruction and the 
+defense sector, are expected to support further GDP 
+growth in 2026. These factors, combined with continued 
+improvements in the energy sector and increased private 
+investment, are also expected to accelerate economic 
+growth to approximately 3–4% in 2027–2028.
+10,0%
+26,6%
+3,2%
+15,9%
+8,0%
+14,0%
+35,7%
+-0,5%
+23,2%
+10,2%
+-1%
+3%
+7%
+11%
+15%
+19%
+23%
+27%
+31%
+35%
+Jan MarMay Jul Sep Nov Jan MarMay Jul Sep Nov Jan MarMay Jul Sep Nov Jan MarMay Jul Sep Nov
+2022 2023 2024 2025
+Consumer price indices Food and non-alcoholic beverages
+10
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+METHODOLOGY OVERVIEW
+During the examined period from 2022 to 2025, data collection was a joint, 
+partner-led exercise, carried out once per month by participation Ukraine CWG 
+members, as well as REACH. However, in 2025, it transitioned to a fully partner-
+led data collection. The methodology for collecting primary data focuses on 
+quantitative, structured interviews with purposively sampled interviewees. Two 
+harmonized questionnaires are used: one targeting retail market traders who act 
+as Retailler KIs for their respective markets, and another targeting customers in 
+monitored stores and marketplaces for Customer KI interviews.
+Field teams aim to collect a minimum of three prices per item per assessed 
+hromada (admin-2), interviewing Retailer KIs until this threshold is met, and 
+also submit a minimum of five Customer KI interviews per assessed hromada. 
+Only the price of the least expensive commonly purchased brand or variety is 
+recorded for each item. All data is collected by field staff trained on the common 
+JMMI methodology and tools. It is then submitted to a common CWG KoBo 
+server and is cleaned and analyzed by REACH on behalf of the CWG.
+Secondary data, particularly data from the State Statistics Service of Ukraine 
+(SSSU), are also integrated into the JMMI and used for triangulation where 
+possible.
+The prices reported in this factsheet are ‘location medians’, designed to 
+minimize the effects of outliers and unequal numbers of prices submitted from 
+diverse locations. First, the median prices of each assessed item is calculated 
+within each assessed hromada; then, for each item, REACH calculates the median 
+of this list of hromada-level medians across larger geographical areas (raions, 
+oblasts, regions, and the whole of Ukraine).
+More details on the methodology can be  found in the JMMI Terms of Reference 
+(ToR), available here.
+REACH Initiative facilitates the development of information tools and products 
+that enhance the capacity of aid actors to make evidence-based decisions in 
+emergency, recovery and development contexts. The methodologies used by 
+REACH include primary data collection and in-depth analysis, and all activities are 
+conducted through inter-agency aid coordination mechanisms. REACH is a joint 
+initiative of IMPACT Initiatives, ACTED and the United Nations Institute for Training 
+and Research - Operational Satellite Applications Programme (UNITAR-UNOSAT).
+ABOUT REACH
+JMMI Four years of evolution: From economic shock to the protracted economic impacts of the war  (2022-2025) | UKRAINE
+CHALLENGES AND LIMITATIONS
+As the JMMI relies on purposive sampling methodologies, the results must be 
+regarded as indicative and not representative. Furthermore, results are indicative 
+only of market conditions during the time frame in which they were collected.
+The JMMI methodology records the price of the least expensive commonly 
+purchased brand or variety available in the store for each item. As brand 
+availability may vary from area to area, price comparisons across areas may 
+sometimes be based on slightly varying products.
+In some cases, partners were unable to collect the minimum number of retailer 
+KI or customer KI interviews required by the JMMI methodology. Where 
+necessary, imputation from raion-level or oblast-level medians was used to 
+compensate for missing prices and enable the cost of the JMMI basket to be 
+calculated.
+While the JMMI’s remote monitoring methodology produces reliable data on 
+prices and availability, further data on market functionality cannot be collected 
+using this methodology. As the JMMI continues to expand into new hromadas, 
+some changes in the overall median prices may be driven by shifts in coverage 
+rather than by true price.  
+10
+About the CWG 
+The Ukraine Cash Working Group (CWG) was established in 2016 and is currently 
+co-chaired by ACTED and OCHA. It is a technical working group (TWG) within 
+the Inter-Cluster Coordination Group (ICCG) under the overall strategic and 
+programmatic direction of the Humanitarian Country Team (HCT). The CWG 
+focuses on the operational coordination of Multi-Purpose Cash (MPC) and Unifiied 
+Cash Transfer (UCT) programming and the support to the coherence of the use of 
+Proximity Jun
+2022
+Dec
+2022
+Jun 
+2023
+Dec 
+2023
+Jun 
+2024
+Dec 
+2024
+Jun 
+2025
+Dec 
+2025
+> 50 km 86% 85% 81% 81% 63% 68% 73% 78%
+21-50 km 10% 11% 15% 15% 28% 25% 18% 10%
+0-20km 4% 4% 4% 4% 9% 7% 9% 12%
+Table 4: % Frontline proximity of assessed hromadas
+11
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+JMMI Four years of evolution: From economic shock to market stabilization and the protracted economic impacts of the war  (2022-2025) | UKRAINE 11
+ENDNOTES
+1 United Nations Ukraine (2023). Early Recover Efforts in 
+Ukraine: UN Annual Results Report 2022.
+2 The calculation of prices for the JMMI basket items 
+is based on principle “medians of medians”. Median 
+prices are calculated for each item in every assessed 
+hromada using prices gathered from individual traders. 
+Subsequently, median prices for rayons are computed 
+based on the hromada median prices, employing the 
+same method. Similar calculations are performed for 
+oblasts, regions, and national prices.
+3 Non-food itmes include: body soap, diapers, hygiene/
+sanytary pads, laundry soap, toothpaste, washing powder 
+(machine);
+Food items include: bread, buckwheat, cabbage, carrots, 
+chicken (leggs), cereal for babies, drinking water, eggs 
+(chicken), milk, oil (sunflower), onion, potato, rice (round), 
+wheat flour (white).
+4 Ministry of Economy of Ukraine (2024). Overview of 
+inflation.
+5 National Bank of Ukraine (2025). Inflation Report: Q3 
+2025.
+6 Essential items, namely food items, hygiene items, 
+vehicle fuel, and heating fuel, are categorized as 
+follows: available, partly available, available on order, 
+and unavailable. The availability of essential items is 
+calculated for each hromada by counting the occurrences 
+of each answer choice. Availability figures for essential 
+items in raions, oblasts, and regions are calculated based 
+on the frequency of occurrence of each answer choice 
+obtained from the hromadas within the respective 
+raion, oblast, or region. National availability figures are 
+determined as the mean of the availability figures from 
+the regions.
+7 Сustomer KIs are residents of the hromadas being 
+monitored by JMMI, who regularly shop at local markets 
+and stores.
+Retailer KIs are representatives of retailer operating in 
+the hromadas being monitored by JMMI, including local 
+markets and stores regulary sreving for population.
+8 WHO Health Emergencies Ukraine (December 2022). 
+Disruption of access to medicines and medical devices in 
+Ukraine: February–June 2022.
+9 Into free market circulation. The government has lifted 
+state price controls on fuel. When will gasoline and diesel 
+become available, and what will the ceiling price be? 
+Forbes Ukraine, 18 May 2022.
+10 Ukraine would not feel diesel cuts by Slovakia or 
+Hungary, says fuel consultancy Reuters, 1 August 2024.
+11 Ukraine to resume excise tax on fuel to replenish 
+budget during war Reuters, 15 August 2022.
+12 Parliament has reinstated the fuel excise tax Ukrinform, 
+21 September 2022.
+13 The government is initiating an increase in fuel excise 
+taxes to the European level UA-ENERGY, 22 March 2024. 
+14 New fuel excise taxes come into effect in Ukraine 
+starting January 1 MINFIN, 01 January 2025. 
+15 Zelenskyy has signed the law increasing fuel excise 
+taxes Suspilne Novini, 2 September 2024.
+16  Limitations on customers’ access to stores are 
+calculated for each hromada by counting the occurrences 
+of each answer choice. Figures for raions, oblasts, 
+and regions are calculated based on the frequency of 
+occurrence of each answer choice obtained from the 
+hromadas within the respective raion, oblast, or region. 
+National figures are determined as the mean of the 
+figures from the regions.
+17 State Statistics Service of Ukraine Data Portal: Prices. 
+Accessed May 2026
+18 Market supply challenges and difficulties are computed 
+for each hromada by counting the occurrences of each 
+answer choice. The figures for market supply challenges 
+and difficulties in raions, oblasts, and regions are 
+calculated based on the frequency of occurrence of 
+each answer choice obtained from the hromadas within 
+the respective raion, oblast, or region. National market 
+supply figures are determined as the mean of the market 
+supply figures from the regions.
+19 REACH Ukraine (2024). JMMI Trends 2023.
+20 REACH Ukraine (2024). JMMI Q2 2024 Market Overiew.
+20 Limitations on customers’ financial factors are 
+calculated for each hromada by counting the occurrences 
+of each answer choice. Demand capacity figures for 
+raions, oblasts, and regions are calculated based on the 
+frequency of occurrence of each answer choice obtained 
+from the hromadas within the respective raion, oblast, or 
+region. National demand capacity figures are determined 
+as the mean of the demand capacity figures from the 
+regions.
+21 All financial services indicators, specifically the 
+availability of banks, ATMs, and Ukrposhta services, are 
+calculated for each hromada by counting the occurrences 
+of each answer choice. Financial services figures for 
+rayons, oblasts, and regions are calculated based on the 
+frequency of occurrence of each answer choice obtained 
+from the hromadas within the respective rayon, oblast, or 
+region. National financial services figures are determined 
+as the mean of the financial services figures from the 
+regions.
+22 PAX (2022). Risks and impacts from attacks on energy 
+infrastructure in Ukraine - Environment and Conflict Alert 
+Ukraine.
+23 National Bank of Ukraine (October 2022) 
+Macroeconomic and Monetary Review.
+24 REACH Ukraine (2022) JMMI September 2022 
+Factsheet.
+25 National Bank of Ukraine (2024). Infllation report 
+January 2024.
+26 National Bank of Ukraine (2025). Macroeconomic and 
+Monetary Review January 2025.
+27 National Bank of Ukraine. (2025).
+Inflation Repor Q3 2025.
+28 National Bank of Ukraine. (2026).
+Inflation Report Q4 2025.
+29 State Statistics Service of Ukraine Data Portal: National 
+accounts. Accessed May 2026
+12
+3
+This report)\ is made possible by the generous support 
+of the American people through the United States 
+Government. The contents are the responsibility of REACH 
+Initiatives and do not necessarily reflect the views of the 
+United States Government.
+JMMI Four years of evolution: From economic shock to market stabilization and the protracted economic impacts of the war  (2022-2025) | UKRAINE 12
+Supported by:
+Participating partners

@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/b2814ce5-b109-4e29-a9ff-1ecde6378c8a/20260501-FEWS-NET-bf-kmu-fr-m1780278188.pdf",
+  "title": "Burkina Faso Mise à jour des messages clés Mai - Septembre 2026 : La faiblesse des revenus limite l’accès alimentaire dans le nord du pays (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 01 Jun 2026 01:43:19 +0000",
+  "sha256": "15af4b637f9aa99131255736076a18d699932a2a18f5e91dfac0d62024c39439",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-01T03:53:52.838597+00:00",
-  "text_chars": 174113,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-01T03:54:37.201546+00:00",
+  "text_chars": 6873,
+  "raw_path": "data/geopolitics/raw/15af4b637f9aa99131255736076a18d699932a2a18f5e91dfac0d62024c39439.pdf",
+  "text_path": "data/geopolitics/raw/15af4b637f9aa99131255736076a18d699932a2a18f5e91dfac0d62024c39439.txt"
 }
