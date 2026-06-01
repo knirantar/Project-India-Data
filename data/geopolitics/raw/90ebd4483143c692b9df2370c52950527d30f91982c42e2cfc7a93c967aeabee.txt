@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: From Libyan deserts to 3D-printed guns: The weapons that never go away (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/01-06-2026-Wikipedia-MKII-Stingray.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml
+Content-Type: image/jpeg
+Bytes: 38192
