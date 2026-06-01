@@ -1,0 +1,120 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-01T22:58:58.513701+00:00",
+  "new_documents": 18,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.txt",
+      "metadata_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/7c974fbb427c407aff0183dde593a501086d8b6c7bda73690d4f7420c93afd9c.txt",
+      "metadata_path": "data/geopolitics/raw/7c974fbb427c407aff0183dde593a501086d8b6c7bda73690d4f7420c93afd9c.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/d101a984aa939f4d26b777bf4521b610466f092054ae6734c6aa8acaab2342cd.txt",
+      "metadata_path": "data/geopolitics/raw/d101a984aa939f4d26b777bf4521b610466f092054ae6734c6aa8acaab2342cd.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/01-06-2026-UNHCR-Lebanon.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/3c0ac84e2660fd662482b0d831eb7719dd33e7e26160971d289b0a7ef2c99ddf.txt",
+      "metadata_path": "data/geopolitics/raw/3c0ac84e2660fd662482b0d831eb7719dd33e7e26160971d289b0a7ef2c99ddf.json"
+    },
+    {
+      "title": "Security Council LIVE: Emergency meeting on Lebanon as Israeli attacks casts pall over Iran-US negotiations (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/23-01-2024-UN-Photo-SC-wideshot.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/cd8e70ea7570d780ceccba1e651dfedaa7eb5137bebdf4d7a1b5511adb8726ac.txt",
+      "metadata_path": "data/geopolitics/raw/cd8e70ea7570d780ceccba1e651dfedaa7eb5137bebdf4d7a1b5511adb8726ac.json"
+    },
+    {
+      "title": "UN stresses the need for de-escalation in Ukraine war as attacks rise (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/01-06-2026-UN-Photo-Kayoko-Gotoh.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/5516ab4a7527b8f8a8c4518efcfcfb974e4ac55317a017734b9d59001266f381.txt",
+      "metadata_path": "data/geopolitics/raw/5516ab4a7527b8f8a8c4518efcfcfb974e4ac55317a017734b9d59001266f381.json"
+    },
+    {
+      "title": "World News in Brief: Updates from Gaza, the West Bank and Afghanistan, UN development reforms, change at the top of WFP",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167617",
+      "text_path": "data/geopolitics/raw/d2bbd528a64d4da6acdb8e5e4e7898fda56ead9c73d65f5298737d24fba931c9.txt",
+      "metadata_path": "data/geopolitics/raw/d2bbd528a64d4da6acdb8e5e4e7898fda56ead9c73d65f5298737d24fba931c9.json"
+    },
+    {
+      "title": "Australia politics live: Chalmers says economic woes driving voters to One Nation; Wong sanctions Israelis over West Bank violence",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/02/australia-politics-live-one-nation-minimum-wage-case-labor-coalition-anthony-albanese-angus-taylor-question-time-senate-estimates-ntwnfb",
+      "text_path": "data/geopolitics/raw/cafb47d1a38d1fde1e1f7068d4896940e8fe0b900aab9330ecbbb3a5fccfbb98.txt",
+      "metadata_path": "data/geopolitics/raw/cafb47d1a38d1fde1e1f7068d4896940e8fe0b900aab9330ecbbb3a5fccfbb98.json"
+    },
+    {
+      "title": "World News in Brief: Updates from Gaza, the West Bank and Afghanistan, UN development reforms, change at the top of WFP (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/26-05-2026_UNNews_Eid_In_Gaza_10.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/b6bc9f079c4790e486155bf984c87f4a5e3f3e02437deadaf71d346b27149960.txt",
+      "metadata_path": "data/geopolitics/raw/b6bc9f079c4790e486155bf984c87f4a5e3f3e02437deadaf71d346b27149960.json"
+    },
+    {
+      "title": "Walter Reed, Other Military Hospitals Get 'A' Grade for Patient Care",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4505921/walter-reed-other-military-hospitals-get-a-grade-for-patient-care/",
+      "text_path": "data/geopolitics/raw/134d6907bbab1236f045dc0494642da1f3cf261d29ca6d7b717a7db8f85eac82.txt",
+      "metadata_path": "data/geopolitics/raw/134d6907bbab1236f045dc0494642da1f3cf261d29ca6d7b717a7db8f85eac82.json"
+    },
+    {
+      "title": "Pentagon chief sounds ‘alarm’ over China’s buildup, urges allies to boost defense spending",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/01/pentagon-chief-sounds-alarm-over-chinas-buildup-urges-allies-to-boost-defense-spending/",
+      "text_path": "data/geopolitics/raw/0e9d8cdc2a8851da382aee295e614d2cddedadc9110db92b9a00dbfa1a28c74e.txt",
+      "metadata_path": "data/geopolitics/raw/0e9d8cdc2a8851da382aee295e614d2cddedadc9110db92b9a00dbfa1a28c74e.json"
+    }
+  ],
+  "txt_before": 583,
+  "txt_after": 591
+}
