@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/f617a63f-75fe-4a8b-8fe4-2db975421482/SSD%20Protection%20Cluster%20Update%20-%20February%202026.pdf",
+  "title": "South Sudan: SSD Protection Cluster Update - February 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 02 Jun 2026 09:54:20 +0000",
+  "sha256": "5253838e3ce21c0ea1f175ea8471ac4be6af453518b727396f36c2f4827a6021",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-02T10:08:06.261864+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-06-02T10:08:40.450665+00:00",
+  "text_chars": 9073,
+  "raw_path": "data/geopolitics/raw/5253838e3ce21c0ea1f175ea8471ac4be6af453518b727396f36c2f4827a6021.pdf",
+  "text_path": "data/geopolitics/raw/5253838e3ce21c0ea1f175ea8471ac4be6af453518b727396f36c2f4827a6021.txt"
 }
