@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-02T18:35:02.148806+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.xml",
-  "text_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.txt"
+  "url": "https://www.theguardian.com/world/2026/jun/02/benjamin-netanyahu-us-iran-war",
+  "title": "Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Tue, 02 Jun 2026 18:15:47 GMT",
+  "sha256": "403bfb0b53e0764ffcba6a1ceafc517af343da578ad00718afe22a2ee178ed6f",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-02T18:35:45.710752+00:00",
+  "text_chars": 5233,
+  "raw_path": "data/geopolitics/raw/403bfb0b53e0764ffcba6a1ceafc517af343da578ad00718afe22a2ee178ed6f.html",
+  "text_path": "data/geopolitics/raw/403bfb0b53e0764ffcba6a1ceafc517af343da578ad00718afe22a2ee178ed6f.txt"
 }

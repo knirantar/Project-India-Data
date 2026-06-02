@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/3f9aa16f-ef67-4a4d-a15c-6bfc7af984a8/9%20APR%202026%20Meeting%20Minutes%20MHPSS%20TWG%20UKR.pdf",
+  "title": "Ukraine: Technical working group on Mental Health and Psychosocial Support (MHPSS) (Meeting minutes April 9, 2026) [EN/UK] (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 02 Jun 2026 14:04:57 +0000",
+  "sha256": "95f0eefa1510ae6626f5e941b7163bc1db43f2be723c036fbc8d0947d2467bbb",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-02T18:35:40.383542+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-02T18:36:19.929568+00:00",
+  "text_chars": 11160,
+  "raw_path": "data/geopolitics/raw/95f0eefa1510ae6626f5e941b7163bc1db43f2be723c036fbc8d0947d2467bbb.pdf",
+  "text_path": "data/geopolitics/raw/95f0eefa1510ae6626f5e941b7163bc1db43f2be723c036fbc8d0947d2467bbb.txt"
 }

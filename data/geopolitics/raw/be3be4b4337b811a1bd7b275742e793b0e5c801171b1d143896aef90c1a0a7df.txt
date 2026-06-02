@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: UN deplores another wave of Russian attacks across Ukraine (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-06-2026-UNICEF-Ukraine-02.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 48980

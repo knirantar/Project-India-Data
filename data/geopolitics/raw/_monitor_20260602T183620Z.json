@@ -1,0 +1,174 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-02T18:36:20.388219+00:00",
+  "new_documents": 27,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.txt",
+      "metadata_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/7c974fbb427c407aff0183dde593a501086d8b6c7bda73690d4f7420c93afd9c.txt",
+      "metadata_path": "data/geopolitics/raw/7c974fbb427c407aff0183dde593a501086d8b6c7bda73690d4f7420c93afd9c.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/eddf19c87989bb51f84a79be807873dd3a3251c813b65adcb85b5162c69a36bc.txt",
+      "metadata_path": "data/geopolitics/raw/eddf19c87989bb51f84a79be807873dd3a3251c813b65adcb85b5162c69a36bc.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Why Benjamin Netanyahu poses an obstacle to US and Iran peace deal",
+      "url": "https://www.theguardian.com/world/2026/jun/02/benjamin-netanyahu-us-iran-war",
+      "text_path": "data/geopolitics/raw/403bfb0b53e0764ffcba6a1ceafc517af343da578ad00718afe22a2ee178ed6f.txt",
+      "metadata_path": "data/geopolitics/raw/403bfb0b53e0764ffcba6a1ceafc517af343da578ad00718afe22a2ee178ed6f.json"
+    },
+    {
+      "title": "UN deplores another wave of Russian attacks across Ukraine",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167622",
+      "text_path": "data/geopolitics/raw/eabef80cbfa8e8b25ab5134789453929a30ec92c7e6460fcc7947aefd023faaa.txt",
+      "metadata_path": "data/geopolitics/raw/eabef80cbfa8e8b25ab5134789453929a30ec92c7e6460fcc7947aefd023faaa.json"
+    },
+    {
+      "title": "Ousted Republican senators question Bill Pulte’s qualifications for top intelligence job – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/02/donald-trump-primaries-midterms-california-governor-iran-latest-news-updates",
+      "text_path": "data/geopolitics/raw/f17b0dff5dcb73ee64c78149526aa72324a65bcbab4ad54ccc92bd34f6193ebf.txt",
+      "metadata_path": "data/geopolitics/raw/f17b0dff5dcb73ee64c78149526aa72324a65bcbab4ad54ccc92bd34f6193ebf.json"
+    },
+    {
+      "title": "DR Congo: Ebola Response Must Cross Borders Faster Than Virus, IOM Warns",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-response-must-cross-borders-faster-virus-iom-warns",
+      "text_path": "data/geopolitics/raw/48e51d3e452b4e46b99d14a7ac96f7896b0a6180244bd3a406e4b77354d39201.txt",
+      "metadata_path": "data/geopolitics/raw/48e51d3e452b4e46b99d14a7ac96f7896b0a6180244bd3a406e4b77354d39201.json"
+    },
+    {
+      "title": "Rooted for Lebanon: Launch of International Humanitarian Alliance to Support People of Lebanon",
+      "url": "https://reliefweb.int/report/lebanon/rooted-lebanon-launch-international-humanitarian-alliance-support-people-lebanon",
+      "text_path": "data/geopolitics/raw/ce8bee9b1af98115b17ac17a8e0d2e551130dfc8bf96d4e1e4d8407e35bee433.txt",
+      "metadata_path": "data/geopolitics/raw/ce8bee9b1af98115b17ac17a8e0d2e551130dfc8bf96d4e1e4d8407e35bee433.json"
+    },
+    {
+      "title": "UN deplores another wave of Russian attacks across Ukraine (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/02-06-2026-UNICEF-Ukraine-02.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/be3be4b4337b811a1bd7b275742e793b0e5c801171b1d143896aef90c1a0a7df.txt",
+      "metadata_path": "data/geopolitics/raw/be3be4b4337b811a1bd7b275742e793b0e5c801171b1d143896aef90c1a0a7df.json"
+    },
+    {
+      "title": "Could Russia hit northern Europe if it gained control of Arctic’s Bear Gap?",
+      "url": "https://www.aljazeera.com/news/2026/6/2/could-russia-hit-northern-europe-if-it-gained-control-of-arctics-bear-gap?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/d54f199fa2ddeb547bdcea249862e4b10ed26f460b94c2352eb920325043e665.txt",
+      "metadata_path": "data/geopolitics/raw/d54f199fa2ddeb547bdcea249862e4b10ed26f460b94c2352eb920325043e665.json"
+    },
+    {
+      "title": "IRGC says Iran has more 'trump cards' up its sleeve as talks hang by a thread",
+      "url": "http://www.euronews.com/2026/06/02/irgc-says-iran-has-more-trump-cards-up-its-sleeve-as-talks-hang-by-a-thread",
+      "text_path": "data/geopolitics/raw/b1800eb744d6c1a3025b6bf6f455de6c99b7c3779abddd0cc8f3f30f0493f60e.txt",
+      "metadata_path": "data/geopolitics/raw/b1800eb744d6c1a3025b6bf6f455de6c99b7c3779abddd0cc8f3f30f0493f60e.json"
+    },
+    {
+      "title": "Joint Task Force Southern Border Holds Transfer of Authority",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4506508/joint-task-force-southern-border-holds-transfer-of-authority/",
+      "text_path": "data/geopolitics/raw/604fa4d6e7387609ebff7cdae34ce7506f1eb611d2de23b3b2d7f2cd9ad95e69.txt",
+      "metadata_path": "data/geopolitics/raw/604fa4d6e7387609ebff7cdae34ce7506f1eb611d2de23b3b2d7f2cd9ad95e69.json"
+    },
+    {
+      "title": "France restricts Israeli presence at Europe’s biggest defense show",
+      "url": "https://www.defensenews.com/global/europe/2026/06/02/france-restricts-israeli-presence-at-europes-biggest-defense-show/",
+      "text_path": "data/geopolitics/raw/d9845f08cea676d04df4de5c3f982d46843305acce9433a6904a2db87b5d540b.txt",
+      "metadata_path": "data/geopolitics/raw/d9845f08cea676d04df4de5c3f982d46843305acce9433a6904a2db87b5d540b.json"
+    },
+    {
+      "title": "UNHCR, humanitarian partners ask the world not to forget Rohingya refugees in Bangladesh [EN/AR]",
+      "url": "https://reliefweb.int/report/bangladesh/unhcr-humanitarian-partners-ask-world-not-forget-rohingya-refugees-bangladesh-enar",
+      "text_path": "data/geopolitics/raw/69f4db3782dba652739a27812b5a452e2e21cb2e6700c3982cc22377daa6f549.txt",
+      "metadata_path": "data/geopolitics/raw/69f4db3782dba652739a27812b5a452e2e21cb2e6700c3982cc22377daa6f549.json"
+    },
+    {
+      "title": "Global conflicts push Sri Lanka's economy to the brink",
+      "url": "https://www.npr.org/2026/06/02/nx-s1-5823430/global-conflicts-push-sri-lankas-economy-to-the-brink",
+      "text_path": "data/geopolitics/raw/534ac865971251ce1fe4fa11f828bc4535e95a8fadc7188747cc5837ae419a20.txt",
+      "metadata_path": "data/geopolitics/raw/534ac865971251ce1fe4fa11f828bc4535e95a8fadc7188747cc5837ae419a20.json"
+    },
+    {
+      "title": "Ukraine: Technical working group on Mental Health and Psychosocial Support (MHPSS) (Meeting minutes March 12, 2026) [EN/UK] (pdf)",
+      "url": "https://reliefweb.int/attachments/0ea92eb1-2fd9-4079-a7b1-c09784b04183/12%20MAR%202026%20Meeting%20Minutes%20MHPSS%20TWG%20UKR.docx.pdf",
+      "text_path": "data/geopolitics/raw/9e752b8219327de064f635753ce994813f2301e0d6e3344ef635c79968f64549.txt",
+      "metadata_path": "data/geopolitics/raw/9e752b8219327de064f635753ce994813f2301e0d6e3344ef635c79968f64549.json"
+    },
+    {
+      "title": "US, NATO allies to launch scaled-back Baltic Sea drills",
+      "url": "https://www.defensenews.com/global/europe/2026/06/02/us-nato-allies-to-launch-scaled-back-baltic-sea-drills/",
+      "text_path": "data/geopolitics/raw/9eecc36c92fa6d724ee05011ea0edb1ba914dc07e232044295790c006911cac5.txt",
+      "metadata_path": "data/geopolitics/raw/9eecc36c92fa6d724ee05011ea0edb1ba914dc07e232044295790c006911cac5.json"
+    },
+    {
+      "title": "World: Why Climate and Disaster Risk Governance Must Work Together",
+      "url": "https://reliefweb.int/report/world/why-climate-and-disaster-risk-governance-must-work-together",
+      "text_path": "data/geopolitics/raw/8684346a42478804e33698876b732549125baa1faec398d980e8c936297e8fda.txt",
+      "metadata_path": "data/geopolitics/raw/8684346a42478804e33698876b732549125baa1faec398d980e8c936297e8fda.json"
+    },
+    {
+      "title": "Lebanon hospital strikes impact most vulnerable patients, warns WHO (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-04-2026-UNICEF-Lebanon-03.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/c5e6a5be0150b7c775bc6f0fd2cabfbc4c2010b54278d9032c9fffad3288fc7d.txt",
+      "metadata_path": "data/geopolitics/raw/c5e6a5be0150b7c775bc6f0fd2cabfbc4c2010b54278d9032c9fffad3288fc7d.json"
+    },
+    {
+      "title": "Ukraine: Technical working group on Mental Health and Psychosocial Support (MHPSS) (Meeting minutes April 9, 2026) [EN/UK] (pdf)",
+      "url": "https://reliefweb.int/attachments/3f9aa16f-ef67-4a4d-a15c-6bfc7af984a8/9%20APR%202026%20Meeting%20Minutes%20MHPSS%20TWG%20UKR.pdf",
+      "text_path": "data/geopolitics/raw/95f0eefa1510ae6626f5e941b7163bc1db43f2be723c036fbc8d0947d2467bbb.txt",
+      "metadata_path": "data/geopolitics/raw/95f0eefa1510ae6626f5e941b7163bc1db43f2be723c036fbc8d0947d2467bbb.json"
+    }
+  ],
+  "txt_before": 602,
+  "txt_after": 619
+}

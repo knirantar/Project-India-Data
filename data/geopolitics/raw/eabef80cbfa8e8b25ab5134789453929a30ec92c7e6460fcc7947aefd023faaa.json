@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-02T18:35:02.148806+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.xml",
-  "text_path": "data/geopolitics/raw/c58a72779df7855745db02b01e9b701a673f864811ba3a9bf02f2096398ad782.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167622",
+  "title": "UN deplores another wave of Russian attacks across Ukraine",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Tue, 02 Jun 2026 12:00:00 +0000",
+  "sha256": "eabef80cbfa8e8b25ab5134789453929a30ec92c7e6460fcc7947aefd023faaa",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-02T18:35:49.331882+00:00",
+  "text_chars": 3673,
+  "raw_path": "data/geopolitics/raw/eabef80cbfa8e8b25ab5134789453929a30ec92c7e6460fcc7947aefd023faaa.html",
+  "text_path": "data/geopolitics/raw/eabef80cbfa8e8b25ab5134789453929a30ec92c7e6460fcc7947aefd023faaa.txt"
 }
