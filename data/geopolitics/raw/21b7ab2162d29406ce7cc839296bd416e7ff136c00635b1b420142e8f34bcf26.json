@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/b26573a1-b07a-4f4c-a53b-0b65b6e341ec/WFP%20AFG%20Countrywide%20Weekly%20Market%20Report%2C%20Issue%20297%20-%204th%20Week%20of%20May%202026.pdf",
+  "title": "Afghanistan: Weekly Market Report: Issue 297: Week 4 - May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 02 Jun 2026 02:30:45 +0000",
+  "sha256": "21b7ab2162d29406ce7cc839296bd416e7ff136c00635b1b420142e8f34bcf26",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-02T05:26:36.785985+00:00",
-  "text_chars": 174113,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-02T05:27:02.213524+00:00",
+  "text_chars": 12533,
+  "raw_path": "data/geopolitics/raw/21b7ab2162d29406ce7cc839296bd416e7ff136c00635b1b420142e8f34bcf26.pdf",
+  "text_path": "data/geopolitics/raw/21b7ab2162d29406ce7cc839296bd416e7ff136c00635b1b420142e8f34bcf26.txt"
 }
