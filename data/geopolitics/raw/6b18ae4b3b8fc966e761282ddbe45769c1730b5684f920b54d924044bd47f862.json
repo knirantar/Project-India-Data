@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-03T13:10:52.474151+00:00",
-  "text_chars": 9064868,
-  "raw_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.xml",
-  "text_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.txt"
+  "url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+  "title": "Iran and the US trade strikes in the Persian Gulf, further testing the ceasefire",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Wed, 03 Jun 2026 02:45:30 -0400",
+  "sha256": "6b18ae4b3b8fc966e761282ddbe45769c1730b5684f920b54d924044bd47f862",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-03T13:11:18.329463+00:00",
+  "text_chars": 5973,
+  "raw_path": "data/geopolitics/raw/6b18ae4b3b8fc966e761282ddbe45769c1730b5684f920b54d924044bd47f862.html",
+  "text_path": "data/geopolitics/raw/6b18ae4b3b8fc966e761282ddbe45769c1730b5684f920b54d924044bd47f862.txt"
 }

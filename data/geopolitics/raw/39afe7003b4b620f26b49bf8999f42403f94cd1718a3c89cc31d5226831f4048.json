@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-03T13:10:52.474151+00:00",
-  "text_chars": 9064868,
-  "raw_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.xml",
-  "text_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167625",
+  "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Tue, 02 Jun 2026 12:00:00 +0000",
+  "sha256": "39afe7003b4b620f26b49bf8999f42403f94cd1718a3c89cc31d5226831f4048",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-03T13:11:01.677625+00:00",
+  "text_chars": 3040,
+  "raw_path": "data/geopolitics/raw/39afe7003b4b620f26b49bf8999f42403f94cd1718a3c89cc31d5226831f4048.html",
+  "text_path": "data/geopolitics/raw/39afe7003b4b620f26b49bf8999f42403f94cd1718a3c89cc31d5226831f4048.txt"
 }

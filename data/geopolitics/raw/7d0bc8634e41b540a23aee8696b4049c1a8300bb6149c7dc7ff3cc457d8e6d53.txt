@@ -1,0 +1,47 @@
+SĒLIJA, Latvia — As NATO military staff and officials greeted the booms of successful drone intercepts with polite applause, demonstrations at the Sēlija testing range in central Latvia last week showed both the progress European startups are making in counter-unmanned aerial systems as well as the difficulty to reliably take down flying drones.
+After an initial intercept by local 
+drone maker Eraser
+ failed and the target returned unharmed, CEO Edgars Gauručs was so stressed in a later demonstration that he missed the details of the successful takedown. Nordic Air Defense’s Kreuger 100 interceptor hit its target on the first try, missed on a second attempt, before succeeding again in a third and final simulated attack.
+Finding cost-effective drone counters has become urgent for NATO, as countries on its eastern flank have found themselves unable to fend off multiple drone incursions in recent months. Meanwhile, Russia uses thousands of drones in Ukraine every day, and Iranian drone attacks caused the United States to burn through 
+years of interceptor production
+ valued at billions of dollars in just weeks.
+“We face serious problems, not only in Latvia,” said Maj. Modris Kairišs, head of Latvia’s Autonomous Systems Competence Center, at the testing range on May 26. Drone technology is “a couple of steps ahead” of C-UAS, he said, with interceptors having to be successful every time while only one attack drone needs to get through for damaging effect.
+The threat felt particularly acute in Latvia last month after the country was unable to challenge repeated 
+incursions by Ukrainian drones
+ believed to have been diverted by Russian jamming. In response, the country is sending 
+mobile teams equipped with interceptor drones
+ from Latvia’s Origin Robotics and Eraser to its eastern border with Russia.
+A  team from Germany's JetDrones with two of the company's jet-powered interceptor drones at the Sēlija testing range in central Latvia on May 26, 2026. (Rudy Ruitenberg/staff)
+The war in the Middle East exposed a cost-exchange problem for C-UAS, with Shahed-class threats costing $15,000 to $50,000 being shot down with interceptors costing anywhere from $1 million to $12 million, PitchBook senior research analyst Ali Javaheri wrote in a May 26 report. He said investors should look for solutions that cost less than $30,000 per engagement against such threats.
+The demonstrations at Sēlija, which hosts NATO’s new uncrewed systems testing range, featured a range of approaches by European startups to the drone problem, from autonomous interceptors to a mothership drone and jet-powered systems to engage faster threats. Much of it inspired by the war in Ukraine, and in some cases battle-tested there.
+Origin Robotics
+ showed off the Blaze interceptor that will equip Latvia’s mobile teams and which the company hopes to deliver to Ukraine “soon.” The four-rotor drone is fully autonomous, with radar for initial target detection and computer-vision software to close in on and follow the target, with an operator deciding whether or not to trigger the interceptor’s fragmentation warhead.
+Light rain complicated visibility across the testing range, a 2 by 2 kilometers square of cleared terrain of grass and sand hemmed in by pine forest, with military brass and officials following the action on a several meter-high video screen set up for the occasion.
+“There was the big kaboom and the target is down,” said Maris Kuda, head of government relations at Origin Robotics, after the drone identified, approached and hit a target drone from 
+Temeso
+, another Latvian company. “Hopefully soon those will be some Shaheds on the eastern border.”
+Ukraine remains the reference for combat drone operations, and several companies at the Sēlija range noted their systems had already been tested there. While the concept of interceptor drones predates Russia’s 2022 invasion, Ukraine has turned them into a mass weapon, with 
+production of 100,000 units in 2025
+, according to the National Security and Defence Council of Ukraine.
+“Ukraine has demonstrated with absolute clarity that drones, counter-drone systems, electronic warfare, autonomy and rapid innovation cycles are now central to the military efficiency,” said Maj. Gen. Andis Dilāns, undersecretary of state for logistics in Latvia’s Ministry of Defence.
+Latvia aims to develop the Sēlija training area into a place where NATO allies and industry can test technologies, validate concepts and speed up development, which is especially important in counter-UAS due to constantly evolving threats, according to Dilāns.
+The country signed a letter of intent with the Netherlands last week to let the Dutch armed forces use the range for drone and counter-drone exercises and testing.
+NATO is setting up five innovation ranges as part of its Rapid Adoption Action Plan, including the one in Sēlija focused on unmanned aerial systems and their countermeasures. The goal is to make it easier for companies to test new systems and show they work, and make it less risky for countries to buy those systems because the capabilities are proven.
+Sweden’s 
+Nordic Air Defense
+ demonstrated its first C-UAS product, a portable carbon-fiber drone called Kreuger 100, which it launched from a winged mothership that can additionally function as a communications relay or be equipped with a sensor gimbal to cue the interceptor.
+The drone performed three simulated strikes on the target, with a first head-on hit counting as a kill as the Kreuger got within the 3-meter distance where its fragmentation head is effective. The interceptor, chasing the threat in intercept mode without manual control, didn’t get close enough in a second pass from a cornering angle, before success on a third attempt.
+A mothership drone carries a Nordic Air Defense Kreuger 100 interceptor drone at the Sēlija testing range in central Latvia on May 26, 2026. (Rudy Ruitenberg/staff)
+The company says it aims to reach a price point at which the interceptor can be used as a disposable air-defense tool.
+With Russia adapting to Ukraine’s drone interceptors by switching to jet-powered attack UAVs, two German companies demonstrated high-speed drones for use against high-flying or faster targets, though neither demo included an interception.
+Munich-based 
+RDC Systems
+ showcased a 3D-printed rotor-powered interceptor drone called Raven, with rocket-assisted launch to save battery life while climbing to operating height. The company says the drone was measured by NATO radars at the Sēlija range in March doing 450 kilometers per hour.
+JetDrones
+, a startup from the same German city and only registered since February, demonstrated a jet-powered interceptor aimed at Shaheds flying at an altitude of four to eight kilometers, a range which the company said would typically require expensive interceptor missiles such as IRIS-T. The firm says its drone can operate fully autonomously or monitored by a human operator.
+The company was flying the drone in FPV mode, and a company representative said adding a radar would double the price tag, when JetDrones has been told by Ukrainian operators that the cost needs to below that of a Shahed.
+Eraser wrapped up the demonstrations at Sēlija with a successful takedown of the Temeso target using a faster version of its modular drone, after the earlier attempt with a slower version and a smaller target proved inconclusive.
+“There is the target,” Gauručs said, tracking the interception on-screen, after just describing how cloudy skies and sun can complicate visual detection. “We think we… oh, no, we got it, the target is going down in the corner.”
+The executive said he wasn’t sure whether the Eraser drone took down the target autonomously or in manual mode.
+“To be fair, I was so stressed that I didn’t see the result.”
+Rudy Ruitenberg is a Europe correspondent for Defense News. He started his career at Bloomberg News and has experience reporting on technology, commodity markets and politics.

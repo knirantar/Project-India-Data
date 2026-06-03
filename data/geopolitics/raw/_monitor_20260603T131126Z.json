@@ -1,0 +1,126 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-03T13:11:26.300375+00:00",
+  "new_documents": 19,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.txt",
+      "metadata_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.txt",
+      "metadata_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4fa72e9cbb8f7f305f96dad6fb2ce5fa23cbfe7b418e0a6c10248a4b6608037e.txt",
+      "metadata_path": "data/geopolitics/raw/4fa72e9cbb8f7f305f96dad6fb2ce5fa23cbfe7b418e0a6c10248a4b6608037e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Ukrainian drones hit St Petersburg as ‘Russian Davos’ opens in city",
+      "url": "https://www.theguardian.com/world/2026/jun/03/ukraine-drones-st-petersburg-russia-economic-forum",
+      "text_path": "data/geopolitics/raw/c2900c5b791d30a9e1367ad67b399c86cf7c83be0e9f95358247ec75eb69854a.txt",
+      "metadata_path": "data/geopolitics/raw/c2900c5b791d30a9e1367ad67b399c86cf7c83be0e9f95358247ec75eb69854a.json"
+    },
+    {
+      "title": "UN mission reports rising tensions along the Blue Line in Lebanon",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167625",
+      "text_path": "data/geopolitics/raw/39afe7003b4b620f26b49bf8999f42403f94cd1718a3c89cc31d5226831f4048.txt",
+      "metadata_path": "data/geopolitics/raw/39afe7003b4b620f26b49bf8999f42403f94cd1718a3c89cc31d5226831f4048.json"
+    },
+    {
+      "title": "Live: Russian warship at Baltic Fleet base struck overnight, Ukraine says",
+      "url": "https://www.france24.com/en/europe/20260603-live-ukrainian-drone-attack-st-petersburg-injures-several-damages-infrastructure",
+      "text_path": "data/geopolitics/raw/2e02e835b90f928085f4ae9c4338b57b2b1b7ef95afb9c6bf232ef9e5713b628.txt",
+      "metadata_path": "data/geopolitics/raw/2e02e835b90f928085f4ae9c4338b57b2b1b7ef95afb9c6bf232ef9e5713b628.json"
+    },
+    {
+      "title": "UN mission reports rising tensions along the Blue Line in Lebanon (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/06-01-2026-UNIFIL-Lebanon-02.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/042f0814db3602e9c8e6f749910c68ff644302cc2278f987682ec6ed2a1c7ba4.txt",
+      "metadata_path": "data/geopolitics/raw/042f0814db3602e9c8e6f749910c68ff644302cc2278f987682ec6ed2a1c7ba4.json"
+    },
+    {
+      "title": "World: New Framework Reframing Modern Conflicts as Global Health System Shocks",
+      "url": "https://reliefweb.int/report/world/new-framework-reframing-modern-conflicts-global-health-system-shocks",
+      "text_path": "data/geopolitics/raw/61426318feed4b6efa14a7cc2d51bd0ca34ba50cc375524dc914bc2314101df1.txt",
+      "metadata_path": "data/geopolitics/raw/61426318feed4b6efa14a7cc2d51bd0ca34ba50cc375524dc914bc2314101df1.json"
+    },
+    {
+      "title": "Iran and the US trade strikes in the Persian Gulf, further testing the ceasefire",
+      "url": "https://www.npr.org/2026/06/03/g-s1-125566/iran-war-updates",
+      "text_path": "data/geopolitics/raw/6b18ae4b3b8fc966e761282ddbe45769c1730b5684f920b54d924044bd47f862.txt",
+      "metadata_path": "data/geopolitics/raw/6b18ae4b3b8fc966e761282ddbe45769c1730b5684f920b54d924044bd47f862.json"
+    },
+    {
+      "title": "Drone attack on UAE's Barakah more dangerous than Zaporizhzhia, IAEA chief tells Euronews",
+      "url": "http://www.euronews.com/2026/06/03/drone-attack-on-uaes-barakah-more-dangerous-than-zaporizhzhia-iaea-chief-tells-euronews",
+      "text_path": "data/geopolitics/raw/4273f91acbaef01e8edbf9cc7cc052d1cbca321bc93cc78faf4c812cb005ff1e.txt",
+      "metadata_path": "data/geopolitics/raw/4273f91acbaef01e8edbf9cc7cc052d1cbca321bc93cc78faf4c812cb005ff1e.json"
+    },
+    {
+      "title": "At a NATO range in Latvia, hits and misses mark Europe’s counter-drone journey",
+      "url": "https://www.defensenews.com/global/europe/2026/06/03/at-a-nato-range-in-latvia-hits-and-misses-mark-europes-counter-drone-journey/",
+      "text_path": "data/geopolitics/raw/7d0bc8634e41b540a23aee8696b4049c1a8300bb6149c7dc7ff3cc457d8e6d53.txt",
+      "metadata_path": "data/geopolitics/raw/7d0bc8634e41b540a23aee8696b4049c1a8300bb6149c7dc7ff3cc457d8e6d53.json"
+    },
+    {
+      "title": "‘Women and girls cannot wait’: Lebanon’s crisis is putting lives at risk (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/06-03-2026-UNICEF-Lebanon-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/7a958baa907429d9439798892a36413490cff8399ecd7068d41fa717827e0cb8.txt",
+      "metadata_path": "data/geopolitics/raw/7a958baa907429d9439798892a36413490cff8399ecd7068d41fa717827e0cb8.json"
+    }
+  ],
+  "txt_before": 631,
+  "txt_after": 640
+}
