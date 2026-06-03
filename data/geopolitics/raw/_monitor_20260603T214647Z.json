@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-03T21:46:47.669964+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.txt",
+      "metadata_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.txt",
+      "metadata_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4fa72e9cbb8f7f305f96dad6fb2ce5fa23cbfe7b418e0a6c10248a4b6608037e.txt",
+      "metadata_path": "data/geopolitics/raw/4fa72e9cbb8f7f305f96dad6fb2ce5fa23cbfe7b418e0a6c10248a4b6608037e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "Growing up with sirens: UN child rights envoy on the toll of the Ukraine-Russia war (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026_Ukraine%20Frazier%202.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/a755c0e2087442549ee06101ccb9d7d8e60be1b8f26a565bfc5b78e48644f218.txt",
+      "metadata_path": "data/geopolitics/raw/a755c0e2087442549ee06101ccb9d7d8e60be1b8f26a565bfc5b78e48644f218.json"
+    },
+    {
+      "title": "Kyrgyzstan wins seat on UN Security Council for first time ever",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167636",
+      "text_path": "data/geopolitics/raw/f4343fca46e36cd0acc031fcc9102d35136927bf16599640549a7fda0a4f476c.txt",
+      "metadata_path": "data/geopolitics/raw/f4343fca46e36cd0acc031fcc9102d35136927bf16599640549a7fda0a4f476c.json"
+    },
+    {
+      "title": "Kyrgyzstan wins seat on UN Security Council for first time ever (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/03-06-2026-UN-Photo-Kyrgyzstan.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/c1a38beb5c4b781ada93f44341b3fd7cf22e159516b25b205150724e724097ca.txt",
+      "metadata_path": "data/geopolitics/raw/c1a38beb5c4b781ada93f44341b3fd7cf22e159516b25b205150724e724097ca.json"
+    },
+    {
+      "title": "The Trump-Xi Summit Produced Stability, But It Won’t Last Forever",
+      "url": "https://thediplomat.com/2026/06/the-trump-xi-summit-produced-stability-but-it-wont-last-forever/",
+      "text_path": "data/geopolitics/raw/6a99ec5587c10db68435d28cc87487542624582a5de67b2b9370c972c1d0a207.txt",
+      "metadata_path": "data/geopolitics/raw/6a99ec5587c10db68435d28cc87487542624582a5de67b2b9370c972c1d0a207.json"
+    },
+    {
+      "title": "Experts warn terrorism threat is rising in Africa as US pulls back",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/03/experts-warn-terrorism-threat-is-rising-in-africa-as-us-pulls-back/",
+      "text_path": "data/geopolitics/raw/787706f26dc8645c3a68c1c05c0cf0bbc5be52810a485913fc415a38245e10be.txt",
+      "metadata_path": "data/geopolitics/raw/787706f26dc8645c3a68c1c05c0cf0bbc5be52810a485913fc415a38245e10be.json"
+    }
+  ],
+  "txt_before": 651,
+  "txt_after": 656
+}

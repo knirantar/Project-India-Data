@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-03T21:46:07.466928+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://thediplomat.com/2026/06/the-trump-xi-summit-produced-stability-but-it-wont-last-forever/",
+  "title": "The Trump-Xi Summit Produced Stability, But It Won’t Last Forever",
+  "source": "https://thediplomat.com/feed/",
+  "published": "Wed, 03 Jun 2026 02:36:00 +0900",
+  "sha256": "6a99ec5587c10db68435d28cc87487542624582a5de67b2b9370c972c1d0a207",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-03T21:46:47.225943+00:00",
+  "text_chars": 12640,
+  "raw_path": "data/geopolitics/raw/6a99ec5587c10db68435d28cc87487542624582a5de67b2b9370c972c1d0a207.html",
+  "text_path": "data/geopolitics/raw/6a99ec5587c10db68435d28cc87487542624582a5de67b2b9370c972c1d0a207.txt"
 }

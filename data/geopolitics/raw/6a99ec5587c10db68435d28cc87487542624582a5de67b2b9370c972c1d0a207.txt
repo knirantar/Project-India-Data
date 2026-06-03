@@ -1,0 +1,163 @@
+On May 14–15, U.S. President Donald Trump visited China for the first time in eight years, meeting President Xi Jinping in Beijing. Their summit produced purchase agreements, two new bilateral boards, and a shared commitment to what both sides called “constructive strategic stability.” 
+
+
+The visit came after a year of tariff escalation, export control expansions, and critical minerals restrictions that had pushed the bilateral relationship to one of its more stressed points in recent memory. A fortnight on, the verdict among analysts has settled into a familiar groove: the summit was a modest but meaningful step toward predictability in the world’s most consequential bilateral relationship. 
+
+
+Although that verdict is not wrong, it is incomplete.
+
+
+The summit’s true historical weight resides not in the new Boards of Investment and Trade, the purchase commitments, or the plans for subsequent meetings, but in the structural condition of mutual strategic vulnerability that made both presidents willing – even eager – to sit together in Beijing and manage their conflicts. When those vulnerabilities resolve, as they must, the arc of great power competition will bend back toward the confrontation it has only temporarily deferred.
+
+
+Expedient Trade and Commerce Mechanisms
+
+
+Besides purchase promises by the Chinese side, the summit’s most concrete economic outputs were the two newly established boards. 
+The Board of Trade
+ is designed to monitor tariff reductions; the 
+Board of Investment
+ is intended to facilitate bilateral capital flows in non-sensitive sectors. These are certainly stabilizing achievements, but tension exists between these mechanisms and a broader structural backdrop. 
+
+
+The United States’ Section 301 investigations into Chinese 
+excess capacity
+ and 
+forced labor practices
+ continue. The USITC review on the consequences of revoking China’s 
+Permanent Normal Trade Relations
+ status has not been foreclosed.
+ CFIUS scrutiny
+ of Chinese-linked investment remains heightened, though the Board of Investment may help prevent non-sensitive investments from being mistaken for security threats. The boards offer operational improvements within the relationship as it currently stands, but they do not alter the structural framework.
+
+
+More fundamentally, the trade war experience of 2025 taught both sides a lesson the summit’s commercial optimism tends to obscure: tariffs were not, in the end, the decisive instrument of pressure. Both sides absorbed escalation without capitulating. What forced the conversation was something 
+far more targeted
+ – China’s ability to weaponize the critical minerals supply chain, and Washington’s demonstrated willingness to choke off China’s access to advanced chip manufacturing equipment and software. These instruments struck at the productive capacity of each economy in ways no tariff schedule could replicate. 
+
+
+It is precisely this coercive force that compelled both presidents to meet in Beijing. Yet the deliverables came in the form of purchase commitments, not a comprehensive redress of each side’s core concerns. As long as the condition of mutually guaranteed vulnerability holds, so will the stability of the broader China-U.S. relationship. 
+
+
+But both sides are actively working to undermine each other’s supply chain leverage. That means mutually vulnerability is not going to last forever – and neither is the newfound stability. If China successfully manufactures 
+domestic DUV lithography machines
+ or develops 
+advanced indigenous design software
+, the semiconductor chokehold on its chip ambitions dissolves, and with it, one of Washington’s most powerful instruments of leverage. If the United States and its allies achieve rare earth processing autonomy – through 
+Canadian deposits
+, 
+Australian refining
+, or 
+synthetic alternatives
+ – China’s critical minerals weapon loses its edge, dulling one of Beijing’s most powerful instruments.  
+
+
+Either development would transform the strategic calculus overnight, and any trade and investment arrangements reached today would likely be recalibrated accordingly.
+
+
+The Delay in Arms Sales to Taiwan
+
+
+Beyond trade, the Taiwan issue was another area of much interest to analysts looking at the Trump-Xi summit.
+
+
+It is too early to assert that Trump has violated the
+ Six Assurances
+ in hinting at using military sales to Taiwan as a 
+“chip”
+ for negotiations with China. The more tractable question is why the pending $14 billion arms sale was delayed in the first place.
+
+
+The inventory management argument advanced by Acting Navy Secretary Hung Cao at his congressional hearing – 
+that the delay reflects ammunition shortages caused by the Iran conflict 
+– was dismissed by Defense Secretary Pete Hegseth at the Shangri-La Dialogue almost immediately. Hegseth stated unambiguously that he would “
+not couple the two in any way at all
+.” 
+
+
+The $14 billion sale concerns future production, not current stockpiles, and the United States has, in any case, historically delayed deliveries to Taiwan as a 
+routine matter of logistics and diplomatic timing
+. A delay in finalization does not constitute a suspension of commitment; the United States could resume the sale under altered circumstances, a logic Hegseth implicitly endorsed by centering the decision in the president’s hands rather than in any concession framework.
+
+
+The Financial Times’ suggestion 
+that the delay was to smooth the way for Elbridge Colby’s potential visit to China, itself preparatory work for Hegseth’s return to Beijing, also warrants scrutiny. Nevertheless, the story’s internal logic is undermined by the fact that if China had sought high-profile defense visits, it would have sent Defense Minister Dong Jun to Singapore for the Shangri-La Dialogue on  May 29–31. Instead, 
+Dong missed
+ the event for a second consecutive year. 
+
+
+Beyond Shangri-La, Hegseth accompanied Trump to Beijing, but he still failed to secure a meaningful meeting with Dong –
+ at least nothing that the readouts could attest to
+. Dong’s name did not even appear on the 
+Chinese readout about the negotiation
+. This is not the posture of a country interested in the symbolic architecture of defense diplomacy, and there is accordingly no credible “coupling” of the topic with the question of arms sales to Taiwan.
+
+
+A more accurate explanation may lie in Taipei rather than Beijing. KMT ChairCheng Li-wun – whose planned 
+June visit to the United States 
+represents her first significant engagement with Washington since rising to the party chairmanship – was the 
+central figure i
+n the protracted legislative deadlock over Taiwan’s special defense budget, first proposed in November 2025 exactly for items including the $14 billion sale in question. The budget that
+ ultimately passed on May 8 
+allocated NT$780 billion in two tranches: NT$300 billion for a package authorized in December 2025 and NT$480 billion set aside for the pending $14 billion sale. This falls well short of President Lai Ching-te’s originally proposed NT$1.25 trillion, yet considerably above the “NT$380 billion plus N installments” figure Cheng and her faction within the KMT had insisted upon until early May. 
+
+
+What ultimately moved Cheng’s faction remains unclear. Her own account has been notably
+ thin
+. If word of a pending $14-billion sale had been circulating 
+since March
+, why hold out on the grounds that U.S. authorization was a prerequisite, only to relent in May without that authorization in hand? These questions may be the key to understanding the delay in the $14 billion sale. 
+
+
+It is possible that Washington, to secure the NT$780 billion draft, may have postponed the announcement until after Cheng’s visit in exchange for her clearing the budget. If Cheng could arrive in Washington and carry back the finalized package as a tangible deliverable, it would enable her to present herself as a figure capable of communicating productively with both the Mainland and the United States, and to rebuke the persistent accusation that her Beijing visit represented a 
+capitulation to Beijing’s pressure
+. These are no trivial terms and could incentivize a politician to cede her ground. 
+
+
+This explanation holds more water than either the inventory management thesis or the concession-exchange theory. It serves U.S. interests in Taiwan’s internal politics without requiring Washington to sacrifice any substantive commitment.
+
+
+The Parallel Stalemates in Arms Control and AI 
+
+
+Two issues conspicuous by their absence from the summit readouts deserve particular attention: nuclear arms control and artificial intelligence governance. On arms control, China’s 
+rapid expansion of its nuclear arsenal 
+has been a 
+sustained U.S. concern
+ since Trump’s second term began. Its omission from both readouts reflects the broader difficulty both sides face in initiating serious military dialogue. But, as neither side seems prepared for a full-on military flare-up, there is no harm in stalled exchanges on this front, not in the short term. 
+
+
+On AI safety, the summit generated considerable speculation about whether it represented a step forward from the
+ Biden-era stalemate
+. The fundamental asymmetry in each country’s approach, however, suggests these talks face a structural ceiling that goodwill alone cannot raise. The United States can adopt proactive measures through its guardrails by 
+proprietary model labs
+ and government instruments
+ that could block adversarial state access, constrain industrial-scale model distillation efforts from China, and restrict non-state actors from reaching frontier capabilities.
+
+
+China’s commitment to open-source AI dominance, however, renders equivalent controls difficult to implement. Open-weight models, by definition, cannot be recalled. 
+Malicious actors can jailbreak, fine-tune, and localize open-source models
+ in jurisdictions well beyond Chinese regulatory reach and remote kill switches do not exist for local deployment yet. 
+
+
+Beijing’s open-source posture is largely rational from a diffusion and influence standpoint, but it raises obstacles for the kind of verifiable AI safety commitments Washington would require. The talks on this front risk stalling precisely where the previous administration left them – not because of diplomatic failure, but because the two sides’ approaches to AI development and deployment rest on different architectural foundations.
+
+
+A Strategic Framework That Eats Itself
+
+
+Both presidents agreed to define the current moment as “constructive strategic stability,” but the phrase’s structure reveals its limits. The framework is hierarchical: “strategic” is the dominant term, and “stability” and “constructive” are subordinate to it. Any gesture, concession, or agreement that fails to serve the overarching strategic vision of either party – or that no longer serves immediate expediency – will be quietly set aside. 
+
+
+The Phase One trade agreement of January 2020 is a relevant precedent. The deal was specific, quantified, and monitored; it was nonetheless rendered effectively inoperative within months as the COVID-19 pandemic sent bilateral relations into free fall. The agreements of Beijing 2026 are not immune to a comparable deterioration, although, for the time being, one can assume that the Sino-American relationship has entered into a phase of stability.
+
+
+Dr. Martin Luther King Jr. borrowed from the abolitionist Theodore Parker the image of the moral universe as a long arc bending, ultimately, toward justice. The arc of great power competition bends as well – not toward justice, but toward the logic of underlying material conditions. It accommodates detentes, summits, and boards of trade and investment; it accommodates press releases, state dinners, and warm photographs on the steps of the Great Hall of the People. But underlying it all is that competition, which is tempered but not erased.
+
+
+The current period of relative stability is held in place by a specific configuration of mutual dependence. Washington cannot easily replace Chinese rare earth processing; Beijing cannot easily replace Western chip manufacturing equipment; neither side has yet achieved sufficient autonomy to absorb the full costs of an open rupture. That configuration will hold for sometime, possibly as long as 
+three years
+, as the readouts envisioned. When it shifts – and the question is when, not if – the terms of the relationship will be renegotiated accordingly. 
+
+
+Both powers have bought themselves time. The critical question, to which neither side currently knows the answer, is what they will have built when the clock runs out.
