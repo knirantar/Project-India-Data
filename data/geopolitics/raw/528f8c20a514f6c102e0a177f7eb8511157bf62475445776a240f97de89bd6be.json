@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/1066f2b9-4e90-5d4b-a7cc-110ac54a2f7f/UNHCR%20Middle%20East%20Situation%20Emergency%20Update%2019.pdf",
+  "title": "Iran: UNHCR Middle East Situation: Weekly Update #19 as of 2 June 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 03 Jun 2026 13:03:10 +0000",
+  "sha256": "528f8c20a514f6c102e0a177f7eb8511157bf62475445776a240f97de89bd6be",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-03T18:20:11.485510+00:00",
-  "text_chars": 523907,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-06-03T18:20:42.888337+00:00",
+  "text_chars": 27771,
+  "raw_path": "data/geopolitics/raw/528f8c20a514f6c102e0a177f7eb8511157bf62475445776a240f97de89bd6be.pdf",
+  "text_path": "data/geopolitics/raw/528f8c20a514f6c102e0a177f7eb8511157bf62475445776a240f97de89bd6be.txt"
 }
