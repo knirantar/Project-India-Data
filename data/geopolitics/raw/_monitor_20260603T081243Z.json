@@ -1,0 +1,120 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-03T08:12:43.468357+00:00",
+  "new_documents": 18,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.txt",
+      "metadata_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.txt",
+      "metadata_path": "data/geopolitics/raw/5a33879c2e80944eb422478c0db3d10b489a90bda46c6e24c03777dd79f766fd.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4fa72e9cbb8f7f305f96dad6fb2ce5fa23cbfe7b418e0a6c10248a4b6608037e.txt",
+      "metadata_path": "data/geopolitics/raw/4fa72e9cbb8f7f305f96dad6fb2ce5fa23cbfe7b418e0a6c10248a4b6608037e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.txt",
+      "metadata_path": "data/geopolitics/raw/6d862fbb30a1577ad03fca8cbfcb7d21d74db594844b2a4f83df3a55942278c8.json"
+    },
+    {
+      "title": "The Rain in Spain Falls Harder on Ukraine: Rethinking the Spanish Civil War Analogy",
+      "url": "https://warontherocks.com/the-rain-in-spain-falls-harder-on-ukraine-rethinking-the-spanish-civil-war-analogy/",
+      "text_path": "data/geopolitics/raw/7c27eac0b630e31d9de767e07a315c8be8d8d211441fad39d3c09c8f8c808a5b.txt",
+      "metadata_path": "data/geopolitics/raw/7c27eac0b630e31d9de767e07a315c8be8d8d211441fad39d3c09c8f8c808a5b.json"
+    },
+    {
+      "title": "oPt: Palestine - Conflict LTC Situation Report (Telecoms Area) #69 (Reporting Period: May 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/522e1401-af5d-46b3-b456-6c98b6211065/LTC%20Telecoms%20Palestine%20SitRep%20%2369%20May%202026_0.pdf",
+      "text_path": "data/geopolitics/raw/23530eb1dac2e37ed5b4d194b7451c51aa4608d9676425b64f3d0ac4db3e351a.txt",
+      "metadata_path": "data/geopolitics/raw/23530eb1dac2e37ed5b4d194b7451c51aa4608d9676425b64f3d0ac4db3e351a.json"
+    },
+    {
+      "title": "The Inertia of Russia’s War",
+      "url": "https://www.foreignaffairs.com/russia/inertia-russias-war",
+      "text_path": "data/geopolitics/raw/d6761e214c9656af8b3a7c41d9be3e37af90c2e03ff88bb9beef894a7860ec57.txt",
+      "metadata_path": "data/geopolitics/raw/d6761e214c9656af8b3a7c41d9be3e37af90c2e03ff88bb9beef894a7860ec57.json"
+    },
+    {
+      "title": "Ukraine: Cold Spot Risk Assessment 2026/2027, Factsheet - May 2026",
+      "url": "https://reliefweb.int/report/ukraine/ukraine-cold-spot-risk-assessment-20262027-factsheet-may-2026",
+      "text_path": "data/geopolitics/raw/70cc764596f232c7771c9b8feb623eefa96b30cd52cfd99c9b0d6bfa89be8264.txt",
+      "metadata_path": "data/geopolitics/raw/70cc764596f232c7771c9b8feb623eefa96b30cd52cfd99c9b0d6bfa89be8264.json"
+    },
+    {
+      "title": "Ukraine: Cold Spot Risk Assessment 2026/2027, Factsheet - May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/65cf6c1a-cd50-484c-bfbb-5f20fc13dede/REACH_Ukraine-Cold-Spots-Risk-Assessment_2026-27.pdf",
+      "text_path": "data/geopolitics/raw/0b9744cd7acf315003bdfc4fbfe245c42e1aec5a749dded8cb2a01f684cb15d7.txt",
+      "metadata_path": "data/geopolitics/raw/0b9744cd7acf315003bdfc4fbfe245c42e1aec5a749dded8cb2a01f684cb15d7.json"
+    },
+    {
+      "title": "What’s happening on day 96 of Iran war as US, Iran engage in new attacks",
+      "url": "https://www.aljazeera.com/news/2026/6/3/whats-happening-on-day-96-of-iran-war-as-us-iran-engage-in-new-attacks?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/ac6723a18480d32bec7b6669e65eea59aef641f15b06c9d22342d1cf8463f09a.txt",
+      "metadata_path": "data/geopolitics/raw/ac6723a18480d32bec7b6669e65eea59aef641f15b06c9d22342d1cf8463f09a.json"
+    },
+    {
+      "title": "DPRK: [Press Release] NKDB Launches Visual Atlas Expansion Mapping Forced Repatriation of North Koreans",
+      "url": "https://reliefweb.int/report/democratic-peoples-republic-korea/press-release-nkdb-launches-visual-atlas-expansion-mapping-forced-repatriation-north-koreans",
+      "text_path": "data/geopolitics/raw/ac629118866ba3790465907d1e411f7d1c78494e899b1abb6480ccf435fe033f.txt",
+      "metadata_path": "data/geopolitics/raw/ac629118866ba3790465907d1e411f7d1c78494e899b1abb6480ccf435fe033f.json"
+    },
+    {
+      "title": "Iraq: From Skills to Success: Empowering Entrepreneurs in Sharya Township through UNIDO Support",
+      "url": "https://reliefweb.int/report/iraq/skills-success-empowering-entrepreneurs-sharya-township-through-unido-support",
+      "text_path": "data/geopolitics/raw/e2a2317e812da34bc0df1b78cbee9af2561bf192570e3006648a8160c725e80e.txt",
+      "metadata_path": "data/geopolitics/raw/e2a2317e812da34bc0df1b78cbee9af2561bf192570e3006648a8160c725e80e.json"
+    }
+  ],
+  "txt_before": 623,
+  "txt_after": 631
+}

@@ -1,0 +1,158 @@
+Logistics & Telecommunications Clus ter ( LTC) – Telecoms Area   www.ETCluster.org 
+Page 1 of 4 
+Palestine – Conflict 
+LTC Situation Report (Telecoms Area) #69 
+Reporting period: May 2026 
+ 
+The WFP-led Logistics and Telecommunications Cluster (LTC) was activated as the Emergency 
+Telecommunications Cluster (ETC) on 31 October 2023 in response to the crisis in Gaza. This Situation Report 
+provides a monthly update on LTC telecoms activities. All references to the LTC in this report relate specifically 
+to the telecommunications area of the cluster . 
+ Summary Points  
+• LTC Telecoms in Palestine continues to adapt its 
+response in Gaza to sustain critical communications for 
+humanitarian operations in a highly constrained 
+environment, with a focus on expanding secure 
+connectivity, maintaining power and network 
+functionality, and advocating for the entry of fuel, spare 
+parts, and essential technical equipment. 
+• On 06 May, LTC Telecoms and its lead agency, WFP, 
+met with the Humanitarian Military Interaction Access 
+Unit (HMI) to review the import status of ICT equipment 
+and recent changes to approval processes required by 
+the authorities, which WFP will formally communicate to 
+stakeholders. 
+• In May, LTC Telecoms established a two-year Long-
+Term Agreement (LTA) with Track24, covering 07 May 
+2026 to 06 May 2028, to support satellite-based 
+tracking of personnel and vehicles, and shared it with 
+UNDSS for dissemination to UN agencies. 
+Humanitarian Overview 
+Humanitarian conditions in Gaza remained extreme and life-threatening throughout May, with most of 
+the population displaced and living in overcrowded, inadequate shelters amid ongoing insecurity and 
+intermittent hostilities. 
+Humanitarian operations were severely constrained by access restrictions, insecurity, limited entry 
+points, and shortages of fuel, spare parts, and critical supplies, resulting in inconsistent aid delivery 
+and increasing risks to essential infrastructure systems. Kerem Shalom remained the only operational 
+crossing for humanitarian cargo, with Zikim partially reopened for northern entry, while all other 
+crossings, including Rafah and Kissufim, remained closed.  
+Despite sustained humanitarian efforts, significant funding gaps, access limitations, and widespread 
+infrastructure damage prevented the scale-up of assistance, leaving conditions deteriorating with no 
+immediate prospect of recovery . 
+ 
+LTC delivers security comms  training for 
+humanitarian staff on 17 May at Khan Younis 
+Training College. Photo: UNRW A/Saeda Abu 
+Alroos.
+Logistics & Telecommunications Clus ter ( LTC) – Telecoms Area   www.ETCluster.org 
+Page 2 of 4 
+Telecommunications Overview 
+Telecommunications services in Gaza remain critically disrupted due to extensive infrastructure 
+damage, ongoing hostilities, and severely limited access for repairs. An estimated 75 percent of 
+network infrastructure has been destroyed since October 2023. 
+Mobile data services remain unavailable, with only intermittent 2G voice coverage in limited areas. 
+Many sites rely on overstretched generators, increasing the risk of permanent equipment failure and a 
+potential full communications blackout without urgent entry of spare parts and consumables. 
+Damage to fibre backbones and microwave links has forced operators to rely on short-range, 
+improvised solutions with limited reliability. The use of Starlink devices remain s prohibited under 
+national regulations and due to lack of authorised coverage. 
+Humanitarian operations continue to depend on a small quantity of satellite phones, VHF radio, and in-
+person coordination, while operators face persistent equipment shortages and movement restric tions. 
+Communities rely on private generators, informal charging points, and improvised Wi-Fi hotspots 
+where minimal connectivity is available. 
+LTC Activities  
+Coordination 
+In May, LTC Telecoms in Palestine continued to adapt its response in Gaza to sustain critical 
+communications for humanitarian operations under highly constrained conditions. Priorities remained 
+focused on expanding secure connectivity, maintaining power and network functionality, and 
+advocating for the entry of fuel, spare parts, and essential ICT equipment to ensure continuity of 
+services. 
+Engagements during May focused on strengthening coordination and advocacy. LTC Telecoms 
+engaged with private sector telecommunications actors to support connectivity solutions, cluster-
+related activities, and contingency planning for the West Bank. Discussions with the Association of 
+International Development Agencies (AIDA) further addressed constraints on equipment entry into 
+Gaza, with follow-up planned to support engagement with relevant authorities. 
+On 06 May, LTC Telecoms and WFP met with the Humanitarian Military Interaction Access Unit (HMI) 
+to review import procedures for ICT equipment and related approval requirements. Updates on the 
+approval process were shared and are being formalized by WFP, while follow-up continues on pending 
+approvals. 
+On 07 May, LTC Telecoms and WFP conducted a site assessment of the UNDP building in Gaza City to 
+support plans for re-establishing inter-agency presence in northern Gaza. While the structure was 
+assessed as suitable, significant enabling works are required, including cabling, electrical preparation, 
+and ICT installation, with follow-up actions underway. 
+LTC Telecoms also participated in the Education Cluster sub-national meeting on 07 May to present on 
+telecoms activities and challenges, with further technical discussions planned. Additional coordination 
+on 10 May included engagement with private sector operators on connectivity and contingency 
+planning, alongside the completion of fuel repayments to telecommunications actors through in-kind 
+arrangements with UNOPS and WFP.
+Logistics & Telecommunications Clus ter ( LTC) – Telecoms Area   www.ETCluster.org 
+Page 3 of 4 
+Internet connectivity  
+Humanitarian operations in Gaza remained critically dependent on Paltel as the sole functioning 
+Internet Service Provider (ISP), with no alternative or backup systems such as fibre, microwave links, 
+or VSAT available, leaving agencies without redundancy to mitigate disruptions. 
+In May, LTC Telecoms engaged Jawwal/Paltel to address connectivity challenges, operational 
+requirements, and options to reduce connectivity costs for humanitarian hubs, with follow-up actions 
+planned. 
+LTC Telecoms also strengthened connectivity at the Palestinian Non-Governmental Organization 
+(PNGO) Gaza City location by refurbishing and configuring a donated computer as a dedicated security 
+and user management appliance. Training for the PNGO IT Manager on system commissioning, 
+maintenance, backup, and recovery is planned, supported by detailed documentation. 
+Security Communications  Systems 
+LTC Telecoms and partners continued advancing the 2026–27 interagency Security Communications 
+Plan by consolidating VHF repeater data, integrating recent assessments, and supporting the 
+standardisation of UN radio configurations. With the risk of a full internet outage, strengthening radio 
+communications as a reliable fallback remained a priority, alongside UNDSS requests for agencies to 
+submit full radio inventories for inclusion in the master plan. Proof-of-concept testing of the recently 
+upgraded digital system is underway following discussions with UNDSS on 07 May. 
+LTC Telecoms coordinated with the Palestine Red Crescent Society and the International Committee of 
+the Red Cross to support repairs to the VHF network. 
+On 13 May, a VHF coverage assessment along the Gaza City–Zikim convoy route was completed, with 
+recommendations issued to improve signal coverage and reliability. 
+A two-year Long-Term Agreement (LTA) with Track24, a satellite-based provider of vehicle and 
+personnel tracking services, was established for the period 07 May 2026 to 06 May 2028 to support 
+real-time tracking inside the Gaza Strip, enhancing operational safety. 
+Between 17 and 18 May, LTC Telecoms configured service laptops for VHF equipment and 
+humanitarian hub operations, while also providing technical guidance to support site configuration in 
+North Gaza. Additional SCS training was delivered in Khan Younis on 17 May, including sessions in 
+Arabic, to strengthen frontline capacity to maintain critical communications. 
+Further Information 
+Visit the LTC Dashboard  for an overview of planned and active services. 
+Funding 
+LTC Telecoms requires USD 1 million to sustain critical telecommunications, coordination, and 
+information management services in Gaza, in line with the 2026 Flash Appeal for the occupied 
+Palestinian territory. 
+On 12 May, LTC Telecoms submitted a concept note to WFP Partnerships to explore additional funding 
+options for ongoing activities in Gaza.
+Logistics & Telecommunications Clus ter ( LTC) – Telecoms Area   www.ETCluster.org 
+Page 4 of 4 
+Challenges 
+Fuel Shortages: Inconsistent fuel supply, compounded by ongoing regional escalation, is hindering 
+humanitarian operations including telecommunications services. 
+Limited telecommunications services: Voice and internet services in Gaza remain limited due to 
+widespread infrastructure damage, limited access, import restrictions, and a lack of repair equipment. 
+Lack of telecommunications equipment : Hostilities have destroyed key equipment, and ongoing 
+import restrictions severely limit LTC’s ability to restore and deliver its planned services. 
+Staff safety : Volatile security conditions and movement restrictions continue to compromise the safety 
+and security of humanitarian staff and hinder the deployment of LTC services. 
+Cybersecurity risks: Cybersecurity threats remain high. Use of tech platforms, including social and 
+press media, requires caution. 
+Funding : Limited funding continues to constrain LTC’s ability to meet urgent communications needs.  
+Meetings 
+The next Global LTC Teleconference on telecoms for the Gaza response will take place on Tuesday 16 
+June 2026 at 13:00 UTC. All meeting minutes are available here. 
+Contacts 
+NAME POSITION LOCATION CONTACT 
+Shantal Boodhun LTC Telecoms 
+Coordinator Gaza (Deir al Balah) shantal.boodhun@wfp.org 
+David Pickering  LTC Telecoms Field 
+Coordinator Gaza (Deir Al Balah) david.pickering@wfp.org  
+Mufaro Masuka Global LTC Telecoms 
+Information Management Remote mufaro.masuka@wfp.org 
+ 
+ 
+ 
+Further information related to the LTC Palestine (telecoms) operation can be found on the website: 
+www.etcluster.org/emergency/palestine-conflict  
+For more information or to be added or deleted from the mailing list, please contact:  
+Palestine.ETC@wfp.org

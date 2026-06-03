@@ -1,0 +1,848 @@
+Executive Summary
+This document outlines the results of the Cold Spots Risk Assessment for the 2026/2027 winter season in Ukraine. 
+The assessment is intended to support winter preparedness and strategic planning by identifying areas at 
+heightened risk of winter-related humanitarian impacts, informing prioritization within the Winter Response Plan, 
+and supporting operational planning by humanitarian actors, local authorities, and service providers.
+The war continues to drive displacement, damage to housing, and degradation of critical civilian infrastructure
+1 , 
+particularly energy, heating and water systems. During the 2025/2026 winter season, repeated attacks on energy 
+infrastructure, combined with freezing temperatures, caused widespread disruptions to electricity, heating and 
+water supply, affecting millions of people across the country.
+The assessment identifies “cold spots” where winter-related hazards compound with high levels of exposure, 
+population vulnerability, utility disruptions, and reduced coping capacity. Building on previous iterations
+2 , the 
+2026/2027 assessment places stronger emphasis on electricity and heating disruptions, given their central role in 
+household thermal comfort, access to water, communications, and essential services during winter.
+Compared to previous years, the geography of winter risk appears increasingly shaped not only by frontline 
+proximity, but also by broader energy-system disruption affecting large urban and densely populated areas. While 
+the highest levels of risk remain concentrated in the north-east and east of the country, elevated vulnerability is 
+also visible in areas affected by repeated outages, infrastructure pressure, and dependency on centralized services.
+While maintaining a national overview, the assessment places particular focus on frontline and high-risk areas, 
+where conflict intensity, infrastructure damage, service disruptions, and vulnerable population profiles can create 
+acute winter-related humanitarian risks. Continuous monitoring and engagement with local authorities 
+and communities will be essential to support winterisation planning and prioritize assistance. 
+COLD SPOTS INDEX | UKRAINE
+ Factsheet
+Key insights
+• The highest Cold Spot Index scores for the 2026/27 winter season remain concentrated in the north-east 
+and east of Ukraine, particularly across Kharkivska, Sumska, Donetska, and Kyivska oblasts, where colder 
+winter conditions overlap with conflict intensity, proximity to active hostilities o r the Russian border, 
+displacement, infrastructure disruption, an d cumulative damage to electricity, water, and heating systems.
+• Winter-related vulnerability is incre asingly shaped not only by cold weather and frontline  proximity, but 
+also by the resilience of energy and utility systems. Repeated attacks on energy infrastructure and 
+electricity disruptions continue to  affect both frontline and urban areas.
+• Large urban areas are an important dimension of Ukraine’s winter risk landscape. Cities suc h as Kyiv, 
+Kharkiv, Odesa, and Dnipro combine high population exposure with dependency on centralize d electricity, 
+heating, water, and communication systems, meaning localized disruptions can aff ect large numbers of 
+people simultaneously.
+• Frontline and border areas face additional con straints due to insecurity, damaged access routes, limited 
+repair capacity, and difficulties sustaining humanitarian logistics and service delivery during winter.
+• While southern oblasts generally record lower natural winter hazard levels, parts of Khe rsonska, Zaporizka, 
+and Odeska oblasts demonstrate winter-related vulnerability linked to conflict expo sure, infrastructure 
+disruption, and utility outages.
+Image 1: Winter conditions in the Ukrainian Carpathians, December 2025. REACH
+2COLD SPOTS INDEX | UKRAINE
+Cold Spots Index 2026/2027 - Overall index 
+The map illustrates the presence of “cold spots” across Ukraine. These are raions where winter conditions 
+combine with population exposure, demographic vulnerability, infrastructure disruption, and reduced coping 
+capacity to indicate elevated humanitarian risk during the heating period from November 2026 to March 2027. 
+The highest Cold Spot Index scores remain concentrated in the north-east and east of Ukraine, particularly 
+across Kharkivska, Sumska, Donetska , and Kyivska oblasts. Kharkivskyi, Bohodukhivskyi, Chuhuivskyi, 
+Lozivskyi, and Berestynskyi raions in Kharkivska oblast rank among the highest nationwide. In Sumska 
+oblast, Sumskyi and Shostkynskyi raions also record elevated scores. Kramatorskyi raion in Donetska oblast, 
+Buchanskyi raion in Kyivska oblast, and Kyiv city similarly demonstrate high levels of compounded winter 
+vulnerability, while Dniprovskyi raion in Dnipropetrovska oblast also records comparatively high winter-
+related risk. These areas are characterized by the overlap between colder winter conditions, proximity to 
+active hostilities or the Russian border, repeated attacks on critical infrastructure, and reduced service 
+restoration capacity. 
+Large urban areas also represent an important dimension of winter risk. While frontline and border 
+raions remain the most affected overall, cities such as Kyiv, Odesa, Kharkiv and Dnipro combine high 
+population exposure with dependency on centralized electricity, heating, water and communication 
+systems. 
+They are also exposed to long-range aerial attacks targeting critical infrastructure. As a result, even localized 
+disruption in urban systems can affect large numbers of people simultaneously, including older people, 
+people with disabilities, families with young children, and households living in damaged or poorly insulated 
+housing.
+Cold-related risks in Ukraine are shaped not only by low temperatures, but also by the condition and 
+functionality of electricity, heating, water, and gas systems. When these systems are damaged or disrupted, 
+impacts can cascade across households and essential services, particularly in areas dependent on centralized 
+heating, electricity-powered water supply, or limited alternative heating options. Public support infrastructure, 
+such as Ukraine’s “Points of Invincibility”, reflects the importance of maintaining access to heat, electricity, 
+water, communications, and basic support during outages and other emergency situations. These points were 
+initially established to support people during wartime blackouts and have continued to represent an 
+important preparedness measure during winter disruptions.
+Lutsk
+Lviv
+Ivano-Frankivsk
+T ernopil
+Chernivtsi
+Vinnytsia
+Odesa
+Mykolaiv
+Kherson
+Uzhhorod
+Zaporizhia
+Dnipro
+Donetsk
+Kharkiv
+Luhansk
+Poltava
+Sumy
+Chernihiv
+Kropyvnytskyi
+Kyiv
+Rivne
+Zhytomyr
+CherkasyKhmelnytskyi
+Sevastopol
+Oblast center
+Raion boundary
+Oblast boundary
+²
+0 100
+KmFront line as of April 28, 2026
+No calculation
+Highest
+High
+Medium
+Low
+Lowest
+Cold Spot Index (CSI)
+Higher rankings are generally associated with the interaction between conflict 
+related infrastructure damage, elevated humanitarian needs, displacement patterns, utility 
+disruptions, and demographic vulnerability. Lower rankings remain more common across 
+western Ukraine and parts of central and southern Ukraine, where conflict exposure and 
+infrastructure disruption are comparatively lower. However, localised winter-related 
+vulnerability remains visible across several oblasts due to displacements, infrastructure 
+disruption, electricity outages, and household-level coping constraints.
+Excluded, partially-occupied raions 
+The analysis does not cover raions that are entirely outside the control of the Government of 
+Ukraine. In addition, raions where less than half of the territory is under government control are 
+excluded from the calculation, as available data is insufficient to produce a consistent 
+and comparable index score. 
+This exclusion reflects methodological constraints and data availability, not an absence 
+of winter-related risk. On the contrary, many of these areas are likely to face severe 
+humanitarian conditions due to proximity to the frontline, infrastructure damage, limited 
+service functionality, and restricted access. 
+In addition, two raions in Chernihivska oblast located along the northern border, as well as the 
+Chornobyl exclusion zone area, are marked as having insufficient information. This is linked 
+to limitations in available or comparable data for some indicators, particularly in areas affected 
+by restricted access, low population presence, security constraints and disrupted 
+reporting systems. As  a result, excluded or non-calculated raions should be understood as 
+areas where risk could not be reliably calculated within this model, rather than areas of 
+lower concern.
+Map 1. C
+old Spots Index by raion, Ukraine 2026/27 winter season
+3COLD SPOTS INDEX | UKRAINE
+Methodology 
+This analysis is adapted from the INFORM framework established by the Inter-Agency Standing Committee 
+Reference Group on Risk, Early Warning and Preparedness and the European Commission. It conceptualizes risk 
+as the interaction between hazard, exposure, and vulnerability, with vulnerability understood through 
+susceptibility and lack of coping capacity (LOCC).
+A geospatial analysis was conducted using aggregated data from multiple indicators to identify areas most 
+affected by winter-related hazards and vulnerabilities. The analysis was conducted at both oblast and raion level, 
+with raion-level results forming the main basis for the Cold Spots Index.
+The analysis covers raions mostly under the control of the government of Ukraine as of spring 2026. Raions 
+for which up-to-date or sufficiently reliable data could not be obtained are marked as “No data” on the maps. 
+Cold spots were identified based on four groups of indicators: hazard, exposure, susceptibility, and lack of coping 
+capacity. All indicators were standardized and classified into five classes using Jenks Natural Breaks, from 1, 
+lowest relative risk, to 5, highest relative risk.
+The overall Cold Spots Index was calculated by combining the four component classes into an integrated index. 
+The final index was then classified into five categories to identify relative levels of winter-related vulnerability 
+across Ukraine.
+This formula defines Cold Spot risk as a combination of hazard (weighted 35%), exposure (weighted 25%), 
+and vulnerability (weighted 40% and understood as a combination of susceptibility and LOCC). A final “rank” is 
+assigned using Jenk’s Natural Breaks. The number of raions in each rank is determined by the Jenk’s Natural 
+Breaks algorithm. 
+In addition to the Cold Spots Index itself, this report includes several thematic sections  intended to provide 
+additional context on winter-related risks in Ukraine. They examine patterns of incidents involving 
+energy-related infrastructure, recent temperature variability and snow cover trends, and how winter 
+conditions may affect infrastructure resilience, humanitarian access, and access to essential services. Particular 
+attention is given to the interaction between climate conditions, conflict-related infrastructure damage, 
+and operational constraints in frontline, border, rural, and densely populated urban areas during the winter 
+period. 
+For detailed references, data sources, and external materials used throughout this report, please refer to the 
+References section at the end of the document. 
+Limitations 
+The Cold Spot Index should be interpreted as a relative risk model rather than a precise measurement of 
+winter needs. Population figures are estimates and remain highly dynamic due to displacement, evacuations, 
+returns, and changing security conditions. Some indicators also rely on incomplete or unevenly available data, 
+particularly in areas affected by insecurity, restricted access, occupation, or disrupted local reporting systems. 
+The situation remains highly dynamic. Ongoing attacks on energy, housing, and civilian infrastructure can 
+rapidly alter local conditions after the data collection period, while interconnected electricity, gas, heating, 
+and water networks mean localized damage may have wider effects. Raions are excluded where less than 
+half of their territory is under Government of Ukraine control, or where data is insufficient to produce a 
+comparable score. Exclusion does not imply absence of winter-related risk. 
+Frequency of cold waves ; snow cover duration days per year; number of cold 
+days per year ; and number of frost days per year, based on historical 
+average
+s3,4 Historical data on these factors are analyzed to determine the 
+likelihood and intensity of winter hazards at raion level. 
+Estimated population density, using the most recent available population 
+estimates5. Higher population density indicates a larger number of people 
+potentially affected by winter hazards and related service disruptions. 
+The percentage of elderly people, children, internally displaced persons 6, and 
+people living in active collective sites 7. Where available, REACH MSNA 8
+indicators are also used to capture household-l evel vulnerability, including 
+shelter conditions, heating access, and ability to meet basic needs. 
+Hazard: 
+Cumulative damage to electricity, gas, water, and heating infrastructure; 
+conflict incident density; recorded incidents involving energy infrastructure 9; 
+average electricity disruption burden; and district heating or energy sector 
+needs. These indicators highlight infrastructure damage, service disruption, 
+and reduced capacity to cope with winter conditions.10,11 
+Exposure: 
+Susceptibility: 
+LOCC:
+4COLD SPOTS INDEX | UKRAINE
+Map 3: Natural hazard component by raion, including cold waves, frost days, and snow cover duration
+Exposure 
+Exposure is calculated using the population density indicator, based on UNFPA population data 5 and area 
+calculations at both oblast and raion levels. Ukraine has experienced major population changes since the 
+beginning of the full-scale invasion in February 2022, driven by displacement, evacuation, return movements, 
+and changes in local security conditions
+12,13.
+The highest exposure values are generally found in large urban and peri-urban raions, where larger numbers of 
+people may be affected by winter hazards and service disruptions. At oblast level, the highest values are 
+observed in Kyivska oblast and Kyiv city, as well as Dnipropetrovska, Lvivska, and Odeska oblasts, reflecting 
+expected demographic patterns and the concentration of population in major urban areas.
+At raion level, the highest population density is concentrated in Kyiv city and adjacent raions, as well as 
+Kharkivskyi, Dniprovskyi, Odeskyi, and Lvivskyi raions and surrounding areas.
+Natural Hazard
+The “natural hazard” class is calculated using cold waves, frost days, and winter mean snow cover duration, based 
+on historical averages for the period 2006 to 2026.
+14,15
+Northern and north-eastern oblasts show the highest winter hazard levels, particularly Sumska and Kharkivska, 
+due to their exposure to colder air masses and longer periods of winter conditions. Central areas, including parts 
+of Kyivska and Poltavska, also show elevated hazard levels.
+At raion level, the spatial pattern is more detailed, with a clear belt of higher winter hazard along the northern 
+and north-eastern border with the Russian Federation. Localized higher hazard values are also visible in some 
+raions of Ivano-Frankivska and Zakarpatska oblasts, linked to the Carpathian mountain areas.
+Lower winter hazard levels are generally observed in southern and coastal raions, particularly in Odeska, 
+Khersonska and Mykolaivska oblasts, where winter conditions are moderated by the Black Sea influence.
+Lutsk
+Lviv
+Ivano-Frankivsk
+T ernopil
+Chernivtsi
+Vinnytsia
+Odesa
+Mykolaiv
+Kherson
+Uzhhorod
+Zaporizhia
+Dnipro
+Donetsk
+Kharkiv
+Luhansk
+Poltava
+Sumy
+Chernihiv
+Kropyvnytskyi
+Kyiv
+Rivne
+Zhytomyr
+CherkasyKhmelnytskyi
+Sevastopol
+Oblast center
+Raion boundary
+Oblast boundary
+²
+0 100
+KmFront line as of April 28, 2026
+No calculation
+Highest
+High
+Medium
+Low
+Lowest
+Exposure Class
+Lutsk
+Lviv
+Ivano-Frankivsk
+T ernopil
+Chernivtsi
+Vinnytsia
+Odesa
+Mykolaiv
+Kherson
+Uzhhorod
+Zaporizhia
+Dnipro
+Donetsk
+Kharkiv
+Luhansk
+Poltava
+Sumy
+Chernihiv
+Kropyvnytskyi
+Kyiv
+Rivne
+Zhytomyr
+CherkasyKhmelnytskyi
+Sevastopol
+Oblast center
+Raion boundary
+Oblast boundary
+²
+0 100
+KmFront line as of April 28, 2026
+No calculation
+Highest
+High
+Medium
+Low
+Lowest
+Natural Hazard Class
+Exposure, hazard, susceptibility and lack of coping capacity 
+Map 2: Exposure component by raion, based on estimated population density
+5COLD SPOTS INDEX | UKRAINE
+Susceptibility 
+The “susceptibility” class is calculated based on the proportion of internally displaced persons, elderly people, 
+children, and IDPs living in active collective sites. IDP data is sourced from IOM, demographic indicators from 
+UNFPA 2025, and collective site data from CCCM ML 2026. 
+The highest susceptibility values are observed in Khersonska oblast, while a broader belt of elevated 
+vulnerability is visible across frontline and conflict-affected oblasts, including Zaporizka, Dnipropetrovska, 
+Donetska, and Kharkivska. Zakarpatska oblast also shows elevated susceptibility, linked to displacement and 
+the presence of vulnerable population groups. 
+At raion level, Bohodukhivskyi and Berestynskyi raions in Kharkivska oblast stand out with the highest 
+values, while neighbouring eastern raions also show elevated levels. In Khersonska oblast, Khersonskyi raion 
+stands out from the broader oblast pattern.
+These population groups may face heightened socio-economic vulnerability during winter, particularly 
+where heating costs, damaged housing, displacement, and limited access to services increase pressure on 
+household coping capacity.
+Lack of Coping Capacity 
+The “lack of coping capacity” class is calculated using conflict incident density per 100 square 
+kilometres, recorded damage to power and electricity infrastructure, and electricity outage data. Conflict and 
+infrastructure damage data are sourced from ACLED for the period April 2025 to May 2026, while electricity 
+outage data are sourced from Oblenergo for the winter period from 1 December 2025 to 28 February 2026. 
+The highest LOCC values are concentrated in frontline and near-frontline oblasts, including 
+Khersonska, Donetska, Kharkivska, and Dnipropetrovska, with elevated values also visible in Zaporizka oblast 
+and Kyiv city. This reflects the combined effect of conflict intensity, repeated damage to energy 
+infrastructure, and winter electricity disruptions. 
+At raion level, a clear belt of higher LOCC values is visible along the frontline and in areas close to the 
+Russian border. Kyiv city and Odeskyi raion also show elevated values, underlining that reduced coping 
+capacity is not only linked to direct frontline proximity, but also to disruption of critical energy systems in 
+large urban and infrastructure-dependent areas.
+16
+The lowest LOCC values are generally found in western raions, where conflict intensity and recorded energy 
+infrastructure damage are comparatively lower. 
+Lutsk
+Lviv
+Ivano-Frankivsk
+T ernopil
+Chernivtsi
+Vinnytsia
+Odesa
+Mykolaiv
+Kherson
+Uzhhorod
+Zaporizhia
+Dnipro
+Donetsk
+Kharkiv
+Luhansk
+Poltava
+Sumy
+Chernihiv
+Kropyvnytskyi
+Kyiv
+Rivne
+Zhytomyr
+CherkasyKhmelnytskyi
+Sevastopol
+Oblast center
+Raion boundary
+Oblast boundary
+²
+0 100
+KmFront line as of April 28, 2026
+No calculation
+Highest
+High
+Medium
+Low
+Lowest
+LOCC Class
+Map 5: Lack of Coping Capacity by raion, including conflict intensity, infrastructure damage, and utility disruptions
+Map 4: Susceptibility component by raion, including demographic vulnerability and displacementrelated indicators
+Lutsk
+Lviv
+Ivano-Frankivsk
+T ernopil
+Chernivtsi
+Vinnytsia
+Odesa
+Mykolaiv
+Kherson
+Uzhhorod
+Zaporizhia
+Dnipro
+Donetsk
+Kharkiv
+Luhansk
+Poltava
+Sumy
+Chernihiv
+Kropyvnytskyi
+Kyiv
+Rivne
+Zhytomyr
+CherkasyKhmelnytskyi
+Sevastopol
+Oblast center
+Raion boundary
+Oblast boundary
+²
+0 100
+KmFront line as of April 28, 2026
+No calculation
+Highest
+High
+Medium
+Low
+Lowest
+Susceptibility Class
+6COLD SPOTS INDEX | UKRAINE
+Energy infrastructure attacks and winter access constraints
+Repeated attacks on energy-related infrastructure remain one of the main factors shaping winter vulnerability 
+in Ukraine. Data from April 2025 to April 2026 indicates that incidents affecting energy infrastructure were most 
+concentrated along the frontline and in near-frontline oblasts, particularly across parts of Khersonska, Zaporizka, 
+Donetska, Kharkivska, and Sumska oblasts. Elevated concentrations are also visible around major urban centres 
+such as Kyiv, Kharkiv, Odesa, and Dnipro, reflecting both the strategic importance of these systems and the high 
+population exposure associated with large urban agglomerations.
+The humanitarian implications of these attacks extend beyond electricity supply alone. Damage to energy 
+systems can disrupt centralized heating, water pumping, communications, health services, transport systems, 
+and access to basic services simultaneously. In densely populated urban areas, even localized outages can affect 
+large numbers of people and rapidly increase pressure on municipal systems and emergency response capacity. 
+In frontline and rural areas, infrastructure damage is often compounded by insecurity, limited repair capacity, 
+damaged roads, and difficulties maintaining humanitarian access during periods of active hostilities
+17 .
+Winter conditions can further intensify these challenges. Snow cover duration between December 2025 and 
+February 2026 was highest across northern, north-eastern, and western parts of Ukraine, including areas 
+bordering the Russian Federation and Belarus.
+Prolonged snow coverage and periods of freezing temperatures can complicate movement, slow repair 
+operations, and reduce access to remote settlements, particularly in rural and frontline areas where infrastructure 
+and transport networks are already degraded. These conditions may affect both humanitarian logistics and 
+civilian access to health services, markets, heating support, and evacuation routes.
+Recent temperature patterns also demonstrate increasing climate variability
+15 . While annual averages continue 
+to fluctuate, winter 2025/26 recorded substantially colder conditions than the previous winter, including 
+extended cold periods during January and February. Combined with repeated attacks on infrastructure systems, 
+these conditions increase the likelihood of localized service disruptions and place additional pressure on 
+household coping capacity during the winter period.
+Taken together, the interaction between climate conditions, infrastructure damage, insecurity, and access 
+constraints
+18 highlights the importance of integrated winter preparedness planning. For humanitarian actors, 
+this includes considering not only heating needs and weather exposure, but also road access, infrastructure 
+resilience, repair capacity, population concentration, and the potential for prolonged disruption to essential 
+services during winter months.
+125
+120
+49
+42
+42
+40
+39
+37
+32
+32
+29
+27
+26
+26
+25
+23
+22
+22
+20
+19
+19
+18
+18
+18
+16
+16
+15
+1412
+11
+11
+11
+11
+11
+10
+10
+10
+10
+8
+8
+8
+8
+8
+8
+8
+8
+7
+7
+7
+7
+7
+7
+6
+6
+6
+6
+6
+5
+5
+5
+5
+5
+5
+5
+5
+5
+5
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+33
+3
+3
+3
+3
+3
+3
+3
+3
+3
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+111
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+11
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1 1
+1
+1
+1
+1
+Lutsk
+Lviv
+Ivano-Frankivsk
+T ernopil
+Chernivtsi
+Vinnytsia
+Odesa
+Mykolaiv
+Kherson
+Uzhhorod
+Zaporizhia
+Dnipro
+Donetsk
+Kharkiv
+Luhansk
+Poltava
+Sumy
+Chernihiv
+Kropyvnytskyi
+Kyiv
+Rivne
+Zhytomyr
+CherkasyKhmelnytskyi
+Sevastopol
+²
+0 100
+Km
+Energy infrastructure incidents
+sparse dense
+ACLED data from April 2025 to April 2026,
+with an approximate number of incidents Oblast center
+Oblast boundary
+Front line as of April 28, 2026
+Lutsk
+Lviv
+Ivano-Frankivsk
+T ernopil
+Chernivtsi
+Vinnytsia
+Odesa
+Mykolaiv
+Kherson
+Uzhhorod
+Zaporizhia
+Dnipro
+Donetsk
+Kharkiv
+Luhansk
+Poltava
+Sumy
+Chernihiv
+Kropyvnytskyi
+Kyiv
+Rivne
+Zhytomyr
+CherkasyKhmelnytskyi
+Sevastopol
+²
+0 100
+Km
+Oblast center
+Oblast boundary
+Front line as of April 28, 2026
+16 - 29
+10 - 15
+4 - 9
+≤ 3
+Snow cover duration
+from December 2025 to February 2026
+Graph 3: Monthly evolution of temperature in Ukraine 2025
+Map 6. Recorded incidents involving energy-related infrastructure, April 2025 to April 2026
+ Map 7. Winter snow cover duration by oblast and raion, winter 2025/26
+Graph 1: Monthly evolution of recorded incidents involving energy-related infrastructure in 2025/26
+Graph 2: Daily concentration of recorded energy infrastructure incidents in 2025
+7COLD SPOTS INDEX | UKRAINE
+Cold Spots Index Results Table
+Raion Oblast Frontline Natural Exposure Susceptibility LOCC CSI score Cold Spot Index
+Kharkivskyi Kharkivska Yes 5 4 3 4 4,15 Highest
+Bohodukhivskyi Kharkivska Yes 5 1 5 4 3,8 Highest
+Chuhuivskyi Kharkivska Yes 5 1 4 4 3,6 Highest
+Kramatorskyi Donetska Yes 4 1 4 5 3,45 Highest
+Sumskyi Sumska Yes 5 2 2 4 3,45 Highest
+Buchanskyi Kyivska 4 4 3 2 3,4 Highest
+Kyiv Kyiv 3 5 1 4 3,3 Highest
+Berestynskyi Kharkivska 4 1 5 3 3,25 Highest
+Lozivskyi Kharkivska 4 1 4 4 3,25 Highest
+Okhtyrskyi Sumska Yes 5 1 3 3 3,2 Highest
+Shostkynskyi Sumska Yes 5 1 2 4 3,2 Highest
+Iziumskyi Kharkivska Yes 4 1 3 4 3,05 High
+Dniprovskyi Dnipropetrovska 3 4 2 3 3,05 High
+Romenskyi Sumska 5 1 2 3 3 High
+Fastivskyi Kyivska 4 3 2 2 2,95 High
+Poltavskyi Poltavska 4 2 2 3 2,9 High
+Zaporizkyi Zaporizka Yes 2 3 3 4 2,85 High
+Nikopolskyi Dnipropetrovska Yes 2 2 3 5 2,8 High
+Chernihivskyi Chernihivska 5 1 1 3 2,8 High
+Chernivetskyi Chernivetska 3 3 3 2 2,8 High
+Nizhynskyi Chernihivska 5 1 1 3 2,8 High
+Verkhovynskyi Ivano-Frankivska 5 1 3 1 2,8 High
+Konotopskyi Sumska Yes 5 1 1 3 2,8 High
+Brovarskyi Kyivska 4 3 1 2 2,75 High
+Pavlohradskyi Dnipropetrovska 3 2 3 3 2,75 High
+Synelnykivskyi Dnipropetrovska Yes 3 1 3 4 2,7 High
+Nadvirnianskyi Ivano-Frankivska 4 2 3 1 2,7 High
+8COLD SPOTS INDEX | UKRAINE
+Raion Oblast Frontline Natural Exposure Susceptibility LOCC CSI score Cold Spot Index
+Tiachivskyi Zakarpatska 4 2 3 1 2,7 High
+Umanskyi Cherkaska 4 2 2 2 2,7 High
+Lubenskyi Poltavska 4 1 2 3 2,65 High
+Lvivskyi Lvivska 3 4 2 1 2,65 High
+Myrhorodskyi Poltavska 4 1 2 3 2,65 High
+Vyzhnytskyi Chernivetska 4 1 3 2 2,65 High
+Drohobytskyi Lvivska 3 3 3 1 2,6 Medium
+Prylutskyi Chernihivska 5 1 1 2 2,6 Medium
+Kamianets-Podilskyi Khmelnytska 3 2 3 2 2,55 Medium
+Kamianskyi Dnipropetrovska 3 2 2 3 2,55 Medium
+Kremenchutskyi Poltavska 3 2 2 3 2,55 Medium
+Samarivskyi Dnipropetrovska 3 2 2 3 2,55 Medium
+Odeskyi Odeska Yes 1 4 2 4 2,55 Medium
+Bilotserkivskyi Kyivska 4 2 1 2 2,5 Medium
+Boryspilskyi Kyivska 4 2 1 2 2,5 Medium
+Kosivskyi Ivano-Frankivska 4 2 2 1 2,5 Medium
+Obukhivskyi Kyivska 4 2 1 2 2,5 Medium
+Kryvorizkyi Dnipropetrovska Yes 2 3 2 3 2,45 Medium
+Rakhivskyi Zakarpatska 4 1 3 1 2,45 Medium
+Zolotoniskyi Cherkaska 4 1 2 2 2,45 Medium
+Ivano-Frankivskyi Ivano-Frankivska 3 3 2 1 2,4 Medium
+Khersonskyi Khersonska Yes 1 1 4 5 2,4 Medium
+Berdychivskyi Zhytomyrska 3 2 2 2 2,35 Medium
+Cherkaskyi Cherkaska 3 2 2 2 2,35 Medium
+Khmelnytskyi Khmelnytska 3 2 2 2 2,35 Medium
+Ternopilskyi Ternopilska 3 2 2 2 2,35 Medium
+Vinnytskyi Vinnytska 3 2 2 2 2,35 Medium
+Kaluskyi Ivano-Frankivska 4 2 1 1 2,3 Medium
+Korostenskyi Zhytomyrska 4 1 1 2 2,25 Low
+Uzhhorodskyi Zakarpatska 2 3 3 1 2,25 Low
+9COLD SPOTS INDEX | UKRAINE
+Raion Oblast Frontline Natural Exposure Susceptibility LOCC CSI score Cold Spot Index
+Vyshhorodskyi Kyivska 4 1 1 2 2,25 Low
+Khmilnytskyi Vinnytska 3 2 1 2 2,15 Low
+Kolomyiskyi Ivano-Frankivska 3 2 2 1 2,15 Low
+Rivnenskyi Rivnenska 3 2 2 1 2,15 Low
+Sheptytskyi Lvivska 3 2 2 1 2,15 Low
+Stryiskyi Lvivska 3 2 2 1 2,15 Low
+Volodymyrskyi Volynska 3 2 2 1 2,15 Low
+Zhytomyrskyi Zhytomyrska 3 2 1 2 2,15 Low
+Haisynskyi Vinnytska 3 1 2 2 2,1 Low
+Holovanivskyi Kirovohradska 3 1 2 2 2,1 Low
+Khustskyi Zakarpatska 3 1 3 1 2,1 Low
+Kremenetskyi Ternopilska 3 1 2 2 2,1 Low
+Kropyvnytskyi Kirovohradska 3 1 2 2 2,1 Low
+Novoukrainskyi Kirovohradska 3 1 2 2 2,1 Low
+Oleksandriiskyi Kirovohradska 3 1 2 2 2,1 Low
+Sarnenskyi Rivnenska 3 1 3 1 2,1 Low
+Shepetivskyi Khmelnytska 3 1 2 2 2,1 Low
+Tulchynskyi Vinnytska 3 1 2 2 2,1 Low
+Zhmerynskyi Vinnytska 3 1 2 2 2,1 Low
+Zvenyhorodskyi Cherkaska 3 1 2 2 2,1 Low
+Mykolaivskyi Mykolaivska Yes 1 2 3 3 2,05 Low
+Dnistrovskyi Chernivetska 2 2 2 2 2 Low
+Mukachivskyi Zakarpatska 2 2 3 1 2 Low
+Lutskyi Volynska 3 2 1 1 1,95 Low
+Chortkivskyi Ternopilska 3 1 1 2 1,9 Low
+Dubenskyi Rivnenska 3 1 2 1 1,9 Low
+Sambirskyi Lvivska 3 1 2 1 1,9 Low
+Zviahelskyi Zhytomyrska 3 1 1 2 1,9 Low
+Izmailskyi Odeska 1 2 2 3 1,85 Lowest
+Berezivskyi Odeska 2 1 1 3 1,75 Lowest
+10COLD SPOTS INDEX | UKRAINE
+Raion Oblast Frontline Natural Exposure Susceptibility LOCC CSI score Cold Spot Index
+Mohyliv-Podilskyi Vinnytska 2 1 2 2 1,75 Lowest
+Podilskyi Odeska 2 1 1 3 1,75 Lowest
+Voznesenskyi Mykolaivska 2 1 2 2 1,75 Lowest
+Bashtanskyi Mykolaivska Yes 2 1 2 2 1,75 Lowest
+Kamin-Kashyrskyi Volynska 3 1 1 1 1,7 Lowest
+Kovelskyi Volynska 3 1 1 1 1,7 Lowest
+Varaskyi Rivnenska 3 1 1 1 1,7 Lowest
+Zolochivskyi Lvivska 3 1 1 1 1,7 Lowest
+Berehivskyi Zakarpatska 1 2 3 1 1,65 Lowest
+Bolhradskyi Odeska 1 1 2 3 1,6 Lowest
+Yavorivskyi Lvivska 2 2 1 1 1,6 Lowest
+11COLD SPOTS INDEX | UKRAINE
+References
+ 
+ 
+1. REACH, Winter power outages - The consequences of power outages, and factors contributing to societal resilience, November 2025.
+2. REACH, Cold Spot Risk Assessment , May 2025.
+3. Copernicus, ERA5-Land monthly averaged data from 1950 to present, accessed May 2026.
+4. NASA, MOD11A1 v061, accessed May 2026.
+5. Data referenced from United Nations Population Fund, “2025 Common Operational Dataset on Population Statistics (COD-PS)”, restricted access,
+6. IOM, August 2025.
+7. Camp Coordination and Camp Management Cluster, Active Collective Sites as of April 2026.
+8. REACH, Multi-sector Needs Assessment, Ukraine, December 2025.
+9. Armed Conflict Location Events Database, accessed May 2026.
+10. UNHRMMU, “Energy attacks amid  an unusually harsh winter are exposing Ukraine’s civilians to extreme hardship”, February 2026,
+11. Electricity outage data compiled from publicly available scheduled  and emergency outage information published by Ukrenergo and regional electricity
+distribution operators, December 2025 to February 2026.
+12. IOM, “325,000 Ukrainian R eturnees Risk Displacement Again as Winter Energy Crisis Deepens, IOM Chief”, February 2026.
+13. United Nations Ukraine, “Holding o n to Humanity: Ukraine Enters the Fifth Year of Full-Scale War”, February 2026.
+14. Copernicus Climate Change Service, “ Surface air temperature for January 2026”, February 2026.
+15. Central Geophysical Observatory Borys Sreznevskyi, “ Climatic data for Ukraine”, accessed 2026.
+16. Reuters, “Russian air attack  knocks out power for over a million Ukrainians” January 2026.
+17. OCHA, “Ukraine: H umanitarian Situation Snapshot, January to February 2026”, March 2026.
+18. ACAPS, “Ukraine: Humanita rian access update", February 2026.
+This report is made possible by the generous support of the 
+American people through the United States Government. 
+The contents are the responsibility of IMPACT Initiatives and 
+do not necessarily reflect the views of the United States 
+Government.

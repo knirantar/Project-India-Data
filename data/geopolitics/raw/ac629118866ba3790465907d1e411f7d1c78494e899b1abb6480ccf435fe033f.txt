@@ -1,0 +1,59 @@
+First-ever open database on forced repatriation links detention sites, perpetrator institutions, and survivor testimony in one publicly accessible tool
+
+
+SEOUL, SOUTH KOREA — The Database Center for North Korean Human Rights (NKDB) has launched a major expansion of its satellite mapping platform,
+ Visual Atlas
+, creating an unprecedented online tool for examining decades of documented human rights violations in North Korea.
+
+
+Available in Korean and English at visualatlas.org, the platform allows users worldwide to explore the locations of political prison camps, public execution sites, detention facilities, and forced repatriation routes through survivor testimony, satellite imagery, institutional records, and 3D modeling.
+
+
+A Database Built for Accountability
+
+
+At the center of this update is the first-ever public database on the institutional responsibility of agencies involved in the forced repatriation of North Koreans, a system in which individuals who flee to China are captured, detained, and returned to North Korea, where they face interrogation, torture, forced labor, and in some cases execution.
+
+
+The Visual Atlas expansion builds on NKDB’s March 2026 
+report 
+The Machinery Behind the Forced Repatriation of North Koreans in China
+, which demonstrates how forced repatriation occurs as a coordinated system involving Chinese authorities and North Korean security agencies. The report further concludes that Chinese actors involved in the process could amount to crimes against humanity under the Rome Statute of the International Criminal Court. By making the underlying institutional and geographic data publicly accessible, the Visual Atlas transforms this research into an interactive accountability tool for investigators, policymakers, journalists, legal practitioners, and civil society organizations.
+
+
+What the Visual Atlas Shows
+
+
+Through the expanded platform, users can explore:
+
+
+Verified locations of detention facilities used in the forced repatriation process, supplemented by 3D structural models and video testimony from survivors;
+
+
+Profiles of North Korean and Chinese agencies implicated in forced repatriation, including their roles, facility operations, and command hierarchies;
+
+
+Geographic and temporal patterns of documented human rights violations; and
+
+
+Open-source intelligence (OSINT)-verified data on border-crossing routes and detention infrastructure.
+
+
+The forced repatriation dataset currently represents approximately 10% of NKDB’s full database. NKDB prioritized the release of this dataset in direct response to survivor requests and will continue to enhance the platform with additional datasets, thematic layers, and regional analysis.
+
+
+Open Access for Global Reach
+
+
+The Visual Atlas is designed as an open-access platform for international researchers, journalists, human rights organizations, policymakers, and legal practitioners. Available in Korean and English and optimized for mobile use, the platform lowers barriers to accessing and analyzing information that has often remained fragmented or difficult to verify.
+
+
+NKDB invites researchers, advocacy organizations, and institutions worldwide to use the platform in research, advocacy, journalism, and accountability efforts, and to explore opportunities for collaboration.
+
+
+Visual Atlas:
+ visualatlas.org
+
+
+Media inquiries:
+ info@nkdb.org
