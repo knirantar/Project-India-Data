@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-04T13:56:40.399786+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://foreignpolicy.com/2026/06/04/global-order-geopolitics-trump-us-china-history-1930s-cold-war/",
+  "title": "Are We Reliving the 1890s, 1930s, or 1950s?",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Thu, 04 Jun 2026 12:50:37 +0000",
+  "sha256": "ab8f038116e94dc88ed3c4a521ab07395a6fd26f41be734b885f10d113d6e892",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-04T13:57:04.355891+00:00",
+  "text_chars": 14762,
+  "raw_path": "data/geopolitics/raw/ab8f038116e94dc88ed3c4a521ab07395a6fd26f41be734b885f10d113d6e892.html",
+  "text_path": "data/geopolitics/raw/ab8f038116e94dc88ed3c4a521ab07395a6fd26f41be734b885f10d113d6e892.txt"
 }
