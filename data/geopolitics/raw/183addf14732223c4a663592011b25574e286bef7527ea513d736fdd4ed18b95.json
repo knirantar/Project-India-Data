@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-04T16:47:56.240441+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.xml",
-  "text_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.txt"
+  "url": "https://www.foreignaffairs.com/united-states/transatlantic-crucible-europe-nato",
+  "title": "The Transatlantic Crucible",
+  "source": "https://www.foreignaffairs.com/rss.xml",
+  "published": "Thu, 04 Jun 2026 00:00:00 -0400",
+  "sha256": "183addf14732223c4a663592011b25574e286bef7527ea513d736fdd4ed18b95",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-04T16:49:31.753391+00:00",
+  "text_chars": 20711,
+  "raw_path": "data/geopolitics/raw/183addf14732223c4a663592011b25574e286bef7527ea513d736fdd4ed18b95.html",
+  "text_path": "data/geopolitics/raw/183addf14732223c4a663592011b25574e286bef7527ea513d736fdd4ed18b95.txt"
 }

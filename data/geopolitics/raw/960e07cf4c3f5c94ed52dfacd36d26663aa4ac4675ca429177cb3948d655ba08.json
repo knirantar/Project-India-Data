@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/1be466fc-4bc7-43dd-aae9-faced5a8c40c/20260501-FEWS-NET-ss-kmu-1780577935.pdf",
+  "title": "South Sudan Key Message Update: Fragile gains in assistance delivery amid lull in conflict, but risk of Famine persists , May - September 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 04 Jun 2026 14:16:07 +0000",
+  "sha256": "960e07cf4c3f5c94ed52dfacd36d26663aa4ac4675ca429177cb3948d655ba08",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-04T16:48:47.384235+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-04T16:48:50.384799+00:00",
+  "text_chars": 8218,
+  "raw_path": "data/geopolitics/raw/960e07cf4c3f5c94ed52dfacd36d26663aa4ac4675ca429177cb3948d655ba08.pdf",
+  "text_path": "data/geopolitics/raw/960e07cf4c3f5c94ed52dfacd36d26663aa4ac4675ca429177cb3948d655ba08.txt"
 }

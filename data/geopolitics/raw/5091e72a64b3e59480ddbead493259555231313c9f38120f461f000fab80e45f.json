@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-04T16:47:56.240441+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.xml",
-  "text_path": "data/geopolitics/raw/ef07425cad28a60739771292ec0ea81c732470b0cad16c0980f3c6a3ef462a76.txt"
+  "url": "https://reliefweb.int/attachments/b90f0f78-64bf-4705-bf63-3a03e1c91f4b/MDRMW024du1.pdf",
+  "title": "Malawi Food Insecurity, DREF Operational Update MDRMW024 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 04 Jun 2026 13:38:47 +0000",
+  "sha256": "5091e72a64b3e59480ddbead493259555231313c9f38120f461f000fab80e45f",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-04T16:49:24.200396+00:00",
+  "text_chars": 84994,
+  "raw_path": "data/geopolitics/raw/5091e72a64b3e59480ddbead493259555231313c9f38120f461f000fab80e45f.pdf",
+  "text_path": "data/geopolitics/raw/5091e72a64b3e59480ddbead493259555231313c9f38120f461f000fab80e45f.txt"
 }

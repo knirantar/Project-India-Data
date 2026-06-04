@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/12515811-7ab6-4a28-a182-a17d669f4aa6/82.-13-26-May-2026-Attacks-on-Health-Care-in-the-oPt.pdf",
+  "title": "Attacks on Health Care in the occupied Palestinian territory (13-26 May 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 04 Jun 2026 14:08:20 +0000",
+  "sha256": "4ee3a29a1f7d25fc3759763bbacd5e1451a22f09212ce863df1afe58ec78e540",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-04T16:48:47.384235+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-04T16:49:21.931174+00:00",
+  "text_chars": 8752,
+  "raw_path": "data/geopolitics/raw/4ee3a29a1f7d25fc3759763bbacd5e1451a22f09212ce863df1afe58ec78e540.pdf",
+  "text_path": "data/geopolitics/raw/4ee3a29a1f7d25fc3759763bbacd5e1451a22f09212ce863df1afe58ec78e540.txt"
 }
