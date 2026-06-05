@@ -1,0 +1,72 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-05T07:02:00.619680+00:00",
+  "new_documents": 10,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt",
+      "metadata_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/7685baae783492c8093b9392e89910e4f357b987e6f0ea560e7ed3b29a945b6d.txt",
+      "metadata_path": "data/geopolitics/raw/7685baae783492c8093b9392e89910e4f357b987e6f0ea560e7ed3b29a945b6d.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.txt",
+      "metadata_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt",
+      "metadata_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.json"
+    },
+    {
+      "title": "Friday briefing: How Gaza, Lebanon and Iran have found themselves caught in an escalation without end",
+      "url": "https://www.theguardian.com/world/2026/jun/05/friday-briefing-how-gaza-lebanon-and-iran-have-found-themselves-caught-in-an-escalation-without-end",
+      "text_path": "data/geopolitics/raw/d9a7ad81e0c33571174b50022c00f2232e8fe877c82c5d6e4b7490dbf7e1346f.txt",
+      "metadata_path": "data/geopolitics/raw/d9a7ad81e0c33571174b50022c00f2232e8fe877c82c5d6e4b7490dbf7e1346f.json"
+    },
+    {
+      "title": "‘Momentous Discovery’ Marks ‘Major Leap Forward’ in Accountability for Syria’s Chemical Weapons, Security Council Told",
+      "url": "https://press.un.org/en/2026/sc16377.doc.htm",
+      "text_path": "data/geopolitics/raw/fa077e278cd749af9f16dfd704442f29dd3bd773c2e553e665dcc54e72b11774.txt",
+      "metadata_path": "data/geopolitics/raw/fa077e278cd749af9f16dfd704442f29dd3bd773c2e553e665dcc54e72b11774.json"
+    }
+  ],
+  "txt_before": 686,
+  "txt_after": 688
+}
