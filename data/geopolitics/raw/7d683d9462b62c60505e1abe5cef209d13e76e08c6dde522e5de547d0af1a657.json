@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/5d085a6c-4aec-4e16-b351-cc6181f49852/20260501-FEWS-NET-ug-kmu-1780615782.pdf",
+  "title": "Uganda Key Message Update: High fuel prices and restrictions intended to curb Ebola will affect food access, May - September 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 05 Jun 2026 02:39:28 +0000",
+  "sha256": "7d683d9462b62c60505e1abe5cef209d13e76e08c6dde522e5de547d0af1a657",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-05T10:50:07.014818+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-05T10:50:13.683853+00:00",
+  "text_chars": 8596,
+  "raw_path": "data/geopolitics/raw/7d683d9462b62c60505e1abe5cef209d13e76e08c6dde522e5de547d0af1a657.pdf",
+  "text_path": "data/geopolitics/raw/7d683d9462b62c60505e1abe5cef209d13e76e08c6dde522e5de547d0af1a657.txt"
 }

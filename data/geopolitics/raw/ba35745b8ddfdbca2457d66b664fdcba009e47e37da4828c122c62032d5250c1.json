@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-05T10:49:29.014426+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.xml",
-  "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt"
+  "url": "https://foreignpolicy.com/2026/06/05/trump-gaza-peace-board-israel-war/",
+  "title": "Everyone Is Waiting for Trump’s Gaza Plan to Die",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Fri, 05 Jun 2026 07:53:14 +0000",
+  "sha256": "ba35745b8ddfdbca2457d66b664fdcba009e47e37da4828c122c62032d5250c1",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-05T10:50:28.180705+00:00",
+  "text_chars": 10926,
+  "raw_path": "data/geopolitics/raw/ba35745b8ddfdbca2457d66b664fdcba009e47e37da4828c122c62032d5250c1.html",
+  "text_path": "data/geopolitics/raw/ba35745b8ddfdbca2457d66b664fdcba009e47e37da4828c122c62032d5250c1.txt"
 }

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-05T10:49:29.014426+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.xml",
-  "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt"
+  "url": "https://reliefweb.int/attachments/a96fd8ea-24c0-4f2f-87e7-76fc8817621c/WFP_BurkinaFaso_CountryBrief_May2026.pdf",
+  "title": "WFP Burkina Faso Country Brief, May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 05 Jun 2026 08:06:42 +0000",
+  "sha256": "37ba82a38a7eeb136c6f006654786422cfa60c7e6f93470b50a52e48c81da066",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-05T10:50:29.606061+00:00",
+  "text_chars": 6803,
+  "raw_path": "data/geopolitics/raw/37ba82a38a7eeb136c6f006654786422cfa60c7e6f93470b50a52e48c81da066.pdf",
+  "text_path": "data/geopolitics/raw/37ba82a38a7eeb136c6f006654786422cfa60c7e6f93470b50a52e48c81da066.txt"
 }

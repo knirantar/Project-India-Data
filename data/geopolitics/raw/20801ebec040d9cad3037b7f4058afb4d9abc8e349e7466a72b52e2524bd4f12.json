@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/d3949a73-00ba-4638-a876-fff3e3385525/Gaza_Protection%20Monitoring%20Snapshot_May%202026.pdf",
+  "title": "oPt: Gaza Protection Cluster Snapshot | Protection Monitoring | Reporting Period From 1 May- 31 May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 05 Jun 2026 07:07:56 +0000",
+  "sha256": "20801ebec040d9cad3037b7f4058afb4d9abc8e349e7466a72b52e2524bd4f12",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-05T10:50:07.014818+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-05T10:50:18.293634+00:00",
+  "text_chars": 12144,
+  "raw_path": "data/geopolitics/raw/20801ebec040d9cad3037b7f4058afb4d9abc8e349e7466a72b52e2524bd4f12.pdf",
+  "text_path": "data/geopolitics/raw/20801ebec040d9cad3037b7f4058afb4d9abc8e349e7466a72b52e2524bd4f12.txt"
 }

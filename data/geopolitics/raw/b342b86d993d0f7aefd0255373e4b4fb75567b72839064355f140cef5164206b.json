@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-05T10:49:29.014426+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.xml",
-  "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt"
+  "url": "https://www.france24.com/en/europe/20260605-live-us-house-passes-bill-in-support-of-ukraine-sanctions-russia",
+  "title": "Live: Maritime drone ‘of type used' in Ukraine explodes in Romanian Black Sea port",
+  "source": "https://www.france24.com/en/rss",
+  "published": "Fri, 05 Jun 2026 03:29:30 GMT",
+  "sha256": "b342b86d993d0f7aefd0255373e4b4fb75567b72839064355f140cef5164206b",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-05T10:50:14.018157+00:00",
+  "text_chars": 9994,
+  "raw_path": "data/geopolitics/raw/b342b86d993d0f7aefd0255373e4b4fb75567b72839064355f140cef5164206b.html",
+  "text_path": "data/geopolitics/raw/b342b86d993d0f7aefd0255373e4b4fb75567b72839064355f140cef5164206b.txt"
 }

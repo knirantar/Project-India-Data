@@ -1,0 +1,162 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-05T10:50:33.426446+00:00",
+  "new_documents": 25,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt",
+      "metadata_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/7685baae783492c8093b9392e89910e4f357b987e6f0ea560e7ed3b29a945b6d.txt",
+      "metadata_path": "data/geopolitics/raw/7685baae783492c8093b9392e89910e4f357b987e6f0ea560e7ed3b29a945b6d.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.txt",
+      "metadata_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt",
+      "metadata_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.json"
+    },
+    {
+      "title": "WFP warning becomes a reality for millions as Middle East crisis pushes poorest families further into hunger | World Food Programme",
+      "url": "https://reliefweb.int/report/world/wfp-warning-becomes-reality-millions-middle-east-crisis-pushes-poorest-families-further-hunger-world-food-programme",
+      "text_path": "data/geopolitics/raw/6a898ff3e69bda6a19fdd8477ccfc146b760ba60ec0694b8bb41ca3ffb81ae97.txt",
+      "metadata_path": "data/geopolitics/raw/6a898ff3e69bda6a19fdd8477ccfc146b760ba60ec0694b8bb41ca3ffb81ae97.json"
+    },
+    {
+      "title": "Uganda Key Message Update: High fuel prices and restrictions intended to curb Ebola will affect food access, May - September 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/5d085a6c-4aec-4e16-b351-cc6181f49852/20260501-FEWS-NET-ug-kmu-1780615782.pdf",
+      "text_path": "data/geopolitics/raw/7d683d9462b62c60505e1abe5cef209d13e76e08c6dde522e5de547d0af1a657.txt",
+      "metadata_path": "data/geopolitics/raw/7d683d9462b62c60505e1abe5cef209d13e76e08c6dde522e5de547d0af1a657.json"
+    },
+    {
+      "title": "War in Middle East Live: Israeli military continues strikes in southern Lebanon despite ceasefire",
+      "url": "https://www.france24.com/en/middle-east/20260605-war-in-middle-east-live-israeli-military-continues-strikes-in-southern-lebanon-despite-ceasefire",
+      "text_path": "data/geopolitics/raw/9b410a91b2fce84f0c857e66fb05767666b8b0148c07a0bd2e9e67e3da50df2b.txt",
+      "metadata_path": "data/geopolitics/raw/9b410a91b2fce84f0c857e66fb05767666b8b0148c07a0bd2e9e67e3da50df2b.json"
+    },
+    {
+      "title": "Live: Maritime drone ‘of type used' in Ukraine explodes in Romanian Black Sea port",
+      "url": "https://www.france24.com/en/europe/20260605-live-us-house-passes-bill-in-support-of-ukraine-sanctions-russia",
+      "text_path": "data/geopolitics/raw/b342b86d993d0f7aefd0255373e4b4fb75567b72839064355f140cef5164206b.txt",
+      "metadata_path": "data/geopolitics/raw/b342b86d993d0f7aefd0255373e4b4fb75567b72839064355f140cef5164206b.json"
+    },
+    {
+      "title": "oPt: Gaza Protection Cluster Snapshot | Protection Monitoring | Reporting Period From 1 May- 31 May 2026",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/gaza-protection-cluster-snapshot-protection-monitoring-reporting-period-1-may-31-may-2026",
+      "text_path": "data/geopolitics/raw/00f2f60c7e29388ddecc94ad8db1a9beead447c41e827b701e0447261c11f7cd.txt",
+      "metadata_path": "data/geopolitics/raw/00f2f60c7e29388ddecc94ad8db1a9beead447c41e827b701e0447261c11f7cd.json"
+    },
+    {
+      "title": "oPt: Gaza Protection Cluster Snapshot | Protection Monitoring | Reporting Period From 1 May- 31 May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/d3949a73-00ba-4638-a876-fff3e3385525/Gaza_Protection%20Monitoring%20Snapshot_May%202026.pdf",
+      "text_path": "data/geopolitics/raw/20801ebec040d9cad3037b7f4058afb4d9abc8e349e7466a72b52e2524bd4f12.txt",
+      "metadata_path": "data/geopolitics/raw/20801ebec040d9cad3037b7f4058afb4d9abc8e349e7466a72b52e2524bd4f12.json"
+    },
+    {
+      "title": "UK intelligence suggests there could be Russian attack on Nato ‘as soon as 2030’, says Starmer - UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/05/keir-starmer-andy-burnham-labour-leadership-rivals-makerfield-byelection-latest-news-updates",
+      "text_path": "data/geopolitics/raw/7cc1bc55e103a1763ec1222db13618c45a04f91442fa81fc160129025b5958ad.txt",
+      "metadata_path": "data/geopolitics/raw/7cc1bc55e103a1763ec1222db13618c45a04f91442fa81fc160129025b5958ad.json"
+    },
+    {
+      "title": "Everyone Is Waiting for Trump’s Gaza Plan to Die",
+      "url": "https://foreignpolicy.com/2026/06/05/trump-gaza-peace-board-israel-war/",
+      "text_path": "data/geopolitics/raw/ba35745b8ddfdbca2457d66b664fdcba009e47e37da4828c122c62032d5250c1.txt",
+      "metadata_path": "data/geopolitics/raw/ba35745b8ddfdbca2457d66b664fdcba009e47e37da4828c122c62032d5250c1.json"
+    },
+    {
+      "title": "WFP Burkina Faso Country Brief, May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/a96fd8ea-24c0-4f2f-87e7-76fc8817621c/WFP_BurkinaFaso_CountryBrief_May2026.pdf",
+      "text_path": "data/geopolitics/raw/37ba82a38a7eeb136c6f006654786422cfa60c7e6f93470b50a52e48c81da066.txt",
+      "metadata_path": "data/geopolitics/raw/37ba82a38a7eeb136c6f006654786422cfa60c7e6f93470b50a52e48c81da066.json"
+    },
+    {
+      "title": "Afghanistan climate crisis deepens as communities scale up environmental action",
+      "url": "https://reliefweb.int/report/afghanistan/afghanistan-climate-crisis-deepens-communities-scale-environmental-action",
+      "text_path": "data/geopolitics/raw/1891687b0f019bcd9d2f921ffff52d146e7e9459784f207f99cbc4904990b547.txt",
+      "metadata_path": "data/geopolitics/raw/1891687b0f019bcd9d2f921ffff52d146e7e9459784f207f99cbc4904990b547.json"
+    },
+    {
+      "title": "The Pentagon’s AI Edge Is Being Distilled Away",
+      "url": "https://warontherocks.com/cogs-of-war/the-pentagons-ai-edge-is-being-distilled-away/",
+      "text_path": "data/geopolitics/raw/9ede79afb577c7c1a0701a5582ee8c226f8026365c283592278439a3502fa603.txt",
+      "metadata_path": "data/geopolitics/raw/9ede79afb577c7c1a0701a5582ee8c226f8026365c283592278439a3502fa603.json"
+    },
+    {
+      "title": "After the Invasion: China Considers the Problem of Ruling Taiwan",
+      "url": "https://warontherocks.com/after-the-invasion-china-considers-the-problem-of-ruling-taiwan/",
+      "text_path": "data/geopolitics/raw/80c3e47e0b1262b98472a7ebe5c586ec3bb9bf47441766663267b5b75a85e5fb.txt",
+      "metadata_path": "data/geopolitics/raw/80c3e47e0b1262b98472a7ebe5c586ec3bb9bf47441766663267b5b75a85e5fb.json"
+    },
+    {
+      "title": "Washington Is Testing Singapore’s Patience",
+      "url": "https://foreignpolicy.com/2026/06/05/singapore-trump-tariffs-trade-forced-labor-china-geopolitics/",
+      "text_path": "data/geopolitics/raw/959d3eac587983672f1de0aef50309056794e3efb80638026de7dcc2a392ca06.txt",
+      "metadata_path": "data/geopolitics/raw/959d3eac587983672f1de0aef50309056794e3efb80638026de7dcc2a392ca06.json"
+    },
+    {
+      "title": "Scientists warn Trump plan to axe US ocean monitoring system will leave world ‘flying blind’",
+      "url": "https://www.theguardian.com/environment/2026/jun/05/trump-plan-ocean-monitoring-system-concern-scientists",
+      "text_path": "data/geopolitics/raw/4a72c6bc4d799e520f4db795ea047fe17d20d1197c044b3e0b6553752a07c84c.txt",
+      "metadata_path": "data/geopolitics/raw/4a72c6bc4d799e520f4db795ea047fe17d20d1197c044b3e0b6553752a07c84c.json"
+    },
+    {
+      "title": "World: West Africa Seasonal Monitor: Season begins normally with mostly average to above-average rainfall in bimodal areas, June 4, 2026",
+      "url": "https://reliefweb.int/report/world/west-africa-seasonal-monitor-season-begins-normally-mostly-average-above-average-rainfall-bimodal-areas-june-4-2026",
+      "text_path": "data/geopolitics/raw/3b981f17ebba520fbb4ab1f7bfcc547df2bc14fbacd5945f66e0081a9065f910.txt",
+      "metadata_path": "data/geopolitics/raw/3b981f17ebba520fbb4ab1f7bfcc547df2bc14fbacd5945f66e0081a9065f910.json"
+    }
+  ],
+  "txt_before": 688,
+  "txt_after": 703
+}
