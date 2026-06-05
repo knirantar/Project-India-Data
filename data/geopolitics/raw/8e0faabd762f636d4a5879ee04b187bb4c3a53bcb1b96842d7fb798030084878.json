@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-05T20:48:22.019741+00:00",
-  "text_chars": 9076319,
-  "raw_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.xml",
-  "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt"
+  "url": "https://foreignpolicy.com/2026/06/05/ukraine-russia-war-putin-zelensky-winning-drones-front-battlefield-peace/",
+  "title": "How Ukraine Has Turned the Tide",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Fri, 05 Jun 2026 19:00:33 +0000",
+  "sha256": "8e0faabd762f636d4a5879ee04b187bb4c3a53bcb1b96842d7fb798030084878",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-05T20:48:39.067884+00:00",
+  "text_chars": 18749,
+  "raw_path": "data/geopolitics/raw/8e0faabd762f636d4a5879ee04b187bb4c3a53bcb1b96842d7fb798030084878.html",
+  "text_path": "data/geopolitics/raw/8e0faabd762f636d4a5879ee04b187bb4c3a53bcb1b96842d7fb798030084878.txt"
 }
