@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-05T16:29:22.698350+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt",
+      "metadata_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt",
+      "metadata_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.txt",
+      "metadata_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt",
+      "metadata_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.json"
+    },
+    {
+      "title": "Gaza, Iran, Lebanon: If ceasefires are in place, why do strikes continue?",
+      "url": "https://www.aljazeera.com/news/2026/6/5/gaza-iran-lebanon-if-ceasefires-are-in-place-why-do-strikes-continue?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/9fbe33305784d81ab17106f6d5b7717c0a6ae62867cd804f652cd5fa6daaf41a.txt",
+      "metadata_path": "data/geopolitics/raw/9fbe33305784d81ab17106f6d5b7717c0a6ae62867cd804f652cd5fa6daaf41a.json"
+    },
+    {
+      "title": "Iran and the Hidden Cost of Wartime Access",
+      "url": "https://www.foreignaffairs.com/iran/iran-and-hidden-cost-wartime-access",
+      "text_path": "data/geopolitics/raw/e6379ccce9afbb13223c8446b21faf4fe33697882f27a59c26d71030469d8108.txt",
+      "metadata_path": "data/geopolitics/raw/e6379ccce9afbb13223c8446b21faf4fe33697882f27a59c26d71030469d8108.json"
+    },
+    {
+      "title": "US Senate passes $70 billion funding for ICE, Border Patrol",
+      "url": "https://www.dw.com/en/us-senate-passes-70-billion-funding-for-ice-border-patrol/a-77435289?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/78e486b322727844217adb66a3f5e3b7d110a72e544f446713f7325f4841ff90.txt",
+      "metadata_path": "data/geopolitics/raw/78e486b322727844217adb66a3f5e3b7d110a72e544f446713f7325f4841ff90.json"
+    },
+    {
+      "title": "Huge fascist-era underground cisterns draw Western special forces to Italy for tunnel training",
+      "url": "https://www.defensenews.com/global/europe/2026/06/05/huge-fascist-era-underground-cisterns-draw-western-special-forces-to-italy-for-tunnel-training/",
+      "text_path": "data/geopolitics/raw/483b92ae8d8acb73e826bdb8dcc4f5311d50a755dd219e6a3c4852251abd1028.txt",
+      "metadata_path": "data/geopolitics/raw/483b92ae8d8acb73e826bdb8dcc4f5311d50a755dd219e6a3c4852251abd1028.json"
+    }
+  ],
+  "txt_before": 710,
+  "txt_after": 716
+}
