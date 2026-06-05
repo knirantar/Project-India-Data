@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-05T02:34:16.876407+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.xml",
-  "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt"
+  "url": "https://reliefweb.int/report/chad/drone-strikes-cause-mass-casualties-chad-sudan-border",
+  "title": "Drone strikes cause mass casualties at Chad-Sudan border",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 04 Jun 2026 20:03:08 +0000",
+  "sha256": "bdea994f0b320a000d6ce5abf61c1a8d94a1a75ed7f830ce8ed7178f4bae1247",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-05T02:34:56.319560+00:00",
+  "text_chars": 3242,
+  "raw_path": "data/geopolitics/raw/bdea994f0b320a000d6ce5abf61c1a8d94a1a75ed7f830ce8ed7178f4bae1247.html",
+  "text_path": "data/geopolitics/raw/bdea994f0b320a000d6ce5abf61c1a8d94a1a75ed7f830ce8ed7178f4bae1247.txt"
 }

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-05T02:34:16.876407+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.xml",
-  "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt"
+  "url": "https://reliefweb.int/attachments/527c0f62-656c-4055-ab07-a90d914b455f/YEM.pdf",
+  "title": "GIEWS Country Brief: The Republic of Yemen 04-June-2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 04 Jun 2026 23:41:04 +0000",
+  "sha256": "1b9fcca492ef4d1b586d975c4f5739bc324a902b93975acf93f0490f6bf0b1d3",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-05T02:35:04.915279+00:00",
+  "text_chars": 6771,
+  "raw_path": "data/geopolitics/raw/1b9fcca492ef4d1b586d975c4f5739bc324a902b93975acf93f0490f6bf0b1d3.pdf",
+  "text_path": "data/geopolitics/raw/1b9fcca492ef4d1b586d975c4f5739bc324a902b93975acf93f0490f6bf0b1d3.txt"
 }

@@ -1,0 +1,108 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-05T02:35:13.671145+00:00",
+  "new_documents": 16,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.txt",
+      "metadata_path": "data/geopolitics/raw/a3c182488b02223e68ae52c5c7c689070f5d457eb381dfd90040b22f137c932a.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/7685baae783492c8093b9392e89910e4f357b987e6f0ea560e7ed3b29a945b6d.txt",
+      "metadata_path": "data/geopolitics/raw/7685baae783492c8093b9392e89910e4f357b987e6f0ea560e7ed3b29a945b6d.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.txt",
+      "metadata_path": "data/geopolitics/raw/5af4c211152fb57eaa35fe8f8599117e62cec24b3cbc245c48d80917c285ed12.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt",
+      "metadata_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.json"
+    },
+    {
+      "title": "‘You can stop your war’: Zelenskyy’s open letter to Putin – in full",
+      "url": "https://www.theguardian.com/world/2026/jun/05/volodymyr-zelenskyy-open-letter-to-putin-full-text-russia-ukraine-war",
+      "text_path": "data/geopolitics/raw/071e1621b247c2dd0afd8b8a4fbad3c01d94e41dcf56aaa44b85550da85f04d5.txt",
+      "metadata_path": "data/geopolitics/raw/071e1621b247c2dd0afd8b8a4fbad3c01d94e41dcf56aaa44b85550da85f04d5.json"
+    },
+    {
+      "title": "Drone strikes cause mass casualties at Chad-Sudan border",
+      "url": "https://reliefweb.int/report/chad/drone-strikes-cause-mass-casualties-chad-sudan-border",
+      "text_path": "data/geopolitics/raw/bdea994f0b320a000d6ce5abf61c1a8d94a1a75ed7f830ce8ed7178f4bae1247.txt",
+      "metadata_path": "data/geopolitics/raw/bdea994f0b320a000d6ce5abf61c1a8d94a1a75ed7f830ce8ed7178f4bae1247.json"
+    },
+    {
+      "title": "GIEWS Country Brief: The Republic of Yemen 04-June-2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/527c0f62-656c-4055-ab07-a90d914b455f/YEM.pdf",
+      "text_path": "data/geopolitics/raw/1b9fcca492ef4d1b586d975c4f5739bc324a902b93975acf93f0490f6bf0b1d3.txt",
+      "metadata_path": "data/geopolitics/raw/1b9fcca492ef4d1b586d975c4f5739bc324a902b93975acf93f0490f6bf0b1d3.json"
+    },
+    {
+      "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167653",
+      "text_path": "data/geopolitics/raw/fa82c7fd3fa9f53d04f0643312dc5d03922f3e84b3cc75ae1a3fd3f086859e60.txt",
+      "metadata_path": "data/geopolitics/raw/fa82c7fd3fa9f53d04f0643312dc5d03922f3e84b3cc75ae1a3fd3f086859e60.json"
+    },
+    {
+      "title": "From food lines in Somalia to clinics in Afghanistan, Hormuz crisis sends shockwaves through global aid networks (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/04-06-2026-UNICEF-Afghanistan.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/e5c96aa408a6bcbd5943e5495729ff186e83fc7067f0d72c46233945bbb55cb1.txt",
+      "metadata_path": "data/geopolitics/raw/e5c96aa408a6bcbd5943e5495729ff186e83fc7067f0d72c46233945bbb55cb1.json"
+    },
+    {
+      "title": "World News in Brief: UN scales up Ebola response, refugees ‘exiled’ in Africa, Political tensions escalate in Somalia (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/25-09-2023-UNICEF-Sudan-refugees.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/d75f99b3adad560343f24765f34c4e0760b2856c4af2f02583b3484299aad370.txt",
+      "metadata_path": "data/geopolitics/raw/d75f99b3adad560343f24765f34c4e0760b2856c4af2f02583b3484299aad370.json"
+    }
+  ],
+  "txt_before": 680,
+  "txt_after": 686
+}
