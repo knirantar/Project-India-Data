@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-06T06:49:43.889281+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://www.npr.org/2026/06/06/nx-s1-5848184/u-s-military-shot-down-iranian-drones",
+  "title": "U.S. military says it shot down Iranian drones launched toward Gulf allies",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Sat, 06 Jun 2026 00:15:26 -0400",
+  "sha256": "b20a7b64d814bd2f3b0833c1c4f7513f4e79e59b00d3496b5a2439fc4fb05c45",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-06T06:50:44.993749+00:00",
+  "text_chars": 5354,
+  "raw_path": "data/geopolitics/raw/b20a7b64d814bd2f3b0833c1c4f7513f4e79e59b00d3496b5a2439fc4fb05c45.html",
+  "text_path": "data/geopolitics/raw/b20a7b64d814bd2f3b0833c1c4f7513f4e79e59b00d3496b5a2439fc4fb05c45.txt"
 }
