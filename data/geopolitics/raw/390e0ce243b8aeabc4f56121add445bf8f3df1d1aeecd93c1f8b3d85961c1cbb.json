@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/85092765-cb3f-47ed-b9c8-e25718298479/250929_NFF%20ERC%20call%20with%20Humanitarian%20Coordinators%20-%20FINAL.pdf",
+  "title": "CAR: NFF ERC call with Humanitarian Coordinators - FINAL (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 05 Jun 2026 13:57:50 +0000",
+  "sha256": "390e0ce243b8aeabc4f56121add445bf8f3df1d1aeecd93c1f8b3d85961c1cbb",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-06T00:01:41.064762+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-06T00:02:05.359142+00:00",
+  "text_chars": 13141,
+  "raw_path": "data/geopolitics/raw/390e0ce243b8aeabc4f56121add445bf8f3df1d1aeecd93c1f8b3d85961c1cbb.pdf",
+  "text_path": "data/geopolitics/raw/390e0ce243b8aeabc4f56121add445bf8f3df1d1aeecd93c1f8b3d85961c1cbb.txt"
 }

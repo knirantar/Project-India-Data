@@ -1,0 +1,108 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-06T00:02:05.374625+00:00",
+  "new_documents": 16,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt",
+      "metadata_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt",
+      "metadata_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/0dedfc8ffd516b462f7ab2ecfdb3ad54743cb49b00a7cab93965ba003a4cba68.txt",
+      "metadata_path": "data/geopolitics/raw/0dedfc8ffd516b462f7ab2ecfdb3ad54743cb49b00a7cab93965ba003a4cba68.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt",
+      "metadata_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.json"
+    },
+    {
+      "title": "DR Congo: Ebola outbreak further strains DRC’s underfunded health system, leaving health workers with limited critical supplies",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/ebola-outbreak-further-strains-drcs-underfunded-health-system-leaving-health-workers-limited-critical-supplies",
+      "text_path": "data/geopolitics/raw/10c1a81d888e8f2dbf6b59c062b9ae5fe11a27f2ae0f8a7b850bec9d80e0d703.txt",
+      "metadata_path": "data/geopolitics/raw/10c1a81d888e8f2dbf6b59c062b9ae5fe11a27f2ae0f8a7b850bec9d80e0d703.json"
+    },
+    {
+      "title": "Haiti: Latin America & The Caribbean Weekly Situation Update as of 5 June 2026",
+      "url": "https://reliefweb.int/report/haiti/latin-america-caribbean-weekly-situation-update-5-june-2026",
+      "text_path": "data/geopolitics/raw/37e07c4314f615c7c1e25dcdb6edd2f5cff533b2e11f95c1ad17ac7359dd1c2f.txt",
+      "metadata_path": "data/geopolitics/raw/37e07c4314f615c7c1e25dcdb6edd2f5cff533b2e11f95c1ad17ac7359dd1c2f.json"
+    },
+    {
+      "title": "Haiti: Latin America & The Caribbean Weekly Situation Update as of 5 June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/a7c15f84-f534-460a-828f-f357b34daf40/2026-06-05%20Weekly%20Situation%20Update%20%28as%20of%205%20June%29.pdf",
+      "text_path": "data/geopolitics/raw/f7ea0a586aa629596f8642b793a0e7bb745d3dd33b1bcf346daadb665b6fc71a.txt",
+      "metadata_path": "data/geopolitics/raw/f7ea0a586aa629596f8642b793a0e7bb745d3dd33b1bcf346daadb665b6fc71a.json"
+    },
+    {
+      "title": "Haiti: Latinoamérica y El Caribe Resumen de Situación Semanal al 5 de junio 2026",
+      "url": "https://reliefweb.int/report/haiti/latinoamerica-y-el-caribe-resumen-de-situacion-semanal-al-5-de-junio-2026",
+      "text_path": "data/geopolitics/raw/c8d7776d3ef4c3251b24bc777ccad4cae639f258bdff5a62a81735c2d06e75e1.txt",
+      "metadata_path": "data/geopolitics/raw/c8d7776d3ef4c3251b24bc777ccad4cae639f258bdff5a62a81735c2d06e75e1.json"
+    },
+    {
+      "title": "Haiti: Latinoamérica y El Caribe Resumen de Situación Semanal al 5 de junio 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/cf80731c-b4a7-4b86-a43d-b85dc501c399/2026-06-05%20Resumen%20de%20Situaci%C3%B3n%20Semanal%20%28al%205%20de%20junio%29.pdf",
+      "text_path": "data/geopolitics/raw/e009129191b7c7a40d559cf345416d54e2b1dc2e2a00a0680f3645f84e4b29d8.txt",
+      "metadata_path": "data/geopolitics/raw/e009129191b7c7a40d559cf345416d54e2b1dc2e2a00a0680f3645f84e4b29d8.json"
+    },
+    {
+      "title": "CAR: NFF ERC call with Humanitarian Coordinators - FINAL (pdf)",
+      "url": "https://reliefweb.int/attachments/85092765-cb3f-47ed-b9c8-e25718298479/250929_NFF%20ERC%20call%20with%20Humanitarian%20Coordinators%20-%20FINAL.pdf",
+      "text_path": "data/geopolitics/raw/390e0ce243b8aeabc4f56121add445bf8f3df1d1aeecd93c1f8b3d85961c1cbb.txt",
+      "metadata_path": "data/geopolitics/raw/390e0ce243b8aeabc4f56121add445bf8f3df1d1aeecd93c1f8b3d85961c1cbb.json"
+    }
+  ],
+  "txt_before": 722,
+  "txt_after": 729
+}

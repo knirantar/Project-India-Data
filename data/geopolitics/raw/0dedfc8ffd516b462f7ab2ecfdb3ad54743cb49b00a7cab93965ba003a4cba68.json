@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "sanctions_designations",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-06T00:01:41.064762+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "sha256": "0dedfc8ffd516b462f7ab2ecfdb3ad54743cb49b00a7cab93965ba003a4cba68",
+  "content_type": "application/xml",
+  "collected_at": "2026-06-06T00:01:01.383397+00:00",
+  "text_chars": 824888,
+  "raw_path": "data/geopolitics/raw/0dedfc8ffd516b462f7ab2ecfdb3ad54743cb49b00a7cab93965ba003a4cba68.xml",
+  "text_path": "data/geopolitics/raw/0dedfc8ffd516b462f7ab2ecfdb3ad54743cb49b00a7cab93965ba003a4cba68.txt"
 }

@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/a7c15f84-f534-460a-828f-f357b34daf40/2026-06-05%20Weekly%20Situation%20Update%20%28as%20of%205%20June%29.pdf",
+  "title": "Haiti: Latin America & The Caribbean Weekly Situation Update as of 5 June 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 05 Jun 2026 18:55:51 +0000",
+  "sha256": "f7ea0a586aa629596f8642b793a0e7bb745d3dd33b1bcf346daadb665b6fc71a",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-06T00:01:41.064762+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-06T00:01:46.458143+00:00",
+  "text_chars": 5010,
+  "raw_path": "data/geopolitics/raw/f7ea0a586aa629596f8642b793a0e7bb745d3dd33b1bcf346daadb665b6fc71a.pdf",
+  "text_path": "data/geopolitics/raw/f7ea0a586aa629596f8642b793a0e7bb745d3dd33b1bcf346daadb665b6fc71a.txt"
 }
