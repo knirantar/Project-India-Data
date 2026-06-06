@@ -1,0 +1,34 @@
+PARIS — France will test its artificial intelligence-powered battlefield command system with allies during a NATO interoperability exercise this month, as an alternative to the Maven Smart System developed by Palantir Technologies, said Gen. Patrick Justel, deputy chief of the French Army staff.
+The French have been developing the system with local companies including 
+Mistral AI
+, 
+Safran.AI
+, 
+Thales
+ and 
+Airbus
+, Justel said in a media briefing on Thursday. The French Army has already tested the system, dubbed Arcadia, in exercises including Dacian Fall in Romania and Orion 26 in France.
+NATO military personnel 
+started training
+ with Palantir’s Maven Smart System in August 2025, the alliance’s first use of AI-enabled command and control software. The platform is derived from the Pentagon’s Project Maven and ties together massive amounts of battlefield data and AI analysis to help commanders identify targets and make decisions more quickly.
+Arcadia “is our response to Maven,” said Justel. He said NATO’s use of Maven raises issues of digital sovereignty, “so the question arises whether should we adopt Maven blindly, or should we look for other solutions.”
+France’s army, general staff and Defense Digital Commission “have been working on what other solutions might look like,” Justel said. France will deploy Arcadia during NATO’s Coalition Warrior Interoperability Exercise, or CWIX, a live exercise held in Poland June 8-26.
+Justel said several NATO countries including France have raised questions around interoperability with the Palantir system. The Army deputy chief of staff said Arcadia is designed to comply with NATO’s 
+Federated Mission Networking
+ standards, or FMN, and contrasted that with Maven, which he said hasn’t integrated FMN requirements.
+Palantir said Maven Smart System is “compliant with the principles of FMN” and that it is working with NATO toward official certification, in an emailed response to a request for comment. The company added that the platform has proven compliance with two NATO data-security standards that are “key building blocks” of FMN.
+“NATO Maven Smart System is compatible, and does allow interoperability, but of course nations are free to choose what systems they use,” said Martin O’Donnell, a spokesperson for Supreme Headquarters Allied Powers, in an emailed reply to questions.
+The Palantir system is already integrated with more than 10 NATO systems, according to U.S. Army Col. Arnel David, the director of Task Force Maven at SHAPE, who said his team is “focused on securing final certification across all FMN milestones,” with the declaration of full operational capability imminent.
+France plans to propose Arcadia to its European partners, with a number of countries expressing interest, and has organized demonstrations for NATO, which is also interested, the general said. “When we talk to our European partners, we get the same reaction of, `well, we’ve kind of gone with Maven because there’s no choice, but if countries in Europe are able to build an alternative, we’ll go for it.’”
+Palantir said it “welcomes the opportunity to integrate with Arcadia, or any other national system.”
+Arcadia builds on previous work by the Armed Forces Ministry as part of the 
+Artemis project
+ started in 2022, which uses AI to process massive amounts of defense data. The French Army has been developing use cases for Arcadia internally as well as in cooperation with the industry partners, according to Justel.
+The United Kingdom is working on a similar AI-enabled command and control system, and is also in discussions on how to interface with Maven, according to Justel.
+Based on discussions with the British, “their concept is well-established, but they don’t yet have all the technological building blocks,” said Col. Frédéric Vola, head of the planning and capacity development office in the Army general staff, in the briefing.
+While Palantir is behind the version of Maven used by NATO, the system is not the same as that used by the U.S., with different databases and functionality and “certainly not the same performance,” according to Justel.
+The French system is conceived to be a more resilient alternative to Maven because it will be “highly decentralized” rather than a centralized system, with all command posts connected to field-deployed servers in a mesh-network architecture rather than a distant central cloud. The French Army already has a network of data hubs and is acquiring more, Justel said.
+“First, it distributes the data, and in the event of destruction or loss of connection, it allows us to maintain the autonomy of what remains, and second, it’s easier to implement,” Justel said.
+The system has an open architecture, with the French armed forces inviting “all the major players in artificial intelligence” and being open to working with others, according to Justel. “We don’t want to enter into the logic that we’ve known for years, where we give a manufacturer the system and then everything goes via them, everything is closed, they own all the data,” Justel said. “We want an open system where any manufacturer can plug in, and all data can be shared by everyone, without any notion of exclusive ownership.”
+As part of its work on AI for command and control, the French Army has developed its own large-language model for staff officers, called Berthier, named after Napoleon’s chief of staff, and which Justel said is used to synthesize information, retrieve operational data, and support drafting of proposed courses of action, while leaving decisions to commanders.
+Rudy Ruitenberg is a Europe correspondent for Defense News. He started his career at Bloomberg News and has experience reporting on technology, commodity markets and politics.
