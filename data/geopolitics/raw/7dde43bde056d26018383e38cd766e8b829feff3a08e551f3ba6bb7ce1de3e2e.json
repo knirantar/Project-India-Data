@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/19ab558a-2de3-4f2a-bba9-11bb99e6c649/20260602_Iran%20Humanitarian%20Update5.pdf",
+  "title": "Islamic Republic of Iran: Humanitarian Update No. 05 | As of 31 May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sun, 07 Jun 2026 07:30:51 +0000",
+  "sha256": "7dde43bde056d26018383e38cd766e8b829feff3a08e551f3ba6bb7ce1de3e2e",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-07T08:48:35.695356+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-07T08:48:43.824953+00:00",
+  "text_chars": 20018,
+  "raw_path": "data/geopolitics/raw/7dde43bde056d26018383e38cd766e8b829feff3a08e551f3ba6bb7ce1de3e2e.pdf",
+  "text_path": "data/geopolitics/raw/7dde43bde056d26018383e38cd766e8b829feff3a08e551f3ba6bb7ce1de3e2e.txt"
 }
