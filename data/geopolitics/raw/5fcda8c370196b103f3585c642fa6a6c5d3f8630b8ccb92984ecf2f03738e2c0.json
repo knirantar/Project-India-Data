@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0",
-  "content_type": "text/html",
-  "collected_at": "2026-06-07T21:04:25.492095+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.html",
-  "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt"
+  "url": "https://www.npr.org/2026/06/07/g-s1-126816/israel-iran-missile-ceasefire",
+  "title": "Israel says Iran launched a missile at it, in a first during fragile ceasefire",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Sun, 07 Jun 2026 15:56:27 -0400",
+  "sha256": "5fcda8c370196b103f3585c642fa6a6c5d3f8630b8ccb92984ecf2f03738e2c0",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-07T21:04:30.730016+00:00",
+  "text_chars": 4503,
+  "raw_path": "data/geopolitics/raw/5fcda8c370196b103f3585c642fa6a6c5d3f8630b8ccb92984ecf2f03738e2c0.html",
+  "text_path": "data/geopolitics/raw/5fcda8c370196b103f3585c642fa6a6c5d3f8630b8ccb92984ecf2f03738e2c0.txt"
 }
