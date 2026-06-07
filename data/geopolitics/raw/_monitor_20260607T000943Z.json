@@ -1,0 +1,90 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-07T00:09:43.646205+00:00",
+  "new_documents": 13,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt",
+      "metadata_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt",
+      "metadata_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/43ec59185bea22a77b6ad8b672d4b10647633fef1fa8f4248e0a9cb05581cc67.txt",
+      "metadata_path": "data/geopolitics/raw/43ec59185bea22a77b6ad8b672d4b10647633fef1fa8f4248e0a9cb05581cc67.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt",
+      "metadata_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.json"
+    },
+    {
+      "title": "Lebanon: Restoring critical services in Dahiyeh, south Beirut",
+      "url": "https://reliefweb.int/report/lebanon/restoring-critical-services-dahiyeh-south-beirut",
+      "text_path": "data/geopolitics/raw/3fd8471941bc467e46c59bc202595c859c04140ee6749507779ff7c51036008d.txt",
+      "metadata_path": "data/geopolitics/raw/3fd8471941bc467e46c59bc202595c859c04140ee6749507779ff7c51036008d.json"
+    },
+    {
+      "title": "Australia news live: Tony Abbott praises Liberals’ new top strategist as party tries to rebuild campaign machine",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/07/tony-abbott-liberal-party-strategist-anthony-albanese-labor-angus-taylor-coalition-one-nation-ntwnfb",
+      "text_path": "data/geopolitics/raw/b23d75bc2c59beb191addfd3e04847de40cbcaad6f4f8781163ec53d26a5c36d.txt",
+      "metadata_path": "data/geopolitics/raw/b23d75bc2c59beb191addfd3e04847de40cbcaad6f4f8781163ec53d26a5c36d.json"
+    },
+    {
+      "title": "How MSF teams are “greening” operations around the world",
+      "url": "https://reliefweb.int/report/world/how-msf-teams-are-greening-operations-around-world",
+      "text_path": "data/geopolitics/raw/0cb10b16091ae2d8f7d0304ea45a185943fcd254faa94383c14dec083dbce9dc.txt",
+      "metadata_path": "data/geopolitics/raw/0cb10b16091ae2d8f7d0304ea45a185943fcd254faa94383c14dec083dbce9dc.json"
+    },
+    {
+      "title": "CAR: Humanitarian Reset Roadmap (21 October 2025) (pdf)",
+      "url": "https://reliefweb.int/attachments/19f6b32b-1b26-4d73-a1ae-a55b7ef7ced8/Humanitarian%20Reset%20Roadmap%2021%20October2025.pdf",
+      "text_path": "data/geopolitics/raw/97c467fa68f5603d6351a8c7511b71fe9350a3298d6d98d52d53a4fea5fcc2cc.txt",
+      "metadata_path": "data/geopolitics/raw/97c467fa68f5603d6351a8c7511b71fe9350a3298d6d98d52d53a4fea5fcc2cc.json"
+    }
+  ],
+  "txt_before": 743,
+  "txt_after": 748
+}

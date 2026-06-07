@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-07T00:09:21.089728+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://reliefweb.int/report/lebanon/restoring-critical-services-dahiyeh-south-beirut",
+  "title": "Lebanon: Restoring critical services in Dahiyeh, south Beirut",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 05 Jun 2026 15:03:10 +0000",
+  "sha256": "3fd8471941bc467e46c59bc202595c859c04140ee6749507779ff7c51036008d",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-07T00:09:22.155367+00:00",
+  "text_chars": 5254,
+  "raw_path": "data/geopolitics/raw/3fd8471941bc467e46c59bc202595c859c04140ee6749507779ff7c51036008d.html",
+  "text_path": "data/geopolitics/raw/3fd8471941bc467e46c59bc202595c859c04140ee6749507779ff7c51036008d.txt"
 }
