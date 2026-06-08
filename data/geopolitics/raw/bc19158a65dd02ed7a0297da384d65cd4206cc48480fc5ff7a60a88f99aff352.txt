@@ -1,0 +1,1772 @@
+1A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+A framework for 
+assessing climate change 
+and disaster-related 
+losses of biodiversity 
+and ecosystem services 
+May 2026 
+United Nations University
+Institute for Environment and Human Security
+A framework for 
+assessing climate change 
+and disaster-related 
+losses of biodiversity 
+and ecosystem services 
+May 2026 
+Authors 
+Yvonne Walz, Lisa Hartmann, Sally Janzen, Chithra Nair Rajendran, Katharina Kalbitz, Susan Mlenga, 
+Chawanangwa Nyirenda, Iria Touzon Calle, Le-Anne Roper
+Reviewers 
+Mozaharul Alam, Abbie Amundsen, Fatemeh Bakhitari, Ida Bjoerk, Nazgul Borkosheva, Michelle 
+DeFreese, Cordula Epple, Ansgar Fellendorf, Francesco Gaetani, Natalie Harms, Maarten Hofman, 
+Stefan Kienberger, Ra Kim Bo, Anil Kumar, Ning Liu, Neil Aldrin Mallari, Jennica Paula Masigan, Sara 
+Matasci, Jutta May, Nadja Muenstermann, Jaroslav Mysiak, Vincent Oeba, Jello D. Ortega, Raquel 
+Smith Ortega, Andrea Ortiz Vargas, Urbano Fra Paleo, Avash Pandey, Ekaterina Poleshchuk, Beatriz 
+Pozuelo, Teerapong Praphotjanaporn, Fabian Rackelmann, Johannes Reﬁsch, Fabrice Renaud, Mario 
+Salgado, Joshitha Sankam, Nagisa Shiiba, Heidi Tuhkanen, Kees Van der Geest, Douwe Van Schie, 
+Boris Van Zanten, Ayda Villalobos-Castro, Animesh Kumar, Toshiya Kai, Jessica Troni, Fruzsina 
+Straus, Anna Kilponen, Zita Sebesvari
+UN Office for Disaster Risk Reduction
+Contents
+Abbreviations  4
+Glossary  5
+Executive summary  8
+Guidance for the reader  10
+1.  Background and objective 12
+2.  Overview of the framework  15
+3.  Hazard context 18
+4.  Ecosystem and biodiversity context 20
+5.  Assessing climate change and disaster-related  
+ losses of biodiversity and ecosystem services 22
+5.1. Reference-level monitoring for the assessment of losses for extreme and  
+  sudden-onset events and slow-onset events  22
+5.2. Reference-level monitoring for assessing losses of biodiversity and ecosystem services  25
+5.3. The assessment of losses 27
+5.4. Use cases of the framework 27
+6.  Important considerations related to this framework 30
+References 32
+Imprint  35
+3A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+List of ﬁgures
+Figure 1: Framework for assessing losses of biodiversity and ecosystem services 16
+Figure 2: Reference-level monitoring and assessment of losses in the context of  
+extreme and sudden-onset events 23
+Figure 3: Reference-level monitoring and assessment of losses in the context of  
+slow-onset events 24
+List of boxes
+Box 1: Disaster & Hazardous Events, Losses and Damages Tracking & Analysis  
+(DELTA) Resilience  24
+Box 2: The System of Environmental-Economic Accounting – Ecosystem Accounting 25
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 4
+Abbreviations 
+BTR Biennial Transparency Reports
+CBD Convention on Biological Diversity
+DELTA Resilience Disaster & Hazardous Events, Losses and Damages Tracking & Analysis
+DRR Disaster Risk Reduction
+EBV  Essential Biodiversity Variables
+FLRD Fund for responding to Loss and Damage
+FRAME-ECO Framework to assess climate change and disaster-related losses of biodiversity and ecosystem services
+GIS Geographical information systems
+IPCC Intergovernmental Panel on Climate Change
+ISC International Science Council
+IUCN GET International Union for Conservation of Nature Global Ecosystem Typology
+NAP National Adaptation Plan
+NbS Nature-based Solutions
+NCP Nature’s Contributions to People
+SDG Sustainable Development Goal
+SEEA EA System of Environmental-Economic Accounting – Ecosystem Accounts
+UNDRR United Nations Oﬃce for Disaster Risk Reduction
+UNFCCC United Nations Framework Convention on Climate Change
+5A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+Glossary
+Baseline
+A minimum or starting point from which to compare other information (e.g. for comparisons between past and 
+present or before and after an intervention) (IPBES, 2025a).
+Biodiversity 
+The variability among living organisms from all sources – including terrestrial, marine and other aquatic ecosystems 
+– and the ecological complexes of which they are a part. This includes variation in genetic, phenotypic, phylogenetic 
+and functional attributes, as well as changes in abundance and distribution over time and space within and among 
+species, biological communities and ecosystems (IPBES, 2025a).
+Diverse values of nature 
+Nature is valued in diverse ways. These diverse values arise from the diﬀerent lenses through which people 
+interpret human–nature relationships (i.e. worldviews). Diverse values are grouped into three broad categories: 
+i) intrinsic (nature’s own worth), ii) instrumental (nature’s utility) and iii) relational (relationship of people with 
+nature) (IPBES, 2025a).
+Hazard 
+A process, phenomenon or human activity that may cause loss of life, injury or other health impacts, property 
+damage, social and economic disruption, or environmental degradation (UNDRR, 2017).
+Hazardous event 
+The manifestation of a hazard in a particular place during a particular period of time (UNDRR, 2017).
+Ecosystem
+A dynamic complex of plant, animal and microorganism communities and their non-living environment interacting 
+as a functional unit (CBD, 2025).
+Ecosystem condition
+An ecosystem’s structure and functioning understood as the composition of biotic and abiotic elements and the 
+ﬂows of energy and materials through them (IPBES, 2025a; Grizetti and others, 2019; UNSD, 2024).
+Ecosystem extent
+An ecosystem’s size, measured in spatial area and/or length or volume (UNSD, 2024).
+Ecosystem services
+The multiple beneﬁts that humans derive from nature, encompassing provisioning (e.g. food, water), regulating (e.g. 
+climate regulation, ﬂood control), cultural (e.g. spiritual and recreational) and supporting services (e.g. nutrient 
+cycling, soil formation) that underpin life on Earth (MEA, 2005a).
+Extreme events 
+The occurrence of a value of a weather or climate variable above (or below) a threshold value near the upper (or 
+lower) ends of the range of observed values of the variable (building on the deﬁnition of “extreme weather or 
+climate event” by IPCC, 2012).
+Loss and Damage (L&D)
+No agreed deﬁnition of the term “Loss and Damage” exists under the Convention, but the Cancun Agreements 
+provide boundaries by referencing impacts from extreme weather and slow-onset events (UNFCCC, 2012).
+Decision 2/CP.19 on establishing the Warsaw International Mechanism for Loss and Damage associated with climate 
+change impacts acknowledges that “loss and damage associated with the adverse eﬀects of climate change 
+includes, and in some cases involves more than, that which can be reduced by adaptation” (UNFCCC, 2013).
+Losses and damages 
+The adverse eﬀects of climate-related stressors that cannot be or have not been avoided through mitigation or 
+managed through adaptation eﬀorts (van der Geest and others, 2019). 
+Nature’s Contributions to People
+All the contributions, both positive and negative, of living nature (i.e. all organisms, ecosystems and their 
+associated ecological and evolutionary processes) to people’s quality of life (IPBES, 2025a).
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 6
+Reference level
+The value of a variable at the reference condition against which it is meaningful to compare past, present or future 
+measured values of the variable (UNSD, 2024).
+Risk (disaster risk)
+The potential loss of life, injury or destroyed or damaged assets that could occur to a system, society or community 
+in a speciﬁc period of time, determined probabilistically as a function of hazard, exposure, vulnerability and 
+capacity (UNDRR, 2017).
+Slow-onset events
+Events that evolve gradually from incremental changes occurring over many years or from an increased frequency 
+or intensity of recurring events (UNFCCC, 2012).
+Sudden-onset event
+A single, discrete event that occurs in a matter of days or even hours (UNFCCC, 2012).
+© Boudewijn Huysmans / Unsplash
+7A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 8
+Executive summary 
+This report introduces a framework for assessing 
+climate change and disaster-related losses of 
+biodiversity and ecosystem services. In response 
+to ecosystem degradation, biodiversity declines 
+and cascading impacts on human well-being, 
+this framework aims to ﬁll data gaps through a 
+standardized approach to identifying, monitoring and 
+assessing such losses. 
+Discussions on loss and damage have been gaining 
+traction at multiple levels of governance and society, 
+particularly as losses to the environment are often not 
+captured comprehensively. While some instrumental 
+values of nature, such as the provision of crops, are 
+considered in assessments of losses, many of the less 
+tangible losses require more attention, particularly 
+considering their adverse cascading eﬀects on 
+society, including on health, well-being, habitability, 
+opportunities, dignity and identity (UNFCCC, 2024). 
+The lack of comprehensive documentation of losses 
+related to biodiversity and ecosystem services is a 
+major barrier to informed planning, prioritization of 
+actions and decision-making, such as in the context of 
+implementing the Sendai Framework for Disaster Risk 
+Reduction, the Paris Agreement and the Kunming-
+Montreal Global Biodiversity Framework. 
+Against this background, this framework aims to: i) 
+achieve a better understanding of losses of biodiversity 
+and ecosystem services; ii) guide countries through 
+comprehensive assessments of losses related to 
+ecosystem extent, ecosystem condition, including 
+biodiversity, and diverse values of nature and 
+ecosystem services using available data, methodologies 
+and tools; and iii) support country-level programming 
+to avert, minimize and address these losses. 
+This framework consists of two main components: 
+i) the hazard context and ii) the ecosystem and 
+biodiversity context. The hazard context ranges from 
+extreme and sudden-onset events, such as storms 
+or ﬂoods, to slow-onset events, like sea level rise, 
+temperature increases or ocean acidiﬁcation. While 
+the primary focus of this report is on events related 
+to climate change, it is applicable to non-climate-
+related hazards, such as earthquakes, as its general 
+components and approaches are universal. The 
+ecosystem and biodiversity context encompasses 
+three interrelated dimensions: i) ecosystem extent, 
+ii) ecosystem condition, including biodiversity, 
+and iii) the diverse values of nature and ecosystem 
+services. Negative changes in any of these dimensions 
+are assumed to indicate potential losses when they 
+coincide with hazardous events in space and time. 
+Regular monitoring of both components is, therefore, 
+essential and serves as the basis for loss assessments 
+through the establishment of reference levels.
+Reference-level monitoring is a central element of 
+this framework, as it enables comparison between the 
+state of the ecosystem dimensions before, during and 
+after hazardous events. This framework aligns with 
+international statistical standards for reference-level 
+monitoring, particularly the System of Environmental-
+Economic Accounting – Ecosystem Accounting, and 
+integrates diverse data sources, including quantitative 
+data from remote sensing, in situ measurements 
+and qualitative data from participatory methods and 
+community-based sources, including indigenous and 
+local knowledge.
+The framework proposes distinct approaches for 
+assessing losses related to extreme and sudden-onset 
+events as well as slow-onset events. For extreme 
+and sudden-onset events, reference-level data on 
+ecosystem and biodiversity dimensions collected 
+before the event are compared with post-event data, 
+with negative changes indicating losses. Conversely, 
+slow-onset events rarely have a clear starting point. 
+Assessments, therefore, require comparing reference-
+level data collected at multiple time points with the 
+most recent data to detect changes. 
+Beyond the mere identiﬁcation of loss of biodiversity 
+and ecosystem services, this framework informs 
+multiple use cases. Regular monitoring supported by 
+this framework can inform ecosystem management, 
+conservation, restoration, nature-based solutions, and 
+exposure and vulnerability assessments. It can also 
+contribute to natural capital accounting. 
+This framework further provides a basis for supporting 
+Parties under the United Nations Framework 
+Convention on Climate Change and the Paris 
+Agreement, by reporting and explaining loss and 
+damage speciﬁc to their contexts. It is also a resource 
+for work under the Warsaw International Mechanism 
+for Loss and Damage, its Executive Committee and 
+the Santiago Network, by strengthening standardized 
+assessments of biodiversity and ecosystem 
+service losses. 
+Countries can further utilize the framework to identify 
+gaps relating to biodiversity and ecosystem losses 
+and to access ﬁnance to address them, including
+9A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+through the Fund for responding to Loss and Damage. 
+The framework can also support the development of 
+countries’ Biennial Transparency Reports, National 
+Adaptation Plans and, potentially, reporting under the 
+Global Goal on Adaptation. It aligns with the priorities 
+of the Sendai Framework for Disaster Risk Reduction 
+by advancing understanding of disaster risk and 
+enabling improved reporting on ecosystem-related 
+impacts, while complementing disaster tracking 
+systems, such as the Disaster & Hazardous Events, 
+Losses and Damages Tracking & Analysis (DELTA) 
+Resilience system, through structured integration and 
+tracking of environmental losses.
+It is important to note the limitations of this 
+framework as it attempts to simplify a highly complex 
+topic. These limitations include the challenge of 
+distinguishing between extreme and sudden-onset 
+events versus slow-onset events, the identiﬁcation 
+of climate change and hazards as primary drivers 
+of losses, and the spatial and temporal dynamics of 
+ecosystems and related losses. 
+This presented framework provides a basis to 
+advance the assessment of climate change and 
+disaster-related losses of biodiversity and ecosystem 
+services, particularly in contexts where data on 
+such losses are limited. The next critical step is 
+to apply the framework across diverse contexts, 
+considering data availability, ecosystem types and 
+hazardous events. Such applications are essential 
+to reﬁne methodologies, identify suitable metrics 
+and indicators, capture context-speciﬁc dynamics, 
+interpret losses and ensure the framework’s practical 
+relevance, robustness and adaptability across 
+diverse settings.
+© Timo Volz / Unsplash
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 10
+Guidance for the reader 
+This report contains six chapters. Chapter 1 elaborates 
+on the background and objectives of the framework. 
+Chapter 2 provides an overview of the framework, 
+which is then presented in depth in chapters 3, 
+4 and 5. Chapter 6 concludes with important 
+considerations related to the framework. 
+Policy-relevant information is presented in the 
+executive summary, chapter 2, chapter 5.3, 
+chapter 5.4 and chapter 6.
+There is also an accompanying online resource: 
+“Annex A – Data sources collection to support the 
+assessment of climate change and disaster-related 
+losses of biodiversity and ecosystem services”. This 
+compilation serves to inspire everyone who wants to 
+apply the framework by demonstrating which kinds of 
+data might be useful.
+© Oleksandr Sushko / Unsplash
+11A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+© Héctor Mavare / Unsplash
+11A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 12
+1. Background and objective
+Climate change is threatening ecosystems in multiple 
+ways, causing widespread biodiversity loss and long-
+term, potentially irreversible ecosystem shifts (IPCC, 
+2023). Climate-related hazards trigger disasters that 
+lead to losses in ecosystem services and biodiversity, 
+harming human systems (UNFCCC, 2024). Although 
+these losses threaten the quality of life for present 
+and future generations (IPBES, 2019), they remain 
+poorly understood. Gaining a better understanding is 
+essential for eﬀective planning and implementation 
+of disaster risk reduction (DRR) measures, especially 
+to avert, minimize and address losses in biodiversity 
+and ecosystem services and their eﬀects on people 
+and communities. This understanding must cover risks 
+from natural hazards and climate change threats that 
+can exacerbate vulnerabilities and harm ecosystems 
+and human well-being. 
+Despite discussions on loss and damage gaining 
+traction at multiple levels of governance and society, 
+relevant authorities, researchers and civil society 
+still face signiﬁcant challenges. These stem from the 
+varied deﬁnitions of “loss” across geographies and the 
+inherent complexity of loss-assessment processes, 
+particularly those related to environmental typologies, 
+such as biodiversity and ecosystem services. The 
+lack of a standardized framework for assessing 
+and monitoring biodiversity and ecosystem service 
+losses related to climate change and disasters limits 
+countries’ capacity to respond. 
+Historical understandings of losses have focused on 
+those that can be easily identiﬁed, quantiﬁed and 
+monetized, while our understandings of non-economic 
+losses – that is, those that may not constitute direct 
+loss of revenue or those that are irreducible to 
+economic terms – are nevertheless signiﬁcant and 
+deserve greater attention.
+The development of a framework to assess such 
+diﬀerent losses is a concrete step towards enriching 
+the discussion on standards and methodological 
+guidance. Therefore, it helps represent and respond 
+to climate change and disaster-related losses of 
+biodiversity and ecosystem services. It contributes to:
+1. Achieving a better understanding and awareness 
+of these types of losses. 
+2. Guiding countries using available data, 
+methodologies and tools to assess climate change 
+and disaster-related losses related to ecosystem 
+extent and condition (including biodiversity, 
+diverse values of nature and ecosystem 
+services), while also supporting the generation 
+and collection of primary data using accessible 
+national and global sources, including remote 
+sensing and satellite imagery. 
+3. Supporting more eﬀective, responsive, country-
+level programming to avert, minimize and address 
+climate change and disaster-related losses of 
+biodiversity and ecosystem services. 
+Through this, the framework deepens understanding 
+of biodiversity and ecosystem-services losses, 
+contributing to overall risk understanding and, 
+therefore, supporting the priorities for action of the 
+Sendai Framework for Disaster Risk Reduction, as well 
+as relevant elements of the Rio Conventions. In view 
+of cascading risks, the framework prioritizes assessing 
+the primary impacts on biodiversity and ecosystem 
+services, establishing a foundation for understanding 
+subsequent consequences for human communities, as 
+losses related to biodiversity and ecosystem services 
+have direct and indirect impacts on socioecological 
+systems, aﬀecting livelihoods, security, health, well-
+being, opportunities, dignity and identity (UNFCCC, 2024). 
+A better understanding of these losses supports risk-
+informed decision-making and policy development, 
+contributing to increasing resilience. The knowledge 
+generated from the framework can, for example, 
+inform restoration initiatives and nature-based 
+solutions (NbS) for resilient recovery, promote the 
+consideration and integration of diverse values of 
+nature in spatial planning, and contribute to global 
+discussions on losses and damages. It can also 
+directly support countries in articulating evidence-
+based needs to access funding, including from the 
+Fund for responding to Loss and Damage, and can be 
+included in or inform requests for technical assistance 
+under the Santiago Network. 
+The framework further supports achieving the 
+targets of the Kunming-Montreal Global Biodiversity 
+Framework – particularly Target 8: to “Minimize the 
+Impacts of Climate Change on Biodiversity and Build 
+Resilience” – and achieving Sustainable Development 
+Goals (SDGs) (particularly SDG 13 – Climate action, 
+SDG 14 – Life below water and SDG 15 – Life on land).
+To leverage the potential of the framework to 
+contribute to these processes, it primarily aims to 
+inform the work of policymakers at the national level. 
+These include national ministries, such as for the
+13A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+environment, National Statistics Oﬃces and Disaster 
+Risk Reduction and Management agencies, as well as 
+national loss and damage focal points. These actors 
+can facilitate the application of the framework and its 
+ﬁndings into the development and implementation 
+of national strategies and plans, including, but not 
+limited to, DRR strategies, National Adaptation Plans 
+(NAPs) and Biennial Transparency Reports (BTRs). 
+As the governance of loss and damage is country-
+speciﬁc, the uptake of the framework should be 
+guided by respective national contexts. The described 
+user groups and institutional entry points are 
+not prescriptive.
+© Vincent Burkhead / Unsplash
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 14
+© Quang Nguyen Vinh / Unsplash
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 14
+15A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+2. Overview of the framework 
+The framework to assess climate change and disaster-
+related losses of biodiversity and ecosystem services 
+(FRAME-ECO) comprises two main components: 
+i) the hazard context and ii) the ecosystem and 
+biodiversity context. The component hazard context 
+speciﬁcally considers a continuum of extreme and 
+sudden-onset events and slow-onset events, with 
+climate change being a major driver of losses (IPCC, 
+2022) (see chapter 3). The component ecosystem and 
+biodiversity context consists of three dimensions: 
+i) ecosystem extent, ii) ecosystem condition, 
+including biodiversity, and iii) diverse values of nature 
+and ecosystem services (based on the System of 
+Environmental-Economic Accounting – Ecosystem 
+Accounting [SEEA EA], UNSD, 2024; IPBES, 2019, see 
+chapter 4). Notably, the dimensions of ecosystem 
+extent and condition inﬂuence diverse values of 
+nature and ecosystem services, particularly with 
+regard to regulating services, which help mitigate risks 
+and, in turn, inﬂuence the extent of hazard impacts. 
+The framework builds on the assumption that 
+negative changes in these three dimensions may 
+indicate climate or disaster-related losses, especially 
+where they spatially and temporally coincide and are 
+associated with hazardous events. This operational 
+assumption is used as a pragmatic proxy to support 
+monitoring where formal attribution analysis is not 
+feasible and does not imply direct causal attribution 
+between observed changes and speciﬁc hazards 
+or climate drivers. Therefore, hazard context and 
+ecosystem and biodiversity context are to be regularly 
+monitored and overlaid in a spatially and temporally 
+explicit manner. How this is done diﬀers from extreme 
+and sudden-onset events to slow-onset events and is 
+explained in chapter 5.1.
+The framework is an outline, designed to be applied at 
+diﬀerent scales for loss assessments at local, regional, 
+national or international level, depending on the 
+scale at which losses are to be observed. Assessment 
+at the diﬀerent scales requires use of diﬀerent data 
+sources, from local to global data (more information 
+on data sources and tools is in the document “Annex A 
+– Data sources collection to support the assessment 
+of climate change and disaster-related losses of 
+biodiversity and ecosystem services”). Figure 1 
+illustrates the overall framework and highlights the 
+process of assessing losses of biodiversity and 
+ecosystem services. Each framework component 
+and step of the loss assessment are detailed in the 
+following chapters. However, it has to be noted that 
+this framework is an approach to inspire loss and 
+damage assessment, which in turn is expected to be 
+the practical application to be undertaken in diﬀerent 
+country contexts.
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 16
+Figure 1: Framework for assessing losses of biodiversity and ecosystem services. Arrows indicate use cases, while 
+dotted lines show feedback loops. PDNAs = Post-Disaster Needs Assessments. 
+Source: Authors.
+Updated reference 
+levels over time
+Hazard context
+(Negative) changes in ecosystem and biodiversity context
+Slow-onset eventExtreme and sudden-onset event
+Loss
+assessment
+Loss
+assessment
+Reference-level
+monitoring
+Intensity of event
+Time Time
+Intensity of event
+T1
+T2
+T3
+Use cases
+e.g., NbS planning, conservation 
+and restoration planning
+Use cases
+e.g., ecosystem management, 
+exposure and vulnerability assess-
+ment, natural capital accounting
+Use cases
+e.g., Sendai Framework, PDNAs, 
+climate risk and DRR /f_inance, FRLD
+Extreme and 
+sudden-onset events
+Slow-onset events
+Monitoring the continuum of sudden-onset 
+to slow-onset events
+Ecosystem and biodiversity context 
+Ecosystem extent 
+Ecosystem condition, including 
+biodiversity 
+Diverse values of nature and 
+ecosystem services
+Regular monitoring
+Spatial and 
+temporal overlay
+Loss assessment
+Change detection through comparison of 
+ecosystem and biodiversity data collected at 
+multiple points in time and most recent data 
+(T1 = Reference level 1, T2 = Reference level 2, 
+T3 = Reference level 3)
+Comparison of ecosystem and 
+biodiversity data collected at two 
+points in time: pre-event data and most 
+recent post-event data
+17A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+© Timo Volz / Unsplash
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 18
+3. Hazard context
+For the loss assessment, it is necessary to understand 
+the hazard context that drives losses of biodiversity 
+and ecosystem services in a given area. For this 
+framework, hazards comprise a continuum of extreme 
+and sudden-onset events and slow-onset events. 
+The term “extreme events” is mainly used by the 
+climate change and loss and damage communities 
+(see, for example, UNFCCC, 2025), and builds on the 
+Intergovernmental Panel on Climate Change (IPCC) 
+deﬁnition of extreme weather or climate events as 
+“The occurrence of a value of a weather or climate 
+variable above (or below) a threshold value near the 
+upper (or lower) ends of the range of observed values 
+of the variable” (IPCC, 2012).
+Sudden-onset events are deﬁned as “a single, discrete 
+event that occurs in a matter of days or even hours” 
+(UNFCCC, 2012) and are categorized as per the hazard 
+classiﬁcation of the United Nations Oﬃce for Disaster 
+Risk Reduction and the International Science Council 
+(UNDRR and ISC, 2025). In this current framework, 
+primarily extreme and sudden-onset events related 
+to climate change are considered (i.e. those events 
+increasing in frequency and magnitude due to 
+climate change). The primary focus on these events 
+stems from the prominent global discussion around 
+climate change-related losses and damages and how 
+to address them, which the framework strives to 
+contribute to. However, the framework is also more 
+broadly applicable to non-climate-related hazards, 
+such as earthquakes, as its general components and 
+approaches are universal. 
+Including references to both extreme events and 
+sudden-onset events broadens the work of climate 
+change adaptation, loss and damage and the DRR 
+communities. This approach also allows for events 
+that do not ﬁt neatly into a sudden-onset and slow-
+onset classiﬁcation. For example, drought cannot 
+be easily classiﬁed as either. Rainfall and other data 
+may indicate its general start and end, but drought 
+is not considered a sudden-onset event; it also is 
+not continuous (with no clear end) in the way slow-
+onset events are. In the United Nations Framework 
+Convention on Climate Change (UNFCCC), drought is 
+classiﬁed as an extreme event (UNFCCC, 2012).
+The slow-onset events considered for the framework 
+follow the deﬁnition of UNFCCC (2012) to “evolve 
+gradually from incremental changes occurring 
+over many years or from an increased frequency 
+or intensity of recurring events”. At this stage, this 
+framework considers the following as slow-onset 
+events: sea level rise, increasing temperatures, ocean 
+acidiﬁcation and glacial retreat. The loss assessment 
+requires spatially and temporally explicit information 
+on such events. 
+Assessment of hazardous events can be done using 
+remote sensing data, geographical information 
+systems (GIS) and in situ monitoring to map the 
+spatial extent and the respective intensity of the 
+event(s) in question for the assessment of losses to be 
+undertaken. For example, the extent and depth of the 
+inundated area after a ﬂood or the temperature and 
+soil moisture during a drought can be documented to 
+record the intensity of the given event(s). For each 
+type of event, hazard characteristics (e.g. extent and 
+intensity) are assessed diﬀerently and require ﬁt-for-
+purpose metrics. These are documented in the Hazard 
+Information Proﬁles (UNDRR and ISC, 2025). 
+Disaster and meteorological communities (scientiﬁc 
+entities such as hydrometeorological or oceanographic 
+services) are already conducting assessments on 
+extreme and sudden-onset events and slow-onset 
+events, and their work can provide an important 
+foundation for hazard information. Existing statistical 
+and monitoring frameworks that track hazardous 
+events and related losses, such as the Sendai 
+Framework Monitor and the Global Disaster-Related 
+Statistics Framework, should be considered and used. 
+To address data gaps and uncertainties, it is 
+recommended to integrate diverse data sources, 
+such as remote sensing, ﬁeld surveys, citizen science 
+and indigenous knowledge. Sensitivity analyses and 
+transparent reporting of uncertainty (e.g. conﬁdence 
+intervals, data limitations) should be standard 
+practice, supporting risk-informed and adaptive 
+decision-making.
+© Naja Bertolt Jensen / Unsplash
+19A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 20
+4. Ecosystem and 
+biodiversity context
+Hazardous events can have various detrimental 
+impacts on biodiversity and ecosystems (see, 
+for example, IPCC, 2022; IPBES, 2019; UNFCCC, 
+2024). To assess how these manifest as losses, it is 
+essential to ﬁrst understand the context in which the 
+assessment of losses is to be performed.
+Therefore, the ecosystem and biodiversity context is 
+an integral component of the presented framework 
+and includes three dimensions: i) ecosystem extent, 
+ii) ecosystem condition, including biodiversity, and 
+iii) diverse values of nature and ecosystem services. 
+The extent of an ecosystem refers to its size, 
+measured in spatial area and/or length or volume 
+(UNSD, 2024). The condition of an ecosystem in this 
+framework is understood to reﬂect an ecosystem’s 
+structure and functioning and can be referred to 
+as the composition of biotic and abiotic elements 
+and the ﬂows of energy and materials through them 
+(IPBES, 2025a; Grizetti and others, 2019; UNSD, 
+2024). Biodiversity is fundamental to the condition 
+of ecosystems; scientiﬁc evidence highlights that 
+species’ functional characteristics determine 
+ecosystem properties and the ﬂow of material and 
+energy (Maes and others, 2013; Hong and others, 
+2021; Hooper and others, 2005). The diverse values 
+of nature are highlighted by the concept of Nature’s 
+Contributions to People (NCP), which integrates 
+both material and non-material beneﬁts of nature, 
+while acknowledging diﬀerent cultural backgrounds 
+and worldviews that shape how people relate to the 
+natural world (Díaz and others, 2018). Within this 
+broader framing, the concept of ecosystem services 
+oﬀers a structured way to describe these beneﬁts, 
+referring to provisioning (e.g. food, water), regulating 
+(e.g. climate regulation, ﬂood control), cultural (e.g. 
+spiritual and recreational) and supporting services 
+(e.g. nutrient cycling, soil formation) that underpin 
+life on Earth (MEA, 2005a). Ecosystem services are 
+a fundamental contribution to human well-being, 
+as the support provided by the natural environment 
+constitutes the basis for human security, resources for 
+livelihoods, health, good social relations and freedom 
+(MEA, 2005b).
+This structure acknowledges that the extent and 
+condition of ecosystems, including their biodiversity, 
+are fundamental for their functioning. Changes in 
+extent and condition can have negative impacts, with 
+palpable eﬀects on the composition of biotic and 
+abiotic elements and the ﬂows of energy and materials. 
+Further, the extent and condition of an ecosystem, as 
+well as the state of its biodiversity, largely determine 
+its capacity to provide ecosystem services and diverse 
+values to diﬀerent groups of people. 
+However, this framework also acknowledges that 
+ecosystems are highly dynamic, as deﬁned by the 
+Convention on Biological Diversity (CBD, 2025): “A 
+dynamic complex of plant, animal and microorganism 
+communities and their non-living environment 
+interacting as a functional unit”. Ecosystems evolve 
+over time, resulting from changes in environmental 
+conditions through cycles of disturbance and recovery. 
+In addition, ecosystem conditions may also be 
+inﬂuenced by ongoing human-induced pressures – 
+such as resource overexploitation, extractive activities 
+and land-use changes related to urbanization or 
+agricultural practices – which can interact with 
+natural disturbances and shape observed ecosystem 
+changes. Often, these disturbances – such as wildﬁres, 
+large-scale ﬂoods or pest outbreaks – are essential 
+for maintaining ecological integrity and enabling 
+renewal processes. For example, certain forest or 
+wetland ecosystems depend on periodic ﬂooding or 
+ﬁre to regenerate, maintain species diversity or reset 
+successional stages (see, for example, Rowe and 
+Scotter, 1973; Sandi and others, 2020). 
+The essential nature of some natural disturbances 
+to ecosystem health should also be considered to 
+capture the natural variability and disturbance-driven 
+dynamics of ecosystems and distinguish them from 
+changes that exceed natural boundaries and lead to 
+degradation or loss. This is why regular monitoring is 
+encouraged and considered essential in understanding 
+ecosystem dynamics. Monitoring disturbances is 
+highly relevant for providing reference levels for 
+the ecosystem context and can serve as a basis for 
+comparing changes in relation to the hazard context. 
+Furthermore, it supports a better understanding of 
+ecosystems and informed decision-making regarding 
+ecosystem management.
+21A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+© Matt Palmer / Unsplash
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 22
+5. Assessing climate change 
+and disaster-related losses of 
+biodiversity and ecosystem 
+services
+When spatial and temporal overlays show that 
+hazardous events coincide with and result in 
+changes of ecosystem extent, condition or services, 
+or diverse values of nature, then there may have 
+been losses in biodiversity and ecosystem services. 
+An assessment should be conducted at this point 
+to capture negative changes in the ecosystem and 
+biodiversity context related to the hazardous events. 
+The loss assessment compares the post-event 
+conditions of the ecosystem and biodiversity context 
+with pre-event conditions. Baseline and reference-
+level data, as well as reference-level monitoring, 
+are thus required to compare with most recent data 
+and determine losses. For this framework, both 
+“baseline” and “reference level” terms are used. 
+It should be acknowledged that a baseline might 
+be associated with an optimal state, which is hard 
+to determine for an ecosystem. Comparatively, a 
+reference level is more ﬂexible, as it considers the 
+dynamic status of ecosystems as a basis, including 
+prior to an event, at a certain point in the past, or in 
+its natural/pristine state. This terminology is aligned 
+with the SEEA EA (UNSD, 2024). Reference levels 
+should be periodically reviewed and updated to reﬂect 
+new scientiﬁc knowledge and changing ecological 
+conditions so they are as relevant, actionable and 
+scientiﬁcally robust as possible. This approach is 
+consistent with best practices in ecological monitoring 
+and restoration (IPBES, 2019; Leclère and others, 
+2020). Importantly, reference-level data and the data 
+used for periodic comparison need to be measured 
+under the same conditions. For example, certain types 
+of wetlands are more vulnerable to changes during 
+a dry season, and losses during a dry season (e.g. 
+due to wildﬁres) should not be assessed against the 
+condition of the same wetland during a wet season.
+How the reference-level monitoring and the loss 
+assessment are conducted depends on whether the 
+negative changes in the ecosystem and biodiversity 
+context are related to extreme and sudden-onset 
+events or slow-onset events, as described in 
+chapter 5.1.
+5.1. Reference-level monitoring for the assessment of losses for 
+extreme and sudden-onset events and slow-onset events 
+Extreme and sudden-onset events tend to cause 
+immediate, measurable damage that can be captured 
+through rapid or initial assessments, while slow-
+onset events lead to gradual, cumulative losses that 
+are often harder to quantify and qualify and require 
+long-term ecological monitoring and context-speciﬁc 
+evaluation. However, in practice, slow-onset and 
+extreme and sudden-onset events can overlap and 
+interact along a continuum of events (see chapter 6). 
+This framework treats them as two categories for 
+analytical clarity and distinct assessment of losses. 
+Some losses related to a storm surge, for example, 
+can (theoretically) be assessed right after the event 
+using reference data from the pre-event phase. 
+Ocean acidiﬁcation, on the other hand, does not 
+have a deﬁned start or end point. Therefore, it is 
+unclear at what point the assessment of losses is 
+to be performed and which data should best serve 
+as reference data. Determining losses related to 
+slow-onset events, therefore, requires more long-
+term tracking. In line with established assessment 
+methodologies, rapid assessments primarily capture 
+immediate damages and observable eﬀects, while 
+longer-term losses and impacts emerge progressively 
+during the recovery period. The terminology “slow-
+onset events” is commonly used in the context
+23A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+of climate change (UNFCCC, 2024) and will also 
+be adopted in this framework. Since there are 
+often events with no clearly determinable start 
+or end points, some conceptually consider these 
+are processes (UNDRR, 2023). For both extreme 
+and sudden-onset events and slow-onset events, 
+reference-level data are required against which 
+the most recent data (for extreme and sudden-
+onset events: post-event data) can be assessed to 
+determine losses.
+5.1.1. Extreme and sudden-onset events
+Looking more closely at extreme and sudden-onset 
+events, baseline or reference-level data refers to pre-
+event data. This includes data on ecosystem extent, 
+condition/biodiversity, values and services collected 
+continuously before the event in question. To assess 
+loss, post-event data on the same variables are 
+compared with this reference-level data. The observed 
+change, such as reduction of ecosystem extent or 
+reduction of net primary productivity after the event, 
+indicates potential losses. This is illustrated in 
+ﬁgure 2.
+To support the operationalization of the approaches 
+proposed in this framework, the Disaster & Hazardous 
+Events, Losses and Damages Tracking & Analysis 
+(DELTA) Resilience system is identiﬁed as a key 
+implementation platform. Developed by UNDRR 
+in collaboration with the World Meteorological 
+Organization and the United Nations Development 
+Programme, DELTA Resilience provides a standardized 
+structure for tracking hazardous events together 
+with associated damages and losses across sectors 
+and hazard types. Its integrated approach – linking 
+hazard characteristics, exposure and vulnerability 
+conditions, and observed eﬀects – enables progressive 
+incorporation of more comprehensive losses 
+information, including biodiversity and ecosystem-
+services losses as outlined in this framework. While 
+current applications are particularly suited to 
+documenting losses associated with extreme and 
+sudden-onset events, the framework can capture 
+longer-term and cumulative losses, including those 
+linked to slow-onset events. The framework, therefore, 
+builds upon DELTA Resilience by helping to identify 
+and structure additional data and assessment 
+dimensions required for more comprehensive losses 
+tracking over time. A detailed overview of the DELTA 
+Resilience system is provided in Box 1.
+5.1.2. Slow-onset events
+Compared with extreme and sudden-onset events, 
+developing a standardized approach to track and 
+assess losses from slow-onset events is more 
+complex. Figure 3 shows that establishing a data 
+baseline or a reference level ideally builds on data 
+collection at multiple points in time prior to the 
+assessment of losses. Because slow-onset events 
+often lack a delineable start date, monitoring and 
+collecting data at multiple points in time enables 
+the collection of pre-event data while accounting for 
+changing reference levels. Ideally, such monitoring of 
+ecosystem variables and biodiversity is continuously 
+conducted in countries. 
+The above-described steps for mapping and 
+monitoring are given as inspiration for how to 
+do so. It is, however, acknowledged that such 
+monitoring systems are often not in place and, 
+therefore, limited data are available. For both 
+slow-onset and extreme and sudden-onset events, 
+anecdotal data should be included alongside data 
+obtained through remote sensing, modelling or 
+ecological in situ measurements. This may include 
+information collected through participatory mapping 
+or storytelling, as well as alternative data and 
+information formats, including pictures or testimonies. 
+Integrating diverse data sources, including both 
+quantitative and qualitative data, enhances spatial 
+and temporal coverage, improves result accuracy and 
+supports the comprehensive assessment of losses, 
+particularly where data gaps exist. Such data and 
+information can be captured using the UNDRR DELTA 
+Resilience system.
+Extreme and sudden-onset event
+Loss
+assessment
+Reference-level
+monitoring
+Intensity of event
+Time
+Figure 2: Reference-level monitoring and assessment 
+of losses in the context of extreme and sudden-onset 
+events. Example: assessing the extent and condition 
+of a riparian forest before and after a ﬂood event.
+Source: Authors.
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 24
+In contrast to assessing losses induced by extreme 
+and sudden-onset events, determining losses from 
+slow-onset events requires not only comparison of 
+data from two points in time, but change detection 
+that builds on a comparison of data on ecosystem 
+extent, condition/biodiversity and services and values 
+collected at multiple points in time prior to and during 
+the event with the most recent data. This is because 
+slow-onset events are, in fact, continuous processes 
+in which losses accumulate. Hence, tracking and 
+assessing related losses require long-term monitoring, 
+especially since slow-onset events, such as sea level 
+rise and temperature increase, are not expected to 
+halt in the near future, and losses might continue 
+to occur. Countries lacking regular monitoring can 
+initiate periodic surveys, establish sentinel sites 
+and participate in global observation networks to 
+build long-term data sets. By employing low-cost 
+sensors, community-based monitoring and remote 
+sensing, data collection can be enhanced, enabling 
+the detection of gradual ecosystem changes linked to 
+slow-onset events.
+Existing monitoring systems and data sets can help 
+track slow-onset events and, therefore, support the 
+Box 1: Disaster & Hazardous Events, Losses and Damages Tracking & Analysis 
+(DELTA) Resilience 
+Disaster & Hazardous Events, Losses and Damages Tracking and Analysis (DELTA) Resilience is a next-
+generation disaster tracking system developed by the United Nations Oﬃce for Disaster Risk Reduction in 
+collaboration with the World Meteorological Organization and the United Nations Development Programme. 
+It supports countries in systematically recording hazardous events together with associated damages and 
+losses using a standardized and risk-informed data structure. More than a software application, DELTA 
+Resilience combines methodological frameworks, data standards, governance arrangements, capacity 
+development and open-source digital tools to strengthen nationally owned disaster tracking systems. 
+Unlike traditional disaster loss databases that primarily document damages and economic losses after 
+events occur, DELTA Resilience integrates information across the disaster risk continuum. The system 
+records hazardous events – including their spatial and temporal extent and physical characteristics, such as 
+magnitude and intensity – alongside observed damages, service disruptions and losses across sectors. It also 
+enables the inclusion of reference information on pre-event exposure and vulnerability conditions, allowing 
+losses to be analysed in relation to underlying risk drivers.
+DELTA Resilience follows internationally aligned hazard classiﬁcations and supports standardized reporting 
+across hazards, sectors and geographic scales. Data can be disaggregated across population groups, 
+including by sex, age and disability, when referring to human impacts, and the system allows documentation 
+of both economic and non-economic losses, such as health eﬀects, displacement and service disruptions.
+By linking hazardous events, exposure and vulnerability conditions, damages and losses within a single 
+structure, DELTA Resilience provides a foundation for progressively expanding disaster loss accounting. This 
+includes the integration of biodiversity and ecosystem-services losses through comparison of post-event 
+changes against ecological reference conditions and ongoing monitoring approaches.
+For further information, see: 
+DELTA Resilience: Disaster losses and damages tracking system (deltaresilience.org)
+Updated reference 
+levels over time
+Slow-onset event
+Loss
+assessment
+Time
+Intensity of event
+T1
+T2
+T3
+Figure 3: Reference-level monitoring and assessment 
+of losses in the context of slow-onset events. 
+Example: assessing coral reef condition under 
+progressive ocean acidiﬁcation and warming.
+Source: Authors.
+25A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+assessment of related losses of biodiversity and 
+ecosystem services for countries/regions that do not 
+have their own tracking systems. 
+In the case of both extreme and sudden-onset events 
+and slow-onset events, the data obtained at the point 
+of, or shortly after, the event occurred can be used as 
+the start for continuous monitoring of the ecosystem’s 
+extent, condition/biodiversity, services and values. 
+Continuous reference-level monitoring provides a 
+detailed picture of an ecosystem’s state and enables 
+monitoring of ecosystem recovery and the progression 
+of losses in the context of slow-onset events, such 
+as sea level rise. In the case of extreme and sudden-
+onset events, more long-term monitoring could also 
+help track cascading losses occurring well after the 
+initial event. In the face of future hazards, this data 
+can be used as the basis for a new reference level 
+against which further changes are measured. 
+5.2. Reference-level monitoring for assessing losses of biodiversity 
+and ecosystem services 
+In order to assess climate change and disaster-
+related losses of biodiversity and ecosystem services, 
+the baseline or reference level of the ecosystem 
+and biodiversity context must be established. This 
+chapter elaborates on reference-level monitoring 
+for ecosystem extent (chapter 5.2.1), ecosystem 
+condition, including biodiversity (chapter 5.2.2) and 
+diverse values of nature and ecosystem services 
+(chapter 5.2.3). The reference-level monitoring 
+proposed here is aligned with SEEA EA as an already 
+existing internationally agreed statistical framework.
+Importantly, the framework accommodates for varying 
+data types and availability, including high- and low-
+resolution data and community-drawn maps, among 
+others. National- and/or local-level assessments 
+of losses will, therefore, depend on what data are 
+available as reference-level data relative to the point 
+at which the loss is being determined. Appropriate 
+limitations can be noted while acknowledging that 
+there is value in using qualitative or anecdotal data to 
+estimate the spatial extent of important ecosystems.
+5.2.1. Ecosystem extent 
+Using spatially explicit data (such as remote sensing 
+data and GIS) helps track changes in ecosystem 
+services both spatially and temporally. The spatial 
+component enables monitoring of the size of 
+individual and interconnected ecosystems; the 
+temporal component makes it possible to track 
+the long-term changes in ecosystems that emerge 
+and evolve over time. Existing and ground-truthed 
+ecosystem maps can be simple or elaborate based 
+on data available and in-country capacity and may 
+also be relevant for the interpretation of remotely 
+sensed data. 
+There is currently no single, universally (global) 
+accepted deﬁnition or classiﬁcation system for all 
+ecosystems, although several major frameworks have 
+been developed to promote greater harmonization 
+at the global level. One of the most comprehensive 
+is from the International Union for Conservation of 
+Nature Global Ecosystem Typology (IUCN GET; IUCN, 
+2020a), which oﬀers a hierarchical structure for 
+Box 2: The System of Environmental-Economic Accounting – Ecosystem Accounting 
+The System of Environmental-Economic Accounting – Ecosystem Accounting (SEEA EA; UNSD, 2024) is an 
+internationally agreed statistical framework that provides standardized methods for measuring ecosystems, 
+biodiversity and ecosystem services within an accounting structure consistent with national statistics. SEEA 
+EA organizes information through ecosystem extent, ecosystem condition and ecosystem services accounts, 
+enabling systematic observation of ecosystems and their changes over time.
+In the context of disaster and climate change assessment, SEEA EA supports the establishment of reference 
+or baseline conditions against which ecosystem changes can be assessed. By distinguishing ecosystem 
+assets, their condition and the services they generate, the framework enables the identiﬁcation of losses 
+related not only to physical damage but also to declines in ecosystem functioning and service provision.
+The reference-level monitoring proposed in this framework aligns with SEEA EA concepts and accounting 
+structures, supporting consistency with internationally agreed statistical standards and facilitating 
+integration with environmental and disaster-related statistics.
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 26
+classifying ecosystems, ranging from broad functional 
+groups, such as terrestrial forests or freshwater rivers, 
+to more speciﬁc ecosystem types, such as tropical-
+subtropical forests or palustrine wetlands. SEEA EA 
+supports the use of IUCN GET or equivalent national 
+ecosystem classiﬁcations. An interactive web map 
+enables the extraction of global or country-speciﬁc 
+spatial ecosystem data, via IUCN GET, making it one 
+of several practical tools supporting the collection of 
+ecosystem extent data to establish a reference level 
+aligned with global standards.
+5.2.2. Ecosystem condition, including 
+biodiversity
+Ecosystem condition is deﬁned by the quality of 
+abiotic and biotic ﬂows within an ecosystem. To 
+capture abiotic and biotic ﬂow quality and to establish 
+a reference condition against which changes can 
+be tracked, SEEA EA proposes a set of ecosystem 
+conditions that guide the selection of variables 
+and indicators. These include physical, chemical, 
+compositional, structural and functional state 
+characteristics, as well as landscape and seascape 
+characteristics. Biodiversity-related indicators, 
+including those aligned with Essential Biodiversity 
+Variables (EBVs), can be integrated within condition 
+accounts. The EBVs include variables such as 
+genetic diversity, species abundance, phenology 
+and primary productivity (GEO-BON, 2025). EBVs 
+enable monitoring of and reporting on biodiversity 
+change and indicators sensitive to ecosystem change, 
+making these variables crucial for tracking ecosystem 
+responses and losses under climate change and 
+disaster impacts. 
+Tracking changes in the ecosystem condition, 
+including biodiversity, can be supported by 
+remote sensing and GIS. However, further in situ 
+measurements of ecological variables or indicator 
+species are pivotal for comprehensive assessments. 
+Many communities (both geographic and sectoral) 
+who beneﬁt directly from or live as part of ecosystems 
+may have valuable insights into how these ecosystems 
+have changed or are changing, particularly in 
+reference to hazardous events. Such information 
+may prove valuable on its own or for validating 
+other observational records. National or community 
+archives are also useful sources for reference-level 
+and/or impact data on changes over time.
+5.2.3. Diverse values of nature and 
+ecosystem services
+One speciﬁc ambition of the framework is to promote 
+a more comprehensive perspective that considers, 
+to the extent possible, diverse values of nature. 
+The Intergovernmental Science-Policy Platform on 
+Biodiversity and Ecosystem Services framework on 
+NCP can guide the assessment of diverse values. The 
+framework builds on the ecosystem services concept, 
+with its 18 reporting categories (MEA, 2005b), but 
+provides additional guidance on assessing other 
+values that cannot be captured adequately by the 
+reporting categories. It gives equal importance to 
+instrumental, relational and intrinsic values, such 
+as cultural heritage or social cohesion, and applies 
+a pluralistic valuation approach (IPBES, 2025b). The 
+NCP approach considers diverse actors, disciplines 
+and worldviews, such as more polycentric worldviews 
+and indigenous and local knowledge systems, that 
+view humans as living in, with or as nature, rather than 
+living oﬀ nature (IPBES, 2019; IPBES, 2022). 
+Capturing such diverse values would enable a better 
+understanding of cascading impacts of biodiversity 
+and ecosystem service losses as deﬁned by UNFCCC 
+(2024), such as identity, dignity, habitability and 
+other dimensions of well-being. As the NCP approach 
+is yet to be operationalized, concrete data sources 
+are not available. Nevertheless, countries should 
+feel encouraged to check available and alternative 
+resources and include qualitative statements, 
+pictures and local and indigenous stories, obtained 
+through participatory methods and other forms of 
+communication, that can help to assess diverse 
+values of nature and depict the impacts of hazards on 
+ecosystems more comprehensibly (IPBES, 2019). 
+It is acknowledged that framing and capturing data on 
+the diverse values of nature is complex and beyond 
+what countries might be able to do. Focusing on 
+assessing changes in ecosystem extent and condition is, 
+therefore, a practical starting point for the assessment 
+of losses. Nevertheless, exploring diverse values is 
+highly encouraged to enable a holistic assessment of 
+losses and what these losses mean for people.
+The provision of ecosystem services can be mapped 
+spatially and assessed using a wide range of methods, 
+including modelling, in situ measurements and 
+qualitative or quantitative analyses. Within the 
+SEEA EA, assessment and mapping of ecosystem 
+services follow a standardized approach carried out 
+at the country level. Easily accessible web mapping 
+resources that provide data from global data sets 
+remain limited in their capacity to capture the full 
+range of ecosystem services and speciﬁcities at 
+national and subnational levels.
+27A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+5.3. The assessment of losses
+Capturing changes to the ecosystem and biodiversity 
+context related to hazardous events enables the ﬁnal 
+assessment of losses. 
+This relies on the reference-level monitoring outlined 
+in chapter 5.2, which is speciﬁc to the hazard context. 
+By comparing the ecosystem and biodiversity context 
+with previous points in time (reference levels), 
+negative changes in ecosystem extent, condition 
+and diverse values of nature and services can be 
+identiﬁed. These negative changes, such as loss 
+of coastal wetlands to sea level rise (changes in 
+ecosystem extent), or climate-driven disappearances 
+of species (changes in biodiversity) or the drying up of 
+sacred waters (changes in diverse values), would be 
+considered losses. 
+It should be noted again that this framework 
+presents only an approach to ﬁll gaps in data and 
+understanding relating to ecosystem and biodiversity 
+losses. To elaborate further and to ensure this 
+framework’s applicability, the next step is to use 
+it for the assessment of losses in diﬀerent hazard, 
+ecosystem and country contexts.
+5.4. Use cases of the framework
+Through its component-based structure, this 
+framework not only supports the identiﬁcation and 
+assessment of losses, but it can inform other use 
+cases in the context of environmental management 
+and policy development. By promoting regular 
+monitoring of ecosystem extent, condition, 
+biodiversity, diverse values and ecosystem services, 
+and by enabling the structured assessment of 
+losses, the framework supports building evidence for 
+informed decision-making across conservation and 
+restoration planning, DRR and climate risk ﬁnance.
+5.4.1. Use cases informed by regular 
+monitoring
+An inherent part of the framework is 
+the promotion of regular monitoring 
+of the ecosystem context. Such 
+monitoring directly supports 
+ecosystem management by enabling practitioners 
+and policymakers to track changes over time, identify 
+past, current and future degradation trends and 
+assess the eﬀectiveness of management interventions.
+Regular monitoring also informs 
+exposure and vulnerability 
+assessments by investigating how 
+changes in ecosystem extent and 
+condition aﬀect the capacity of ecosystems to 
+provide provisioning, cultural and regulating services, 
+including those that contribute to mitigation of 
+hazards (Mitchell and others, 2013; Grizetti and others, 
+2019). Any reduction of this capacity can increase the 
+exposure and vulnerability of socioecological systems, 
+including individuals, communities and ecosystems 
+themselves, to climate-related hazards (Sudmeier-
+Rieux and others, 2021; Walz and others, 2021). By 
+capturing these dynamics, regular monitoring enables 
+a better understanding of risk and the development of 
+targeted risk reduction strategies.
+In addition, monitoring promoted by 
+this framework can inform natural 
+capital accounting processes. As the 
+framework aligns with the United 
+Nations SEEA EA, it supports eﬀorts to compile 
+standardized information on ecosystem extent, 
+condition and service provision.
+Beyond these direct applications, 
+regular monitoring further informs 
+planning processes, particularly NbS 
+planning, as well as conservation 
+and restoration planning. Information and data, 
+particularly on changes in ecosystem condition, 
+biodiversity and ecosystem services, are essential for 
+identifying where NbS, conservation and restoration 
+interventions are needed. The IUCN Global Standard 
+for Nature-based Solutions (IUCN, 2020b) deﬁnes NbS 
+as “actions that result in a net gain to biodiversity 
+and ecosystem integrity”. Compliance with this 
+standard requires NbS to be based on evidence-based 
+assessments of ecosystem state and prevailing drivers 
+of degradation and loss. The framework supports this 
+requirement by facilitating systematic monitoring 
+and loss identiﬁcation, thereby ensuring that NbS 
+interventions directly respond to observed ecosystem 
+needs rather than assumed conditions.
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 28
+5.4.2. Use cases informed by the 
+assessment of losses
+The assessment of losses enabled 
+by the framework directly supports 
+international and national policy 
+processes, including reporting under 
+the Sendai Framework for Disaster Risk Reduction 
+(Targets C and D) and potentially the Global Goal on 
+Adaptation (Target 9d on reducing climate impacts 
+on ecosystems and biodiversity). It can enhance 
+transparency in loss and damage information 
+processes, such as BTRs under the Paris Agreement, 
+as well as inform national adaptation planning. When 
+developing or updating their NAPs, for example, 
+countries could integrate assessments of losses 
+results into the assessment of climate hazards, 
+vulnerabilities and risks, and impacts of climate 
+change impacts, as well as into the development 
+of climate change scenarios (Element A of the NAP 
+development process; UNFCCC LDC Expert Group, 
+2025) to inform adaptation action that considers the 
+environment. 
+Similarly, ﬁndings of assessments of 
+losses can inform the development of 
+national DRR strategies by identifying 
+disaster risks, impacts and trends to 
+guide appropriate interventions (Phase 1, Step 1 of 
+the development of national DRR strategies process; 
+UNDRR, 2019). By explicitly capturing biodiversity 
+and ecosystem-services losses, the framework 
+aids data collection that can inform targets of the 
+Sendai Framework Monitor, including Target C, direct 
+economic losses and Target D, speciﬁcally Indicator 
+C-5 (direct economic loss resulting from damaged 
+or destroyed critical infrastructure attributed to 
+disasters) and Indicator D-4 (number of other 
+destroyed or damaged critical infrastructure units and 
+facilities attributed to disasters) (UNGA, 2016; Walz 
+and others, 2021; Walz and others, 2022). 
+A better understanding of losses of 
+biodiversity and ecosystem services 
+informs engagement with the Santiago 
+Network by helping countries articulate 
+speciﬁc technical assistance needs and integrate 
+environmental considerations into climate risk and 
+DRR ﬁnance mechanisms, particularly in the context 
+of the newly established Fund for responding to Loss 
+and Damage (FLRD) (UNFCCC, 2024). As it enables 
+countries to conduct assessments and report on 
+the biodiversity and ecosystem service losses, one 
+ambition of the framework is to further support the 
+submission of funding requests more broadly.
+At the international level, aggregated 
+application of this framework can 
+contribute to the knowledge base of 
+the Warsaw International Mechanism 
+for Loss and Damage, particularly informing the 
+workstreams on slow-onset events, non-economic 
+losses and comprehensive risk management. 
+Systematic environmental loss data can support 
+synthesis reports of the Executive Committee and 
+strengthen coherence between DRR, biodiversity 
+policy under the CBD, and the UNFCCC loss and 
+damage agenda.
+Integrating considerations of losses of 
+biodiversity and ecosystem services 
+into decision-making on climate risk 
+and DRR ﬁnance also supports more 
+eﬀective allocation of resources to conservation, 
+restoration and NbS, ensuring that such eﬀorts 
+receive adequate ﬁnancial support to enhance DRR, 
+adaptation and resilience.
+29A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+© Nandhu Kumar / Unsplash
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 30
+6. Important considerations 
+related to this framework
+1)  When applying this framework, consider multi-
+hazard and compounding hazards perspectives 
+when assessing losses. This is a key element of 
+DELTA Resilience.
+Although it is important to understand how the 
+assessment of extreme and sudden-onset events 
+diﬀers from slow-onset events, it should be 
+acknowledged that a clear distinction between the 
+two is often challenging, as they are interlinked and 
+might cascade, compound or inﬂuence each other. For 
+example, IPCC reports that compounding heatwaves 
+and droughts have become and are projected to 
+become more frequent across multiple regions (IPCC, 
+2023). Other authors document that storm surges 
+resulting from tropical cyclones are likely to intensify 
+with a higher mean sea level (Lockwood and others, 
+2022). IPCC concludes that sea level rise compounding 
+with storm surges and heavy rainfall events increases 
+ﬂood risks (IPCC, 2023). Similarly, scientiﬁc evidence 
+shows that rising temperatures and arid tree biomass 
+increase the likelihood of wildﬁres (Goodwin and 
+others, 2021), and heatwaves are becoming more 
+intense due to the interplay of higher temperatures 
+and ocean–land–atmosphere interactions (Beobide-
+Arsuaga and others, 2025). 
+2)  When applying this framework, adopt a 
+conservative approach when attributing losses to 
+a driver, whether climate change or other drivers. 
+Explicitly document data gaps and uncertainty that 
+inﬂuence the assessment of losses. 
+Beyond the complexity of deﬁning start and end 
+dates for assessing losses induced by slow-onset 
+events, relating losses to these events as primary 
+drivers is more challenging. As slow-onset events 
+unfold over longer time periods, so do their impacts, 
+usually resulting in more gradual than abrupt losses 
+of biodiversity and ecosystem services, for example 
+through species range shifts, localized extinctions, 
+changes in phenology and changes in the composition, 
+structure and function of ecosystems (Pecl and others, 
+2017; Heinze and others, 2021; Panetta and others, 
+2018; Román-Palacios and Wiens, 2020; IPCC, 2022). 
+Disentangling the observed losses resulting from slow-
+onset events from those caused by other drivers, such 
+as land-use change or pollution, is highly complex. 
+This general assumption needs to be treated carefully, 
+though, as there are instances where slowly unfolding 
+processes cross thresholds and, in consequence, cause 
+abrupt losses. Studies by Berdugo and others (2020, 
+2021), for example, explain how rising temperatures and 
+increasingly arid conditions lead to abrupt changes in 
+ecosystems’ structural and functional attributes. 
+There is also a need to acknowledge the role of 
+inherent ecosystem dynamics and climate variability 
+as drivers of losses. IPCC explains that it “is often 
+uncertain whether the changes are caused by a change 
+in the mean [natural climate variability], variance 
+[climate change-related extremes], or both” (IPCC, 
+2001). The same diﬃculty applies to the diﬀerentiation 
+between natural ecosystem dynamics and changes 
+related to hazardous events. Therefore, the presented 
+framework takes a conservative approach, looking at 
+all losses in a ﬁrst step. More detailed assessments 
+can shed more light on speciﬁc drivers and help 
+understand which losses are related to the pertinent 
+event(s). Establishing such in-depth understanding can 
+be a ﬁrst step towards actually attributing losses to 
+climate change and/or speciﬁc events.
+3)  Implement this framework iteratively, starting 
+with one or two priority ecosystems or hazards, to 
+account for ecosystem complexity. Learnings can 
+help enhance the assessment of losses in the next 
+iteration, such as enabling better reﬂections on 
+spatial dynamics or tipping points. When resources 
+are available, implement regular monitoring for 
+the collection of reference data that inform the 
+assessment of losses, as well as additional use 
+cases (such as NbS planning).
+Further, this framework assumes that hazardous 
+events have mainly detrimental eﬀects on ecosystems 
+and biodiversity, such as reductions in ecosystem 
+extent and habitat fragmentation, deterioration of 
+ecosystem condition and loss of species, and depletion 
+of ecosystem services and diverse values of nature. 
+It should be considered, however, that events do not 
+always cause loss in all three of these dimensions. 
+Liu and others (2018), for example, document that 
+habitat fragmentation and associated biodiversity loss 
+cause severe disruptions to ecosystem functions and 
+worsening conditions in small patches. However, if 
+the reduction in ecosystem extent is not as signiﬁcant 
+and the fragments remain rather large, ecosystem
+31A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+functions are observed to be well maintained, 
+despite the disruptions. Therefore, a change in 
+ecosystem extent related to a hazardous event does 
+not automatically imply a loss of good condition, 
+biodiversity or ecosystem services. It still must be 
+considered that more frequent and intense events 
+might, after all, exceed the resilience of ecosystems.
+In addition, spatial and temporal dynamics of losses 
+of biodiversity and ecosystem services must be kept 
+in mind when performing an assessment of losses. 
+Factoring in spatial dynamics is especially critical in the 
+context of ecosystems that are highly interconnected. 
+While hazardous events might seem to impact only 
+one speciﬁc area or ecosystem, losses to biodiversity 
+and ecosystem services within that ecosystem can 
+aﬀect others outside it (e.g. through upstream–
+downstream connections in riverine systems). 
+Temporal dynamics should also be considered during 
+an assessment of losses. For example, an assessment 
+that is made shortly after a disaster unfolds (which 
+is key and necessary for immediate emergency 
+management and recovery) may hide long-term 
+impacts that only manifest over time. Ferraz and 
+others (2020) summarize studies that investigated 
+the time lag between reoccurring disturbances and 
+the manifestation of impacts on the structures and 
+functions of a coral reef. They describe how cyclones, 
+bleaching events and outbreaks of venomous starﬁsh 
+species led to a decline of living coral cover and overall 
+biomass loss. In the long term, a decade after the initial 
+series of events, species abundance and biomass were 
+recorded as recovered. However, the coral ecosystems’ 
+nutrient cycling eﬃciency through the food chain was 
+not. Overall, the ecosystem lost structural complexity 
+and became less productive. 
+On the other hand, ecosystems can bounce back and 
+regenerate over time. As an assessment of losses can 
+only capture a snapshot of a regenerative process, it 
+is unlikely to reﬂect whether the observed losses are 
+temporary and the ecosystem can recover from them, 
+or whether they are permanent. Though such temporal 
+dynamics are important for understanding the impact of 
+losses on ecosystems, they do not negate the temporal 
+impact. It is also relevant to the future provision of 
+ecosystem services, such as food and the regulation of 
+extreme and sudden-onset events. Regular monitoring 
+and collection of reference data are already important 
+steps towards assessing such long-term losses. As it 
+also allows for monitoring the dynamics of ecosystems, 
+which need to be considered in the assessment of 
+losses, such regular monitoring is highly encouraged. 
+The application of this framework for the assessment 
+of losses in diﬀerent hazard, ecosystem and cultural 
+contexts is needed to capture and understand such 
+spatial and temporal dynamics more comprehensively. 
+The maturity of ecosystems, such as critical slowing 
+down parameters, thresholds and tipping points, is 
+not included in this framework, as it is meant to be 
+a basis to inspire countries when assessing losses of 
+biodiversity and ecosystem services. These aspects are 
+crucial, but the framework lacks proper methodology 
+to address them comprehensively. Therefore, these are 
+considerations that should be looked at more closely 
+when applying this framework in cooperation with 
+diﬀerent countries. The same holds true for cascading 
+losses: although they are encapsulated in the 
+framework through the understanding that the loss of 
+ecosystem services and diverse values of nature trickle 
+down into an entire socioecological system, concrete 
+steps on how to assess cascading losses need to be 
+further investigated.
+Further, suggestions of concrete indicators for 
+assessing losses based on ecosystem extent, 
+condition/biodiversity, ecosystem services and 
+diverse values are subject to the application of this 
+framework. The framework presented here outlines 
+the process to conduct an assessment of losses 
+with varied uses of standardized methodologies, 
+to encourage countries to utilize available data or 
+enhance other data sources that can support loss 
+assessments. While some examples of indicators 
+exist and are highlighted in the overview of provided 
+data sources (“Annex A – Data sources collection 
+to support the assessment of climate change and 
+disaster-related losses of biodiversity and ecosystem 
+services”), the choice of concrete metrics and 
+indicators depends on the speciﬁc hazard and 
+ecosystem context in which the assessment is to be 
+performed. This makes it challenging to suggest a 
+universal set of indicators. Nevertheless, applying 
+the framework in a real-world context as a next 
+step can help elicit more concrete guidance on 
+appropriate indicators for the proposed framework 
+components and may result in a library of indicators 
+for further guidance.
+Finally, this framework is applicable for both climate- 
+and non-climate-related hazardous contexts, such as 
+oil spills or earthquakes. A large emphasis has been 
+placed on the climate-related hazard context, given 
+the growing role of climate drivers in ecosystem and 
+biodiversity losses. Nonetheless, it may be worth 
+further elaborating on these, especially regarding data 
+sources, to more fully utilize the framework. 
+While this framework provides a basis for assessing 
+climate- and disaster-related losses of biodiversity 
+and ecosystem services, it should be subject to 
+regular review and revision during its application, 
+incorporating advances in science, technology and 
+user experiences, to ensure continuous improvement 
+and responsiveness to emerging challenges.
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 32
+References
+Beobide-Arsuaga, G., and others (2025). Increasing 
+central and northern European summer heatwave 
+intensity due to forced changes in internal variability. 
+Nature Communications, vol. 16. https://doi.
+org/10.1038/s41467-025-65392-w.
+Berdugo, M., and others (2020). Global ecosystem 
+thresholds driven by aridity. Science, vol. 367, 
+no. 6479, pp. 787–790. https://doi.org/10.1126/science.
+aay5958.
+Berdugo, M., and others (2021). Ecological 
+mechanisms underlying aridity thresholds in global 
+drylands. Functional Ecology, vol. 36, no. 1, pp. 4–23. 
+https://doi.org/10.1111/1365-2435.13962. 
+Convention on Biological Diversity [CBD] (2025). 
+Glossary of terms. Available at https://www.cbd.int/
+invasive/terms. 
+Díaz, S., and others (2018). Assessing nature’s 
+contributions to people. Science, vol. 359, no. 6373, 
+pp. 270–272. https://doi.org/10.1126/science.aap8826. 
+Ferraz, S., and others (2020). On the need to 
+diﬀerentiate the temporal trajectories of ecosystem 
+structure and functions in restoration programs. 
+Tropical Conservation Science, vol. 13, pp. 1–6. https://
+doi.org/10.1177/1940082920910314. 
+Goodwin, M.J., and others (2021). Climate-driven tree 
+mortality and fuel aridity increase wildﬁre’s potential 
+heat ﬂux. Geophysical Research Letters, vol. 48, 
+no. 24. https://doi.org/10.1029/2021GL094954.
+Grizzetti, B., and others (2019). Relationship between 
+ecological condition and ecosystem services in 
+European rivers, lakes and coastal waters. The Science 
+of the Total Environment, vol. 671, pp. 452–465. 
+https://doi.org/10.1016/j.scitotenv.2019.03.155. 
+Group on Earth Observations Biodiversity Observation 
+Network [GEO-BON] (2025). Essential Biodiversity 
+Variables. Available at https://geobon.org/ebvs/what-
+are-ebvs.
+Heinze, C., and others (2021). The quiet crossing of 
+ocean tipping points. Proceedings of the National 
+Academy of Sciences of the United States of 
+America, vol. 118, no. 9. https://doi.org/10.1073/
+pnas.2008478118. 
+Hong, P., and others (2021). Biodiversity promotes 
+ecosystem functioning despite environmental change. 
+Ecological Letters, vol. 25, no. 2, pp. 555–569. https://
+doi.org/10.1111/ele.13936. 
+Hooper, D.U., and others (2005). Eﬀects of biodiversity 
+on ecosystem functioning: a consensus of current 
+knowledge. Ecological Monographics, vol. 75, no. 1., 
+pp. 3–35. https://doi.org/10.1890/04-0922. 
+Intergovernmental Panel on Climate Change [IPCC] 
+(2001). Climate Change 2001: The Scientiﬁc Basis. 
+Contribution of Working Group I to the Third 
+Assessment Report of the Intergovernmental Panel 
+on Climate Change, Houghton, J.T., and others, eds. 
+Cambridge and New York, pp. 1 – 881. Available at 
+https://www.ipcc.ch/site/assets/uploads/2018/03/
+WGI_TAR_full_report.pdf.
+ — — — —  (2012). Glossary of terms. In: Managing the 
+Risks of Extreme Events and Disasters to Advance 
+Climate Change Adaptation. A Special Report of 
+Working Groups I and II of the Intergovernmental Panel 
+on Climate Change (IPCC), Field, C.B., and others, eds. 
+Cambridge and New York, pp. 555–564. Available at 
+https://archive.ipcc.ch/pdf/special-reports/srex/SREX-
+Annex_Glossary.pdf. 
+— — — —  (2022). Sixth Assessment Report: Working 
+Group II – Impacts, adaptation and vulnerability. 
+In: Climate Change 2022: Impacts, Adaptation 
+and Vulnerability, Pörtner, H.-O., and others, eds. 
+Cambridge and New York. Available at https://www.
+ipcc.ch/report/sixth-assessment-report-working-
+group-ii.
+— — — —  (2023). Summary for Policymakers. In: Climate 
+Change 2023: Synthesis Report Contribution of Working 
+Groups I, II and III to the Sixth Assessment Report of the 
+Intergovernmental Panel on Climate Change, The Core 
+Writing Team, and others, eds. Geneva. Available at 
+https://www.ipcc.ch/report/ar6/syr.
+Intergovernmental Science-Policy Platform on 
+Biodiversity and Ecosystem Services [IPBES] (2019). 
+Global Assessment Report on Biodiversity and 
+Ecosystem Services of the Intergovernmental Science-
+Policy Platform on Biodiversity and Ecosystem 
+Services. Brondizio, E., and others, eds. Bonn. 
+Available at https://doi.org/10.5281/zenodo.3831673.
+33A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+— — — —  (2022). Methodological Assessment of the 
+Diverse Values and Valuation of Nature of the 
+Intergovernmental Science-Policy Platform on 
+Biodiversity and Ecosystem Services. Balvanera, 
+P., and others, eds. Bonn. Available at https://doi.
+org/10.5281/zenodo.7687931. 
+— — — —  (2025a). Glossary. Available at https://www.
+ipbes.net/glossary. 
+— — — —  (2025b). Contrasting approaches to values 
+and valuation. Available at https://www.ipbes.net/
+contrasting-approaches-values-valuation. 
+International Union for Conservation of Nature [IUCN] 
+(2020a). The IUCN Global Ecosystem Typology 
+2.0: Descriptive Proﬁles for Biomes and Ecosystem 
+Functional Groups. Keith, D.A., and others, eds. Gland. 
+Available at https:/ /doi.org/10.2305/IUCN.CH.2020.13.en.
+International Union for the Conservation of Nature 
+[IUCN] (2020b). IUCN Global Standard for Nature-
+based Solutions: A User-friendly Framework for the 
+Veriﬁcation, Design and Scaling Up of NbS: ﬁrst 
+edition. Gland. Available at https://doi.org/10.2305/
+IUCN.CH.2020.08.en. 
+Leclère, D., and others (2020). Bending the curve of 
+terrestrial biodiversity needs an integrated strategy. 
+Nature, vol. 585, pp. 551–556. https://doi.org/10.1038/
+s41586-020-2705-y. 
+Liu, J., and others (2018). How does habitat 
+fragmentation aﬀect the biodiversity and ecosystem 
+functioning relationship? Landscape Ecology, vol. 33, 
+pp. 341–352. https://doi.org/10.1007/s10980-018-0620-5. 
+Lockwood, J., and others (2022). Correlation between 
+sea-level rise and aspects of future tropical cyclone 
+activity in CMIP6 models. Earths Future, vol. 10, no. 4. 
+https://doi.org/10.1029/2021EF002462.
+Maes, J., and others (2013). Mapping and 
+Assessment of Ecosystems and their Services: An 
+EU-wide Ecosystem in Support of the EU Biodiversity 
+Strategy. Publications Oﬃce of the European Union. 
+Luxembourg. Available at https://data.europa.eu/
+doi/10.2760/757183. 
+Millennium Ecosystem Assessment [MEA] (2005a). 
+Ecosystems and Their Services. In: Ecosystems and 
+Human Well-being: A Framework for Assessment. 
+Island Press. Washington, D.C. pp. 49–70.
+— — — —  (2005b). Ecosystems and Human Well-being. 
+A Framework for Assessment. In: Ecosystems and 
+Human Well-being: A Framework for Assessment. 
+Island Press. Washington, D.C. pp. 71–84.
+Mitchell, M., and others (2013). Linking landscape 
+connectivity and ecosystem service provision: current 
+knowledge and research gaps. Ecosystems, vol. 16, no. 
+5, pp. 894–908. https://doi.org/10.1007/s10021-013-
+9647-2. 
+Panetta, A.M., and others (2018). Climate warming 
+drives local extinction: evidence from observation 
+and experimentation. Science Advances, vol. 4, no. 2.  
+https://doi.org/10.1126/sciadv.aaq1819. 
+Pecl, G.T., and others (2017). Biodiversity 
+redistribution under climate change: impacts on 
+ecosystems and human well-being. Science, vol. 355, 
+no. 6332. https://doi.org/10.1126/science.aai9214. 
+Román-Palacios, C. and Wiens, J.J. (2020). Recent 
+responses to climate change reveal the drivers of 
+species extinction and survival. Proceedings of the 
+National Academy of Sciences of the United States 
+of America, vol. 117, no. 8, pp. 4211–4217. https://doi.
+org/10.1073/pnas.1913007117.
+Rowe, J.S. and Scotter, G.W. (1973). Fire in the boreal 
+forest. Quaternary Research, vol. 3, no. 3, pp. 444–
+464. https://doi.org/10.1016/0033-5894(73)90008-2. 
+Sandi, S.G., and others (2020). Resilience to drought 
+of dryland wetlands threatened by climate change. 
+Scientiﬁc Reports, vol. 10. https://doi.org/10.1038/
+s41598-020-70087-x. 
+Sudmeier-Rieux, K., and others (2021). Scientiﬁc 
+evidence for ecosystem-based disaster risk reduction. 
+Nature Sustainability, vol. 4, pp. 803–810. https://doi.
+org/10.1038/s41893-021-00732-4. 
+United Nations Framework Convention on Climate 
+Change [UNFCCC] (2012). Slow Onset Events. 
+Technical paper. FCCC/TP/2012/7. Bonn. Available at 
+https://unfccc.int/documents/7429.
+— — — —  (2013). Decision 2/CP.19. Warsaw international 
+mechanism for loss and damage associated with 
+climate change impacts. Report of the Conference of 
+the Parties on its nineteenth session, held in Warsaw 
+from 11 to 23 November 2013. Addendum. Part two: 
+Action taken by the Conference of the Parties at 
+its nineteenth session. Available at https://unfccc.
+int/sites/default/ﬁles/resource/docs/2013/cop19/
+eng/10a01.pdf.
+— — — —  (2024). Non-economic losses. Featuring loss 
+of territory and habitability, ecosystem services and 
+biodiversity, and cultural heritage. Technical paper. 
+Bonn. Available at https://unfccc.int/sites/default/
+ﬁles/resource/nels_paper_2024.pdf.
+A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 34
+— — — —  (2025). Introduction. Available at https://
+unfccc.int/topics/adaptation-and-resilience/the-big-
+picture/introduction#adaptation.
+United Nations Framework Convention on Climate 
+Change [UNFCCC] LDC Expert Group (2025). The NAP 
+Technical Guidelines. Updated Technical Guidelines 
+for the Process to Formulate and Implement National 
+Adaptation Plans. Bonn. Available at https://unfccc.
+int/sites/default/ﬁles/resource/Updated_NAP_
+Technical_Guidelines_2025_EN.pdf.
+United Nations General Assembly [UNGA] (2016). 
+Report of the open-ended intergovernmental expert 
+working group on indicators and terminology relating 
+to disaster risk reduction. Available at https://
+www.undrr.org/publication/report-open-ended-
+intergovernmental-expert-working-group-indicators-
+and-terminology.
+United Nations Oﬃce for Disaster Risk Reduction 
+[UNDRR] (2017). The Sendai Framework Terminology 
+on Disaster Risk Reduction. Available at https://www.
+undrr.org/drr-glossary/terminology. 
+— — — —  (2019). Words into Action: Developing National 
+Disaster Risk Reduction Strategies. Bonn. Available at 
+https://www.undrr.org/developing-national-disaster-
+risk-reduction-strategies.
+— — — —  (2023). Tracking Losses and Damages from 
+Slow-onset Events: Issues and Perspectives. Issue Brief. 
+Bonn. Available at https://www.undrr.org/publication/
+tracking-losses-and-damages-slow-onset-events. 
+United Nations Oﬃce for Disaster Risk Reduction 
+[UNDRR] and International Science Council [ISC] 
+(2025). Hazard Information Proﬁles. 2025 Update. 
+Geneva. Available at https://doi.org/10.24948/2025.05. 
+United Nations Statistics Division [UNSD] (2024). 
+System of Environmental-Economic Accounting: 
+Ecosystem Accounting. ST/ESA/STAT/SER.F/124 
+(Series F No. 124). New York. Available at https://seea.
+un.org/ecosystem-accounting.
+van der Geest, K., and others (2019). The Impacts of 
+Climate Change on Ecosystem Services and Resulting 
+Losses and Damages to People and Society. In: Loss 
+and Damage from Climate Change. Climate Risk 
+Management, Policy and Governance, Mechler, R., and 
+others, eds. Springer. Cham, pp. 221–236. Available at 
+https://doi.org/10.1007/978-3-319-72026-5_9. 
+Walz, Y ., and others (2021). Disaster-related losses 
+of ecosystems and their services. Why and how do 
+losses matter for disaster risk reduction? International 
+Journal of Disaster Risk Reduction, vol. 63. https://doi.
+org/10.1016/j.ijdrr.2021.102425. 
+Walz, Y ., and others (2022). A Way Forward to Monitor 
+Disaster-related Losses of Ecosystems and Ecosystem 
+Services in the Sendai Framework Monitor. United 
+Nations University Institute for Environment and 
+Human Security (UNU-EHS). Bonn. Available at https://
+collections.unu.edu/view/UNU:8834.
+35A framework for assessing climate change and disaster-related losses of biodiversity and ecosystem services 
+Imprint
+Publisher
+United Nations University Institute for Environment and Human Security (UNU-EHS), Bonn, Germany.
+A report prepared by the United Nations University – Institute for Environment and Human Security in collaboration 
+with the United Nations Environment Programme (UNEP) and the United Nations Oﬃce for Disaster Risk Reduction 
+(UNDRR).
+Authors
+Yvonne Walz1, Lisa Hartmann1, Sally Janzen1, Chithra Nair Rajendran1, Katharina Kalbitz1, Susan Mlenga1, 
+Chawanangwa Nyirenda2, Iria Touzon Calle3, Le-Anne Roper3
+¹ United Nations University Institute for Environment and Human Security (UNU-EHS), Bonn, Germany
+2 United Nations Environment Programme (UNEP), Nairobi, Kenya
+3 United Nations Oﬃce for Disaster Risk Reduction (UNDRR), Bonn, Germany
+Reviewers 
+Mozaharul Alam, Abbie Amundsen, Fatemeh Bakhitari, Ida Bjoerk, Nazgul Borkosheva, Michelle DeFreese, Cordula 
+Epple, Ansgar Fellendorf, Francesco Gaetani, Natalie Harms, Maarten Hofman, Stefan Kienberger, Ra Kim Bo, 
+Anil Kumar, Ning Liu, Neil Aldrin Mallari, Jennica Paula Masigan, Sara Matasci, Jutta May, Nadja Muenstermann, 
+Jaroslav Mysiak, Vincent Oeba, Jello D. Ortega, Raquel Smith Ortega, Andrea Ortiz Vargas, Urbano Fra Paleo, Avash 
+Pandey, Ekaterina Poleshchuk, Beatriz Pozuelo, Teerapong Praphotjanaporn, Fabian Rackelmann, Johannes Reﬁsch, 
+Fabrice Renaud, Mario Salgado, Joshitha Sankam, Nagisa Shiiba, Heidi Tuhkanen, Kees Van der Geest, Douwe Van 
+Schie, Boris Van Zanten, Ayda Villalobos-Castro, Animesh Kumar, Toshiya Kai, Jessica Troni, Fruzsina Straus, Anna 
+Kilponen, Zita Sebesvari.
+Suggested citation
+Walz, Y ., and others (2026). A Framework for Assessing Climate Change and Disaster-related Losses of 
+Biodiversity and Ecosystem Services . Bonn, Germany: United Nations University Institute for Environment and 
+Human Security (UNU-EHS).
+Acknowledgements
+Development of this framework emerged from the discussions and key messages from the 8th Asia-Paciﬁc Climate 
+Change Adaptation Forum held in 2023 in Incheon, the Republic of Korea. 
+Funding source
+The project was ﬁnanced by UNEP, UNDRR and the Asia Paciﬁc Adaptation Network, with generous support from 
+the Ministry of the Environment, Japan and the Swedish International Development Cooperation Agency.
+Cover image
+© Mega Caesaria / Unsplash
+Editing, layout and proof-reading
+Green Ink (www.greenink.co.uk)
+DOI
+https://doi.org/10.53324/SMVI1232

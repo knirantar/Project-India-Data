@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/2c28f15c-0df0-43f9-bc7d-7af17463ce1d/GIP03477%20UNU-EHS%20FRAME%20ECO%20report_finalweb.pdf",
+  "title": "World: A framework towards assessing climate change and disaster-related losses of biodiversity and ecosystem services (FRAME-ECO), May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 08 Jun 2026 02:56:03 +0000",
+  "sha256": "bc19158a65dd02ed7a0297da384d65cd4206cc48480fc5ff7a60a88f99aff352",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-08T04:17:16.476613+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-08T04:17:54.813655+00:00",
+  "text_chars": 90386,
+  "raw_path": "data/geopolitics/raw/bc19158a65dd02ed7a0297da384d65cd4206cc48480fc5ff7a60a88f99aff352.pdf",
+  "text_path": "data/geopolitics/raw/bc19158a65dd02ed7a0297da384d65cd4206cc48480fc5ff7a60a88f99aff352.txt"
 }
