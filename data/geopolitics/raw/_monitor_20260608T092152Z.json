@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-08T09:21:52.703121+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt",
+      "metadata_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt",
+      "metadata_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/43ec59185bea22a77b6ad8b672d4b10647633fef1fa8f4248e0a9cb05581cc67.txt",
+      "metadata_path": "data/geopolitics/raw/43ec59185bea22a77b6ad8b672d4b10647633fef1fa8f4248e0a9cb05581cc67.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.txt",
+      "metadata_path": "data/geopolitics/raw/f2330e0a41e725bda9d6ffddec4c9b61389aada7e1bea9b48b1ccedaa8b9fff0.json"
+    },
+    {
+      "title": "Middle East crisis live: Israel and Iran exchange fresh round of strikes for first time since April ceasefire",
+      "url": "https://www.theguardian.com/world/live/2026/jun/08/iran-israel-news-live-updates-strikes-attacks-intensify-trump-netanyahu",
+      "text_path": "data/geopolitics/raw/a4251c2f20d4490592671532b9e07b8ccc52f301b62d896748cc6f4b9e5566ef.txt",
+      "metadata_path": "data/geopolitics/raw/a4251c2f20d4490592671532b9e07b8ccc52f301b62d896748cc6f4b9e5566ef.json"
+    },
+    {
+      "title": "Iran war day 101: Tensions escalate as Iran and Israel trade air attacks",
+      "url": "https://www.aljazeera.com/news/2026/6/8/iran-war-day-101-tensions-escalate-as-iran-and-israel-trade-air-attacks?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/46ee6d37726a5f847eaa8ad1481607a084dabafe2f1cd808cda19f930137c0fb.txt",
+      "metadata_path": "data/geopolitics/raw/46ee6d37726a5f847eaa8ad1481607a084dabafe2f1cd808cda19f930137c0fb.json"
+    },
+    {
+      "title": "Israeli army strikes targets in cities throughout western and central Iran",
+      "url": "https://www.france24.com/en/middle-east/20260608-middle-east-war-live-israel-plans-to-strike-iran-with-force-once-given-green-light",
+      "text_path": "data/geopolitics/raw/75c9052d8dfd448a04b526f2da89ad6608b7174e91f68213674fbd8cfe23282f.txt",
+      "metadata_path": "data/geopolitics/raw/75c9052d8dfd448a04b526f2da89ad6608b7174e91f68213674fbd8cfe23282f.json"
+    },
+    {
+      "title": "Israel and Iran trade strikes, threatening to drag region back to full-scale war",
+      "url": "https://www.npr.org/2026/06/08/g-s1-126844/iran-war-updates",
+      "text_path": "data/geopolitics/raw/4ef4482048cf9744bb1d58f1a49fa5a8bcca44a7ed3f3bebe82818f8b9cc49e2.txt",
+      "metadata_path": "data/geopolitics/raw/4ef4482048cf9744bb1d58f1a49fa5a8bcca44a7ed3f3bebe82818f8b9cc49e2.json"
+    }
+  ],
+  "txt_before": 771,
+  "txt_after": 775
+}
