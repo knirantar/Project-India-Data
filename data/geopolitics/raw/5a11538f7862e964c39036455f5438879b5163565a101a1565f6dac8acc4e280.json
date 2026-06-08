@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "43ec59185bea22a77b6ad8b672d4b10647633fef1fa8f4248e0a9cb05581cc67",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-08T22:21:28.904952+00:00",
-  "text_chars": 824888,
-  "raw_path": "data/geopolitics/raw/43ec59185bea22a77b6ad8b672d4b10647633fef1fa8f4248e0a9cb05581cc67.xml",
-  "text_path": "data/geopolitics/raw/43ec59185bea22a77b6ad8b672d4b10647633fef1fa8f4248e0a9cb05581cc67.txt"
+  "url": "https://foreignpolicy.com/2026/06/08/trump-israel-lebanon-iran-netanyahu-cease-fire-peace-negotiations/",
+  "title": "Trump Started a War He Can’t Control",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Mon, 08 Jun 2026 21:04:53 +0000",
+  "sha256": "5a11538f7862e964c39036455f5438879b5163565a101a1565f6dac8acc4e280",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-08T22:22:15.233744+00:00",
+  "text_chars": 7220,
+  "raw_path": "data/geopolitics/raw/5a11538f7862e964c39036455f5438879b5163565a101a1565f6dac8acc4e280.html",
+  "text_path": "data/geopolitics/raw/5a11538f7862e964c39036455f5438879b5163565a101a1565f6dac8acc4e280.txt"
 }
