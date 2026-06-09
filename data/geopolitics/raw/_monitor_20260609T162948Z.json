@@ -1,0 +1,108 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-09T16:29:48.615897+00:00",
+  "new_documents": 16,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt",
+      "metadata_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt",
+      "metadata_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/e783aef5226aab7f5aaca19ce1710e97a0d6a9d50b21d97d17bac2f59b75dbc5.txt",
+      "metadata_path": "data/geopolitics/raw/e783aef5226aab7f5aaca19ce1710e97a0d6a9d50b21d97d17bac2f59b75dbc5.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Security Council LIVE: UN officials warn humanitarian toll in Ukraine is worsening (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/09-06-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/226a905a6a81c6f82639619343b72dbced0f7b38380d12200789caf805e256cd.txt",
+      "metadata_path": "data/geopolitics/raw/226a905a6a81c6f82639619343b72dbced0f7b38380d12200789caf805e256cd.json"
+    },
+    {
+      "title": "Israeli attack on Tyre in Lebanon kills eight as evacuation ordered for Christian quarter",
+      "url": "https://www.theguardian.com/world/2026/jun/09/israeli-attack-tyre-lebanon-evacuation-ordered-historic-christian-quarter",
+      "text_path": "data/geopolitics/raw/e7d0ff6750a57183234ea92d395ebff817d62bb7871e4b89cd5d57d8bf631984.txt",
+      "metadata_path": "data/geopolitics/raw/e7d0ff6750a57183234ea92d395ebff817d62bb7871e4b89cd5d57d8bf631984.json"
+    },
+    {
+      "title": "Trump insists Iran deal is days away as both sides step back from brink",
+      "url": "http://www.euronews.com/2026/06/09/trump-insists-iran-deal-is-days-away-as-both-sides-step-back-from-brink",
+      "text_path": "data/geopolitics/raw/a415fa24572ffbd47060412c3ecf7c9cd80df2f2c83bb43aed0811228eae1e8e.txt",
+      "metadata_path": "data/geopolitics/raw/a415fa24572ffbd47060412c3ecf7c9cd80df2f2c83bb43aed0811228eae1e8e.json"
+    },
+    {
+      "title": "Security Council LIVE: Central Africa in the spotlight, including outlawed Lord's Resistance Army (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/09-04-2026_UNP_SC_UNMIK.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/46ff219cdb93b5d5013879614e24efb7660681b5c43717093ec8e29677bff142.txt",
+      "metadata_path": "data/geopolitics/raw/46ff219cdb93b5d5013879614e24efb7660681b5c43717093ec8e29677bff142.json"
+    },
+    {
+      "title": "US-Israel: What are the allegations of espionage all about?",
+      "url": "https://www.dw.com/en/us-israel-what-are-the-allegations-of-espionage-all-about/a-77475139?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/d760992a5dc4f435044e654ad6ae78ae662f980851ce724b5453b7539373b5e5.txt",
+      "metadata_path": "data/geopolitics/raw/d760992a5dc4f435044e654ad6ae78ae662f980851ce724b5453b7539373b5e5.json"
+    },
+    {
+      "title": "After FCAS demise, Germany’s options include ordering more F-35 warplanes",
+      "url": "https://www.defensenews.com/global/europe/2026/06/09/after-fcas-demise-germanys-options-include-ordering-more-f-35-warplanes/",
+      "text_path": "data/geopolitics/raw/0bdcd3ec451bf3c28c4eebd7384ff3109cd2a86b36ac14766c411492eb4485df.txt",
+      "metadata_path": "data/geopolitics/raw/0bdcd3ec451bf3c28c4eebd7384ff3109cd2a86b36ac14766c411492eb4485df.json"
+    }
+  ],
+  "txt_before": 818,
+  "txt_after": 824
+}
