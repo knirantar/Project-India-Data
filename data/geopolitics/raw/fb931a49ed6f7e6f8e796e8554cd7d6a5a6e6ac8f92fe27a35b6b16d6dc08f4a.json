@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/209e7543-ff6d-4b4e-8671-a6e851f4de75/FlashUpdate_02_9JUNE2026-EQ-IDN-PHL.pdf",
+  "title": "Philippines: Flash Update: No. 2 – M7.8 Earthquake in Sarangani (9 June 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 09 Jun 2026 14:13:59 +0000",
+  "sha256": "fb931a49ed6f7e6f8e796e8554cd7d6a5a6e6ac8f92fe27a35b6b16d6dc08f4a",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-09T19:11:12.679221+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-09T19:11:38.895275+00:00",
+  "text_chars": 6654,
+  "raw_path": "data/geopolitics/raw/fb931a49ed6f7e6f8e796e8554cd7d6a5a6e6ac8f92fe27a35b6b16d6dc08f4a.pdf",
+  "text_path": "data/geopolitics/raw/fb931a49ed6f7e6f8e796e8554cd7d6a5a6e6ac8f92fe27a35b6b16d6dc08f4a.txt"
 }

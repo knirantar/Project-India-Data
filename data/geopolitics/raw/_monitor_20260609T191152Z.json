@@ -1,0 +1,120 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-09T19:11:52.769330+00:00",
+  "new_documents": 18,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt",
+      "metadata_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt",
+      "metadata_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/e783aef5226aab7f5aaca19ce1710e97a0d6a9d50b21d97d17bac2f59b75dbc5.txt",
+      "metadata_path": "data/geopolitics/raw/e783aef5226aab7f5aaca19ce1710e97a0d6a9d50b21d97d17bac2f59b75dbc5.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Trump blames Iran for downing of army helicopter and says US must respond",
+      "url": "https://www.theguardian.com/us-news/2026/jun/09/trump-blames-iran-for-downing-of-army-helicopter-and-says-us-must-respond",
+      "text_path": "data/geopolitics/raw/1c62885118c10a1dd9677a650c4edcdecf0429413981f6d89e96d34c8eda41cd.txt",
+      "metadata_path": "data/geopolitics/raw/1c62885118c10a1dd9677a650c4edcdecf0429413981f6d89e96d34c8eda41cd.json"
+    },
+    {
+      "title": "Trump says Iran shot down US Apache helicopter and vows response",
+      "url": "http://www.euronews.com/2026/06/09/trump-vows-response-after-iran-shoots-down-us-apache-helicopter",
+      "text_path": "data/geopolitics/raw/97157b4e702b76240e0a089073f4cc15ffdefea09373ebc91513197176eed90b.txt",
+      "metadata_path": "data/geopolitics/raw/97157b4e702b76240e0a089073f4cc15ffdefea09373ebc91513197176eed90b.json"
+    },
+    {
+      "title": "Middle East Situation - UNHCR Revised Emergency Appeal for Lebanon (March to August 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/c15a555a-ac94-597a-83f0-26ddaf7c9746/UNHCR%20revised%20emergency%20appeal%20for%20Lebanon.pdf",
+      "text_path": "data/geopolitics/raw/f9d52fddc4f9e614746b0d9d513d7c70761785ace89df42401ecbc81bf41244a.txt",
+      "metadata_path": "data/geopolitics/raw/f9d52fddc4f9e614746b0d9d513d7c70761785ace89df42401ecbc81bf41244a.json"
+    },
+    {
+      "title": "Philippines: Flash Update: No. 2 – M7.8 Earthquake in Sarangani (9 June 2026)",
+      "url": "https://reliefweb.int/report/philippines/flash-update-no-2-m78-earthquake-sarangani-9-june-2026",
+      "text_path": "data/geopolitics/raw/8f115ed43d8b8caaf6b6e84b16f44f1d0953da74a7944920ac352f087e66deef.txt",
+      "metadata_path": "data/geopolitics/raw/8f115ed43d8b8caaf6b6e84b16f44f1d0953da74a7944920ac352f087e66deef.json"
+    },
+    {
+      "title": "Philippines: Flash Update: No. 2 – M7.8 Earthquake in Sarangani (9 June 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/209e7543-ff6d-4b4e-8671-a6e851f4de75/FlashUpdate_02_9JUNE2026-EQ-IDN-PHL.pdf",
+      "text_path": "data/geopolitics/raw/fb931a49ed6f7e6f8e796e8554cd7d6a5a6e6ac8f92fe27a35b6b16d6dc08f4a.txt",
+      "metadata_path": "data/geopolitics/raw/fb931a49ed6f7e6f8e796e8554cd7d6a5a6e6ac8f92fe27a35b6b16d6dc08f4a.json"
+    },
+    {
+      "title": "South Sudan Humanitarian Update as of 7 June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/7a4c8cb6-4ca8-4271-a06a-1c8462d40f27/South.Sudan_Hum_Update_09062026.pdf",
+      "text_path": "data/geopolitics/raw/8f00cd4dde66deb3bf9fe70a5a5490aee11cc89a4901fe4c691014e6ba05ed6c.txt",
+      "metadata_path": "data/geopolitics/raw/8f00cd4dde66deb3bf9fe70a5a5490aee11cc89a4901fe4c691014e6ba05ed6c.json"
+    },
+    {
+      "title": "Palestinians face systematic abuse by Israeli settlers and Hamas alike: Independent investigators (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/12-02-2025-UNICEF-West-Bank-05.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/5beb2248cc7ffa126db720ef7596672a760938c5f42c914033be620d9acd4f9e.txt",
+      "metadata_path": "data/geopolitics/raw/5beb2248cc7ffa126db720ef7596672a760938c5f42c914033be620d9acd4f9e.json"
+    },
+    {
+      "title": "EU proposes entry ban for Russian Ukraine combatants in new sanctions package",
+      "url": "https://www.dw.com/en/eu-proposes-entry-ban-for-russian-ukraine-combatants-in-new-sanctions-package/a-77474536?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/11924153ecc348058243cab934f476f4294a50a583d275b1a7f9aefd76111ece.txt",
+      "metadata_path": "data/geopolitics/raw/11924153ecc348058243cab934f476f4294a50a583d275b1a7f9aefd76111ece.json"
+    }
+  ],
+  "txt_before": 824,
+  "txt_after": 832
+}

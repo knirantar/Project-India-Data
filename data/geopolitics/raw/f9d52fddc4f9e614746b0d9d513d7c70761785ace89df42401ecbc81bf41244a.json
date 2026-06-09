@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/c15a555a-ac94-597a-83f0-26ddaf7c9746/UNHCR%20revised%20emergency%20appeal%20for%20Lebanon.pdf",
+  "title": "Middle East Situation - UNHCR Revised Emergency Appeal for Lebanon (March to August 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 09 Jun 2026 14:03:15 +0000",
+  "sha256": "f9d52fddc4f9e614746b0d9d513d7c70761785ace89df42401ecbc81bf41244a",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-09T19:11:12.679221+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-09T19:11:34.364061+00:00",
+  "text_chars": 8549,
+  "raw_path": "data/geopolitics/raw/f9d52fddc4f9e614746b0d9d513d7c70761785ace89df42401ecbc81bf41244a.pdf",
+  "text_path": "data/geopolitics/raw/f9d52fddc4f9e614746b0d9d513d7c70761785ace89df42401ecbc81bf41244a.txt"
 }
