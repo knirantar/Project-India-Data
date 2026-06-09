@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/e7589729-f3ba-4539-b540-99d87aa032f2/IFPRI%20Myanmar_FPR_2026_4.pdf",
+  "title": "Myanmar Monthly Food Price Report – May Thet Htar, Bart Minten, and Ian Masias (April 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 09 Jun 2026 11:46:29 +0000",
+  "sha256": "5cfe716a0a15204f6cf3b30d81f32cbc99a26811ccfbf07b0db624dab5300ce6",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-09T13:41:00.569002+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-09T13:41:10.708493+00:00",
+  "text_chars": 17654,
+  "raw_path": "data/geopolitics/raw/5cfe716a0a15204f6cf3b30d81f32cbc99a26811ccfbf07b0db624dab5300ce6.pdf",
+  "text_path": "data/geopolitics/raw/5cfe716a0a15204f6cf3b30d81f32cbc99a26811ccfbf07b0db624dab5300ce6.txt"
 }

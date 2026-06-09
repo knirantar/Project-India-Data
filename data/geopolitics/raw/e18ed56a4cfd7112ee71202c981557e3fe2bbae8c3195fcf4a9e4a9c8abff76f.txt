@@ -1,0 +1,291 @@
+Power BI Desktop
+MOZAMBIQUE
+2026 Flood Humanitarian Response
+PEOPLE AFFECTED
+PEOPLE TARGETED AND REACHED BY CLUSTERSITUATION OVERVIEW PEOPLE REACHED BY DISTRICT
+The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations.
+Microsoft Power BI
+Sources: Clusters and Humanitarian Partners                                    Contact: ochamozambique@un.org
+Province District
+All All 
+Food Security & Livelihood
+WASH
+Health
+Shelter/ NFIs
+Protection
+Education
+Nutrition
+CCCM
+620K
+562K
+539K
+473K
+344K
+251K
+170K
+100K
+247K
+196K
+36K
+98K
+85K
+75K
+45K
+94K
+In mid-December, severe and prolonged flooding affected large parts of southern 
+and central Mozambique. Rivers burst their banks, displacing communities and 
+damaging or destroying homes, health facilities, water systems and other critical 
+infrastructure.
+The National Institute for Disaster Management and Risk Reduction reports that 
+more than 724,000 people have been affected by floods. At the peak of the 
+emergency, over 100,000 people were hosted in approximately 100 
+accommodation centres.
+Since the onset of the emergency, the United Nations and humanitarian partners 
+have worked closely with national and local authorities to reinforce national 
+systems, strengthen coordination mechanisms and support the delivery of life-
+saving assistance.
+The 2026 HNRP Flood Addendum seeks US$187 million to provide urgent, life-
+saving assistance to approximately 600,000 people affected by the floods.
+Progress against agreed cluster targets is tracked through the Flood 
+Humanitarian Response Dashboard, which is compiled by OCHA based on 
+inputs from humanitarian partners and clusters. As of 30 April, more than 
+355,000 people have received some form of assistance, mostly by the Food 
+Security and Livelihoods (FSL), Shelter and Water, Sanitation and Hygiene 
+(WASH) clusters. 
+as of 30 April 2026
+Food Security & Livelihood
+Shelter/ NFIs
+WASH
+Health
+Education
+Protection
+GBV
+Nutrition
+CCCM
+Logistics
+Coordination & Common Ser…
+Funding not assigned to sector
+65.5M
+28.4M
+25.5M
+21.5M
+19.3M
+18.2M
+5.9M
+4.4M
+2.6M
+0.7M
+0.6M
+10.8M
+2.9M
+3.0M
+1.5M
+0.0M
+4.2M
+0.3M
+0.3M
+0.5M
+0.0M
+0.6M
+8.7M
+Financial Requirements Funding Received
+FINANCIAL REQUIREMENTS ($)
+PEOPLE TARGETED
+620K
+ 187M
+FINANCIAL REQUIREMENTS ($)
+Reached
+Targeted
+PEOPLE REACHED
+355K
+724K
+FUNDING RECEIVED ($)
+33M
+Power BI Desktop
+List of Clusters activity by district and organization
+MOZAMBIQUE
+Cluster activity as of 30 April 2026
+The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations.Sources: Clusters and Humanitarian Partners      Contact: ochamozambique@un.org
+Cluster Province District Lead Organization Implementing Partner Activity description Quantity People reached
+ 
+CCCM Gaza Chokwe IOM IOM Provision of site management services  107,450
+WASH Gaza Chokwe UNICEF DPOP Installation of temporary pipe water system (bladders, plastic
+tanks, etc)
+14 41,400
+WASH Gaza Guija World Vision World Vision # people accessing a sufficient quantity of safe water for
+drinking and domestic use
+7,164 35,820
+FSL Gaza Chigubo WFP WFP 15 Kg of Rice, 5kg of pulses, 2 liter of veg. oil and 1kg of salt) 97,198 30,644
+WASH Gaza Chokwe UNICEF DPOP Hygiene Promotion through direct engagment 30,325 30,325
+CCCM Gaza Chokwe IOM ADCR Provision of site management services  29,100
+FSL Gaza Chokwe WFP WFP Food Assistance 123,223 28,000
+shelter &NFI Gaza Cidade De Xai-Xai NRC NRC Voucher multiproposito 3,892 19,538
+FSL Gaza Chokwe WFP WFP 15 Kg of Rice, 5kg of pulses, 2 liter of veg. oil and 1kg of salt) 69,266 17,150
+shelter &NFI Gaza Chokwe IOM IOM Distribuição de Kit Familiar 2,638 13,190
+Protection Gaza Chokwe UNHCR UNHCR Protection Assessment, identification of persons with specific
+needs, case management and referrals
+ 12,454
+shelter &NFI Gaza Chokwe IOM IOM Distribuição de kits de NFI 8,500 12,445
+FSL Gaza Chokwe Tzu Chi Foundation Tzu Chi Foundation 12,5 Kg of Maize flour, 5kg of beans, 5kg of peanuts, 2kg of
+sugar, 2 liter of veg. oil and 1kg of salt
+68 12,275
+CCCM Gaza Guija IOM IOM Provision of site management services  12,171
+shelter &NFI Gaza Chibuto NRC NRC Distribuição de Kit Familiar 1,999 11,940
+shelter &NFI Gaza Chibuto NRC NRC Distribuição de kits de NFI 1,999 11,940
+FSL Gaza Chokwe RFSA Save the Children   11,380
+WASH Gaza Chokwe UNICEF UNICEF Provision of WASH materials to public spaces (schools, health
+centers, CTC...)
+5 10,309
+Health Maputo Boane UNICEF UNICEF IEHK 2024,Basic Malaria UNIT  10,000
+Health Maputo Cidade De Matola UNICEF UNICEF AWD Periphery kit Drug  10,000
+Health Maputo Cidade De Matola UNICEF UNICEF IEHK 2024,Suppl. Renewable  10,000
+Health Gaza Cidade De Xai-Xai UNICEF UNICEF AWD Community kit drug  10,000
+FSL Gaza Massangena WFP WFP 15 Kg of Rice, 5kg of pulses, 2 liter of veg. oil and 1kg of salt) 21,561 9,440
+FSL Sofala Buzi FAO SDAE Provision of vouchers of 3,500 MZN to be redeemed during
+input trade fairs through agrodealers
+ 9,400
+FSL Sofala Machanga FAO SDAE Provision of vouchers of 3,500 MZN to be redeemed during
+input trade fairs through agrodealers
+ 9,380
+WASH Gaza Chokwe ENABEL WaterAId Distribution of complete Familiy hygiene kit 1,817 9,085
+FSL Gaza Cidade De Xai-Xai WFP WFP 15 Kg of Rice, 5kg of pulses, 2 liter of veg. oil and 1kg of salt) 5,871 8,815
+FSL Gaza Massingir FAO SDAE Distribution of horticultural seeds and tools composed of 10 g
+of kale, 10 g of lettuce, 10 g of onion, 10 g of tomato, 10 g of
+okra, 2 watering cans and 1 empty bag of 5 kg.
+1,736 8,680
+CCCM Gaza Cidade De Xai-Xai IOM IOM Provision of site management services  8,277
+Protection Gaza Guija KULIMA KULIMA PSEA: Awareness-raising activities  8,198
+WASH Gaza Guija UNICEF World Vision Distribution of complete Familiy hygiene kit 1,601 8,005
+WASH Gaza Chokwe Save the Children Save the Children Distribution of water disinfectant only 1,600 8,000
+Protection Gaza Cidade De Xai-Xai UNHCR UNHCR Protection Assessment, identification of persons with specific
+needs, case management and referrals
+ 7,673
+FSL Gaza Chibuto FAO SDAE Provision of vouchers of 3,200 MZN to be redeemed during
+input trade fairs through agrodealers
+ 7,360
+FSL Gaza Mapai WFP WFP 30 Kg of Rice, 10kg of pulses, 4 liter of veg. oil and 2kg of salt) 66,633 7,300
+WASH Gaza Guija UNICEF World Vision Water Trucking 40 7,000
+Protection Gaza Cidade De Xai-Xai Save the Children Save the Children Awareness-raising on Child Protection and PSEA  6,954
+shelter &NFI Gaza Cidade De Xai-Xai IOM IOM Distribuição de kits de NFI 1,405 6,910
+Protection Gaza Guija WorldVision WorldVision Awareness-raisingonchildprotection,GBVandcase 6,750
+Microsoft Power BI
+In-kind 91%
+Voucher 6%
+3%
+Service Delivery
+Completed 64%
+20%
+Planned 16%
+Ongoing
+Modality
+Status
+59 58 53 40
+INGO UN Government NNGO
+No. of activities per 
+partner type
+All 
+Clusters ProvincesImplementing organizations Districts
+All 
+Activity Status
+All 
+Power BI Desktop
+All 
+WHAT
+Number of implementing organization per cluster
+% of implementing organization by type
+Clusters Provinces
+WHO
+Type of Organizations by Cluster
+WHERE
+Implementing organizations Districts
+All 
+List of Implementing partners
+Cluster
+ 
+Government INGO NNGO UN Total
+CCCM   2 1 3
+Education 2 2 2  5
+FSL 1 9 2 1 12
+Health  1 1 4 6
+Nutrition 2 1  1 4
+Protection 1 3 5 4 10
+shelter &NFI  7 5 1 12
+WASH 3 9 6 3 18
+Total 8 20 18 8 44
+MOZAMBIQUE
+Floods Operational Presence: Who's doing, What, Where (3W) as of 30 April 2026
+The boundaries and names shown and the designations used on this map do not imply official endorsement or acceptance by the United Nations.Sources: Clusters and Humanitarian Partners        Contact: ochamozambique@un.org
+44 8
+ 6 34
+Cluster Province
+ 
+District Lead Organization Implementing Partner
+CCCM Gaza Bilene IOM IOM
+CCCM Gaza Chibuto IOM IOM
+CCCM Gaza Chigubo IOM IOM
+CCCM Gaza Chokwe IOM ADCR
+CCCM Gaza Chokwe IOM IOM
+CCCM Gaza Cidade De Xai-Xai IOM IOM
+CCCM Gaza Guija IOM ADCR
+CCCM Gaza Guija IOM IOM
+CCCM Gaza Mabalane IOM IOM
+CCCM Gaza Mapai IOM IOM
+CCCM Gaza Massangena IOM IOM
+CCCM Gaza Massingir IOM IOM
+Education Gaza Bilene UNICEF DPE Gaza
+Education Gaza Chibuto AIDGLOBAL AIDGLOBAL
+Education Gaza Chibuto UNICEF DPE Gaza
+Education Gaza Chokwe UNICEF DPE Gaza
+Education Gaza Chongoene UNICEF DPE Gaza
+Education Gaza Cidade De Xai-Xai UNICEF DPE Gaza
+Education Gaza Limpopo UNICEF DPE Gaza
+Education Gaza Mandlakaze UNICEF DPE Gaza
+FSL Gaza Bilene WFP WFP
+FSL Gaza Chibuto FAO SDAE
+FSL Gaza Chibuto WFP WFP
+FSL Gaza Chicualacuala WFP WFP
+FSL Gaza Chigubo WFP WFP
+FSL Gaza Chokwe Caritas Caritas
+FSL Gaza Chokwe Oxfam AJOAGO
+FSL Gaza Chokwe RFSA Save the Children
+FSL Gaza Chokwe Tzu Chi Foundation Tzu Chi Foundation
+FSL Gaza Chokwe WFP WFP
+FSL Gaza Cidade De Xai-Xai WFP WFP
+FSL Gaza Guija Exxon Mobil World Vision
+FSL Gaza Guija FAO SDAE
+FSL Gaza Guija MPDC - Private Sector World Vision
+FSL Gaza Guija USG World Vision
+FSL Gaza Guija WFP WFP
+FSL Gaza Guija World Vision World Vision
+FSL Gaza Mabalane MPDC - Private Sector World Vision
+FSL Gaza Mabalane USG World Vision
+FSL Gaza Mabalane WFP WFP
+FSL Gaza Mapai WFP WFP
+FSL Gaza Massangena WFP WFP
+FSL Gaza Massingir FAO SDAE
+FSL Gaza Massingir WFP WFP
+Health Gaza Cidade De Xai-Xai CVM CVM
+Health Gaza Cidade De Xai-Xai IOM IOM
+H lth G Cid d D X i X i UNFPA UNFPA
+Microsoft Power BI
+37%
+33%
+15%
+15%
+INGO NNGOGovernmentUN
+WASH
+FSL
+shelter &NFI
+Protection
+Health
+Education
+Nutrition
+CCCM
+18
+12
+12
+10
+6
+5
+4
+3

@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/a59b3bbe-c853-4a58-b90d-c5f2102035d8/occupied_Palestinian_territories_%28oPt%29_Crisis__Period__25_05_26_-_31_05_26.pdf",
+  "title": "Occupied Palestinian Territories (oPt) Crisis Situation Analysis (Period: 25/05/26 - 31/05/26) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 09 Jun 2026 11:48:08 +0000",
+  "sha256": "d2475ed799339113c6c166952cad859c8b4119ae5c75b966ed182d14f1e3ced5",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-09T13:41:00.569002+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-09T13:41:04.593525+00:00",
+  "text_chars": 400664,
+  "raw_path": "data/geopolitics/raw/d2475ed799339113c6c166952cad859c8b4119ae5c75b966ed182d14f1e3ced5.pdf",
+  "text_path": "data/geopolitics/raw/d2475ed799339113c6c166952cad859c8b4119ae5c75b966ed182d14f1e3ced5.txt"
 }

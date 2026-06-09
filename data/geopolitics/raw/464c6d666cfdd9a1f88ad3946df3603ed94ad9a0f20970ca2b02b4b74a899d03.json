@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d",
-  "content_type": "text/html",
-  "collected_at": "2026-06-09T13:40:59.328477+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.html",
-  "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt"
+  "url": "https://foreignpolicy.com/2026/06/09/iran-war-trump-china-united-states-military-defense-weapons-geopolitics-strategy-taiwan/",
+  "title": "American Power Is Wrung Out",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Tue, 09 Jun 2026 10:00:38 +0000",
+  "sha256": "464c6d666cfdd9a1f88ad3946df3603ed94ad9a0f20970ca2b02b4b74a899d03",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-09T13:41:02.278553+00:00",
+  "text_chars": 26483,
+  "raw_path": "data/geopolitics/raw/464c6d666cfdd9a1f88ad3946df3603ed94ad9a0f20970ca2b02b4b74a899d03.html",
+  "text_path": "data/geopolitics/raw/464c6d666cfdd9a1f88ad3946df3603ed94ad9a0f20970ca2b02b4b74a899d03.txt"
 }

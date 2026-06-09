@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/1173fb10-ef98-4157-bf86-d64dac5de78a/04.%20MOZ_OCHA_2026_flood%20Response_Monitoring%20-%20as%20of%2030%20April%202026.pdf",
+  "title": "Mozambique: 2026 Flood Humanitarian Response - as of 30 April 2026 [EN/PT] (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 09 Jun 2026 09:35:30 +0000",
+  "sha256": "e18ed56a4cfd7112ee71202c981557e3fe2bbae8c3195fcf4a9e4a9c8abff76f",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-09T13:41:00.569002+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-09T13:41:31.712986+00:00",
+  "text_chars": 9522,
+  "raw_path": "data/geopolitics/raw/e18ed56a4cfd7112ee71202c981557e3fe2bbae8c3195fcf4a9e4a9c8abff76f.pdf",
+  "text_path": "data/geopolitics/raw/e18ed56a4cfd7112ee71202c981557e3fe2bbae8c3195fcf4a9e4a9c8abff76f.txt"
 }
