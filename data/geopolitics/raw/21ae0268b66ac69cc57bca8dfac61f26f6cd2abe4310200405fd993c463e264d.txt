@@ -1,0 +1,6 @@
+Binary video_content source collected for Global Geopolitics Monitor.
+Title: Iran conflict: Why has oil stayed near $100 a barrel?
+URL: https://www.aljazeera.com/video/counting-the-cost/2026/6/9/iran-conflict-why-has-oil-stayed-near-100-a-barrel?traffic_source=rss
+Source: https://www.aljazeera.com/xml/rss/all.xml
+Content-Type: text/html; charset=utf-8
+Bytes: 198811

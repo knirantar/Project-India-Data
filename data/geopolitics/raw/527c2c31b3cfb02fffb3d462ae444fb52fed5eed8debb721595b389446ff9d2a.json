@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-09T10:31:31.911872+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.xml",
-  "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt"
+  "url": "https://warontherocks.com/from-pyongyang-to-primorsk-when-sanctions-evasion-becomes-system-design/",
+  "title": "From Pyongyang to Primorsk: When Sanctions Evasion Becomes System Design",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Tue, 09 Jun 2026 07:30:36 +0000",
+  "sha256": "527c2c31b3cfb02fffb3d462ae444fb52fed5eed8debb721595b389446ff9d2a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-09T10:32:41.231300+00:00",
+  "text_chars": 16485,
+  "raw_path": "data/geopolitics/raw/527c2c31b3cfb02fffb3d462ae444fb52fed5eed8debb721595b389446ff9d2a.html",
+  "text_path": "data/geopolitics/raw/527c2c31b3cfb02fffb3d462ae444fb52fed5eed8debb721595b389446ff9d2a.txt"
 }
