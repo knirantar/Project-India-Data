@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "e783aef5226aab7f5aaca19ce1710e97a0d6a9d50b21d97d17bac2f59b75dbc5",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-09T02:51:17.813948+00:00",
-  "text_chars": 824888,
-  "raw_path": "data/geopolitics/raw/e783aef5226aab7f5aaca19ce1710e97a0d6a9d50b21d97d17bac2f59b75dbc5.xml",
-  "text_path": "data/geopolitics/raw/e783aef5226aab7f5aaca19ce1710e97a0d6a9d50b21d97d17bac2f59b75dbc5.txt"
+  "url": "https://press.un.org/en/2026/sga2421.doc.htm",
+  "title": "Secretary-General Appoints Maria Jose Torres Macho of Spain United Nations Resident Coordinator in Colombia",
+  "source": "https://press.un.org/en/rss.xml",
+  "published": "Mon, 08 Jun 2026 10:59:45 -0400",
+  "sha256": "667de8b564370e9318a7d02135b877598b0f68bc5f5bf700a5ff0376c706632c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-09T02:52:22.902433+00:00",
+  "text_chars": 1834,
+  "raw_path": "data/geopolitics/raw/667de8b564370e9318a7d02135b877598b0f68bc5f5bf700a5ff0376c706632c.html",
+  "text_path": "data/geopolitics/raw/667de8b564370e9318a7d02135b877598b0f68bc5f5bf700a5ff0376c706632c.txt"
 }
