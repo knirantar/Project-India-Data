@@ -1,0 +1,215 @@
+Good morning. Keir Starmer’s expected speech next week about young people’s access to social media will be analysed as much for how it benefits the outcome of a certain byelection, as its safeguarding of children’s synapses.
+After 
+issuing an ultimatum to tech firms
+ yesterday to block children’s phones from sharing nude images, the government is expected to make another major announcement about social media within days. Briefings suggest it will stop short of a blanket ban on under-16s accessing social media. But it will still amount to radical regulation, with Downing Street insisting that Starmer is up for a fight with big tech.
+For anyone who worries about the impact of unfettered algorithms and endless scrolling on brains of any age – by which I mean almost everyone – whether or not Starmer secures his legacy by saving young minds from digital takeover is incidental. The stakes are so much higher, as Starmer himself knows, having sat across the table from parents who have said their children died as a result of social media use.
+And there are other stories at play: the halting pace of law-making that cannot match the exponential speed of emerging online harms, and a growing inter-generational consensus that urgent action is required, as young people tell adults with increasing specificity the frameworks they need to navigate a “digital-first” world. So, not much to discuss with our global technology editor
+ Dan Milmo
+, who was at London Tech Week, where Starmer had just finished his address. First, the headlines.
+Five big stories
+
+
+
+
+UK politics 
+| Volodymyr Zelenskyy 
+has revealed that he plans
+ to invite King Charles on a state visit to Ukraine as early as this year, which would make him the most senior royal to travel to Kyiv since Russia’s full-scale invasion.
+
+
+
+
+Middle East 
+| Fears of a return to a full-scale regional war in the Middle East eased on Monday as Israel and Iran 
+said they had halted 
+attacks on each other after an appeal from Donald Trump to “immediately stop shooting”.
+
+
+
+
+UK news 
+| 
+A report has found
+ “widespread and concerning evidence” of bias and victim-blaming in the family courts – primarily disadvantaging women.
+
+
+
+
+US news 
+| Donald Trump 
+was loudly booed 
+when he was shown on the video screens at Madison Square Garden on Monday night at the NBA finals.
+
+
+
+
+Unemployment 
+| A government-funded pilot of “hyperlocal” job support in 10 neighbourhoods across England has shown “
+promising early signs
+ of effectiveness”, including for young people, and could be scalable nationwide, a new evaluation has shown.
+
+
+Many parents and campaigners believe that measures to ensure online safety don’t go far enough.
+ Composite: Victoria Hart/Guardian Design
+The Online Safety Act, the UK government’s first attempt to regulate young people’s online access – which Dan describes as a “seatbelt moment” – has only been in place for 11 months. There’s “a steady drumbeat of opinion among influential campaigners and parents, that what we have now is not enough, and we need more”.
+That piece of legislation, the result of uphill efforts from campaigners pressing the previous Tory government whose instincts were to prioritise the commercial imperatives of tech companies, forces social media platforms and large search engines to prevent children from accessing harmful content, including pornography and material that promotes self-harm and eating disorders.
+That legislation is yet to be fully bedded in, says Dan, and further challenges are on the horizon – the consultation on young people’s social media use, which only closed a few weeks ago, included the use of AI chatbots for the first time. Ofcom’s long-running research study, Children’s Media Lives, which has tracked the same group of young people from eight to 18 since 2014, notes that this year for the first time AI moved from “barely a footnote” to wholesale adoption.
+At the same time, says Dan, we’re at an early stage of understanding how children’s cognitive and social development is affected by use of technology. For parents, policymakers and politicians, it feels like a moving target that is travelling at warp speed.
+Can we expect ‘a radical safety overhaul’?
+Over the past two years, I’ve spoken regularly to Ros and Mark Dowey, whose 16-year-old son Murray who took his own life after he fell victim to a sextortion gang on Instagram. They are 
+now suing Meta
+ for the alleged wrongful death of their son, in the first UK case of its kind.
+The Doweys have always been sceptical about banning social media outright, recognising that a gradual on-ramp is better than a cliff-edge that doesn’t equip youngsters with the skills and confidence they need to navigate online spaces – and that a government ban fails to place responsibility squarely with social media companies.
+There’s a growing consensus among online safety campaigners that, rather than implementing an Australia-style lock out, the UK government should instead block under-16s from accessing risky features such as infinite scrolling, disappearing messages and push notifications.
+This tallies with the “layered approach” Dan anticipates from Starmer, “but it’s also clear the prime minister is going to demand a radical safety overhaul”. He expects to see a full ban for apps that are deemed unsafe; further restrictions to access features deemed unsafe, such as scrolling; action on game platforms like 
+the hugely popular Roblox
+ that allow adults and children to interact; and, potentially, age restrictions on 
+who can use chatbots
+ and the content of their discussions.
+This comes as Starmer’s government introduces a legal ban on smartphones in schools in England, with the Scottish government planning similar legislation. Research on effectiveness is mixed: studies have shown a ban can improve classroom focus and discipline, but doesn’t by itself result in higher grades or happier teens, suggesting proposed school restrictions should be part of a wider strategy to lower phone use.
+While most primary schools already press home the message that not everyone online is who they say they are, plans are now well under way to address the spread of online misinformation with older children.
+Lessons from Australia
+Deciding how and what to ban is the easy part, Dan tells me. Critics of Australia’s policy – which banned all under-16s from using social media last December and is being closely scrutinised – have highlighted that, six months later, 
+the eSafety commissioner’s own data
+ suggests two-thirds of people under 16 have remained on social media. Five companies – Snapchat, TikTok, YouTube, Instagram and Facebook – are under investigation for non-compliance with the ban.
+Experts have also warned that those able to circumvent the ban 
+are accessing sites
+ without the restrictions those platforms have put in place for teens.
+But this instant rush to judge the ban’s effectiveness ignores the incremental nature of regulation, says Dan. “You need to put the regulation in place and get it going in order to test it, then improve it, make it more efficient. Whatever happens in the UK will probably have a rocky start, too.”
+It’s also a technologically complex issue.
+ 
+Age verification, for example, is a nascent industry – although Dan notes that the UK already has a “fairly robust” verification procedure for over-18s seeking to access pornography, so “there is a framework there that could be deployed to under-16s”.
+What do young people want?
+As well as the burning recognition from adults that young people deserve protection from online harm, there’s an accompanying acknowledgment that young people need to be involved in any conversation about what a youth-friendlier internet might look like.
+The Ada Lovelace Institute recently interviewed a cohort of 14- to 24-year-olds about growing up online. Overall they voiced the strong opinion that future young people should not be able to access social media and technology in the way they did. They talked about their frustration with being warned of dependency on technology, while living in a digital-first society where many daily tasks – from school homework to job applications – have to be done online.
+The Children’s Media Lives study has also identified a significant shift over the past two years in the way young people talk about short-form content – “brain rot” – recognising that endless passive consumption of content with no connecting thread is neither satisfying nor healthy.
+Young people also challenge adults to improve their own digital literacy. When I interviewed Scottish teens about online harm – in that case sextortion – some were concerned their parents simply wouldn’t have the technical skills to help them. They were also blunt about the need for educators to speak their language – youngsters talk about “nudes” and “scuds”, not “intimate images”. Naturally, young people mirror the smartphone behaviours they see in adults around them. To address that, Sweden’s public health agency recently called on parents to declare parts of the home phone-free to help create healthy screen habits for the whole family.
+With the very things we know to be harmful to young people – 
+mindless scrolling, short-form videos, ease of messaging strangers
+ – also being vital to how social media companies monetise attention, the goal of creating a child-friendly social media environment can often seen an unrealistic one given the business imperative.
+Self-regulation has certainly failed, that much is obvious as we read the evidence from Meta whistleblowers, now being used in a number of court cases against the tech company, which indicate that big tech has been well aware of the harm their products can cause.
+But the Online Safety Act, which carried a sanction of up to 10% of the global revenue or £18m of a company, has already shown that government is “willing to wield a big cudgel”, and Dan expects more of the same with Starmer’s proposals.
+Another lesson from that law, Dan adds, is that UK tech firms are unwilling to defy government outright. “And because these firms like to have a uniform presentation across the world, there’s even the possibility that how they deal with the coming changes from the UK government could set a global precedent.”
+ In the UK and Ireland, 
+Samaritans
+ can be contacted on freephone 116 123. In the US, you can call or text the 
+988 Suicide & Crisis Lifeline
+ at 988 or chat at 
+988lifeline.org
+. In Australia, the crisis support service 
+Lifeline
+ is 13 11 14. Other international helplines can be found at 
+befrienders.org
+.
+What else we’ve been reading
+Stoopid Buddy Stoodios’ stop-motion animation ad for the Green Bay Packers was created by hand.
+ Photograph: Stoop Buddy Studios/Green Bay Packers
+
+
+
+
+I still can’t seem to escape 
+AI slop
+, but 
+this entertaining read
+ about the artists making “anti-slop” to combat the onslaught of AI-generated advertising offered reassurance that a more authentic, janky form of creativity will still continue to exist. 
+Sinéad Campbell, newsletters team
+
+
+
+
+The New Yorker’s long read (£) on how 
+Andrew Tate 
+and his brother built an empire on exploitation is a terrifyingly thorough exposé on the pioneers of the manosphere. 
+Toby Moses, head of newsletters
+
+
+
+
+Alexis Petridis’s interview
+ with the 
+techno producer Ibrahim Alfa Jr
+ had me hooked from start to finish. It’s a fascinating story of isolation, illness and unabashed creativity. 
+Sinéad
+
+
+
+
+Our TV desk has run down the 
+best shows of 2026
+ so far – from Heated Rivalry’s gloriously steamy ice hockey romance to an Attenbrough retrospective, there’s bound to be something on there that piques your interest. 
+Toby
+
+
+
+
+This 
+great read about the changing attitudes
+ towards 
+the dog meat industry
+ in Nigeria caught my attention, particularly the joyous photos of “dog mom” Jackie Idimogu and her canine friends. 
+Sinéad
+
+
+Sport
+Ben Stokes (left) and Gus Atkinson are being investigated over an incident in a nightclub
+ Photograph: Philip Brown/Getty Images
+Cricket 
+| Ben Stokes’ future as the England Test captain has been thrown into doubt after the England and Wales Cricket Board launched an investigation into 
+“a breach of team protocol”
+ related to an incident involving Stokes and Gus Atkinson that took place in a London nightclub in the early hours of Monday morning.
+Tennis 
+| Tatjana Maria, the reigning Queen’s Club women’s champion, 
+has revealed her shock
+ at not receiving a wildcard to defend her title this week, suggesting winning last year’s tournament should command greater respect.
+Football 
+| Scotland’s return to the World Cup after a 28-year absence has been immediately overshadowed
+ by a war of words
+ with Norway.
+The front pages
+ Photograph: The Guardian
+The 
+Guardian
+’s splash today is “Zelensky takes aim at Reform UK’s ‘mistake’ on Ukraine flags”. The 
+FT
+ says “Israel and Iran halt exchange of blows as US pushes to extend ceasefire deal” and the 
+Independent
+ has “Trump’s desperate plea on ceasefire: ‘Stop shooting’”.
+The 
+Times
+ leads with “West Ham owner ‘abused power to prey on women’”, the 
+Mirror
+ and the 
+Sun
+ also lead with the allegations and run the same headline of “‘Predator’”.
+The 
+i Paper
+ runs “UK spying fears after secret camera found in Whitehall ceiling panel”, the 
+Telegraph
+ says “Billions in aid cash handed to terrorists” and the 
+Mail
+ asks “Is university a waste of money?”
+Today in Focus: The Latest
+The Latest.
+ Photograph: The Guardian
+Israel and Iran trade strikes: what does this mean for peace deal?
+Israel and Iran have exchanged direct strikes for the first time since a ceasefire was reached in April, raising fears of a return to a full-scale regional war. In 
+this episode
+, Nosheen Iqbal speaks to the Guardian’s senior international correspondent Julian Borger – 
+watch on YouTube
+.
+Cartoon of the day | Ben Jennings
+ Illustration: Ben Jennings/The Guardian
+The Upside
+A bit of good news to remind you that the world’s not all bad
+Make time for fun … kids can be the best guides for breaking out of a rut.
+ Photograph: Catherine Falls Commercial/Getty Images
+Stuck in a rut, or feel as if life could do with some extra sparkle? Author and artist Austin Kleon might just have you covered – and he has his two kids to thank. “Everything in the culture [of art] says kids are the antithesis of creative work,” he says. Actually, Kleon realised, “they can be a great catalyst, an energy source that you can plug into”. It’s all about embracing your inner child. 
+
+  This worked wonders for Elle Hunt, who 
+put Kleon’s advice into practice
+: make time for fun, find what you love, be your own parent, learn from scratch and create with your hands. It’s all about “making stuff, messing around and following your nose”, says Kleon. “Play is not a frivolous thing: you need it, this is how you keep your spirit alive.”
+Sign up here
+ for a weekly roundup of The Upside, sent to you every Sunday
+Bored at work?
+And finally, the Guardian’s puzzles are here to keep you entertained throughout the day. Until tomorrow.
