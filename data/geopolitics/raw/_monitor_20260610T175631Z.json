@@ -1,0 +1,132 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-10T17:56:31.019686+00:00",
+  "new_documents": 20,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/6c27afb3d97d4c64ccc8bf179f7b8e9094d38357b139cd4be066aa20e6b32151.txt",
+      "metadata_path": "data/geopolitics/raw/6c27afb3d97d4c64ccc8bf179f7b8e9094d38357b139cd4be066aa20e6b32151.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.txt",
+      "metadata_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/a1a126462ae613009fe1e51b346d27f949e9b2f925896178a447faa48a313e48.txt",
+      "metadata_path": "data/geopolitics/raw/a1a126462ae613009fe1e51b346d27f949e9b2f925896178a447faa48a313e48.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Middle East LIVE: Diplomacy in focus as escalation ‘reverberates across borders and continents’, warns UN chief (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/10-06-2026-UN-Photo-SC-wideview.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/71ac48ef90dbf0a83d860938fe3c8aca2e107cc3f268e7f0be7914c84ee76c03.txt",
+      "metadata_path": "data/geopolitics/raw/71ac48ef90dbf0a83d860938fe3c8aca2e107cc3f268e7f0be7914c84ee76c03.json"
+    },
+    {
+      "title": "Mali: ICRC steps up support to people affected by armed violence",
+      "url": "https://reliefweb.int/report/mali/mali-icrc-steps-support-people-affected-armed-violence",
+      "text_path": "data/geopolitics/raw/cdfb153c85a5d70c045b164a1531904aa63c99f17185b0147e13fd16dd121e87.txt",
+      "metadata_path": "data/geopolitics/raw/cdfb153c85a5d70c045b164a1531904aa63c99f17185b0147e13fd16dd121e87.json"
+    },
+    {
+      "title": "Europe Plans to Crack Down on Russia—but for Real This Time",
+      "url": "https://foreignpolicy.com/2026/06/10/europe-russia-sanctions-package-trump-putin/",
+      "text_path": "data/geopolitics/raw/48155c000909f798088361d1eb20a25145223185acf23c96a1c774d9338f2bd1.txt",
+      "metadata_path": "data/geopolitics/raw/48155c000909f798088361d1eb20a25145223185acf23c96a1c774d9338f2bd1.json"
+    },
+    {
+      "title": "Afghanistan: New code enabling child marriage compounds dismal situation for women’s and girls’ rights",
+      "url": "https://reliefweb.int/report/afghanistan/afghanistan-new-code-enabling-child-marriage-compounds-dismal-situation-womens-and-girls-rights",
+      "text_path": "data/geopolitics/raw/794391e6b936711d8511330d30f067543c9c4608eab9ae6927ceae995f293767.txt",
+      "metadata_path": "data/geopolitics/raw/794391e6b936711d8511330d30f067543c9c4608eab9ae6927ceae995f293767.json"
+    },
+    {
+      "title": "Germany welcome in GCAP, but new Leonardo boss warns about timing",
+      "url": "https://www.defensenews.com/global/europe/2026/06/10/germany-welcome-in-gcap-but-new-leonardo-boss-warns-about-timing/",
+      "text_path": "data/geopolitics/raw/cee47456459dbc28391730dd47ab15d170d147af336d2339aca50c5156fcb8c0.txt",
+      "metadata_path": "data/geopolitics/raw/cee47456459dbc28391730dd47ab15d170d147af336d2339aca50c5156fcb8c0.json"
+    },
+    {
+      "title": "The Gambia — Transhumance Flow Monitoring Dashboard (December 2025 - March 2026)",
+      "url": "https://reliefweb.int/report/gambia/gambia-transhumance-flow-monitoring-dashboard-december-2025-march-2026",
+      "text_path": "data/geopolitics/raw/b25ff718ff19f917b39d15524a728f8ef317744d1bbe5216c35bf0c30227ff12.txt",
+      "metadata_path": "data/geopolitics/raw/b25ff718ff19f917b39d15524a728f8ef317744d1bbe5216c35bf0c30227ff12.json"
+    },
+    {
+      "title": "The Gambia — Transhumance Flow Monitoring Dashboard (December 2025 - March 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/2f237858-5a1a-5c47-94b5-28d8bd79765b/TTT__Transhumance_Flow_Monitoring%20Report%20Gambia%202026_R1_0.pdf",
+      "text_path": "data/geopolitics/raw/0b068201461b90eed2ba071c4e4fd2791b066215498613d37e38281d6c80ab02.txt",
+      "metadata_path": "data/geopolitics/raw/0b068201461b90eed2ba071c4e4fd2791b066215498613d37e38281d6c80ab02.json"
+    },
+    {
+      "title": "Somalia - Emergency Trend Tracking (ETT) - 5 Districts assessed | Week 64 (30 - 31 May 2026)",
+      "url": "https://reliefweb.int/report/somalia/somalia-emergency-trend-tracking-ett-5-districts-assessed-week-64-30-31-may-2026",
+      "text_path": "data/geopolitics/raw/f5504721188b2fc09fc98a3f14d9999292aec996ae19c66748ad56a60fcafc99.txt",
+      "metadata_path": "data/geopolitics/raw/f5504721188b2fc09fc98a3f14d9999292aec996ae19c66748ad56a60fcafc99.json"
+    },
+    {
+      "title": "Somalia - Emergency Trend Tracking (ETT) - 5 Districts assessed | Week 64 (30 - 31 May 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/ac8c6aca-35b3-59d8-99f2-48d8f1f5a58c/IOM_DTM_Somalia_ETT_2026_week_64.pdf",
+      "text_path": "data/geopolitics/raw/84e30ce8cf1a3d7f45795a8e9e174df3b00716cf44a6ea1c1077dc5410898ecf.txt",
+      "metadata_path": "data/geopolitics/raw/84e30ce8cf1a3d7f45795a8e9e174df3b00716cf44a6ea1c1077dc5410898ecf.json"
+    },
+    {
+      "title": "Fresh strikes on Tyre kill eight, as UN puts Lebanon destruction bill at $365 million, and rising (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/02-06-2026-UNHCR-Lebanon-02.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/346047a24ebaa31336c2e963349957d336820f5b074b302c4f62ea9513738265.txt",
+      "metadata_path": "data/geopolitics/raw/346047a24ebaa31336c2e963349957d336820f5b074b302c4f62ea9513738265.json"
+    }
+  ],
+  "txt_before": 861,
+  "txt_after": 873
+}
