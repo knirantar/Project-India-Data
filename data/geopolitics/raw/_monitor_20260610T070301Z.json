@@ -1,0 +1,120 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-10T07:03:01.128400+00:00",
+  "new_documents": 18,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.txt",
+      "metadata_path": "data/geopolitics/raw/53ab32a9af9641c88be8e9b1a413ac8e6e3238897c8c814a570e61ab28d1d868.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.txt",
+      "metadata_path": "data/geopolitics/raw/864001e11c3745a29abf56cbdcad9d5712b27af46322224e8b888d9d98a685d2.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/a1a126462ae613009fe1e51b346d27f949e9b2f925896178a447faa48a313e48.txt",
+      "metadata_path": "data/geopolitics/raw/a1a126462ae613009fe1e51b346d27f949e9b2f925896178a447faa48a313e48.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Update 353 – IAEA Director General Statement on Ukraine",
+      "url": "https://reliefweb.int/report/ukraine/update-353-iaea-director-general-statement-ukraine",
+      "text_path": "data/geopolitics/raw/7c1b36f15ac91c6bc0f67fbfef54a1b59a5b1efa4a99a5b5020470e233d72d34.txt",
+      "metadata_path": "data/geopolitics/raw/7c1b36f15ac91c6bc0f67fbfef54a1b59a5b1efa4a99a5b5020470e233d72d34.json"
+    },
+    {
+      "title": "oPt: Joint statement on humanitarian access in Gaza and the registration law affecting INGOS",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/joint-statement-humanitarian-access-gaza-and-registration-law-affecting-ingos",
+      "text_path": "data/geopolitics/raw/fa1c1ac70144708cfee3bc88282b4e1940af013335644847f7c29d5a8c6e094d.txt",
+      "metadata_path": "data/geopolitics/raw/fa1c1ac70144708cfee3bc88282b4e1940af013335644847f7c29d5a8c6e094d.json"
+    },
+    {
+      "title": "Libya: Release humanitarian activists detained for seeking to deliver aid to Gaza",
+      "url": "https://reliefweb.int/report/libya/libya-release-humanitarian-activists-detained-seeking-deliver-aid-gaza",
+      "text_path": "data/geopolitics/raw/0171c4692219af661faeb63f4e81d0ac78a27bb83b165ba1ade6a14b8bf05631.txt",
+      "metadata_path": "data/geopolitics/raw/0171c4692219af661faeb63f4e81d0ac78a27bb83b165ba1ade6a14b8bf05631.json"
+    },
+    {
+      "title": "Towards Sustainable Solutions for Refugees in Thailand: Appeal (June 2026 - December 2030) (pdf)",
+      "url": "https://reliefweb.int/attachments/55d6a623-a690-557f-bf36-57b7fadafdc4/Sustainable%20Solutions%20Thailand%20June%202026%20Appeal.pdf",
+      "text_path": "data/geopolitics/raw/2e3e7eaf327af9aaad6760f013a94f25c7e21a69041a5ffcf20ae0c95f00bdbc.txt",
+      "metadata_path": "data/geopolitics/raw/2e3e7eaf327af9aaad6760f013a94f25c7e21a69041a5ffcf20ae0c95f00bdbc.json"
+    },
+    {
+      "title": "Charities in England and Wales ‘donate millions to illegal Israeli settlements’",
+      "url": "https://www.theguardian.com/society/2026/jun/10/charities-in-england-and-wales-donate-millions-to-israeli-settlements",
+      "text_path": "data/geopolitics/raw/78cd88760679fa34ef3da8374c024096a00ff2bb2564c69a2948a5690987d544.txt",
+      "metadata_path": "data/geopolitics/raw/78cd88760679fa34ef3da8374c024096a00ff2bb2564c69a2948a5690987d544.json"
+    },
+    {
+      "title": "Is Israel spying on US? Espionage among allies nothing new",
+      "url": "https://www.dw.com/en/is-israel-spying-on-us-espionage-among-allies-nothing-new/a-77475139?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/af1ab3abd4e0292681fbaf5d84d2cf2d3ec7ed4a48312abbfb725c27f431f16d.txt",
+      "metadata_path": "data/geopolitics/raw/af1ab3abd4e0292681fbaf5d84d2cf2d3ec7ed4a48312abbfb725c27f431f16d.json"
+    },
+    {
+      "title": "Only one in 10 Europeans now see US as an ally, survey suggests",
+      "url": "https://www.theguardian.com/world/2026/jun/10/only-one-in-10-europeans-now-see-us-as-an-ally-survey-suggests",
+      "text_path": "data/geopolitics/raw/01ce763e6ef0f75e769f33a4886b3779316ce689d5155747557915dc3603a99c.txt",
+      "metadata_path": "data/geopolitics/raw/01ce763e6ef0f75e769f33a4886b3779316ce689d5155747557915dc3603a99c.json"
+    },
+    {
+      "title": "Turkey’s Quiet Realignment",
+      "url": "https://www.foreignaffairs.com/turkey/turkeys-quiet-realignment",
+      "text_path": "data/geopolitics/raw/676c0a9490189c1bca9988c07feb99600c5c6a2acb467afd04ba15814bb9a8e3.txt",
+      "metadata_path": "data/geopolitics/raw/676c0a9490189c1bca9988c07feb99600c5c6a2acb467afd04ba15814bb9a8e3.json"
+    }
+  ],
+  "txt_before": 839,
+  "txt_after": 847
+}

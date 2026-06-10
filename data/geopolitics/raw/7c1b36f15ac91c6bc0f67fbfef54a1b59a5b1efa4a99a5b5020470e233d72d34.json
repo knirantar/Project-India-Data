@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "diplomatic_statements",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-10T07:02:36.604227+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://reliefweb.int/report/ukraine/update-353-iaea-director-general-statement-ukraine",
+  "title": "Update 353 – IAEA Director General Statement on Ukraine",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 10 Jun 2026 03:33:20 +0000",
+  "sha256": "7c1b36f15ac91c6bc0f67fbfef54a1b59a5b1efa4a99a5b5020470e233d72d34",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-10T07:02:36.738139+00:00",
+  "text_chars": 4953,
+  "raw_path": "data/geopolitics/raw/7c1b36f15ac91c6bc0f67fbfef54a1b59a5b1efa4a99a5b5020470e233d72d34.html",
+  "text_path": "data/geopolitics/raw/7c1b36f15ac91c6bc0f67fbfef54a1b59a5b1efa4a99a5b5020470e233d72d34.txt"
 }
