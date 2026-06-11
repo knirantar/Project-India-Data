@@ -1,0 +1,84 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-11T23:18:34.635819+00:00",
+  "new_documents": 12,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/bec087eadb9ef9d96d7ff41d900bc505a024b6bb6db68234894d82098465289d.txt",
+      "metadata_path": "data/geopolitics/raw/bec087eadb9ef9d96d7ff41d900bc505a024b6bb6db68234894d82098465289d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167700",
+      "text_path": "data/geopolitics/raw/f6b3dd27580b7cb3e0dca9977f20e1d86c9cb10dc7e3575b74aa00697727d0ca.txt",
+      "metadata_path": "data/geopolitics/raw/f6b3dd27580b7cb3e0dca9977f20e1d86c9cb10dc7e3575b74aa00697727d0ca.json"
+    },
+    {
+      "title": "Hate speech spreading ‘faster than ever’, warns UN chief as global action plan is revealed (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/11-06-2026-Adobe-hate-speech.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/80cbfcac34478ff97327068d327191405e6217c839e8cc3d3cd7866e66add1ca.txt",
+      "metadata_path": "data/geopolitics/raw/80cbfcac34478ff97327068d327191405e6217c839e8cc3d3cd7866e66add1ca.json"
+    }
+  ],
+  "txt_before": 912,
+  "txt_after": 915
+}
