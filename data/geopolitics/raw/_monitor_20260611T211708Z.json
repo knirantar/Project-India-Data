@@ -1,0 +1,132 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-11T21:17:08.052378+00:00",
+  "new_documents": 20,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/8ec7d6b848a51521293f04e8fc3505fcadf94fb347bcc00f54f0e076fcc28298.txt",
+      "metadata_path": "data/geopolitics/raw/8ec7d6b848a51521293f04e8fc3505fcadf94fb347bcc00f54f0e076fcc28298.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Delhi issues ‘strong protest’ after US strikes kill three Indian seafarers in Gulf",
+      "url": "https://www.theguardian.com/world/2026/jun/11/delhi-issues-strong-protest-after-us-fire-kills-three-indian-seafarers-in-gulf",
+      "text_path": "data/geopolitics/raw/8ea6823aff74d0b706af52cec00b57016a9899bea023ec2e79ed9b5dac646ad4.txt",
+      "metadata_path": "data/geopolitics/raw/8ea6823aff74d0b706af52cec00b57016a9899bea023ec2e79ed9b5dac646ad4.json"
+    },
+    {
+      "title": "Trump says US and Iran on verge of signing peace agreement",
+      "url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
+      "text_path": "data/geopolitics/raw/8d586a7c83de489fa408a94dd64d38e9951d9a15950f09285b887f00f14bc8bf.txt",
+      "metadata_path": "data/geopolitics/raw/8d586a7c83de489fa408a94dd64d38e9951d9a15950f09285b887f00f14bc8bf.json"
+    },
+    {
+      "title": "Middle East crisis live: Trump says strait of Hormuz to open immediately ‘as soon as’ US and Iran sign peace deal",
+      "url": "https://www.theguardian.com/world/live/2026/jun/11/iran-war-news-us-strikes-donald-trump-stalled-peace-talks-middle-east-crisis",
+      "text_path": "data/geopolitics/raw/8cc444210b8da3829e6b4f3d66ed3b4d653e6bcc3432a581bcc192f85a9128aa.txt",
+      "metadata_path": "data/geopolitics/raw/8cc444210b8da3829e6b4f3d66ed3b4d653e6bcc3432a581bcc192f85a9128aa.json"
+    },
+    {
+      "title": "Military strikes on water facilities in Iran may constitute a war crime, experts say",
+      "url": "https://www.theguardian.com/world/2026/jun/11/strikes-water-facilities-iran-war-crime-experts",
+      "text_path": "data/geopolitics/raw/c856d3ec038b0430cee895f339143e0814c2725382d60fb334603989be3e375c.txt",
+      "metadata_path": "data/geopolitics/raw/c856d3ec038b0430cee895f339143e0814c2725382d60fb334603989be3e375c.json"
+    },
+    {
+      "title": "Strike, Counterstrike, Repeat",
+      "url": "https://warontherocks.com/strike-counterstrike-repeat/",
+      "text_path": "data/geopolitics/raw/6c9bc26b89fa2293eb8b499e3ea48922a5e7995fc77a96a35ed43f6bae05bb06.txt",
+      "metadata_path": "data/geopolitics/raw/6c9bc26b89fa2293eb8b499e3ea48922a5e7995fc77a96a35ed43f6bae05bb06.json"
+    },
+    {
+      "title": "UK defence funding crisis has been a long time coming",
+      "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
+      "text_path": "data/geopolitics/raw/733440684f946b0878409fe3e1deb9412975eff70b3c34981cb42238a9c95a76.txt",
+      "metadata_path": "data/geopolitics/raw/733440684f946b0878409fe3e1deb9412975eff70b3c34981cb42238a9c95a76.json"
+    },
+    {
+      "title": "Hormuz Isn’t Closed Anymore. But It’s Not Fully Open, Either.",
+      "url": "https://foreignpolicy.com/2026/06/11/iran-us-war-hormuz-strait-shadow-fleet-trump/",
+      "text_path": "data/geopolitics/raw/9d843e7d2ec9f1a4824a2985a01aa6794eb0c85b74a6f14d6a5e4087a7fff976.txt",
+      "metadata_path": "data/geopolitics/raw/9d843e7d2ec9f1a4824a2985a01aa6794eb0c85b74a6f14d6a5e4087a7fff976.json"
+    },
+    {
+      "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167697",
+      "text_path": "data/geopolitics/raw/9b0ea6befb420d7dcb2ed79441796efdf72b6434113362bb2b35fb389892becd.txt",
+      "metadata_path": "data/geopolitics/raw/9b0ea6befb420d7dcb2ed79441796efdf72b6434113362bb2b35fb389892becd.json"
+    },
+    {
+      "title": "Egypt's delicate balancing act in the Iran war",
+      "url": "https://www.dw.com/en/egypt-s-delicate-balancing-act-in-the-iran-war/a-77506331?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/57d9ea3a4be9e1325d35bbfbe849da8d66d5c8e2fbdc1aa998bb7f8c999cebfc.txt",
+      "metadata_path": "data/geopolitics/raw/57d9ea3a4be9e1325d35bbfbe849da8d66d5c8e2fbdc1aa998bb7f8c999cebfc.json"
+    },
+    {
+      "title": "‘Human rights are part of our DNA’: UN launches global alliance to counter rising threats",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167698",
+      "text_path": "data/geopolitics/raw/177d0950b4411c217a8c2fc3570408c8b7980891054b7c49653e34ab92098a01.txt",
+      "metadata_path": "data/geopolitics/raw/177d0950b4411c217a8c2fc3570408c8b7980891054b7c49653e34ab92098a01.json"
+    },
+    {
+      "title": "Three seafarers killed in Hormuz strike as UN warns of widening fallout (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/24-04-2026-IMO-seafarer-Turkey.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/a1df3f54ac9c86d1e52d397824f558a56f467959ec23688b29dc2e136fdff580.txt",
+      "metadata_path": "data/geopolitics/raw/a1df3f54ac9c86d1e52d397824f558a56f467959ec23688b29dc2e136fdff580.json"
+    }
+  ],
+  "txt_before": 901,
+  "txt_after": 912
+}

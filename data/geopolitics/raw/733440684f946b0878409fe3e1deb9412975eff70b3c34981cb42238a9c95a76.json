@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-11T21:16:26.588649+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://www.theguardian.com/politics/2026/jun/11/uk-defence-funding-john-healey-keir-starmer-offer",
+  "title": "UK defence funding crisis has been a long time coming",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Thu, 11 Jun 2026 19:14:06 GMT",
+  "sha256": "733440684f946b0878409fe3e1deb9412975eff70b3c34981cb42238a9c95a76",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-11T21:16:37.895674+00:00",
+  "text_chars": 6502,
+  "raw_path": "data/geopolitics/raw/733440684f946b0878409fe3e1deb9412975eff70b3c34981cb42238a9c95a76.html",
+  "text_path": "data/geopolitics/raw/733440684f946b0878409fe3e1deb9412975eff70b3c34981cb42238a9c95a76.txt"
 }

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-11T21:16:26.588649+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://www.theguardian.com/world/2026/jun/11/trump-seize-control-iran-oil-gas-ceasefire",
+  "title": "Trump says US and Iran on verge of signing peace agreement",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Thu, 11 Jun 2026 15:48:40 GMT",
+  "sha256": "8d586a7c83de489fa408a94dd64d38e9951d9a15950f09285b887f00f14bc8bf",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-11T21:16:35.119512+00:00",
+  "text_chars": 7717,
+  "raw_path": "data/geopolitics/raw/8d586a7c83de489fa408a94dd64d38e9951d9a15950f09285b887f00f14bc8bf.html",
+  "text_path": "data/geopolitics/raw/8d586a7c83de489fa408a94dd64d38e9951d9a15950f09285b887f00f14bc8bf.txt"
 }
