@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/425646eb-ed7f-45ed-a58c-44cc5a43e1b2/ROAP_Snapshot_260610.pdf",
+  "title": "Philippines: Asia and the Pacific: Weekly Regional Humanitarian Snapshot (2 - 8 June 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 11 Jun 2026 03:32:22 +0000",
+  "sha256": "7444a13e00246443ded9222592c9c00d2ac86b97c71e708fb12f1b1d04081e75",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-11T10:10:28.521230+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-06-11T10:11:11.460184+00:00",
+  "text_chars": 4225,
+  "raw_path": "data/geopolitics/raw/7444a13e00246443ded9222592c9c00d2ac86b97c71e708fb12f1b1d04081e75.pdf",
+  "text_path": "data/geopolitics/raw/7444a13e00246443ded9222592c9c00d2ac86b97c71e708fb12f1b1d04081e75.txt"
 }

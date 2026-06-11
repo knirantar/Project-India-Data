@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-11T10:10:17.515509+00:00",
-  "text_chars": 9081374,
-  "raw_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.xml",
-  "text_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.txt"
+  "url": "https://reliefweb.int/attachments/c8e72ab9-b48a-4254-a466-35c43d68a1f4/global-trends-2025-embargoed-report.pdf",
+  "title": "World: Global Trends: Forced Displacement in 2025 [EN/AR] (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 11 Jun 2026 03:33:08 +0000",
+  "sha256": "017ff0b0ee60ad46ba418cf9a29d0e148ae229865b4dd9409858e80cdef62b71",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-11T10:10:34.987611+00:00",
+  "text_chars": 152349,
+  "raw_path": "data/geopolitics/raw/017ff0b0ee60ad46ba418cf9a29d0e148ae229865b4dd9409858e80cdef62b71.pdf",
+  "text_path": "data/geopolitics/raw/017ff0b0ee60ad46ba418cf9a29d0e148ae229865b4dd9409858e80cdef62b71.txt"
 }

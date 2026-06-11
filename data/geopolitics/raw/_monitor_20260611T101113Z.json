@@ -1,0 +1,138 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-11T10:11:13.499151+00:00",
+  "new_documents": 21,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/6c27afb3d97d4c64ccc8bf179f7b8e9094d38357b139cd4be066aa20e6b32151.txt",
+      "metadata_path": "data/geopolitics/raw/6c27afb3d97d4c64ccc8bf179f7b8e9094d38357b139cd4be066aa20e6b32151.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.txt",
+      "metadata_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/8ec7d6b848a51521293f04e8fc3505fcadf94fb347bcc00f54f0e076fcc28298.txt",
+      "metadata_path": "data/geopolitics/raw/8ec7d6b848a51521293f04e8fc3505fcadf94fb347bcc00f54f0e076fcc28298.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "World: Global Trends: Forced Displacement in 2025 [EN/AR]",
+      "url": "https://reliefweb.int/report/world/global-trends-forced-displacement-2025-enar",
+      "text_path": "data/geopolitics/raw/fa9f4d57afd487445c440c07e4e8c8daec5260060a7575590eec10ef3b5982d9.txt",
+      "metadata_path": "data/geopolitics/raw/fa9f4d57afd487445c440c07e4e8c8daec5260060a7575590eec10ef3b5982d9.json"
+    },
+    {
+      "title": "World: Global Trends: Forced Displacement in 2025 [EN/AR] (pdf)",
+      "url": "https://reliefweb.int/attachments/c8e72ab9-b48a-4254-a466-35c43d68a1f4/global-trends-2025-embargoed-report.pdf",
+      "text_path": "data/geopolitics/raw/017ff0b0ee60ad46ba418cf9a29d0e148ae229865b4dd9409858e80cdef62b71.txt",
+      "metadata_path": "data/geopolitics/raw/017ff0b0ee60ad46ba418cf9a29d0e148ae229865b4dd9409858e80cdef62b71.json"
+    },
+    {
+      "title": "Wargaming for Improved Acquisition: What Does It Take?",
+      "url": "https://warontherocks.com/cogs-of-war/wargaming-for-improved-acquisition-what-does-it-take/",
+      "text_path": "data/geopolitics/raw/61ee0d0b9a2204ea4b9d4dd3073af3ec961ee264e3a088bc52c890c83bbf706f.txt",
+      "metadata_path": "data/geopolitics/raw/61ee0d0b9a2204ea4b9d4dd3073af3ec961ee264e3a088bc52c890c83bbf706f.json"
+    },
+    {
+      "title": "Middle East war live: Iran says US strikes make ceasefire ‘practically meaningless’",
+      "url": "https://www.france24.com/en/middle-east/20260610-middle-east-live-iran-announces-closure-of-strait-of-hormuz-after-us-attacks",
+      "text_path": "data/geopolitics/raw/57cb170839d7e10a56f0d4c3a00797461573e6511e7a28cf66473e79fb649f33.txt",
+      "metadata_path": "data/geopolitics/raw/57cb170839d7e10a56f0d4c3a00797461573e6511e7a28cf66473e79fb649f33.json"
+    },
+    {
+      "title": "oPt: €8.5 Million EU4Commerce Initiative Launched to Support Upgrading the Commercial Crossings for Palestine [EN/AR]",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/eur85-million-eu4commerce-initiative-launched-support-upgrading-commercial-crossings-palestine-enar",
+      "text_path": "data/geopolitics/raw/b9dec690beba9153499f1c5f49a822eb19e6b6d32d4921d90844262fe3ba3164.txt",
+      "metadata_path": "data/geopolitics/raw/b9dec690beba9153499f1c5f49a822eb19e6b6d32d4921d90844262fe3ba3164.json"
+    },
+    {
+      "title": "oPt: €8.5 Million EU4Commerce Initiative Launched to Support Upgrading the Commercial Crossings for Palestine [EN/AR] (pdf)",
+      "url": "https://reliefweb.int/attachments/df53e149-a052-4099-a7b2-8bbb9f09aec0/UNOPS-EU4Commerce-Launch%20Event-PR-EN-AR-FINAL.pdf",
+      "text_path": "data/geopolitics/raw/60181a92a24d4cd6a8e97fb7f13eb73d33061050e3f034deb0f62e420812d1a3.txt",
+      "metadata_path": "data/geopolitics/raw/60181a92a24d4cd6a8e97fb7f13eb73d33061050e3f034deb0f62e420812d1a3.json"
+    },
+    {
+      "title": "World: Con siete de cada diez refugiados viviendo en desplazamiento prolongado, el jefe de ACNUR pide redoblar esfuerzos para encontrar soluciones",
+      "url": "https://reliefweb.int/report/world/con-siete-de-cada-diez-refugiados-viviendo-en-desplazamiento-prolongado-el-jefe-de-acnur-pide-redoblar-esfuerzos-para-encontrar-soluciones",
+      "text_path": "data/geopolitics/raw/9418264b81bbe48d65b8e071fa5752bd9af36fbcb9491c8fbed16fa1e7cd562e.txt",
+      "metadata_path": "data/geopolitics/raw/9418264b81bbe48d65b8e071fa5752bd9af36fbcb9491c8fbed16fa1e7cd562e.json"
+    },
+    {
+      "title": "World: Con siete de cada diez refugiados viviendo en desplazamiento prolongado, el jefe de ACNUR pide redoblar esfuerzos para encontrar soluciones (pdf)",
+      "url": "https://reliefweb.int/attachments/2ca5edb4-9fd0-4496-a0c2-ce3273916269/Resumen-de-tendencias-GTR-2025.pdf",
+      "text_path": "data/geopolitics/raw/42d609d95d88af161c763179ec6149ef32709c6f333cae5c47a1929180f2337a.txt",
+      "metadata_path": "data/geopolitics/raw/42d609d95d88af161c763179ec6149ef32709c6f333cae5c47a1929180f2337a.json"
+    },
+    {
+      "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
+      "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war/",
+      "text_path": "data/geopolitics/raw/2b7ee881570720934fdb000bcfe8d8717c6e147666bd156ca38931dd6cec2e80.txt",
+      "metadata_path": "data/geopolitics/raw/2b7ee881570720934fdb000bcfe8d8717c6e147666bd156ca38931dd6cec2e80.json"
+    },
+    {
+      "title": "Philippines: Asia and the Pacific: Weekly Regional Humanitarian Snapshot (2 - 8 June 2026)",
+      "url": "https://reliefweb.int/report/philippines/asia-and-pacific-weekly-regional-humanitarian-snapshot-2-8-june-2026",
+      "text_path": "data/geopolitics/raw/3c290852699336885cb24198fe450a81781068cf15633a2761126ab3eb1b572f.txt",
+      "metadata_path": "data/geopolitics/raw/3c290852699336885cb24198fe450a81781068cf15633a2761126ab3eb1b572f.json"
+    },
+    {
+      "title": "Philippines: Asia and the Pacific: Weekly Regional Humanitarian Snapshot (2 - 8 June 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/425646eb-ed7f-45ed-a58c-44cc5a43e1b2/ROAP_Snapshot_260610.pdf",
+      "text_path": "data/geopolitics/raw/7444a13e00246443ded9222592c9c00d2ac86b97c71e708fb12f1b1d04081e75.txt",
+      "metadata_path": "data/geopolitics/raw/7444a13e00246443ded9222592c9c00d2ac86b97c71e708fb12f1b1d04081e75.json"
+    }
+  ],
+  "txt_before": 883,
+  "txt_after": 894
+}

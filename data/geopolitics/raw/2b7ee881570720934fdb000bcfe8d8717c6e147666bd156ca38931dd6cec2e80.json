@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-11T10:10:17.515509+00:00",
-  "text_chars": 9081374,
-  "raw_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.xml",
-  "text_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.txt"
+  "url": "https://warontherocks.com/the-chain-of-peace-do-supply-chain-chokepoints-deter-war/",
+  "title": "The Chain of Peace: Do Supply Chain Chokepoints Deter War?",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Thu, 11 Jun 2026 07:30:57 +0000",
+  "sha256": "2b7ee881570720934fdb000bcfe8d8717c6e147666bd156ca38931dd6cec2e80",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-11T10:11:02.297235+00:00",
+  "text_chars": 21600,
+  "raw_path": "data/geopolitics/raw/2b7ee881570720934fdb000bcfe8d8717c6e147666bd156ca38931dd6cec2e80.html",
+  "text_path": "data/geopolitics/raw/2b7ee881570720934fdb000bcfe8d8717c6e147666bd156ca38931dd6cec2e80.txt"
 }
