@@ -1,0 +1,90 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-11T05:24:55.157615+00:00",
+  "new_documents": 13,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/6c27afb3d97d4c64ccc8bf179f7b8e9094d38357b139cd4be066aa20e6b32151.txt",
+      "metadata_path": "data/geopolitics/raw/6c27afb3d97d4c64ccc8bf179f7b8e9094d38357b139cd4be066aa20e6b32151.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.txt",
+      "metadata_path": "data/geopolitics/raw/83422958b73c1afd627a763974d8010a2bcef53cbe0e77dd3b3db310d994bded.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Aukus is among Australia’s worst foreign policy decisions and requires ‘heroic’ optimism, Gareth Evans says",
+      "url": "https://www.theguardian.com/world/2026/jun/11/aukus-among-australia-worst-foreign-policy-decisions-gareth-evans",
+      "text_path": "data/geopolitics/raw/d59e59eacb6f495dee5815f2f11be3284ae4beff6e88235b587acf23b4d5c9b5.txt",
+      "metadata_path": "data/geopolitics/raw/d59e59eacb6f495dee5815f2f11be3284ae4beff6e88235b587acf23b4d5c9b5.json"
+    },
+    {
+      "title": "Tehran fires missiles at Jordan, Kuwait and Bahrain after renewed US strikes on Iran",
+      "url": "http://www.euronews.com/2026/06/10/tehran-launches-retaliatory-attacks-on-us-bases-following-strikes-on-iran",
+      "text_path": "data/geopolitics/raw/df8e0f60b42cc01cff7311c55ceac5e66e87df85dd4e5ac867c5a90911d59e56.txt",
+      "metadata_path": "data/geopolitics/raw/df8e0f60b42cc01cff7311c55ceac5e66e87df85dd4e5ac867c5a90911d59e56.json"
+    },
+    {
+      "title": "US launches fresh strikes on 'multiple targets' in Iran after Trump vows to hit 'hard'",
+      "url": "http://www.euronews.com/2026/06/10/iran-will-pay-the-price-for-stalled-peace-talks-us-president-donald-trump-says",
+      "text_path": "data/geopolitics/raw/7223d8f6450a7c40a154656a0aaff1f324395bba24454982ce04589508841c86.txt",
+      "metadata_path": "data/geopolitics/raw/7223d8f6450a7c40a154656a0aaff1f324395bba24454982ce04589508841c86.json"
+    },
+    {
+      "title": "The Real Problem With Global Trade",
+      "url": "https://www.foreignaffairs.com/china/real-problem-global-trade",
+      "text_path": "data/geopolitics/raw/7a12c069798e96c505f164f9c9ed3f64bfe1e0b6e0b32a9d27ec77c1b3757628.txt",
+      "metadata_path": "data/geopolitics/raw/7a12c069798e96c505f164f9c9ed3f64bfe1e0b6e0b32a9d27ec77c1b3757628.json"
+    }
+  ],
+  "txt_before": 879,
+  "txt_after": 883
+}
