@@ -1,0 +1,22 @@
+KYIV — Warfare in Ukraine and beyond faces a paradigm shift in the coming years as artificial intelligence systems integrate into unified networks that speed up decisions on the battlefield, a senior Ukrainian official said.
+Ukraine, in the fifth year of fighting a full-scale Russian invasion, is already using AI for a plethora of battlefield functions, from flying drones at targets to helping plan combat operations and crunching data on Russian missile attacks.
+“AI will form a new paradigm of warfare. It’s already actively doing so,” Danylo Tsvok, the head of the defense ministry’s AI center, told Reuters.
+He predicted AI systems would eventually be unified into a single network overseeing the battlefield, leading to a “war of operating systems” with Russia in the next three to five years, if the conflict continues.
+“The system that possesses more data and better understands that data, proposes solutions — that system will gain the advantage over the other," he said.
+The center was founded in March as Defense Minister Mykhailo Fedorov seeks to put AI and data-driven decision-making at the heart of Ukraine’s defenses.
+Drones, still mostly flown by pilots, have already upended the way the war is being fought.
+Ukrainian and Russian troops launch thousands of unmanned aerial vehicles (UAVs) a day at each other. Kyiv is also trying to solve its frontline troop shortage with ground robots.
+The ability of drones to constantly surveil the battlefield and hit targets with precision has accelerated the “kill chain” – the process of planning and executing a strike on the enemy. AI decision-making would speed this up even more, Tsvok said.
+Technological arms race
+Ukraine, whose military numbers around a million personnel, is already using AI tools in its command systems.
+But Tsvok said the goal was to create a single operating system to recommend battlefield decisions all the way up from individual frontline units to strategic command.
+This would significantly speed up the analysis of data from the 1,200-kilometer (750-mile) front line to allow recommendations to human commanders, he said.
+The aim, Tsvok said, is to unite weapons and data systems into “one single living organism that can operate in a coordinated manner.”
+The technological arms race launched by Europe’s largest war since World War Two, which lasted from 1939 to 1945, has attracted interest from foreign AI companies hungry for combat data to train their models and the opportunity to test their systems.
+Some, such as U.S. company Palantir, have provided Ukraine with their systems. Kyiv has created Brave1 Dataroom, a project to share battlefield data with allied countries for training their software.
+“This is the place where you can understand whether your system works,” said Tsvok, wearing a black T-shirt and jeans.
+Moscow is also developing its artificial intelligence capabilities. A senior Ukrainian air defense commander told Reuters in April he was concerned by Russia’s increasing use of AI in planning drone and missile attacks on cities, which could significantly reduce the planning time for each strike.
+“The question is,” Tsvok said, “how quickly we build our solutions and how practically we apply them and achieve the primary impact on the battlefield from our side.”
+He added that the defense ministry was developing an AI-driven recruitment and HR system as part of Fedorov’s push for data-driven reform of the vast government department.
+Ukraine operates on the principle of having a human in the loop on combat decisions, but Tsvok said AI systems could eventually outrun humans, whose presence would then slow decisions down.
+“Then the question arises: how do we keep up with making decisions that autonomous systems propose?” he said.

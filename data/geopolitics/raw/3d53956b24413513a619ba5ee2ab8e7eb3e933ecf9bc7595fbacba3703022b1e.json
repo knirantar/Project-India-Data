@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-12T17:34:52.567878+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167707",
+  "title": "Ukraine civilian casualty toll in May highest in four years, UN monitors say",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Fri, 12 Jun 2026 12:00:00 +0000",
+  "sha256": "3d53956b24413513a619ba5ee2ab8e7eb3e933ecf9bc7595fbacba3703022b1e",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-12T17:36:19.793095+00:00",
+  "text_chars": 3568,
+  "raw_path": "data/geopolitics/raw/3d53956b24413513a619ba5ee2ab8e7eb3e933ecf9bc7595fbacba3703022b1e.html",
+  "text_path": "data/geopolitics/raw/3d53956b24413513a619ba5ee2ab8e7eb3e933ecf9bc7595fbacba3703022b1e.txt"
 }
