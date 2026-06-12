@@ -1,0 +1,156 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-12T11:38:27.717329+00:00",
+  "new_documents": 24,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/bec087eadb9ef9d96d7ff41d900bc505a024b6bb6db68234894d82098465289d.txt",
+      "metadata_path": "data/geopolitics/raw/bec087eadb9ef9d96d7ff41d900bc505a024b6bb6db68234894d82098465289d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "World: Global Conflict Systems - Global Peace Index 2026: Special Supplement",
+      "url": "https://reliefweb.int/report/world/global-conflict-systems-global-peace-index-2026-special-supplement",
+      "text_path": "data/geopolitics/raw/ff2d6ddd85b9a5eb3418d9a32085ddd5af767faf478be8c13d95a12c41a6e326.txt",
+      "metadata_path": "data/geopolitics/raw/ff2d6ddd85b9a5eb3418d9a32085ddd5af767faf478be8c13d95a12c41a6e326.json"
+    },
+    {
+      "title": "World: Global Conflict Systems - Global Peace Index 2026: Special Supplement (pdf)",
+      "url": "https://reliefweb.int/attachments/42fac6c7-3cf0-5f77-96fc-1578e767d376/Global-Peace-Index-2026-Special-Supplement-web.pdf",
+      "text_path": "data/geopolitics/raw/b1929ec33a564c8bb449b3782e176a73657963e19358895410e5da84a375232e.txt",
+      "metadata_path": "data/geopolitics/raw/b1929ec33a564c8bb449b3782e176a73657963e19358895410e5da84a375232e.json"
+    },
+    {
+      "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
+      "url": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
+      "text_path": "data/geopolitics/raw/8c06b8b54364cd736b6409a289ff552d65b535f35d7bc3953a4562c31ee63f9a.txt",
+      "metadata_path": "data/geopolitics/raw/8c06b8b54364cd736b6409a289ff552d65b535f35d7bc3953a4562c31ee63f9a.json"
+    },
+    {
+      "title": "Myanmar: Kler Lwee Htoo District Situation Update: Burma Army attacks caused death, injuries, property damage, displacement, and challenges to villagers’ daily routine in Moo Township (February to May 2025) (pdf)",
+      "url": "https://reliefweb.int/attachments/6cdf2cc6-7681-5acf-a93d-f4211f79b1e2/25-176-s1_wb.pdf",
+      "text_path": "data/geopolitics/raw/49cb1e890cecdbdbc34be6a30df509daf2e7190c592ffa16129cd1ae77c9eb30.txt",
+      "metadata_path": "data/geopolitics/raw/49cb1e890cecdbdbc34be6a30df509daf2e7190c592ffa16129cd1ae77c9eb30.json"
+    },
+    {
+      "title": "US-Iran ceasefire? Not for Indian sailors being killed in Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/6/12/us-iran-ceasefire-not-for-indian-sailors-being-killed-in-hormuz?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/4818b4e9a8ed690ca0d3703914bfba351b6be287a3016d17a2555530b07ca865.txt",
+      "metadata_path": "data/geopolitics/raw/4818b4e9a8ed690ca0d3703914bfba351b6be287a3016d17a2555530b07ca865.json"
+    },
+    {
+      "title": "Russian drone barrage hits Kyiv and Mykolaiv as Ukraine reports major fires",
+      "url": "http://www.euronews.com/video/2026/06/12/russian-drone-barrage-hits-kyiv-and-mykolaiv-as-ukraine-reports-major-fires",
+      "text_path": "data/geopolitics/raw/c195855efe22203e153b8a895f62b6e5f6fa4f09fa6eed0d968f2b08e7ac636a.txt",
+      "metadata_path": "data/geopolitics/raw/c195855efe22203e153b8a895f62b6e5f6fa4f09fa6eed0d968f2b08e7ac636a.json"
+    },
+    {
+      "title": "‘Spy turtles’ and ‘spy fish’ being used to monitor Chinese waters, Beijing claims",
+      "url": "https://www.theguardian.com/world/2026/jun/12/china-spy-turtles-spy-fish-monitor-waters-claims",
+      "text_path": "data/geopolitics/raw/c71e2d58be9fabc42e3604f151618e217a22fe16ae9ae84ffe0a6570edeac362.txt",
+      "metadata_path": "data/geopolitics/raw/c71e2d58be9fabc42e3604f151618e217a22fe16ae9ae84ffe0a6570edeac362.json"
+    },
+    {
+      "title": "Armed forces minister called for ‘new way of governing’ in resignation letter to Starmer – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/jun/12/keir-starmer-defence-investment-plan-spending-dan-jarvis-al-cairns-john-healey-latest-news-updates",
+      "text_path": "data/geopolitics/raw/fe76276cf2b76af495634d4a7db1ae7714f05b83c2ca3771f84bdb3bb1ee234d.txt",
+      "metadata_path": "data/geopolitics/raw/fe76276cf2b76af495634d4a7db1ae7714f05b83c2ca3771f84bdb3bb1ee234d.json"
+    },
+    {
+      "title": "How Russia Could Escalate",
+      "url": "https://foreignpolicy.com/2026/06/12/russia-ukraine-escalation-trump-europe-nato/",
+      "text_path": "data/geopolitics/raw/71b2b32374a33e54ea5d6fe61019e59dc5363066294745d6c8187dfcb28f30ea.txt",
+      "metadata_path": "data/geopolitics/raw/71b2b32374a33e54ea5d6fe61019e59dc5363066294745d6c8187dfcb28f30ea.json"
+    },
+    {
+      "title": "World: EUAA welcomes the entry into application of the Pact on Migration and Asylum",
+      "url": "https://reliefweb.int/report/world/euaa-welcomes-entry-application-pact-migration-and-asylum",
+      "text_path": "data/geopolitics/raw/81b829c43ac28e84598a2880d0d91d3b2ebfb45127879fb3cfffdd030097de50.txt",
+      "metadata_path": "data/geopolitics/raw/81b829c43ac28e84598a2880d0d91d3b2ebfb45127879fb3cfffdd030097de50.json"
+    },
+    {
+      "title": "Oil prices plummet as Trump claims he is close to US-Iran deal",
+      "url": "https://www.theguardian.com/business/2026/jun/12/global-oil-prices-trump-us-iran-deal-brent-crude-strait-of-hormuz",
+      "text_path": "data/geopolitics/raw/a55620babe35d6bc518284dca2a92b5e3318b288bf0051d3dc0ea5dc01585893.txt",
+      "metadata_path": "data/geopolitics/raw/a55620babe35d6bc518284dca2a92b5e3318b288bf0051d3dc0ea5dc01585893.json"
+    },
+    {
+      "title": "Paris defense show may be last chance to buy before war, CEO says",
+      "url": "https://www.defensenews.com/global/europe/2026/06/12/paris-defense-show-may-be-last-chance-to-buy-before-war-ceo-says/",
+      "text_path": "data/geopolitics/raw/8de994682896bf0853b69c09c28798dc528af168e170ec41267489cc77bf4ee3.txt",
+      "metadata_path": "data/geopolitics/raw/8de994682896bf0853b69c09c28798dc528af168e170ec41267489cc77bf4ee3.json"
+    },
+    {
+      "title": "UNHCR-IOM Pakistan Flash update # 97 on Arrest and Detention/Flow Monitoring, 15 Sep 2023 to 6 Jun 2026",
+      "url": "https://reliefweb.int/report/pakistan/unhcr-iom-pakistan-flash-update-97-arrest-and-detentionflow-monitoring-15-sep-2023-6-jun-2026",
+      "text_path": "data/geopolitics/raw/660749e3e820538a3254d38086606b3015568ab21b19076f30f26e22e02c30bd.txt",
+      "metadata_path": "data/geopolitics/raw/660749e3e820538a3254d38086606b3015568ab21b19076f30f26e22e02c30bd.json"
+    },
+    {
+      "title": "UNHCR-IOM Pakistan Flash update # 97 on Arrest and Detention/Flow Monitoring, 15 Sep 2023 to 6 Jun 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/ce9400ae-0ed2-5c74-a269-a1fe79909bbb/UNHCR%20-%20IOM%20Flash%20Update%2097-v3.pdf",
+      "text_path": "data/geopolitics/raw/2785cfe08a8a09f21a2183f9f0f4e0bb1dd355d2c3590a11010c9f03e6ad99cc.txt",
+      "metadata_path": "data/geopolitics/raw/2785cfe08a8a09f21a2183f9f0f4e0bb1dd355d2c3590a11010c9f03e6ad99cc.json"
+    }
+  ],
+  "txt_before": 922,
+  "txt_after": 936
+}

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "bec087eadb9ef9d96d7ff41d900bc505a024b6bb6db68234894d82098465289d",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-12T11:37:15.945024+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/bec087eadb9ef9d96d7ff41d900bc505a024b6bb6db68234894d82098465289d.xml",
-  "text_path": "data/geopolitics/raw/bec087eadb9ef9d96d7ff41d900bc505a024b6bb6db68234894d82098465289d.txt"
+  "url": "https://warontherocks.com/the-gulf-arab-states-need-a-shield-built-for-limited-trust/",
+  "title": "The Gulf Arab States Need a Shield Built for Limited Trust",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Fri, 12 Jun 2026 07:30:38 +0000",
+  "sha256": "8c06b8b54364cd736b6409a289ff552d65b535f35d7bc3953a4562c31ee63f9a",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-12T11:37:59.613463+00:00",
+  "text_chars": 22759,
+  "raw_path": "data/geopolitics/raw/8c06b8b54364cd736b6409a289ff552d65b535f35d7bc3953a4562c31ee63f9a.html",
+  "text_path": "data/geopolitics/raw/8c06b8b54364cd736b6409a289ff552d65b535f35d7bc3953a4562c31ee63f9a.txt"
 }
