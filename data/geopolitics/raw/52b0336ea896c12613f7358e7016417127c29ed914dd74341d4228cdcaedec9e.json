@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/703c736c-cc7a-4e3b-952b-3e780dd843c6/2026.06.11_OCHA_Lebanon_Flash_Update%20No%2034.pdf",
+  "title": "Lebanon: Flash Update #34 - Escalation of hostilities in Lebanon (as of 11 June 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 12 Jun 2026 17:15:25 +0000",
+  "sha256": "52b0336ea896c12613f7358e7016417127c29ed914dd74341d4228cdcaedec9e",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-12T21:27:52.799715+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-12T21:28:01.158105+00:00",
+  "text_chars": 33767,
+  "raw_path": "data/geopolitics/raw/52b0336ea896c12613f7358e7016417127c29ed914dd74341d4228cdcaedec9e.pdf",
+  "text_path": "data/geopolitics/raw/52b0336ea896c12613f7358e7016417127c29ed914dd74341d4228cdcaedec9e.txt"
 }
