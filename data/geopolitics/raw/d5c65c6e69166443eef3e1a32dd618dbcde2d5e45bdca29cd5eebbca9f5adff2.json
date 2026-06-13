@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-13T21:06:30.285602+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://www.npr.org/2026/06/13/nx-s1-5854957/trump-travels-to-france-for-the-52nd-g7-summit",
+  "title": "Trump travels to France for the 52nd G7 Summit",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Sat, 13 Jun 2026 07:39:31 -0400",
+  "sha256": "d5c65c6e69166443eef3e1a32dd618dbcde2d5e45bdca29cd5eebbca9f5adff2",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-13T21:06:50.493010+00:00",
+  "text_chars": 4285,
+  "raw_path": "data/geopolitics/raw/d5c65c6e69166443eef3e1a32dd618dbcde2d5e45bdca29cd5eebbca9f5adff2.html",
+  "text_path": "data/geopolitics/raw/d5c65c6e69166443eef3e1a32dd618dbcde2d5e45bdca29cd5eebbca9f5adff2.txt"
 }
