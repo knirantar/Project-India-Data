@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-13T06:53:00.789098+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167715",
+  "title": "Security Council weighs future of UN war crimes mechanism as closure nears",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Fri, 12 Jun 2026 12:00:00 +0000",
+  "sha256": "b99d9ca8ef50e3a9478850256a8369c5491f7ad32f738de7068ddecb453ef3db",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-13T06:53:28.987966+00:00",
+  "text_chars": 3745,
+  "raw_path": "data/geopolitics/raw/b99d9ca8ef50e3a9478850256a8369c5491f7ad32f738de7068ddecb453ef3db.html",
+  "text_path": "data/geopolitics/raw/b99d9ca8ef50e3a9478850256a8369c5491f7ad32f738de7068ddecb453ef3db.txt"
 }
