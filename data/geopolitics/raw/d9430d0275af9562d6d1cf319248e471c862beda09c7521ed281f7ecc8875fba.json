@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-15T22:59:49.917454+00:00",
-  "text_chars": 9080594,
-  "raw_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.xml",
-  "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt"
+  "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine",
+  "title": "Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Mon, 15 Jun 2026 21:30:35 GMT",
+  "sha256": "d9430d0275af9562d6d1cf319248e471c862beda09c7521ed281f7ecc8875fba",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-15T23:00:06.026601+00:00",
+  "text_chars": 4173,
+  "raw_path": "data/geopolitics/raw/d9430d0275af9562d6d1cf319248e471c862beda09c7521ed281f7ecc8875fba.html",
+  "text_path": "data/geopolitics/raw/d9430d0275af9562d6d1cf319248e471c862beda09c7521ed281f7ecc8875fba.txt"
 }
