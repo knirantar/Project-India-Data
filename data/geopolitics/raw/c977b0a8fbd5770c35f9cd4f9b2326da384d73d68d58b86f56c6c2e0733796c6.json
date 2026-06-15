@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/823bde94-c750-4e96-8b44-3800197856fb/Gaza_Reported_Impact_Snapshot_10_June_2026.pdf",
+  "title": "oPt: Reported impact snapshot | Gaza Strip (10 June 2026) at 15:00 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sun, 14 Jun 2026 23:36:56 +0000",
+  "sha256": "c977b0a8fbd5770c35f9cd4f9b2326da384d73d68d58b86f56c6c2e0733796c6",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-15T00:05:24.121881+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-15T00:05:48.273574+00:00",
+  "text_chars": 9897,
+  "raw_path": "data/geopolitics/raw/c977b0a8fbd5770c35f9cd4f9b2326da384d73d68d58b86f56c6c2e0733796c6.pdf",
+  "text_path": "data/geopolitics/raw/c977b0a8fbd5770c35f9cd4f9b2326da384d73d68d58b86f56c6c2e0733796c6.txt"
 }

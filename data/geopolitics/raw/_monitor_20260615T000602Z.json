@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-15T00:06:02.985982+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.txt",
+      "metadata_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "oPt: Humanitarian Situation Report | 12 June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/1264625a-a08b-4070-b132-145f9af3f685/Humanitarian%20Situation%20Report%20_%2012%20June%202026%20_%20United%20Nations%20Office%20for%20the%20Coordination%20of%20Humanitarian%20Affairs%20-%20Occupied%20Palestinian%20Territory.pdf",
+      "text_path": "data/geopolitics/raw/7fd2f4fbf2e38d2d5a71538cb1827d496c0aaf573c106ee7e19bc945eb58d5fc.txt",
+      "metadata_path": "data/geopolitics/raw/7fd2f4fbf2e38d2d5a71538cb1827d496c0aaf573c106ee7e19bc945eb58d5fc.json"
+    },
+    {
+      "title": "Australia news live: Wong welcomes US-Iran peace deal; Joyce says fundraised millions to pay for One Nation ads",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/15/australia-news-live-experts-push-back-at-call-for-shark-cull-after-attack-university-students-report-freedom-of-speech-fears",
+      "text_path": "data/geopolitics/raw/6a5da57f96033ca38f005dd778e98f860bd3300321dd76087196ccacf8450fbf.txt",
+      "metadata_path": "data/geopolitics/raw/6a5da57f96033ca38f005dd778e98f860bd3300321dd76087196ccacf8450fbf.json"
+    },
+    {
+      "title": "oPt: Reported impact snapshot | Gaza Strip (10 June 2026) at 15:00 (pdf)",
+      "url": "https://reliefweb.int/attachments/823bde94-c750-4e96-8b44-3800197856fb/Gaza_Reported_Impact_Snapshot_10_June_2026.pdf",
+      "text_path": "data/geopolitics/raw/c977b0a8fbd5770c35f9cd4f9b2326da384d73d68d58b86f56c6c2e0733796c6.txt",
+      "metadata_path": "data/geopolitics/raw/c977b0a8fbd5770c35f9cd4f9b2326da384d73d68d58b86f56c6c2e0733796c6.json"
+    },
+    {
+      "title": "US-Iran ‘peace deal’ announced; Trump says Strait of Hormuz reopening",
+      "url": "https://www.aljazeera.com/news/2026/6/14/us-iran-ceasefire-deal-announced-trump-says-strait-of-hormuz-reopening?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/a21a4aec7ddc7fef90073a612402a57a2094811ba7dced9715431488fd933d87.txt",
+      "metadata_path": "data/geopolitics/raw/a21a4aec7ddc7fef90073a612402a57a2094811ba7dced9715431488fd933d87.json"
+    },
+    {
+      "title": "Disease Outbreak News: Ebola disease caused by Bundibugyo virus, Democratic Republic of the Congo & Uganda (13 June 2026)",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/disease-outbreak-news-ebola-disease-caused-bundibugyo-virus-democratic-republic-congo-uganda-13-june-2026",
+      "text_path": "data/geopolitics/raw/875857ee9617562431b407979d6f03fd409e0a3b717c65a40214b87baa6f9770.txt",
+      "metadata_path": "data/geopolitics/raw/875857ee9617562431b407979d6f03fd409e0a3b717c65a40214b87baa6f9770.json"
+    },
+    {
+      "title": "World: Luxembourg and UNDP partner to tackle crises and fight inequalities",
+      "url": "https://reliefweb.int/report/world/luxembourg-and-undp-partner-tackle-crises-and-fight-inequalities",
+      "text_path": "data/geopolitics/raw/cc79d0a67bd1bdf6d47cf1725e4c2d43539726f1acdf32c8fc123fbb826134ce.txt",
+      "metadata_path": "data/geopolitics/raw/cc79d0a67bd1bdf6d47cf1725e4c2d43539726f1acdf32c8fc123fbb826134ce.json"
+    }
+  ],
+  "txt_before": 968,
+  "txt_after": 974
+}
