@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-15T20:48:35.788370+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.xml",
-  "text_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.txt"
+  "url": "https://www.aljazeera.com/news/2026/6/15/eu-fails-to-agree-on-sanctions-for-far-right-israeli-minister-ben-gvir?traffic_source=rss",
+  "title": "EU fails to agree on sanctions for far-right Israeli minister Ben-Gvir",
+  "source": "https://www.aljazeera.com/xml/rss/all.xml",
+  "published": "Mon, 15 Jun 2026 18:47:22 +0000",
+  "sha256": "f56945f9be170c80dd1be95edc3147d0a97563a934b0916718addfa720248911",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-06-15T20:49:29.683933+00:00",
+  "text_chars": 2734,
+  "raw_path": "data/geopolitics/raw/f56945f9be170c80dd1be95edc3147d0a97563a934b0916718addfa720248911.html",
+  "text_path": "data/geopolitics/raw/f56945f9be170c80dd1be95edc3147d0a97563a934b0916718addfa720248911.txt"
 }
