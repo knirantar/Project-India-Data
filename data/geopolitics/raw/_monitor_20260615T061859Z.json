@@ -1,0 +1,114 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-15T06:18:59.944544+00:00",
+  "new_documents": 17,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.txt",
+      "metadata_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Macron frames Évian G7 agenda in hope Trump will stay for whole summit",
+      "url": "https://www.theguardian.com/world/2026/jun/15/macron-evian-g7-agenda-summit-trump",
+      "text_path": "data/geopolitics/raw/153c0a4225c419c6cf773ec816ba359da7a2aab9286cabce9c77e49e3c695cad.txt",
+      "metadata_path": "data/geopolitics/raw/153c0a4225c419c6cf773ec816ba359da7a2aab9286cabce9c77e49e3c695cad.json"
+    },
+    {
+      "title": "Middle East live: Macron says G7 leaders to discuss 'long-term reopening' of Hormuz strait",
+      "url": "https://www.france24.com/en/middle-east/20260615-middle-east-live-trump-to-meet-with-g7-leaders-following-announcement-of-memorandum-with-iran",
+      "text_path": "data/geopolitics/raw/496ab61fc13260ecd083a48564054dc407831505e12ebbfe393b30aad5333494.txt",
+      "metadata_path": "data/geopolitics/raw/496ab61fc13260ecd083a48564054dc407831505e12ebbfe393b30aad5333494.json"
+    },
+    {
+      "title": "Kyiv monastery set on fire in night of Russian attacks across Ukraine",
+      "url": "https://www.theguardian.com/world/2026/jun/15/kyiv-pechersk-lavra-monastery-on-fire-russian-attacks-ukraine",
+      "text_path": "data/geopolitics/raw/99afa8c1dec4a188a8c6f3a745c25dc01a3a23c797bd2663fcff8448838ccf99.txt",
+      "metadata_path": "data/geopolitics/raw/99afa8c1dec4a188a8c6f3a745c25dc01a3a23c797bd2663fcff8448838ccf99.json"
+    },
+    {
+      "title": "Oil prices tumble amid hopes strait of Hormuz will soon reopen",
+      "url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal",
+      "text_path": "data/geopolitics/raw/4f1b47e9f2e08ced8346d75dc6b1ab47148adecebf379fc5aea0879199bfbd8a.txt",
+      "metadata_path": "data/geopolitics/raw/4f1b47e9f2e08ced8346d75dc6b1ab47148adecebf379fc5aea0879199bfbd8a.json"
+    },
+    {
+      "title": "The End of the U.S.-Israel Alliance",
+      "url": "https://foreignpolicy.com/2026/06/15/israel-united-states-special-relationship-palestine-netanyahu-trump/",
+      "text_path": "data/geopolitics/raw/0e5b36ef1dc7d6cd454a529e5025be9655a2c26a592b235e76b9a9a3d9889377.txt",
+      "metadata_path": "data/geopolitics/raw/0e5b36ef1dc7d6cd454a529e5025be9655a2c26a592b235e76b9a9a3d9889377.json"
+    },
+    {
+      "title": "Stock markets soar, oil falls as US, Iran confirm deal to end war",
+      "url": "https://www.aljazeera.com/economy/2026/6/15/stock-markets-soar-oil-falls-as-us-iran-confirm-deal-to-end-war?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/dc428e7dabff5c06b6a8dddf3b910f91510173cfb0a8d497f630474da83abbc7.txt",
+      "metadata_path": "data/geopolitics/raw/dc428e7dabff5c06b6a8dddf3b910f91510173cfb0a8d497f630474da83abbc7.json"
+    },
+    {
+      "title": "Introducing the Summer 2026 Print Issue",
+      "url": "https://foreignpolicy.com/2026/06/15/end-of-israel-alliance-climate-politics-asylum-transatlantic-nato-neoliberalism-print-magazine/",
+      "text_path": "data/geopolitics/raw/69a723a751a7a5720bc65523b82f2d947e5b269e11e2459294ad1259b3c4bdc8.txt",
+      "metadata_path": "data/geopolitics/raw/69a723a751a7a5720bc65523b82f2d947e5b269e11e2459294ad1259b3c4bdc8.json"
+    }
+  ],
+  "txt_before": 974,
+  "txt_after": 981
+}
