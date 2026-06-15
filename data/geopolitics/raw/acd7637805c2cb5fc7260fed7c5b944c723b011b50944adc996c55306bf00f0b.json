@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-15T17:56:08.800208+00:00",
-  "text_chars": 9080594,
-  "raw_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.xml",
-  "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt"
+  "url": "https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou/",
+  "title": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Mon, 15 Jun 2026 16:54:45 +0000",
+  "sha256": "acd7637805c2cb5fc7260fed7c5b944c723b011b50944adc996c55306bf00f0b",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-15T17:56:18.162931+00:00",
+  "text_chars": 8341,
+  "raw_path": "data/geopolitics/raw/acd7637805c2cb5fc7260fed7c5b944c723b011b50944adc996c55306bf00f0b.html",
+  "text_path": "data/geopolitics/raw/acd7637805c2cb5fc7260fed7c5b944c723b011b50944adc996c55306bf00f0b.txt"
 }

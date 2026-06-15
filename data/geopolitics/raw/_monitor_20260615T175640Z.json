@@ -1,0 +1,132 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-15T17:56:40.280110+00:00",
+  "new_documents": 20,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "US-Iran ceasefire offers welcome respite but true peace looks distant as ever",
+      "url": "https://www.theguardian.com/world/2026/jun/15/us-iran-ceasefire-respite-true-peace-distant",
+      "text_path": "data/geopolitics/raw/80f5721c2cb301f7cc7da00583b99dcb18ad35af399bb31849949252e4ea1a20.txt",
+      "metadata_path": "data/geopolitics/raw/80f5721c2cb301f7cc7da00583b99dcb18ad35af399bb31849949252e4ea1a20.json"
+    },
+    {
+      "title": "What We Do and Don’t Know About the U.S.-Iran Peace Deal",
+      "url": "https://foreignpolicy.com/2026/06/15/us-iran-peace-deal-trump-nuclear-sanctions-war-israel-lebanon-mou/",
+      "text_path": "data/geopolitics/raw/acd7637805c2cb5fc7260fed7c5b944c723b011b50944adc996c55306bf00f0b.txt",
+      "metadata_path": "data/geopolitics/raw/acd7637805c2cb5fc7260fed7c5b944c723b011b50944adc996c55306bf00f0b.json"
+    },
+    {
+      "title": "Ukraine: Latest Russian attack kills civilians, damages cultural landmark",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167718",
+      "text_path": "data/geopolitics/raw/13ae84c1b24fcd648e8b5d245e2ac441b555a77cdcc57bcbf76f7caca9b8cb17.txt",
+      "metadata_path": "data/geopolitics/raw/13ae84c1b24fcd648e8b5d245e2ac441b555a77cdcc57bcbf76f7caca9b8cb17.json"
+    },
+    {
+      "title": "While world waits for details on Iran-US accord, UN calls for Hormuz aid corridor",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167717",
+      "text_path": "data/geopolitics/raw/ee639ad0662fbdd20849ad7f848ce9e27d054adc349930780dfb06fac6201a6a.txt",
+      "metadata_path": "data/geopolitics/raw/ee639ad0662fbdd20849ad7f848ce9e27d054adc349930780dfb06fac6201a6a.json"
+    },
+    {
+      "title": "Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/03-03-2026-Unsplash-Iran-Tehran-04.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/fce869e65545893cd74a3d89df9b3890019a35be39c5a7c51c438890d2b035f3.txt",
+      "metadata_path": "data/geopolitics/raw/fce869e65545893cd74a3d89df9b3890019a35be39c5a7c51c438890d2b035f3.json"
+    },
+    {
+      "title": "Bangladesh-Turkiye Defense Cooperation Grows to Include Joint Production",
+      "url": "https://thediplomat.com/2026/06/bangladesh-turkiyes-defense-cooperation-grows-to-include-joint-production/",
+      "text_path": "data/geopolitics/raw/e50cbde9325124b192beb34e5b2d5aaff1dc6771ee6258ef401e2b267ce4b533.txt",
+      "metadata_path": "data/geopolitics/raw/e50cbde9325124b192beb34e5b2d5aaff1dc6771ee6258ef401e2b267ce4b533.json"
+    },
+    {
+      "title": "Russian strategic bomber crashes in Siberia during training exercise",
+      "url": "https://www.defensenews.com/global/europe/2026/06/15/russian-strategic-bomber-crashes-in-siberia-during-training-exercise/",
+      "text_path": "data/geopolitics/raw/278495312e273be86153dcf8dae1df5896dfb741b38a960819539d53cf95dec8.txt",
+      "metadata_path": "data/geopolitics/raw/278495312e273be86153dcf8dae1df5896dfb741b38a960819539d53cf95dec8.json"
+    },
+    {
+      "title": "Iran, US agree to halt war and reopen Hormuz",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/15/iran-us-agree-to-halt-war-and-reopen-hormuz/",
+      "text_path": "data/geopolitics/raw/aeea928d21aea75b7ed90c5f328e9dade4a9bd47f446d767d50198267f29368b.txt",
+      "metadata_path": "data/geopolitics/raw/aeea928d21aea75b7ed90c5f328e9dade4a9bd47f446d767d50198267f29368b.json"
+    },
+    {
+      "title": "Ukraine: Latest Russian attacks kill civilians, damages cultural landmark (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/11-03-2026-UNOCHA-Ukraine-03.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/5ef45253a004dbc79e74af602b093a9eadea945ca0c0beea03ddb003b8e35ff0.txt",
+      "metadata_path": "data/geopolitics/raw/5ef45253a004dbc79e74af602b093a9eadea945ca0c0beea03ddb003b8e35ff0.json"
+    },
+    {
+      "title": "Oil and gas unlikely to return to prewar prices for months even if Hormuz reopens",
+      "url": "https://www.theguardian.com/business/2026/jun/15/return-pre-crisis-oil-gas-supplies-months-away-iran-strait-of-hormuz",
+      "text_path": "data/geopolitics/raw/7b181992e75905667e6377322a98f7f10d1cd70550f88b61889e76fffae84a24.txt",
+      "metadata_path": "data/geopolitics/raw/7b181992e75905667e6377322a98f7f10d1cd70550f88b61889e76fffae84a24.json"
+    },
+    {
+      "title": "Ukraine: Latest Russian attack kills civilians, damages cultural landmark (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/15-06-2026-UNOCHA-Ukraine-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/bed615799e69130236d15a4425f7b1861861b2acdf3f5361ef997f17e8e37e34.txt",
+      "metadata_path": "data/geopolitics/raw/bed615799e69130236d15a4425f7b1861861b2acdf3f5361ef997f17e8e37e34.json"
+    },
+    {
+      "title": "Strait of Hormuz reopening won't end shipping risks",
+      "url": "https://www.dw.com/en/strait-of-hormuz-reopening-won-t-end-shipping-risks/a-77553214?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/952eaf6f073e543d2641272af961f7c5e08e763224c3d5f4bfb33cc71fbe4e73.txt",
+      "metadata_path": "data/geopolitics/raw/952eaf6f073e543d2641272af961f7c5e08e763224c3d5f4bfb33cc71fbe4e73.json"
+    }
+  ],
+  "txt_before": 1002,
+  "txt_after": 1014
+}

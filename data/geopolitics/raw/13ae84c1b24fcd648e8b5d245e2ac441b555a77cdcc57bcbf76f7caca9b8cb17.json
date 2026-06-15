@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-15T17:56:08.800208+00:00",
-  "text_chars": 9080594,
-  "raw_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.xml",
-  "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167718",
+  "title": "Ukraine: Latest Russian attack kills civilians, damages cultural landmark",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Mon, 15 Jun 2026 12:00:00 +0000",
+  "sha256": "13ae84c1b24fcd648e8b5d245e2ac441b555a77cdcc57bcbf76f7caca9b8cb17",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-15T17:56:31.508041+00:00",
+  "text_chars": 3046,
+  "raw_path": "data/geopolitics/raw/13ae84c1b24fcd648e8b5d245e2ac441b555a77cdcc57bcbf76f7caca9b8cb17.html",
+  "text_path": "data/geopolitics/raw/13ae84c1b24fcd648e8b5d245e2ac441b555a77cdcc57bcbf76f7caca9b8cb17.txt"
 }
