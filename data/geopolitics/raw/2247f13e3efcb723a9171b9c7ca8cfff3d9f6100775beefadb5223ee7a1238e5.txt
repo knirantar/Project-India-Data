@@ -1,0 +1,11 @@
+PARIS — France is working on a “kill web” to connect sensors and weapon systems on the battlefield for faster decision making and firing, similar to Ukraine’s Delta system, according to the head of the French Army’s technical section STAT.
+The kill web will initially be built around France’s 
+Atlas artillery-weapon system
+ provided by Thales, with the intention to expand “to enable dynamic targeting,” according to Gen. Olivier Coquet, who heads the section, in a briefing with reporters here at the Eurosatory defense show on Sunday. He said the kill web will be part of the broader 
+Arcadia
+ AI-powered battlefield command and control structure.
+“Just like the Ukrainians are doing we want to set up a kill web as quickly as possible,” Coquet said. “In other words, shorten the sensor-to-effector loops so we can fire faster and make decisions faster. That’s already underway.”
+With Delta, Ukraine has developed a battlefield awareness system built on a network of drones, satellites, artillery and command, allowing its forces to engage targets via multiple pathways rather than follow a traditional linear kill chain. It’s a concept France has already been exploring with its Scorpion program of digitally connected armored vehicles.
+Coquet described Arcadia as a combination of multiple programs, including the kill web. The purpose of Arcadia is interoperability between allied command systems, said Gen. Philippe de Montenon, the commander of the French land forces and operations, in the same briefing.
+“This is a major challenge we need to resolve in the very short term, ensuring that what we call our combat clouds can communicate with one another,” de Montenon said.
+Rudy Ruitenberg is a Europe correspondent for Defense News. He started his career at Bloomberg News and has experience reporting on technology, commodity markets and politics.

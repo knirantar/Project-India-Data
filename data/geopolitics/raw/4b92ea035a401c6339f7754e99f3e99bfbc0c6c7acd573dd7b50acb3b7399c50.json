@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-15T12:59:42.423301+00:00",
-  "text_chars": 6187025,
-  "raw_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json.raw",
-  "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt"
+  "url": "https://thediplomat.com/2026/06/the-geopolitics-of-china-israel-trade-and-investment/",
+  "title": "The Geopolitics of China-Israel Trade and Investment",
+  "source": "https://thediplomat.com/feed/",
+  "published": "Fri, 12 Jun 2026 02:38:00 +0900",
+  "sha256": "4b92ea035a401c6339f7754e99f3e99bfbc0c6c7acd573dd7b50acb3b7399c50",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-15T13:00:39.483343+00:00",
+  "text_chars": 7196,
+  "raw_path": "data/geopolitics/raw/4b92ea035a401c6339f7754e99f3e99bfbc0c6c7acd573dd7b50acb3b7399c50.html",
+  "text_path": "data/geopolitics/raw/4b92ea035a401c6339f7754e99f3e99bfbc0c6c7acd573dd7b50acb3b7399c50.txt"
 }

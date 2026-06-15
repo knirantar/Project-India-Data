@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-15T13:00:16.317610+00:00",
-  "text_chars": 9080594,
-  "raw_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.xml",
-  "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt"
+  "url": "https://thediplomat.com/2026/06/philippine-defense-secretary-vows-to-defend-nations-interests-after-china-sanctions/",
+  "title": "Philippine Defense Secretary Vows to Defend Nation’s Interests After China Sanctions",
+  "source": "https://thediplomat.com/feed/",
+  "published": "Fri, 12 Jun 2026 13:52:00 +0900",
+  "sha256": "0eaab5e51aac353a45d6147fc67fac4d601e27cbbf958020b0549924b146daf9",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-15T13:00:39.553638+00:00",
+  "text_chars": 4110,
+  "raw_path": "data/geopolitics/raw/0eaab5e51aac353a45d6147fc67fac4d601e27cbbf958020b0549924b146daf9.html",
+  "text_path": "data/geopolitics/raw/0eaab5e51aac353a45d6147fc67fac4d601e27cbbf958020b0549924b146daf9.txt"
 }

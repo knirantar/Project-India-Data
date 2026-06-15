@@ -1,0 +1,186 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-15T13:00:47.371093+00:00",
+  "new_documents": 29,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.txt",
+      "metadata_path": "data/geopolitics/raw/2492e73203d1bdff96758d502b75553c1b627f7231412c0b34eee989f5af6a6e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "US and Iran reach framework peace deal to end war | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/jun/15/first-thing-us-and-iran-reach-framework-peace-deal-to-end-war",
+      "text_path": "data/geopolitics/raw/44601443f891b2ae93f0e1b8e2328d2cd546824317186dc0c3a81c2f2322637e.txt",
+      "metadata_path": "data/geopolitics/raw/44601443f891b2ae93f0e1b8e2328d2cd546824317186dc0c3a81c2f2322637e.json"
+    },
+    {
+      "title": "US and Iran reach framework peace deal to end war",
+      "url": "https://www.theguardian.com/world/2026/jun/14/trump-calls-for-restraint-israel-airstrikes-beirut-us-iran-peace-deal",
+      "text_path": "data/geopolitics/raw/cc4850d62f48d409ddbc21f197a5141678dea45e7903c7d36293a2b3471ab4e5.txt",
+      "metadata_path": "data/geopolitics/raw/cc4850d62f48d409ddbc21f197a5141678dea45e7903c7d36293a2b3471ab4e5.json"
+    },
+    {
+      "title": "Monday briefing: Trump’s late-night deal with Iran",
+      "url": "https://www.theguardian.com/world/2026/jun/15/switzerland-anti-immigration-referendum-vote-rejected-population-cap-10-million",
+      "text_path": "data/geopolitics/raw/8c0355d95021fa3251d8d995a34b73df48a36dc52d24726bf058a7d78cd6d2c9.txt",
+      "metadata_path": "data/geopolitics/raw/8c0355d95021fa3251d8d995a34b73df48a36dc52d24726bf058a7d78cd6d2c9.json"
+    },
+    {
+      "title": "Spain’s prime minister faces difficult week as wife and ex-PM summoned before judges",
+      "url": "https://www.theguardian.com/world/2026/jun/15/spain-pedro-sanchez-begona-gomez-jose-luis-rodriguez-zapatero-trial",
+      "text_path": "data/geopolitics/raw/78cbae6ba63b9bc2f990ba6bdf64cfc41a46095e57fdb7e6f5af1c96d289086e.txt",
+      "metadata_path": "data/geopolitics/raw/78cbae6ba63b9bc2f990ba6bdf64cfc41a46095e57fdb7e6f5af1c96d289086e.json"
+    },
+    {
+      "title": "U.S. and Iran announce a deal to end the war, reopen Strait of Hormuz",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858590/us-iran-deal-updates",
+      "text_path": "data/geopolitics/raw/8143aabad0417d9d7f107649fa4cf4f4b5475437768ae21c23cd9e8d0bc8f8eb.txt",
+      "metadata_path": "data/geopolitics/raw/8143aabad0417d9d7f107649fa4cf4f4b5475437768ae21c23cd9e8d0bc8f8eb.json"
+    },
+    {
+      "title": "Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167716",
+      "text_path": "data/geopolitics/raw/e8b7beeb217818e9b6a6d5a0b3930fe5c3843f31b8d4403cb5cfb9119346620a.txt",
+      "metadata_path": "data/geopolitics/raw/e8b7beeb217818e9b6a6d5a0b3930fe5c3843f31b8d4403cb5cfb9119346620a.json"
+    },
+    {
+      "title": "EU leaders welcome US-Iran deal to end war as Macron says mission to aid Hormuz reopening 'ready'",
+      "url": "http://www.euronews.com/my-europe/2026/06/15/eu-leaders-welcome-us-iran-deal-to-end-war-as-macron-says-mission-to-aid-hormuz-reopening-",
+      "text_path": "data/geopolitics/raw/a798ad6017b1e81696cc17af9f75c0c4e8d9d6d38e0876b285876bfdebc0bb02.txt",
+      "metadata_path": "data/geopolitics/raw/a798ad6017b1e81696cc17af9f75c0c4e8d9d6d38e0876b285876bfdebc0bb02.json"
+    },
+    {
+      "title": "Andrew Hastie compares AI to cold-war nuclear arms race and warns Australia may fall behind",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/15/andrew-hastie-ai-artificial-intelligence-power-cold-war-nuclear-arms-race-comparison-australia",
+      "text_path": "data/geopolitics/raw/0bb00a463ead1ea4082a38fb54949738762c0682bf7242b0c672584b2cf77cc0.txt",
+      "metadata_path": "data/geopolitics/raw/0bb00a463ead1ea4082a38fb54949738762c0682bf7242b0c672584b2cf77cc0.json"
+    },
+    {
+      "title": "Vast Eurosatory weapons showcase gets underway",
+      "url": "https://www.france24.com/en/video/20260615-vast-eurosatory-weapons-showcase-gets-underway",
+      "text_path": "data/geopolitics/raw/c793d5b265d44b5ff789871777d0b62a6f371ad87747ffb1d4a7eeb7eb7abe05.txt",
+      "metadata_path": "data/geopolitics/raw/c793d5b265d44b5ff789871777d0b62a6f371ad87747ffb1d4a7eeb7eb7abe05.json"
+    },
+    {
+      "title": "The West Asia Crisis Realigns Regional Trade Through Pakistan",
+      "url": "https://thediplomat.com/2026/06/the-west-asia-crisis-realigns-regional-trade-through-pakistan/",
+      "text_path": "data/geopolitics/raw/db8423d5999ac00872547edccfd1c0120af60960e978c378d695a6f5092baab8.txt",
+      "metadata_path": "data/geopolitics/raw/db8423d5999ac00872547edccfd1c0120af60960e978c378d695a6f5092baab8.json"
+    },
+    {
+      "title": "Iran, US agree tentative deal to ‘end war’: Your questions answered",
+      "url": "https://www.aljazeera.com/news/2026/6/15/iran-us-agree-tentative-deal-to-end-war-your-questions-answered?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/5554789e4d7273736540e746afb60b7eeff8863689cfa057e7cd1c07054331e9.txt",
+      "metadata_path": "data/geopolitics/raw/5554789e4d7273736540e746afb60b7eeff8863689cfa057e7cd1c07054331e9.json"
+    },
+    {
+      "title": "G7 meeting in France: What’s on agenda, who is attending?",
+      "url": "https://www.aljazeera.com/news/2026/6/15/g7-meeting-in-france-whats-on-agenda-who-is-attending?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/7d2b92ddc919dcaebbf25d6820862b6a55902c088049587762e06526e7ebf04c.txt",
+      "metadata_path": "data/geopolitics/raw/7d2b92ddc919dcaebbf25d6820862b6a55902c088049587762e06526e7ebf04c.json"
+    },
+    {
+      "title": "Iran war day 108: Iran, US reach a tentative deal to end conflict",
+      "url": "https://www.aljazeera.com/news/2026/6/15/iran-war-day-108-iran-us-reach-a-tentative-deal-to-end-conflict?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/403dcdf65b898eabe785211f596af0ccbe5d06b0a8ae6e6225a31a39f2a02dea.txt",
+      "metadata_path": "data/geopolitics/raw/403dcdf65b898eabe785211f596af0ccbe5d06b0a8ae6e6225a31a39f2a02dea.json"
+    },
+    {
+      "title": "Guterres welcomes US-Iran peace deal as ‘critical step’ toward ending conflict (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Graphics%20Library/03-02-2026-NASA-Hormuz.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/9a4eb0b72e734e606d6d54713cf8b01c8424fcabcfe710d72caf38e75b19a9bc.txt",
+      "metadata_path": "data/geopolitics/raw/9a4eb0b72e734e606d6d54713cf8b01c8424fcabcfe710d72caf38e75b19a9bc.json"
+    },
+    {
+      "title": "Philippine Defense Secretary Vows to Defend Nation’s Interests After China Sanctions",
+      "url": "https://thediplomat.com/2026/06/philippine-defense-secretary-vows-to-defend-nations-interests-after-china-sanctions/",
+      "text_path": "data/geopolitics/raw/0eaab5e51aac353a45d6147fc67fac4d601e27cbbf958020b0549924b146daf9.txt",
+      "metadata_path": "data/geopolitics/raw/0eaab5e51aac353a45d6147fc67fac4d601e27cbbf958020b0549924b146daf9.json"
+    },
+    {
+      "title": "The Geopolitics of China-Israel Trade and Investment",
+      "url": "https://thediplomat.com/2026/06/the-geopolitics-of-china-israel-trade-and-investment/",
+      "text_path": "data/geopolitics/raw/4b92ea035a401c6339f7754e99f3e99bfbc0c6c7acd573dd7b50acb3b7399c50.txt",
+      "metadata_path": "data/geopolitics/raw/4b92ea035a401c6339f7754e99f3e99bfbc0c6c7acd573dd7b50acb3b7399c50.json"
+    },
+    {
+      "title": "Under Trump 2.0, the Quad’s Real Challenge to China Is Economic, Not Military",
+      "url": "https://thediplomat.com/2026/06/under-trump-2-0-the-quads-real-challenge-to-china-is-economic-not-military/",
+      "text_path": "data/geopolitics/raw/b76b63913b80c255f90a7953a32a2c8e849eb5cab670112c6a519fe45b676edc.txt",
+      "metadata_path": "data/geopolitics/raw/b76b63913b80c255f90a7953a32a2c8e849eb5cab670112c6a519fe45b676edc.json"
+    },
+    {
+      "title": "France prepares Ukraine-inspired ‘kill web’ for battlefield awareness",
+      "url": "https://www.defensenews.com/global/europe/2026/06/15/france-prepares-ukraine-inspired-kill-web-for-battlefield-awareness/",
+      "text_path": "data/geopolitics/raw/2247f13e3efcb723a9171b9c7ca8cfff3d9f6100775beefadb5223ee7a1238e5.txt",
+      "metadata_path": "data/geopolitics/raw/2247f13e3efcb723a9171b9c7ca8cfff3d9f6100775beefadb5223ee7a1238e5.json"
+    },
+    {
+      "title": "French army shows Leclerc tank with once-mocked anti-drone cage",
+      "url": "https://www.defensenews.com/global/europe/2026/06/15/french-army-shows-leclerc-tank-with-once-mocked-anti-drone-cage/",
+      "text_path": "data/geopolitics/raw/c3cf42c18e0cc8faffc0c1d8b96708b77c43c889dcc0b64e01ce8ea5789308a2.txt",
+      "metadata_path": "data/geopolitics/raw/c3cf42c18e0cc8faffc0c1d8b96708b77c43c889dcc0b64e01ce8ea5789308a2.json"
+    },
+    {
+      "title": "Fighter at Donald Trump’s White House UFC event smears Michelle Obama during interview – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/15/donald-trump-ufc-white-house-michelle-obama-g7-iran-peace-deal-us-politics-latest-news-updates",
+      "text_path": "data/geopolitics/raw/f6672525f80e93b1b38430ea9e95e4e7657ed04b1c396487661d0f6301b99fe0.txt",
+      "metadata_path": "data/geopolitics/raw/f6672525f80e93b1b38430ea9e95e4e7657ed04b1c396487661d0f6301b99fe0.json"
+    },
+    {
+      "title": "China, India, and the Emerging Green Divide",
+      "url": "https://thediplomat.com/2026/06/china-india-and-the-emerging-green-divide/",
+      "text_path": "data/geopolitics/raw/aa038beecbaab09a130f2fb9a8013ed753ab5cbc4295d5e23117c04e22f41653.txt",
+      "metadata_path": "data/geopolitics/raw/aa038beecbaab09a130f2fb9a8013ed753ab5cbc4295d5e23117c04e22f41653.json"
+    }
+  ],
+  "txt_before": 981,
+  "txt_after": 1002
+}
