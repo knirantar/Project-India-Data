@@ -1,0 +1,156 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-16T22:51:51.036394+00:00",
+  "new_documents": 24,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.txt",
+      "metadata_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "What Will China Learn From the Iran War?",
+      "url": "https://foreignpolicy.com/2026/06/16/china-iran-war-lessons-energy-oil-diplomacy/",
+      "text_path": "data/geopolitics/raw/11205beffd44dfea4f656bc77358e67aae030a0ab22d36c26ee3716469936d04.txt",
+      "metadata_path": "data/geopolitics/raw/11205beffd44dfea4f656bc77358e67aae030a0ab22d36c26ee3716469936d04.json"
+    },
+    {
+      "title": "Trump Puts Russia-Ukraine War on the Back Burner",
+      "url": "https://foreignpolicy.com/2026/06/16/trump-g7-summit-russia-ukraine-zelensky-iran-war/",
+      "text_path": "data/geopolitics/raw/41d32b32aa0902dc19853c5b19b0e687bb00674aefc354c9ce2b32dfda44068e.txt",
+      "metadata_path": "data/geopolitics/raw/41d32b32aa0902dc19853c5b19b0e687bb00674aefc354c9ce2b32dfda44068e.json"
+    },
+    {
+      "title": "Press Release: Government of South Sudan and United Nations reaffirm commitment to support 60,000 displaced people achieve sustainable solutions by end of 2026",
+      "url": "https://reliefweb.int/report/south-sudan/press-release-government-south-sudan-and-united-nations-reaffirm-commitment-support-60000-displaced-people-achieve-sustainable-solutions-end-2026",
+      "text_path": "data/geopolitics/raw/8c4a04b82b75dee808dc21e7ba4ac9dcf30fdbc96843bced2fdf9be4e64f9cee.txt",
+      "metadata_path": "data/geopolitics/raw/8c4a04b82b75dee808dc21e7ba4ac9dcf30fdbc96843bced2fdf9be4e64f9cee.json"
+    },
+    {
+      "title": "Press Release: Government of South Sudan and United Nations reaffirm commitment to support 60,000 displaced people achieve sustainable solutions by end of 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/f3d81173-f61b-435e-9e40-3439b79f64b8/SouthSudan_DurableSolutions_PR_June2026.pdf",
+      "text_path": "data/geopolitics/raw/a0741698db2c910dc8b14d2b7b92e5c0f2d006c002ccd2ea614dafcafa4f8883.txt",
+      "metadata_path": "data/geopolitics/raw/a0741698db2c910dc8b14d2b7b92e5c0f2d006c002ccd2ea614dafcafa4f8883.json"
+    },
+    {
+      "title": "Malnutrition admissions are overwhelming Baidoa Hospital in Somalia",
+      "url": "https://reliefweb.int/report/somalia/malnutrition-admissions-are-overwhelming-baidoa-hospital-somalia",
+      "text_path": "data/geopolitics/raw/f49c0d11f9a1cb9f2d64e27cb309ab3acf6d277db9e7fe6e72dc34c5db49168e.txt",
+      "metadata_path": "data/geopolitics/raw/f49c0d11f9a1cb9f2d64e27cb309ab3acf6d277db9e7fe6e72dc34c5db49168e.json"
+    },
+    {
+      "title": "UN urges adherence to mine ban treaty (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/22-06-2023-FAO_Ukraine.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/cb233f7e8a10fb26b2acaf0770053cd0ceb8676547142937a791531b8ee2ac13.txt",
+      "metadata_path": "data/geopolitics/raw/cb233f7e8a10fb26b2acaf0770053cd0ceb8676547142937a791531b8ee2ac13.json"
+    },
+    {
+      "title": "Resettlement remains out of reach for millions of refugees",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167729",
+      "text_path": "data/geopolitics/raw/81cb1351acfde9d95f44777d6946cc0387b0cffe9fd0144216313d865c2d6e24.txt",
+      "metadata_path": "data/geopolitics/raw/81cb1351acfde9d95f44777d6946cc0387b0cffe9fd0144216313d865c2d6e24.json"
+    },
+    {
+      "title": "France: MSF launches a new project in the Dunkirk area for migrant women",
+      "url": "https://reliefweb.int/report/france/france-msf-launches-new-project-dunkirk-area-migrant-women",
+      "text_path": "data/geopolitics/raw/7dacfc17471d20d6379c1bb52da0cf2e965ee42a65a76a671c7c5478afb3428c.txt",
+      "metadata_path": "data/geopolitics/raw/7dacfc17471d20d6379c1bb52da0cf2e965ee42a65a76a671c7c5478afb3428c.json"
+    },
+    {
+      "title": "Suriname advances toward a national early warning system that protects everyone, in time",
+      "url": "https://reliefweb.int/report/suriname/suriname-advances-toward-national-early-warning-system-protects-everyone-time",
+      "text_path": "data/geopolitics/raw/1ba79fb49e84c648234becbca1b8640a73f318736b1e44763fd6d78e796b1222.txt",
+      "metadata_path": "data/geopolitics/raw/1ba79fb49e84c648234becbca1b8640a73f318736b1e44763fd6d78e796b1222.json"
+    },
+    {
+      "title": "Indonesia: Flash Update: No. 1 – M6.7 Earthquake in Palu, Central Sulawesi – 16 June 2026",
+      "url": "https://reliefweb.int/report/indonesia/flash-update-no-1-m67-earthquake-palu-central-sulawesi-16-june-2026",
+      "text_path": "data/geopolitics/raw/6ac6ba2bf5b8949f4df33a7ec7453858076270a137eb0407c43d12c92996792f.txt",
+      "metadata_path": "data/geopolitics/raw/6ac6ba2bf5b8949f4df33a7ec7453858076270a137eb0407c43d12c92996792f.json"
+    },
+    {
+      "title": "Indonesia: Flash Update: No. 1 – M6.7 Earthquake in Palu, Central Sulawesi – 16 June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/5b5bc626-837c-4751-b31e-0d1c1f1e42d0/FlashUpdate_01_16JUNE2026-EQ-IDN.pdf",
+      "text_path": "data/geopolitics/raw/4c1d6739d852bc8f2ae37e577b9cffb1309260cc384dabe44506deef530ed392.txt",
+      "metadata_path": "data/geopolitics/raw/4c1d6739d852bc8f2ae37e577b9cffb1309260cc384dabe44506deef530ed392.json"
+    },
+    {
+      "title": "Syria: Legal limbo leaves millions without proof of identity or property rights | NRC",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/syria-legal-limbo-leaves-millions-without-proof-identity-or-property-rights-nrc",
+      "text_path": "data/geopolitics/raw/eea308545fb9b0a6d94113328bffb7051b46475b015053fa67aaceb69fe1f952.txt",
+      "metadata_path": "data/geopolitics/raw/eea308545fb9b0a6d94113328bffb7051b46475b015053fa67aaceb69fe1f952.json"
+    },
+    {
+      "title": "Standard Operating Procedures for Livelihood and Economic Inclusion - South Sudan",
+      "url": "https://reliefweb.int/report/south-sudan/standard-operating-procedures-livelihood-and-economic-inclusion-south-sudan",
+      "text_path": "data/geopolitics/raw/2154387ee2479a24663f82f410dfbb92736da42d0f691de8ef72de6974f1d201.txt",
+      "metadata_path": "data/geopolitics/raw/2154387ee2479a24663f82f410dfbb92736da42d0f691de8ef72de6974f1d201.json"
+    },
+    {
+      "title": "Standard Operating Procedures for Livelihood and Economic Inclusion - South Sudan (pdf)",
+      "url": "https://reliefweb.int/attachments/10aa302b-9dc4-5355-8d10-cd5a566b88d4/UNHCR%20SOPs%20for%20Livelihood%20and%20Economic%20Inclusion%20-%20South%20Sudan.pdf",
+      "text_path": "data/geopolitics/raw/2cc705658b4fe6b128c43c076e141e8c849d60c257f309a16a032232930a4e7e.txt",
+      "metadata_path": "data/geopolitics/raw/2cc705658b4fe6b128c43c076e141e8c849d60c257f309a16a032232930a4e7e.json"
+    }
+  ],
+  "txt_before": 1062,
+  "txt_after": 1076
+}

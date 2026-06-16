@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/10aa302b-9dc4-5355-8d10-cd5a566b88d4/UNHCR%20SOPs%20for%20Livelihood%20and%20Economic%20Inclusion%20-%20South%20Sudan.pdf",
+  "title": "Standard Operating Procedures for Livelihood and Economic Inclusion - South Sudan (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 16 Jun 2026 12:03:17 +0000",
+  "sha256": "2cc705658b4fe6b128c43c076e141e8c849d60c257f309a16a032232930a4e7e",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-16T22:51:19.272492+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-16T22:51:51.019387+00:00",
+  "text_chars": 34344,
+  "raw_path": "data/geopolitics/raw/2cc705658b4fe6b128c43c076e141e8c849d60c257f309a16a032232930a4e7e.pdf",
+  "text_path": "data/geopolitics/raw/2cc705658b4fe6b128c43c076e141e8c849d60c257f309a16a032232930a4e7e.txt"
 }

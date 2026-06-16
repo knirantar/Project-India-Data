@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/f3d81173-f61b-435e-9e40-3439b79f64b8/SouthSudan_DurableSolutions_PR_June2026.pdf",
+  "title": "Press Release: Government of South Sudan and United Nations reaffirm commitment to support 60,000 displaced people achieve sustainable solutions by end of 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 16 Jun 2026 12:04:31 +0000",
+  "sha256": "a0741698db2c910dc8b14d2b7b92e5c0f2d006c002ccd2ea614dafcafa4f8883",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-16T22:51:19.272492+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-16T22:51:27.860762+00:00",
+  "text_chars": 4420,
+  "raw_path": "data/geopolitics/raw/a0741698db2c910dc8b14d2b7b92e5c0f2d006c002ccd2ea614dafcafa4f8883.pdf",
+  "text_path": "data/geopolitics/raw/a0741698db2c910dc8b14d2b7b92e5c0f2d006c002ccd2ea614dafcafa4f8883.txt"
 }
