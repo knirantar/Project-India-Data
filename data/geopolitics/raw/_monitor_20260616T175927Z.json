@@ -1,0 +1,126 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-16T17:59:27.571489+00:00",
+  "new_documents": 19,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.txt",
+      "metadata_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Everyone Lost the War With Iran",
+      "url": "https://foreignpolicy.com/2026/06/16/iran-war-trump-gulf-china-russia-israel-ceasefire-deal/",
+      "text_path": "data/geopolitics/raw/0fac9b24dd077939094f4fbf0066808625b4c5f22fb85445aec8f6f0160ff268.txt",
+      "metadata_path": "data/geopolitics/raw/0fac9b24dd077939094f4fbf0066808625b4c5f22fb85445aec8f6f0160ff268.json"
+    },
+    {
+      "title": "US and Iran deal to end war allows Tehran to sell oil and fuel – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jun/16/iran-us-deal-trump-vance-strait-hormuz-israel-lebanon-middle-east-latest-news-updates",
+      "text_path": "data/geopolitics/raw/2580120ef82e4e6021cba1d2114fb4a6147546fa5c19bf139ca57e0da3da07db.txt",
+      "metadata_path": "data/geopolitics/raw/2580120ef82e4e6021cba1d2114fb4a6147546fa5c19bf139ca57e0da3da07db.json"
+    },
+    {
+      "title": "Does the Iran war diminish US superpower status?",
+      "url": "https://www.dw.com/en/does-the-iran-war-diminish-us-superpower-status/a-77577337?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/a187a945c85f0e634b17a09ec69660a331ebc9789d4b985ea9ed659926734ae6.txt",
+      "metadata_path": "data/geopolitics/raw/a187a945c85f0e634b17a09ec69660a331ebc9789d4b985ea9ed659926734ae6.json"
+    },
+    {
+      "title": "UN officials call for urgent action in Yemen to push peace, reduce hunger",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167728",
+      "text_path": "data/geopolitics/raw/21c03d6c2acdefcec49e60dd631e26bfa9db753115ff90f143fea612e02d6e49.txt",
+      "metadata_path": "data/geopolitics/raw/21c03d6c2acdefcec49e60dd631e26bfa9db753115ff90f143fea612e02d6e49.json"
+    },
+    {
+      "title": "It’s Time for the United States to Leave the Middle East",
+      "url": "https://foreignpolicy.com/2026/06/16/iran-united-states-war-middle-east-israel/",
+      "text_path": "data/geopolitics/raw/3b639a9a31e9f5b8d4a3d56c439ad6cfca96def39d949ec4d1244fcbca2cb867.txt",
+      "metadata_path": "data/geopolitics/raw/3b639a9a31e9f5b8d4a3d56c439ad6cfca96def39d949ec4d1244fcbca2cb867.json"
+    },
+    {
+      "title": "MBDA advances land version of its naval missile as European strike weapon",
+      "url": "https://www.defensenews.com/global/europe/2026/06/16/mbda-advances-land-version-of-its-naval-missile-as-european-strike-weapon/",
+      "text_path": "data/geopolitics/raw/e021bb7b0e2a875e421a265c97e62206281e5357c0da45a77369f1759bb5c69d.txt",
+      "metadata_path": "data/geopolitics/raw/e021bb7b0e2a875e421a265c97e62206281e5357c0da45a77369f1759bb5c69d.json"
+    },
+    {
+      "title": "UN officials call for urgent action in Yemen to push peace, reduce hunger (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-10-2024-UNDP-Yemen-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/2c2733c857d565f56770fabd31dea27d6625dcc49933d89f03d9430f1d84d04c.txt",
+      "metadata_path": "data/geopolitics/raw/2c2733c857d565f56770fabd31dea27d6625dcc49933d89f03d9430f1d84d04c.json"
+    },
+    {
+      "title": "How Germany and Poland rebooted relations 35 years ago",
+      "url": "https://www.dw.com/en/how-germany-and-poland-rebooted-relations-35-years-ago/a-77576779?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/7a24a8769eb95657efe4ca3f446071357532e2bf54d7f53313002045ec8e944f.txt",
+      "metadata_path": "data/geopolitics/raw/7a24a8769eb95657efe4ca3f446071357532e2bf54d7f53313002045ec8e944f.json"
+    },
+    {
+      "title": "Rheinmetall pitches shipping container that can spit out swarms of attack drones",
+      "url": "https://www.defensenews.com/global/europe/2026/06/16/rheinmetall-pitches-shipping-container-that-can-spit-out-swarms-of-attack-drones/",
+      "text_path": "data/geopolitics/raw/be880ae34eda4e94cfae481d808d4dda9efc7f363c11b981ecbeb2d7856c1882.txt",
+      "metadata_path": "data/geopolitics/raw/be880ae34eda4e94cfae481d808d4dda9efc7f363c11b981ecbeb2d7856c1882.json"
+    }
+  ],
+  "txt_before": 1052,
+  "txt_after": 1061
+}

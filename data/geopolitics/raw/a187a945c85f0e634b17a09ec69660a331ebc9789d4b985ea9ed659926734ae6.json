@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-16T17:58:05.297732+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://www.dw.com/en/does-the-iran-war-diminish-us-superpower-status/a-77577337?maca=en-rss-en-world-4025-rdf",
+  "title": "Does the Iran war diminish US superpower status?",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-06-16T12:27:00Z",
+  "sha256": "a187a945c85f0e634b17a09ec69660a331ebc9789d4b985ea9ed659926734ae6",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-06-16T17:59:01.549796+00:00",
+  "text_chars": 7485,
+  "raw_path": "data/geopolitics/raw/a187a945c85f0e634b17a09ec69660a331ebc9789d4b985ea9ed659926734ae6.html",
+  "text_path": "data/geopolitics/raw/a187a945c85f0e634b17a09ec69660a331ebc9789d4b985ea9ed659926734ae6.txt"
 }

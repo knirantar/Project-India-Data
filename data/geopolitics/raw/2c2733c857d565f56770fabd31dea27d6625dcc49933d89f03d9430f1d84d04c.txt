@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: UN officials call for urgent action in Yemen to push peace, reduce hunger (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-10-2024-UNDP-Yemen-01.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 34626
