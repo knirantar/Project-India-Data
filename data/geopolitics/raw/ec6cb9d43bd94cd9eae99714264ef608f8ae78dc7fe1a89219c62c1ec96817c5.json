@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-16T00:28:51.781350+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.xml",
-  "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt"
+  "url": "https://reliefweb.int/report/sudan/sudan-situation-unhcr-monthly-external-update-117-march-2026",
+  "title": "Sudan Situation: UNHCR Monthly External Update #117 - March 2026",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 15 Jun 2026 14:03:14 +0000",
+  "sha256": "ec6cb9d43bd94cd9eae99714264ef608f8ae78dc7fe1a89219c62c1ec96817c5",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-16T00:29:46.268325+00:00",
+  "text_chars": 4355,
+  "raw_path": "data/geopolitics/raw/ec6cb9d43bd94cd9eae99714264ef608f8ae78dc7fe1a89219c62c1ec96817c5.html",
+  "text_path": "data/geopolitics/raw/ec6cb9d43bd94cd9eae99714264ef608f8ae78dc7fe1a89219c62c1ec96817c5.txt"
 }

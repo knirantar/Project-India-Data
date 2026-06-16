@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/7f3e307f-2faf-47fc-b254-84943c331104/Explosive-Weapons-Monitor-2025.pdf",
+  "title": "World: Explosive Weapons Monitor 2025: Impacts on Humanitarian Aid Access and Delivery (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 15 Jun 2026 13:51:29 +0000",
+  "sha256": "e710ba8d1ecfdeb8a1d5ccf62492919f2445f2293fa765d370a1b1207c5791d9",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-16T00:29:28.860410+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-16T00:29:43.263835+00:00",
+  "text_chars": 120620,
+  "raw_path": "data/geopolitics/raw/e710ba8d1ecfdeb8a1d5ccf62492919f2445f2293fa765d370a1b1207c5791d9.pdf",
+  "text_path": "data/geopolitics/raw/e710ba8d1ecfdeb8a1d5ccf62492919f2445f2293fa765d370a1b1207c5791d9.txt"
 }
