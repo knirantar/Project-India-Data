@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-16T06:27:46.458419+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.xml",
-  "text_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.txt"
+  "url": "https://reliefweb.int/attachments/82aff46f-d816-4b06-867a-c3dcfeed43ed/SouthSudan_NexusDigest_AprilMay2026.pdf",
+  "title": "South Sudan Nexus Digest Issue #1 | April – May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 16 Jun 2026 01:47:48 +0000",
+  "sha256": "d9342feb3da794f9962bfa9ce083dbae2fa978e7e17639fa33bdc25d74be7a98",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-16T06:29:04.128909+00:00",
+  "text_chars": 24793,
+  "raw_path": "data/geopolitics/raw/d9342feb3da794f9962bfa9ce083dbae2fa978e7e17639fa33bdc25d74be7a98.pdf",
+  "text_path": "data/geopolitics/raw/d9342feb3da794f9962bfa9ce083dbae2fa978e7e17639fa33bdc25d74be7a98.txt"
 }

@@ -1,0 +1,162 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-16T06:29:04.145971+00:00",
+  "new_documents": 25,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.txt",
+      "metadata_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Tuesday briefing: How the UK’s military spending row exposes Starmer’s defence dilemma",
+      "url": "https://www.theguardian.com/world/2026/jun/16/tuesday-briefing-first-edition-keir-starmer-uk-defence-spending-labour",
+      "text_path": "data/geopolitics/raw/ee23ca6ce499eb2decf14a8e6ef8bfb5bb31c69b1ce76ae14b0c0f185ea5b094.txt",
+      "metadata_path": "data/geopolitics/raw/ee23ca6ce499eb2decf14a8e6ef8bfb5bb31c69b1ce76ae14b0c0f185ea5b094.json"
+    },
+    {
+      "title": "Iran ‘agreed to never have a nuclear weapon’, says Trump – as it happened",
+      "url": "https://www.theguardian.com/world/live/2026/jun/15/iran-us-peace-deal-live-updates-trump-israel-lebanon-hormuz-nuclear-program-europe-response",
+      "text_path": "data/geopolitics/raw/71acaa3c2581aa2b951a61f85c75bdae91943aabaf155242de70c47d60cce290.txt",
+      "metadata_path": "data/geopolitics/raw/71acaa3c2581aa2b951a61f85c75bdae91943aabaf155242de70c47d60cce290.json"
+    },
+    {
+      "title": "G7 leaders open summit talks in France on Ukraine and the Middle East",
+      "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
+      "text_path": "data/geopolitics/raw/67d43bb3411ade31de5aaa6a1fb60e75000596c19e0b69f830abe405588b0c67.txt",
+      "metadata_path": "data/geopolitics/raw/67d43bb3411ade31de5aaa6a1fb60e75000596c19e0b69f830abe405588b0c67.json"
+    },
+    {
+      "title": "Vance says details of US-Iran agreement still to be worked out amid scepticism from Republicans",
+      "url": "https://www.theguardian.com/world/2026/jun/16/jd-vance-details-us-iran-agreement-scepticism-republicans",
+      "text_path": "data/geopolitics/raw/54263e8ec0d3fb85e27b40870688aba84fabc71145cfcafe5b74cb386e9a316f.txt",
+      "metadata_path": "data/geopolitics/raw/54263e8ec0d3fb85e27b40870688aba84fabc71145cfcafe5b74cb386e9a316f.json"
+    },
+    {
+      "title": "U.S. and Iran reach an agreement, but details remain scant",
+      "url": "https://www.npr.org/2026/06/15/nx-s1-5858868/u-s-and-iran-reach-an-agreement-but-details-remain-scant",
+      "text_path": "data/geopolitics/raw/d6f6513e99ba6c70e889c56f47fc37ebffe85fa69b11672e677870689164777a.txt",
+      "metadata_path": "data/geopolitics/raw/d6f6513e99ba6c70e889c56f47fc37ebffe85fa69b11672e677870689164777a.json"
+    },
+    {
+      "title": "UNFPA Situation Report: Chad Humanitarian Response (1 - 31 May 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/4a38a0b4-594d-4b8c-8e0b-e03b87ed1f55/UNFPA%20Chad%20Situation%20Report%20%28May%202026%29%20final.pdf",
+      "text_path": "data/geopolitics/raw/ac49b044da5123923b6fcd039ae77a60f09b1a8bc14a64dae78e46a2eb210f94.txt",
+      "metadata_path": "data/geopolitics/raw/ac49b044da5123923b6fcd039ae77a60f09b1a8bc14a64dae78e46a2eb210f94.json"
+    },
+    {
+      "title": "The Middle East Power Paradox",
+      "url": "https://www.foreignaffairs.com/iran/middle-east-power-paradox-dana-stroul",
+      "text_path": "data/geopolitics/raw/00230293f5fa83d662bb01f033990db6e6f9eaeb61f3dedc998273083212837e.txt",
+      "metadata_path": "data/geopolitics/raw/00230293f5fa83d662bb01f033990db6e6f9eaeb61f3dedc998273083212837e.json"
+    },
+    {
+      "title": "World News in Brief: Risky return home in Lebanon, displacement in Gaza, emergency funding for Somalia (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/10-06-2026-UNICEF-Lebanon-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/a751ed759f93d763c6871289d07debc1d01f5a01666001f33f4477013fb648b5.txt",
+      "metadata_path": "data/geopolitics/raw/a751ed759f93d763c6871289d07debc1d01f5a01666001f33f4477013fb648b5.json"
+    },
+    {
+      "title": "Triple climate threats affect nearly half the world’s children",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167723",
+      "text_path": "data/geopolitics/raw/2c8655e6c0c932805fa6a4107a2ee083c41222e748b35c25753bae150e5680c8.txt",
+      "metadata_path": "data/geopolitics/raw/2c8655e6c0c932805fa6a4107a2ee083c41222e748b35c25753bae150e5680c8.json"
+    },
+    {
+      "title": "India touts new ballistic missile defense prowess after tests",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/06/16/india-touts-new-ballistic-missile-defense-prowess-after-tests/",
+      "text_path": "data/geopolitics/raw/54e0e861999320d4841b12996f784304c954bad2229e784e469a8dd455995552.txt",
+      "metadata_path": "data/geopolitics/raw/54e0e861999320d4841b12996f784304c954bad2229e784e469a8dd455995552.json"
+    },
+    {
+      "title": "Somalia| Monthly Humanitarian Update| May 2026. (pdf)",
+      "url": "https://reliefweb.int/attachments/ec3ea439-2f4a-4255-b467-91baa12a1ad5/Monthly%20Humanitarian%20Update%20-%20May%202026.pdf",
+      "text_path": "data/geopolitics/raw/0e2bcc6ea4bc9f2b7f82920d1756f5bfde770cd1981e397145d16d90ee1f469c.txt",
+      "metadata_path": "data/geopolitics/raw/0e2bcc6ea4bc9f2b7f82920d1756f5bfde770cd1981e397145d16d90ee1f469c.json"
+    },
+    {
+      "title": "Myanmar Economic Monitor, June 2026: Shock Amid Fragility [EN/MY]",
+      "url": "https://reliefweb.int/report/myanmar/myanmar-economic-monitor-june-2026-shock-amid-fragility-enmy",
+      "text_path": "data/geopolitics/raw/e90ff54f10c7e766f721cfebf5c95de77cfe8cc3ee54c15154178f0c3f14761b.txt",
+      "metadata_path": "data/geopolitics/raw/e90ff54f10c7e766f721cfebf5c95de77cfe8cc3ee54c15154178f0c3f14761b.json"
+    },
+    {
+      "title": "Myanmar Economic Monitor, June 2026: Shock Amid Fragility [EN/MY] (pdf)",
+      "url": "https://reliefweb.int/attachments/5b9badc3-c850-4717-9543-2798fcee5790/P507203-a497789a-01dd-4d79-bb47-faaf34d61123.pdf",
+      "text_path": "data/geopolitics/raw/f1ee865083ebe65d67c617b21a0486e5466431ac8950f92831cfad1c4ba0415e.txt",
+      "metadata_path": "data/geopolitics/raw/f1ee865083ebe65d67c617b21a0486e5466431ac8950f92831cfad1c4ba0415e.json"
+    },
+    {
+      "title": "South Sudan Nexus Digest Issue #1 | April – May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/82aff46f-d816-4b06-867a-c3dcfeed43ed/SouthSudan_NexusDigest_AprilMay2026.pdf",
+      "text_path": "data/geopolitics/raw/d9342feb3da794f9962bfa9ce083dbae2fa978e7e17639fa33bdc25d74be7a98.txt",
+      "metadata_path": "data/geopolitics/raw/d9342feb3da794f9962bfa9ce083dbae2fa978e7e17639fa33bdc25d74be7a98.json"
+    },
+    {
+      "title": "NATO’s Permanent Crisis",
+      "url": "https://www.foreignaffairs.com/united-states/natos-permanent-crisis",
+      "text_path": "data/geopolitics/raw/f858633a7995e008bae4776b7c4ec19b20aa76e32a8d1f62574a170c00d290c2.txt",
+      "metadata_path": "data/geopolitics/raw/f858633a7995e008bae4776b7c4ec19b20aa76e32a8d1f62574a170c00d290c2.json"
+    }
+  ],
+  "txt_before": 1033,
+  "txt_after": 1048
+}

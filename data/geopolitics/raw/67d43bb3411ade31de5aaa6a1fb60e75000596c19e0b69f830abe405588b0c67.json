@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-16T06:27:46.458419+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.xml",
-  "text_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.txt"
+  "url": "https://www.npr.org/2026/06/16/g-s1-128325/g7-leaders-summit",
+  "title": "G7 leaders open summit talks in France on Ukraine and the Middle East",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Tue, 16 Jun 2026 01:37:59 -0400",
+  "sha256": "67d43bb3411ade31de5aaa6a1fb60e75000596c19e0b69f830abe405588b0c67",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-16T06:28:38.029724+00:00",
+  "text_chars": 5625,
+  "raw_path": "data/geopolitics/raw/67d43bb3411ade31de5aaa6a1fb60e75000596c19e0b69f830abe405588b0c67.html",
+  "text_path": "data/geopolitics/raw/67d43bb3411ade31de5aaa6a1fb60e75000596c19e0b69f830abe405588b0c67.txt"
 }

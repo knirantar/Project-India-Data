@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/4a38a0b4-594d-4b8c-8e0b-e03b87ed1f55/UNFPA%20Chad%20Situation%20Report%20%28May%202026%29%20final.pdf",
+  "title": "UNFPA Situation Report: Chad Humanitarian Response (1 - 31 May 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 16 Jun 2026 01:39:27 +0000",
+  "sha256": "ac49b044da5123923b6fcd039ae77a60f09b1a8bc14a64dae78e46a2eb210f94",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-16T06:28:30.569832+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-16T06:28:50.262621+00:00",
+  "text_chars": 8541,
+  "raw_path": "data/geopolitics/raw/ac49b044da5123923b6fcd039ae77a60f09b1a8bc14a64dae78e46a2eb210f94.pdf",
+  "text_path": "data/geopolitics/raw/ac49b044da5123923b6fcd039ae77a60f09b1a8bc14a64dae78e46a2eb210f94.txt"
 }

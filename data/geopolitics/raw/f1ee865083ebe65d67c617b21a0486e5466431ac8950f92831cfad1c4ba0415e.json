@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/5b9badc3-c850-4717-9543-2798fcee5790/P507203-a497789a-01dd-4d79-bb47-faaf34d61123.pdf",
+  "title": "Myanmar Economic Monitor, June 2026: Shock Amid Fragility [EN/MY] (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 16 Jun 2026 04:16:54 +0000",
+  "sha256": "f1ee865083ebe65d67c617b21a0486e5466431ac8950f92831cfad1c4ba0415e",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-16T06:28:30.569832+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-16T06:29:03.794684+00:00",
+  "text_chars": 236483,
+  "raw_path": "data/geopolitics/raw/f1ee865083ebe65d67c617b21a0486e5466431ac8950f92831cfad1c4ba0415e.pdf",
+  "text_path": "data/geopolitics/raw/f1ee865083ebe65d67c617b21a0486e5466431ac8950f92831cfad1c4ba0415e.txt"
 }

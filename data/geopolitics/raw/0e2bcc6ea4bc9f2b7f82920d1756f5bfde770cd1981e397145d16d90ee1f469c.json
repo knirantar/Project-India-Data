@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-16T06:27:46.458419+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.xml",
-  "text_path": "data/geopolitics/raw/8f1956888e0470ab189863d920e68d986a4384c0044fdc0b87cc7702f6b6ff6f.txt"
+  "url": "https://reliefweb.int/attachments/ec3ea439-2f4a-4255-b467-91baa12a1ad5/Monthly%20Humanitarian%20Update%20-%20May%202026.pdf",
+  "title": "Somalia| Monthly Humanitarian Update| May 2026. (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 16 Jun 2026 05:59:18 +0000",
+  "sha256": "0e2bcc6ea4bc9f2b7f82920d1756f5bfde770cd1981e397145d16d90ee1f469c",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-16T06:28:55.827985+00:00",
+  "text_chars": 17796,
+  "raw_path": "data/geopolitics/raw/0e2bcc6ea4bc9f2b7f82920d1756f5bfde770cd1981e397145d16d90ee1f469c.pdf",
+  "text_path": "data/geopolitics/raw/0e2bcc6ea4bc9f2b7f82920d1756f5bfde770cd1981e397145d16d90ee1f469c.txt"
 }
