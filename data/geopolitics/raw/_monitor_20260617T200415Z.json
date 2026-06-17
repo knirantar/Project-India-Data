@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-17T20:04:15.262626+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "US releases text of Iran peace plan as Trump says deal averts ‘worldwide depression’",
+      "url": "https://www.theguardian.com/world/2026/jun/17/trump-us-iran-war-mou-deal",
+      "text_path": "data/geopolitics/raw/de90411119dab7ef807be60320dfef7b64935c4665faa6f3105b79fce8effd62.txt",
+      "metadata_path": "data/geopolitics/raw/de90411119dab7ef807be60320dfef7b64935c4665faa6f3105b79fce8effd62.json"
+    },
+    {
+      "title": "Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Briefing to the Security Council on the humanitarian situation in Yemen, 16 June 2026",
+      "url": "https://reliefweb.int/report/yemen/mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-briefing-security-council-humanitarian-situation-yemen-16-june-2026",
+      "text_path": "data/geopolitics/raw/2ce4d3b13ab854a0aa0dbddeaef2df343f56259c82953d15e1078ff53673ed09.txt",
+      "metadata_path": "data/geopolitics/raw/2ce4d3b13ab854a0aa0dbddeaef2df343f56259c82953d15e1078ff53673ed09.json"
+    },
+    {
+      "title": "World: Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Opening remarks 2026 ECOSOC Humanitarian Affairs Segment, 17 June 2026",
+      "url": "https://reliefweb.int/report/world/mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-opening-remarks-2026-ecosoc-humanitarian-affairs-segment-17-june-2026",
+      "text_path": "data/geopolitics/raw/3034e3162af08c4aee192fb1ac5b79217a8c4409234efc423baf36c4282fd0d6.txt",
+      "metadata_path": "data/geopolitics/raw/3034e3162af08c4aee192fb1ac5b79217a8c4409234efc423baf36c4282fd0d6.json"
+    },
+    {
+      "title": "World: Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Opening remarks 2026 ECOSOC Humanitarian Affairs Segment, 17 June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/cbdbd1d6-de48-47a7-80f6-f93ccad0947c/20260617%20USG%20Opening%20Remarks%20ECOSOC%20HAS%20AS%20DELIVERED.pdf",
+      "text_path": "data/geopolitics/raw/a5673f27e1f8b7694202d06a1bdcc7823f5821e817d7eb6e44556423136e1da9.txt",
+      "metadata_path": "data/geopolitics/raw/a5673f27e1f8b7694202d06a1bdcc7823f5821e817d7eb6e44556423136e1da9.json"
+    },
+    {
+      "title": "UK officials expect Russia to retaliate for seizure of shadow fleet oil tanker",
+      "url": "https://www.theguardian.com/politics/2026/jun/17/uk-expect-russia-retaliate-seizure-shadow-fleet-oil-tanker-smyrtos",
+      "text_path": "data/geopolitics/raw/36e9326b86c7f4f2112d91a01d56749e10cd9a73f21cca36e7ece7ac886a2067.txt",
+      "metadata_path": "data/geopolitics/raw/36e9326b86c7f4f2112d91a01d56749e10cd9a73f21cca36e7ece7ac886a2067.json"
+    },
+    {
+      "title": "US Federal Reserve holds rates steady under new chair Warsh",
+      "url": "https://www.aljazeera.com/economy/2026/6/17/us-federal-reserve-holds-rates-steady-under-new-chair-warsh?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/14c713c9a7f5ef0599e261ef1648ae43ef01397e22ca62eba244e01975cc3c88.txt",
+      "metadata_path": "data/geopolitics/raw/14c713c9a7f5ef0599e261ef1648ae43ef01397e22ca62eba244e01975cc3c88.json"
+    },
+    {
+      "title": "USV Swarm Demonstrates Maritime Security Capabilities During Exercise Salaknib 26",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4519923/usv-swarm-demonstrates-maritime-security-capabilities-during-exercise-salaknib/",
+      "text_path": "data/geopolitics/raw/ef2ee083eeefcc4a5dc3bc238d2d9dadecd69d3298f5186558a0cabfb155c271.txt",
+      "metadata_path": "data/geopolitics/raw/ef2ee083eeefcc4a5dc3bc238d2d9dadecd69d3298f5186558a0cabfb155c271.json"
+    }
+  ],
+  "txt_before": 1112,
+  "txt_after": 1119
+}
