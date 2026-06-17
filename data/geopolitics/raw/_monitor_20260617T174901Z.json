@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-17T17:49:01.282809+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.txt",
+      "metadata_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Death toll in Gaza since ‘ceasefire’ with Israel goes past 1,000",
+      "url": "https://www.aljazeera.com/news/2026/6/17/death-toll-in-gaza-since-ceasefire-with-israel-goes-past-1000?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/5a0a0ca45c405d95457e07e74b7aeaa49d9800b27d1c50c9725fbb7fdba315da.txt",
+      "metadata_path": "data/geopolitics/raw/5a0a0ca45c405d95457e07e74b7aeaa49d9800b27d1c50c9725fbb7fdba315da.json"
+    },
+    {
+      "title": "Historian on whether deal to end Ukraine war can be made at G7 summit",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860698/historian-on-whether-deal-to-end-ukraine-war-can-be-made-at-g7-summit",
+      "text_path": "data/geopolitics/raw/b2df2d1c859d0151375e2d3679f2a300d4f81f922ea4371cfb3312d6bc17e0f8.txt",
+      "metadata_path": "data/geopolitics/raw/b2df2d1c859d0151375e2d3679f2a300d4f81f922ea4371cfb3312d6bc17e0f8.json"
+    },
+    {
+      "title": "Lebanon: 12 children killed, maimed daily despite truce between Hezbollah and Israel (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-06-2025-UNICEF-Lebanon.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/72e47c237aafb56ba5b368372e31f3fa60dd6baf5017eb68bfd28ec02f0c24e9.txt",
+      "metadata_path": "data/geopolitics/raw/72e47c237aafb56ba5b368372e31f3fa60dd6baf5017eb68bfd28ec02f0c24e9.json"
+    },
+    {
+      "title": "Iran’s Victory Is More Pyrrhic Than It Looks",
+      "url": "https://foreignpolicy.com/2026/06/17/iran-war-pyrrhic-victory-hormuz-oil-khamenei-regime-sanctions/",
+      "text_path": "data/geopolitics/raw/c4baec7f2e2b7656f97ba0880b6b1d1570e972ac9c4fce52134707c667b0e3be.txt",
+      "metadata_path": "data/geopolitics/raw/c4baec7f2e2b7656f97ba0880b6b1d1570e972ac9c4fce52134707c667b0e3be.json"
+    },
+    {
+      "title": "Iran pledges no nuclear weapons as US commits $300bn, leaked deal draft shows",
+      "url": "http://www.euronews.com/2026/06/17/iran-pledges-no-nuclear-weapons-as-us-commits-300bn-leaked-deal-draft-shows",
+      "text_path": "data/geopolitics/raw/8ae3a0b426e31383b23c69da9bb6d96cc8ff2763a785e4a2ac526a8ea4ba861d.txt",
+      "metadata_path": "data/geopolitics/raw/8ae3a0b426e31383b23c69da9bb6d96cc8ff2763a785e4a2ac526a8ea4ba861d.json"
+    }
+  ],
+  "txt_before": 1107,
+  "txt_after": 1112
+}

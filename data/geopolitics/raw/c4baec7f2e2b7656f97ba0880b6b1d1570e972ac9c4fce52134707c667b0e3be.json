@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "sanctions_designations",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-17T17:47:48.122791+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://foreignpolicy.com/2026/06/17/iran-war-pyrrhic-victory-hormuz-oil-khamenei-regime-sanctions/",
+  "title": "Iran’s Victory Is More Pyrrhic Than It Looks",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Wed, 17 Jun 2026 09:06:57 +0000",
+  "sha256": "c4baec7f2e2b7656f97ba0880b6b1d1570e972ac9c4fce52134707c667b0e3be",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-17T17:48:53.038560+00:00",
+  "text_chars": 9535,
+  "raw_path": "data/geopolitics/raw/c4baec7f2e2b7656f97ba0880b6b1d1570e972ac9c4fce52134707c667b0e3be.html",
+  "text_path": "data/geopolitics/raw/c4baec7f2e2b7656f97ba0880b6b1d1570e972ac9c4fce52134707c667b0e3be.txt"
 }
