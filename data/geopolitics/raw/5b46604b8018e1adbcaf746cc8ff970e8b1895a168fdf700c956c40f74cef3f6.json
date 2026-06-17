@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-17T06:04:16.587700+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://www.foreignaffairs.com/china/coming-quantum-national-security-crisis",
+  "title": "The Coming Quantum National Security Crisis",
+  "source": "https://www.foreignaffairs.com/rss.xml",
+  "published": "Wed, 17 Jun 2026 00:00:00 -0400",
+  "sha256": "5b46604b8018e1adbcaf746cc8ff970e8b1895a168fdf700c956c40f74cef3f6",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-17T06:04:34.688793+00:00",
+  "text_chars": 12892,
+  "raw_path": "data/geopolitics/raw/5b46604b8018e1adbcaf746cc8ff970e8b1895a168fdf700c956c40f74cef3f6.html",
+  "text_path": "data/geopolitics/raw/5b46604b8018e1adbcaf746cc8ff970e8b1895a168fdf700c956c40f74cef3f6.txt"
 }
