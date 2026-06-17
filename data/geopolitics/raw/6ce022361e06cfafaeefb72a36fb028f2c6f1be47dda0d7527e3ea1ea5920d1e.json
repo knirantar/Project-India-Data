@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/5e43523d-b0c9-47fe-94e0-17b1241daff8/CE0155EN%20%281%29.pdf",
+  "title": "Sudan: Hunger Hotspots FAO-WFP Early Warnings on Acute Food Insecurity - June to November 2026 outlook (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 17 Jun 2026 12:03:07 +0000",
+  "sha256": "6ce022361e06cfafaeefb72a36fb028f2c6f1be47dda0d7527e3ea1ea5920d1e",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-17T14:55:04.261968+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-17T14:55:16.634847+00:00",
+  "text_chars": 287144,
+  "raw_path": "data/geopolitics/raw/6ce022361e06cfafaeefb72a36fb028f2c6f1be47dda0d7527e3ea1ea5920d1e.pdf",
+  "text_path": "data/geopolitics/raw/6ce022361e06cfafaeefb72a36fb028f2c6f1be47dda0d7527e3ea1ea5920d1e.txt"
 }
