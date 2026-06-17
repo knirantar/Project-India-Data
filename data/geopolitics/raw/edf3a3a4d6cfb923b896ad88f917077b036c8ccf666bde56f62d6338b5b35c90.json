@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-17T11:30:49.607935+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.xml",
-  "text_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.txt"
+  "url": "https://reliefweb.int/attachments/46792764-9688-4ff9-8bc5-e7b3214e1a73/RHSWG%20Newsletter%20Issue%20%237%20-%20Q3%202025.pdf",
+  "title": "Lebanon: RHSWG Newsletter Issue #7 - Q3 2025 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 17 Jun 2026 11:12:47 +0000",
+  "sha256": "edf3a3a4d6cfb923b896ad88f917077b036c8ccf666bde56f62d6338b5b35c90",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-17T11:31:57.338228+00:00",
+  "text_chars": 31917,
+  "raw_path": "data/geopolitics/raw/edf3a3a4d6cfb923b896ad88f917077b036c8ccf666bde56f62d6338b5b35c90.pdf",
+  "text_path": "data/geopolitics/raw/edf3a3a4d6cfb923b896ad88f917077b036c8ccf666bde56f62d6338b5b35c90.txt"
 }

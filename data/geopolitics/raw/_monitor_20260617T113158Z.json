@@ -1,0 +1,204 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-17T11:31:58.218117+00:00",
+  "new_documents": 32,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.txt",
+      "metadata_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Trump says ‘I am the boss’ at G7 summit as leaders agree ‘new steps to put pressure’ on Russia – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/jun/17/g7-leaders-evian-donald-trump-ukraine-russia-war-iran-latest-news-updates",
+      "text_path": "data/geopolitics/raw/0d38469bf1e41b0231d6b331a34c1404604b61af3335f4f8cdef50f47bf4d8ff.txt",
+      "metadata_path": "data/geopolitics/raw/0d38469bf1e41b0231d6b331a34c1404604b61af3335f4f8cdef50f47bf4d8ff.json"
+    },
+    {
+      "title": "Middle East crisis live: leaders at G7 issue joint statement calling for ‘immediate ceasefire’ in Lebanon to secure US-Iran deal",
+      "url": "https://www.theguardian.com/world/live/2026/jun/17/middle-east-war-iran-israel-us-donald-trump-hezbollah-lebanon-peace-deal-netanyahu-latest-news-updated",
+      "text_path": "data/geopolitics/raw/13e1164088ec0fb840d5be6eab6815f204be076f2f25ee19bd9ab73869cf0ccb.txt",
+      "metadata_path": "data/geopolitics/raw/13e1164088ec0fb840d5be6eab6815f204be076f2f25ee19bd9ab73869cf0ccb.json"
+    },
+    {
+      "title": "Lebanon: Flash Update #35 - Escalation of hostilities in Lebanon (as of 15 June 2026)",
+      "url": "https://reliefweb.int/report/lebanon/lebanon-flash-update-35-escalation-hostilities-lebanon-15-june-2026",
+      "text_path": "data/geopolitics/raw/93feaa0221ec8e461b8464ddea63e038f9289d87fc7493dac05260f9a57da5db.txt",
+      "metadata_path": "data/geopolitics/raw/93feaa0221ec8e461b8464ddea63e038f9289d87fc7493dac05260f9a57da5db.json"
+    },
+    {
+      "title": "Lebanon: Flash Update #35 - Escalation of hostilities in Lebanon (as of 15 June 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/76cdc4fc-bdde-4a02-818c-3b1a1f8b2c24/2026.06.15_OCHA_Lebanon_Flash_Update%20No%2035.pdf",
+      "text_path": "data/geopolitics/raw/b06870358e39532617b218371a58a396f5e8ab075812608a57ce1d9107a17425.txt",
+      "metadata_path": "data/geopolitics/raw/b06870358e39532617b218371a58a396f5e8ab075812608a57ce1d9107a17425.json"
+    },
+    {
+      "title": "Sudan Situation: UNHCR Monthly External Update #118 - April 2026",
+      "url": "https://reliefweb.int/report/sudan/sudan-situation-unhcr-monthly-external-update-118-april-2026",
+      "text_path": "data/geopolitics/raw/eacafcbbc8722cbed131e521c0cad778ff3927825f9cb321fead2a1fbfa6d773.txt",
+      "metadata_path": "data/geopolitics/raw/eacafcbbc8722cbed131e521c0cad778ff3927825f9cb321fead2a1fbfa6d773.json"
+    },
+    {
+      "title": "Sudan Situation: UNHCR Monthly External Update #118 - April 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/45e982b7-add6-5ecd-97c7-abb24fc99926/Sudan%20Situation%20-%20UNHCR%20External%20Update%20%23118%20-%20April%202026.pdf",
+      "text_path": "data/geopolitics/raw/a3420fb06cbd780b3593e541832660b685d23fc0b5b039605b3409b552655af3.txt",
+      "metadata_path": "data/geopolitics/raw/a3420fb06cbd780b3593e541832660b685d23fc0b5b039605b3409b552655af3.json"
+    },
+    {
+      "title": "Iran: Inter-Agency Refugee Protection Overview for the Middle East Situation (pdf)",
+      "url": "https://reliefweb.int/attachments/00122cd3-98b3-5e36-a707-d90b7896e023/IA%20Refugee%20Protection%20Overview_Middle%20East%20Situation_June%202026_Final.pdf",
+      "text_path": "data/geopolitics/raw/2dcecd9633cc36d55035e6b33fbea21a39eb5bfc47f4fed98d6a96480d750660.txt",
+      "metadata_path": "data/geopolitics/raw/2dcecd9633cc36d55035e6b33fbea21a39eb5bfc47f4fed98d6a96480d750660.json"
+    },
+    {
+      "title": "Inside the ‘unacceptable’ UK fair selling property in Israeli settlements",
+      "url": "https://www.aljazeera.com/news/2026/6/17/unacceptable-london-property-fair?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/80797391d042d2a4d2227ed215f57dfc1c135935ba3430944640bb040b6045c5.txt",
+      "metadata_path": "data/geopolitics/raw/80797391d042d2a4d2227ed215f57dfc1c135935ba3430944640bb040b6045c5.json"
+    },
+    {
+      "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+      "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/2b13dd579dfd56f9516ba4f2aa7749fae39ac6dc62a0cbbebe7c8b833405619e.txt",
+      "metadata_path": "data/geopolitics/raw/2b13dd579dfd56f9516ba4f2aa7749fae39ac6dc62a0cbbebe7c8b833405619e.json"
+    },
+    {
+      "title": "Oil prices continue slide amid hopes for peace, opening of Strait of Hormuz",
+      "url": "https://www.aljazeera.com/economy/2026/6/17/oil-prices-continue-slide-amid-hopes-for-peace-opening-of-strait-of-hormuz?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/b1aed8d4de9608245bb09402219c7bbf58728a0d5a99dda11f39a2fd682bcf66.txt",
+      "metadata_path": "data/geopolitics/raw/b1aed8d4de9608245bb09402219c7bbf58728a0d5a99dda11f39a2fd682bcf66.json"
+    },
+    {
+      "title": "Middle East live: Details of US-Iran peace agreement begin to emerge",
+      "url": "https://www.france24.com/en/middle-east/20260617-middle-east-live-us-iran-memorandum-details-to-be-released-soon",
+      "text_path": "data/geopolitics/raw/a7c15f34bd7326db925f991ffe21f6d8b78624d47e809f6bc493d58c94c217e6.txt",
+      "metadata_path": "data/geopolitics/raw/a7c15f34bd7326db925f991ffe21f6d8b78624d47e809f6bc493d58c94c217e6.json"
+    },
+    {
+      "title": "Honduras: Cedeño won’t disappear, it will relocate and persevere",
+      "url": "https://reliefweb.int/report/honduras/honduras-cedeno-wont-disappear-it-will-relocate-and-persevere",
+      "text_path": "data/geopolitics/raw/4ac01a96dae111baa1ef59026b5c07bee00836ef8a7a41cc510de2a2e6df8dc1.txt",
+      "metadata_path": "data/geopolitics/raw/4ac01a96dae111baa1ef59026b5c07bee00836ef8a7a41cc510de2a2e6df8dc1.json"
+    },
+    {
+      "title": "UK’s Starmer says Russian warship’s warning shots in Channel ‘reckless’",
+      "url": "https://www.aljazeera.com/news/2026/6/17/uks-starmer-says-russian-warships-warning-shots-in-channel-reckless?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/204415728ef96c817f90cfe639c497f5b8020099af3505b14205e88a4d9f2a02.txt",
+      "metadata_path": "data/geopolitics/raw/204415728ef96c817f90cfe639c497f5b8020099af3505b14205e88a4d9f2a02.json"
+    },
+    {
+      "title": "Trump's Iran agreement dominates G7 but big questions remain",
+      "url": "https://www.npr.org/2026/06/17/nx-s1-5860782/trumps-iran-agreement-dominates-g7-but-big-questions-remain",
+      "text_path": "data/geopolitics/raw/fbb6bc1b0f30e4c7fe185f49ca546ace7756c4cb9306be67da23d89b318bbfac.txt",
+      "metadata_path": "data/geopolitics/raw/fbb6bc1b0f30e4c7fe185f49ca546ace7756c4cb9306be67da23d89b318bbfac.json"
+    },
+    {
+      "title": "Iranian tankers exit US blockade zone before talks to end war",
+      "url": "https://www.aljazeera.com/news/2026/6/17/first-iranian-tankers-exit-us-blockade-zone-ahead-of-peace-talks?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/32254dcbef9827937872faa1c76918edb40081dbbe7366ebe716307d93461ef3.txt",
+      "metadata_path": "data/geopolitics/raw/32254dcbef9827937872faa1c76918edb40081dbbe7366ebe716307d93461ef3.json"
+    },
+    {
+      "title": "US Army’s ‘Tropic Lightning’ Division ponders transformation lessons from Philippine war games",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/06/17/us-armys-tropic-lightning-division-ponders-transformation-lessons-from-philippine-war-games/",
+      "text_path": "data/geopolitics/raw/ef773acf9175e6865a73632b12f2b3e0de1f49865981b940a17572296a4e575e.txt",
+      "metadata_path": "data/geopolitics/raw/ef773acf9175e6865a73632b12f2b3e0de1f49865981b940a17572296a4e575e.json"
+    },
+    {
+      "title": "WFP Armenia Country Brief, June 2026 (Reporting period: May 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/753cfb7e-4de7-447d-804b-ee08e0244b6a/2026%2006%20Armenia%20Country%20Brief.pdf",
+      "text_path": "data/geopolitics/raw/f35a08d13a002db0e62764abfe094b2bc09e02f8174e5fa1f996e58a178d238f.txt",
+      "metadata_path": "data/geopolitics/raw/f35a08d13a002db0e62764abfe094b2bc09e02f8174e5fa1f996e58a178d238f.json"
+    },
+    {
+      "title": "Seven-year-old Abdiqadir was hit in a US airstrike. Without a $750 operation, he may lose his ability to walk",
+      "url": "https://www.theguardian.com/global-development/2026/jun/17/boy-injured-us-strike-somalia-ability-walk-operation-abdiqadir-salah-surgery-civilians-november-attack",
+      "text_path": "data/geopolitics/raw/ee004d4f3748e11867cc500b13c4d6fa061bc081f36e5bb314aafaf37756961b.txt",
+      "metadata_path": "data/geopolitics/raw/ee004d4f3748e11867cc500b13c4d6fa061bc081f36e5bb314aafaf37756961b.json"
+    },
+    {
+      "title": "Lebanon: RHSWG Newsletter Issue #7 - Q3 2025 (pdf)",
+      "url": "https://reliefweb.int/attachments/46792764-9688-4ff9-8bc5-e7b3214e1a73/RHSWG%20Newsletter%20Issue%20%237%20-%20Q3%202025.pdf",
+      "text_path": "data/geopolitics/raw/edf3a3a4d6cfb923b896ad88f917077b036c8ccf666bde56f62d6338b5b35c90.txt",
+      "metadata_path": "data/geopolitics/raw/edf3a3a4d6cfb923b896ad88f917077b036c8ccf666bde56f62d6338b5b35c90.json"
+    },
+    {
+      "title": "Lebanon: RHSWG Newsletter Issue #6 - Q2 2025 (pdf)",
+      "url": "https://reliefweb.int/attachments/375a942b-51c8-4115-a5b6-be2a37b449db/RHSWG%20Newsletter%20Issue%20%236%20-%20Q2%202025.pdf",
+      "text_path": "data/geopolitics/raw/c8d9aead8385b3c408e0f9c99ffb6a1ff15c108d1f0829673860bdc1709b1916.txt",
+      "metadata_path": "data/geopolitics/raw/c8d9aead8385b3c408e0f9c99ffb6a1ff15c108d1f0829673860bdc1709b1916.json"
+    },
+    {
+      "title": "REACH Afghanistan Quarterly Food Security Monitoring (QFSM), Methodology Note (June 2026)",
+      "url": "https://reliefweb.int/report/afghanistan/reach-afghanistan-quarterly-food-security-monitoring-qfsm-methodology-note-june-2026",
+      "text_path": "data/geopolitics/raw/8d0db65108296249ff587e6f9ff6a77ac9217f65caeadfa11ac4ba2ad1b14cf3.txt",
+      "metadata_path": "data/geopolitics/raw/8d0db65108296249ff587e6f9ff6a77ac9217f65caeadfa11ac4ba2ad1b14cf3.json"
+    },
+    {
+      "title": "REACH Afghanistan Quarterly Food Security Monitoring (QFSM), Methodology Note (June 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/97a55849-beee-4243-ae94-4224ceef2b5d/REACH_AFG_Methodology-Note_QFSM_June-2026.pdf",
+      "text_path": "data/geopolitics/raw/201a16ec2b61b82835e2771b24595e92162b15f4fc2045ad727baad936727318.txt",
+      "metadata_path": "data/geopolitics/raw/201a16ec2b61b82835e2771b24595e92162b15f4fc2045ad727baad936727318.json"
+    }
+  ],
+  "txt_before": 1080,
+  "txt_after": 1102
+}

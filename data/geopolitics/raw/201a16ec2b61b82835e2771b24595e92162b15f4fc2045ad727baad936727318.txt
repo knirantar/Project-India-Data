@@ -1,0 +1,727 @@
+www.reach-initiative.org 1 
+ 
+Quarterly Food Security Monitoring  
+Methodology Note 
+Afghanistan | March 2026 
+In addition to the NMF, the QFSM will help to delve deeper into the food security pillar of the NMF, in 
+collaboration with WFP. The motivation behind this is to be able to provide more detailed sectoral information 
+to meet individual cluster needs. 
+QFSM analysis and findings support WFP’s early warning system in identifying districts at risk of food 
+security deterioration. These findings help trigger rapid needs assessments, including WFP Rapid Needs 
+Assessments (RNA) and REACH Rapid Food Security As sessments (RFSA) (see ToR). The combination of QFSM 
+monitoring with subsequent targeted data collection strengthens real -time monitoring of the food security 
+situation across the country. 
+Background 
+Considering the high levels of needs amidst limited available resources as well as seasonal and 
+geographic variations affecting Afghanistan, REACH proposes to jointly develop an analytical framework with 
+WFP to monitor food insecurity across the country in  near-real time. This will be critical to support a targeted 
+response with subnational prioritization and possibly detect pockets at high risk of deteriorating food security 
+to inform anticipatory action.  
+As a component of this framework and of broader real-time monitoring activities developed within the 
+Afghanistan context, such as the Needs Monitoring Framework and Shocks Monitoring Index, REACH will 
+develop an analytical framework to allow for a quarterly monitoring of food security ou tcomes. Leveraging 
+existing data sources, this framework will allow for a quarterly overview of needs, by ranging districts by severity 
+of outcomes and enabling to identify districts whose communities are experiencing a wors ening of their food 
+security situation, across the three key dimensions of food security. Eventually and as this analytical framework 
+is rolled -out and perfected, its inclusion as a sectoral component of the multisectoral Needs Monitoring 
+Framework will be considered and discussed with relevant stakeholders such as the Food security cluster. 
+Key Objective 
+Develop a framework that will allow for a regular monitoring of food security dimensions leveraging 
+available data sources, to consolidate existing real -time monitoring analysis within WFP and support a more 
+targeted response and area prioritization. 
+Methodology Overview 
+The Quarterly Food Security Monitoring will rely on an analytical framework consisting of a collection of 
+indicators from regular (quarterly or monthly) assessments, with corresponding severity thresholds for each 
+indicator from least concerning (1. None/Minimal) to the highest levels of needs (5. Catastrophic). Although the 
+framework will mainly rely on data from REACH’s quarterly Humanitarian Situation Monitoring, other data 
+sources may be considered1, such as market data from the Joint Market Monitoring Initiative (JMMI). Although 
+the district is the primary geographic analysis unit at which the data analysis will be conducted, it may also be 
+replicated at the province level to provide less granular results. 
+ 
+ 
+1 Additional data sources that will be considered include WFP-VAM’s Market Bulletin Data, remote-sensing data analyzed by Alcis, as 
+well as community-based early warning signed identified by the Community Driven Development Organization.
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 2 
+ 
+Table 1. Overview of the dimensions of food security (as described by the global Food Security Cluster) 
+Dimension Description Sub-dimension 
+Access 
+Food access (of households 
+in specific population 
+groups) is the ability of 
+households to regularly 
+acquire adequate amounts 
+of appropriate food for a 
+nutritious diet : physical, 
+financial and social 
+dimensions 
+- Physical restrictions to access to resources/food. 
+- Financial limitations to the purchase of food. 
+- Social barriers of groups to access resources/food. 
+ Availability 
+Food availability is the food 
+[of appropriate quality] that 
+is physically present in the 
+area of concern and 
+expected to become 
+available for use in that area 
+within the period of 
+concern – from domestic 
+production and imports 
+(including direct food 
+distribution through food 
+aid) 
+- Agricultural production (crops, livestock, fisheries, aquaculture) 
+and inputs 
+- Rainfall patterns 
+- Internal and external trade flows 
+Utilization 
+Food utilization (by 
+households in specific 
+population groups) refers 
+to the use that households 
+make of the food to which 
+they have access and 
+individuals’ ability to absorb 
+and metabolize the 
+nutrients and the 
+conversion efficiency of the 
+bod 
+Factors likely to impact nutrients absorption, such as: 
+- Availability of items to safely store and prepare food. 
+- Consumption of food in sufficient and diverse quantities, 
+breastfeeding 
+- Intra-household food distribution dynamics 
+- Access to clean water, hygiene and sanitation facilities and 
+services 
+- Prevalence of diseases which may limit or prevent the ability to 
+absorb nutritional value 
+- Maternal, infant, young child and adolescent feeding practices 
+- Gender dynamics 
+ 
+From a theoretical perspective, the Quarterly Food Security Monitoring will build upon the three 
+accepted dimensions of food security, as documented by the global food security cluster 2: Access, Availability 
+and Utilization3. In addition to this, a fourth dimension will be considered, consisting of Food Consumption and 
+Livelihood change and reflecting the impact of the three former dimensions.  
+ 
+2 Food Security Cluster, April 2022, Food Security Dimensions Documents. 
+3 Although a fourth and cross -cutting dimension, Stability, could also be considered, it was decided not to include it as it is more closely 
+related to exogenous shocks having an impact on the three main dimensions of food security, and can already be considered to be covered 
+by the Shocks Monitoring Index that REACH is developing as part of a collaboration grant with WFP-VAM.
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 3 
+ 
+Each indicator added in the framework will be indexed to one of those food security dimensions, and 
+the aggregation of indicator-specific data will assign a single severity for each dimension – allowing for a better 
+overview of key drivers of food security needs in each assessed district. 
+Aggregation methodology 
+Throughout the aggregation process, each district will receive a severity from 1. None/Minimal to 5. 
+Catastrophic for each of the four dimensions. An overall food security severity will then be derived from those 
+dimension-specific severities. The overall severity and four dimension-specific severities will be consolidated into 
+a single dataset to allow for comparisons and identification of drivers of food insecurity, and each of them will 
+be mapped individually. 
+The aggregation methodology draws primarily from the Joint Intersectoral Analysis Framework (JIAF), while the 
+Integrated Phase Classification (IPC) is used as an analytical reference to guide the interpretation of food security 
+outcomes. Since the IPC is a consensus-based process and does not prescribe aggregation procedures, its role 
+here is limited to informing conceptual alignment rather than the aggregation steps themselves. Adjustments to 
+the methodology are made to reflect the nature of the data used in the RTM framework (e.g., settlement -level 
+KI data and inputs from multiple assessments). 
+1. Data preparation 
+Prior to aggregation, every data point (corresponding to a single interview) will receive a severity for 
+each of the indicators it informs, based on the thresholds outlined in the Analytical framework. 
+For HSM data, where KIs report on settlements with varying sizes, each interview will be weighted according to 
+its population’s relative size compared to the population of all assessed settlements within the district it lies in. 
+For instance, for a settlement with a population of 10 households located in a district where 6 settlements where 
+assessed and the sum of the assessed settlements’ population is 50 households will receive a weight of 
+(10/50)/(1/6) = 1.2 - irrespective of the district’s overall population.  
+2. Indicator-level aggregation 
+Once all data points have received a severity for every relevant indicator based on the thresholds 
+outlined in the analytical framework, each settlement will have an assigned severity score (1 –5). To determine 
+the district-level (area-level) severity for each indicator, settlements within the district are then ranked from most 
+to least severe, and the district -level severity is determined by the severity category represented in the most 
+severe 20% of settlements. 
+This approach ensures that the aggregation reflects the conditions faced by the most affected portion 
+of the population, in line with IPC-inspired principles focusing on the worst-off groups. 
+For instance, in a district where 0% of settlements fall in severity 4 or 5, 15% in severity 3, and 8% in 
+severity 2, the most severe 20% of settlements fall within severity 2; therefore, the district would receive a severity 
+of 2 for that indicator 
+3. Dimension-specific aggregation 
+Once every area has received a severity for each indicator, severities will be aggregated at the food 
+security dimension level, based on the average severity of all indicators within each dimension. 
+4. Quarterly food security severity 
+The overall food security severity will consist of the average of all individual indicator severities, weighted 
+so that each dimension has the same weight (0.25) in the overall severity.
+www.reach-initiative.org 4 
+ 
+ 
+Data Analysis Plan 
+ 
+# Sector Indicator 
+name 
+Assessment 
+name 
+Granularity 1. None/ 
+Minimal 
+2. Stress 3. Severe 4. Extreme 5. 
+Catastrophic 
+1 Food Access % of 
+settlements 
+where KIs 
+reporting 
+women lack 
+access to 
+income-
+generating 
+activities 
+HSM District 
+yes= (60% - 
+100%) 
+yes= (40% - 
+60%) 
+yes = (20% - 
+40%) 
+yes = (20% - 
+1%) 
+No 100% 
+2 Food Access % 
+settlements 
+where KIs 
+reporting 
+the average 
+time for 
+accessing 
+the nearest 
+food market 
+HSM District 
+30 minutes 
+to 1 hour 
+1 to 2 hours 
+More than 2 
+hours 
+No access to 
+market 
+No criteria 
+3 Food Access % of 
+settlements 
+where KI 
+report on 
+HSM District No problem 
+Market too 
+far  
+Or  
+Environmenta
+l - flooding, 
+extreme heat, 
+droughts, etc. 
+ OR  
+Marketplace 
+closed No criteria
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 5 
+ 
+common 
+challenges 
+faced by 
+people in 
+accessing 
+existing 
+marketplace
+s. 
+access to 
+market is 
+unpredictable 
+Physical 
+access - 
+damaged 
+roads, no 
+transport, etc. 
+4 Food Access % 
+settlements 
+where KIs 
+reporting on 
+the problem 
+with food 
+accessibility 
+HSM District No problem 
+Moderate 
+problem 
+serious 
+problem 
+very serious 
+problem 
+Extremely 
+serious 
+problem 
+5 Food Access % 
+settlements 
+where KIs 
+reporting on 
+the ability to 
+purchase 
+essential 
+food items in 
+the  past 30 
+days 
+HSM District 
+Always able 
+to purchase 
+essential 
+food items 
+Sometimes 
+able to 
+purchase 
+essential 
+food items 
+Rarely able 
+to purchase 
+essential 
+food items 
+Unable to 
+purchase 
+essential 
+food items 
+No criteria 
+7 Food Access % 
+settlements 
+where KIs 
+HSM District 
+No change 
+Or 
+small 
+small 
+increase in 
+prices 
+big increase 
+in prices 
+No criteria No criteria
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 6 
+ 
+reporting 
+the sudden 
+change in 
+food item 
+prices in the 
+past 30 days 
+decrease Or 
+a big 
+decrease in 
+prices 
+8 Food 
+Availability 
+% 
+settlements 
+where KIs 
+report that, 
+for the 
+majority of 
+people in 
+the 
+settlement, 
+crop yield 
+from the last 
+harvest 
+decreased 
+compared 
+with the 
+previous 
+harvest of 
+the same 
+crops 
+HSM District 
+Much more 
+than 
+previous 
+harvest; OR 
+A bit more   
+Much more 
+than previous 
+harvest; OR A 
+bit more   
+Much less 
+than the 
+previous 
+harvest 
+No criteria 
+No harvest 
+at all; All 
+harvest were 
+lost
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 7 
+ 
+9 Food 
+Availability 
+% 
+settlements 
+where KIs 
+reporting a 
+sudden 
+drop in the 
+number of 
+livestock in 
+the past 30 
+days 
+HSM District 
+ Number of 
+livestock is 
+normal or 
+almost 
+normal for 
+this time of 
+the year 
+Number of 
+livestock 
+reduced by 
+less than 
+half 
+Number of 
+livestock is 
+about half 
+of what's 
+normal for 
+this time of 
+year 
+Number of 
+livestock 
+reduced by 
+more than 
+half 
+All livestock 
+were lost 
+10 Food 
+Availability 
+% traders 
+reporting 
+unavailable 
+food basket 
+items in 
+markets 
+Food basket 
+items 
+include: 
+Wheat flour 
+(local or 
+imported), 
+vegetable 
+oil, pulses 
+(beans, 
+lentils or 
+JMMI Province 
+All food 
+basket items 
+are widely 
+available 
+One or two 
+food basket 
+items have 
+limited 
+availability 
+One food 
+basket 
+component 
+is 
+completely 
+unavailable 
+OR 
+Three to 
+four food 
+basket items 
+have limited 
+availability 
+Two food 
+basket items 
+are 
+completely 
+unavailable 
+Three or 
+four food 
+basket items 
+are 
+completely 
+unavailable
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 8 
+ 
+split peas) 
+and salt 
+11 Food 
+Utilization 
+Proportion 
+of the 
+population 
+with very 
+limited 
+access to 
+water for 
+drinking and 
+cooking as 
+reported by 
+the KI in the 
+[community] 
+HSM District 
+Nobody or 
+almost 
+nobody 
+(around 0%) 
+A few 
+(around 1 in 
+4 people or 
+25%) 
+About half 
+(around  2 in 
+4 people or 
+25%) 
+Most (around 
+3 in 4 people 
+or 75%) 
+Everyone or 
+almost 
+everyone 
+(around 
+100%) 
+12 Food 
+Utilization 
+% of 
+settlements 
+where Kis 
+report the 
+majority of 
+households 
+have access 
+to a 
+HSM District 
+Everyone or 
+almost 
+everyone 
+(around 
+100%) 
+Most 
+(around 3 in 
+4 people or 
+75%) 
+About half 
+(around 2 in 
+4 people or 
+50%) 
+A few 
+(around 1 in 
+4 people or 
+25%) 
+Nobody or 
+almost 
+nobody 
+(around 0%)
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 9 
+ 
+functional 
+and 
+improved 
+sanitation 
+facility 
+14 Food 
+Utilization 
+% of 
+settlement 
+where KIs 
+reporting on 
+main source 
+of drinking 
+water for 
+most people 
+HSM District 
+Water 
+comes from 
+an improved 
+source 
+(Protected 
+from 
+outside 
+contaminati
+on 
+(improved 
+water 
+source), for 
+example: 
+piped 
+water/tap, 
+covered dug 
+well, 
+pumped 
+well/borehol
+e, tanker 
+truck/carts 
+with 
+Water 
+comes from 
+an 
+unimproved 
+source (Not-
+protected 
+from 
+outside 
+contaminati
+on ( for 
+example: 
+unprotected 
+well, 
+traditional 
+dug well, 
+unprotected 
+natural 
+spring, etc) 
+Surface 
+water, for 
+example: 
+river, dam, 
+lake, pond, 
+stream, 
+canal, 
+irrigation 
+system, etc. 
+No criteria No criteria
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 10 
+ 
+tank/store, 
+bottled 
+water, water 
+bags, 
+protected 
+rainwater, 
+etc.) 
+15 Food Access % of 
+settlements 
+where KIs 
+reporting on 
+the 
+perceived 
+level of 
+hunger 
+among the 
+households 
+HSM District No hunger  Little hunger 
+Moderate 
+hunger 
+Severe 
+hunger 
+Extreme 
+hunger 
+16 Food Access In the last 
+[30 days], 
+what 
+proportion 
+of the 
+population 
+in [the 
+community] 
+had to do 
+very unusual 
+HSM District 
+Nobody or 
+almost 
+nobody 
+(0%) 
+A few 
+(around 1 in 
+4 people or 
+25%) 
+About half 
+(around  2 in 
+4 people or 
+25%) 
+Most (around 
+3 in 4 people 
+or 75%) 
+Everyone or 
+almost 
+everyone 
+(around 
+100%)
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 11 
+ 
+and 
+desperate 
+things just 
+to obtain a 
+small 
+amount of 
+food? 
+17 Food 
+availability  
+% of 
+settlements 
+where KIs 
+reporting on 
+Condition of 
+pasture 
+during the 
+grazing 
+season 
+compared to 
+normal year. 
+HSM District Better/Slightl
+y better 
+Similar to last 
+year 
+Slightly worse 
+than last year 
+Worse than 
+last year 
+No Criteria 
+18 Food 
+availability 
+% of 
+settlements 
+where KIs 
+reporting on 
+fruit 
+production 
+condition 
+compared to 
+last year 
+HSM District Better/Slightl
+y better 
+Similar to last 
+year 
+Slightly worse 
+than last year 
+Worse than 
+last year 
+No Criteria
+Needs Monitoring Framework, 19/03/2025 
+ 
+www.reach-initiative.org 12 
+ 
+19 Food 
+availability 
+% of 
+settlements 
+where KIs 
+reporting on 
+milk 
+production 
+condition 
+compared to 
+normal year 
+HSM District Better/Slightl
+y better 
+Similar to last 
+year 
+Slightly worse 
+than last year 
+Worse than 
+last year 
+No Criteria

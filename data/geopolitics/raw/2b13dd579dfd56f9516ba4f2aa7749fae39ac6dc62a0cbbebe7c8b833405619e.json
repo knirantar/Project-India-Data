@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-17T11:30:49.607935+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.xml",
-  "text_path": "data/geopolitics/raw/fe262283f42d45928ef4c17a3f3705e12ea428937b60dd88c2fe5971d6423e0d.txt"
+  "url": "https://www.aljazeera.com/news/2026/6/17/g7-leaders-to-boost-ukraine-air-defences-tighten-sanctions-on-russia?traffic_source=rss",
+  "title": "G7 leaders to boost Ukraine air defences, tighten sanctions on Russia",
+  "source": "https://www.aljazeera.com/xml/rss/all.xml",
+  "published": "Wed, 17 Jun 2026 08:50:31 +0000",
+  "sha256": "2b13dd579dfd56f9516ba4f2aa7749fae39ac6dc62a0cbbebe7c8b833405619e",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-06-17T11:31:39.906201+00:00",
+  "text_chars": 4361,
+  "raw_path": "data/geopolitics/raw/2b13dd579dfd56f9516ba4f2aa7749fae39ac6dc62a0cbbebe7c8b833405619e.html",
+  "text_path": "data/geopolitics/raw/2b13dd579dfd56f9516ba4f2aa7749fae39ac6dc62a0cbbebe7c8b833405619e.txt"
 }

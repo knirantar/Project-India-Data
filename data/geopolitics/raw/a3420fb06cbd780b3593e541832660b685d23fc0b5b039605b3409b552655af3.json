@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/45e982b7-add6-5ecd-97c7-abb24fc99926/Sudan%20Situation%20-%20UNHCR%20External%20Update%20%23118%20-%20April%202026.pdf",
+  "title": "Sudan Situation: UNHCR Monthly External Update #118 - April 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 17 Jun 2026 09:03:16 +0000",
+  "sha256": "a3420fb06cbd780b3593e541832660b685d23fc0b5b039605b3409b552655af3",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-17T11:31:28.828168+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-06-17T11:31:33.522001+00:00",
+  "text_chars": 74770,
+  "raw_path": "data/geopolitics/raw/a3420fb06cbd780b3593e541832660b685d23fc0b5b039605b3409b552655af3.pdf",
+  "text_path": "data/geopolitics/raw/a3420fb06cbd780b3593e541832660b685d23fc0b5b039605b3409b552655af3.txt"
 }
