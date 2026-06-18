@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-18T00:11:40.638981+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/3aa0f0ba01ae99970d9d49343b3603bc82d465ab63b21137b28223867b3b18a2.txt",
+      "metadata_path": "data/geopolitics/raw/3aa0f0ba01ae99970d9d49343b3603bc82d465ab63b21137b28223867b3b18a2.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Trump’s Iran deal is result of unrealistic ambitions for an untenable war",
+      "url": "https://www.theguardian.com/world/2026/jun/17/trumps-iran-deal-is-result-of-unrealistic-ambitions-for-an-untenable-war",
+      "text_path": "data/geopolitics/raw/7564a0ca2b95e17633f2bce279cc43e79d4745d211ef9fc3a9611461deb7c927.txt",
+      "metadata_path": "data/geopolitics/raw/7564a0ca2b95e17633f2bce279cc43e79d4745d211ef9fc3a9611461deb7c927.json"
+    },
+    {
+      "title": "Top Republican decries Trump’s Iran deal: ‘Reagan is rolling over in his grave’",
+      "url": "https://www.theguardian.com/us-news/2026/jun/17/trump-republicans-iran-deal",
+      "text_path": "data/geopolitics/raw/5889195fac1af31e4a4d78463f86654c6430d3b1d9283c3f28e984fe1c90b001.txt",
+      "metadata_path": "data/geopolitics/raw/5889195fac1af31e4a4d78463f86654c6430d3b1d9283c3f28e984fe1c90b001.json"
+    },
+    {
+      "title": "Afghanistan | Population Movement (Returnees) - Operation update #5 (12-month update) (MDRAF018)",
+      "url": "https://reliefweb.int/report/afghanistan/afghanistan-population-movement-returnees-operation-update-5-12-month-update-mdraf018",
+      "text_path": "data/geopolitics/raw/c4e4b2db89bbe0a1b81c05c868603693a4f46e7253772b4dfebd343630d7d683.txt",
+      "metadata_path": "data/geopolitics/raw/c4e4b2db89bbe0a1b81c05c868603693a4f46e7253772b4dfebd343630d7d683.json"
+    },
+    {
+      "title": "Afghanistan | Population Movement (Returnees) - Operation update #5 (12-month update) (MDRAF018) (pdf)",
+      "url": "https://reliefweb.int/attachments/88b50434-74d0-448e-b2c1-bd3e3d286d2e/MDRAF018OU5.pdf",
+      "text_path": "data/geopolitics/raw/a62a01d0328c95bebf21e037a6aec094892aaed8941bcf8864bdac8a42da25e4.txt",
+      "metadata_path": "data/geopolitics/raw/a62a01d0328c95bebf21e037a6aec094892aaed8941bcf8864bdac8a42da25e4.json"
+    },
+    {
+      "title": "Trump Defends His Iran Deal",
+      "url": "https://foreignpolicy.com/2026/06/17/us-iran-peace-deal-draft-text-mou-trump-g7-lebanon-war-israel/",
+      "text_path": "data/geopolitics/raw/bc3ab4c4a38f55bc3d5a90a1057c7aefa6a30e4c86832184a4ca78c63133b32c.txt",
+      "metadata_path": "data/geopolitics/raw/bc3ab4c4a38f55bc3d5a90a1057c7aefa6a30e4c86832184a4ca78c63133b32c.json"
+    },
+    {
+      "title": "Burundi - Mise à jour des messages clés : Les améliorations saisonnières freinées par les prix élevés des denrées alimentaires et les pertes de la culture du haricot, Mai - Septembre 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/e322934a-66a6-4db4-b8ca-8b94e82875e9/20260501-FEWS-NET-bi-kmu-fr-1781701772.pdf",
+      "text_path": "data/geopolitics/raw/d7eb69d4d04de145cd37aca955e21fbc35dff6f1defce16963893f1dfdd22fd0.txt",
+      "metadata_path": "data/geopolitics/raw/d7eb69d4d04de145cd37aca955e21fbc35dff6f1defce16963893f1dfdd22fd0.json"
+    }
+  ],
+  "txt_before": 1122,
+  "txt_after": 1129
+}
