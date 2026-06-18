@@ -1,0 +1,90 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-18T05:33:47.877897+00:00",
+  "new_documents": 13,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Middle East crisis live: Tehran says it will charge ships in strait of Hormuz after 60 days; US-Iran presidents sign peace deal",
+      "url": "https://www.theguardian.com/world/live/2026/jun/18/middle-east-crisis-live-us-iran-presidents-sign-peace-deal-mou-trump-tehran-strait-of-hormuz-toll-lebanon-israel",
+      "text_path": "data/geopolitics/raw/221769eb4c4123cf971f1f080bab93d8524613cab52e9ca1852643bcfedbb7ab.txt",
+      "metadata_path": "data/geopolitics/raw/221769eb4c4123cf971f1f080bab93d8524613cab52e9ca1852643bcfedbb7ab.json"
+    },
+    {
+      "title": "Trump signs initial deal to end Iran war and open Strait of Hormuz as nuclear talks continue",
+      "url": "http://www.euronews.com/2026/06/18/trump-signs-initial-deal-to-end-iran-war-and-open-strait-of-hormuz-as-nuclear-talks-contin",
+      "text_path": "data/geopolitics/raw/c79facf6873e11d360229e6f2a8d3e17643c04ed527707f163c64b4e35b2f909.txt",
+      "metadata_path": "data/geopolitics/raw/c79facf6873e11d360229e6f2a8d3e17643c04ed527707f163c64b4e35b2f909.json"
+    },
+    {
+      "title": "Oil prices fall, stocks rally as US, Iran sign framework to end war",
+      "url": "https://www.aljazeera.com/economy/2026/6/18/oil-prices-fall-stocks-rally-as-us-iran-sign-framework-to-end-war?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/95a9299829225fdeb4b068413713550d64ec5baa157afcf64c11895672e74577.txt",
+      "metadata_path": "data/geopolitics/raw/95a9299829225fdeb4b068413713550d64ec5baa157afcf64c11895672e74577.json"
+    },
+    {
+      "title": "Trump’s MoU with Iran draws backlash from some Republicans",
+      "url": "https://www.aljazeera.com/news/2026/6/18/trumps-iran-framework-draws-backlash-from-some-republicans?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/96a4a311296f5ae452d5fe7b1f464cb30161b271035698b5b892b5166a6a9734.txt",
+      "metadata_path": "data/geopolitics/raw/96a4a311296f5ae452d5fe7b1f464cb30161b271035698b5b892b5166a6a9734.json"
+    },
+    {
+      "title": "Taliban order ban on smartphones as officials shown destroying devices",
+      "url": "https://www.theguardian.com/global-development/2026/jun/18/taliban-ban-smartphones-officials-shown-destroying-devices",
+      "text_path": "data/geopolitics/raw/ea234836f2f6a90e57b62f0465990d2ea3af8ca3d53ae071cdf75b769fd3c24c.txt",
+      "metadata_path": "data/geopolitics/raw/ea234836f2f6a90e57b62f0465990d2ea3af8ca3d53ae071cdf75b769fd3c24c.json"
+    }
+  ],
+  "txt_before": 1129,
+  "txt_after": 1134
+}
