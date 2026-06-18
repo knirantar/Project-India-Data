@@ -1,0 +1,144 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-18T14:00:45.898074+00:00",
+  "new_documents": 22,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.txt",
+      "metadata_path": "data/geopolitics/raw/fea7d9571ff7ca2efb3238e0492a555dedb78bd63fbcf1aab057cb00127447d0.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.txt",
+      "metadata_path": "data/geopolitics/raw/4aa5eb16f3b7647dea5c3db4e18657c5f3306682a73e2969e1017351b3c11a79.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/3aa0f0ba01ae99970d9d49343b3603bc82d465ab63b21137b28223867b3b18a2.txt",
+      "metadata_path": "data/geopolitics/raw/3aa0f0ba01ae99970d9d49343b3603bc82d465ab63b21137b28223867b3b18a2.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Moscow oil refinery struck in Ukraine’s biggest air raid on city since start of war",
+      "url": "https://www.theguardian.com/world/2026/jun/18/moscow-oil-refinery-on-fire-ukraine-drone-stikes",
+      "text_path": "data/geopolitics/raw/6d5682f6ce34144a955b2daac35893bd13e32f12974b3b9f5932ef6042d10902.txt",
+      "metadata_path": "data/geopolitics/raw/6d5682f6ce34144a955b2daac35893bd13e32f12974b3b9f5932ef6042d10902.json"
+    },
+    {
+      "title": "Supreme court to release opinions with several high-stakes rulings to come including birthright citizenship – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jun/18/supreme-court-birthright-citizenship-ruling-tps-mangione-iran-latest-updates",
+      "text_path": "data/geopolitics/raw/19a95da8dd7b961f84acf5876616be0fef78c0f30881a28e1070947d4d4f6c45.txt",
+      "metadata_path": "data/geopolitics/raw/19a95da8dd7b961f84acf5876616be0fef78c0f30881a28e1070947d4d4f6c45.json"
+    },
+    {
+      "title": "World reacts to US-Iran deal to extend ceasefire, reopen Strait of Hormuz",
+      "url": "https://www.aljazeera.com/news/2026/6/18/world-reacts-to-us-iran-deal-to-extend-ceasefire-begin-negotations?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/49bf61017aa0862338d9668c70feba3e730587b804cf737e6811b20960acfa99.txt",
+      "metadata_path": "data/geopolitics/raw/49bf61017aa0862338d9668c70feba3e730587b804cf737e6811b20960acfa99.json"
+    },
+    {
+      "title": "US-Iran deal: technical work can begin, says atomic energy agency",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
+      "text_path": "data/geopolitics/raw/f2d45b783957bd6c611d8998acb7e3bab060922ee4d0c276b7c0d3adf4cb0aad.txt",
+      "metadata_path": "data/geopolitics/raw/f2d45b783957bd6c611d8998acb7e3bab060922ee4d0c276b7c0d3adf4cb0aad.json"
+    },
+    {
+      "title": "Putin’s PRC Visit Failed to Advance Power of Siberia 2",
+      "url": "https://jamestown.org/putins-prc-visit-failed-to-advance-power-of-siberia-2/",
+      "text_path": "data/geopolitics/raw/bfef885cc61731ae45015688cdfa3c29c3a7f49f30be003db95c72bf701fdc4e.txt",
+      "metadata_path": "data/geopolitics/raw/bfef885cc61731ae45015688cdfa3c29c3a7f49f30be003db95c72bf701fdc4e.json"
+    },
+    {
+      "title": "Report: Russia's nuclear-powered 'Skyfall' missile is dirty and dangerous",
+      "url": "https://www.npr.org/2026/06/18/nx-s1-5843252/russia-nuclear-powered-missile-burevestnik",
+      "text_path": "data/geopolitics/raw/6d6087062c483f3067841b32ac40486b5a283555983cbb45c16266895d6c5681.txt",
+      "metadata_path": "data/geopolitics/raw/6d6087062c483f3067841b32ac40486b5a283555983cbb45c16266895d6c5681.json"
+    },
+    {
+      "title": "Trump signs agreement with Iran. And, the president's approval hits record lows",
+      "url": "https://www.npr.org/2026/06/18/g-s1-128755/up-first-newsletter-iran-agreement-jay-clayton-bill-pulte-trump-approval",
+      "text_path": "data/geopolitics/raw/b2b3abe9db67fc5cad3ca9e261ff21152f0577841d228b3fcde2d6e78b2a2840.txt",
+      "metadata_path": "data/geopolitics/raw/b2b3abe9db67fc5cad3ca9e261ff21152f0577841d228b3fcde2d6e78b2a2840.json"
+    },
+    {
+      "title": "US-Iran deal: technical work can begin, says atomic energy agency (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/10-09-2025_IAEA_nuclear.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/222543567d493fbfe0537e3cda40a14a51abc8b445c3bea6d27f4aab7a439341.txt",
+      "metadata_path": "data/geopolitics/raw/222543567d493fbfe0537e3cda40a14a51abc8b445c3bea6d27f4aab7a439341.json"
+    },
+    {
+      "title": "‘Darkest chapter’: Record child violations in 2025, with national forces leading the way",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167747",
+      "text_path": "data/geopolitics/raw/4f837856ff92bb3e5bbdda154f582875e2e434df04d841c54b734c907d62a05d.txt",
+      "metadata_path": "data/geopolitics/raw/4f837856ff92bb3e5bbdda154f582875e2e434df04d841c54b734c907d62a05d.json"
+    },
+    {
+      "title": "‘Darkest chapter’: Record child violations in 2025, with national forces leading the way (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/01-08-2025-UNICEF-Ukraine-04.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/2d8a1ae971f2179be0bf9ffd3651c4403419168c14deef453838a1b3c59a5e15.txt",
+      "metadata_path": "data/geopolitics/raw/2d8a1ae971f2179be0bf9ffd3651c4403419168c14deef453838a1b3c59a5e15.json"
+    },
+    {
+      "title": "Germany moves two ships to Djibouti, eyeing multinational Hormuz mission this summer",
+      "url": "https://www.defensenews.com/global/europe/2026/06/18/germany-moves-two-ships-to-djibouti-eyeing-multinational-hormuz-mission-this-summer/",
+      "text_path": "data/geopolitics/raw/5aaf90b92a6262ef2e6ebd830711ad320293119c8ebd8d2443ba85f3980ea3d2.txt",
+      "metadata_path": "data/geopolitics/raw/5aaf90b92a6262ef2e6ebd830711ad320293119c8ebd8d2443ba85f3980ea3d2.json"
+    },
+    {
+      "title": "Ukraine Takes an Important — if Small — Step Toward Joining the EU",
+      "url": "https://www.fdd.org/analysis/2026/06/18/ukraine-takes-an-important-if-small-step-toward-joining-the-eu/",
+      "text_path": "data/geopolitics/raw/630eb92e23a364d898e12ca1bd2f415333cd37f6082deac0ec387a19688bcf92.txt",
+      "metadata_path": "data/geopolitics/raw/630eb92e23a364d898e12ca1bd2f415333cd37f6082deac0ec387a19688bcf92.json"
+    },
+    {
+      "title": "Assessing the State of Iran’s Naval Infrastructure and Tactics",
+      "url": "https://jamestown.org/assessing-the-state-of-irans-naval-infrastructure-and-tactics/",
+      "text_path": "data/geopolitics/raw/d1e0fef1549fa8a941e5754be84dd6480f1b857345491a71f0b25c5efbc021e0.txt",
+      "metadata_path": "data/geopolitics/raw/d1e0fef1549fa8a941e5754be84dd6480f1b857345491a71f0b25c5efbc021e0.json"
+    }
+  ],
+  "txt_before": 1140,
+  "txt_after": 1153
+}

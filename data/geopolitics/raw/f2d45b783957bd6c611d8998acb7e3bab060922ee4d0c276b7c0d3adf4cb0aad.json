@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-18T13:59:35.468844+00:00",
-  "text_chars": 6187025,
-  "raw_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json.raw",
-  "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167748",
+  "title": "US-Iran deal: technical work can begin, says atomic energy agency",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Thu, 18 Jun 2026 12:00:00 +0000",
+  "sha256": "f2d45b783957bd6c611d8998acb7e3bab060922ee4d0c276b7c0d3adf4cb0aad",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-18T14:00:25.002641+00:00",
+  "text_chars": 2565,
+  "raw_path": "data/geopolitics/raw/f2d45b783957bd6c611d8998acb7e3bab060922ee4d0c276b7c0d3adf4cb0aad.html",
+  "text_path": "data/geopolitics/raw/f2d45b783957bd6c611d8998acb7e3bab060922ee4d0c276b7c0d3adf4cb0aad.txt"
 }
