@@ -1,0 +1,90 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-18T19:21:01.989051+00:00",
+  "new_documents": 13,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.txt",
+      "metadata_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/3aa0f0ba01ae99970d9d49343b3603bc82d465ab63b21137b28223867b3b18a2.txt",
+      "metadata_path": "data/geopolitics/raw/3aa0f0ba01ae99970d9d49343b3603bc82d465ab63b21137b28223867b3b18a2.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Iran announces plans to bring in maritime fees for strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/jun/18/iran-announces-plans-to-bring-in-maritime-fees-for-strait-of-hormuz",
+      "text_path": "data/geopolitics/raw/9a59ab8f2e3c41cfde69e0e8fd3d82364beb7aaa171d7f33f6d08e8f8cf7dde9.txt",
+      "metadata_path": "data/geopolitics/raw/9a59ab8f2e3c41cfde69e0e8fd3d82364beb7aaa171d7f33f6d08e8f8cf7dde9.json"
+    },
+    {
+      "title": "JD Vance tells Israel ‘you can’t kill your way out’ of security problems",
+      "url": "https://www.aljazeera.com/news/2026/6/18/jd-vance-tells-israel-you-cant-kill-your-way-out-of-security-problems?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/2ed2a02fd0a39795f3fde837b2848212621d382373e879c2a1afc40c70ad430e.txt",
+      "metadata_path": "data/geopolitics/raw/2ed2a02fd0a39795f3fde837b2848212621d382373e879c2a1afc40c70ad430e.json"
+    },
+    {
+      "title": "Pete Hegseth accuses Nato countries of ‘free riding’ in combative address",
+      "url": "https://www.theguardian.com/us-news/2026/jun/18/pete-hegseth-accuses-nato-countries-free-riding-europe",
+      "text_path": "data/geopolitics/raw/652f10ab9075d2a0e25e880af841f6251c2c294c4d0df3efcc44d2e628f3e0c4.txt",
+      "metadata_path": "data/geopolitics/raw/652f10ab9075d2a0e25e880af841f6251c2c294c4d0df3efcc44d2e628f3e0c4.json"
+    }
+  ],
+  "txt_before": 1167,
+  "txt_after": 1170
+}
