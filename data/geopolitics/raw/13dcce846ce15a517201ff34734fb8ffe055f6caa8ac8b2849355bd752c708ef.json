@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-18T23:45:27.531841+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167758",
+  "title": "UN upholds freedom of movement for peacekeepers in Lebanon",
+  "source": "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml",
+  "published": "Thu, 18 Jun 2026 12:00:00 +0000",
+  "sha256": "13dcce846ce15a517201ff34734fb8ffe055f6caa8ac8b2849355bd752c708ef",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-18T23:46:09.652546+00:00",
+  "text_chars": 3084,
+  "raw_path": "data/geopolitics/raw/13dcce846ce15a517201ff34734fb8ffe055f6caa8ac8b2849355bd752c708ef.html",
+  "text_path": "data/geopolitics/raw/13dcce846ce15a517201ff34734fb8ffe055f6caa8ac8b2849355bd752c708ef.txt"
 }

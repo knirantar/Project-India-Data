@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-18T23:45:27.531841+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://foreignpolicy.com/2026/06/18/vance-peace-deal-trump-iran-israel-lebanon-nuclear-mou/",
+  "title": "The Vance Peace Deal",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Thu, 18 Jun 2026 21:59:21 +0000",
+  "sha256": "c911b8ce1d5bfaf3c0a15177ca500708b60cf53d03a867388b5f40e6dc2a73f6",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-18T23:46:07.735512+00:00",
+  "text_chars": 9613,
+  "raw_path": "data/geopolitics/raw/c911b8ce1d5bfaf3c0a15177ca500708b60cf53d03a867388b5f40e6dc2a73f6.html",
+  "text_path": "data/geopolitics/raw/c911b8ce1d5bfaf3c0a15177ca500708b60cf53d03a867388b5f40e6dc2a73f6.txt"
 }
