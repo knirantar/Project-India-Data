@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d",
-  "content_type": "text/html",
-  "collected_at": "2026-06-19T17:53:18.962464+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.html",
-  "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt"
+  "url": "https://www.dw.com/en/lebanon-is-us-iran-peace-deal-a-victory-for-hezbollah/a-77629727?maca=en-rss-en-world-4025-rdf",
+  "title": "Lebanon: Is US-Iran peace deal a 'victory' for Hezbollah?",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-06-19T16:59:00Z",
+  "sha256": "5ffae07f98836c628176f8d1868c1174bfd647f1f857d0cee99ccc43d6683995",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-06-19T17:53:41.849621+00:00",
+  "text_chars": 7625,
+  "raw_path": "data/geopolitics/raw/5ffae07f98836c628176f8d1868c1174bfd647f1f857d0cee99ccc43d6683995.html",
+  "text_path": "data/geopolitics/raw/5ffae07f98836c628176f8d1868c1174bfd647f1f857d0cee99ccc43d6683995.txt"
 }

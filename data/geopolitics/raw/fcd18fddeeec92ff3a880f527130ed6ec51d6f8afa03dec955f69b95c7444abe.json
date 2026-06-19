@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d",
-  "content_type": "text/html",
-  "collected_at": "2026-06-19T17:53:18.962464+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.html",
-  "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167765",
+  "title": "DR Congo: Efforts ramp up as Ebola outbreak accelerates beyond borders",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Fri, 19 Jun 2026 12:00:00 +0000",
+  "sha256": "fcd18fddeeec92ff3a880f527130ed6ec51d6f8afa03dec955f69b95c7444abe",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-19T17:53:41.761490+00:00",
+  "text_chars": 4513,
+  "raw_path": "data/geopolitics/raw/fcd18fddeeec92ff3a880f527130ed6ec51d6f8afa03dec955f69b95c7444abe.html",
+  "text_path": "data/geopolitics/raw/fcd18fddeeec92ff3a880f527130ed6ec51d6f8afa03dec955f69b95c7444abe.txt"
 }
