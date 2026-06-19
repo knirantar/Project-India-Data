@@ -1,0 +1,114 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-19T03:01:51.925121+00:00",
+  "new_documents": 17,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.txt",
+      "metadata_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/88da9d7afbef4e8448a2fd29fd528bf2e553a4b37eefe58cb8f613a77095d471.txt",
+      "metadata_path": "data/geopolitics/raw/88da9d7afbef4e8448a2fd29fd528bf2e553a4b37eefe58cb8f613a77095d471.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "oPt: Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Briefing to the Security Council on the humanitarian situation in Gaza, 18 June 2026",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/mr-tom-fletcher-under-secretary-general-humanitarian-affairs-and-emergency-relief-coordinator-briefing-security-council-humanitarian-situation-gaza-18-june-2026",
+      "text_path": "data/geopolitics/raw/d622172d792de659c4c166789042ec70f86ab2e614f2c57aef3ef84b34820553.txt",
+      "metadata_path": "data/geopolitics/raw/d622172d792de659c4c166789042ec70f86ab2e614f2c57aef3ef84b34820553.json"
+    },
+    {
+      "title": "oPt: Mr. Tom Fletcher, Under-Secretary-General for Humanitarian Affairs and Emergency Relief Coordinator – Briefing to the Security Council on the humanitarian situation in Gaza, 18 June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/fe13ab44-3571-4d15-ab7f-58248436d9c9/20260618%20USG%20SC%20Statement%20on%20OPT%20AS%20DELIVERED.pdf",
+      "text_path": "data/geopolitics/raw/c23893d8c4101fbb5b2ba988dc567f72779d714b927bd0666afbb55b850b9750.txt",
+      "metadata_path": "data/geopolitics/raw/c23893d8c4101fbb5b2ba988dc567f72779d714b927bd0666afbb55b850b9750.json"
+    },
+    {
+      "title": "oPt: Remarks Delivered by Bushra Khalidi, Oxfam’s Global Humanitarian Policy Lead, at the UN Security Council Emergency Session on Gaza",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/remarks-delivered-bushra-khalidi-oxfams-global-humanitarian-policy-lead-un-security-council-emergency-session-gaza",
+      "text_path": "data/geopolitics/raw/3381c809f9cacfdf0c9650202cde9ce554e32dbe6a1e1f82d12028307ebfcfa8.txt",
+      "metadata_path": "data/geopolitics/raw/3381c809f9cacfdf0c9650202cde9ce554e32dbe6a1e1f82d12028307ebfcfa8.json"
+    },
+    {
+      "title": "JD Vance tells Iran deal critics in Israel: Trump is your only ally left in the world",
+      "url": "https://www.theguardian.com/us-news/2026/jun/19/jd-vance-israel-iran-deal-critics",
+      "text_path": "data/geopolitics/raw/17651bb57b6fa2c53c6330f837f6b1675c8d5cf54d455c3c7d0c773270a870cb.txt",
+      "metadata_path": "data/geopolitics/raw/17651bb57b6fa2c53c6330f837f6b1675c8d5cf54d455c3c7d0c773270a870cb.json"
+    },
+    {
+      "title": "Iran: Escalation in the Middle East and Beyond — Mobility Report (09 - 15 June 2026)",
+      "url": "https://reliefweb.int/report/iran-islamic-republic/escalation-middle-east-and-beyond-mobility-report-09-15-june-2026",
+      "text_path": "data/geopolitics/raw/fa579784c97ed8e1ad991671a335d58825687467d0647b40d61ff7b87959a388.txt",
+      "metadata_path": "data/geopolitics/raw/fa579784c97ed8e1ad991671a335d58825687467d0647b40d61ff7b87959a388.json"
+    },
+    {
+      "title": "Iran: Escalation in the Middle East and Beyond — Mobility Report (09 - 15 June 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/9a3d4567-6c6c-5dfd-9618-f5f7e0d7a2d6/Escalation%20in%20the%20Middle%20East_R15_09_15_March_2026.pdf",
+      "text_path": "data/geopolitics/raw/d98da610b160d7db47d5c062fe24ee3b8be46e513c247de2987ca5e4d3295449.txt",
+      "metadata_path": "data/geopolitics/raw/d98da610b160d7db47d5c062fe24ee3b8be46e513c247de2987ca5e4d3295449.json"
+    },
+    {
+      "title": "Safety and security for migrant women living in tents in France",
+      "url": "https://reliefweb.int/report/france/safety-and-security-migrant-women-living-tents-france",
+      "text_path": "data/geopolitics/raw/d37ec1b570123a725ff8b4415408b1187dfafac153bb943985bf2eaf591b490d.txt",
+      "metadata_path": "data/geopolitics/raw/d37ec1b570123a725ff8b4415408b1187dfafac153bb943985bf2eaf591b490d.json"
+    }
+  ],
+  "txt_before": 1182,
+  "txt_after": 1189
+}
