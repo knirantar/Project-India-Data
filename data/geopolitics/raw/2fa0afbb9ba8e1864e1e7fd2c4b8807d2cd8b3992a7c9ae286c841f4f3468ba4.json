@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "geospatial_mapping_data",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438",
-  "content_type": "application/zip",
-  "collected_at": "2026-06-19T12:44:39.961612+00:00",
-  "text_chars": 238,
-  "raw_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
-  "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
+  "url": "https://www.dw.com/en/months-of-war-fundamentally-change-iran-gulf-ties/a-77626785?maca=en-rss-en-world-4025-rdf",
+  "title": "Months of war fundamentally change Iran-Gulf ties",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-06-19T12:01:00Z",
+  "sha256": "2fa0afbb9ba8e1864e1e7fd2c4b8807d2cd8b3992a7c9ae286c841f4f3468ba4",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-06-19T12:45:11.360862+00:00",
+  "text_chars": 5768,
+  "raw_path": "data/geopolitics/raw/2fa0afbb9ba8e1864e1e7fd2c4b8807d2cd8b3992a7c9ae286c841f4f3468ba4.html",
+  "text_path": "data/geopolitics/raw/2fa0afbb9ba8e1864e1e7fd2c4b8807d2cd8b3992a7c9ae286c841f4f3468ba4.txt"
 }
