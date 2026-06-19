@@ -1,0 +1,108 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-19T08:35:41.094326+00:00",
+  "new_documents": 16,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.txt",
+      "metadata_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/88da9d7afbef4e8448a2fd29fd528bf2e553a4b37eefe58cb8f613a77095d471.txt",
+      "metadata_path": "data/geopolitics/raw/88da9d7afbef4e8448a2fd29fd528bf2e553a4b37eefe58cb8f613a77095d471.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "US-Iran talks in Switzerland abruptly called off, as Israel and Hezbollah trade attacks in Lebanon",
+      "url": "https://www.theguardian.com/world/2026/jun/19/us-iran-talks-in-switzerland-cancelled",
+      "text_path": "data/geopolitics/raw/245f173338f380df4ad5b2e65de88c98284ce108eaf6f8fa96980710fbdd1e64.txt",
+      "metadata_path": "data/geopolitics/raw/245f173338f380df4ad5b2e65de88c98284ce108eaf6f8fa96980710fbdd1e64.json"
+    },
+    {
+      "title": "Middle East crisis live: Israel strikes targets in Lebanon as US-Iran talks in Switzerland called off",
+      "url": "https://www.theguardian.com/world/live/2026/jun/19/middle-east-crisis-live-israel-strikes-targets-in-lebanon-as-us-iran-talks-in-switzerland-called-off",
+      "text_path": "data/geopolitics/raw/07e40b8186393c18f1b500b3930adaa21b2aca7170786bc3799d92a91deafdd4.txt",
+      "metadata_path": "data/geopolitics/raw/07e40b8186393c18f1b500b3930adaa21b2aca7170786bc3799d92a91deafdd4.json"
+    },
+    {
+      "title": "Trump’s Iran deal could place his legacy in the hands of Tehran",
+      "url": "https://www.theguardian.com/world/2026/jun/19/trump-iran-deal-legacy",
+      "text_path": "data/geopolitics/raw/65e56eea2c58c8fdaf5e2d60715d99981eb9b18dbcc60fd811329e15cb3a9bfe.txt",
+      "metadata_path": "data/geopolitics/raw/65e56eea2c58c8fdaf5e2d60715d99981eb9b18dbcc60fd811329e15cb3a9bfe.json"
+    },
+    {
+      "title": "Normal shipping will not resume in strait of Hormuz until 80 mines cleared",
+      "url": "https://www.theguardian.com/world/2026/jun/19/normal-shipping-will-not-resume-in-strait-of-hormuz-until-mines-cleared",
+      "text_path": "data/geopolitics/raw/49cf702c5400739493e8a03b5a5fdddc087d703ce36124a7edd54c4368ddb66e.txt",
+      "metadata_path": "data/geopolitics/raw/49cf702c5400739493e8a03b5a5fdddc087d703ce36124a7edd54c4368ddb66e.json"
+    },
+    {
+      "title": "Middle East live: Israel pounds southern Lebanon, US-Iran talks postponed",
+      "url": "https://www.france24.com/en/middle-east/20260619-middle-east-live-white-house-says-vance-will-not-travel-to-switzerland-thursday-for-iran-talks",
+      "text_path": "data/geopolitics/raw/c0fa7ffdd3cd6523b449af841e80c9575afcf0d3682467a2b2237eba4bb45443.txt",
+      "metadata_path": "data/geopolitics/raw/c0fa7ffdd3cd6523b449af841e80c9575afcf0d3682467a2b2237eba4bb45443.json"
+    },
+    {
+      "title": "Hegseth announces review of US forces in Europe as he lambasts NATO allies in Brussels meeting",
+      "url": "http://www.euronews.com/2026/06/19/hegseth-announces-review-of-us-forces-in-europe-as-he-lambasts-nato-allies-in-brussels-mee",
+      "text_path": "data/geopolitics/raw/32fc6c6d02b873d7c58260c63a1f4867a6b8ba64e684e9111347efc566262e9a.txt",
+      "metadata_path": "data/geopolitics/raw/32fc6c6d02b873d7c58260c63a1f4867a6b8ba64e684e9111347efc566262e9a.json"
+    }
+  ],
+  "txt_before": 1189,
+  "txt_after": 1195
+}
