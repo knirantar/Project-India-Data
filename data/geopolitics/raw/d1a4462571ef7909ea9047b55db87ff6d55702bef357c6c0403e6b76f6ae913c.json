@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/80503f5d-065c-4b96-91a9-f7cea779e95f/Colombia%20RHPF-Dashborad-Standard_Allocation%2019062026.pdf",
+  "title": "Regional Humanitarian Pooled Fund Colombia - Standard Allocation 2025 (As of may 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 19 Jun 2026 21:04:27 +0000",
+  "sha256": "d1a4462571ef7909ea9047b55db87ff6d55702bef357c6c0403e6b76f6ae913c",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-20T00:03:29.710600+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-20T00:03:54.339125+00:00",
+  "text_chars": 5056,
+  "raw_path": "data/geopolitics/raw/d1a4462571ef7909ea9047b55db87ff6d55702bef357c6c0403e6b76f6ae913c.pdf",
+  "text_path": "data/geopolitics/raw/d1a4462571ef7909ea9047b55db87ff6d55702bef357c6c0403e6b76f6ae913c.txt"
 }
