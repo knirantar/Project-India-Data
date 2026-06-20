@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/71b559be-a695-478b-9031-3d1b56317315/Gender%20Based%20Violence%20Situation%20-Q1%202026%20SOMALIA.pdf",
+  "title": "Escalating Risks and Shrinking Services: GBV Situation in Somalia, Q1 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sat, 20 Jun 2026 11:39:37 +0000",
+  "sha256": "77802ee89d3ac5d6069fb23c42b8a77a9ebc0956ba540565e617aa0045fd4973",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-20T17:19:02.793944+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-06-20T17:19:19.273282+00:00",
+  "text_chars": 10612,
+  "raw_path": "data/geopolitics/raw/77802ee89d3ac5d6069fb23c42b8a77a9ebc0956ba540565e617aa0045fd4973.pdf",
+  "text_path": "data/geopolitics/raw/77802ee89d3ac5d6069fb23c42b8a77a9ebc0956ba540565e617aa0045fd4973.txt"
 }
