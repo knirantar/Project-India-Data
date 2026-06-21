@@ -1,0 +1,84 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-21T05:55:44.323347+00:00",
+  "new_documents": 12,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.txt",
+      "metadata_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/6a5084d85ab91a7cace7ab1de3e36fe040ed976db9ee0d6b025db0a9e8f03847.txt",
+      "metadata_path": "data/geopolitics/raw/6a5084d85ab91a7cace7ab1de3e36fe040ed976db9ee0d6b025db0a9e8f03847.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Middle East live: US Vice President JD Vance arrives in Switzerland for Iran peace talks",
+      "url": "https://www.france24.com/en/middle-east/20260621-middle-east-live-us-vice-president-jd-vance-arrives-in-switzerland-for-iran-peace-talks",
+      "text_path": "data/geopolitics/raw/545f006490bc10d6ca89ff39b7c18498d2f14a00469d29813e07fdfa409cff20.txt",
+      "metadata_path": "data/geopolitics/raw/545f006490bc10d6ca89ff39b7c18498d2f14a00469d29813e07fdfa409cff20.json"
+    },
+    {
+      "title": "Colombia’s runoff election expected to trigger shift in decades-long armed conflict",
+      "url": "https://www.theguardian.com/world/2026/jun/21/colombias-runoff-election-expected-to-trigger-shift-in-decades-long-armed-conflict",
+      "text_path": "data/geopolitics/raw/78e7c40df93fd2c93f2a4322b4e18f165ea153a86f4a7473a85c3c12e52e6de1.txt",
+      "metadata_path": "data/geopolitics/raw/78e7c40df93fd2c93f2a4322b4e18f165ea153a86f4a7473a85c3c12e52e6de1.json"
+    },
+    {
+      "title": "Sudan: Security Council warns of mass atrocity risk in El Obeid (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/06/04-11-2025-UNOCHA-Sudan-04.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/ed410c945bb3263efc1a16b95eb4f4bbf35bdb161302c44a8309a4014c8dc6bf.txt",
+      "metadata_path": "data/geopolitics/raw/ed410c945bb3263efc1a16b95eb4f4bbf35bdb161302c44a8309a4014c8dc6bf.json"
+    }
+  ],
+  "txt_before": 1231,
+  "txt_after": 1234
+}
