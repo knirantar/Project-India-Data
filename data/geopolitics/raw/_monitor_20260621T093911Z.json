@@ -1,0 +1,84 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-21T09:39:11.287629+00:00",
+  "new_documents": 12,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.txt",
+      "metadata_path": "data/geopolitics/raw/ccc3ff520c15947ba62c2e4b2dbe9bb536ab2664c73765df8dae9e9eff70bd91.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Middle East live: US-Iran talks to begin in Switzerland as Tehran says it has closed strait of Hormuz",
+      "url": "https://www.theguardian.com/world/live/2026/jun/21/iran-us-israel-war-middle-east-lebanon-peace-talks-switzerland-vance-trump-strait-of-hormuz-latest-news-updates",
+      "text_path": "data/geopolitics/raw/4eceab259b7cd1bdf9c01b07f70f101df2ce7729b5a346893cae950bcf64e15c.txt",
+      "metadata_path": "data/geopolitics/raw/4eceab259b7cd1bdf9c01b07f70f101df2ce7729b5a346893cae950bcf64e15c.json"
+    },
+    {
+      "title": "US-Iran talks in Switzerland: Is Lebanon top of agenda; who is attending?",
+      "url": "https://www.aljazeera.com/news/2026/6/21/us-iran-talks-in-switzerland-is-lebanon-top-of-agenda-who-is-attending?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/264a99b6a632e9d0e24ad4dacb918a474f89c6212a6e77b7fcacfa8b53422a36.txt",
+      "metadata_path": "data/geopolitics/raw/264a99b6a632e9d0e24ad4dacb918a474f89c6212a6e77b7fcacfa8b53422a36.json"
+    },
+    {
+      "title": "Vance arrives in Switzerland for US-Iran talks",
+      "url": "https://www.aljazeera.com/news/2026/6/21/vance-arrives-in-switzerland-for-us-iran-talks?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/e00960cbed5dbb8f5f077c88290e0b5be9eff5abfe235f447e6af79b9d4b60e0.txt",
+      "metadata_path": "data/geopolitics/raw/e00960cbed5dbb8f5f077c88290e0b5be9eff5abfe235f447e6af79b9d4b60e0.json"
+    },
+    {
+      "title": "US and Iranian delegations arrive in Switzerland for peace deal talks",
+      "url": "http://www.euronews.com/2026/06/21/us-and-iranian-delegations-arrive-in-switzerland-for-peace-deal-talks",
+      "text_path": "data/geopolitics/raw/a2ebb9d915210c63201939744f8ad0f21cf246be4d2fef40cc79d73dc08808b7.txt",
+      "metadata_path": "data/geopolitics/raw/a2ebb9d915210c63201939744f8ad0f21cf246be4d2fef40cc79d73dc08808b7.json"
+    }
+  ],
+  "txt_before": 1234,
+  "txt_after": 1238
+}
