@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-21T15:08:46.231399+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.xml",
-  "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt"
+  "url": "https://www.npr.org/2026/06/21/nx-s1-5862783/colombia-election-conflict",
+  "title": "Colombia runoff vote shaped by security fears and conflict warnings",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Sun, 21 Jun 2026 08:06:08 -0400",
+  "sha256": "e4f06067cfc69b24a3618ad1bd7a5e79eb3fca2d1e95ed88a85be2c3accd97ff",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-21T15:09:26.506724+00:00",
+  "text_chars": 7045,
+  "raw_path": "data/geopolitics/raw/e4f06067cfc69b24a3618ad1bd7a5e79eb3fca2d1e95ed88a85be2c3accd97ff.html",
+  "text_path": "data/geopolitics/raw/e4f06067cfc69b24a3618ad1bd7a5e79eb3fca2d1e95ed88a85be2c3accd97ff.txt"
 }
