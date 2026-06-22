@@ -1,0 +1,114 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-22T18:43:07.273885+00:00",
+  "new_documents": 17,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/441dc51f4123c775eb9e2704d0934ebc66cc11622ade12461f8c75227937c93e.txt",
+      "metadata_path": "data/geopolitics/raw/441dc51f4123c775eb9e2704d0934ebc66cc11622ade12461f8c75227937c93e.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/6a5084d85ab91a7cace7ab1de3e36fe040ed976db9ee0d6b025db0a9e8f03847.txt",
+      "metadata_path": "data/geopolitics/raw/6a5084d85ab91a7cace7ab1de3e36fe040ed976db9ee0d6b025db0a9e8f03847.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Iran agrees to UN nuclear inspectors’ return as part of agreement with US",
+      "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel",
+      "text_path": "data/geopolitics/raw/39e182b7b81dfa350c2db98a7013d0db4c1599fa5a3109d2d3fa2ad844f41d84.txt",
+      "metadata_path": "data/geopolitics/raw/39e182b7b81dfa350c2db98a7013d0db4c1599fa5a3109d2d3fa2ad844f41d84.json"
+    },
+    {
+      "title": "Ukraine says it hit missile electronics plant in western Russia",
+      "url": "https://www.aljazeera.com/news/2026/6/22/ukraine-says-it-hit-missile-electronics-plant-in-western-russia?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/260fe579d3a1c14dedf6880c7e693dfe90601aff39ec9c8b1213014bf2edcc4d.txt",
+      "metadata_path": "data/geopolitics/raw/260fe579d3a1c14dedf6880c7e693dfe90601aff39ec9c8b1213014bf2edcc4d.json"
+    },
+    {
+      "title": "US-Iran deal: Pakistan's diplomatic masterstroke?",
+      "url": "https://www.dw.com/en/us-iran-deal-pakistan-s-diplomatic-masterstroke/a-77660414?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/b91f64912cef63c437d8bf4e827d957940f713055501936a7f9622af352ec53e.txt",
+      "metadata_path": "data/geopolitics/raw/b91f64912cef63c437d8bf4e827d957940f713055501936a7f9622af352ec53e.json"
+    },
+    {
+      "title": "‘Better future for Syria remains within reach,’ UN Security Council hears (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-02-2026-UNICEF-Syria-04.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/98fa7756d054150127547dfe4f79b80d7882d4f98c00c0abe9c35d727f3b82e0.txt",
+      "metadata_path": "data/geopolitics/raw/98fa7756d054150127547dfe4f79b80d7882d4f98c00c0abe9c35d727f3b82e0.json"
+    },
+    {
+      "title": "US couldn’t repair battle-damaged ships in war with China, study finds",
+      "url": "https://www.defensenews.com/news/pentagon-congress/2026/06/22/us-couldnt-repair-battle-damaged-ships-in-war-with-china-study-finds/",
+      "text_path": "data/geopolitics/raw/d73ff781b632b65641fd1da436b709d73b3d5513d9b071ed0706a670957164d6.txt",
+      "metadata_path": "data/geopolitics/raw/d73ff781b632b65641fd1da436b709d73b3d5513d9b071ed0706a670957164d6.json"
+    },
+    {
+      "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167780",
+      "text_path": "data/geopolitics/raw/53ebf7c28cbbdb58929a263d6256314677f2597a3f5968fbc4e94d074278f961.txt",
+      "metadata_path": "data/geopolitics/raw/53ebf7c28cbbdb58929a263d6256314677f2597a3f5968fbc4e94d074278f961.json"
+    },
+    {
+      "title": "Myanmar: Aid decline compounds suffering amid ongoing military attacks (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-08-2025-WFP-Myanmar-02.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/2dedab8f05b1fc445935d51f9f05b1946a7d5deabbf799896b05560e2e76c6f8.txt",
+      "metadata_path": "data/geopolitics/raw/2dedab8f05b1fc445935d51f9f05b1946a7d5deabbf799896b05560e2e76c6f8.json"
+    },
+    {
+      "title": "World at ‘perilous moment’ as leaders warn HIV gains are at risk (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/28-02-2025-UNAIDS-Zimbabwe-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/b78713b7f31b9e8ece6ee76a6e88615eb71a9f24f9148caa8faace9463fd6900.txt",
+      "metadata_path": "data/geopolitics/raw/b78713b7f31b9e8ece6ee76a6e88615eb71a9f24f9148caa8faace9463fd6900.json"
+    }
+  ],
+  "txt_before": 1263,
+  "txt_after": 1272
+}
