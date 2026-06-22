@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-22T23:15:05.298515+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/441dc51f4123c775eb9e2704d0934ebc66cc11622ade12461f8c75227937c93e.txt",
+      "metadata_path": "data/geopolitics/raw/441dc51f4123c775eb9e2704d0934ebc66cc11622ade12461f8c75227937c93e.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/65e13115149aa9e9735fe85932b7891b94e1fd359bf9d2f168fc4f72e1644e8e.txt",
+      "metadata_path": "data/geopolitics/raw/65e13115149aa9e9735fe85932b7891b94e1fd359bf9d2f168fc4f72e1644e8e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Ukrainian Strikes Expose Russia’s Weakness Amid Growing Pressure for Compromise",
+      "url": "https://jamestown.org/ukrainian-strikes-expose-russias-weakness-amid-growing-pressure-for-compromise/",
+      "text_path": "data/geopolitics/raw/c0d2e258d5b5ee99dc9bbea91af721b801d31a4640be72bdbcc9d7654f247c75.txt",
+      "metadata_path": "data/geopolitics/raw/c0d2e258d5b5ee99dc9bbea91af721b801d31a4640be72bdbcc9d7654f247c75.json"
+    },
+    {
+      "title": "World News in Brief: Pope Leo urges action on hunger, humanitarian strain deepens in Gaza, families return to Lebanon",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167782",
+      "text_path": "data/geopolitics/raw/749a4705b9e1b1a85b7ed65136027664229b791c04974fec0765474b4c820195.txt",
+      "metadata_path": "data/geopolitics/raw/749a4705b9e1b1a85b7ed65136027664229b791c04974fec0765474b4c820195.json"
+    },
+    {
+      "title": "Global Ebola cases top 1,000 as UN races to reach DR Congo’s most vulnerable",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167783",
+      "text_path": "data/geopolitics/raw/6caadcfdb574776d9a9dc70745d5125b3479d761dd03d11b0a9213fc0a2a9b2a.txt",
+      "metadata_path": "data/geopolitics/raw/6caadcfdb574776d9a9dc70745d5125b3479d761dd03d11b0a9213fc0a2a9b2a.json"
+    },
+    {
+      "title": "UK plans to give established media more visibility on YouTube and TikTok",
+      "url": "https://www.theguardian.com/media/2026/jun/22/uk-youtube-tiktok-established-media-prominence-misinformation-risk",
+      "text_path": "data/geopolitics/raw/77ec975aedaf2ecd2231cf246352a4a0d8943bb8ea172bd75ae8adffb7a371b2.txt",
+      "metadata_path": "data/geopolitics/raw/77ec975aedaf2ecd2231cf246352a4a0d8943bb8ea172bd75ae8adffb7a371b2.json"
+    }
+  ],
+  "txt_before": 1280,
+  "txt_after": 1285
+}
