@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "6a5084d85ab91a7cace7ab1de3e36fe040ed976db9ee0d6b025db0a9e8f03847",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-22T21:30:35.064983+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/6a5084d85ab91a7cace7ab1de3e36fe040ed976db9ee0d6b025db0a9e8f03847.xml",
-  "text_path": "data/geopolitics/raw/6a5084d85ab91a7cace7ab1de3e36fe040ed976db9ee0d6b025db0a9e8f03847.txt"
+  "url": "https://foreignpolicy.com/2026/06/22/trump-iran-israel-war-oil-deal-gaza/",
+  "title": "How the Iran Deal Sets the Stage for More Conflict",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Mon, 22 Jun 2026 20:16:49 +0000",
+  "sha256": "b1f8df0b82323d224b5b0d7eeecdd192e2a98acc9de294c3f680a92069190621",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-22T21:31:25.300711+00:00",
+  "text_chars": 11394,
+  "raw_path": "data/geopolitics/raw/b1f8df0b82323d224b5b0d7eeecdd192e2a98acc9de294c3f680a92069190621.html",
+  "text_path": "data/geopolitics/raw/b1f8df0b82323d224b5b0d7eeecdd192e2a98acc9de294c3f680a92069190621.txt"
 }
