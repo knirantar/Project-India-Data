@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/72b8a6e2-9c0f-4e3a-9307-4ce07b853f35/REACH_UKR_ToR_MSNA_May-2026.pdf",
+  "title": "Research Terms of Reference - Multi Sector Needs Assessment - UKR2609, Ukraine (May 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 22 Jun 2026 00:33:34 +0000",
+  "sha256": "1e2182426156f76b3716e886070386b9501ca2495ebb4bd30c80644194bd2572",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-22T02:52:11.010368+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-22T02:52:19.793444+00:00",
+  "text_chars": 66678,
+  "raw_path": "data/geopolitics/raw/1e2182426156f76b3716e886070386b9501ca2495ebb4bd30c80644194bd2572.pdf",
+  "text_path": "data/geopolitics/raw/1e2182426156f76b3716e886070386b9501ca2495ebb4bd30c80644194bd2572.txt"
 }

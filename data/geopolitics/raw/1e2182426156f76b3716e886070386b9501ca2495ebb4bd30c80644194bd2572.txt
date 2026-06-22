@@ -1,0 +1,1282 @@
+www.reach-initiative.org 1 
+ 
+Research Terms of Reference 
+Multi Sector Needs Assessment 
+UKR2609 
+Ukraine 
+May 2026 
+ 
+1. Executive Summary 
+ 
+A. General information  
+Country of 
+intervention Ukraine 
+Type of Emergency □ Natural disaster X Conflict □ Other (specify) 
+Type of Crisis □ Sudden onset   □ Slow onset X Protracted 
+Mandating Body/ 
+Agency 
+Humanitarian Country Team (HCT), Inter-Cluster Coordination Group (ICCG), 
+OCHA 
+IMPACT Project 
+Code 
+64BAO, 64BAG 
+Overall Research 
+Timeframe (from 
+research design to 
+final outputs / M&E) 
+ 
+04/05/2026 to 15/12/2026 
+Research 
+Timeframe 
+Add planned 
+deadlines  
+1. Data Analysis Plan (DAP) sent for 
+validation: 11/05/2026 
+7. Preliminary presentation/dissemination 
+events: 04/09/2026 
+2. Pilot/training (CATI): 08/06/2026 to 
+12/06/2026 
+8. MSNI analysis sent for validation:  
+04/09/2026 
+3. Start data collection: 15/06/2026  9. Bulletin sent for validation: 30/11/2025 
+4. Data collected: 27/07/2026 10. Bulletin published: 15/12/2026 
+5. Clean dataset sent for validation: 
+17/08/2026 
+11. Other (specify): _ _/_ _/_ _ _ _ 
+6. Data analysis sent for validation: 
+31/08/2026 
+ 
+Humanitarian 
+milestones 
+Specify what will the 
+assessment inform 
+and when  
+e.g. The shelter 
+cluster will use this 
+data to calculate PiN 
+numbers for the 
+HNO analysis 
+Milestone Deadline 
+X Donor plan/strategy 12/2026 
+X Inter-cluster plan/strategy 10/2026 
+X PiN calculation / HNO  09/2026 
+□ IPC (Integrated food security Phase Classification) _ _/_ /_ _ _ 
+X Cluster plan/strategy  11/2026 (TBD) 
+□ NGO platform plan/strategy  _ _/_ _/_ _ _ _ 
+□ Other (Specify): _ _/_ _/_ _ _ _ 
+Audience type Dissemination
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 2 
+ 
+Audience Type & 
+Dissemination 
+Specify who will the 
+assessment inform 
+and how you will 
+disseminate to 
+inform the audience 
+X  Strategic 
+X  Programmatic 
+□  Operational 
+□  [Other, Specify] 
+X General Product Mailing (e.g. mail to NGO consortium; 
+HCT participants; Donors) 
+X Cluster Mailing (Education, Shelter and WASH) and 
+presentation of findings at next cluster meeting  
+X Presentation of findings (e.g. at HCT meeting; Cluster 
+meeting)  
+X Website Dissemination (Relief Web & REACH Resource 
+Centre) 
+□ [Other, Specify] 
+Detailed 
+dissemination plan 
+required 
+X Yes □ No 
+General Objective 
+To inform the planning, prioritization, and strategic decision-making of 
+humanitarian actors in Ukraine by providing a robust evidence base for the 2027 
+Humanitarian Needs and Response Plan (HNRP) through the conduct of a 
+representative household-level assessment in selected frontline priority areas within 
+the Government-Controlled Areas (GCA) of Ukraine, measuring the magnitude and 
+complexity of multi-sectoral humanitarian needs. 
+ 
+Specific 
+Objective(s) 
+1. To assess the needs of households across priority areas of Ukraine in 
+key humanitarian sectors, including Shelter and Non-Food Items (SNFI), 
+Water, Sanitation, and Hygiene (WASH), Food Security and Livelihoods, 
+Education, Health, and Protection. 
+2. To analyze variations in the prevalence and severity of humanitarian 
+needs among different demographic groups across the surveyed areas, 
+highlighting sociodemographic, as well as displacement-specific 
+vulnerabilities. 
+3. To identify geographic variations in the prevalence and severity of 
+needs across sectors, identifying oblasts and frontline/border regions 
+where needs are most acute to inform targeted humanitarian 
+interventions. 
+4. To identify the main drivers and co‑occurrence of humanitarian needs 
+by location and population group, including the role of service 
+disruption, displacement, and socioeconomic vulnerability. 
+5. To gather data on accountability to affected populations (AAP), 
+including assistance preferences, satisfaction levels, perceived reliability 
+of information sources, and  use offeedback and complaint 
+mechanisms. 
+6. To examine changes in humanitarian needs over time in relation to the 
+previous rounds of MSNA data collection.  
+7. To provide analytical outputs to inform sectoral People in Need (PiN) 
+estimates, intersectoral severity analysis, and strategic planning for the 
+2027 Ukraine HNRP. 
+8. To strengthen the evidence base supporting humanitarian 
+prioritization, including the identification of the most vulnerable
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 3 
+ 
+households in proximity to the front line and the most vulnerable 
+sub‑groups among internally displaced persons (IDPs), in line with 
+evolving humanitarian priorities. 
+Research 
+Questions 
+1. What are the unmet essential needs of households across the sectors of 
+shelter and non-food items, water, sanitation and hygiene, food 
+security, education, health, livelihoods, and protection? 
+2. What is the variation in the prevalence and severity of humanitarian 
+needs among different household demographics and displacement 
+groups across the surveyed area? 
+3. What are the geographic differences in the prevalence and severity of 
+needs in each sector between the assessed regions and in front 
+line/border areas?   
+4. What are the affected populations' preferences for aid types and 
+modalities, their satisfaction with humanitarian assistance, and 
+challenges with aid information and voicing feedback? 
+Geographic 
+Coverage 
+Frontline oblasts of Ukraine that are adjacent to the front line or bordering the 
+Russian Federation: Chernihivska, Dnipropetrovska, Donetska, Kharkivska, 
+Khersonska, Mykolaivska, Odeska, Sumska, and Zaporizka Oblasts, with the 
+exception of households in settlements not under control of the Government of 
+Ukraine as of shortly before the envisioned start date of the data collection (15 June 
+2026). There are very limited settlements in Luhanska Oblast which are under the 
+control of the Government of Ukraine which are excluded from this assessment.  
+ 
+Secondary data 
+sources 
+2025 REACH Ukraine Multi-Sector Needs Assessment – General Population Dataset 
+2025 REACH Ukraine MSNA General Population Frequency Tables at National level  
+2025 REACH Ukraine MSNA General Population Frequency tables at Macro-region 
+level  
+2025 REACH Ukraine MSNA General Population Frequency tables at Frontline 
+Oblast level  
+2025 REACH Ukraine MSNA General Population Frequency Tables at Strata level  
+2026 REACH Ukraine Calibration Assessment Round 4 Frequency Tables at Strata 
+level 
+2025 REACH Ukraine MSNA Overview of Humanitarian Needs  
+2026 REACH Ukraine Humanitarian Situation Monitoring (HSM) 
+2026 REACH Ukraine Joint Market Monitoring Initiative (JMMI)1 
+2026 Ukraine Humanitarian Needs and Response Plan (HNRP) 
+2025-2026 OCHA Ukraine Situation Reports 
+2026 IOM Displacement Tracking Matrix (DTM) 
+2025 Ukraine UNFPA Subnational Population Statistics 
+ 
+More detailed information can be found under Point 3.3 Secondary Data Review in 
+the Methodology section.  
+B. Sampling 
+Population groups □ IDPs in camp □ IDPs in informal sites 
+ 
+1 Forthcoming.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 4 
+ 
+Select all population 
+group which your 
+assessment will 
+collect data on 
+X IDPs in host communities X IDPs [Other, Specify] 
+□ Refugees in camp □ Refugees in informal sites 
+□ Refugees in host communities □ Refugees [Other, Specify] 
+X Host communities (including 
+non-displaced conflict-affected 
+populations) 
+X Returnees (IDPs and refugees) 
+Structured 
+questionnaire 
+(Quantitative) –  
+ 
+Select all the apply  
+X Probability sampling  □ Non - Probability sampling  
+Data collection 
+level: 
+X Individual  X Household 
+X Settlement □ Other (specify): _ _ _ _ _ _ _ _ _ 
+If probability sampling 
+Sampling method:         X  Random sampling       □  Cluster sampling  
+The sampling is stratified:             X  Yes          □  No  
+If yes what are the stratifications:  
+° Geographic:  
+• Frontline and border oblasts: three strata - (i) oblast center, (ii) areas within 50km of the 
+frontline or border, and (iii) areas beyond 50km. 
+• For those oblasts which lie predominantly within the 50km zone, the oblast and the oblast center 
+are the two strata (i.e., Donetska, Khersonska and Zaporizka Oblasts).  
+• Odeska Oblast, given its unique geographic location to the front line, is stratified accordingly: 
+Odesa (admin-4) and Odeskyi (admin-2) without Odesa.  
+ 
+° Population groups: _ _ _ _ _ _ _ _ _  
+° Other:_ _ _ _ _ _ _ _ __ _ _ _ _ _ _  
+ 
+What is the Primary sampling unit (PSU): Household 
+If cluster sampling, what is the mininum cluster size? _ _ _ _ _  
+ 
+Sampling frame: 
+Do you have the population number at PSU level for all population groups?       X Yes         □ No  
+ 
+Selection:  
+Probability Proportional to Size (PPS) :             □  Yes          X  No  
+Selection of PSUs with replacement? :             □  Yes          X  No  
+ 
+Aimed precision at stratification level: 
+95% level of confidence 
+5 to 8 +/- % margin of error 
+Buffer: 5 %
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 5 
+ 
+Total sample size: (Target #): 4,580 
+Resampling: 
+Do you have a reserve list of PSUs / households in case of inacessible area ?          □  Yes        X  No  
+ 
+Data collection method:              □  Face to face X  Remote data collection 
+If non-probability sampling 
+Sampling method:              □  Quota sampling                 □  Purposive                   □  Snowballing 
+The sampling is stratifed:                     □  Yes               □  No  
+If yes what are the stratifications: 
+° Geographic:_ _ _ _ _ _ _ _ _ _ _ _  
+° Population groups: _ _ _ _ _ _ _ _ _  
+° Other:_ _ _ _ _ _ _ _ __ _ _ _ _ _ _  
+ 
+If quota sampling, what characteristics will be used as quota?: _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _  
+ 
+Data collection method       □  Face to face                       □  Remote data collection 
+C. Questionnaire 
+Questionnaire 
+design 
+ 
+MSNA mandatory indicators 
+All the mandatory indicators from the MSNA indicator bank, have been included 
+without alteration:       □  Yes         X  No  
+XLSform for mandatory indicators 
+The kobo questionnaire provided for the mandatory indicators was used without 
+alteration:      □  Yes          X  No  
+Data management 
+platform(s) X  IMPACT                           □  UNHCR                       X  Other, Specify (HDX) 
+Expected ouput 
+type(s) 
+X MSNA Bulletin #: 1  
+X Presentation (Preliminary findings) #: 6  
+X Interactive dashboard #: 1 
+□ Report #: _ _ 
+□ Profile #: _ _ 
+X Presentation (Final) #: 1 
+□ Webmap #: _ _ 
+□ Factsheet #: _ _ 
+□ Map #: _ _ 
+X Brief/Situation overview #: 1 
+Data publication 
+plan 
+X Final (anonymised) dataset public, available on REACH resource center     
+X Final (anonymised) dataset public, through HDX connect 
+X Analysis table public, available on REACH resource center  
+□ Analysis table public, available on HDX
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 6 
+ 
+Visibility Specify 
+which logos should 
+be on outputs 
+REACH 
+Donor: Department of State, FCDO 
+Coordination Framework: Humanitarian Country Team (HCT), Inter-Cluster 
+Coordination Group (ICCG) and the United Nations Office for the Coordination of 
+Humanitarian Affairs (OCHA) 
+Partners: Kyiv International Institute of Sociology ( KIIS) 
+ 
+2. Rationale  
+ 
+2.1 Background  
+ 
+Four years after the escalation of the war in Ukraine since February 2022, the humanitarian crisis has become 
+increasingly protracted, while continuing to evolve in scale, severity, and geographic distribution. As of early 
+2026, an estimated 3.9 million people remain internally displaced across Ukraine, 2 while and estimated of 4.2  
+million people have returned to their areas of origin,3 and 5.76 million refugees from Ukraine have been recorded 
+globally.4 The overall context is now characterized by prolonged displacement, repeated shocks, and eroded 
+coping capacities. Humanitarian needs remain persistent, although continue to shift in response to changes in 
+front lines, patterns of attacks, and access to services. According to the 2026 Humanitarian Needs and Response 
+Plan (HNRP), an estimated 10.8 million people are in need of humanitarian assistance.5  
+ 
+Active hostilities persist across northern, eastern, and southern oblasts, with continued shelling, missiles, and 
+drone attacks reported throughout late 2025 and early 2026. These dynamics have resulted in ongoing civilian 
+casualties and sustained damage to housing, infrastructure, and productive assets.6 Recurrent attacks on energy 
+systems and other critical infrastructure continue to disrupt the provision of essential services, including 
+electricity, heating, water supply and sanitation, healthcare, and education.  The 2025–2026 winter season was 
+particularly severe, with cold temperatures, repeated attacks on the energy network, and eroded household 
+resources compounding vulnerabilities and exacerbating humanitarian needs.7 In this context, many households 
+face overlapping and compounding vulnerabilities, particularly during winter periods and in areas close to the 
+front line.8 
+ 
+Findings from REACH’s 2025 Multi-Sector Needs Assessment (MSNA) highlight the persistence of humanitarian 
+needs across the country, with a large proportion of households experiencing sectoral needs and a significant 
+share facing acute or extreme deprivatio ns in frontline areas .9 Additional evidence collected through the 
+Calibration Assessment in the beginning of 2026  points to sustained conditions in key sectors, particularly 
+livelihoods, health, and access to services.10 The protracted nature of the crisis in these areas has deepened pre-
+existing socioeconomic vulnerabilities, with livelihoods erosion, limited access to services, and protection risks 
+continuing to drive humanitarian needs most severely among those who were most vulnerable before the full-
+scale invasion (e.g., older households and households with a member with a disability).  Despite their protracted 
+nature, the nature and severity of needs are not static  nor monolithic: they vary across geographic areas and 
+ 
+2 IOM, Internal Displacement Report — General Population Survey Round 23 (May 2026)  
+3 IOM, Returns Report — General Population Survey Round 23 (May 2026)  
+4 UNHCR, Operational Data Portal Ukraine Refugee Situation, Situation Ukraine Refugee Situation (accessed May 06 2026) 
+5 OCHA, Ukraine Humanitarian Needs and Response Plan 2026 (January 2026)  
+6 UN, Ukraine violence ‘worse than ever’, Security Council hears , March 2026 
+7 IOM, Ukraine — The Cost of Winter in Ukraine: Household Heating Costs, Utility Disruptions and Compounded Vulnerabilities in 2025-2026 , May 2026 
+8 NRC, Ukraine: Families in the firing line, March 2026  
+9 REACH, Ukraine Multi-Sector Needs Assessment – General Population Dataset, September 2025 
+10 REACH, Ukraine Calibration 2026 – Dataset, March 2026
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 7 
+ 
+population groups and are influenced by ongoing displacement dynamics  and repeated and new exposure to 
+shocks.  
+ 
+The humanitarian response environment has been further affected by continued reductions in funding 
+throughout 2025 and into 2026, compounded by the ongoing effects of shifts in major donor priorities. These 
+funding challenges have had direct implications for the operational capacities of Humanitarian Clusters, 
+international and national NGOs, and Ukrainian civil society organizations (CSOs) , leading to reductions in 
+staffing, scale-back of activities, and gaps in the delivery of assistance across sectors such as cash assistance, 
+health, water, sanitation and hygiene , protection, food security and livelihoods, and shelter. Further, the 
+humanitarian community has continued to operate under a prioritised framework within the 2026 HNRP, 
+focusing available resources on the most critical needs, including: (i) supporting the most vulnerable populations 
+in frontline areas, (ii) facilitating safe and timely evacuations, (iii) delivering rapid assistance in the aftermath of 
+strikes, and (iv) addressing the needs of the most vulnerable displaced populations. 
+ 
+Against this backdrop of a protracted yet evolving crisis, characterized by sustained high levels of need, reduced 
+funding capacities, and a prioritised humanitarian response, REACH Ukraine will implement the 2026 MSNA at 
+the request of the Humanitarian Country Team (HCT), in collaboration with the Inter-Cluster Coordination Group 
+(ICCG) and the United Nations Office for the Coordination of Humanitarian Affairs (OCHA), to generate updated, 
+robust, and actionable evidence on humanitarian needs and vulnerabilities to support response planning. 
+ 
+2.2 Intended impact  
+ 
+The 2026 MSNA aims to provide comprehensive and representative multi -sectoral data on the evolving 
+humanitarian situation in the frontline areas in  Ukraine to inform strategic decision -making by the HCT, ICCG, 
+and Humanitarian Clusters and relevant Working Groups. It will further support the programmatic planning and 
+operational prioritisation of international and national humanitarian actors. As in previous years, the MSNA 
+constitutes a central evidence base for humanitarian planning in Ukraine and is expe cted to directly inform the 
+development of the 2027 HNRP, including People  in Need (PiN) estimations, severity analysis, and geographic 
+targeting. 
+ 
+Building on previous rounds, the assessment will collect data at settlement, household and individual levels to 
+measure the prevalence and severity of humanitarian needs, as well as to better understand their underlying 
+drivers in a protracted crisis context. It will examine how needs differ across geographic areas and among key 
+population groups, including by gender, age, disability status, household composition, and displacement status. 
+Particular attention will be paid to capturing variations in needs am ong different groupings of the  conflict-
+affected population, including IDPs, returnees, and non-displaced households residing in high-risk areas. 
+ 
+The MSNA will also continue to integrate components related to Accountability to Affected Populations (AAP), 
+including preferences for assistance modalities, levels of satisfaction with aid, and barriers to accessing services, 
+information, and feedback mechanisms. This component is especially critical in the context  of constrained 
+resources, where understanding prioritisation, coverage gaps, and perceived effectiveness of assistance is 
+essential. 
+ 
+In recognition of both the protracted nature of the crisis and the evolving patterns of vulnerability, the 2026 
+MSNA will contribute to strengthening the evidence base underpinning humanitarian prioritisation. It will 
+provide granular insights into needs in frontline and border areas, as well as detailed analysis of the severity and
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 8 
+ 
+drivers of needs among displaced and otherwise conflict-affected populations, with the aim of supporting more 
+targeted, efficient, and equitable humanitarian action. 
+ 
+The 2026 MSNA builds on the approach and learning from the 2022, 2023 and 2024 2025 Ukraine MSNA and is 
+conducted in close collaboration with the HCT and ICCG, and in alignment with UN OCHA. 
+ 
+3. Methodology 
+ 
+3.1 Methodology overview  
+ 
+The 2026 MSNA  will utilize a quantitative methodology to collect  mostly household-level data through 
+randomized Computer-Assisted Telephone Interview (CATI) surveys. This approach involves trained enumerators 
+conducting structured interviews via mobile phone with respondents selected through Random Digit Dialing 
+(RDD). The sampling strategy is designed to achieve a 95% confidence level, with margins of error ranging from 
+approximately 5% to 8% depending on the achieved sample size within each stratum. As in previous years, 
+REACH will subcontract data collection to the Kyiv International Institute of Sociology (KIIS), ensuring adherence 
+to REACH’s data quality standards and ethical protocols. In total, approximately 4,580 household interviews will 
+be conducted. 
+ 
+The sample design is based on 22 strata , listed in the Sampling summary table in Section 3.4 ,  across nine 
+frontline oblasts of Ukraine: Chernihivska, Dnipropetrovska, Donetska, Kharkivska, Khersonska, Mykolaivska, 
+Odeska, Sumska, and Zaporizka. Within these oblasts, stratification reflects both geographic proximity to the 
+frontline or the border with the Russian Federation and key urban centres. Specifically, strata are defined as: 
+• Oblast centres (i.e., Chernhiv, Dnipro, Kharkiv, Kherson, Mykolaiv, Odesa, Sumy and Zaporizhzhia); 
+• Areas located within 0 to50 kilometres of the front line or border with the Russian Federation (excluding 
+centres where applicable); 
+• Areas located beyond 50 kilometres from the frontline or border (excluding centres where applicable). 
+ 
+While a base target of approximately 158 completed interviews per stratum is applied which includes a 5% buffer, 
+selected strata are intentionally oversampled to increase analytical coverage in frontline raions (admin -2) 
+affected by significant depopulation. Direct raion -level representativity is not feasible under current 
+demographic conditions, particularly in heavily depopulated frontline raions. To mitigate this limitation, the 
+sampling approach incorporates targeted oversampling across relevant strata, thereby increasing the likelihood 
+of capturing sufficient observations within frontline raions without formally stratifying at that level. The targeted 
+oversampling to provide a predicted raion -level representativity was determined by estimated population 
+distributions according to the most recent update to the 2022 Government of Ukraine census provided by the 
+United Nations Population Fund (UNFPA) Common Operational Dataset on Population Statistics (COD -PS) 
+published in summer 2025.  
+ 
+Based on such feasibility assessments, approximately 11 out of 23 frontline raions are expected to be reliably 
+covered, with up to 16 potentially captured under favourable conditions. A limited number are unlikely to reach 
+sufficient sample sizes. Raion-level analysis will only be conducted where adequate data is available, and in some 
+cases neighbouring raions may be used as analytical proxies, with appropriate caveats.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 9 
+ 
+The 2026 MSNA depl oys this oversampling approach because t here is a potential misalignment between the 
+units of analysis for the 2027 HNRP (which continues to emphasize distance to the front line and/or border with 
+the Russian Federation) and the reporting requirements of OCHA, as well as key funders which continue to report 
+at the raion-level (admin-2). Given the additional consideration that strata selection is designed to facilitate the 
+sampling of homogeneous units according to particular criteria , which for the 2026 MSNA in Ukraine s hould 
+consider proximity to hostilities, the 2026 MSNA deploys such an approach to meet these competing needs.  
+ 
+As a result, the survey design is expected to ensure representativity at the following levels: 
+• Oblast level (admin-1); 
+• 0–50 km and 50+ km zones within oblasts; 
+• Oblast centres (admin-4); 
+• A majority of frontline raions on a probabilistic basis, where sufficient observations are captured. 
+ 
+ 
+Results should be interpreted as representative at the stratum level, assuming sufficient mobile phone coverage 
+and response rates. Aggregated estimates will be produced by pooling relevant strata to generate oblast -level 
+and cross-strata indicators. As such, the precision of estimates will vary depending on effective sample sizes, but 
+will fall within the 5–8% margin of error range at the 95% confidence level. The 2026 MSNA will report on raion-
+level if the margin of error falls below 11%.   
+ 
+To ensure alignment between the achieved  sample and population distributions, REACH will apply post -
+stratification weighting. This will draw on: 
+• the most recent United Nations Population Fund (UNFPA) Common Operational Dataset on Population 
+Statistics (COD-PS); 
+• 2022 settlement-level population statistics published by the Government of Ukraine prior to the full -
+scale invasion. 
+ 
+Settlement-level figures  from the 2022 census  will be updated using raion -level population change factors 
+derived from COD-PS, enabling the construction of a calibrated population baseline. Survey weights will then 
+adjust for unequal probabilities of selection resulting from stratification and oversa mpling, as well as for 
+geographic population distribution. 
+ 
+The sampling approach does not allow for representative inference for specific population subgroups, such as 
+internally displaced persons or returnees. While results will be disaggregated by sociodemographic 
+characteristics and geographic variables , these findings should be interpreted as indicative due to reduced 
+effective sample sizes. 
+ 
+The results are analyzed  according to various geographies and demographics .11 Geographic analyses include 
+oblast-level and strata-specific disaggregations. Furthermore, the analysis results are disaggregated to highlight 
+variations across other geographies (e.g.,, urban/rural, 20 -kilometres and 21 -50 kilometres distance from the 
+front line and border with the Russian Federation) and sociodemographic groups ( e.g., age and gender 
+composition of the household, type of caregiver household size, presence of members with disability, 
+households with children, income levels, etc.).  
+ 
+ 
+11 See 3.5 Data Processing and Analysis section of the current ToR.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 10 
+ 
+The analysis will be conducted through two complementary analytical frameworks : (i) the Multi-Sector Needs 
+Index (MSNI), developed by IMPACT Initiatives to assess the severity of humanitarian needs across sectors;  (ii) 
+the Contextualized Composite Indicator Analysis (CCIA), developed by REACH Ukraine to capture context -
+specific patterns of need severity and previously applied to the 2025 MSNA. 
+ 
+3.1.1 Key definitions 
+ 
+• Government-controlled areas: Areas that are under the control of the Government of Ukraine (GoU ) 
+at the time of the sampling, as monitored by LiveUA.  
+• Areas beyond the control of the  GoU: Areas/territories of Donetska, Dnipropetrovska, Kharkivska, 
+Khersonska, Luhanska, Sumska, and Zaporizka occupied by the Russian Federation at the time of 
+sampling, as monitored by LiveUA, and the Autonomous Republic of Crimea.   
+• Non-frontline oblasts: Oblasts that do not have any part of their territory located within 50 kilometres 
+of the front line or the border with the Russian Federation.  These oblasts 
+include: Cherkaska, Chernivetska, Ivano-Frankivska, Khmelnytska, Kirovohradska, Kyiv, Kyivska, Lvivska, 
+Poltavska, Rivnenska, Ternopilska, Vinnytska, Volynska, Zakarpatska, and Zhytomyrska.  
+• Frontline oblasts: Oblasts that have a part of their territory  located within 50 kilometres of the  front 
+line or the border with the Russian Federation.  These oblasts include:  Chernihivska, Dnipropetrovska, 
+Donetska, Kharkivska, Khersonska, Mykolaivska, Odeska, Sumska, and Zaporizka Oblasts. 
+• Oblast centers: Oblast centers refer to the administrative capital or main city of an oblast. They typically 
+serve as the political, economic, and administrative hub of the oblast, hosting regional government 
+institutions and offering a concentration of services, infrastr ucture, and population compared to other 
+areas within the same oblast.   
+• 50-kilometre zone: This category includes settlements where any  portion lies within 50  kilometres of 
+the front line and/or the border with the Russian Federation. The 50-kilometer zone was selected based 
+on the contextual relevance of humanitarian needs to proximity to hostilities . While the 20-kilometre-
+zone is prioritized most in the humanitarian response, this zonage provides a sufficient population size 
+for representative sampling. Further, d ata from Humanitarian Situation Monitoring (HSM) has 
+shown that within this zone, humanitarian needs tend to increase with proximity to the frontline or 
+border.12 REACH Ukraine utilizes  front line data one week before the beginning of data collection  for 
+the definition of the  50-kilometre zone  (expected timeline: 15 June 2026), allowing for  accurate GIS 
+adjustments.   
+• Household member: Those who are currently present in the household. Those household members 
+who are temporarily absent are not included when respondents are considering their responses to 
+questions, as well as family members. Family members in the military are also not incl uded in the 
+household if they are no longer residing in the household. However, the income of family members in 
+the military are included if income continues to be pooled at the household from those serving in the 
+Ukrainian Armed Forces but residing away from the household.  
+• Head of Household: A person who makes decisions on behalf of the entire household. The MSNA 
+interviews respondents who either 1) report serving as the head of household or 2) report they are able 
+to answer on behalf of the head(s) of household. The Ukraine MSNA allows for two heads of household 
+to be selected.  
+• Internally Displaced Person (IDP): Persons or groups of persons who have been forced or obliged to 
+flee, or to leave their homes or places of habitual residence, in particular as a result of or in order to 
+avoid the effects of armed conflict, situations of generalised violence, violations o f human rights or 
+ 
+12 REACH, Four years of evolution from emergency monitoring to frontline (April 2026).
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 11 
+ 
+natural or human -made disasters, and who have not crossed an internationally recognised State 
+border.13 In Ukraine, IOM Displacement Tracking Matrix (DTM) operationalizes this definition by 
+categorizing as IDPs those that moved from their city/village of permanent place of residence because 
+of the full-scale war.14 For this assessment, REACH aligns its IDP category with this definition and creates 
+a separate category labelled “households displaced within settlements“ to capture those who have been 
+displaced but not outside of their city/village. The dominant focus of the MSNA is those IDPs which have 
+been displaced at any point beginning from 24 February 2022 beyond their settlement.  
+• Returnee: A person who had undergone a migratory movement and returned to their original place of 
+habitual residence.15 REACH aligns with the definition operationalized by the  IOM which requires that 
+returnees have left the place of their habitual residence since February 24th, 2022 due to the current war 
+for a minimum of 2 weeks (14 days). Returnees are not restricted only to IDPs, but can also include those 
+who were displaced internationally.   
+• IDP household: IDP households refer to those households that have at least one head of household 
+who is an IDP. 
+• General population: This refers to all individuals/households residing in Ukraine without reference to 
+any specific characteristic.  
+• Computer assisted telephone interview (CATI) surveys: In this method, questions are displayed 
+through an application or software (e.g., Kobo) on an electronic device such as a mobile or computer 
+screen, which the interviewer then reads to a respondent over a phone call and enters the respondent’s 
+answers directly into the electronic advice. The MSNA utilizes Kobo.  
+• Household: The MSNA considers a household to be a small group of persons who share the same living 
+accommodation, who pool some, or all, of their income and wealth and who consume certain types of 
+goods and services collectively, mainly housing and food. It excludes househol d members who are 
+temporarily absent from the home for six months or more, including children who are absent, as well as 
+members who serve in the military and do not live at home.  
+• Critical infrastructure: Schools and education facilities (including scientific institutions), markets and 
+grocery stores, railway, road, bridges, wastewater infrastructure (e.g. pipes, treatment facilities, 
+buildings, etc.), water infrastructure (e.g. pipes, treatment facilities,  buildings, etc.), district heating 
+stations, gas stations and gas supply network, government buildings, fire stations, industrial facilities, 
+power stations/facilities and electricity supply network, health facilities and pharmaci es, warehouses, 
+humanitarian aid distribution centres, telecommunications infrastructure.   
+ 
+3.2 Population of interest  
+ 
+The points below outline the geographical area and population assessed as well as unit of measurement.  
+• Geographical area assessed: Overall, the MSNA aims to cover nine frontline oblasts: Chernihivska, 
+Dnipropetrovska, Donetska, Kharkivska, Khersonska, Mykolaivska, Odeska, Sumska, and Zaporizka 
+Oblasts, excluding the households not under the control of the Government of Ukraine.  
+• Population assessed: The general population residing in the assessed areas. While the assessment 
+does not conduct stratification by demographic groups, results are disaggregated by key 
+demographic characteristics during the analysis stage.  
+• Unit of measurement: The unit of measurement is the household. The MSNA will include an 
+individual module on employment, health and education indicators measured at the individual level. 
+ 
+13 IOM, Glossary on Migration  (2019).  
+14 IOM, Methodological Note: General Population Survey Ukraine (August 2023).  
+15 IOM, Glossary on Migration  (2019).
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 12 
+ 
+At times, households are prompted to answer questions on their community or area of residence , 
+as well (i.e., settlement).  
+ 
+3.3 Secondary data review  
+ 
+Source Relevance Usage 
+IMPACT 2026 MSNA Indicator Bank  The MSNA Indicator Bank constitutes 
+IMPACT Initiatives guidance on core 
+MSNA sectoral indicators  
+To inform the questionnaire’s 
+indicators and design. 
+REACH Ukraine 2025 MSNA Data 
+Analysis Plan  
+The Data Analysis Plan lists the 
+indicators measured through the 2025 
+MSNA.  
+To inform the methodology and 
+questionnaire design for the 2025 
+MSNA.  
+2025 REACH Ukraine Multi-Sector 
+Needs Assessment – General Population 
+Dataset  
+  
+The General Population Dataset gathers 
+the data collected through the 2025 
+MSNA on the general population of 
+Ukraine.  
+Where possible, to conduct 
+comparative and trend analysis 
+between MSNA rounds.  
+2025 REACH Ukraine MSNA General 
+Population Frequency Tables at National 
+level  
+ 
+2025 REACH Ukraine MSNA General 
+Population Frequency tables at Macro-
+region level  
+ 
+2025 REACH Ukraine MSNA General 
+Population Frequency tables at Frontline 
+Oblast level  
+ 
+2025 REACH Ukraine MSNA General 
+Population Frequency Tables at Strata 
+level  
+  
+The MSNA frequency tables show the 
+results of the analysis of core MSNA 
+indicators across multiple sectors: 
+Displacement, Education, Food Security, 
+Livelihoods, Health, Protection, Shelter 
+and NFI, WASH, and Accountability to 
+Affected Populations. The frequency 
+tables are available at four different 
+geographical levels: National, Macro-
+region, Oblast, and Strata.   
+To provide contextual data on 
+general populations’ multi-sectoral 
+needs, triangulate and compare 
+findings between MSNA rounds.   
+2026 REACH Ukraine Humanitarian 
+Situation Monitoring (HSM)  
+Provides detailed information on 
+humanitarian needs and service access 
+in conflict-affected settlements in 
+Ukraine within the 0-50 kilometre zone.  
+Inform assessment methodology, 
+including questionnaire and 
+sampling design, verify/triangulate 
+primary data and findings and try 
+to compare trends over time. 
+2026 REACH Ukraine Calibration 
+Assessment Round 4 – Dataset 
+2026 REACH Ukraine Calibration 
+Assessment Round 4 – Frequency Tables 
+at Strata level 
+2026 REACH Ukraine Calibration 
+Assessment Round 4 – Frequency Tables 
+Frontline Oblasts  
+The report presents the results of the 
+Calibration Assessment Roud 4, 
+providing an update on multisectoral 
+needs as of January 2026. 
+To inform analysis, emerging 
+trends, seasonal drivers of 
+vulnerability and needs across 
+sectors in 2026.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 13 
+ 
+2026 REACH Ukraine Joint Market 
+Monitoring Initiative (JMMI)16 
+JMMI reports track prices and 
+availability of commodities, market 
+dynamics in Ukraine, and inform cash-
+based humanitarian responses within 
+the 0-50 kikometre zone. 
+To facilitate context analysis and 
+triangulate primary data collected 
+by different research cycles.  
+2026 Ukraine Humanitarian Needs and 
+Response Plan (HNRP) 
+ 
+ 
+ 
+The 2026 HNRP provides an overview of 
+the impact of the war on the people of 
+Ukraine, the most pressing humanitarian 
+needs, the estimated number of people 
+who need assistance. It outlines the 
+strategy to ensure adequate and timely 
+humanitarian response.  
+Aid understanding of the context, 
+informs assessment methodology, 
+including questionnaire and 
+sampling design. 
+2025-2026 OCHA Ukraine Situation 
+Reports 
+Compilation of latest information 
+concerning the humanitarian situation in 
+Ukraine.  
+To enhance understanding of the 
+context and key definitions, 
+corroborate primary data, and 
+validate findings through 
+triangulation. 
+2026 IOM Displacement Tracking Matrix 
+(DTM) 
+ 
+Tracks displacement trends and provides 
+information on conflict-affected 
+displaced groups in Ukraine.  
+Aid understanding of the context, 
+specifically in relation to 
+displacement. 
+2025 Ukraine UNFPA Subnational 
+Population Statistics 
+ 
+Restricted dataset on population 
+statistics disaggregated by geographic 
+and demographic groups. The dataset is 
+updated annually in the summer to 
+allow for more accurate weighting. 
+To generate survey weights for the 
+MSNA dataset.  
+REACH Ukraine  
+UNHCR Ukraine Quarterly Operational 
+Updates  
+UNICEF Ukraine Situation Reports  
+WFP Ukraine Situation Reports  
+ACAPS Ukraine Special Reports  
+ 
+Compilation of latest information 
+products from UN Agencies and INGOs 
+on the humanitarian situation in 
+Ukraine. 
+To enhance understanding of the 
+context and key definitions, 
+corroborate primary data, and 
+validate findings through 
+triangulation. 
+Cluster reports  Compilation of Clusters and NGO 
+partners’ reports on sectoral and 
+localized needs.  
+To triangulate primary data and 
+findings on sectoral and localized 
+needs.  
+ 
+3.4 Primary Data Collection  
+ 
+3.4.1 Method 
+ 
+The MSNA will include approximately 4,5 80 household-level CATI interviews conducted across nine frontline 
+oblasts of Ukraine. The CATI methodology was selected over face -to-face (F2F) data collection due to its cost - 
+and time -efficiency, alignment with the approach used in the 2025 MSNA, and its ability to safely access 
+households in frontline and border areas – which are increasingly the focus of the humanitarian response – 
+without exposing enumerators to security risks. 
+Data collection will be implemented by the Kyiv International Institute of Sociology (KIIS), under the oversight of 
+REACH. KIIS brings substantial operational capacity and extensive experience in CATI implementation, having 
+ 
+16 Forthcoming.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 14 
+ 
+conducted data collection for multiple MSNA and HSM cycles, as well as previous assessment rounds in Ukraine. 
+As a long-standing REACH partner, KIIS is fully familiar with REACH methodologies, data quality standards, and 
+ethical protocols.  In parallel, REACH will ensure technical oversight of the process, including correct 
+implementation of the s ampling design, and data quality monitoring. KIIS enumerators will be trained in 
+accordance with REACH standards to ensure consistency in implementation. Data colle ction is planned to take 
+place over a five-week period from 15 June to 27 July 2026, following a one-week training period, which includes 
+testing and piloting. 
+ 
+3.4.2 Sampling 
+ 
+The MSNA 2026 will adopt a probability -based sampling methodology using stratified random sampling. The 
+sampling design has been developed to balance operational constraints, including timeline, budget, and access 
+limitations, with the need to generate a robust and policy -relevant evidence base for the 202 7 Humanitarian 
+Needs and Response Plan (HNRP). 
+The sampling framework covers nine frontline oblasts , namely Chernihivska, Dnipropetrovska, Donetska, 
+Kharkivska, Khersonska, Mykolaivska, Odeska, Sumska, and Zaporizka, and is structured around 22 strata defined 
+by geographic proximity to the frontline or the border with the Russian Federation, as well as key urban centres. 
+These strata include: 
+• Oblast centres; 
+• Areas located within 0–50 kilometres from the frontline or border (excluding centres where applicable); 
+• Areas located beyond 50 kilometres from the frontline or border (excluding centres where applicable). 
+A baseline target of approximately 158 completed interviews per stratum is applied, with selected strata 
+deliberately oversampled to improve analytical coverage in frontline areas, particularly regarding raion (admin-
+2) representativity.  
+Direct raion-level representativity is not feasible under current conditions  given the depopulation of certain 
+frontline raions, which a stagnant frontline has exacerbated. As such, the sampling strategy incorporates targeted 
+oversampling across strata to increase the probability of capturing observations from frontline raions without 
+explicitly stratifying at that level. The estimation of the oversample is based off updated settlement-level statistics 
+through the same approach described above for weighting the dataset. 
+This approach is expected to ensure representativity at: 
+• Oblast level (admin-1); 
+• 0–50 km and 50+ km zones within oblasts; 
+• Oblast centres (admin-4); 
+• A majority of frontline raions on a probabilistic basis, where sufficient observations are captured. 
+While approximately 11 out of 23 frontline raions are expected to be reliably represented, coverage could extend 
+to up to 16 raions under favourable conditions. A limited number of raions are unlikely to reach sufficient sample 
+sizes. Consequently, raion-level analysis will only be conducted where adequate data is available, and findings 
+for specific raions should be interpreted with caution. 
+Given the CATI RDD methodology, results are considered representative at the stratum level, assuming adequate 
+mobile phone coverage and response rates. Aggregated estimates will be produced by pooling relevant strata 
+to generate oblast-level and cross-strata indicators. The margin of error will vary depending on effective sample 
+sizes, but is expected to fall within the range of approximately 5% to 8% at a 95% confidence level, with the 2026 
+reporting on the raion level when the margin of error falls below 11%.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 15 
+ 
+Map 1: Sampling approach 
+ 
+Map 2: Sampling approach with odds of raion representativity
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 16 
+ 
+ 
+Households covered by the 2026 MSNA are located exclusively in nine frontline oblasts of Ukraine: Chernihivska, 
+Dnipropetrovska, Donetska, Kharkivska, Khersonska, Mykolaivska, Odeska, Sumska, and Zaporizka. Within these 
+oblasts, the sampling framework applies stratified random sampling, with strata defined based on proximity to 
+the front line or the border with the Russian Federation, as well as the inclusion of key urban centres. 
+Specifically, strata are defined based on proximity to the frontline or the border with the Russian Federation, as 
+well as the inclusion of selected oblast centres. These include: (i) areas located within the 0–50 km zone; (ii) areas 
+located beyond 50 km, where applicable; and (iii) oblast centres, where these are treated as distinct strata. 
+In Donetska Oblast, given the limited accessibility and the concentration of the surveyed population  in 
+Kramatorsk, a single stratum covering the accessible areas is applied. In Khersonska and Zaporizka Oblasts, where 
+the majority of territory lies within the 0–50 km zone, two strata are defined: the oblast centre and the remainder 
+of the oblast within the 0 –50 km zone, with no 50+ stratum included. In contrast, in oblasts such as 
+Dnipropetrovska, Kharkivska, Sumska, Chernihivska, and Mykolaivska, where both frontline-proximate and more 
+distant populations are accessible, stratification distinguishes between 0–50km areas, 50+ km areas, and, where 
+relevant, oblast centres. 
+In Odeska oblast, stratification is not based on distance to the frontline, but instead distinguishes between the 
+city of Odesa and Odeskyi (admin-2). Given the shape of Odeska Oblast and the particularities of its geography 
+in relation to the ongoing conflict, Odesa (admin-4) and Odeskyi (admin-2) with the oblast centre removed were 
+preferred as the two sampling units, over Odesa and Odeska (admin-1). 
+Oblast centres sampled as distinct strata include Chernihiv, Dnipro, Kharkiv, Kherson, Mykolaiv, Odesa, Sumy, 
+and Zaporizhzhia. These cities are treated separately to prevent large urban populations from disproportionately 
+influencing estimates for surrounding areas, particularly within the 0–50 km zones or broader oblast-level strata. 
+While no dedicated sample of internally displaced persons (IDPs) is drawn, previous CATI -based assessments 
+indicate that a substantial number of IDP households are likely to be included in the sample, particularly within 
+frontline oblasts. As such, finding s related to IDPs may provide useful insights and, in some cases, approach 
+acceptable levels of precision; however, they should not be assumed to be fully representative.  Any 
+disaggregation by displacement status will therefore be treated as indicative and interpreted with caution. 
+The target sample size is approximately 158 completed interviews per stratum, with larger allocations in selected 
+strata to support oversampling. This results in a total sample of approximately 4,580 household interviews across 
+22 strata. At the stratum level, this corresponds to a 95% confidence level, with margins of error generally ranging 
+from approximately 5% to 8% depending on achieved sample sizes. A buffer of approximately 5% is included to 
+account for interviews that may be excluded following data quality checks. 
+The primary sampling unit is the household. Samples are drawn within each stratum using Random Digit Dialing 
+(RDD), whereby mobile phone numbers are randomly generated based on operator prefixes and remaining 
+digits. Enumerators conduct multiple call attempts at different times and on different days to maximise response 
+rates. Data collection is implemented through a call centre operated by KIIS with guidance and monitoring from 
+REACH ensuring standardized procedures, supervision, and adherence to establish ed data quality and ethical 
+standards.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 17 
+ 
+Sampling summary table:  
+ 
+Stratification Confidence 
+level 
+Error 
+margin 
+Buffer Sample size Sampling 
+type 
+Chernihivska – Chernihiv (oblast 
+center) 
+95% 5-8% 5% 158 Probability 
+Chernihivska – 50 kilometer zone 95% 5-8% 5% 300 Probability 
+Chernihivska – Beyond 50 kilometer 
+zone minus Chernihiv 
+95% 5-8% 5% 300 Probability 
+Dnipropetrovska – Dnipro (oblast 
+center) 
+95% 5-8% 5% 158 Probability 
+Dnipropetrovska – 50 kilometer 
+zone 
+95% 5-8% 5% 180 Probability 
+Dnipropetrovska – Beyond 50 
+kilometer zone minus Dnipro 
+95% 5-8% 5% 180 Probability 
+Donetska – Donetska 95% 5-8% 5% 158 Probability 
+Kharkivska – Kharkiv (oblast 
+center) 
+95% 5-8% 5% 158 Probability 
+Kharkivska – 50 kilometes zone 
+minus Kharkiv 
+95% 5-8% 5% 334 Probability 
+Kharkivska – Beyond 50 kilometer 
+zone 
+95% 5-8% 5% 334 Probability 
+Khersonska – Kherson (oblast 
+center) 
+95% 5-8% 5% 158 Probability 
+Khersonska – Khersonska minus 
+Kherson 
+95% 5-8% 5% 180 Probability 
+Mykolaivska – Mykolaiv (oblast 
+center) 
+95% 5-8% 5% 158 Probability 
+Mykolaivska – 50 kilometer zone 
+minus Mykolaiv 
+95% 5-8% 5% 158 Probability 
+Mykolaivska – Beyond 50 kilometer 
+zone 
+95% 5-8% 5% 158 Probability 
+Odeska – Odesa (oblast center) 95% 5-8% 5% 158 Probability 
+Odeska – Odeskyi minus Odesa 95% 5-8% 5% 158 Probability 
+Sumska – Sumy (oblast center) 95% 5-8% 5% 158 Probability 
+Sumska – 50 kilometer zone minus 
+Sumy 
+95% 5-8% 5% 359 Probability 
+Sumska – Beyond 50 kilometer zone 95% 5-8% 5% 359 Probability 
+Zaporizka – Zaporizhzhia (oblast 
+center) 
+95% 5-8% 5% 158 Probability 
+Zaporizka – Zaporizka minus 
+Zaporizhzhia 
+95% 5-8% 5% 158 Probability 
+Total sample size 4,580 
+ 
+3.4.3 Tools 
+ 
+The 2026 MSNA  will utilize a quantitative household survey instrument developed based on the existing 
+framework applied in previous MSNA rounds, building on lessons learned and refinements introduced in 2024 
+and 2025. The questionnaire incorporates the majority of mandatory (Tier 1) indicators from the MSNA Indicator 
+Bank, with targeted adaptations to better reflect the Ukrainian context and evolving humanitarian priorities. In
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 18 
+ 
+particular, adjustments were made within the Protection and Shelter sections to ensure relevance to current 
+operational realities. These revisions were undertaken in close consultation with key stakeholders involved in the 
+Humanitarian Needs and Response Plan (HNRP), including 13 Clusters and Technical Working Groups. Partners 
+were provided with the opportunity to review and provide detailed feedback on the draft questionnaire to ensure 
+alignment with sectoral information needs. 
+While the Kobo questionnaire template provided by IMPACT HQ for mandatory indicators was reviewed, the 
+MSNA Ukraine team opted not to adopt it in its original format. Instead, a tailored Kobo XLSForm is used, 
+supported by customized data cleaning and analysis scripts that have been refined over three consecutive MSNA 
+cycles. This adapted tool is designed to improve data accuracy, streamline processing, and ensure consistency 
+with Ukraine -specific methodological requirements. A detailed list of indicators th at have been removed, 
+modified, or added is provided in the technical annex.  However, variable names align with those provided by 
+IMPACT HQ.  
+Enumerators contracted by KIIS will undergo a five -day training prior to data collection. The training will cover 
+what IMPACT is, the purpose of the assessment, the structure of the questionnaire, the rationale behind each 
+module, and detailed guidance on response options, with particular emphasis on modules identified as 
+challenging in previous rounds, including displacement, income and expenditure, and food secu rity indicators. 
+The training combines theoretical sessions with practical exercises using the Kobo tool. Enumerator readiness 
+will be assessed through a knowledge test and the completion of two pilot interviews prior to the start of data 
+collection. Both must be completed successfully to proceed with data collection.  
+During data collection, the REACH Data Team will conduct regular quality assurance checks, monitoring key 
+indicators such as interview duration, call patterns, response consistency, and logical coherence of responses. 
+Findings from these checks will be sys tematically documented and shared with KIIS focal points on a weekly 
+basis. The Data and Assessment Teams will jointly review identified issues and determine appropriate corrective 
+actions based on their frequency and severity. In addition, enumerators wil l be able to provide structured 
+feedback directly within the Kobo tool, including observations related to questionnaire design, respondent 
+comprehension, or contextual factors affecting the interview. 
+In the event that target sample sizes are not achieved in specific strata due to elevated non -response rates or 
+access constraints, KIIS will intensify call -back procedures using the Random Digit Dialing (RDD) system, 
+including repeated attempts at differe nt times and days. Given the CATI -based methodology, it is anticipated 
+that sufficient coverage will be achieved in most strata. However, in cases where persistent challenges arise , 
+particularly in areas close to the frontline, REACH will assess feasible mitigation measures, including adjustments 
+in fieldwork intensity or extended data collection periods , as well as combining strata. Any deviations from the 
+planned sampling approach, as well as their implications for representativity and analysis, will be transparently 
+documented during the data processing and reporting stages. 
+ 
+3.5 Data Processing & Analysis 
+ 
+Once the data collection is completed, primary data collected through Kobo will be exported to Excel and utilized 
+by REACH for data processing. REACH Data Teams will keep a log of any changes, aligning to IMPACT’s Minimum 
+Standards Checklist for Data Cleaning and Processing for Structured (Quantitative) Data  17 as well as IMPACT’s 
+Data Protection SoPs. Data cleaning will involve verifying logical consistency through cross -checks during data 
+ 
+17 Internal document.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 19 
+ 
+collection, ensuring that metadata is complete, appropriately recoding “other” responses, and removing all 
+personal or identifying information from the dataset.  
+ 
+Primary data collected through the 2026 MSNA will be analyzed to assess the overall state of humanitarian needs 
+across sectors, geographies and demographic grou ps, identify key drivers of vulnerability, and map common 
+need profiles. During the analysis phase, sampling weights will be applied to different strata to ensure that the 
+sample more adequately reflects the population distribution, based on UNFPA’s most updated COD-PS data. 
+ 
+The 2026 MSNA data will be processed using two analysis frameworks: (i) the Multi-Sector Needs Index, and 
+the (ii) Contextualized Composite Indicator Analysis (CCIA)  framework. The 2026 Multi-Sector Needs Index 
+framework18 will be developed by IMPACT Initiatives to facilitate the analysis and comparison of crisis-level data 
+across sectors and humanitarian operations , using standard indicators to compare crises across contexts . The 
+CCIA was developed by REACH Ukraine in 2024 in collaboration with Clusters, Working Groups, and Areas of 
+Responsibility, to measure the magnitude and complexity of humanitarian needs in Education, Food Security, 
+Health, Livelihoods, Protection, SNFI, and WASH. It was then updated in 2025. The CCIA is specifically tailored to 
+the Ukrainian context, with localized indicators and dimensions that reflect the unique characteristics of the crisis 
+to facilitate dissemination of findings. 
+ 
+Both analysis frameworks classify households based on the severity of humanitarian needs into five categories: 
+None/Minimal (1), Stress (2), Severe (3), Extreme (4), and Extreme (4+). A household is considered in need if it 
+scores above 3, and in extreme need if it scores 4 or higher. The final severity score is based on the highest 
+sectoral severity experienced by the household.  
+ 
+The critical indicators and dimensions analysed through the CCIA include: 
+ 
+• Education: capturing information about children’s school attendance, schooling modalities, reasons for 
+not accessing formal school, education disruption events, and the presence of a conducive environment 
+to education.  
+• SNFI: shelter type, capturing proportion of HHs living in safe and dignified dwellings, proportion of HHs 
+living in functional domestic space, conflict damage and non -conflict related shelter issues, security of 
+tenure, types of electricity and heating, interruptions to main utility services, and access to essential non-
+food items.  
+• WASH: capturing information about access to sufficient quantity of drinking water, primary sources of 
+drinking water, access to improved water sources, water -fetching time, treatment of water, types and 
+safety of sanitation facilities used, access to technical water, hygiene and access to hygiene NFIs.  
+• Food security: capturing Food Consumption Score (FCS) and Reduced Coping Strategy Index (rCSI), 
+Economic Capacity to Meet Essential Needs (ECMEN)  
+• Livelihoods, Cash and markets:  capturing information about households’s primary income sources, 
+income quantity, utilization of livelihood coping strategies (LCS), estimation of monthly expenditure per 
+capita, and debt repayment challenges.  
+• Health: capturing information about the proportion of households with health needs, forgone care, 
+disability and chronic conditions, barriers to accessing healthcare and medicines, and distance to the 
+nearest medical facility.  
+ 
+18 Forthcoming.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 20 
+ 
+• Protection: capturing information on exposure to conflict events, safety and security incidents , key 
+concerns in relation to housing/property/land, inability to access legal assistance and social and 
+administrative services, and child separation.  
+ 
+The findings will be disaggregated to highlight variations across administrative  and geographic specifications 
+(urban/rural, strata, distance from the frontline and border with the Russian Federation), as well as  
+sociodemographic criteria. Nevertheless, given the small sample size, the analysis based on such disaggregations 
+will be only indicative. Key disaggregations will include: 
+• HHs with at least one member with a reported or registered disability: HHs with a member with a 
+disability, HHs without a member with a disability 
+• Displacement status of head of household: IDP HHs, Intra -settlement displaced HHs, Non -displaced 
+HHs, Returnee HHs 
+• Age of HH members: Mixed HHs (both 60+ and under), Non-elderly HHs, Elderly HHs. 
+• HH size: Single HH member, HHs with 2-4 members, HHs with 5+ members 
+• Rural/urban: Rural HHs, Urban HHs 
+• By 50-km proximity to the Frontline / border with the Russian Federation: HHs living in settlements away 
+from the frontline or Russian border, HHs living in settlements close to the frontline or Russian border.  
+• By presence of children: HHs with children (HH member <18 years old), HHs without children 
+• By caregiving status: Household without children, Multiple adults with children, Single female adult with 
+children, Single male adult with children 
+• By income per capita: HHs in 0 -25% income quartile, HHs in 25 -50% income quartile, HHs in 50 -75% 
+income quartile, HHs in 75-100% income quartile 
+• By head of household type: Joint-headed households, Single-headed female households, Single-headed 
+male households 
+• By gender of respondent: Men-respondent, Women-respondent 
+• By age of respondents: 18-29 y.o. respondents, 30-44 y.o. respondents, 45-59 y.o. respondents, 60+ y.o. 
+respondents. 
+ 
+3.6 Limitations 
+The 2026 MSNA faces several limitations related to its data collection modality and sampling strategy. The use 
+of CATI interviewing, while cost -effective and enabling access to hard -to-reach areas near the front  line, may 
+introduce coverage bias by underrepresenting households without reliable access to mobile phones. This 
+includes, for example, older individuals, populations living in remote areas, and households in frontline 
+settlements affected by disruptions t o telecommunications infrastructure. In addi tion, CATI surveys are less 
+suited to lengthy questionnaires, as the absence of face-to-face interaction can contribute to respondent fatigue, 
+increased non-response rates, and incomplete interviews. To mitigate these risks, the MSNA questionnaire has 
+been streamlined and structured to ensure an average completion time of approximately 45 to 60 minutes, 
+including the use of shorter and more focused sectoral modules. 
+As data collection will be implemented by KIIS rather than REACH enumerators, REACH will have reduced direct 
+control over fieldwork operations. This may introduce risks related to data quality and consistency. To address 
+this, REACH will maintain strong oversight through the implementation of comprehensive data quality assurance 
+mechanisms, including regular monitoring of interview patterns, logic checks, and systematic review of incoming 
+data. In addition, REACH will hold regular coordination meetings with KIIS to review progress, address challenges, 
+and ensure adherence to established protocols.
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 21 
+ 
+While the assessment is designed to achieve a 95% confidence level, the margin of error varies across strata, 
+generally ranging from approximately 5% to 8% depending on achieved sample sizes. The survey is 
+representative at the stratum level and supports aggregation to oblast level, as well as to 0–50 km and 50+ km 
+zones where applicable. However, due to the stratified design and the use of targeted oversam pling, precision 
+will differ across geographic aggregations. Furthermore, the approach does not guarantee full representativity 
+at the raion level; although the sampling strategy increases the likelihood of capturing data from frontline raions, 
+coverage remains partial and probabilistic. 
+The sampling design does not include dedicated samples for specific population groups, such as IDPS. While a 
+substantial number of IDP households are expected to be captured, any analysis disaggregated by displacement 
+status should be considered indicative rather than statistically representative. The same applies to other 
+population subgroups, including households with specific vulnerabilities, given the reduced effective samp le 
+sizes when disaggregating the data. 
+Finally, differences between MSNA geographic classifications and those used by other actors (e.g. OCHA 
+definitions of frontline areas or proximity zones) may lead to discrepancies in interpretation. These differences 
+will be clearly documented and communic ated during analysis and dissemination to support coherent inter -
+agency use of the findings. 
+ 
+4. Key ethical considerations and related risks 
+The proposed research design meets / does not meet the following criteria: 
+The proposed research design…  Yes/ No Details if no (including mitigation) 
+… Has been coordinated with relevant stakeholders to avoid 
+unnecessary duplication of data collection efforts? Yes  
+… Respects respondents, their rights and dignity (specifically 
+by: seeking informed consent, designing length of survey/ discussion 
+while being considerate of participants’ time, ensuring accurate 
+reporting of information provided)? 
+Yes  
+… Does not expose data collectors to any risks as a direct 
+result of participation in data collection? Yes  
+… Does not expose respondents / their communities to any 
+risks as a direct result of participation in data collection? No 
+Respondent telephone numbers will be 
+requested during the interview in case 
+of a need to clarify responses during 
+cleaning or conduct follow-up data 
+collection. However, respondents will 
+first be informed of how their number 
+will be used and stored and their 
+numbers will only be collected if they 
+provide their consent. To mitigate the 
+risk of exposure of personally 
+identifiable data, IMPACT SOPs for 
+management of such information are 
+followed. In addition, respondents are
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 22 
+ 
+not asked sensitive political or 
+ideological questions that could put 
+them at risk or make them feel 
+uncomfortable. 
+… Does not involve collecting information on specific topics 
+which may be stressful and/ or re-traumatising for research 
+participants (both respondents and data collectors)? 
+No 
+The assessment includes questions on 
+vulnerability, income, disability, 
+healthcare needs, exposure to conflict, 
+main safety and security incidents 
+affecting the households, any of which 
+can be sensitive for a respondent and 
+trigger potential feeling of shame 
+and/or discomfort of respondent. Risk 
+is mitigated by careful phrasing of the 
+questions and adding an option to 
+refuse to answer. In addition, 
+enumerators are trained on how to 
+approach sensitive topics during 
+interviews. 
+… Does not involve data collection with minors i.e. anyone less 
+than 18 years old? Yes  
+… Does not involve data collection with other vulnerable 
+groups e.g. persons with disabilities, victims/ survivors of 
+protection incidents, etc.? 
+No 
+While vulnerable groups are not 
+purposefully sampled as part of this 
+assessment, Heads of households 
+(HoH) or household members that are 
+interviewed could represent an at-risk 
+group. Respondents have the right to 
+refuse the whole interview or answer 
+specific questions. In addition, 
+enumerators will be trained on ethical 
+considerations and referral and 
+reporting mechanisms 
+… Follows IMPACT SOPs for management of personally 
+identifiable information? Yes
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 23 
+ 
+5. Roles and responsibilities 
+ 
+Table 3: Description of roles and responsibilities 
+Task Description Responsible Accountable Consulted Informed 
+Research design Senior Assessment 
+Officer, Assessment 
+Officer 
+Research 
+Manager 
+Research 
+Department at 
+IMPACT HQ, 
+Deputy 
+Country 
+Coordinator 
+13 HNRP 
+stakeholders 
+Supervising data 
+collection 
+Senior Assessment 
+Officer, Assessment 
+Officer, Senior Data 
+Officer 
+Research 
+Manager 
+  
+Data processing 
+(checking, cleaning) 
+Senior Data Officer, 
+Data Officer, GIS 
+Officer, Senior 
+Assessment Officer, 
+Assessment Officer  
+Research 
+Manager 
+  
+Data analysis Senior Data Officer, 
+Data Officer, GIS 
+Officer, Senior 
+Assessment Officer, 
+Assessment Officer  
+Research 
+Manager 
+Research 
+Department at 
+IMPACT HQ, 
+Deputy 
+Country 
+Coordinator 
+13 HNRP 
+stakeholders 
+Output production Senior Assessment 
+Officer, Assesment 
+Officer 
+Research 
+Manager 
+  
+Dissemination Senior Assessment 
+Officer, Assessment 
+Officer  
+Research 
+Manager 
+  
+Monitoring & Evaluation Senior Assessment 
+Officer 
+Research 
+Manager 
+  
+Lessons learned Senior Data Officer, 
+Data Officer, GIS 
+Officer, Senior 
+Assessment Officer, 
+Assessment Officer 
+Research 
+Manager 
+  
+ 
+Responsible: the person(s) who executes the task 
+Accountable: the person who validate s the completion of the task and is accountable of the final output or 
+milestone
+MSNA - UKR_2609, May 2026 
+ 
+www.reach-initiative.org 24 
+ 
+Consulted: the person(s) who must be consulted when the task is implemented 
+Informed: the person(s) who need to be informed when the task is completed 
+6. Data Analysis Plan 
+ 
+Available on the IMPACT Document Repository platform at this link.

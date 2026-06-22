@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-22T02:51:19.940786+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.xml",
-  "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt"
+  "url": "https://reliefweb.int/report/occupied-palestinian-territory/opt-humanitarian-situation-report-19-june-2026",
+  "title": "oPt: Humanitarian Situation Report | 19 June 2026",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 22 Jun 2026 00:26:16 +0000",
+  "sha256": "3465d57c3a61dbb7c587f0ce41f80bb8c217e8a5789e2e39b702d2c2d0004f95",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-22T02:52:11.332932+00:00",
+  "text_chars": 3548,
+  "raw_path": "data/geopolitics/raw/3465d57c3a61dbb7c587f0ce41f80bb8c217e8a5789e2e39b702d2c2d0004f95.html",
+  "text_path": "data/geopolitics/raw/3465d57c3a61dbb7c587f0ce41f80bb8c217e8a5789e2e39b702d2c2d0004f95.txt"
 }
