@@ -1,0 +1,242 @@
+Concept of Operations, June 2026 
+Sudan   
+ 
+ 
+This Concept of Operations is a live document, and the activities will be adapted and revised as the situation unfolds and further 
+assessment results become available, including the possible provision of additional logistics common services as required by the 
+humanitarian community.  
+Background 
+ 
+Since the outbreak of conflict between the Sudanese Armed Forces (SAF) and the Rapid Support Forces  (RSF) in April 
+2023, Sudan has faced one of the world’s largest humanitarian crises. Nearly 8.9 million people are internally displaced – 
+including more than 6.6 million displaced since the conflict began . This represents a 23 percent decrease from the peak 
+of almost 11.6 million recorded in January 2025, reflecting increased returns, particularly to Khartoum and A l Jazirah. 
+Nearly 4.6 million people have fled to neighbouring countries. The crisis has also exacerbated the humanitarian situation 
+in Chad and South Sudan, both of which were already dealing with protracted emergencies.  
+ 
+In 2026, 33.7 million people in Sudan require humanitarian assistance – an increase of 3.3 million from 2025 . Despite 
+these overwhelming needs, access constraints, bureaucratic and administrative impediments, an overstretched logistics 
+market, storage constraints,  and rising costs for logistics services  continue to hinder the delivery of humanitarian 
+assistance to affected populations . Crossline and cross -border movement of humanitarian personnel and supplies 
+continue to face significant obstacles.   
+ 
+To address these logistical challenges and mitigate disruptions to the humanitarian supply chain, the Logistics Cluster has 
+been scaling up its operations since 2023 (following its initial activation in 2020). With the main operational cell based in 
+Port Sudan, the  Logistics Cluster leads coordination, advocates for the uninterrupted flow of assistance, and supports 
+humanitarian partners operating across the country. 
+ 
+Operational Constraints 
+ 
+Humanitarian organizations are facing significant operational challenges due to factors including movement restrictions, 
+airspace closures, limited safe access to conflict -affected areas, complex deconfliction processes, bureaucratic 
+impediments, and telecommunications constraints, among others. These issues are significantly hindering the delivery of 
+assistance to affected populations.  
+Partners have reported the following logistics gaps and bottlenecks impacting their operations , including through the  
+Gaps and Needs Analysis (GNA) published in August 2025: 
+• Limited humanitarian access to hard-to-reach areas, particularly in Darfur and Kordofan regions. 
+• Limited operational points of entry into Sudan and restrictions on crossline movements due to ongoing conflict and 
+insecurity. 
+• Limited ability to contract reliable transportation and storage services due to security constraints, an overstretched 
+market, rising costs, and service disruptions. 
+• Insufficient temperature-controlled storage and transport capacity, particularly for cross-border corridors. 
+• Limited information on logistics service providers’ availability and capacity, market conditions, and road network and 
+infrastructure status, particularly during the rainy season.
+Concept of Operations, June 2026 
+Sudan   
+ 
+ 
+This Concept of Operations is a live document, and the activities will be adapted and revised as the situation unfolds and further 
+assessment results become available, including the possible provision of additional logistics common services as required by the 
+humanitarian community.  
+• Bureaucratic and administrative impediments, including lengthy and frequently changing customs and importation 
+procedures and travel permit approval delays. 
+• Airspace closure except for limited air access in Port Sudan, Khartoum, Kassala, and Dongola. 
+• Limited fuel availability and rising costs in certain areas. 
+ 
+Points of Entry 
+Air: Port Sudan International Airport is the only international airport open and operational for both humanitarian and 
+commercial flights. UNHAS is currently providing humanitarian flights from Nairobi, Kenya , and Jeddah, Saudi Arabia to 
+Port Sudan. From Port Sudan, UNHAS operates flights to Khartoum, Kassala and Dongola. UNHAS also operates flights to 
+several locations in Chad, including Farchana, Abeche, Guereda, and Adre, among others. The expansion of air services 
+to additional locations across Sudan remains dependent on access and security conditions, and the issuance of clearances 
+from the relevant authorities . The latest UNHAS flight schedules are regularly published on the Sudan Logistics Cluster 
+website.  
+ 
+Road: The following road entry points are officially authorised for use by the GoS:  
+• Adre, Chad: Considered the most operationally relevant due to its location in relation to target areas  in Darfur. 
+• Tine/Tina, Chad: Partners have reported significant bureaucratic and administrative impediments when trying to 
+cross through this point. 
+• Renk/Rabak, South Sudan: Partners have reported bureaucratic impediments when trying to use this entry point.  
+• Argeen, Egypt: Partners are increasingly using this border crossing to reach the Darfur and Kordofan regions. While 
+generally viable, p artners have reported c ongestion, limited infrastructure , and clearance delays  at the border  
+crossing. After entering Sudan, cargo usually transits via Dongola or Al Dabbah in Northern State.  
+• Kurmuk; Yabus; and Galabat/Metema, Ethiopia: Partners have experienced complex and lengthy customs processes 
+at these entry points. 
+ 
+Eritrea and Central African Republic are not currently under consideration as transport corridors due to their complex 
+operating environments; and routes from Libya are not being considered due to insecurity.  
+ 
+Sea: The Port Sudan seaport is operational. 
+ 
+Transportation 
+Crossline road transportation from Port Sudan to southern and western areas of the country is challenging due to  
+bureaucratic impediments, insecurity, and damage to infrastructure. While there is sufficient availability of commercial 
+transporters, partners report significantly elevated  prices mainly due to the heightened security constraints along 
+transport routes and the high cost of fuel. Transporters may be reluctant to operate in conflict-affected areas given the 
+high level of risks. Due to these constraints, partners are working with transporters to assess the feasibility of alternative 
+routes.
+Concept of Operations, June 2026 
+Sudan   
+ 
+ 
+This Concept of Operations is a live document, and the activities will be adapted and revised as the situation unfolds and further 
+assessment results become available, including the possible provision of additional logistics common services as required by the 
+humanitarian community.  
+The Logistics Cluster has supported the operational planning and coordination of humanitarian road convoys. However, 
+these movements have faced challenges, as partners often receive permits at different times  – or, in some cases, are 
+denied permits altogether . Staff movement restrictions and telecommunications network outages have impacted the 
+ability of partners to gather information on road conditions which are heavily impacted during the rainy season. Partners 
+have reported that transporters have limited capacity to meet cold -chain and temperature -controlled transportation 
+needs, especially from Chad. 
+ 
+Storage 
+There is limited storage capacity (including temperature-controlled storage) in many locations across Sudan, particularly 
+around border regions. Establishing and maintaining warehouses remains a challenge for both the Logistics Cluster and 
+partners due to the ongoing conflict. Many partners have reported damage to and looting of their facilities.  
+ 
+Fuel 
+Fuel is primarily imported, making the market vulnerable to external shocks and price volatility. Fuel prices increased 
+sharply in April 2026, particularly for diesel, driven by external market disruptions  and currency depreciation, impacting 
+humanitarian operations. This upward trend is expected to continue due to these factors, as well as anticipated increased 
+demand during the upcoming summer period. WFP provides fuel to partners through On-Demand Services (ODS)  on a 
+cost-recovery basis through Service Level Agreements (SLAs) in various locations across Sudan, as well as in Chad. 
+  
+Customs 
+Partners have reported significant bureaucratic impediments to the clearance of humanitarian commodities, especially 
+medical supplies.  
+ 
+Telecommunications Challenges 
+Damage to telecommunications infrastructure  due to the ongoing conflict has degraded service availabilit y and further 
+strained the already deteriorated national power grid.  The Emergency Telecommunications Cluster (ETC)  currently 
+provides internet connectivity services in seven locations and plans to expand connectivity to locations to the Darfur and 
+Kordofan regions , access and security permitting . Limited connectivity  in hard-to-reach locations  significantly impacts 
+response efforts, particularly in the Darfur and Kordofan regions, affecting the availability of cash and fuel, and the ability 
+of partners to gather key logistics information. The lack of telecommunications services in certain areas  impedes access 
+negotiations that enable logistics operations, which rely on the ability to contact key actors along the transport routes. 
+ 
+Objectives and Planned Activities 
+ 
+Based on the current operational constraints and lo gistics gaps, and in line with the 2026 Humanitarian Response Plan , 
+the Sudan Logistics Cluster aims to facilitate coordination and access to key logistics-related information, and to provide 
+common logistics services as a provider of last resort (PoLR) to enable a timely and uninterrupted supply of life -saving 
+relief items to affected populations in Sudan. This Concept of Operations aims to deliver on the following objectives:
+Concept of Operations, June 2026 
+Sudan   
+ 
+ 
+This Concept of Operations is a live document, and the activities will be adapted and revised as the situation unfolds and further 
+assessment results become available, including the possible provision of additional logistics common services as required by the 
+humanitarian community.  
+1. Coordination and Information Management : The Logistics Cluster will l everage the logistics knowledge and 
+expertise of responding humanitarian organisations to jointly evaluate the operational situation and support a 
+coordinated humanitarian logistics response. It will collect, analyse, and shar e relevant logistics information to 
+ensure continuity of operations, monitor evolving support needs, a nd identify gaps and bottlenecks in the 
+humanitarian community’s operational capabilities. Where possible – and in line with its mandate and available 
+funding – the Logistics Cluster will work to address these challenges. Additionally,  it will support cross -border 
+monitoring arrangements for United Nations (UN) humanitarian consignments crossing from Chad into Sudan via the 
+Adre border crossing , contributing to transparent cross -border operations. Finally, it will continue to advocate for 
+improved logistical access to support partner interventions.  
+2. Common Services  and Logistics Capacity Augment ation: The Logistics Cluster will support the humanitarian 
+community by providing equipment, services, and technical expertise to augment the logistics capabilities of the 
+humanitarian community to deliver emergency assistance. It will facilitate the provision of common services to 
+address identified gaps, as outlined in the Standard Operating Procedures (SOPs). 
+ 
+The following services will be made available to the humanitarian community until December 2026 and may be reviewed 
+as the context evolves. The Logistics Cluster is closely monitoring the situation and continuing to assess partners’ capacity 
+and needs in the event of situational changes that could lead to a scale -up in humanitarian interventions.  
+ 
+1. Coordination and Information Management 
+ 
+The following coordination and information management services are provided to help mitigate the duplication of efforts 
+by humanitarian actors, enable the use of available logistics resources and expertise, share logistics data and information, 
+ensure effective engagement with interagency forums, support operational decision -making, and engage in advocacy to 
+address operational challenges. 
+• Coordination: The Logistics Cluster maintains coordination cells in Port Sudan, Khartoum, and eastern Chad 
+(Farchana and Adre). The Port Sudan hub focuses on country-level activities and convenes regular coordination 
+meetings, accessible both in -person and remotely,  to address common logistics and operational challenges  at 
+both national and sub -national levels . It coordinates with key interagency forums including  the Inter-Cluster 
+Coordination Group (ICCG)  at national and regional levels , Area -Based Coordination  (ABC) forums, and the 
+Humanitarian Access Working Group  (HAWG), as well as the Logistics Cluster in South Sudan  on strategic 
+planning and pipeline information to enhance response actions.  The Khartoum and eastern Chad cells support 
+sub-national coordination and cross-border operations.  
+• Convoys: The Logistics Cluster serves as a coordination platform for humanitarian road convoys to hard-to-reach 
+locations in close collaboration with WFP and other partners who organize movements and negotiate access. 
+Given the evolving security and access context, there is no fixed convoy schedule ; convoy opportunities are 
+announced thro ugh multiple channels and interest is accepted on a rolling bas is. Partners are encouraged to 
+preposition cargo in Kosti and Ad Dabbah for onward deliveries to the Darfur and Kordofan regions.
+Concept of Operations, June 2026 
+Sudan   
+ 
+ 
+This Concept of Operations is a live document, and the activities will be adapted and revised as the situation unfolds and further 
+assessment results become available, including the possible provision of additional logistics common services as required by the 
+humanitarian community.  
+ 
+• Operational information sharing: Relevant information is consolidated, analysed, and shared regarding customs 
+processes, logistics resources, entry points status, road transport routes, shared storage capacities, logistics -
+related SOPs, and access constraints through multiple communication channels including the Sudan webpage, 
+Logistics Cluster app, Sudan and Chad LCAs, LogIE, an email mailing list, and a WhatsApp group. Partners can 
+sign up to the Sudan Logistics Cluster mailing list and WhatsApp group using this link.  
+The Logistics Cluster continuously monitors and analyses supply chains and the situational context including the 
+status of entry points and corridors into Sudan, the availability of logistics service providers, market disruptions, 
+and partners’ logistics strategies and planned movements  to ensure timely information is available to guide 
+logistics planning and response efforts. The Logistics Cluster also shares relevant updates from the OCHA Access 
+Unit with partners. 
+• Advocacy: Partners’ logistics constraints are collected, analysed, and shared with relevant coordination groups 
+to ensure logistics perspectives are included in broader strategies. 
+2. Common Services and Logistics Capacity Augmentation 
+ 
+The services facilitated by the Logistics Cluster are not intended to replace the logistics capacities of individual agencies 
+or organisations. They are intended to augment partners’ capacities to increase the efficiency of the response, mitigate 
+bottlenecks, and avoid the duplication of efforts. The services are designed to address identified gaps in the humanitarian 
+supply chain that limit the ability of the humanitarian community to meet the needs of the affected population. Access 
+permitting, the following activities and services are provided at no cost to the user organizations. 
+ 
+Storage 
+1. The Logistics Cluster augments the storage capacity of humanitarian organisations through free-to-user common 
+storage facilities in Port Sudan ( 12,000 m2), Gedaref ( 1,250 m2), Kassala ( 640 m2), Kosti (4,000 m2), Al Dabbah 
+(900 m2), El Obeid (500 m 2) and Tawila (880 m2). The Logistics Cluster may loan mobile storage units (MSUs) to 
+augment partners’ storage capacity in locations where it is not present, on a case-by-case basis. 
+2. A total of 354 m2 of temperature-controlled storage (15°C to 25°C) is available in Port Sudan.  
+ 
+Road Cargo Transport 
+1. The Logistics Cluster does not intend to offer a permanent road transport service or to set up a service that 
+would replace partners’ existing capacities . As a Provider of L ast Resort (PoLR), WFP, through the Logistics 
+Cluster, may support cargo road transport to a limited number of locations in Sudan  (security and access 
+permitting). Partners’ requests will be assessed  and accepted on a case-by-case basis as determined by  clear 
+criteria in line with the concept of Last Resort. 
+ 
+As the situation evolves, including expanded or decreased access through different entry points and the potential for 
+augmented air cargo transportation activities, the Logistics Cluster will continue to collect information on developments
+Concept of Operations, June 2026 
+Sudan   
+ 
+ 
+This Concept of Operations is a live document, and the activities will be adapted and revised as the situation unfolds and further 
+assessment results become available, including the possible provision of additional logistics common services as required by the 
+humanitarian community.  
+in the operating context and practical operational arrangements  to best support partners within the Logistics Clusters’ 
+mandate. 
+ 
+As PoLR, WFP, through the Logistics Cluster, is responsible only for providing logistics services that address identified 
+common gaps in logistics capacity, where access and funding permit , and where these gaps limit the ability of the 
+humanitarian community to meet the needs of the affected population. All customs formalities associated with the 
+importation of relief items into Sudan are the responsibility of the requesting partner.
+Concept of Operations, June 2026 
+Sudan   
+ 
+ 
+This Concept of Operations is a live document, and the activities will be adapted and revised as the situation unfolds and further 
+assessment results become available, including the possible provision of additional logistics common services as required by the 
+humanitarian community.  
+Annex 1 – Concept of Operations

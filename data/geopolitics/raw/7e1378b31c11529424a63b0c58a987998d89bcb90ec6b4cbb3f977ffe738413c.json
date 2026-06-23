@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d",
-  "content_type": "text/html",
-  "collected_at": "2026-06-23T02:16:42.400591+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.html",
-  "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt"
+  "url": "https://reliefweb.int/attachments/8a52d5f6-35e0-55c2-b1fd-317fea715771/sudanlcconcept-operationsjune2026english.pdf",
+  "title": "Sudan - Concept of Operations, June 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 22 Jun 2026 14:10:05 +0000",
+  "sha256": "7e1378b31c11529424a63b0c58a987998d89bcb90ec6b4cbb3f977ffe738413c",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-23T02:17:01.202519+00:00",
+  "text_chars": 18711,
+  "raw_path": "data/geopolitics/raw/7e1378b31c11529424a63b0c58a987998d89bcb90ec6b4cbb3f977ffe738413c.pdf",
+  "text_path": "data/geopolitics/raw/7e1378b31c11529424a63b0c58a987998d89bcb90ec6b4cbb3f977ffe738413c.txt"
 }
