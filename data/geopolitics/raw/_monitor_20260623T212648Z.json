@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-23T21:26:48.838655+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/26ac307768882948520692cc6ee2f6926041d7fe2912e897d3754bfd35c1d97e.txt",
+      "metadata_path": "data/geopolitics/raw/26ac307768882948520692cc6ee2f6926041d7fe2912e897d3754bfd35c1d97e.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/65e13115149aa9e9735fe85932b7891b94e1fd359bf9d2f168fc4f72e1644e8e.txt",
+      "metadata_path": "data/geopolitics/raw/65e13115149aa9e9735fe85932b7891b94e1fd359bf9d2f168fc4f72e1644e8e.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Central African Republic peace gains must be preserved: UN envoy (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/22-05-2026-UNFPA-Cent-African-Rep-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/9c02c8c8ec85fa366c3e4806e20be1fed9376f1696aa754b6507bfaa31770ee9.txt",
+      "metadata_path": "data/geopolitics/raw/9c02c8c8ec85fa366c3e4806e20be1fed9376f1696aa754b6507bfaa31770ee9.json"
+    },
+    {
+      "title": "Elites Could Push Putin to Either End the War or to Escalate It",
+      "url": "https://jamestown.org/elites-could-push-putin-to-either-end-the-war-or-to-escalate-it/",
+      "text_path": "data/geopolitics/raw/b1a20e006e20b304608484df838007c723cfb6c48e6926f36b125e70d83793a8.txt",
+      "metadata_path": "data/geopolitics/raw/b1a20e006e20b304608484df838007c723cfb6c48e6926f36b125e70d83793a8.json"
+    },
+    {
+      "title": "UK defence secretary promises delayed investment plan before Nato summit",
+      "url": "https://www.theguardian.com/politics/2026/jun/23/dan-jarvis-promises-delayed-uk-defence-investment-plan-before-nato-summit",
+      "text_path": "data/geopolitics/raw/4a23daf32984b0bdbaf5193cc0a54d20034e091d52cbd57d715155fd5a17acd7.txt",
+      "metadata_path": "data/geopolitics/raw/4a23daf32984b0bdbaf5193cc0a54d20034e091d52cbd57d715155fd5a17acd7.json"
+    },
+    {
+      "title": "Report details widespread use of sexual violence in Sudan war (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/14-05-2026-UNOCHA-Sudan-04.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/04f3ae359995d5938bc7c3589473ffd63fd511770a453e1645bc2a90fed25c95.txt",
+      "metadata_path": "data/geopolitics/raw/04f3ae359995d5938bc7c3589473ffd63fd511770a453e1645bc2a90fed25c95.json"
+    },
+    {
+      "title": "Securing Global Dominance: DoW Unleashes Quantum Defense Strategy to Harden Networks and Empower the Joint Force",
+      "url": "https://www.war.gov/News/Releases/Release/Article/4524599/securing-global-dominance-dow-unleashes-quantum-defense-strategy-to-harden-netw/",
+      "text_path": "data/geopolitics/raw/65a865325a3760d4608c9bc3897a580736f272cca4eec3667da003c0c40c5e77.txt",
+      "metadata_path": "data/geopolitics/raw/65a865325a3760d4608c9bc3897a580736f272cca4eec3667da003c0c40c5e77.json"
+    }
+  ],
+  "txt_before": 1312,
+  "txt_after": 1317
+}
