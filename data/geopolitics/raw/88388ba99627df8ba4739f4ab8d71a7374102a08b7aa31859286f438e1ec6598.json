@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-23T19:06:53.048998+00:00",
-  "text_chars": 6187025,
-  "raw_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json.raw",
-  "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt"
+  "url": "https://reliefweb.int/attachments/65b05058-ac2f-558f-bfe4-738a756b51a4/005%20IDP%20PM%20Snapshot.pdf",
+  "title": "Lebanon: Protection Monitoring Snapshot #5 (16 May - 07 July 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 23 Jun 2026 13:03:11 +0000",
+  "sha256": "88388ba99627df8ba4739f4ab8d71a7374102a08b7aa31859286f438e1ec6598",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-23T19:08:29.539501+00:00",
+  "text_chars": 34589,
+  "raw_path": "data/geopolitics/raw/88388ba99627df8ba4739f4ab8d71a7374102a08b7aa31859286f438e1ec6598.pdf",
+  "text_path": "data/geopolitics/raw/88388ba99627df8ba4739f4ab8d71a7374102a08b7aa31859286f438e1ec6598.txt"
 }
