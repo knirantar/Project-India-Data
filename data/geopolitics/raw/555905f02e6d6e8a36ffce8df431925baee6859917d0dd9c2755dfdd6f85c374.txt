@@ -1,0 +1,32 @@
+The independent senator 
+David Pocock
+ has challenged the Albanese government to prevent tech giants using Australian content to train AI models as cabinet considers proposals to change copyright rules for the rapidly developing technology.
+His call came as the Greens senator Sarah Hanson-Young called for a moratorium on the building and approval of new datacentres in Australia until “we get the regulations right”.
+She said the nation was “sleepwalking” into an AI crisis and could hand tech companies a greenlight “to drain our power and water”.
+Pocock used Senate question time on Tuesday to ask the government about intense lobbying from AI proprietors over possible new rules and regulations for Australian-made content – including suggestions Labor would create a new “carve out” or extend existing licensing arrangements.
+Guardian Australia has been told competing cabinet submissions about the plan are in train, with the Department of Industry, Science and Resources and the Attorney-General’s Department split over the best approach.
+Ministers could choose between establishing new exemptions from copyright rules, in exchange for greater investment in Australian hosted datacentres, or a possible licensing extension to cover AI model developments.
+Under that proposal, AI companies could use Australian content to train their commercial products.
+A new fund for creative industries could also be established as part of the package.
+Pocock said he had been provided information showing 
+Anthony Albanese
+ was preparing to announce a plan on or about 15 July, potentially offering expedited approvals and investment for new datacentres.
+Sign up for the Breaking News Australia email
+But 
+the industry minister, Tim Ayres,
+ accused Pocock of being reckless in airing the questions publicly in an ABC radio interview on Monday and in parliament on Tuesday.
+Ayres said the government would not permit “undermining of copyright protections” as it considers possible new regulations for AI, and praised the assistant minister for science, technology and the digital economy, Andrew Charlton, for his handling of AI policy.
+“It is absolutely our intention to do what we can to make sure that people who produce content in Australia, who are currently getting ripped off all around the world … we are looking at that question.”
+He told the Senate it was in Australia’s national interest to have Australian sovereign capability in technology, particularly where there was competitive advantage.
+“It is not this government’s view that we should just be a cork bobbing on the ocean of other people’s technology and a customer at the long end of technology supply chains, that is not in our interest,” he said. “It sells out future generations.”
+Pocock challenged Ayres about the possible models being considered by the government but the debate was interrupted as the Senate president, Sue Lines, struggled to control the debate.
+He later told the Senate that Ayres had not ruled out the possible moves on AI regulation.
+“The minister accused me of reckless speculation, but, rather curiously, could not simply rule out the speculation,” he said.
+Hanson-Young said Australia should not allow a “tech bro free-for-all” on the country’s resources of water and power and said the government should halt building of datacentres until the regultory settings were properly established.
+“We are sleepwalking into an AI crisis. Until Australia’s laws are up to the task of regulating the big tech bros and their power-hungry datacentres, they should not be given the greenlight to drain our power and water,” Hanson-Young, the chair of a parliamentary inquiry into artificial intelligence and datacentres, said.
+“Until we have proper regulations for the use of energy and precious water and proper protections for Australian artists and businesses we cannot allow a tech bro free-for-all. Until the necessary safeguards are in place and Australia’s resources are protected, approval and development must be paused.”
+The former industry minister Ed Husic had argued for new AI guardrails 
+and consideration of a major new act
+, but he was dumped from cabinet in 2025. Ayres, his successor in the portfolio, is in favour of a lighter touch approach.
+A spokesperson for Ayres told Guardian Australia that Pocock’s claims were incorrect.
+“That is inaccurate,” they said. “The government has ruled out a text and data mining exception. Our position has not changed.”

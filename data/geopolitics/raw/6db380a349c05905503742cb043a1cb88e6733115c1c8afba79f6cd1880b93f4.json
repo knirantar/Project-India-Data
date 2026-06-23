@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "441dc51f4123c775eb9e2704d0934ebc66cc11622ade12461f8c75227937c93e",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-23T13:39:56.041375+00:00",
-  "text_chars": 9092094,
-  "raw_path": "data/geopolitics/raw/441dc51f4123c775eb9e2704d0934ebc66cc11622ade12461f8c75227937c93e.xml",
-  "text_path": "data/geopolitics/raw/441dc51f4123c775eb9e2704d0934ebc66cc11622ade12461f8c75227937c93e.txt"
+  "url": "https://foreignpolicy.com/2026/06/23/us-iran-war-mou-hormuz-trump-ceasefire-treaty-congress/",
+  "title": "Is the MOU a Treaty or Not? And Why Should We Care?",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Tue, 23 Jun 2026 12:12:42 +0000",
+  "sha256": "6db380a349c05905503742cb043a1cb88e6733115c1c8afba79f6cd1880b93f4",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-23T13:40:24.740554+00:00",
+  "text_chars": 13953,
+  "raw_path": "data/geopolitics/raw/6db380a349c05905503742cb043a1cb88e6733115c1c8afba79f6cd1880b93f4.html",
+  "text_path": "data/geopolitics/raw/6db380a349c05905503742cb043a1cb88e6733115c1c8afba79f6cd1880b93f4.txt"
 }
