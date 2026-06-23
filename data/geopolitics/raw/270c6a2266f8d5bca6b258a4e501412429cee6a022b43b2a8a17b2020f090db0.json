@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-23T06:42:46.087408+00:00",
-  "text_chars": 6187025,
-  "raw_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json.raw",
-  "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt"
+  "url": "https://www.foreignaffairs.com/china/heartland-vs-rimland-beckley-brands",
+  "title": "Heartland vs. Rimland",
+  "source": "https://www.foreignaffairs.com/rss.xml",
+  "published": "Tue, 23 Jun 2026 00:00:00 -0400",
+  "sha256": "270c6a2266f8d5bca6b258a4e501412429cee6a022b43b2a8a17b2020f090db0",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-23T06:43:53.384291+00:00",
+  "text_chars": 38066,
+  "raw_path": "data/geopolitics/raw/270c6a2266f8d5bca6b258a4e501412429cee6a022b43b2a8a17b2020f090db0.html",
+  "text_path": "data/geopolitics/raw/270c6a2266f8d5bca6b258a4e501412429cee6a022b43b2a8a17b2020f090db0.txt"
 }
