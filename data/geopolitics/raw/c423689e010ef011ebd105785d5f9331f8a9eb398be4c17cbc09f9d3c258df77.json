@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-24T22:10:30.960538+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://foreignpolicy.com/2026/06/24/rutte-nato-trump-whisperer-iran-war-europe-us-military/",
+  "title": "Can Rutte Sweet-Talk Trump Enough to Soothe NATO Tensions?",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Wed, 24 Jun 2026 21:13:13 +0000",
+  "sha256": "c423689e010ef011ebd105785d5f9331f8a9eb398be4c17cbc09f9d3c258df77",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-24T22:11:25.326961+00:00",
+  "text_chars": 9472,
+  "raw_path": "data/geopolitics/raw/c423689e010ef011ebd105785d5f9331f8a9eb398be4c17cbc09f9d3c258df77.html",
+  "text_path": "data/geopolitics/raw/c423689e010ef011ebd105785d5f9331f8a9eb398be4c17cbc09f9d3c258df77.txt"
 }
