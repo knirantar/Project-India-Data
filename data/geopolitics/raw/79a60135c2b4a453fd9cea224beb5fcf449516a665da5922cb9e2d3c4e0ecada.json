@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "7bea61f6e58014466c8ce6e2db229a08223b1815c84bb924317458015a2329b9",
-  "content_type": "application/xml",
-  "collected_at": "2026-06-24T20:30:31.678722+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/7bea61f6e58014466c8ce6e2db229a08223b1815c84bb924317458015a2329b9.xml",
-  "text_path": "data/geopolitics/raw/7bea61f6e58014466c8ce6e2db229a08223b1815c84bb924317458015a2329b9.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167802",
+  "title": "UN chief: Targeting methane is a climate battle ‘we can win’",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Wed, 24 Jun 2026 12:00:00 +0000",
+  "sha256": "79a60135c2b4a453fd9cea224beb5fcf449516a665da5922cb9e2d3c4e0ecada",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-24T20:31:47.532529+00:00",
+  "text_chars": 4138,
+  "raw_path": "data/geopolitics/raw/79a60135c2b4a453fd9cea224beb5fcf449516a665da5922cb9e2d3c4e0ecada.html",
+  "text_path": "data/geopolitics/raw/79a60135c2b4a453fd9cea224beb5fcf449516a665da5922cb9e2d3c4e0ecada.txt"
 }
