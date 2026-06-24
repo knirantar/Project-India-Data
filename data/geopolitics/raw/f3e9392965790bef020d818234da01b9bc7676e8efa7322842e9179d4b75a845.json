@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d",
-  "content_type": "text/html",
-  "collected_at": "2026-06-24T18:55:37.038606+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.html",
-  "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt"
+  "url": "https://foreignpolicy.com/2026/06/24/iran-war-middle-east-us-china-military-economy-diplomacy/",
+  "title": "The Middle East’s Great Divergence Is Underway",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Wed, 24 Jun 2026 17:58:11 +0000",
+  "sha256": "f3e9392965790bef020d818234da01b9bc7676e8efa7322842e9179d4b75a845",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-24T18:55:38.811726+00:00",
+  "text_chars": 9946,
+  "raw_path": "data/geopolitics/raw/f3e9392965790bef020d818234da01b9bc7676e8efa7322842e9179d4b75a845.html",
+  "text_path": "data/geopolitics/raw/f3e9392965790bef020d818234da01b9bc7676e8efa7322842e9179d4b75a845.txt"
 }

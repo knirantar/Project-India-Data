@@ -1,0 +1,27 @@
+The 
+new regulatory framework
+ – 
+adopted
+ on Wednesday by the UN Economic Commission for Europe’s (UNECE) World Forum for Harmonization of Vehicle Regulations – comes a decade after early predictions of widespread automated driving failed to materialise. 
+The new rules establish common safety requirements and a shared method for validating vehicles equipped with ADS.  
+
+
+They aim to strengthen trust among governments, industry and the public by ensuring that automated systems meet rigorous safety standards. 
+“By preventing fragmented national approaches, the regulation offers clarity for manufacturers, confidence for consumers and a pathway to scale innovation safely across markets,” UNECE said. 
+Common rules 
+ 
+The regulations require manufacturers to implement audited safety management systems covering the full life cycle of an automated driving system.  
+Moreover, manufacturers must ensure test environments, including virtual testing tools, meet strict credibility criteria and demonstrate that their ADS poses no unreasonable risk. 
+Manufacturers must conduct continuous performance monitoring and reporting so that the real-world performance of automated vehicles can be assessed after deployment.  
+Vehicles also must be equipped with a data storage system for automated driving, ensuring that safety-relevant data is recorded and available for oversight. 
+Safety first
+ 
+The regulation requires automatic driving performance to match or exceed that of a competent human driver, UNECE said. 
+Because an ADS will handle all driving tasks, which includes steering, accelerating, decelerating and signalling, manufacturers must demonstrate “robust design, validation and compliance with traffic rules through simulation, track testing, and real‑world trials”. 
+The regulation has support from major auto markets, including Canada, China, European Union, Japan, United Kingdom and the United States. 
+It is expected to enter into force in roughly one month. 
+Updating existing regulations 
+ 
+Alongside the new regulatory framework, the UN forum also adopted amendments to roughly 90 UN regulations. 
+The amendments introduce clarifications that ensure existing vehicle regulations remain applicable to vehicles equipped with ADS, including those without traditional driver controls. 
+“This approach will ensure continuity of the regulatory framework while enabling innovative vehicle designs, including fully driverless configurations,” UNECE said.

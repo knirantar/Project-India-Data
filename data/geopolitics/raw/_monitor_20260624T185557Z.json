@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-24T18:55:57.440628+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/127db0000d0d91c18bf555040e08ee4c878d61c6c15e6edaa59a7d3b3ab27d1c.txt",
+      "metadata_path": "data/geopolitics/raw/127db0000d0d91c18bf555040e08ee4c878d61c6c15e6edaa59a7d3b3ab27d1c.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/7bea61f6e58014466c8ce6e2db229a08223b1815c84bb924317458015a2329b9.txt",
+      "metadata_path": "data/geopolitics/raw/7bea61f6e58014466c8ce6e2db229a08223b1815c84bb924317458015a2329b9.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "The Middle East’s Great Divergence Is Underway",
+      "url": "https://foreignpolicy.com/2026/06/24/iran-war-middle-east-us-china-military-economy-diplomacy/",
+      "text_path": "data/geopolitics/raw/f3e9392965790bef020d818234da01b9bc7676e8efa7322842e9179d4b75a845.txt",
+      "metadata_path": "data/geopolitics/raw/f3e9392965790bef020d818234da01b9bc7676e8efa7322842e9179d4b75a845.json"
+    },
+    {
+      "title": "Israel says IDF is staying in southern Lebanon, undermining Iran peace talks",
+      "url": "https://www.theguardian.com/world/2026/jun/24/israel-defence-minister-israel-katzrefuses-to-pull-out-of-southern-lebanon-undermining-iran-peace-talks",
+      "text_path": "data/geopolitics/raw/fb7ea23e88543090c70fa8200758dd11ada714d3428406e3b55d8b067ea906c9.txt",
+      "metadata_path": "data/geopolitics/raw/fb7ea23e88543090c70fa8200758dd11ada714d3428406e3b55d8b067ea906c9.json"
+    },
+    {
+      "title": "Senior No 10 aides to lobby Andy Burnham to invest more than £13.5bn defence spend",
+      "url": "https://www.theguardian.com/politics/2026/jun/24/senior-no-10-aides-to-lobby-andy-burnham-to-invest-more-than-earmarked-defence-spend",
+      "text_path": "data/geopolitics/raw/6d6337d32aa7294482609b32b13887d6cf6257ec45da5219c64aa3350d5a306b.txt",
+      "metadata_path": "data/geopolitics/raw/6d6337d32aa7294482609b32b13887d6cf6257ec45da5219c64aa3350d5a306b.json"
+    },
+    {
+      "title": "New global rules clear the road for driverless vehicles",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167797",
+      "text_path": "data/geopolitics/raw/426985c32cce50081d3a04ac61dee800398520852e32438bbd0ab93384277302.txt",
+      "metadata_path": "data/geopolitics/raw/426985c32cce50081d3a04ac61dee800398520852e32438bbd0ab93384277302.json"
+    },
+    {
+      "title": "China studied US stealth aircraft — and learned the wrong lessons",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/06/24/china-studied-us-stealth-aircraft-and-learned-the-wrong-lessons/",
+      "text_path": "data/geopolitics/raw/1f0ab723d26f78bed77d563ce92f5572c8e7c8ca25db3ba04a3ce8889d43d503.txt",
+      "metadata_path": "data/geopolitics/raw/1f0ab723d26f78bed77d563ce92f5572c8e7c8ca25db3ba04a3ce8889d43d503.json"
+    }
+  ],
+  "txt_before": 1350,
+  "txt_after": 1355
+}
