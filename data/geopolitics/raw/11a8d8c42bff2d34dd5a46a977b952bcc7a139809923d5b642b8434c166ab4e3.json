@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/bd22c2de-3ee5-5b4b-a1bd-4c1265b56042/IRC%20White%20Paper%20-%20Rethinking%20Debt%20Swaps%20in%20Fragile%20Contexts%20-%20June%202026.pdf",
+  "title": "World: Closing the Humanitarian Financing Gap: Rethinking Debt Swaps in Fragile Contexts | The IRC (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 24 Jun 2026 05:03:08 +0000",
+  "sha256": "11a8d8c42bff2d34dd5a46a977b952bcc7a139809923d5b642b8434c166ab4e3",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-24T08:24:31.928570+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-24T08:25:12.180456+00:00",
+  "text_chars": 79528,
+  "raw_path": "data/geopolitics/raw/11a8d8c42bff2d34dd5a46a977b952bcc7a139809923d5b642b8434c166ab4e3.pdf",
+  "text_path": "data/geopolitics/raw/11a8d8c42bff2d34dd5a46a977b952bcc7a139809923d5b642b8434c166ab4e3.txt"
 }

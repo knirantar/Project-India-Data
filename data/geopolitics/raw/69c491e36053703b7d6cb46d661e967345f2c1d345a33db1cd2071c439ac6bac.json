@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-24T08:23:45.985418+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://reliefweb.int/report/ukraine/ukraines-recovery-risks-leaving-millions-behind-nrc",
+  "title": "Ukraine’s recovery risks leaving millions behind | NRC",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 24 Jun 2026 06:33:06 +0000",
+  "sha256": "69c491e36053703b7d6cb46d661e967345f2c1d345a33db1cd2071c439ac6bac",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-24T08:25:11.232857+00:00",
+  "text_chars": 6717,
+  "raw_path": "data/geopolitics/raw/69c491e36053703b7d6cb46d661e967345f2c1d345a33db1cd2071c439ac6bac.html",
+  "text_path": "data/geopolitics/raw/69c491e36053703b7d6cb46d661e967345f2c1d345a33db1cd2071c439ac6bac.txt"
 }

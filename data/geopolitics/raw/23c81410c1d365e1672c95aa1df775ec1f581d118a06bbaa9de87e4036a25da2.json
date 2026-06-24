@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-24T08:23:45.985418+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://warontherocks.com/from-vietnam-to-iran-wartime-diplomacy-and-secret-deals/",
+  "title": "From Vietnam to Iran: Wartime Diplomacy and Secret Deals",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Wed, 24 Jun 2026 07:30:19 +0000",
+  "sha256": "23c81410c1d365e1672c95aa1df775ec1f581d118a06bbaa9de87e4036a25da2",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-24T08:24:37.130358+00:00",
+  "text_chars": 16230,
+  "raw_path": "data/geopolitics/raw/23c81410c1d365e1672c95aa1df775ec1f581d118a06bbaa9de87e4036a25da2.html",
+  "text_path": "data/geopolitics/raw/23c81410c1d365e1672c95aa1df775ec1f581d118a06bbaa9de87e4036a25da2.txt"
 }

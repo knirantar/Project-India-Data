@@ -1,0 +1,1694 @@
+Closing the Humanitarian 
+Financing Gap: Rethinking  
+Debt Swaps in Fragile Contexts
+The humanitarian financing landscape has deteriorated 
+sharply. In 2025, international humanitarian assistance fell 
+to $12 billion against a global appeal of $44 billion, the 
+lowest funding rate in a decade.1 The 2026 Global Human-
+itarian Overview calls for $33 billion to reach 135 million 
+people in urgent need. This takes place against a backdrop 
+where commitments of major donors have fallen dramatically, 
+compounding a structural shortfall that shows no near-term 
+signs of reversal. According to estimates published in the 
+Lancet, ongoing aid cuts could result in 22.6 million excess 
+deaths by 2030.2  
+At the same time, the countries with severe humanitarian 
+needs carry some of the world’s heaviest debt burdens.  
+In 2024, the external debt stock of low- and middle-income 
+countries hit a record $8.9 trillion, of which $1.2 trillion was 
+owed by the 78 most vulnerable countries.3 Developing coun-
+tries paid a record $921 billion in interest payments that year, 
+over double the share of government revenue devoted to debt 
+service than a decade ago. According to UNCTAD, more than 
+3.4 billion people now live in countries that spend more on 
+interest payments than on health or education.4 In these con-
+texts, debt obligations and public investment compete directly 
+for the same scarce fiscal resources, impeding development 
+progress and the provision of essential services.
+Debt swaps offer an important tool to address these dual 
+challenges, while strengthening countries’ long-term economic 
+sustainability. Unlike traditional aid flows, which have proven 
+vulnerable to shifting political priorities, debt swaps leverage  
+a sovereign’s existing obligations to creditors, and can mobilize 
+private capital to generate new funding streams. They do not 
+resolve the broader humanitarian financing crisis, nor do they 
+eliminate sovereign debt distress. Rather, they offer one of 
+the few mechanisms capable of linking debt management to 
+social outcomes in a way that is multi-year, nationally anchored, 
+and scalable - creating fiscal space precisely where needs 
+are most urgent and underfunded. Since the 1980s, these 
+instruments have mobilised over $3 billion for environmental 
+and conservation goals through ‘debt-for-nature’ swaps. 5 
+Despite their recent expansion to areas like education and 
+food security, debt swaps are yet to realise their full potential 
+for development and humanitarian programming, particularly 
+in fragile and conflict-affected contexts. 
+One of the central challenges in debt swap transactions is the 
+provision of guarantees. In debt swaps involving commercial 
+debt, a government’s liabilities are bought back from the 
+capital markets at a discount and refinanced on more favour-
+able terms. This relies on guarantees – which are third-party 
+commitments to cover losses if a government defaults on an 
+obligation – to make the terms of the new debt feasible for 
+investors. Transactions completed to date have depended 
+on guarantees and credit enhancement from development 
+finance institutions (DFIs) - namely the U.S. Development 
+Finance Corporation (DFC) - and multilateral development 
+banks (MDBs), and have largely taken place in middle-in-
+come countries with relatively stable governance and market 
+credibility. In fragile and conflict-affected contexts, the risk 
+profile can be elevated, and it can be difficult for a single 
+institution to offer full coverage of a debt swap. This is made 
+all the more challenging by the levels of debt distress in 
+some countries in crisis, which lack the commercial debt to 
+make a swap transaction immediately viable. Nonetheless, 
+where the right conditions exist, there is considerable scope 
+to apply debt swap instruments to humanitarian ends, and 
+to mobilise the credit guarantees that make them possible. 
+This paper argues that the most viable path to humanitarian 
+debt swaps is a blended guarantee model that distributes 
+risk across institutions, delivers meaningful impact on the 
+ground, and is able to scale across fragile contexts. This 
+means layering partial guarantees from multilateral banks, 
+development finance institutions, private insurers and/or 
+concessional donor capital in a single transaction, in part-
+nership with humanitarian organisations that can provide 
+programmatic oversight and accountability. Multilateral banks, 
+such as the World Bank, are particularly well-placed to anchor 
+these commitments as part of their broader economic and 
+policy engagement with debtor nations. 
+Initially, this blended approach may be tested in countries 
+where commercial debt trades at a discount, government 
+commitment is secured, and humanitarians have deep 
+presence, in order to develop the frameworks and appetite 
+to scale more widely. Realising these early transactions 
+will require financial actors to take concrete steps toward 
+addressing the mandate, exposure and capital constraints 
+that currently limit guarantee provision in these contexts. 
+Significant guarantee capacity already exists across mul -
+tilateral banks and DFIs that has not yet been applied to 
+humanitarian ends. The U.S. DFC’s recent withdrawal from 
+this space makes the need for a coordinated approach 
+among DFIs and MDBs both urgent and compelling.
+Executive Summary
+Cover: M’berra camp in southeastern Mauritania, which hosts over 120,000 refugees fleeing violence and instability in Mali.
+2
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Debt swaps Period Typical structure Average deal size  
+(face value of debt treated)
+First generation 1987 - early 1990s NGO-led purchases of sovereign debt on secondary markets 
+and conversion into local-currency conservation funds ~$3.5m
+Second generation 1990s - early 2000s Bilateral government-to-government swaps linked to official 
+debt relief initiatives (e.g. Enterprise for the Americas Initiative) ~$40m
+Third generation 2015 - present Market-based debt buy-backs financed through new bonds, often 
+supported by DFIs, guarantees or insurance ~$636m
+Debt swaps are financial mechanisms that convert a portion  
+of a country’s debt obligations into commitments toward 
+social, development, or environmental outcomes. The mechan-
+ics vary: in bilateral arrangements, a creditor government 
+forgives or reduces debt in exchange for the debtor country’s 
+commitment to invest in specific policies and programmes.  
+In more complex multi-party arrangements, transactions 
+involve buying back a country’s commercial debt at a dis-
+count and issuing new debt instruments on more favourable 
+terms, generating savings for the country. Across both struc-
+tures, the resources freed through the swap are channelled 
+toward pre-agreed outcomes - such as environmental con-
+servation, climate adaptation, or humanitarian programmes 
+- rather than flowing to external creditors. This reduces  
+a country’s debt burden while creating fiscal space for critical 
+domestic spending.
+Debt swaps gained traction in the late 1980s through debt-
+for-nature transactions in Latin America, which redirected 
+debt repayments from countries experiencing economic crises 
+toward conservation projects. For many years, these deals 
+were relatively small and largely bilateral, relying on donor 
+governments or NGOs to refinance distressed sovereign debt 
+in exchange for environmental commitments. Over the past 
+decade, the mechanism has evolved to include commercial 
+debt (such as sovereign bonds and syndicated loans traded 
+on secondary markets) and to leverage third-party credit 
+enhancements such as guarantees and risk insurance. This 
+has allowed countries to buy back hundreds of millions in 
+commercial debt at market discounts and refinance through 
+new bonds that attract institutional investors. Recent transac-
+tions in Belize ($553 million in 2021), Ecuador ($1.6 billion 
+in 2023), Gabon ($500 million in 2023), and El Salvador  
+($1 billion in 2024) demonstrate that debt swaps can mobilise 
+private capital at scale, generate sustained funding streams 
+for governments, and provide meaningful debt relief.6 As of 
+2025, 169 such transactions have been concluded by 45 
+countries since 1987 , involving over $8 billion in face-value 
+debt and releasing more than $3 billion for conservation and 
+development projects.7
+Figure 1: The number of debt swaps has fallen from its peak as debt relief initiatives have grown prominent; in recent 
+years, the instrument has shifted toward larger, privately mediated debt swap transactions. 
+Source: Dryden (2025) “Threading the Needle: The Delicate Art of Designing Debt-for-Nature Swaps” SOAS Economics Working Paper 270
+DEBT-FOR-NATURE SWAPS OVER TIME (1987-2025)
+0
+10
+20
+30
+Y ear
+Number of Transactions
+1990 2000 2010 2020
+Background
+3
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Humanitarian debt swaps apply this mechanism to cri -
+sis-affected contexts, directing proceeds towards social 
+and humanitarian programmes, rather than environmental 
+projects. They can be understood as part of the broader 
+family of development swaps, but catering to communities 
+affected by conflict, crisis and disaster, and places where 
+humanitarian response is the critical first step to achieving 
+longer-term development and stability. For example, a debtor 
+country may renegotiate part of its external debt on the 
+condition that savings are used to improve maternal health 
+outcomes in crisis zones, enhance disaster preparedness 
+in areas vulnerable to climate shocks, or expand access 
+to education in regions with protracted conflict. T o ensure 
+accountability and effectiveness of these programs, imple-
+mentation of humanitarian debt swaps relies on dedicated 
+governance structures - such as trust funds jointly overseen 
+by government authorities and humanitarian organisations - 
+to track the use and impact of funds.
+While application of debt swap mechanisms to the human-
+itarian sector has been limited, recent transactions show 
+potential to fund priorities beyond environmental conserva-
+tion through both bilateral and multi-party structures. Italy’s 
+Debt-for-Development swap, announced in July 2025, is 
+an example of a bilateral swap that commits to converting 
+€230 million of eleven African countries’ debt obligations 
+into investments in development projects.8 Kenya’s recent 
+$1 billion debt-for-food-security swap, guaranteed by the 
+U.S. Development Finance Corporation, redirects savings 
+towards investments in agriculture and nutrition initiatives. 
+Cote D’Ivoire’s €400 million debt-for-education swap, the 
+first development swap of its kind to be guaranteed by the 
+World Bank, frees up €40 million in fiscal space to invest in 
+schools and education in the country. While no transaction 
+has solely focused on humanitarian response, these swaps 
+offer important examples of how debt relief can be structured 
+around social objectives and attract institutional interest. 9 
+Given fragile contexts are often underserved by traditional 
+development financing, are subject to short term grants, and 
+face declining aid budgets, there is a strong case for adapting 
+debt swap structures to support humanitarian priorities, which 
+can in turn lay the foundations for sustained recovery. In early 
+transactions, these swaps may be structured and framed not 
+as purely humanitarian instruments, but as hybrid structures 
+that align with development and climate objectives while 
+directing resources to those in acute need.
+Figure 2: Debt service obligations and humanitarian funding needs have grown in tandem, and increasingly compete for 
+the same resources.
+Source: World Bank, International Debt Report 2025; OCHA, Global Humanitarian Overview 2026,
+RISING DEBT BURDEN IN LMICS VS. DECLINING HUMANITARIAN FUNDING COVERAGE (2014-2024)
+2014
+$5tn $0bn
+$6tn $10bn
+$7tn $20bn
+$8tn
+$9tn
+$10tn $50bn
+2016
+Y ear
+External Debt Stock
+Humanitarian Funding Gap
+2018 2020 2022 2024
+$30bn
+$40bn
+External Debt Stock LMICs (US$tn) Humanitarian Funding Gap (US$bn)
+4
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+The case for applying this mechanism to humanitarian 
+contexts is both clear and urgent. Over the past decade, 
+global humanitarian needs have risen steadily, driven by 
+protracted conflict, displacement, and climate-related shocks. 
+As of 2026, 239 million people require humanitarian assis-
+tance globally, many of whom live in countries with weak 
+institutions, limited fiscal capacity, and repeated exposure 
+to shocks.10 In many of these countries, debt obligations 
+and humanitarian response compete directly for the same 
+fiscal resources. Pakistan devotes $30 billion - over half 
+its budget - to annual debt servicing costs, leaving limited 
+resources for social and humanitarian programmes. Ethiopia, 
+although classified as debt unsustainable by the IMF in 2025, 
+requires $3.5 billion in debt relief while 21.4 million people 
+need humanitarian assistance amid ongoing conflict and 
+climate shocks. As of mid-2025, Nigeria allocated 45% of 
+government revenue to debt servicing, while over 30 million 
+people face acute hunger.11
+Debt swaps can be well-suited to address such challenges 
+because they work with existing sovereign obligations rather 
+than relying on new aid commitments. They also address a 
+structural mismatch between humanitarian financing and 
+humanitarian need: country-level response plans are funded 
+predominantly through short-term grants - with the average 
+grant cycle in the humanitarian sector running 12 to 18 
+months12 - which can make investment in health systems, 
+social protection, or emergency response difficult to achieve. 
+Because swap savings are typically generated and dis -
+bursed over time, the mechanism is particularly well-suited 
+to protracted crises and refugee-hosting contexts where 
+governments and partners face recurring costs, including 
+health, education, protection, nutrition, social protection, 
+and preparedness13. 
+The scale of impact that debt swaps can enable is meaningful 
+even by conservative estimates. A debt swap transaction of 
+$500 million can, depending on discount rates, debt com-
+position and guarantee terms, generate $50-150 million in 
+committed fiscal space for the debtor country, which can 
+be directed to humanitarian programming. In countries like 
+Pakistan, Nigeria and Ethiopia, where annual humanitarian 
+funding gaps range from $300 million to $2 billion dollars, 
+proceeds of this order represent a meaningful and durable 
+contribution to meeting need than short-term grant financing 
+alone1. At the same time, fiscal space alone does not guar-
+antee delivery, particularly where conflict, access, or political 
+dynamics limit government-led humanitarian response. This 
+makes it critical to structure implementation in partnership 
+with humanitarian and local partners, and to select contexts 
+where funds can be deployed to reach affected populations.  
+It is also important to ensure the debt profile fits the proposed 
+transaction structure: countries without commercial debt, 
+or in too high distress, may not be able to realise upfront 
+savings through market-based swaps, and may be better 
+suited to bilateral swaps or refinancing measures.
+Figure 3: As debt-for-development swaps gain traction, there is need to ensure savings reach communities in conflict and crisis.
+Why Now?
+Development Debt Swaps Humanitarian Debt Swaps
+Savings are directed toward long-term development  
+priorities such as education systems, infrastructure, 
+food systems, or climate adaptation. Programmes are 
+typically implemented through government develop-
+ment plans and aim to support sustained economic  
+and social development in relatively stable contexts.
+Savings are directed toward populations affected by 
+crisis, conflict, or disasters. Funding is used to address  
+critical humanitarian needs in perceived high-risk 
+contexts, while creating fiscal space for long term 
+resilience. These swaps can still align with and support 
+government development plans, but often focus on 
+response led by humanitarian and civil society organisa-
+tions in areas like education, health and protection, as  
+a critical step toward achieving development outcomes.  
+5
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Debt swaps vary in structure, depending on the composition 
+of a country’s debt and the mechanism being used to gener-
+ate savings. Debt portfolios in fragile states typically fall into 
+three categories3: concessional bilateral loans from donor 
+governments, which together constituted $4.5 billion of flows 
+to low- and middle-income countries in 2024; multilateral 
+debt from development banks (particularly the World Bank), 
+which totalled $70 billion in flows in 2024; and commercial 
+debt - which includes Eurobonds, syndicated loans, and other 
+instruments traded on secondary markets - which totalled 
+$55 billion in flows in 2024. Countries with commercial debt, 
+and in particular sovereign bonds that trade on secondary 
+markets at observable discounts are the primary target for 
+multi-party swap structures. 
+T o assess the relative merits of different structures for human-
+itarian applications in fragile contexts, this paper evaluates 
+mechanisms across five criteria: size of proceeds; transaction 
+costs and complexity; speed of execution; applicability in 
+fragile contexts; and ability to achieve humanitarian outcomes.
+Bilateral Swaps
+Bilateral swaps involve direct negotiations between two 
+governments, where a creditor cancels or reduces debt owed 
+to it by a debtor country in exchange for the debtor investing 
+in specific domestic programmes. These transactions typi-
+cally take 1-2 years to negotiate and implement, requiring 
+coordination across finance ministries and often legislative 
+approval. The principal advantage is debt forgiveness: the 
+creditor writes off part or all of the loan, directly reduc -
+ing the debtor’s obligations rather than simply extending 
+repayment terms. This provides immediate relief to debt-dis-
+tressed countries, can count toward the creditor’s official 
+development assistance (ODA), and often strengthens 
+diplomatic relations. Scale of these transactions, however, 
+is constrained by the size of bilateral loan portfolios and 
+political will, with most such deals averaging less than $50 
+million of savings. Nonetheless, these swaps have collectively 
+mobilised billions of dollars towards development, climate 
+and health objectives, and have potential to be applied to 
+social programming in crisis contexts.
+Figure 4: Bilateral debt is a small part of total debt owed by low and middle income countries; multi-party swaps involving 
+mark-to-market commercial debt present a significant opportunity to free fiscal space. 
+Source: World Bank, International Debt Report 2025
+DEBT FLOWS TO LMICS BY CREDITOR, 2024 (US$BN)
+Types of Debt Swaps: 
+Structures and Mechanisms
+$66bn
+$70bn
+$15bn
+$55bn
+Multilateral creditors
+33.3%
+Short-term creditors
+31.3%
+Bondholders
+26.1%
+Bilateral creditors
+2.1%
+Banks & private creditors
+7 .1%
+6
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Multi-party Debt Swaps
+Multi-party swaps are more complex: they primarily deal with 
+a country’s commercial debt and involve a broader range of 
+actors, such as multilateral development banks, private inves-
+tors, development finance institutions, NGOs, or philanthropic 
+funders. The mechanism works by buying a country’s existing 
+commercial debt back at a discount and reissuing new debt 
+on more favorable terms, such as lower interest rates, longer 
+maturities, or both. While these savings can be generated 
+through refinancing commercial loans, this structure is most 
+straightforward in countries with tradable sovereign bonds, 
+where nominal savings can be realised and directed toward 
+social programs upfront. 
+How It Works
+A country’s commercial debt trades on secondary markets, 
+often at substantial discounts when investors doubt the 
+country’s ability to repay. A country might owe $100 million 
+in bonds, but those bonds trade at 60 cents on the dollar 
+because of perceived default risk stemming from gov -
+ernance concerns, economic instability, or exposure to 
+conflict and climate shocks. A multi-party debt swap “takes 
+advantage” of this dynamic: the country buys back its bonds 
+at the discounted market price (often via a special purpose 
+vehicle) and issues new debt on more favourable terms, 
+such as lower interest rates, longer maturities, or both. The 
+proceeds from the new debt finance the buyback of the 
+old debt, and the savings generated are directed toward 
+the agreed domestic priorities.
+The challenge is that the same risk perceptions that lead 
+the country’s debt to trade at a discount also make investors 
+skeptical of any new bonds it issues. A country struggling 
+to service debt at 12% interest cannot simply issue new 
+bonds at 5%, given investors would not see returns of 
+5% as sufficient to compensate for the risk of default or 
+non-repayment. This is where credit enhancement can be 
+essential. A multilateral bank (MDB) like the World Bank or 
+IDB, or a development finance institution (DFI) like the U.S. 
+Development Finance Corporation, can guarantee the 
+new bonds in a debt swap. This can help reduce investors’ 
+exposure to risk, transferring a portion of the default risk 
+to an institution with a AAA credit rating and a strong 
+track record of honouring its commitments. Such credit 
+enhancements help lower servicing costs, enabling the 
+new bonds to be structured at more favourable terms 
+than standalone sovereign debt would command. This 
+allows interest rates to drop from 12% to the desired 5% 
+(indicative figures).The country captures savings through 
+two mechanisms, depending on the transaction structure. 
+First, buying back bonds at 60 cents on the dollar can 
+immediately reduce the nominal debt burden by 40% (the 
+precise discount varies by transaction). Second, refinanc-
+ing at a lower interest rate reduces annual debt service 
+costs going forward. These combined savings can be 
+substantial, often reaching hundreds of millions of dollars 
+over the life of the transaction (especially if, for instance, 
+they are placed in an endowment). The savings are legally 
+committed to specific domestic outcomes, and managed 
+through governance structures that ensure transparency 
+and accountability in how savings are deployed. This in 
+turn creates the confidence that incentivises guarantors 
+to underwrite the new bonds.
+Term What it refers to
+Debt treated (face value) The total nominal value of debt that is repurchased, restructured, or refinanced through  
+the transaction
+Purchase price/ 
+buyback price
+The price paid to repurchase existing debt, often at a discount to face value (e.g. 60 cents  
+on the dollar)
+New financing issued The size of the new loan or bond used to refinance the debt (often supported by guarantees)
+Debt service savings Reduction in future interest and principal payments due to lower rates or longer maturities
+Program funding Portion of savings contractually committed to specific outcomes (e.g. education, conservation)
+Fiscal space generated T otal budgetary relief over time, combining discount and reduced debt service
+UNDERSTANDING KEY TERMS IN DEBT SWAP TRANSACTIONS
+7
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Several distinct models have emerged within multi-party 
+debt swaps, differentiated primarily by who provides the 
+credit enhancement.
+MDB-guaranteed swaps involve multilateral development 
+banks such as the World Bank, IDB, AfDB, or ADB providing 
+credit guarantees or political risk insurance that improve the 
+credit rating of newly issued bonds to investment grade. 
+MDBs are international financial institutions owned by 
+member governments whose AAA credit ratings allow them 
+to provide meaningful credit enhancement. Their backing 
+compensates investors in the event of loss and allows the 
+debtor government to raise new funds at lower interest rates.
+DFI-backed swaps rely on development finance institu-
+tions - bilateral, government-owned agencies that support 
+private and public investment in developing countries - to 
+provide political risk insurance covering events like political 
+violence, expropriation, or currency inconvertibility. If these 
+risks materialise and the country defaults, the DFI compen-
+sates investors, giving them confidence to refinance existing 
+debt on better terms. The most prominent in this role has 
+been the U.S. Development Finance Corporation (DFC), 
+which backed several of the largest transactions to date.
+Private insurer-backed swaps, while less common due to 
+commercial constraints, involve private insurance companies 
+providing credit insurance or political risk coverage that pro-
+tects investors against specific scenarios. These guarantees 
+often sit alongside other public guarantors, given their limited 
+risk appetite in some political contexts.
+Concessional capital-enabled swaps involve grants or 
+concessional financing from bilateral donors or philanthropic 
+foundations that can improve the financial viability of a trans-
+action. So far, such funding has primarily been used to cover 
+transaction costs and support the repurchase of existing debt 
+at a discount - and not to provide a guarantee. This has been 
+particularly relevant in NGO-facilitated debt conversions, 
+where philanthropic funding helps NGOs purchase the com-
+mercial debt of the country undergoing a swap in high-risk 
+environments. In the future, concessional capital could play  
+a more explicit risk-sharing role by providing first-loss or junior 
+tranches that help absorb potential losses and improve the 
+overall risk profile for investors and guarantors.
+Blended models layer multiple sources of credit enhance-
+ment, such as MDB guarantees, DFI political risk insurance, 
+private insurance, and concessional capital, to distribute risk 
+across parties. This approach can enable transactions in 
+higher-risk environments where no single guarantor may be 
+willing or able to provide full coverage, with each institution 
+absorbing a manageable share of exposure while collectively 
+making the transaction viable.
+Both bilateral and multi-party swaps have distinct roles in 
+addressing debt and humanitarian challenges in fragile con-
+texts. Bilateral swaps offer the advantage of direct debt 
+forgiveness and can be deployed in countries where com-
+mercial debt markets are too small or nonexistent, such 
+as Y emen, Somalia and South Sudan. The application of 
+these swaps to humanitarian response has been limited, and 
+warrants a greater role in the toolkit to ease debt burdens 
+in fragile contexts, even if in modest amounts. For coun -
+tries with substantial commercial debt - such as Pakistan, 
+Nigeria, and Kenya - multi-party swaps offer the potential 
+to generate fiscal space in hundreds of millions of dollars 
+and remain largely untapped as mechanisms to address 
+humanitarian needs.
+Such multi-party debt swaps require sophisticated finan -
+cial structuring and, critically, credit enhancement through 
+guarantees or insurance. Understanding who provides these 
+guarantees, under what conditions, and with what constraints 
+is essential for determining whether and how these debt 
+swaps can work in fragile and conflict-affected contexts.
+Debt swaps offer one of the few mechanisms 
+capable of linking debt management to  
+social outcomes in a way that is multi-year,  
+nationally anchored, and scalable— 
+creating fiscal space precisely where needs are  
+most urgent and underfunded.”
+“
+8
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Structure Key Entities  
+Involved
+Indicative Scale 
+(Debt Treated)
+Transaction Cost 
+/ Complexity
+Speed of 
+Execution
+Applicability to 
+Fragile Contexts
+Ability to Achieve 
+Humanitarian 
+Outcomes
+Examples 
+Bilateral 
+Swaps
+Creditor 
+government; debtor 
+government; 
+implementing 
+partners (e.g. UN 
+agencies or NGOs); 
+coordination 
+platform (e.g.  
+Paris Club)
+Low.  
+Often limited  
+by the modest  
+size of bilateral  
+loan portfolios.
+Medium.  
+Requires direct 
+negotiation 
+between govern-
+ments and  
+often legislative 
+approval in the 
+creditor country.
+12 to 24 months. 
+Relatively fast  
+given lack of 
+commercial market 
+access; subject 
+to political and 
+legislative timelines.
+Medium-High. 
+Structurally simple 
+and requires 
+no guarantee 
+mechanism. Scale 
+is constrained by 
+bilateral portfolio 
+size and political will.
+High.  
+Savings can be 
+earmarked for 
+agreed social 
+or humanitarian 
+programmes 
+(health, nutrition, 
+education),  
+though typically  
+at modest scale  
+and subject to 
+political negotiation.
+US-Peru (2023): debt 
+repayments to US 
+reduced by $20 million 
+over 13 years; Portugal- 
+Cape Verde (2023): 
+$152 million debt owed 
+to Portugal expected 
+to be forgiven; Italy 
+(2025): €230 million of 
+debt owed by 1 1 African 
+countries forgiven; 
+Debt2Health: series of 
+swaps that redirected 
+repayments toward health 
+programs (e.g. Germany–
+Indonesia, €75m)
+MDB- 
+Guaranteed  
+Swaps
+Multilateral 
+development bank 
+(e.g. World Bank, 
+IDB, AfDB, ADB); 
+debtor government; 
+private investors; 
+monitoring and 
+implementation 
+partners (via  
+trust fund)
+High,  
+ranging from  
+$100 million to  
+over $1 billion 
+in treated debt. 
+AAA credit 
+ratings enable 
+strongest credit 
+enhancement  
+and largest 
+potential savings.
+High.  
+Guarantee capacity 
+may compete with 
+lending for capital; 
+approval processes 
+can be lengthy.
+18 to 24 months. 
+Driven primarily by  
+internal processes  
+and ongoing portfo-
+lio engagement.
+Medium.  
+Country exposure 
+limits and mandate 
+constraints restrict 
+deployment in 
+fragile and conflict-
+affected states.
+Medium-High. 
+Scale can be 
+significant, but 
+humanitarian  
+application depends  
+on use-of-proceeds  
+framework, 
+alignment with gov-
+ernment priorities 
+and existing MDB 
+country systems.
+Côte d’Ivoire (2024): 
+~€400m debt treated 
+(€40 million in education 
+investment), with 
+World Bank guarantee; 
+Barbados (2024): 
+~$293m debt treated, 
+with IDB/EIB guarantees.
+DFI- 
+Backed  
+Swaps
+Development 
+finance institution 
+(e.g., U.S. DFC, BII, 
+Proparco, FinDev); 
+debtor government; 
+private investors; 
+arranging bank 
+(often via SPV); 
+monitoring and 
+implementation 
+partners (via  
+trust fund)
+High,  
+ranging from $350 
+million to over  
+$1 billion if US 
+DFC engaged. 
+More moderate 
+with European DFIs 
+given  
+smaller individual 
+balance sheets.
+Medium-High. 
+Requires extensive 
+due diligence and 
+can be subject 
+to timelines and 
+engagement 
+with Ministries of 
+Finance. European 
+DFIs currently lack 
+sovereign guaran-
+tee mandates at 
+the required scale.
+12 to 24 months 
+where DFC prec-
+edent exists. May 
+be longer if new 
+for DFIs
+Medium. 
+European DFIs 
+have experience 
+in fragile contexts 
+but face mandate 
+gaps for sovereign 
+guarantee work.
+Low-Medium. 
+Most DFI swaps 
+have focused on 
+environmental 
+objectives, though 
+have potential to 
+broaden scope.  
+Recent shift in U.S. 
+DFC may limit near-
+term application 
+to humanitarian 
+contexts.  
+Belize (2021): $553 
+million debt treated, 
+supported by DFC political 
+risk insurance; El Salvador 
+(2024): ~$1bn in debt 
+swap supported by DFC.
+Private  
+Insurer- 
+Backed  
+Swaps
+Private insurer (e.g. 
+AXA XL); MDB or 
+DFI co-guarantors; 
+debtor govern-
+ment; investors; 
+monitoring and 
+implementation 
+partners (via  
+trust fund)
+Low-Medium  
+as standalone 
+guarantee tranche, 
+though can be 
+catalytic as part of 
+larger transactions.
+High.  
+Requires co-guar-
+antees and first-loss 
+protection from 
+public institutions 
+before private 
+insurers will  
+accept exposure.
+Variable, and 
+dependent on 
+co-guarantor 
+timelines.
+Low.  
+Most private  
+insurers will not 
+provide coverage  
+in contexts of active 
+conflict or political 
+instability.
+Low.  
+T ypically supports 
+transactions in more 
+stable middle-in-
+come countries 
+rather than fragile 
+contexts. Could 
+mobilise humanitar-
+ian funding within 
+stable contexts 
+depending on use-of-
+proceeds credibility.
+Bahamas (2024): $300 
+million debt transaction, 
+with $30 million from 
+AXA XL alongside $200 
+million IDB guarantee 
+(blended participation).
+Concessional  
+Capital- 
+Enabled  
+Swaps  
+(not guarantees)
+Bilateral donors 
+or philanthropic 
+foundations; NGOs 
+or trust funds.
+Low-Medium, 
+constrained by 
+fundraising capac-
+ity and budgets. 
+Mostly funds 
+transaction costs.
+Low-Medium. 
+Simpler structure 
+that relies on  
+secondary market 
+debt purchases 
+rather than capital 
+market issuance.
+12 to 24 months. 
+Subject to legal 
+structuring and trust  
+fund establishment.
+Medium.  
+Well-suited to 
+difficult political 
+environments but 
+limited by size of 
+available philan-
+thropic capital.
+Medium.  
+Funding can be tied  
+directly to social 
+or humanitarian 
+objectives, though 
+there is  limited 
+precedent on use 
+of such capital as 
+partial guarantees. 
+Seychelles (2016): 
+~$21.6m facilitated by 
+The Nature Conservancy 
+with concessional funding 
+used to purchase debt.
+Blended  
+Models
+MDB partial guar-
+antees; DFI political 
+risk insurance; 
+concessional donor 
+or philanthropic 
+capital; private 
+investors; arranging 
+bank debtor 
+country; monitoring 
+and implementa-
+tion partners 
+Medium-High, 
+ranging from  
+$200 million to 
+$2 billion in debt 
+treated. Aggre-
+gating guarantees 
+across institutions 
+enables larger 
+transactions than 
+any single guaran-
+tor may support.
+High,  
+with initial coordi-
+nation costs that 
+reduce as frame-
+works become 
+standardised  
+and precedent  
+is established.
+12 to 24 months 
+for first transac-
+tions, with timelines 
+shortening as 
+experience builds.
+High.  
+Distributing risk 
+across institutions, 
+making this the 
+most viable struc-
+ture for fragile  
+and conflict-af-
+fected contexts.
+High.  
+Most promising 
+for fragile contexts 
+because risk-shar-
+ing can unlock 
+scale while securing 
+multi-year funding 
+and credible 
+program oversight.
+Ecuador Galápagos 
+(2023): $1.6bn debt,  with 
+$85m IDB guarantee and 
+$656m DFC insurance. 
+Gabon (2023): ~$500m 
+blue bond supported by 
+$500m DFC insurance 
++ 50% participation from 
+private insurers.
+TYPES OF DEBT SWAPS AND FEASIBILITY FOR HUMANITARIAN CONTEXTS
+9
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Debt swaps have historically been deployed in middle-income 
+countries with relatively stable governance and credibility 
+within international financial markets. Fragile and conflict-af-
+fected contexts present a different profile: weaker governance, 
+higher perceived default risk, limited debt management capac-
+ity, and varying levels of commercial debt.
+Development Finance Institutions
+DFIs represent the traditional anchor of debt swap guarantees. 
+The U.S. DFC has been the most prominent player in debt 
+swaps, having backed several major transactions including 
+Belize (2021), Ecuador (2023), and Gabon (2023), and 
+refinancing over $2 billion in the past five years with zero 
+claims. Its political risk insurance product, which covers sov-
+ereign default, political violence, expropriation, and currency 
+inconvertibility losses up to $1 billion, transfers sovereign risk 
+to the U.S. government and allows DFC-backed bonds to 
+achieve credit ratings as high as AA. DFC’s broader portfolio 
+also demonstrates capacity to work in challenging environ-
+ments: 25% of its exposure is in countries rated CCC+  
+or below, with an additional 50% in B-rated countries.
+This track record would ordinarily make the DFC well-posi-
+tioned to expand its work to fragile contexts, relative to other 
+guarantors. However, the agency’s strategic priorities have 
+more recently shifted toward energy projects and strategic 
+sectors under the current administration, and are likely to limit 
+its near-term availability for humanitarian debt swap initiatives.
+This creates both constraint and opportunity for other DFIs. 
+Institutions such as Germany’s DEG, France’s Proparco, 
+the UK’s British International Investment, Canada’s FinDev, 
+and similar agencies in the Netherlands (FMO), Switzerland 
+(SIFEM), and Scandinavian countries (Swedfund, Norfund, 
+Finnfund), collectively represent an important untapped 
+source of guarantee capacity. Several already transact in 
+fragile contexts, and have expanded their innovative finance 
+portfolios in recent years, albeit through debt and equity 
+investments. These DFIs nonetheless face several challenges: 
+first, their balance sheets are substantially smaller than the 
+U.S. DFC’s - they collectively manage approximately €60 
+billion in development finance assets, equivalent to what the 
+U.S. DFC manages alone (with individual portfolios ranging 
+from €15 billion for FMO, the largest, to under €1 billion for 
+the smallest members). In many cases, how guarantees are 
+treated on institutional balance sheets (and whether they 
+count against capital adequacy requirements) can further 
+constrain the ability to extend guarantee capacity. Second, DFI 
+mandates typically focus on direct lending and investment in 
+the private sector, rather than sovereign guarantees or political 
+risk insurance. Expanding their role would require mandate 
+adjustments permitting sovereign guarantee provision, while 
+reaching necessary scale may require coordination mecha-
+nisms to pool resources across multiple agencies. Given the 
+scale of financing needs in fragile contexts, as well as the 
+gap created by the U.S. DFC’s recent shifts, facilitating this 
+risk-sharing represents a critical opportunity for such DFIs. 
+Progress also depends on engagement from DFI shareholders 
+and donor governments in order to support a broader use of 
+guarantees in these contexts. 
+Multilateral Development Banks
+MDBs offer another prominent avenue for guarantee provision 
+in fragile contexts. In principle, MDB guarantees offer several 
+advantages: their AAA credit ratings provide strong credit 
+enhancement, and their mandates allow them to price risk 
+below market rates when transactions advance development 
+or social objectives. Many already work in humanitarian con-
+texts, maintain ongoing relationships with indebted countries, 
+and can provide technical assistance to help under-resourced 
+governments structure transactions. Institutions like the 
+Inter-American Development Bank have provided guarantees 
+in several multi-party swaps (e.g. Ecuador’s 2023 Galapagos 
+transaction), while others, like the World Bank, have developed 
+broader credit enhancement capacity across equity and debt 
+financing, and begun deploying this towards guaranteeing 
+debt-for-development swaps. 
+Despite these developments, MDB guarantees can face 
+structural constraints when applying credit enhancement tools 
+to fragile contexts. Most MDBs have mandates to prioritise 
+direct lending to debtor nations, which means guarantees 
+Guarantee Mechanisms for Fragile  
+and Conflict-Affected Contexts
+Why Guarantees Matter
+Guarantees are critical to facilitating debt swaps. They 
+serve as credit enhancements, transforming risky sov-
+ereign obligations into instruments that institutional 
+investors (such as pension funds, insurance companies, 
+and asset managers) are willing to purchase. Without 
+these enhancements, countries facing debt distress 
+often cannot access capital markets at rates that 
+would generate savings, rendering the swap structure 
+unworkable. They can also be understood to function 
+like insurance: the guarantor’s commitment is contingent 
+on default, so if the country services its new debt as 
+agreed, the guarantor does not bear any costs.
+10
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+compete for capital that could otherwise support conces -
+sional loans. Several MDBs, including the World Bank, face 
+sovereign exposure limits which can restrict additional loan 
+commitments to heavily indebted nations (which are often 
+those faced with greatest humanitarian need). Providing 
+guarantees can strain these institutions’ credit ratings if 
+exposure grows too large. This explains why MDB involvement 
+in debt swaps has been limited to partial guarantee provi -
+sion (50-70%), and in countries with modest debt burdens. 
+Nonetheless, this track record positions them to participate 
+in blended guarantee structures, where they can take on  
+a partial, senior layer of risk alongside other partners, and 
+help strengthen debt sustainability for a wider range of coun-
+tries. Aggregating exposure across a portfolio of countries, 
+rather than structuring guarantees on a single-country basis, 
+could also help MDBs manage concentration risk and build  
+a more sustainable model for engagement in fragile contexts.
+Among MDBs, the World Bank has the scope to play a par-
+ticularly important role. Through its arms - the International 
+Bank for Reconstruction and Development (IBRD) and the 
+Multilateral Investment Guarantee Agency (MIGA) - the 
+Bank has the ability to provide partial credit guarantees 
+and political risk insurance that can sit alongside broader 
+efforts to strengthen debt sustainability. For instance, the Cote 
+D’Ivoire swap reduced transaction costs by working with the 
+Bank’s existing country systems, and was structured alongside  
+a Sustainability-Linked Loan offered by the Bank. As the 
+largest multilateral creditor for low- and middle-income coun-
+tries, the Bank also helps develop the debt sustainability 
+frameworks upon which feasibility of a swap for a particular 
+country is assessed, and advises governments and ministries 
+directly on debt management strategies. This combination of 
+instruments, creditor relationships, and policy engagement 
+means the Bank can help facilitate the common risk-sharing 
+and coordination frameworks that blended guarantees are 
+likely to require. 
+Recent developments suggest progress towards such coor-
+dinated approaches. The Inter-American Development Bank 
+launched a Credit Enhancement T ask Force at COP28 to 
+standardize best practices and scale up regional debt-swap 
+mechanisms. The World Bank launched a Global Hub on 
+Debt for Development Swaps in Seville in July 202514 and 
+has consolidated its IBRD and MIGA guarantee offerings 
+into a unified platform. While nascent, and not yet tailored to 
+debt swaps in fragile contexts, these efforts could support the 
+cooperative frameworks needed to extend MDB guarantees 
+to a broader range of borrowers and contexts. 
+Without such adaptation, some fragile and crisis-af -
+fected countries risk falling between the gaps of current 
+MDB guarantee frameworks. Many countries face acute 
+humanitarian needs and debt distress, but do not meet 
+the eligibility fiscal thresholds typically required for IBRD 
+or MIGA-supported operations. It is important to note that 
+unlike new lending, debt swaps can reduce debt service 
+obligations and strengthen fiscal sustainability over time. 
+This makes them distinct from the risk assessments entailed 
+in traditional lending and guarantee operations, and warrant  
+a more holistic approach to assessing risk that takes into 
+account their unique humanitarian and fiscal situation. While 
+many fragile countries do not currently hold the commercial 
+debt to make multi-party transactions viable, developing these 
+frameworks for pilot transactions (in countries such as Nigeria 
+or Colombia) can set the precedent for scaling these tools in 
+the future. In more distressed contexts, including many IRC 
+Watchlist countries, MDBs can draw on other tools (such as 
+refinancing existing debt) to help create the conditions for 
+swap transactions and broader economic stability in the future.
+Success of these transactions will also  
+depend on how savings are deployed— 
+humanitarian organisations can help strengthen 
+oversight and de-risk investment through thoughtful 
+programme design and trust fund governance.”
+“
+11
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Figure 5: Countries with most acute humanitarian needs may require debt relief or restructuring before they can become 
+viable candidates for debt swaps 
+Source: IRC Watchlist 2026 (irc.org/watchlist); IMF Debt Sustainability Analyses; OCHA Global Humanitarian Overview 2026; Note: Latest OCHA figure for 
+Ethiopia is from 2024
+IRC Watchlist Country Region Latest Debt Distress Classification People in Need  
+(millions, OCHA 2026)
+Sudan East Africa In Debt Distress 33.7
+Occupied Palestinian Territory Middle East N/A 3.6
+South Sudan East Africa In Debt Distress 10.0
+Ethiopia East Africa High Risk of Distress 21.4
+Haiti Caribbean High Risk of Distress 6.4
+Myanmar South-East Asia High Risk of Distress 16.2
+DRC Central Africa High Risk of Distress 14.9
+Mali West Africa In Debt Distress 5.1
+Burkina Faso West Africa High Risk of Distress 4.4
+Lebanon Middle East In Debt Distress 15.3
+Afghanistan South Asia In Debt Distress 22.0
+Cameroon Central Africa High Risk of Distress 2.9
+Chad Central Africa In Debt Distress 4.0
+Colombia Latin America Moderate Risk 6.9
+Niger West Africa High Risk of Distress 2.6
+Nigeria West Africa Moderate Risk 5.9
+Somalia East Africa In Debt Distress 4.8
+Syria Middle East In Debt Distress 16.5
+Ukraine Eastern Europe High Risk of Distress 10.8
+Yemen Middle East In Debt Distress 23.1
+Total (20 Countries) 230.5
+In Debt Distress: when a distress event, like arrears or a restructuring, has occurred or is considered imminent
+High Risk of Distress: when debt burden thresholds are breached in the baseline scenario
+Moderate Risk: when debt burden thresholds are breached in risk scenarios
+Low Risk: when there are no breaches of debt burden thresholds
+IRC WATCHLIST COUNTRIES: ACUTE HUMANITARIAN NEED & DEBT VULNERABILITY
+Colour guide (IMF/WB DSA classification):
+For debt burden thresholds: https://www.imf.org/external/pubs/ft/dsa/lic.htm
+Philanthropic and Donor Capital
+In principle, concessional funding from donors or philanthropy 
+can be structured to absorb losses in debt swap transactions, 
+making senior guarantees from MDBs or DFIs more feasible. 
+In a “first-loss” structure, donor capital covers losses up to  
+a predetermined threshold - typically 10-20% of transaction 
+value - while senior guarantors cover remaining exposure 
+only if investor losses exceed that threshold.
+This can significantly de-risk transactions for senior guar-
+antors. In a $100 million debt swap, $15 million in first-loss 
+capital would absorb any losses up to that amount, meaning 
+an MDB or DFI guarantor would face exposure only to losses 
+exceeding $15 million. For donors seeking to maximise impact 
+per dollar, this leverage compares favourably to traditional 
+grant programming - representing a potential 10-20x mul-
+tiplier - though with the risk that funds are fully expended 
+if transactions fail. Alternatively, donor capital can be struc-
+tured in a “second-loss” structure, sitting between layers of 
+guarantees, though this arrangement has yet to be tested. 
+(So far, donor capital has been used to cover transaction 
+costs - such as legal structuring, financial advisory, and due 
+diligence fees - or to support debt buybacks directly, as in 
+NGO-facilitated swaps where philanthropic funds are used 
+to purchase distressed debt on secondary markets.)
+12
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Regardless of how this capital is deployed, the challenge 
+is mobilising concessional resources at scale. Traditional 
+government donors face competing priorities and may resist 
+allocating official development assistance to absorb potential 
+losses rather than fund direct programme delivery. Philan-
+thropic actors may have more flexibility to provide catalytic 
+capital, but resources at the scale required ($10-20 million 
+per transaction) may be limited. Where this is the case, donor 
+governments and institutions may be well-placed to use their 
+relationships with DFIs and MDBs to build the institutional 
+appetite for these transactions.
+Private Insurance Companies
+Private insurers represent an emerging but promising source 
+of guarantee capacity. The Bahamas’ 2023 blue bond included 
+approximately $30 million in credit insurance from AXA XL 
+supplemented by IDB guarantees and philanthropic risk capital. 
+Although not solely anchored by a private insurance guarantee, 
+this blended approach demonstrates the potential for private 
+insurers to take a slice of the risk in a carefully structured 
+transaction. Private participation is appealing because it could 
+significantly expand the pool of available guarantee capital 
+beyond what public institutions can provide alone - the global 
+political risk insurance market is estimated to have nearly  
+$4 billion in underwriting capacity.
+However, private insurers remain cautious about sovereign 
+risk, particularly in fragile settings. They require higher pre-
+miums for elevated risk, which can erode the savings that 
+make swaps attractive. They typically insist on substantial 
+due diligence, clear legal frameworks, and may demand 
+first-loss protection from public guarantors before accept-
+ing exposure. Most importantly, they may simply decline to 
+provide coverage for countries experiencing active conflict 
+or severe political instability, viewing the risk as uninsurable 
+at any price. This makes private insurance more suitable 
+for fragile contexts within otherwise stable middle-income 
+countries (e.g. Nigeria) which may offer a potential entry 
+point for expanding broader participation. There may also 
+be scope to engage ESG and impact-oriented investors as  
+a source of demand, positioning these instruments along-
+side the green and social bond markets that have attracted 
+significant institutional interest in recent years.
+Case Study: The Bahamas Debt Swap (2024)
+In 2024, The Bahamas completed a $300 million debt conversion, repurchasing its external commercial  debt 
+using proceeds from a new loan arranged by Standard Chartered. The transaction was supported by $300 million 
+in credit enhancement, including $200 million partial guarantee from the Inter-American Development Bank 
+(IDB), $70 million in philanthropic capital from Builders Vision, and $30 million in private insurance from AXA XL.  
+The swap is expected to generate $124 million in savings over 15 years, alongside the establishment of a conservation 
+endowment expected to reach $20 million by 2039. Savings are channelled through the Bahamas Protected Areas 
+Fund to finance marine conservation and management of the country’s protected areas system. The transaction is  
+a powerful example of a blended structure, combining MDB guarantees, philanthropic capital, and private insurance within  
+a single debt conversion.
+Blended structures are likely the most promising approach for 
+transactions in fragile contexts. Rather than relying on a single 
+guarantor, these structures combine partial guarantees from 
+multiple sources to achieve the credit enhancement necessary 
+for a successful transaction. A typical layered structure might 
+include: an MDB providing a partial guarantee (e.g. 20-30% 
+of the transaction); one or more bilateral DFIs providing partial 
+political risk insurance (covering another 30-40%); private 
+insurers absorbing an additional layer of risk (10-15%); and 
+philanthropic capital or donor commitments accepting the 
+residual risk. Ecuador and the Bahamas’ 2024 conservation 
+deals exemplify this approach, combining multiple guarantee 
+sources to achieve scale without over-concentrating risk in 
+any single institution. For fragile contexts, and with the U.S. 
+DFC’s trajectory uncertain, such blended models may be most 
+feasible where no single guarantor is willing or able to accept 
+full exposure.
+The challenge will lie in coordination: assembling multiple guar-
+antors can require extensive negotiation, alignment of policies 
+and procedures, agreement on risk allocation and pricing, and 
+sophisticated transaction structuring. This complexity drives 
+up costs and extends timelines, potentially making smaller 
+transactions uneconomical. It also demands strong technical 
+capacity on the part of both the debtor country and the facilitat-
+ing organizations, which may be constrained in fragile contexts.
+Nonetheless, blended structures remain largely untapped for 
+debt swaps in humanitarian contexts, and show significant 
+potential to scale once precedent is established. Realising this 
+potential requires confronting significant operational, financial, 
+and institutional barriers that are particularly acute in fragile 
+and conflict-affected settings.
+Blended Guarantee Models
+13
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+ILLUSTRATIVE HUMANITARIAN DEBT SWAP STRUCTURES BY COUNTRY PROFILE
+The table illustrates how blended guarantee structures can be adapted to different country contexts. In middle-income 
+markets with capital market access, MDBs may be able to provide larger guarantees and anchor transactions within existing 
+sovereign exposure frameworks. In moderate-risk markets with limited market access, transactions are likely to depend 
+on both MDB and DFI participation to cover political risk, though below-par debt may create greater potential to capture 
+fiscal savings. In distressed contexts, concessional refinancing or debt treatment will likely need to precede a market-based 
+debt swap, and private insurance participation is unlikely.
+ILLUSTRATIVE BLENDED GUARANTEE STRUCTURES
+Note: Figures are indicative. Programme proceeds assume a 1-2 percentage point reduction in the cost of financing over a 10-year period, excluding transaction 
+costs. Programme proceeds also exclude reduction in debt stock generated through the buyback.
+Moderate risk and market 
+access e.g. Colombia
+Moderate risk and limited 
+market access e.g. Nigeria
+Distressed/refinancing-first  
+e.g. Ethiopia
+Debt treated $1bn commercial debt $1bn commercial debt $500m restructured/ 
+refinanced exposure
+Illustrative buyback/ 
+refinancing price 85% of par 75% of par 60% of par, after debt treatment
+New financing required $850m $750m $300m
+MDB guarantee $500m $350m $75m
+DFI cover $150m $200m $125m
+Private insurance $75m $50m $0m
+Donor/philanthropic  
+first-loss or reserve $125m $150m $100m
+Total guarantee package $850m $750m $300m
+Indicative fiscal space/ 
+programme proceeds $85m - 170m $75m - 150m $30m - 60m
+Debt stock reduction $150m $250m $200m
+Moderate Risk (Market Access)
+Bought back at 85% par
+Bought back at 75% par
+Restructured and bought  
+back at 60% par
+Debt treated: $1bn Debt treated: $1bn
+Debt treated: $500m
+$0m
+$250m
+$500m
+$750m
+$1000m
+$1250m
+Moderate Risk (Limited Market Access) Distressed
+$500m
+$350m
+$75m
+$125m
+$200m
+$150m
+$75m
+$125m
+$150m
+$50m
+$100m
+Donor/philanthropic first loss Private insurance DFI cover MDB guarantee
+14
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Fragile and conflict-affected contexts, while not a clearly 
+defined category, present unique challenges for guarantee 
+provision and transaction execution, spanning operational, 
+financial, and political barriers. These challenges are most 
+acute at the level of financial structuring and credit enhance-
+ment. Partnering with humanitarian organisations through 
+the transaction design can help alleviate modest risk and 
+reduce implementation uncertainty. Selecting countries with 
+suitable debt profiles can also help establish precedent and 
+build confidence among guarantors.
+Elevated Credit Risk and Weak Governance
+Many fragile states carry credit ratings in the B or CCC 
+range, which reflects their high probability of defaulting 
+on their debt obligations. Governance institutions in such 
+countries can be weak, non-functional, or in transition, while 
+political instability creates uncertainty about policy continuity. 
+These factors make traditional underwriting difficult, and 
+raise the barrier for guarantors to participate in debt swap 
+transactions. Traditional metrics used to evaluate risk - such 
+as debt-to-GDP ratios, fiscal balances, and institutional 
+quality indicators - can be unavailable or unreliable in fragile 
+contexts, making appraisal challenging and costly. Executing 
+debt swaps in these contexts requires willingness among 
+guarantors to accept higher risk on their balance sheets, 
+combined with strategies to mitigate that risk through part-
+nering with humanitarian organisations to de-risk investments 
+(for example, by improving programme design and gover -
+nance, and reducing uncertainty around implementation 
+performance) and careful country selection (for example, 
+identifying fragile states where debt trades at steep discounts 
+so that even modest interest rate improvements generate 
+significant buyback savings).
+High Transaction Costs 
+Debt swaps are expensive to structure, often involving mil-
+lions of dollars in legal fees, financial advisory services, due 
+diligence, rating agency fees, and other transaction costs. 
+Even in relatively stable contexts, these costs can be pro -
+hibitive: if costs are too high relative to potential savings, 
+transactions below a certain size can become uneconomical. 
+For a country with large amounts of commercial debt and 
+relatively low risk premiums, $5-10 million in transaction costs 
+may be manageable relative to overall debt relief gained. 
+For fragile states with smaller commercial debt stocks and 
+lower interest savings, these same fixed costs risk making 
+the transaction unviable.
+The problem is compounded by the need for even more 
+intensive due diligence in fragile contexts. Guarantors may 
+require extensive political risk analysis, security assessments, 
+governance reviews, and ongoing monitoring - as well as 
+coordination costs if multiple actors are involved in structuring 
+guarantees. Given that even relatively modest swaps can 
+generate significant fiscal space in crisis-affected countries, 
+it is important to keep these costs as low as possible. Poten-
+tial solutions include standardising transaction structures to 
+reduce fixed costs, developing replicable legal and financial 
+frameworks adapted to fragile contexts, pooling multiple small 
+transactions within single platforms, and mobilising donor 
+funding to cover transaction costs. These approaches remain 
+untested at scale but offer important pathways to improve 
+the viability of such swaps. It is also important to weigh these 
+transaction costs against alternative instruments: in settings 
+where grants and donor financing are declining, a swap that 
+generates substantial, multi-year fiscal space represents 
+meaningful value, even accounting for structuring costs.
+Barriers to Guarantee Provision  
+in Humanitarian Debt Swaps
+In fragile and conflict-affected contexts,  
+the risk profile can be elevated, and it may 
+be difficult for a single institution to offer 
+full coverage of a debt swap.”
+“
+15
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+Uncertainty Around Use of Proceeds
+A critical element of any debt swap is agreement on how 
+generated savings will be spent. In debt-for-nature swaps, 
+this typically involves establishing a trust fund with an 
+independent board, defining eligible projects, and imple-
+menting monitoring frameworks to ensure funds reach their 
+intended purpose. For humanitarian debt swaps in fragile 
+settings, this can be more complex. Humanitarian needs 
+are diverse and can shift rapidly based on political dynamics, 
+economic volatility, or shocks. Defining “use of proceeds” 
+in advance requires balancing specificity (to give guaran -
+tors confidence that funds will be well-used) with flexibility  
+(to allow adaptation as circumstances change). Where pos-
+sible, use-of-proceeds frameworks should build on existing 
+government and humanitarian monitoring systems rather 
+than creating parallel reporting structures, while preserving 
+independent oversight through the trust fund. Clear and 
+credible governance arrangements around use of proceeds 
+can strengthen confidence among guarantors and investors, 
+helping to reduce perceived implementation risk and support 
+more favourable credit terms - thereby reinforcing the case 
+for guarantee provision.
+There is also effort needed to align government priorities with 
+the priorities of guarantors and other transaction partners. 
+Governments, humanitarian organisations, and guarantors may 
+disagree on how savings from a swap are best utilised, what 
+programmatic areas they should target, and how implemen-
+tation and oversight are managed. Reaching agreement can 
+require sustained coordination that can extend transaction 
+timelines and raise costs. There are also sensitivities around 
+sovereignty: external requirements on how savings must be 
+spent, however well-intentioned, can be perceived as impos-
+ing conditions on national decision-making. This tension is 
+inherent to debt swaps but becomes acute in humanitarian 
+contexts where needs are urgent, capacity is limited, and 
+political sensitivities are high.
+Lack of Precedent
+Perhaps the most fundamental challenge is simply that 
+humanitarian debt swaps in fragile contexts have not been 
+executed at scale. Investors, guarantors, and governments 
+often look to precedent when evaluating new transactions, 
+and the absence of track record in fragile contexts may make 
+first-movers cautious about committing capital or guarantee 
+capacity. While several debt conversions have been struc-
+tured around social or development objectives - such as food 
+security and education - explicitly humanitarian applications, 
+particularly in fragile and conflict-affected settings, remain 
+limited despite the scale of need.
+Breaking this cycle may require selecting initial country 
+contexts where conditions are relatively favourable: states 
+where debt trades at sufficient discounts, where govern -
+ments demonstrate commitment to humanitarian priorities, 
+where NGOs have strong operational presence, and where 
+political conditions are stable enough to support multi-year 
+commitments. Success in these early cases could demon-
+strate feasibility and build momentum for transactions in 
+more challenging environments. Coalition-building across 
+MDBs, DFIs, and humanitarian organisations could develop 
+common frameworks, share due diligence costs, and docu-
+ment lessons learned - building knowledge for subsequent 
+transactions while reducing duplication of effort.
+16
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+The central recommendation of this paper is that a coor -
+dinated blended guarantee structure - combining partial 
+MDB guarantees, DFI political risk insurance, and conces-
+sional first-loss capital, with humanitarian organisations as 
+programmatic partners - represents the most viable and 
+underexplored pathway to humanitarian debt swaps in fragile 
+contexts. The recommendations below set out the concrete 
+steps each group of actors must take to make this possible 
+at a time of urgent need.
+NGOs, Humanitarian, and Civil Society Organisations
+Humanitarian and civil society organisations are uniquely 
+positioned to address the credibility gaps that make fragile 
+states appear uninvestable. They bring programmatic exper-
+tise, local presence, and accountability mechanisms that 
+can derisk transactions, improve programme outcomes and 
+strengthen national systems.
+• Design and govern use-of-proceeds mechanisms through 
+trust fund boards and oversight committees, ensuring debt 
+savings translate into evidence-based, contextual, and 
+cost-effective humanitarian programmes.
+• Develop credible project pipelines demonstrating how 
+resources create measurable impact, backed by feasibility 
+assessments, risk-mapping and implementation plans that 
+give financial actors confidence in investable opportunities.
+• Where relevant, structure use-of-proceeds frameworks 
+to integrate humanitarian priorities within broader devel-
+opment objectives and policies, supporting transaction 
+feasibility and strengthening existing systems.
+• Serve as independent validators and monitors of imple-
+mentation, verifying funds reach beneficiaries, and 
+measuring outcomes.
+• Where possible, convene MDBs, DFIs, donors, and host gov-
+ernments on blended guarantee structures, helping to align 
+expectations on risk allocation, facilitate knowledge-sharing 
+and reduce coordination friction during structuring.
+Development Finance Institutions
+The U.S. DFC’s strategic reorientation creates immediate 
+opportunity for European and other bilateral DFIs to deploy 
+and coordinate guarantee capacity that is critical to debt 
+swap transactions.
+• Expand political risk insurance products and lending programmes  
+to cover humanitarian debt swaps as components of blended 
+structures (or independently for smaller transactions).
+• Develop risk-sharing frameworks across peer DFIs to reduce 
+transaction costs and enable coordinated participation.
+• Review how guarantee exposure is accounted for on  
+institutional balance sheets, where this presents barriers  
+to guarantee provision alongside mandate constraints.
+• Consider portfolio approaches that aggregate multiple 
+small or medium-sized swaps across countries to improve 
+risk diversification and internal capital efficiency.
+• Anchor co-guarantee structures in contexts where DFIs  
+already have country exposure, leveraging existing due  
+diligence, local knowledge, and policy dialogue to shorten  
+timelines and reduce perceived execution risk.
+Multilateral Development Banks
+MDBs should deploy their partial guarantee products to 
+provide credit enhancement in humanitarian debt swap trans-
+actions, positioning these instruments as complements to 
+lending operations that strengthen long-term fiscal sustain-
+ability, not in competition with them.
+• Deploy partial credit guarantees as senior layers within 
+blended structures, adjusting sovereign exposure ceilings 
+where possible, or identifying countries with suitable debt 
+profiles in pilot transactions.
+• Review and adapt risk assessment frameworks to account 
+for countries with high debt burdens and humanitarian 
+needs, taking into account unique fiscal dynamics of debt 
+swap transactions.
+• Explore portfolio-level approaches to guarantee provision 
+across multiple countries as a means of managing concen-
+tration risk in fragile contexts.
+• Ensure existing coordination platforms, such as the  
+IDB Credit Enhancement T ask Force and World Bank 
+Global Hub, incorporate humanitarian applications  
+within their mandates.
+• Explore expedited approval pathways for transactions  
+that meet defined criteria, reducing the 18-24 month  
+structuring timelines that can deter participation.
+• Draw on precedent transactions, such as the Côte d’Ivoire 
+swap (which delivers development outcomes) and the 
+Bahamas transaction (where layered guarantees have 
+been deployed), to inform a replicable approach to  
+structuring, governance, and implementation. 
+Recommendations for Stakeholders
+Across both MDBs 
+and DFIs, debt swaps 
+must be treated as 
+part of a broader 
+financing toolkit.”
+“
+17
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+The World Bank, given its role across financing, debt 
+sustainability and country-level policy dialogue, has 
+particular scope to move this agenda forward:
+• Integrate debt conversion into country-level debt 
+management, particularly where debt service is con-
+straining development progress
+• Recognise swap transactions in fragile settings as 
+instruments for delivering core development out-
+comes, including nutrition, protection and education
+• Review sovereign exposure frameworks to allow for 
+greater flexibility given the role these instruments play 
+in strengthening fiscal profiles and supporting stability.
+Philanthropic and Donor Capital
+Donors and philanthropic actors can provide first-loss tranches 
+and transaction cost funding that make deals viable in con-
+texts with elevated risk.
+• Pool resources across multiple contributors to establish 
+first-loss facilities covering 10-15% of transaction value.
+• Provide grant funding to cover transaction costs - such as 
+legal structuring, financial advisory, due diligence, and rating 
+agency fees - in order to support viability of ongoing deals.
+• Recognise first-loss and second-loss capital as catalytic 
+mechanisms, representing 10-20x multipliers compared to 
+traditional grant programming.
+• Where possible, leverage relationships with DFIs and 
+MDBs to advocate for a broader application of guarantee 
+capacity in fragile contexts.
+Debtor Governments
+Debtor country governments have an active role to play 
+in transaction design and implementation of debt swaps. 
+Political commitment at senior levels, credible governance 
+frameworks for use of proceeds, and coordination across 
+finance ministries are essential to engaging with guarantee 
+providers and sustaining multi-year programmes.
+• Designate dedicated debt management capacity within 
+ministries of finance to lead transaction structuring and 
+coordinate across government counterparts, drawing 
+on technical assistance from MDBs or bilateral partners 
+where capacity is limited
+• Engage with MDBs, DFIs, and humanitarian organisations at 
+early stages of transaction design to align on programmatic 
+priorities, governance arrangements, and risk allocation
+• Coordinate with potential guarantee providers to share 
+data on debt composition and sustainability, enable feasi-
+bility assessments, and signal political commitment
+• Establish trust fund and oversight mechanisms, in partner-
+ship with humanitarian organisations as needed, to provide 
+independent verification of how savings are deployed  
+and ensure alignment between fiscal relief, policy goals 
+and outcomes
+• Where implementation is constrained by conflict or access 
+limitations, work with humanitarian partners to ensure 
+proceeds reach affected populations and priority areas
+• Engage bilaterally with creditor governments to explore 
+swap opportunities in contexts where commercial debt 
+markets are limited
+Member Governments and Broader Policy Ecosystem
+While not a direct source of guarantee provision, member 
+governments play a central role in shaping the mandates,  
+risk appetite, and operational priorities of MDBs and DFIs.  
+For MDBs, this occurs through board-level governance, capital 
+frameworks, exposure policies and strategic priorities; while 
+for DFIs, shareholder governments may have more direct 
+influence over mandate design and instrument use. In both 
+cases, expanding the use of guarantees in fragile contexts 
+will depend in part on political and shareholder backing 
+to enable greater flexibility in risk-taking and instrument 
+deployment. Alongside multilateral bodies, policy actors, 
+and financial intermediaries, member governments can play 
+a role in shaping the political conditions and institutional 
+appetite that will determine whether debt swap instruments 
+are taken up at scale.
+• Provide clear political direction to MDBs and DFIs to 
+expand the use of guarantees in support of humanitar-
+ian, development and social outcomes, including through 
+board-level guidance, strategic frameworks, and capital 
+allocation discussions. 
+• Leverage finance and governance channels to support  
+the mandate adjustments and policy flexibility that  
+would allow DFIs and MDBs to provide sovereign guar-
+antees in fragile contexts, particularly given current aid 
+financing landscape.
+• Use convening power and institutional relationships to 
+support coordination, including across MDBs, DFIs, and 
+transaction partners, helping to align approaches and 
+reduce fragmentation in how guarantees are deployed.
+• Back a small number of early transactions through dip-
+lomatic engagement, including alignment with sovereign 
+borrowers and MDB/DFI leadership, helping to establish 
+precedent and reduce perceived execution risk.
+• Continue to utilise bilateral swap mechanisms where 
+appropriate, particularly in contexts where market-based 
+structures are not viable, drawing on recent precedents 
+such as Italy’s debt-for-development programme to 
+demonstrate feasibility and build momentum.
+18
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+1919
+The convergence of declining humanitarian aid and pro -
+tracted crises has created an acute financing challenge. In 
+many countries, collapsing aid budgets and mounting debt 
+service obligations increasingly compete for the same scarce 
+resources. Traditional approaches, such as debt relief initiatives 
+or foreign aid, remain important but insufficient to meet the 
+scale of need.
+Debt swaps offer a powerful, underutilised mechanism to 
+bridge this gap. By linking debt burdens to humanitarian out-
+comes, they free resources that can be reinvested in essential 
+services while strengthening long-term fiscal sustainability.  
+In countries with suitable debt profiles, this can be an impactful 
+way of meeting humanitarian needs at a time when traditional 
+sources are under immense strain, and millions of people are 
+left unserved. Debt swaps have mobilised billions in private 
+capital for environmental and conservation projects across 169 
+transactions in 45 countries since 1987 , and extending them 
+to humanitarian financing is both timely and urgent. 
+Guarantees are critical to making these transactions work. 
+They reduce borrowing costs for debtor countries in order 
+to generate savings, while mobilising private capital to scale. 
+Guarantee mechanisms designed for middle-income coun-
+tries must be thoughtfully adapted for fragile contexts, and 
+blended structures that distribute risk across MDB partial 
+guarantees, DFI political risk insurance, and concessional 
+donor capital can make transactions viable where no single 
+institution could provide full coverage alone. This paper argues 
+that building these coordinated structures, in a small number 
+of initial countries, is both urgent and possible.
+For DFIs, that means addressing the mandate constraints that 
+currently prevent sovereign guarantee provision and develop-
+ing joint risk-sharing frameworks with peer institutions. The U.S. 
+DFC’s strategic reorientation creates immediate opportunity 
+for European and bilateral DFIs to deploy guarantee capacity 
+more actively and in coordination. For MDBs, this means 
+deploying partial credit guarantees as senior tranches and 
+reviewing country exposure limits where possible to enable 
+participation in fragile contexts. Existing initiatives like the 
+IDB Credit Enhancement T ask Force and the World Bank 
+Global Hub provide infrastructure that must extend its scope 
+to countries in crisis and humanitarian applications. Across 
+both MDBs and DFIs, debt swaps must be treated as part 
+of a broader financing toolkit that advances humanitarian 
+and development objectives rather than competing with 
+existing debt sustainability or private-sector strengthening 
+initiatives. Member governments can help enable this shift. 
+Success of these transactions will also depend on how 
+savings are deployed. Humanitarian organisations can help 
+strengthen oversight and de-risk investment through thought-
+ful programme design and trust fund governance, ensuring 
+resources reach intended beneficiaries, align with government 
+priorities, and give financial actors confidence to invest.
+Debt swaps are not a silver bullet. Initially, they may be 
+feasible only in fragile states with sufficient debt capacity, 
+government buy-in, and strong humanitarian presence.  
+But where these conditions hold, well-designed transactions 
+- underpinned by a handful of institutions – can create fiscal 
+space precisely where needs are most acute and traditional 
+financing most constrained. These early successes could 
+establish precedents for standardisation, reduce transaction 
+costs, and demonstrate the viability of blended humanitar-
+ian debt swap models to a broader set of contexts. The 
+question is whether the institutions with the guarantee 
+capacity to enable them will treat the current moment as 
+an imperative to act.
+Conclusion
+Previous Page: IRC Child Protection Specialist attends to an internally displaced family in Cameroon’s Far North region, where ongoing violence has forced hundreds of 
+thousands of people to flee their homes over the past ten years.
+The question is whether the institutions 
+with the guarantee capacity to enable 
+these swaps will treat the current 
+moment as an imperative to act.”
+“
+20
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS
+1  OCHA, Global Humanitarian Overview 2026. https://www.unocha.org/publications/report/world/global-humanitarian-
+overview-2026-enesfr
+ 2  Rasella et al., “The Impact of Two Decades of Humanitarian and Development Assistance and the Projected Mortality 
+Consequences of Current Defunding to 2030,” The Lancet Global Health, February 2026. https://www.thelancet.com/
+journals/langlo/article/PIIS2214-109X(26)00008-2/fulltext
+ 3  World Bank, International Debt Report 2025, December 2025. https://www.worldbank.org/en/news/press-
+release/2025/12/03/developing-countries-debt-outflows-hit-50-year-high-during-2022-2024
+ 4  UNCTAD, “A World of Debt 2025,” June 2025. https://unctad.org/publication/world-of-debt
+ 5 Laskaridis, C. et al., “Debt-for-Nature Swaps: A Critical Assessment,” SOAS Economics Working Paper 270, September 
+2025. https://www.soas.ac.uk/sites/default/files/2025-09/economics-wp270.pdf
+ 6 The Nature Conservancy, Debt Conversion/Debt Swap Transactions. For Belize: https://www.nature.org/content/dam/
+tnc/nature/en/documents/TNC-Belize-Debt-Conversion-Case-Study.pdf. For Ecuador: Inter-American Development  
+Bank, Galapagos Marine Conservation Bond (2023). For El Salvador: U.S. International Development Finance Corporation, DFC  
+Impact Report 2024.
+ 7 World Bank Global Hub on Debt for Development Swaps. https://www.worldbank.org/en/programs/debt-for-
+development-swap-knowledge-hub
+ 8 Ministry of Economy and Finance of Italy, Debt-for-Development Swap Programme, July 2025.
+ 9 World Food Programme, Kenya Debt-for-Food-Security Swap (2024).
+ 10 OCHA, Global Humanitarian Overview 2026. https://www.unocha.org/publications/report/world/global-humanitarian-
+overview-2026-enesfr
+ 11 World Bank, International Debt Report 2025; IMF Article IV consultations for Pakistan, Ethiopia, and Nigeria (2024-
+2025). OCHA, Global Humanitarian Overview 2026. 
+ 12 Labeille, J. & Annan, J., “Cost Evidence Is Essential to Maximizing Humanitarian Aid and Impact,” Stanford Social Innovation 
+Review, October 2024. https://ssir.org/articles/entry/cost-evidence-humanitarian-aid
+ 13 Adil Ababou, “Debt For What Swaps? Guiding Principles for the Allocation of Debt Swap Resources,” Finance for 
+Development Lab, Policy Note 22, February 2025.
+ 14 Reuters, “Spain, World Bank launch debt-swap hub to free development funds,” July 1, 2025. https://www.reuters.com/
+sustainability/climate-energy/spain-world-bank-launch-debt-swap-hub-free-development-funds-2025-07-01/
+Sources
+21
+CLOSING THE HUMANITARIAN FINANCING GAP: RETHINKING DEBT SWAPS IN FRAGILE CONTEXTS

@@ -1,0 +1,126 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-24T08:25:12.737745+00:00",
+  "new_documents": 19,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/26ac307768882948520692cc6ee2f6926041d7fe2912e897d3754bfd35c1d97e.txt",
+      "metadata_path": "data/geopolitics/raw/26ac307768882948520692cc6ee2f6926041d7fe2912e897d3754bfd35c1d97e.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/7bea61f6e58014466c8ce6e2db229a08223b1815c84bb924317458015a2329b9.txt",
+      "metadata_path": "data/geopolitics/raw/7bea61f6e58014466c8ce6e2db229a08223b1815c84bb924317458015a2329b9.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "UNHCR Afghanistan Situation Regional Update May 2026",
+      "url": "https://reliefweb.int/report/afghanistan/unhcr-afghanistan-situation-regional-update-may-2026",
+      "text_path": "data/geopolitics/raw/b2bc83617b4d24803f4eb2d705a834f683a5e49b0550f2e3cdeacdbe85ed220c.txt",
+      "metadata_path": "data/geopolitics/raw/b2bc83617b4d24803f4eb2d705a834f683a5e49b0550f2e3cdeacdbe85ed220c.json"
+    },
+    {
+      "title": "UNHCR Afghanistan Situation Regional Update May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/0b8288f7-c92a-531e-8397-c967eba0b1bd/UNHCR%20Afghanistan%20Situation%20Regional%20Update%20%28May%202026%29.pdf",
+      "text_path": "data/geopolitics/raw/1f969ebf3189584c84caec1ce0c9b76d92a30d9df33e898d477da3c4b2fefbc1.txt",
+      "metadata_path": "data/geopolitics/raw/1f969ebf3189584c84caec1ce0c9b76d92a30d9df33e898d477da3c4b2fefbc1.json"
+    },
+    {
+      "title": "From Vietnam to Iran: Wartime Diplomacy and Secret Deals",
+      "url": "https://warontherocks.com/from-vietnam-to-iran-wartime-diplomacy-and-secret-deals/",
+      "text_path": "data/geopolitics/raw/23c81410c1d365e1672c95aa1df775ec1f581d118a06bbaa9de87e4036a25da2.txt",
+      "metadata_path": "data/geopolitics/raw/23c81410c1d365e1672c95aa1df775ec1f581d118a06bbaa9de87e4036a25da2.json"
+    },
+    {
+      "title": "World: Media fact sheet: Five reasons why the care economy is one of the most transformative investments of our time",
+      "url": "https://reliefweb.int/report/world/media-fact-sheet-five-reasons-why-care-economy-one-most-transformative-investments-our-time",
+      "text_path": "data/geopolitics/raw/9d8faf8694b8f09a6944f40a6e22366ab2d4c2931c391e370b46896d99758550.txt",
+      "metadata_path": "data/geopolitics/raw/9d8faf8694b8f09a6944f40a6e22366ab2d4c2931c391e370b46896d99758550.json"
+    },
+    {
+      "title": "World: IRC Calls on Multilateral Development Banks and Development Finance Institutions to Deploy Credit Guarantees to Help Unlock Humanitarian Debt Swaps in Fragile Contexts",
+      "url": "https://reliefweb.int/report/world/irc-calls-multilateral-development-banks-and-development-finance-institutions-deploy-credit-guarantees-help-unlock-humanitarian-debt-swaps-fragile-contexts",
+      "text_path": "data/geopolitics/raw/0a83932b77d6cfcbbb804f668aa9f429408f89ec4edcc4de306d8c269180fcfe.txt",
+      "metadata_path": "data/geopolitics/raw/0a83932b77d6cfcbbb804f668aa9f429408f89ec4edcc4de306d8c269180fcfe.json"
+    },
+    {
+      "title": "Iran war day 117: Nuclear inspections dispute as US Senate curbs war powers",
+      "url": "https://www.aljazeera.com/news/2026/6/24/iran-war-day-117-nuclear-inspections-dispute-as-us-senate-curbs-war-powers?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/7dd85f8358cb8e6858dd5da06f40fa3ddc8efcb17d0d3482f0b4252d0116e258.txt",
+      "metadata_path": "data/geopolitics/raw/7dd85f8358cb8e6858dd5da06f40fa3ddc8efcb17d0d3482f0b4252d0116e258.json"
+    },
+    {
+      "title": "World: Closing the Humanitarian Financing Gap: Rethinking Debt Swaps in Fragile Contexts | The IRC",
+      "url": "https://reliefweb.int/report/world/closing-humanitarian-financing-gap-rethinking-debt-swaps-fragile-contexts-irc",
+      "text_path": "data/geopolitics/raw/25195c01de468ed8edcca1da152fe022c808e5d2843fdb4deefc610542b05f5f.txt",
+      "metadata_path": "data/geopolitics/raw/25195c01de468ed8edcca1da152fe022c808e5d2843fdb4deefc610542b05f5f.json"
+    },
+    {
+      "title": "Ukraine’s recovery risks leaving millions behind | NRC",
+      "url": "https://reliefweb.int/report/ukraine/ukraines-recovery-risks-leaving-millions-behind-nrc",
+      "text_path": "data/geopolitics/raw/69c491e36053703b7d6cb46d661e967345f2c1d345a33db1cd2071c439ac6bac.txt",
+      "metadata_path": "data/geopolitics/raw/69c491e36053703b7d6cb46d661e967345f2c1d345a33db1cd2071c439ac6bac.json"
+    },
+    {
+      "title": "World: Closing the Humanitarian Financing Gap: Rethinking Debt Swaps in Fragile Contexts | The IRC (pdf)",
+      "url": "https://reliefweb.int/attachments/bd22c2de-3ee5-5b4b-a1bd-4c1265b56042/IRC%20White%20Paper%20-%20Rethinking%20Debt%20Swaps%20in%20Fragile%20Contexts%20-%20June%202026.pdf",
+      "text_path": "data/geopolitics/raw/11a8d8c42bff2d34dd5a46a977b952bcc7a139809923d5b642b8434c166ab4e3.txt",
+      "metadata_path": "data/geopolitics/raw/11a8d8c42bff2d34dd5a46a977b952bcc7a139809923d5b642b8434c166ab4e3.json"
+    }
+  ],
+  "txt_before": 1324,
+  "txt_after": 1333
+}
