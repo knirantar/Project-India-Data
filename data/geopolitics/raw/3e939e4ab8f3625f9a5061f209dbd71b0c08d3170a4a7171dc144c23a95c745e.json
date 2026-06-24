@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-24T05:01:27.285413+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.bbc.co.uk/news/articles/clye652m41po?at_medium=RSS&at_campaign=rss",
+  "title": "Clean sweep for Mamdani-backed candidates in New York's Democratic primary",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Wed, 24 Jun 2026 04:39:35 GMT",
+  "sha256": "3e939e4ab8f3625f9a5061f209dbd71b0c08d3170a4a7171dc144c23a95c745e",
+  "content_type": "text/html",
+  "collected_at": "2026-06-24T05:01:37.201293+00:00",
+  "text_chars": 2036,
+  "raw_path": "data/geopolitics/raw/3e939e4ab8f3625f9a5061f209dbd71b0c08d3170a4a7171dc144c23a95c745e.html",
+  "text_path": "data/geopolitics/raw/3e939e4ab8f3625f9a5061f209dbd71b0c08d3170a4a7171dc144c23a95c745e.txt"
 }
