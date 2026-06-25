@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/b1116694-c6f9-4121-9e1a-78af8d82f5ba/Explosive%20Remnants%20of%20War%20%E2%80%93%20Lasting%20harm%20in%20Deir%20Ez-Zor%2C%20Syria.pdf",
+  "title": "Explosive Remnants of War – Lasting Harm in Deir Ez-Zor, Syria (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 25 Jun 2026 11:30:40 +0000",
+  "sha256": "ba70c2761097aa0e60bdaadcebbd7e066b643ff238c8cf308b921e07818682dd",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-25T13:13:02.408814+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-25T13:13:20.477660+00:00",
+  "text_chars": 28907,
+  "raw_path": "data/geopolitics/raw/ba70c2761097aa0e60bdaadcebbd7e066b643ff238c8cf308b921e07818682dd.pdf",
+  "text_path": "data/geopolitics/raw/ba70c2761097aa0e60bdaadcebbd7e066b643ff238c8cf308b921e07818682dd.txt"
 }

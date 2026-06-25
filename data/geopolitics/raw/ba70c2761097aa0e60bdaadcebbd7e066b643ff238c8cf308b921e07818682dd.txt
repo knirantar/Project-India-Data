@@ -1,0 +1,614 @@
+Explosive 
+Remnants of War 
+– Lasting Harm in 
+Deir Ez-Zor , Syria
+© Asmar Al-Bahir/MSF.
+
+More than a year after the fall of the Assad government 
+on 8 December 2024, the humanitarian situation in Syria 
+remains challenging. Over 15.6 million people continue 
+to require humanitarian assistance, as the consequences 
+of 14 years of conflict, renewed instability, and prolonged 
+neglect continue to shape daily life across the country. 
+Civilian infrastructure has been severely weakened, with 
+the healthcare system among the most affected sectors; 
+MSF teams have consistently identified significant and 
+recurrent gaps in both primary and secondary care. At 
+the same time, explosive ordnance (EO) contamination 
+remains one of the most serious protection risks facing 
+civilians across Syria. Over the past year, as access 
+has expanded, exposure to explosive ordnance has 
+increased, especially in previously contested areas — 
+many of which remain contaminated, unmarked, and 
+unassessed. 
+1 This analysis focuses on explosive hazards resulting from conflict contamination, including Explosive Remnants of War (ERW), landmines, and Improvised Explosive 
+Devices (IED) that remain as remnants of war. It excludes IED incidents associated with active or targeted attacks. The term “explosive ordnance” will be used.
+One year after Médecins Sans Frontières/Doctors 
+Without Borders (MSF) launched an intervention 
+in support of the emergency room at Deir Ez-Zor 
+National Hospital, this report presents an evidence-
+based analysis of the direct and indirect impacts of 
+explosive ordnance left behind after the conflict 1 in 
+Deir Ez-Zor governorate. Following December 2024, as 
+front lines partially collapsed, population movements 
+increased, and access to previously contested areas 
+expanded, civilians’ exposure to EO-related risks also 
+increased exponentially. This report draws on MSF 
+and the Directorate of Health (DoH) medical data 
+from April 2025 to April 2026, as well as operational 
+observations and interviews with patients, caretakers, 
+and medical professionals involved in the provision 
+of care. The report illustrates the human and health 
+impacts of explosive ordnance contamination, identifies 
+key barriers to accessing timely, comprehensive, and 
+specialized care, and highlights the critical role of  
+Mine Action (MA) actors in the governorate. Finally, it 
+concludes with recommendations from MSF OCA to 
+strengthen prevention and improve the medical and 
+humanitarian response to EO in Deir Ez-Zor.  
+© Asmar Al-Bahir/MSF. The destruction in Deir Ez-Zor resulting from the war.
+3
+MSF Activities in Deir Ez-Zor
+In Deir Ez-Zor, MSF began supporting the emergency 
+department and related transversal departments 
+at Deir Ez-Zor National Hospital in April 2025, in 
+partnership with the DoH, with activities planned 
+to continue until June 2026. The support includes 
+the emergency room (ER) as well as laboratory, 
+sterilization, infection prevention and control, and 
+water, sanitation, and hygiene (WASH) services. MSF 
+has rehabilitated the hospital’s waste management  
+zone, including by installing two incinerators and a new 
+X-ray machine. In Al Bukamal city, the MSF team supports 
+basic emergency obstetric and newborn care (BEmONC) 
+while rehabilitating a polyclinic and its waste zone, which 
+will provide comprehensive maternal and newborn 
+care (CEmONC). In addition to medical activities, MSF 
+has rehabilitated boreholes and water stations serving 
+communities in the Deir Ez-Zor countryside.   
+Patients and Incidents: 
+An Overview
+Deir Ez-Zor National Hospital is the primary facility 
+providing emergency trauma care in Deir Ez-Zor 
+governorate and currently absorbs a significant share of 
+patients injured by EO incidents from across the region. 
+Through its daily presence in the hospital, MSF has directly 
+witnessed the deadly, widespread and indiscriminate 
+impact that explosive ordnance continues to have on 
+the life and health of civilians. Between 7 April 2025 
+and 30 April 2026, MSF and DoH teams in the ER of Deir 
+Ez-Zor National Hospital provided emergency trauma 
+care to 217 patients injured by explosive ordnance, 
+including unexploded and abandoned ordnance and 
+landmines. Children accounted for 45% (97) of all 
+patients admitted, and 87% (188) were male. Although 
+the risk from explosive ordnance remains indiscriminate 
+and broadly affects the civilian population, these figures 
+highlight the severe impact on children, who represent 
+nearly half of all cases. 
+“It’s tragic to see that children are disproportionately 
+affected. They go out to play and, at any moment, they 
+might lose a limb. Their life changes forever. ”
+– Dr. Yaman Alsara, MSF Medical Doctor, Emergency Room
+% of Gender
+Male Female
+188 (87%)
+29 (13%)
+������� ��� � ���������� �� ������� ���� ������ �������� �������� ��� � � ����
+Age Category
+Adult Minor Unknown
+113 (53%)
+97 (45%)
+5 (2%)
+������� ��� � ���������� �� ������� ���� ������ �������� �������� ��� ������� �� �������� ���� � �����
+4
+Male patients are disproportionately impacted, 
+compared to female patients (13%), as incidents 
+frequently occur while they attempt to secure basic 
+livelihoods — including through livestock grazing, 
+agricultural activities or seasonal truffle gathering — 
+regular activities that frequently take place in heavily 
+contaminated areas. Children are particularly exposed 
+to these risks both while engaging in livelihood-related 
+activities and while playing in open areas or in abandoned 
+buildings. Where information on the circumstances of 
+injury was available, MSF recorded that children were 
+most commonly injured while playing (46) and among 
+both adults and children 70 patients were recorded as 
+being injured during livelihood activities, including 
+sheep herding (57) and truffle gathering (13). 
+. 
+A resident doctor at Deir Ez-Zor National Hospital 
+highlights the economic drivers behind these risks: 
+“The economic pressure is so high that some people 
+knowingly take the risk of entering mined areas to graze 
+their flocks or gather truffles, ” says Dr. Waseem Awak, a 
+resident doctor in the ER and orthopedic departments. 
+“In some cases, we have been treating members of the 
+same family. ”
+Admissions for explosive ordnance-related injuries 
+have remained relatively consistent over time, mostly 
+fluctuating between 15 to 20 cases per month, as shown 
+in the chart below. 
+© Asmar Al-Bahir/MSF.
+Total Cases per Month
+31
+19
+May 2025
+16 16
+Jul 2025
+18
+8
+Sep 2025
+15
+13
+Nov 2025
+18
+21
+Jan 2026
+19
+23
+Mar 2026
+Source: MSF & Department of Health, Deir Ez-Zor National Hospital ER. 12 monthly values sum to 217 patients.
+MSF staff at the National Hospital in Deir Ez-Zor.
+5
+The month of April recorded the highest number of 
+cases in both 2025 and 2026. MSF witnessed a peak at 
+the very start of the intervention, in April 2025, when 
+31 patients were admitted in just 24 days. This may be 
+associated with population returns earlier in 2025, when 
+formerly displaced people began returning to destroyed 
+homes littered with explosive ordnance, against the 
+backdrop of the change of power on 8 December 2024. 
+April 2026 recorded the second-highest number of 
+cases (23 patients), with incidents largely linked to the 
+resumption of outdoor livelihood activities, including 
+livestock grazing and seasonal truffle gathering. Over 
+the course of the intervention, MSF documented several 
+major incidents affecting three or more people. One 
+such incident occurred in February 2026, when eight 
+members of the same family were injured by a landmine 
+on a road. Most of the casualties were children, two of 
+whom died — the youngest was only 45 days old. In total, 
+77 patients were injured in single-casualty incidents, 
+while 60 of the admitted patients were involved in 
+major incidents affecting three or more people. 
+1 Data shared by Syria Mine Action Area of Responsibility, as of May 1 2026
+Despite some reduction in immediate risk due to 
+increased awareness and clearance, Deir Ez-Zor remains 
+one of the most heavily contaminated governorates in 
+Syria and continues to record high number of incidents 
+related to war remnants. International NGO Safety 
+Organisation (INSO) data1  show 227 incidents in Deir Ez-
+Zor alone since December 2024, out of 1,208 nationwide. 
+Several areas remain heavily contaminated, including 
+Al-Merei’iye near the former military airport, Al-Badia 
+in the southwest desert, and the Seven Villages area 
+between Geneina and Tabya east of the Euphrates. 
+Following the March–April 2026 floods, landmines 
+have reportedly shifted, increasing risks as previously 
+identified hazardous locations can no longer be 
+relied upon. In urban centers such as Al Bukamal and 
+Hajin, unexploded ordnance remains widespread in 
+abandoned and damaged houses, exposing returnees 
+to persistent and often invisible danger. 
+Similar issues are also reported across other areas in 
+the country. For instance, around 32 villages in Ein 
+Issa subdistrict are reported to be full of explosives, 
+especially around the former front lines, which poses 
+a risk to the population returning. According to an 
+MSF assessment, Ein Issa Hospital reportedly receives 
+EO-related injuries each day, with extremely limited 
+emergency care capacity.
+© Asmar Al-Bahir/MSF.
+Ali, 28, was injured after stepping on a landmine near the town of Subaykhan on 12 May 
+2025, resulting in the amputation of his left leg. He received emergency treatment in 
+Al-Mayadin before undergoing surgery at the National Hospital in Deir Ez-Zor.
+6
+© Asmar Al-Bahir/MSF.
+The National Hospital in Deir Ez-Zor.
+7
+Patterns and severity of explosive ordnance-related injuries
+EO-related incidents result in immediate physical and 
+psychological harm and frequently cause injuries that 
+permanently affect survivors’ mobility, functional 
+capacity, ability to work, and carry out daily tasks. 
+During one year of intervention, 24 patients (12%) died 
+after being injured by EO; 122 patients (57%) presented 
+with severe or life-threatening injuries; and in 69 cases 
+(32%), injuries were reported to be minor. 
+The severity and types of injuries vary depending on the 
+type of explosive ordnance. Landmines predominantly 
+affect lower limbs, often causing extensive soft tissue 
+damage, including degloving and fractures. Unexploded 
+and abandoned ordnance (UXO/AXO) usually causes 
+fragmentation and blast injuries affecting multiple 
+body parts, commonly involving the upper limbs, face, 
+chest, and abdomen. According to MSF data, 53% of the 
+admitted patients were injured by UXO/AXOs and 37% 
+were injured by landmines, while the type of explosive 
+ordnance could not be determined in 10% of cases. 
+Mohammed, a 23-year-old from Hawiqa in Deir Ez-Zor 
+city, was injured by a landmine in June 2025 while he 
+was working his land. He does not recall the incident. 
+Memory loss is common in such incidents. Survivors may 
+experience partial or complete amnesia surrounding 
+the event, which can be temporary or persist for years, 
+particularly in the absence of mental health support. 
+Injury Severity
+Severe Minor Died Life-threatening Unknown
+101 (47%)
+69 (32%)
+24 (11%)
+21 (10%)
+2 (1%)
+������� ��� � ���������� �� ������� ���� ������ �������� �������� ��� � � ����
+8
+© Asmar Al-Bahir/MSF. Abdulrazzaq, 12, was injured by an explosion while herding sheep in Deir Ez-Zor countryside.
+9
+Traumatic amputation
+During the one-year period of MSF support, 58 patients 
+(27%) who were treated for explosive ordnance-related 
+injuries at Deir Ez-Zor National Hospital underwent 
+traumatic amputations. Of these, 43 patients lost one 
+limb, 14 lost two limbs, and one patient had an arm, a 
+leg and a foot amputated. Amputations most frequently 
+involved lower limbs, with 27% of amputees losing one 
+or both legs. Hands were affected in 24% of cases, arms 
+in 15%, while 23% involved finger or toe amputations 
+and 11% affected the foot or feet. According to Dr. 
+Rajab, landmine explosions most often result in lower 
+limb amputations, whereas amputations of fingers, 
+hands, and arms are more commonly associated with 
+UXOs. In some cases, explosive ordnance causes severe 
+multi-trauma affecting the entire body, in which limb 
+amputation is not a viable lifesaving option and injuries 
+can be fatal. 
+Beyond the immediate physical consequences, 
+amputations have devastating long-term effects on 
+survivors, their families, and healthcare providers. 
+Abdulrazaq, a teenage boy from Hawaji, 50 kilometers 
+southeast of Deir Ez-Zor city, lost his right leg and part of 
+his left foot while herding sheep in the desert. “I feel sad 
+now, because I can’t run anymore, ” he says. 
+Mohammad was displaced from Deir Ez-Zor during the 
+conflict and worked as a chef before returning to the city, 
+where he then took up delivery work and resumed farming 
+his family’s land. Following his injury and the amputation 
+of both his legs above the knees, he was forced to stop 
+working and now spends most of his time at home. 
+“Everything has changed, ” he says. “I used to wake up 
+early and work all day, then go out with my friends every 
+evening. Now I can only stay home. My family and I had 
+to move to a new house on the ground floor, as our own 
+house was no longer accessible for me. ”
+The psychological and social impact of amputations 
+is profound, particularly among children. Andalib 
+Moutlak, emergency room nurse supervisor, recalls the 
+case of a child who died several months after losing 
+his leg: “He spent the last months of his life in sadness 
+and despair because he could not play with his friends 
+anymore. There is a strong stigma around amputations, 
+especially when the victim is a child. Many stop going 
+to school; they feel ashamed and schools are often not 
+equipped to support their needs. ” 
+Amputations also take a heavy emotional toll on 
+healthcare workers: “We see children losing their legs 
+and fingers because of war remnants, ” says Dr. Yaman 
+Alsara, MSF emergency room doctor. “When we realize 
+that amputation is the only way for the patient, it 
+deeply affects the whole team. ”  
+10
+Obstacles to accessing care
+Access to care for patients with EO-related injuries in Deir 
+Ez-Zor governorate remains limited and compromised 
+by multiple, compounding barriers that affect patients 
+throughout the continuum of care — from emergency 
+trauma care and surgery to post-operative follow-up 
+and rehabilitation. 
+Deir Ez-Zor National Hospital remains the main trauma 
+referral facility in the governorate and receives patients 
+from across the Euphrates River and the Badia or desert 
+area. Patients admitted to the ER often come from remote 
+areas, including Al Bukamal, located 130 kilometers 
+from Deir Ez-Zor city. This underscores the limited 
+availability of emergency trauma care outside the city. 
+A few patients who can afford it seek initial stabilization 
+in private facilities before being referred to Deir Ez-Zor 
+National Hospital. Most patients (179, or 82%) reached 
+the hospital by private transportation, such as cars and 
+motorbikes, while only 35 (16%) arrived by ambulance. 
+Although the ambulance system has improved over the 
+past year, its capacity remains insufficient, particularly 
+for emergencies occurring in remote areas.  
+As a result, the provision of lifesaving care is often 
+delayed, increasing the risks of complications and 
+death. Severe bleeding remains a major risk, as 
+caretakers often lack basic knowledge on how to 
+transport patients with open fractures. While some 
+basic first aid measures, such as tourniquets, have 
+occasionally been applied, uncontrolled blood loss 
+has led to fatalities. Delays within the emergency room 
+can also be critical, particularly at night, when staffing 
+constraints limit the facility’s ability to respond to major 
+incidents. 
+Beyond the limited emergency response capacity 
+and the challenges related to geographical distance 
+and transportation, a major gap persists in the 
+management of multi-trauma cases, which require 
+coordinated, multidisciplinary care. Over the past year, 
+MSF collaborated with the DoH to support ER staff with 
+training, establishing a triage system, and improving 
+the flow of patients. However, gaps persist. Limited 
+inter-departmental consultation, including between 
+the ER, general surgery, orthopedic surgery, and 
+other relevant departments, can lead to inaccurate or 
+delayed diagnoses and sub-optimal clinical responses, 
+sometimes with fatal consequences. Shortages in 
+human resources limit such a response, in particular the 
+absence of a dedicated specialist to coordinate multi-
+departmental responses to multi-trauma cases. There 
+are currently only 20 emergency medicine specialists 
+nationwide; none of them are in Deir Ez-Zor.  
+The orthopedic department, which receives the 
+majority of patients injured by explosive ordnance, is 
+particularly overstretched. “Resident doctors do very 
+long shifts of up to 18 hours and may perform eight or 
+nine surgeries a day, although their capacity is three 
+to four, ” says Dr. Ammar Rajab, head of the orthopedic 
+department at Deir Ez-Zor National Hospital. “By the last 
+surgeries, exhaustion increases the risk of mistakes. ” 
+The limited number of rooms and beds, shortages of 
+medical supplies, and the intermittent availability of an 
+anesthesiologist further constrain surgical capacity. As 
+a result, patients are often discharged early with pain 
+medication.  
+“Patients coming from the 
+eastern side of the river and 
+who get injured at night 
+might have to wait until the 
+next morning to come to the 
+hospital, because the dirt 
+bridge is not always fully 
+functional after dark. ” 
+ – Dr. Alsara, MSF emergency room 
+doctor
+11
+As of May 2026, complex cases requiring specialized surgery 
+continue to be referred to private hospitals or to Damascus, 
+approximately 500 kilometers away. Some specialized care 
+remains unavailable anywhere in the country. Following a 
+landmine explosion, Mohammad required inner ear surgery 
+and a corneal transplant in his right eye; neither service 
+has been accessible within Syria, leaving him with severely 
+impaired hearing and vision.
+Access to post-operative and follow-up care is also 
+significantly constrained. Distance, transport costs, and 
+reduced mobility discourage many patients, especially 
+those living far from Deir Ez-Zor city, from returning to 
+Deir Ez-Zor National Hospital for follow-up, particularly 
+after minor surgeries. As a result, some seek care in nearby 
+private facilities, while those unable to afford this often 
+rely on pharmacies or change dressings at home without 
+professional supervision, increasing the risk of infections. 
+In some areas, primary healthcare centers remain partially 
+functional or non-functional, further limiting options for 
+safe follow-up care.
+© Asmar Al-Bahir/MSF.
+Explosive remnants of war in Deir Ez-Zor.
+12
+Victim assistance gaps
+Beyond emergency trauma and surgical care, 
+comprehensive victim assistance for people injured 
+by explosive ordnance should include physical 
+rehabilitation, including prosthetics and orthotics; 
+mental health support; and socio-economic inclusion, 
+as well as protection and legal assistance. Despite the 
+high burden of war-related and post-conflict injuries in 
+Deir Ez-Zor governorate, such extensive and targeted 
+support remains largely absent. As a result, survivors 
+are left to cope with the long-term consequences of their 
+injuries, placing a heavy and sustained burden on their 
+families and primary caretakers. 
+Physical rehabilitation is currently limited to 
+physiotherapy, and the whole department relies on 
+technicians who are struggling to cope with the high 
+number of patients — an estimated 200 per week. 
+Free prosthetic and orthotic services have never 
+been available in Deir Ez-Zor, despite the scale of 
+needs. As of May 2026, other humanitarian actors have 
+initiated efforts to establish these services at Deir Ez-
+Zor National Hospital; however, the lack of technicians 
+and professionals available to staff the department 
+continues to delay operationalization. Each delay has 
+significant consequences for survivors, many of whom 
+have put their lives on hold while waiting for artificial 
+limbs to regain mobility and functional independence.  
+Similarly, while some protection actors have established 
+safe spaces and support services for vulnerable groups, 
+dedicated socio-economic inclusion programs are 
+largely absent. Many survivors have lost their livelihoods 
+because of their injury, leading to long-term economic 
+dependency and social exclusion. Likewise, specialized 
+mental health and psychosocial support is largely 
+unavailable, despite their critical role in addressing 
+trauma, stigma, and long-term psychological distress. 
+The burden of long-term care therefore falls almost 
+entirely on families. Mohammad, injured by a landmine, 
+now relies entirely on relatives to carry out daily 
+activities. His family, already affected by displacement 
+and their return to a destroyed neighborhood lacking 
+basic services, struggles to cover the cost of repeated 
+medical referrals to Damascus.
+“W e are trying our best, but our best is not 
+enough. Other actors must step in to ensure 
+adequate rehabilitation and recovery support, 
+particularly in this region of Syria. ” 
+ – Anonymous MSF doctor
+“Losing my ability to move has 
+been the greatest challenge 
+so far. I know health comes 
+from God, but if I had access 
+to artificial limbs I could 
+partially return to my old life, 
+to work and support myself. ”
+ – Mohammad, patient
+13
+Mine action and humanitarian access
+While the presence and activities of mine action actors 
+in Deir Ez-Zor have scaled up, current capacity remains 
+insufficient to address the scale and severity of explosive 
+ordnance contamination. Entire areas remain heavily 
+affected and, in some cases, completely inaccessible 
+— not only to communities, but also to humanitarian 
+organizations seeking to deliver assistance. In Deir Ez-
+Zor, MSF assessments and interventions, including in 
+the waste zone of Deir Ez-Zor National Hospital, were 
+delayed for an extended period due to contamination. 
+MSF has also been witnessing this in other areas of 
+operations. In Daraa governate in the south of Syria, 
+humanitarian access to internally displaced people 
+living in tented areas across the governorate has been 
+limited due to the risk of contamination and the lack 
+of clear and up-to-date mapping of contaminated 
+areas, which exposes an already extremely vulnerable 
+population to protection risks and limited humanitarian 
+assistance.
+MSF’s operational experience confirms that mine action 
+is a critical enabler of humanitarian response. Safe 
+access to communities, health facilities, and essential 
+infrastructure is often contingent on survey, clearance 
+and explosive ordnance disposal (EOD) activities. 
+In Deir Ez-Zor, MSF has relied on the support of three 
+different mine action organizations to conduct surveys 
+and EOD in two health facilities — including the waste 
+zone at Deir Ez-Zor National Hospital and the compound 
+of a CEmONC in Al Bukamal — enabling rehabilitation 
+works to proceed safely and ensuring continued access 
+to essential healthcare services. 
+Despite these efforts, few organizations are currently 
+operational in the governorate, and most activities 
+are limited to non-technical surveys and explosive 
+ordnance risk education (EORE), while EOD is mostly 
+restricted to spot tasks, as existing capacities are 
+insufficient to conduct systematic clearance. In addition, 
+unsafe explosive ordnance disposal practices continue 
+to pose a serious risk to civilians. MSF has recorded at 
+least 18 patients injured during demining or clearance 
+activities, including one fatality and six patients who 
+sustained one or more amputations. These incidents 
+highlight the urgent need for mine action activities to be 
+conducted in line with international safety standards, 
+with adequate training, equipment, and oversight to 
+prevent further harm.
+Public infrastructure across the governorate remains 
+contaminated. According to Abdullkarim Mohammed, 
+sub-national mine action coordinator for Deir Ez-Zor, 
+reports continue to be received of facilities that are in 
+urgent need of mine action support, including at water 
+stations, water and sewage networks, health facilities, 
+and schools. While mine action actors are prioritizing 
+spot tasks in schools, water pumping stations, and 
+irrigation canals, explosive hazards continue to directly 
+undermine access to healthcare, safe water, and other 
+essential services across Deir Ez-Zor. 
+Chronic underfunding remains the main operational 
+constraint for mine action organizations. One partner 
+reported being forced to downsize and lay off specialized 
+staff due to funding shortages. Insufficient funding 
+also limits the procurement and use of specialized 
+equipment required for complex and large-scale 
+clearance operations. In addition, the lack of accessible 
+emergency trauma care, particularly in remote areas, 
+further constrains mine action activities and increases 
+risks for demining personnel.
+14
+© Asmar Al-Bahir/MSF.
+The National Hospital in Deir Ez-Zor.
+15
+Recommendations
+On mine action: 
+Increase and sustain funding for mine action organizations in 
+Deir Ez-Zor to improve and maintain their capacity for survey 
+and clearance efforts across the governorate and respond to the 
+high needs. Sustained support remains essential to ensure that 
+staff are trained and retained, and to ensure the availability 
+of specialized equipment required to conduct more complex 
+demining operations.  
+1
+Ensure all mine action activities are conducted in line with 
+international safety standards — with adequate training, 
+equipment, and oversight — to prevent injuries during demining 
+and clearance.
+3
+Strengthen prevention through increased risk education 
+activities, including the systematic integration of explosive 
+ordnance awareness into health programs and across other 
+sectors such as education and livelihood programs that target 
+groups that are most at risk, including children and farmers. The 
+need for clearly marking contaminated areas remains urgent to 
+deter people from trying to access them.
+2
+Enhance support and funding to strengthen and further develop 
+the national mine action capacity through strengthened 
+coordination between mine action organizations and national 
+actors, including the Syrian National Mine Action Center, to 
+improve the safety, geographic coverage, and sustainability of 
+mine action activities.
+4
+16
+Recommendations
+On victim assistance: 
+Urgently ensure that the newly established physical rehabilitation 
+program at Deir Ez-Zor National Hospital is adequately staffed 
+to start providing free prosthetics and orthotics to patients in 
+need and support the currently overstretched physiotherapy 
+department. 
+1
+Develop targeted socio-economic inclusion and livelihood 
+programs for survivors who have lost their ability to work, in order 
+to reduce long-term dependency and social exclusion. 
+3
+Scale up assistance for specialized mental health and 
+psychosocial support programs for EO survivors and their 
+families, with particular attention to children, amputees, and their 
+caretakers. 
+2
+Strengthen general livelihood programs in the governorate 
+to reduce risk-taking behaviors driven by severe economic 
+vulnerability. 
+4
+© Asmar Al-Bahir/MSF.
+The Orthopedic Surgery Department at the Deir Ez-Zor National Hospital.
+17
+Recommendations
+On access to care: 
+Restore and improve emergency trauma care capacity beyond 
+Deir Ez-Zor city, particularly in remote and hard-to-reach areas, 
+to reduce delays in lifesaving care. This entails enhanced support 
+to ERs in public hospitals and to pre-hospital care and referral 
+systems, including ambulance coverage and basic first-aid 
+capacity at the community level. 
+Expand the surgical capacity of Deir Ez-Zor National Hospital, 
+including through targeted support to the orthopedic 
+department, to increase bed capacity and to ensure the availability 
+of medical supplies and increased staffing to adequately respond 
+to the high caseload.  
+Strengthen the capacity of Deir Ez-Zor National Hospital to 
+manage severe, multi-trauma cases by ensuring the presence of 
+a dedicated emergency medicine specialist to coordinate multi-
+departmental response. 
+Ensure the continuity and quality of emergency care a tDeir Ez-Zor 
+National Hospital through a reliable and uninterrupted supply of 
+essential medications and consumables.
+Expand access to post-operative and follow-up care in peripheral 
+and remote areas by integrating such services into primary 
+healthcare facilities where feasible.
+1
+3
+2
+4
+5
+© Asmar Al-Bahir/MSF.
+Explosive remnants of war in Deir Ez-Zor.
+18
