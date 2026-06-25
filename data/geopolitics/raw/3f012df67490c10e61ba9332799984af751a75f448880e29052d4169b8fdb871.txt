@@ -1,0 +1,69 @@
+For two decades, Southeast Asian governments took special care to diversify their weapons catalogs. U.S. fighters were balanced against Russian submarines, French frigates against South Korean trainers, Israeli radars against Chinese patrol boats. By diversifying defense procurement across major powers, ASEAN states could modernize without owing allegiance to anyone, preserving the strategic autonomy that has long defined the bloc’s posture toward great power rivalry. 
+
+
+Russia was indispensable to this arrangement. Moscow offered capable aircraft, submarines, and air defense systems at prices Western suppliers could not match, accepted unconventional payment arrangements, including barter in palm oil and coffee, and asked few political questions in return.
+
+
+That arrangement is now collapsing, and the consequences extend far beyond accounting ledgers in defense ministries. The Russia-Ukraine War has done what years of Western pressure could not, effectively removing Russia as a viable arms supplier to Southeast Asia and pushing the region’s militaries toward a defense ecosystem built around NATO standards. 
+
+
+The shift was not planned or coordinated. It is simply the cumulative result of dozens of pragmatic procurement decisions made under sanctions risk, supply uncertainty, and the growing operational cost of fielding equipment that cannot link with systems provided by other partners. The aggregate effect, however, is reshaping the strategic geography of the region.
+
+
+Russia’s share of new ASEAN defense contracts fell from nearly 20 percent during 2017–2021 to less than 3 percent in 2022–2024. What deliveries continue to arrive, most prominently Myanmar’s Su-30SME fighters, are working through backlogs from contracts signed years ago. New orders of Russia arms have all but disappeared. 
+
+
+China, despite its expanding economic footprint and active courting of regional militaries, has not filled the void Russia left behind in Southeast Asia. Compared to Western powers, its share of priced contracts during the same period is negligible. Instead, suppliers outside the traditional big three – China, Russia, and the United States – including France, South Korea, Turkiye, and India, now account for roughly 85 percent of the region’s contract value. 
+
+
+The Philippine serves as a telling example. In November 2021, Manila signed a contract for 16 Russian Mi-17 helicopters under President Rodrigo Duterte, who had openly framed the purchase as part of a rebalancing away from Washington. Within weeks of the initial down payment in January 2022, Russian tanks rolled into Ukraine and the deal turned from a bargain into a sanctions trap. Ambassador Jose Manuel Romualdez 
+later acknowledged
+ that concerns extended well beyond the helicopter program
+ itself, reaching into the broader question of whether Philippine banks and overseas remittances might be caught up in secondary sanctions. 
+
+
+The administration of Ferdinand Marcos Jr., which took office in mid-2022, canceled the contract and turned to the S-70i Black Hawk, manufactured in Poland by a subsidiary of Lockheed Martin. Washington offered $100 million in Foreign Military Financing explicitly to offset the cancellation. Instead of “rebalancing” the Philippines’ military procurement, the Philippine Air Force moved even more deeply into U.S. logistics networks.
+
+
+The Philippines, a U.S. ally, has always relied heavily on American arms. By contrast, Vietnam’s military was built around Russian platforms, from Su-30 fighters to Kilo-class submarines to S-300 air defense systems. Hanoi had actually slowed its Russian purchases well before 2022, partly because of the risk of sanctions under the United States’ 2017 Countering America’s Adversaries Through Sanctions Act and partly because of a domestic anti-corruption campaign that scrutinized large defense contracts. 
+
+
+The Russia-Ukraine War sped up what had been a process of gradual disengagement. Access to Russian spare parts, software updates, and depot-level overhauls became unpredictable, threatening readiness across Vietnam’s most important platforms. In response, Hanoi embraced indigenous maintenance capabilities, deepening cooperation with India on submarine sustainment. It also turned to alternative suppliers, with a landmark $245 million deal to buy 
+K9 howitzers from South Korea
+ and a new arrangement to advanced 
+defense industry cooperation with Turkiye
+. Vietnam is even expected to officially ink a deal to 
+acquire $100 million worth of used C-130 transport planes
+ from the United States. Vietnam realizes it can no longer rely on Russia for its defense needs. 
+
+
+Malaysia sits somewhere between the Philippines and Vietnam. Kuala Lumpur sources its arms from a variety of partners, with the Royal Malaysia Air Force (RMAF)’s arsenal as a case in point: it operates seven U.S.-made F-18s, 12 U.K.-made BAE Hawk 200s, and 18 Russian Su-30MKM fighters. However, the post-2022 sanctions have made it nearly impossible to keep the Russian fighters flying at full capability. A RMAF Su-30 pilot 
+acknowledged at the 2024 Singapore Airshow
+ that sanctions were a key reason the government was looking elsewhere for its next fighter purchase. 
+
+
+Malaysia has not retired its Russian jets, but it is directing new spending toward different suppliers. In 2023, Malaysia signed deals to purchase 18 FA-50 fighters from South Korea and three ANKA drones from Turkiye. That not only avoids supply chain issues, but allows Malaysia’s armed forces to interface with U.S. standard military tech. 
+
+
+Exercises with the United States and partners under the Five Power Defense Arrangements run on Link-16 datalinks, NATO-standard cryptography, and identification-friend-or-foe systems. Russian aircraft cannot plug into that ecosystem. By contrast, Korean FA-50 fighters have Link-16 capability and Turkish ANKA drones have in-built NATO-compatible command-and-control architecture. 
+
+
+The Philippines, Vietnam, and Malaysia are making individual choices that align with their national interest. But the net result is that Southeast Asia is gradually converging on Western technical standards by default. Even if the deals are driven by short-term necessity, the impact will be felt for years to come. Contractual sustainment arrangements bind recipients to supplier logistics networks for decades, while training pipelines institutionalize foreign doctrines and software baselines remain controlled by original equipment manufacturers. Once a country buys into this ecosystem, the cost of leaving it rises with every passing year.
+
+
+The geopolitical implications for ASEAN are potentially unsettling. The bloc’s diplomatic identity has rested on its ability to engage all great powers without fully aligning with any of them, a posture that depended on maintaining genuine alternatives. The collapse of the Russian option, combined with maritime tensions that make Chinese hardware politically costly for many (
+but not all
+) ASEAN members, has narrowed the field. In addition to the United States’ own arms offerings, many of the alternative defense suppliers – France, Germany, South Korea, Turkiye – are U.S. allies. 
+
+
+As it stands, Southeast Asia’s maritime states – including the Philippines, Indonesia, and Singapore – are integrating ever more deeply with Western military structures. Mainland states such as Cambodia, Laos, and Myanmar are leaning further toward China for reasons that predate the Ukraine conflict but are reinforced by it. The technological divide reflects the same political gap visible in ASEAN’s repeated failures to reach consensus on South China Sea statements and in divergent reactions to AUKUS.
+
+
+The era in which Southeast Asian states could play Moscow against Washington and Beijing as a third vector is over. It’s not entirely clear yet what comes next, but we should expect a region with sharper internal divisions, less room for studied neutrality, and fewer buffers against the great power rivalry now playing out.
+
+
+This article expands on the findings of a 
+research article
+ published in 
+The Pacific Review
+; an international relations journal covering the interactions of the countries of the Asia-Pacific.

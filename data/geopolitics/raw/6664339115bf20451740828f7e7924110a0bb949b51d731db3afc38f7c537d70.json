@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-25T07:37:41.365002+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://www.bbc.co.uk/news/articles/c1eydwldzdjo?at_medium=RSS&at_campaign=rss",
+  "title": "Trump asks Congress for $87bn, mostly for 'urgent' Iran war costs",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Thu, 25 Jun 2026 00:51:28 GMT",
+  "sha256": "6664339115bf20451740828f7e7924110a0bb949b51d731db3afc38f7c537d70",
+  "content_type": "text/html",
+  "collected_at": "2026-06-25T07:37:53.456201+00:00",
+  "text_chars": 1764,
+  "raw_path": "data/geopolitics/raw/6664339115bf20451740828f7e7924110a0bb949b51d731db3afc38f7c537d70.html",
+  "text_path": "data/geopolitics/raw/6664339115bf20451740828f7e7924110a0bb949b51d731db3afc38f7c537d70.txt"
 }
