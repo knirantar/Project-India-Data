@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-25T16:18:58.498200+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.xml",
-  "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt"
+  "url": "https://www.npr.org/2026/06/25/nx-s1-5869554/trump-nato-ukraine-kurt-volker",
+  "title": "Europe is 'reading the tea leaves' on Trump's Ukraine policy, says ex-NATO envoy",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Thu, 25 Jun 2026 04:44:52 -0400",
+  "sha256": "00c36c2f78fdfc5e321dc6a7b579c9296f182670deecb8ca4b282c5e0072f063",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-25T16:20:03.123441+00:00",
+  "text_chars": 2044,
+  "raw_path": "data/geopolitics/raw/00c36c2f78fdfc5e321dc6a7b579c9296f182670deecb8ca4b282c5e0072f063.html",
+  "text_path": "data/geopolitics/raw/00c36c2f78fdfc5e321dc6a7b579c9296f182670deecb8ca4b282c5e0072f063.txt"
 }
