@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-25T19:05:14.332479+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/e2de0db4e30089d6b6ee328687ed8da1b6f80ca87b594abed537d773f9c1703b.txt",
+      "metadata_path": "data/geopolitics/raw/e2de0db4e30089d6b6ee328687ed8da1b6f80ca87b594abed537d773f9c1703b.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/d35f63099974164b47496a3c8aa134da1e6abd4680589fb143d1b7321a13ccd5.txt",
+      "metadata_path": "data/geopolitics/raw/d35f63099974164b47496a3c8aa134da1e6abd4680589fb143d1b7321a13ccd5.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Thousands trapped in southern Ukraine struggle to survive",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167809",
+      "text_path": "data/geopolitics/raw/6d014814b0d2538958e495009426008144df245d90f3e3a85d93d20c74befa67.txt",
+      "metadata_path": "data/geopolitics/raw/6d014814b0d2538958e495009426008144df245d90f3e3a85d93d20c74befa67.json"
+    },
+    {
+      "title": "Trump airs grievances with NATO chief over alliance's lack of Iran war support",
+      "url": "https://www.npr.org/2026/06/25/nx-s1-5869806/trump-airs-grievances-with-nato-chief-over-alliances-lack-of-iran-war-support",
+      "text_path": "data/geopolitics/raw/700557d47418d5014b6a16bac2aa982b42dd02a371c9f5d9393c1a96ccefe50f.txt",
+      "metadata_path": "data/geopolitics/raw/700557d47418d5014b6a16bac2aa982b42dd02a371c9f5d9393c1a96ccefe50f.json"
+    },
+    {
+      "title": "Thousands trapped in southern Ukraine struggle to survive (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/31-03-2023-UNOCHA-Ukraine.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/6afd704373e63187687f32230919764d449115f1abe31053a829560e39a429d3.txt",
+      "metadata_path": "data/geopolitics/raw/6afd704373e63187687f32230919764d449115f1abe31053a829560e39a429d3.json"
+    },
+    {
+      "title": "Sudan: Warnings mount over the risk of new mass atrocities",
+      "url": "https://www.dw.com/en/sudan-warnings-mount-over-the-risk-of-new-mass-atrocities/a-77709377?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/95d30c0ca4f825921462105d80f2b452aba482c072dc9a8de73fb11b22cf4cd6.txt",
+      "metadata_path": "data/geopolitics/raw/95d30c0ca4f825921462105d80f2b452aba482c072dc9a8de73fb11b22cf4cd6.json"
+    },
+    {
+      "title": "LIVE: From conflict to stability, how the UN is supporting peacebuilding around the world (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/24-06-2026-UNDP-Sudan.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/a8c74597ebb5ee9ce40da34c9c1ab1424cc2caa42f47dffa2dc82a023f5dda5b.txt",
+      "metadata_path": "data/geopolitics/raw/a8c74597ebb5ee9ce40da34c9c1ab1424cc2caa42f47dffa2dc82a023f5dda5b.json"
+    }
+  ],
+  "txt_before": 1394,
+  "txt_after": 1400
+}
