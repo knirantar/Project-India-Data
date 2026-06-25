@@ -1,0 +1,6 @@
+Binary video_content source collected for Global Geopolitics Monitor.
+Title: Rutte attempts to ease Trump-NATO rift over Iran ahead of annual summit
+URL: https://www.aljazeera.com/video/newsfeed/2026/6/25/rutte-attempts-to-ease-trump-nato-rift-over-iran-ahead-of-annual-summit?traffic_source=rss
+Source: https://www.aljazeera.com/xml/rss/all.xml
+Content-Type: text/html; charset=utf-8
+Bytes: 196715
