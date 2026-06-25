@@ -1,0 +1,51 @@
+KYIV, Ukraine — Ukraine is developing a missile that launches from a balloon at the edge of the stratosphere, built to fly through Russian jamming — one of the newest weapons in Kyiv’s growing mid-range strike campaign to pressure the Kremlin into pulling back its forces and returning to the negotiating table.
+The balloon-born missile, DART, drops from a balloon at about 7 to 11 miles and runs on satellite guidance until it falls to about 4 miles, where its navigation cuts out and a solid-fuel engine carries it along a fixed course, according to its creators at the Ukrainian company Center of Innovative Technologies Program.
+Once the navigation shuts off, Russian jammers can not pull the missile off target.
+The company built DART to drop from a balloon rather than fire from a plane or a launcher as a cheap, silent and electronic warfare-resistant vehicle to carry guided weapons deep into Russia.
+Its roughly 22-pound warhead scatters conductive graphite filaments designed to short out Russian power grids, according to 
+Militarnyi
+, though it has not yet cleared Ukrainian military codification.
+“Balloons are actively used by the Defense Forces of Ukraine mainly as support platforms and as means for medium and deep strikes,” retired Col. Viktor Kevliuk, a 35-year veteran of the Ukrainian Army now with the Kyiv-based Center for Defense Strategies, told 
+Euromaidan Press
+ last month.
+“They are inexpensive, inconspicuous on radars, can hang in the air for a long time and carry a payload,” Kevliuk said.
+Ukraine has already floated more than 1,000 of them into Russia, he said.
+Now Kyiv is using those balloons to launch a guided missile. They ride the prevailing west-to-east winds deep into Russia and have drifted as far as Moscow, where air defenses tracked them at an altitude of about 6 miles during a strike last September.
+The debut comes at a turning point in the war. Ukraine has clawed back more ground than it has lost for the first time since its 2023 counteroffensive, a shift the 
+Institute for the Study of War
+ has linked to Ukraine’s emerging drone dominance over Russian technology across land, sea and air.
+That edge has begun to 
+reshape Kyiv’s leverage
+ at the negotiating table, drawing American interest in its battlefield technology as Ukrainian President Volodymyr Zelenskyy presses a mid- to long-range strike campaign that sends cruise missiles and one-way drones as far as over 600 miles into Russia, what he has branded the country’s “long-range sanctions” on Moscow’s war economy.
+Balloons are a cheap way to reach into that same fight. They can drift over a hundred miles on the wind before they release anything, then hand off to a drone or a missile that flies hundreds more, stacking the two ranges to put a strike far deeper than either could manage alone.
+Ukrainian forces have used military balloons in the past, most often for surveillance or as decoys.
+The cheap, wind-borne balloons can bait Russian defenses into firing million-dollar S-300 and S-400 interceptors at a target that costs about $200, draining the batteries that guard Russian cities.
+Ukraine floated several balloons over Moscow and Tatarstan during an overnight combined strike in September, a strategy that analysts assessed was meant to confuse Russian air defenses, according to 
+United24
+, citing Russian sources.
+The strike side of the story broke into view in May when 
+video
+ circulated online of an American-made attack drone falling from a Ukrainian balloon over the front. The clip, which spread across Ukrainian military channels, was the first public glimpse of Kyiv pairing a balloon with a precision weapon.
+The drone was a Hornet, a roughly seven-foot, AI-guided strike drone built by the American firm Perennial Autonomy, and already in wide Ukrainian use against Russian supply lines. Ukrainian troops launched it from a balloon that carried it dozens of miles and released it at over 26,000 feets’ altitude, with the drone just using a tiny percentage of its battery along the way, according to 
+Euromaidan Press
+.
+Launched from Ukrainian-held territory, that balloon reportedly carried the drone dozens of miles toward its target before the flyer ever fired its own engine.
+Ukrainian operators say that head start roughly doubles the Hornet’s reach from about 93 miles to at least 186 by adding the balloon’s distance and altitude to the range the drone flies on its own, according to 
+The Defence Blog
+.
+Perennial Autonomy, which produces the Hornet, was founded by former Google CEO Eric Schmidt out of his earlier White Stork and Swift Beat drone ventures in Ukraine, which won the 
+biggest counter-drone award in American military history
+, valued at up to $500 million, last month.
+“We must be proactive with creating a layered defense that deploys and scales low-cost, attributable air-to-air drone interceptors at all our facilities at home and abroad,” Brig. Gen. Matt Ross, who directs the task force that awarded the Perennial contract, told 
+Inside Unmanned Systems
+ last month.
+Weaponized balloons may be part of that plan, evidenced by the U.S. Army’s own testing of balloon carriers.
+The service has been evaluating a tethered balloon known as an aerostat, or lighter-than-air, to detect drones and relay communications, with an eye toward launching drone swarms from it.
+Russia has gotten wind of the idea too — if not the backing of the breeze itself.
+The prevailing winds across the front blow west to east, so a Russian balloon launched at Ukraine tends to drift back over Russia instead — a quirk of geography that runs in Kyiv’s favor.
+Moscow is trying to field them anyway.
+After SpaceX restricted unauthorized Starlink terminals over occupied territory, cutting Russian units off from a link they had leaned on, the military began trialing the Barrazh-1, a stratospheric balloon meant to haul a 220-pound relay station to an altitude of 65 feet, Defense Ministry adviser Serhiy “Flash” Beskrestnov told 
+Defense Express
+ last month.
+Russian developers say the balloon is built almost entirely from Russian parts, a hedge against the same sanctions that grounded its Starlink link.
+Katie Livingstone is the Ukraine correspondent for Defense News and Military Times. Based in Kyiv, she has covered Russia's full-scale invasion since its first days. She is a former Fulbright fellow whose award-winning work has appeared in outlets across Europe and the U.S.

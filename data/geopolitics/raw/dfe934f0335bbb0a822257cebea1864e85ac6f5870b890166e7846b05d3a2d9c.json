@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-25T21:25:50.127153+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/06/1167811",
+  "title": "Middle East: From Lebanon to the Strait of Hormuz, a region hangs on fragile peace talks",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Thu, 25 Jun 2026 12:00:00 +0000",
+  "sha256": "dfe934f0335bbb0a822257cebea1864e85ac6f5870b890166e7846b05d3a2d9c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-25T21:25:56.607019+00:00",
+  "text_chars": 5398,
+  "raw_path": "data/geopolitics/raw/dfe934f0335bbb0a822257cebea1864e85ac6f5870b890166e7846b05d3a2d9c.html",
+  "text_path": "data/geopolitics/raw/dfe934f0335bbb0a822257cebea1864e85ac6f5870b890166e7846b05d3a2d9c.txt"
 }

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-25T21:25:50.127153+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "url": "https://foreignpolicy.com/2026/06/25/trump-weapons-iran-lockheed-ukraine-nato-rutte/",
+  "title": "Restocking the Pentagon",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Thu, 25 Jun 2026 20:34:32 +0000",
+  "sha256": "79b70ddf25d0b2fae600a8ecb889b6d3473e5ae6e81d711a897cc91e0e282381",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-25T21:25:57.327781+00:00",
+  "text_chars": 8824,
+  "raw_path": "data/geopolitics/raw/79b70ddf25d0b2fae600a8ecb889b6d3473e5ae6e81d711a897cc91e0e282381.html",
+  "text_path": "data/geopolitics/raw/79b70ddf25d0b2fae600a8ecb889b6d3473e5ae6e81d711a897cc91e0e282381.txt"
 }
