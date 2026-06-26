@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-26T06:46:05.746472+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://reliefweb.int/report/sudan/sudan-crisis-situation-analysis-period-080626-140626",
+  "title": "Sudan Crisis Situation Analysis (Period: 08/06/26 - 14/06/26)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 26 Jun 2026 06:31:41 +0000",
+  "sha256": "75418722487ee8d6b4b9848dfeb026b7b62aca26d4191a0e4077eadeaa696f15",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-26T06:46:52.163652+00:00",
+  "text_chars": 4720,
+  "raw_path": "data/geopolitics/raw/75418722487ee8d6b4b9848dfeb026b7b62aca26d4191a0e4077eadeaa696f15.html",
+  "text_path": "data/geopolitics/raw/75418722487ee8d6b4b9848dfeb026b7b62aca26d4191a0e4077eadeaa696f15.txt"
 }
