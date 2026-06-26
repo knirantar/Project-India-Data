@@ -1,0 +1,341 @@
+Improving Humanitarian Warehousing for 
+Sustainability, Efficiency, and Cost Savings
+WREC Global Info Session
+June 17, 2026
+Agenda 
+2
+• Circular and Sustainable Warehousing Measures 
+• Best practice from the field
+• Q&A
+When you think of 
+circular and 
+sustainable 
+warehousing, what 
+ideas or practices 
+come to mind?
+Circular and Sustainable Warehouse
+IMPROVING
+through better structural design, energy-
+efficient lighting, and enhanced inventory 
+management systems; 
+REDUCING
+by minimizing water and energy consumption;
+RECYCLING
+by segregating and channeling waste streams 
+such as cardboard, plastics, and metals into 
+appropriate local recycling systems. 
+A circular warehouse minimizes environmental 
+impact by using resources efficiently, reducing 
+waste, and keeping materials in use while 
+supporting operations.
+Circular and Sustainable Warehouse
+• Circularity and environmental 
+sustainability is not an extra layer, 
+but a key piece of the puzzle that 
+helps the supply chain work 
+better
+• Circularity and Environmental 
+sustainability as a powerful 
+operational and financial 
+opportunity
+Operational 
+efficiency
+Cost reduction
+Circular and Sustainable Warehouse
+Structure
+  
+Energy
+Storage & Space optimization 
+Waste 
+Behavioral change
+Structure
+Insulation of walls and 
+roofs
+Reflective or cool 
+roofs
+Solar shading
+Recycled or low-carbon material
+Passive ventilation 
+and cooling
+Water harvesting infrastructure 
+and Install low flow fixtures and 
+repair leaks promptly
+Energy
+Switch to efficient LED lighting
+Install motion sensors and 
+remote switches
+Choose energy efficient 
+equipment
+Install renewable energy systems
+Storage and space optimization 
+Optimize space use
+Adopt a First In, First Out (FIFO) or 
+First Expired, First Out (FEFO) 
+approach
+Waste 
+Know your waste
+Implement source 
+segregation, proper 
+storing, and safe 
+handling of waste
+Explore local options for each waste stream
+WREC Waste Measurement Decision Tree
+WREC Waste Management & Recycling Infrastructure mapping
+Behavioral change  
+Training
+Awareness and reminder tools
+Which of the measures 
+we discussed today is 
+most applicable to 
+your warehouse?
+Any additional 
+measures that were 
+not covered?
+Global Logistics Cluster
+WFP Chad
+Ingrid Beyegue
+Circular &
+Sustainable
+Warehousing
+Innovation
+Temperature-controlled warehouse 
+and modular shelving built with 
+recycled MSU materials
+Bagarine, Abéché | Ouaddaï, East Chad
+WFP Chad Country Office
+Prepared using available project documentation.
+Thermal mapping is positioned as a next step.
+Circular Economy logic
+From damaged and unused MSU* components to operational Warehouse infrastructure
+01 | Context
+Recovered MSU components 
+assessed for reuse
+Inventory and material assessment from MSU poles and metallic tubes
+Circular logic
+Recover → Redesign → Build → Reuse in operations
+The approach extends material life while reducing the 
+need for new structural components.
+* MSU : Mobile Storage Unit         Source: Chad Engineering team project brief, May 2025  | Prepared for experience sharing
+Technical design features
+Warehouse structure and passive cooling elements
+02 | Design
+Warehouse configuration
+o 10m wide, 44m long and 3.50m high.
+o Structure built using recycled old metallic bars from MSUs.
+o Five ventilation windows on each side, each 0.4m x 0.6m.
+o Two main doors of 5m x 4m to allow large truck access.
+o Reinforced concrete foundation with starter columns and base plates for the main vertical frames.
+Passive cooling approach
+• Two-segment roof with a 0.6m 
+ventilation gap.
+• Aluminum-zinc external wall 
+cladding.
+• Internal lining with cellulose foam 
+and plywood.
+• Painted internal finishes for 
+usability and durability.
+Foundation / early construction works
+Recycled steel frame and roofing works
+Source: Chad Engineering team project brief, May 2025 | Prepared for experience sharing
+Construction pathway
+Key stages from foundation to finished warehouse
+03 | Build
+1
+Material Inventory
+Assessment & 
+design
+2
+Foundation
+works
+3
+Frame
+erection
+4
+Roofing
+& ventilation
+5
+Cladding
+& interior finish
+Foundation and floor 
+reinforcement
+Frame erection
+ Wall cladding / ventilation view
+ Interior finishing and lining
+Source: Chad Engineering team project brief, May 2025 | Prepared for experience sharing
+Modular heavy duty shelving production
+Additional circular value from the same recycled MSU material stream
+04 | Shelving
+Assembly of modular shelving components
+ Load-testing with heavy materials
+Shelving features
+▪ Built from recycled MSU metallic parts.
+▪ Approximate dimensions: 3m high x 7.5m long.
+▪ Detachable design with three compartments.
+▪ Can be disassembled, transported and reassembled based on warehouse needs.
+▪ Designed for practical assembly by non-specialized labour.
+Source: Chad Engineering team project brief, May 2025 | Prepared for experience sharing
+Approx.  500 Kg per compartment
+Next Step: Thermal mapping & performance monitoring
+Turning a promising innovation into an evidence-based model for replication
+05 | Next steps
+Plan
+Define zones, heights
+and monitoring period
+Measure
+Install data loggers
+for T/H monitoring
+Compare
+Benchmark against
+standard 
+warehouse/MSU
+Document
+Analyze data and
+validate key claims
+Share
+Package lessons for
+replication / visibility
+Why a thermal mapping and what it can answer ?
+▪ How temperature varies between entrance, center, walls and roof-
+adjacent zones.
+▪ Whether higher layers or shelf levels experience greater heat 
+exposure.
+▪ Whether design features are producing measurable improvements 
+compared with standard structures.
+▪ What monitoring configuration should be maintained for sensitive 
+commodities.
+▪ Validated temperature-performance profile.
+▪ Evidence-based communications package for circular warehousing.
+▪ Operational recommendations for commodity placement and 
+monitoring.
+▪ Replication considerations for other hubs and field operations.
+Source: Chad Engineering team project brief, May 2025 | Prepared for experience sharing
+Expected outputs
+Snapshot
+A field-driven circular warehousing solution using recovered MSU materials
+06 | Overview
+Location
+Chad, Bagarine, Abeche
+Period
+July 2024 – April 2025
+What the project demonstrates ?
+o Circular use of MSU metallic parts that were originally intended for 
+disposal.
+o Construction of a 10m x 44m warehouse with passive cooling features
+designed to improve storage-condition.
+o Creation of modular heavy-duty shelving using the same recycled MSU 
+material stream.
+o A practical example of field-level innovation in humanitarian logistics 
+infrastructure.
+What will come next ?
+o Shelf load-capacity 
+o thermal mapping and temperature-performance study
+Source: Chad Engineering team project brief, May 2025 | Prepared for experience sharing
+Warehouse size
+10m x 44m x 3.5m
+Achievements
+A strong innovation story
+06 | Evidence
+▪ Project location, timeline and engineering ownership.
+▪ Material-reuse concept using MSU components 
+originally intended for auction.
+▪ Warehouse dimensions, structural elements and 
+passive cooling design features.
+▪ Construction sequence and visual evidence from the 
+project brief.
+▪ Modular shelving concept, dimensions and load-
+testing narrative.
+▪ Measured temperature profile inside the warehouse over time.
+▪ Temperature stratification by zone and height inside the facility.
+▪ Comparison with a standard MSU or conventional warehouse under 
+similar conditions.
+▪ Validation of any temperature reduction claim and operational 
+benefits.
+▪ Confirmed current commodities stored and user feedback from 
+Abeche operations.
+<A promising circular warehousing solution, with thermal performance documentation planned as the next evidence-generation step.=
+Source: Chad Engineering team project brief, May 2025 | Prepred for experience sharing
+Already documented To be documented through next steps
+Thank you
+✓ Abeche project demonstrates a practical circular warehousing model
+✓ Thermal mapping will provide the additional layer of measurable evidence.
+WFP Chad Country Office | Prepared with available project information
+Global Logistics Cluster
+Danish Refugee Council
+Tamby Libzo & Randa 
+Alattar
+Global Logistics Cluster
+UNICEF
+Judith Okoli
+Improving Warehousing for 
+Sustainability, Efficiency, and 
+Cost Savings
+Bauchi Warehouses Solar PV Case Study
+Demonstrating how sustainability drives operational performance, resilience and cost reduction
+WREC Global Info Session
+June 17, 2026
+Bauchi Warehouses Case Studies
+• 3 WH sites assessed for solar PV 
+implementation
+•  Sites: Galadima, Fertilizer and Gidan 
+Gona Warehouses
+• Leveraged GIZ support for energy 
+audits pro-bono
+• Objective: Improve sustainability, 
+reduce emissions & environmental 
+impact, achieve cost savings and 
+strengthen operational resilience.
+• Systems sized based on actual load 
+profiles
+Galadima Warehouse: High Impact Investment
+17 kWp PV + 20 kWh battery
+83.4% solar coverage
+Annual PV production: 29,397 kWh
+IRR: 17.1%
+Payback period: 5.54 years
+85% reduction in diesel consumption
+78% reduction in CO₂ emissions
+Bauchi Warehouses 
+Case Study Overview
+• Galadima: 17 kWp + 20 kWh 
+battery | 83.4% solar coverage | 
+US$23,650
+• Fertilizer: 2.2 kWp + 7 kWh 
+battery | 69.6% solar coverage | 
+US$5,754
+• Gidan Gona: 2.2 kWp + 8 kWh 
+battery | 67.0% solar coverage | 
+US$5,959
+Next steps, 
+Lessons 
+Learned & 
+Replicable 
+Practices
+Self- Investment using global long-term 
+arrangements with solar goods and services 
+Leverage partnerships; size systems based 
+on actual load profiles
+Combine sustainability objectives with 
+operational needs
+Focus on solutions that improve both 
+resilience and cost efficiency
+Use pilot projects to demonstrate value and 
+scale up
+Circular and Sustainable 
+Warehousing guide  
+Circular and Sustainable Warehousing: A 
+Practical Guide for the Humanitarian Sector
+Does your organization 
+have any practices in 
+place to make your 
+warehouse more 
+circular and 
+sustainable?
+Q&A
+THANK YOU!
+FOR MORE INFORMATION:
+HTTPS
+://LOGCLUSTER.ORG/WREC/GREEN-LOGISTICS
+GLOBAL.WREC@WFP .ORG
+January 2024
+Global Logistics 
+Cluster

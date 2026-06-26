@@ -1,0 +1,109 @@
+When the 
+United Arab Emirates
+ appointed Omar Sultan Al Olama as the world's first minister of state for Artificial Intelligence in 2017, he promised to turn the UAE into the world's most prepared country for artificial intelligence. Only six years later, Al Olama was listed on 
+TIME
+ magazine's inaugural TIME100 AI list and Abu Dhabi was well underway in implementing its 
+digital strategy
+.
+
+
+However, after the United States and Israel attacked Iran in February 2026, the UAE became one of Iran's 
+key targets
+: Over the course of the war, thousands of 
+Iranian missile and drone strikes
+ were aimed at local offices and data centers operated by global companies such as Amazon, Google, Microsoft and Nvidia.
+
+
+The news magazine The Conversation 
+reported
+that the 
+war
+ also raised questions about the safety of undersea cables which are essential for data centers and other digital infrastructure. Furthermore, the blockade of the 
+Strait of Hormuz
+ by 
+Iran
+, and later by the 
+United States
+, delayed hardware deliveries.
+
+
+"Data centers have long become critical infrastructure and need to be better protected just like 
+oil refineries
+ or desalination plants," Sebastian Sons, a senior researcher at the German think tank CARPO, told DW.
+Analysts point out that data centers need to be protected as critical infrastructure
+Image: Nic Bothma/Matrix Images/picture alliance
+
+
+UAE resilience
+
+
+Despite the impact of the war on the Gulf state, observers point out that not everything changed. "The political risk profile has changed, but the fundamentals haven't changed," Mohammed Suleiman, a senior fellow at the Middle East Institute in Washington, told DW. "The UAE still lies at the intersection of 
+capital flows
+ between East and West, it still has the energy, land and political will to build AI capabilities at scale," he said.
+
+
+In the past, the Gulf region has weathered different crises, from the financial crisis of the late 2000s to the 
+COVID-19 pandemic
+ and previous Gulf conflicts, all of which tested the 
+Gulf business model
+, Sebastian Sons recalls, adding that "during all these crises, the UAE has demonstrated a high level of resilience and found ways to 
+reinvent itself
+ and deal with such strategic situations." In his view, long-term damage would only occur if the Iran conflict continued for a long time and the UAE couldn't find a way to adapt its business model.
+
+
+However, it remains to be seen in what way the UAE's global compute diplomacy strategy will pivot in the short, medium and long term. In May, a planned $1 billion mega-data-centre project in Kenya was called off, 
+Business Insider Africa
+ reported.
+
+
+Academic business strategies
+
+
+It might as well be that Abu Dhabi's AI strategy is already 
+diversified
+ enough to withstand the Iran crisis. 
+
+
+At the heart of Abu Dhabi's ambition is G42, a multibillion-dollar Abu Dhabi-based conglomerate founded in 2018 that specializes in artificial intelligence and cloud computing.
+
+
+In 2019, the UAE inaugurated the Mohamed Bin Zayed University of Artificial Intelligence (MBZUAI), the world's first graduate-level university dedicated entirely to AI with the ambition of making it the "Stanford of the Middle East".
+
+
+For a while, the UAE also tried to position itself as a technological swing state between the US and China. However, this balancing act drew scrutiny from Washington and in 2023, the UAE severed all AI ties with China according to a report by the International Institute for Strategic Studies.
+
+
+At the moment, Abu Dhabi is developing the Stargate UAE project, a massive cluster of data centers for OpenAI and other US companies.
+
+
+The project covers an area the size of Monaco and is expected to be the world's largest data center outside the United States. According to various industry sources, between 35 and 58 data centers are currently operational in the UAE.
+The investigative group Bellingcat found evidence suggesting that UAE authorities repeatedly downplayed or distorted the impact of Iranian drone strikes
+Image: AFP
+
+
+Quality issues
+
+
+While UAE salaries easily compete with Silicon Valley paychecks, the UAE has yet to appear in the top tier of global 
+AI
+ engineering pools, according to a 2026 report by the Washington-based think tank Atlantic Council.
+
+
+"Despite massive investments, much of the region's AI ecosystem continues to rely on foundational models, algorithms and benchmarks developed elsewhere, making it a consumer rather than a primary producer," Fatima Abu Salem, a professor of computer science at the American University of Beirut, told DW. "This dependence is reinforced by reliance on expatriate expertise and foreign academic institutions for advanced research, training, and validation," she said.
+
+
+For example, researchers have criticized the quality of the UAE's Arabic AI models, such as Jais. Speaking on condition of anonymity, they told DW that they found results from Jais "surprisingly poor." In September 2025, the university launched "K2 Think", an open-source AI reasoning model. Yet again, independent researchers said that the performance of the K2 Think model was overstated.
+
+
+However, as observer Sebastian Sons points out "at this point, the UAE has invested so much into its AI strategy, that turning around won’t be an option." In his view, it is for the UAE much more than a nice-to-have project, it is about becoming an irreplaceable and leading key player in the field. 
+
+
+This echoes a sentence by the UAE minister of state for AI technology Omar Sultan Al Olama. As early as 2018, he already said: "
+Data
+ is the new oil." 
+The Gulf states' power play: Balancing between superpowers
+To view this video please enable JavaScript, and consider upgrading to a web browser that 
+supports HTML5 video
+
+
+This article was originally published in Arabic.

@@ -1,0 +1,144 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-26T16:11:20.665952+00:00",
+  "new_documents": 22,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/2dde8e0f96955346e6ebd81a1e1c32b6f4b3d34d6c0b11caa237e74d45d788cd.txt",
+      "metadata_path": "data/geopolitics/raw/2dde8e0f96955346e6ebd81a1e1c32b6f4b3d34d6c0b11caa237e74d45d788cd.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ad23efb36a153de3c079483ea83d39219b456cbb79d345d2261fd9519697c23a.txt",
+      "metadata_path": "data/geopolitics/raw/ad23efb36a153de3c079483ea83d39219b456cbb79d345d2261fd9519697c23a.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "‘Knowledge-Based’ Economy Facilitates Tech Transfers to Iran",
+      "url": "https://jamestown.org/knowledge-based-economy-facilitates-tech-transfers-to-iran/",
+      "text_path": "data/geopolitics/raw/3cf1187c1cd3d925c1905758bdfdbd48d06892bd1afdd03066c2b474121c4e07.txt",
+      "metadata_path": "data/geopolitics/raw/3cf1187c1cd3d925c1905758bdfdbd48d06892bd1afdd03066c2b474121c4e07.json"
+    },
+    {
+      "title": "World: From Access to Choice: How WFP is Driving Better Diets Through Behavior Change",
+      "url": "https://reliefweb.int/report/world/access-choice-how-wfp-driving-better-diets-through-behavior-change",
+      "text_path": "data/geopolitics/raw/8acc369bfbac549bf05d32a51c6aacff3c916d3d4f6544e28488f32e805b34ea.txt",
+      "metadata_path": "data/geopolitics/raw/8acc369bfbac549bf05d32a51c6aacff3c916d3d4f6544e28488f32e805b34ea.json"
+    },
+    {
+      "title": "Ukraine unleashes one of its heaviest drone bombardments, as Russia strikes Ukraine",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5872256/russia-ukraine-war-drone-strikes",
+      "text_path": "data/geopolitics/raw/fdf575e39716563a7502676c9b6ecd78065f9742cc95802a0bbee9fbf529bbe4.txt",
+      "metadata_path": "data/geopolitics/raw/fdf575e39716563a7502676c9b6ecd78065f9742cc95802a0bbee9fbf529bbe4.json"
+    },
+    {
+      "title": "Not Imaginary: The Deterrence Gap is Real and America Needs Low-Yield Nukes",
+      "url": "https://warontherocks.com/not-imaginary-the-deterrence-gap-is-real-and-america-needs-low-yield-nukes/",
+      "text_path": "data/geopolitics/raw/bed309e24ef59525b46d821c01f7573ade332fff488b9e41b94f448de5d3da6c.txt",
+      "metadata_path": "data/geopolitics/raw/bed309e24ef59525b46d821c01f7573ade332fff488b9e41b94f448de5d3da6c.json"
+    },
+    {
+      "title": "Iran slams the GCC and the US for ‘interventionist’ statement: What we know",
+      "url": "https://www.aljazeera.com/news/2026/6/26/iran-slams-the-gcc-and-the-us-for-interventionist-statement-what-we-know?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/fbf02fa11ee81052cc13b31c5eeb90f8e4f56643791069f367c0af8f90595b6d.txt",
+      "metadata_path": "data/geopolitics/raw/fbf02fa11ee81052cc13b31c5eeb90f8e4f56643791069f367c0af8f90595b6d.json"
+    },
+    {
+      "title": "Palestinians grieve for a father-to-be shot by Israeli troops the day his son was born",
+      "url": "https://www.npr.org/2026/06/26/nx-s1-5828767/israel-palestinian-man-killed-west-bank",
+      "text_path": "data/geopolitics/raw/12cedde180e8e9687b67b98b3ca98181b0658e966c76572f2977c438bf2c599d.txt",
+      "metadata_path": "data/geopolitics/raw/12cedde180e8e9687b67b98b3ca98181b0658e966c76572f2977c438bf2c599d.json"
+    },
+    {
+      "title": "Romania bolsters Black Sea fleet with Turkish-built corvette",
+      "url": "https://www.defensenews.com/global/europe/2026/06/26/romania-bolsters-black-sea-fleet-with-turkish-built-corvette/",
+      "text_path": "data/geopolitics/raw/1669dd1da6f147710f6129b7f0e5ff5c501373ad4997fd2691189288c3b29939.txt",
+      "metadata_path": "data/geopolitics/raw/1669dd1da6f147710f6129b7f0e5ff5c501373ad4997fd2691189288c3b29939.json"
+    },
+    {
+      "title": "UK June heat record broken for third day in a row as ministers urged to act",
+      "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves",
+      "text_path": "data/geopolitics/raw/29d2863e6de23e92dbaface4e4b7110d8d9b2066233683931b30cc5fdbe08202.txt",
+      "metadata_path": "data/geopolitics/raw/29d2863e6de23e92dbaface4e4b7110d8d9b2066233683931b30cc5fdbe08202.json"
+    },
+    {
+      "title": "How the Iran war impacts Abu Dhabi's AI strategy",
+      "url": "https://www.dw.com/en/how-the-iran-war-impacts-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/a5213162773568d3e99b03aa242695fc54f7e7473f2b3a7b203d70bef8175114.txt",
+      "metadata_path": "data/geopolitics/raw/a5213162773568d3e99b03aa242695fc54f7e7473f2b3a7b203d70bef8175114.json"
+    },
+    {
+      "title": "Philippines: World Vision scales up support for children and families affected by South Mindanao earthquake as severe weather compounds risks",
+      "url": "https://reliefweb.int/report/philippines/world-vision-scales-support-children-and-families-affected-south-mindanao-earthquake-severe-weather-compounds-risks",
+      "text_path": "data/geopolitics/raw/a9a29d78d217f331ac4e52c6dd2abdf36465684f469a231f204080021c5eb104.txt",
+      "metadata_path": "data/geopolitics/raw/a9a29d78d217f331ac4e52c6dd2abdf36465684f469a231f204080021c5eb104.json"
+    },
+    {
+      "title": "Philippines: World Vision scales up support for children and families affected by South Mindanao earthquake as severe weather compounds risks (pdf)",
+      "url": "https://reliefweb.int/attachments/dcbabc92-62ee-4dca-bd7e-fdd2dd1ec284/Press%20Release%20PSMER.pdf",
+      "text_path": "data/geopolitics/raw/740c6ad28a314681e2b03e20198e6f889aefc302a4817061f53097bd7965bef2.txt",
+      "metadata_path": "data/geopolitics/raw/740c6ad28a314681e2b03e20198e6f889aefc302a4817061f53097bd7965bef2.json"
+    },
+    {
+      "title": "World: Improving Humanitarian Warehousing for Sustainability, Efficiency, and Cost Savings - Presentation (pdf)",
+      "url": "https://reliefweb.int/attachments/3329f4e2-e1e0-5a27-9262-fb0a010131cc/wrec-global-info-session-circular-wh-17-june-2026.pdf",
+      "text_path": "data/geopolitics/raw/64b4476c0977ce55db1aee4606986b9d8d241f777f4381c5e22ee9926819dcb9.txt",
+      "metadata_path": "data/geopolitics/raw/64b4476c0977ce55db1aee4606986b9d8d241f777f4381c5e22ee9926819dcb9.json"
+    }
+  ],
+  "txt_before": 1420,
+  "txt_after": 1433
+}
