@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7",
-  "content_type": "text/xml",
-  "collected_at": "2026-06-27T13:13:16.251978+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.xml",
-  "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt"
+  "url": "https://www.dw.com/en/how-the-iran-war-has-disrupted-abu-dhabi-s-ai-strategy/a-77722632?maca=en-rss-en-world-4025-rdf",
+  "title": "How the Iran war has disrupted Abu Dhabi's AI strategy",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-06-26T14:36:00Z",
+  "sha256": "2075a83017c7d7d2c41e0991bb948af2c9367497d56009e37927a921067ea257",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-06-27T13:14:27.223812+00:00",
+  "text_chars": 5817,
+  "raw_path": "data/geopolitics/raw/2075a83017c7d7d2c41e0991bb948af2c9367497d56009e37927a921067ea257.html",
+  "text_path": "data/geopolitics/raw/2075a83017c7d7d2c41e0991bb948af2c9367497d56009e37927a921067ea257.txt"
 }
