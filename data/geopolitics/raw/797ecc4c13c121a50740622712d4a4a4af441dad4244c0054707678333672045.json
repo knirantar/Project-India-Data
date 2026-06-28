@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-06-28T15:14:39.866661+00:00",
-  "text_chars": 6269339,
-  "raw_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json.raw",
-  "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt"
+  "url": "https://reliefweb.int/attachments/a27d5a5e-50c4-4972-ab32-095a8daa5c67/20260628%20South%20Sudan%20Humanitarian%20Update.pdf",
+  "title": "South Sudan Humanitarian Update as of 26 June 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sun, 28 Jun 2026 11:21:05 +0000",
+  "sha256": "797ecc4c13c121a50740622712d4a4a4af441dad4244c0054707678333672045",
+  "content_type": "application/pdf",
+  "collected_at": "2026-06-28T15:15:52.978028+00:00",
+  "text_chars": 20962,
+  "raw_path": "data/geopolitics/raw/797ecc4c13c121a50740622712d4a4a4af441dad4244c0054707678333672045.pdf",
+  "text_path": "data/geopolitics/raw/797ecc4c13c121a50740622712d4a4a4af441dad4244c0054707678333672045.txt"
 }
