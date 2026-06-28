@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/a9ba0a18-1935-41e5-94cb-187d41946e35/20260627%20South%20Sudan%20Humanitarian%20Update.pdf",
+  "title": "South Sudan Humanitarian Update as of 26 June 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sun, 28 Jun 2026 11:21:05 +0000",
+  "sha256": "28b17d88bef221d1be7009fc10758bf7805971dbe77471f3e838eaa8dfef98f6",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-28T20:09:36.842485+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-28T20:09:59.544365+00:00",
+  "text_chars": 20989,
+  "raw_path": "data/geopolitics/raw/28b17d88bef221d1be7009fc10758bf7805971dbe77471f3e838eaa8dfef98f6.pdf",
+  "text_path": "data/geopolitics/raw/28b17d88bef221d1be7009fc10758bf7805971dbe77471f3e838eaa8dfef98f6.txt"
 }
