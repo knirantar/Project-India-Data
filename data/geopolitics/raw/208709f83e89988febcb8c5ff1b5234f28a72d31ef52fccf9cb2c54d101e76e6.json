@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/5f6704c4-2e7d-5919-b52a-3d5cd8512fa7/6a429a340f098d3929ecbe5f_Myanmar_Crisis__Period__01_06_26_-_07_06_26.pdf",
+  "title": "Myanmar Situation Analysis: 1/6/26 - 7/6/26 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 29 Jun 2026 16:23:01 +0000",
+  "sha256": "208709f83e89988febcb8c5ff1b5234f28a72d31ef52fccf9cb2c54d101e76e6",
   "content_type": "application/pdf",
-  "collected_at": "2026-06-29T22:50:31.823233+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-06-29T22:50:53.027038+00:00",
+  "text_chars": 257157,
+  "raw_path": "data/geopolitics/raw/208709f83e89988febcb8c5ff1b5234f28a72d31ef52fccf9cb2c54d101e76e6.pdf",
+  "text_path": "data/geopolitics/raw/208709f83e89988febcb8c5ff1b5234f28a72d31ef52fccf9cb2c54d101e76e6.txt"
 }
