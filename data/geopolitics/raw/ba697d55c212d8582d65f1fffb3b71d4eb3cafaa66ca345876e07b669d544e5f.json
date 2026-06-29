@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-06-29T19:47:03.303481+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://foreignpolicy.com/2026/06/29/nato-trump-erdogan-ankara-summit-europe-defense-russia/",
+  "title": "Can NATO Pull Off a Dull Summit?",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Mon, 29 Jun 2026 17:22:23 +0000",
+  "sha256": "ba697d55c212d8582d65f1fffb3b71d4eb3cafaa66ca345876e07b669d544e5f",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-06-29T19:47:24.386220+00:00",
+  "text_chars": 7764,
+  "raw_path": "data/geopolitics/raw/ba697d55c212d8582d65f1fffb3b71d4eb3cafaa66ca345876e07b669d544e5f.html",
+  "text_path": "data/geopolitics/raw/ba697d55c212d8582d65f1fffb3b71d4eb3cafaa66ca345876e07b669d544e5f.txt"
 }
