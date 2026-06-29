@@ -1,0 +1,120 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-06-29T17:31:33.203006+00:00",
+  "new_documents": 18,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/0689caaaedaa5091ba36ffcfee5a0ed80fbe774d26826127f8421b71fc1f4d86.txt",
+      "metadata_path": "data/geopolitics/raw/0689caaaedaa5091ba36ffcfee5a0ed80fbe774d26826127f8421b71fc1f4d86.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5b06ad218e6f6a3b33a1da51517d2e2962ec3d76fd11814ab9beaf4cfe5540ec.txt",
+      "metadata_path": "data/geopolitics/raw/5b06ad218e6f6a3b33a1da51517d2e2962ec3d76fd11814ab9beaf4cfe5540ec.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.txt",
+      "metadata_path": "data/geopolitics/raw/20894d477f950496ba3aa7e9f09d746b4760ded845733c5e2f8598dbd4a2fe7d.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.txt",
+      "metadata_path": "data/geopolitics/raw/26fa6b07a62806a59fa4af3d749670b027459fd84167fafab592221a30e689ff.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt",
+      "metadata_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.json"
+    },
+    {
+      "title": "Security Council LIVE: Spotlight on Israeli settlements in occupied Palestinian territory (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/04-11-2024-UNRWA-West-Bank-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/ec38421649f196f92f67716da5981f3693c4602a2322bc1dd8e6ed38b1512867.txt",
+      "metadata_path": "data/geopolitics/raw/ec38421649f196f92f67716da5981f3693c4602a2322bc1dd8e6ed38b1512867.json"
+    },
+    {
+      "title": "Middle East conflict leaves developing countries paying the price",
+      "url": "https://news.un.org/feed/view/en/story/2026/06/1167831",
+      "text_path": "data/geopolitics/raw/bc3c3b955bbf9d24781aa344b22d12077932cae08162c5f29ce60074db751510.txt",
+      "metadata_path": "data/geopolitics/raw/bc3c3b955bbf9d24781aa344b22d12077932cae08162c5f29ce60074db751510.json"
+    },
+    {
+      "title": "Poland orders Swedish submarines to bulk up navy",
+      "url": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/587948ac3e477ce1f053e006e834c60f78990358cb31814368e4d9b95de907ee.txt",
+      "metadata_path": "data/geopolitics/raw/587948ac3e477ce1f053e006e834c60f78990358cb31814368e4d9b95de907ee.json"
+    },
+    {
+      "title": "Nato chief says he is confident Burnham will stick to defence spending target",
+      "url": "https://www.theguardian.com/politics/2026/jun/29/nato-chief-confident-burnham-defence-spending",
+      "text_path": "data/geopolitics/raw/269f4be8ecdd364eabd0e18d305420f6dccf0c05ba65c1c636ac863bbc049fea.txt",
+      "metadata_path": "data/geopolitics/raw/269f4be8ecdd364eabd0e18d305420f6dccf0c05ba65c1c636ac863bbc049fea.json"
+    },
+    {
+      "title": "The US-Iran MoU looks at managing the pain rather than ending the war",
+      "url": "https://www.aljazeera.com/news/2026/6/29/the-us-iran-mou-looks-at-managing-the-pain-rather-than-ending-the-war?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/4c4ff7294c15fa04c8c8a9e638d5ef1522e30f4d81577def683e2056d8e1c9e2.txt",
+      "metadata_path": "data/geopolitics/raw/4c4ff7294c15fa04c8c8a9e638d5ef1522e30f4d81577def683e2056d8e1c9e2.json"
+    },
+    {
+      "title": "Middle East conflict leaves developing countries paying the price (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-IFAD-RPSF-Mauritania.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/92feb87a4cf9e5773f99ad81667d9831ccbd1af4c00f4b652a0628d64975db92.txt",
+      "metadata_path": "data/geopolitics/raw/92feb87a4cf9e5773f99ad81667d9831ccbd1af4c00f4b652a0628d64975db92.json"
+    },
+    {
+      "title": "Small Creatures, Big Mission: Bugapalooza Connects Science to Military Readiness",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4528907/small-creatures-big-mission-bugapalooza-connects-science-to-military-readiness/",
+      "text_path": "data/geopolitics/raw/9bccdf76890896274d636806ccc897a949a01803ae436b0d10550e35439c3baf.txt",
+      "metadata_path": "data/geopolitics/raw/9bccdf76890896274d636806ccc897a949a01803ae436b0d10550e35439c3baf.json"
+    },
+    {
+      "title": "Poland awards $4.8 billion A26 submarine deal to Saab",
+      "url": "https://www.defensenews.com/global/europe/2026/06/29/poland-awards-48-billion-a26-submarine-deal-to-saab/",
+      "text_path": "data/geopolitics/raw/9027e0aa09c6e63df28fa3f3d12f9daea7242b58ca4d7f36c996564b279761c1.txt",
+      "metadata_path": "data/geopolitics/raw/9027e0aa09c6e63df28fa3f3d12f9daea7242b58ca4d7f36c996564b279761c1.json"
+    }
+  ],
+  "txt_before": 1478,
+  "txt_after": 1486
+}

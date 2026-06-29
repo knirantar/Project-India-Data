@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d",
-  "content_type": "text/html",
-  "collected_at": "2026-06-29T17:31:06.537116+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.html",
-  "text_path": "data/geopolitics/raw/33e2e199866a2ed5ec6939281b62d996eb1f865e47314e108b2ff83200ccd96d.txt"
+  "url": "https://www.dw.com/en/poland-orders-swedish-submarines-to-bulk-up-navy/a-77758193?maca=en-rss-en-world-4025-rdf",
+  "title": "Poland orders Swedish submarines to bulk up navy",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-06-29T16:32:00Z",
+  "sha256": "587948ac3e477ce1f053e006e834c60f78990358cb31814368e4d9b95de907ee",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-06-29T17:31:20.904213+00:00",
+  "text_chars": 2945,
+  "raw_path": "data/geopolitics/raw/587948ac3e477ce1f053e006e834c60f78990358cb31814368e4d9b95de907ee.html",
+  "text_path": "data/geopolitics/raw/587948ac3e477ce1f053e006e834c60f78990358cb31814368e4d9b95de907ee.txt"
 }
