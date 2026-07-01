@@ -1,0 +1,40 @@
+KYIV, Ukraine — A Ukrainian drone unit has posted a video reportedly showing American-made Merops interceptors running down an Iranian-designed Shahed drone, fresh proof the cheap weapon works as the U.S. Army moves to build a version it can field at scale.
+Ukraine’s 427th Separate Unmanned Systems Regiment, known as Rarog, posted the unverified night-vision clip to its 
+Telegram
+ channel last month showing an interceptor closing on a one-way attack drone and a flash at the moment of contact. The unit flies Ukrainian-built interceptors alongside foreign systems, and did not specify which it used.
+Foreign Policy Research Institute senior fellow Rob Lee shared the clip and called it the first public video he believed of Perennial Autonomy’s Merops, the American interceptor, “targeting Shahed/Geran one-way attack drones.”
+The footage lands as the Army is moving to build a version of that drone it can call its own.
+On June 23, the Army opened a Low-Cost Interceptor program at an industry day in Arlington, Virginia, seeking complete systems for under $1 million and government-owned designs it can hand to any manufacturer, with a first live-fire demonstration set for the fall.
+The program would let the Army break the interceptor into pieces, buy or lease the design, and use contract manufacturers to build it — so it owns the weapon rather than depending on a single prime, Army Secretary Dan Driscoll said in May.
+The Army does not own the Merops design and cannot produce them at will. The new program would change that, letting it hand a government-owned blueprint to any manufacturer rather than buy from only a single contracting company.
+The vendor that the U.S government appears to be seeking independence from in this case is Perennial Autonomy, the maker of Merops.
+Former Google chief executive Eric Schmidt launched the defense startup in 2023 and signed a three-year, 
+$500 million contract
+ with the Pentagon in May — the largest single counter-drone deal it’s ever awarded — making the company uniquely influential to military supply chains.
+The Pentagon turned to Merops after burning through hundreds of Patriot missiles defending against Iranian Shaheds, each Patriot costing more than $3 million and drawing down stockpiles Ukraine has long depended on for its own air defense.
+The Army bought 13,000 Merops in eight days after the Iran war began in late February, at roughly $15,000 each, Driscoll told Congress in April.
+“They protected U.S. troops,” the Army secretary told lawmakers, defending the cost as a fraction of what a Shahed costs to produce. “We will make that trade all day long.”
+A Merops costs roughly $15,000 against a Shahed that runs $30,000 to $50,000.
+The interceptor
+ is a roughly three-foot, fixed-wing drone that flies up to 174 mph (280 km/h) and homes in on its target using thermal radar or radio-frequency sensors when its links are jammed.
+It has downed more than 4,000 Russian drones in Ukraine, German production partner Twentyfour Industries said.
+The system has conservatively accounted for 
+40% of all Shahed destruction in Ukraine
+, Brig. Gen. Curtis King, commanding general of the 10th Army Air and Missile Defense Command, told reporters at a Polish base in November.
+NATO has already built Merops interceptors into the forces protecting its eastern flank.
+Romania folded Merops into its national air defenses on June 29, joining Poland in fielding it, and Lithuania bought 48 interceptors earlier this year. Officials said they are planning a deployment along the Danube corridor, where Russian drones have repeatedly crossed from the war next door, according to 
+Reuters
+.
+But the system still faces technical difficulties.
+In mid-June, footage circulated of Merops interceptors failing to down a Russian drone, and a Romanian field test in April logged a failure the military attributed to “target maneuvering,” according to Greek publication
+ Pronews
+. The outlet still called Merops one of the most effective low-cost tools in the drone war.
+Ukraine’s military also flies an array of homegrown drones that run
+ $1,000 to $3,000
+ a unit and have downed thousands of Russian drones since 2024, on a cost exchange that runs as steep as
+ 85-to-1
+ in Kyiv’s favor.
+Kyiv asked the Pentagon last August to help scale that manufacturing, offering to
+ co-produce its cheap interceptors
+ for the U.S.
+Washington declined.
