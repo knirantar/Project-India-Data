@@ -1,0 +1,78 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-01T08:06:06.213218+00:00",
+  "new_documents": 11,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/9568055e3483a9f771195ffbc03526de22ed46840663a149ada84db3b017d7ba.txt",
+      "metadata_path": "data/geopolitics/raw/9568055e3483a9f771195ffbc03526de22ed46840663a149ada84db3b017d7ba.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ddd9aad1876d644f7dfb6e0950f15d433ed51e8f2f355e5d30bcbe0de61b17cc.txt",
+      "metadata_path": "data/geopolitics/raw/ddd9aad1876d644f7dfb6e0950f15d433ed51e8f2f355e5d30bcbe0de61b17cc.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/ac686a37087663f693d4558769e003658b190a9592bb94559ac339cebe6291bc.txt",
+      "metadata_path": "data/geopolitics/raw/ac686a37087663f693d4558769e003658b190a9592bb94559ac339cebe6291bc.json"
+    },
+    {
+      "title": "Democratic socialist Kiros defeats longtime incumbent in Colorado primary",
+      "url": "https://www.aljazeera.com/news/2026/7/1/democratic-socialist-kiros-defeats-longtime-incumbent-in-colorado-primary?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/790e323a1efb3d0cd281778dcec9f82377e0967f034075c42639d980ba03b17f.txt",
+      "metadata_path": "data/geopolitics/raw/790e323a1efb3d0cd281778dcec9f82377e0967f034075c42639d980ba03b17f.json"
+    },
+    {
+      "title": "Starmer to take PMQs as he faces backlash over ‘poisoned chalice’ defence investment plan – UK politics live",
+      "url": "https://www.theguardian.com/politics/live/2026/jul/01/keir-starmer-andy-burnham-labour-defence-investment-plan-pmqs-kemi-badenoch",
+      "text_path": "data/geopolitics/raw/d69453f4502c0df97dee108035daa58b2794898dd305e13865c18ef5f6ec0cc9.txt",
+      "metadata_path": "data/geopolitics/raw/d69453f4502c0df97dee108035daa58b2794898dd305e13865c18ef5f6ec0cc9.json"
+    }
+  ],
+  "txt_before": 1527,
+  "txt_after": 1530
+}
