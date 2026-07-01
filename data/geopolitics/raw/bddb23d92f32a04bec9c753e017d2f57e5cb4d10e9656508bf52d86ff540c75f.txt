@@ -1,0 +1,1235 @@
+1 
+OPERATION UPDATE 
+Cuba | Hurricane Melissa 
+ 
+Emergency appeal №: MDRCU013 
+Emergency appeal launched: 30/10/2025 
+Operational Strategy published: 17/11/2025 
+Glide №: 
+FL-2025-000201-CUB 
+Operation update #4 
+Date of issue: 30/06/2026  
+Timeframe covered by this update:  
+From 30/10/2025 to 30/04/2026 
+Operation timeframe: 24 months 
+(30/10/2025 – 31/10/2027) 
+Number of people being assisted: 100,000 
+Funding requirements (CHF):   
+CHF 18 million through the IFRC Emergency Appeal 
+CHF 19.5 million Federation-Wide 
+DREF amount initially allocated:  
+CHF 997,990 
+To date, this Emergency Appeal, which seeks 18,000,000 Swiss francs, is 29.8% funded1. Further funding contributions are 
+needed to enable the Cuban Red Cross, with the support of the IFRC, to continue to address the growing humanitarian needs 
+of the communities affected by Hurricane Melissa in Cuba  and the compounded effects of increasing health risks and 
+persisting energy constraints. 
+ 
+Distribution in Cauto Cristo, Granma Province. Source: Cuban Red Cross.   
+ 
+1 Including soft pledges (see Funding section).
+2 
+A. SITUATION ANALYSIS  
+ 
+Description of the crisis  
+ 
+Melissa originated as a tropical wave on 25 October 2025 and rapidly intensified into a Category 5 storm by 28 
+October, reaching sustained winds of 185 mph (295 km/h) and a central pressure of 892 millibars, ranking it among 
+the most powerful hurricanes ever recorded in the Caribbean basin (NOAA, 2025). After striking Jamaica as a Category 
+5 hurricane, Melissa made landfall in eastern Cuba on 29 October as a Category 3 hurricane with sustained winds of 
+125 mph (195 km/h). The system produced rainfall totals  of 10–25 inches (250–635 mm), with localised peaks of 15 
+inches at Charco Redondo and 14 inches at Las Villas Reservoir, causing severe flooding, landslides, and significant 
+storm-surge impacts across the provinces of Granma, Santiago de Cuba, Holguín, an d Guantánamo. Close to 2.2 
+million people were affected, with no fatalities reported (OCHA, 2025a).  
+Cuban authorities, supported by the Cuban Red Cross (CRC), undertook extensive preparedness measures. The 
+provinces of Guantánamo, Santiago de Cuba, Holguín, Granma, Las Tunas, and Camagüey were placed under the 
+highest alert level, more than 735,000 peopl e were evacuated, and approximately 120,000 sought shelter in state 
+facilities (United Nations System in Cuba, 2025). The impact on infrastructure and essential services was widespread. 
+More than 215,000 homes were damaged or destroyed – a figure potentially rising to 300,000 – affecting an estimated 
+645,000 people, half of whom are considered vulnerable, with approximately 2,669 people still displaced as of mid -
+December 2025 (IOM, 2025). Of the 642 healthcare institutions that sustained damage, 235 have si nce been 
+rehabilitated (PAHO/WHO, 2026a). A total of 2,117 educational centres were affected, disrupting schooling for over 
+670,000 students (OCHA, 2025b). Around 450,000 people lacked access to safe water in the immediate aftermath 
+(OCHA, 2025c). Livelihoods were also heavily impacted: at least 158,000 hectares of crops were damaged or destroyed 
+– including grains, cassava, plantains, and coffee – alongside significant losses to fishing vessels and livestock (OCHA, 
+2025b; IOM, 2025).  
+Recovery has been particularly challenging due to pre-existing structural vulnerabilities and the cumulative effects of 
+prior disasters, including Hurricanes Oscar and Rafael in 2024, from which many communities had not yet fully 
+recovered (IFRC, 2025). Cuba has faced four consecutive years of significant shocks without a sustained recovery 
+window, contributing to a marked deterioration in socioeconomic conditions. Between 2019 and 2025, key health 
+indicators have deteriorated: infant mortality increased from 5.0 to 9.9 per 1,000 live births; maternal mortality from 
+37.4 to 44.1 per 100,000 live births; and the low-birth-weight rate from 5.4% to 7.8% (United Nations System in Cuba, 
+2026; MINSAP, 2025). Communicable diseases have als o increased, with tuberculosis rising from 5.7 to 12.2 per 
+100,000 inhabitants, syphilis from 38.1 to 72.3, and hepatitis A from 3.4 to 25.9 per 100,000 inhabitants (United 
+Nations System in Cuba, 2026). Food production has declined by more than 50% betwee n 2021 and 2025, while the 
+resident population is estimated to have decreased by approximately 14 –18% due to sustained outward migration 
+(United Nations System in Cuba, 2026).  
+The situation has been further aggravated by concurrent outbreaks of dengue, Oropouche, and chikungunya, 
+declared by Cuba's Ministry of Public Health (MINSAP) in October 2025. A total of 27,755 cases of Oropouche, 30,894 
+of dengue, and 52,674 of chikungunya have been reported nationwide (United Nations System in Cuba, 2026). Heavy 
+rainfall following the hurricane intensified mosquito breeding and accelerated disease transmission, placing 
+additional pressure on the already constrained health system (OCHA, 20 25d). Contributing factors include 
+deteriorating environmental hygiene, persistent shortages of medicines and diagnostic reagents, and a reduced
+3 
+health workforce. Approximately 2 million people with hypertension, 1 million with diabetes, and 1 million with 
+asthma have experienced disruptions in treatment, increasing the risk of complications (United Nations System in 
+Cuba, 2026).  
+Cuba is also experiencing severe energy and fuel constraints that have become a dominant compounding factor 
+across all sectors. Cuba's domestic oil production covers only around 40% of estimated daily demand of 100,000 
+barrels, leaving the system highly exposed to external supply disruptions (CFR, 2026). Since January 2026, disruptions 
+in petroleum product imports – linked to broader geopolitical dynamics and international market conditions – have 
+sharply reduced fuel availability nationwide (ACAPS, 2026). The national electricity grid has experienced recurring 
+failures, including at least three complete collapses between late 2025 and March 2026; during the most severe 
+episode, on 16 March, approximately 10 million people were left without electricity (OCHA /UNCT, 2026). Daily power 
+cuts have lasted between 12 and 20 hours, with some areas experiencing outages of 48 –72 hours or more during 
+grid-collapse events (ACAPS, 2026). Nighttime light reflectance data indicate a 38.5% year -on-year reduction in light 
+output across Cuba, with a 34.6% drop in March 2026 alone (ACAPS/NASA, 2026).  
+The effects of these energy and fuel constraints are wide -ranging and cross -cutting. With more than 80% of Cuba's 
+water pumping infrastructure electricity-dependent, prolonged blackouts are severely affecting access to safe water, 
+sanitation, and hygiene (IFRC, 2026). Close to one million people depend on water tanker trucks, many of which face 
+operational limitations due to reduced fuel availability (OCHA, 2026). Solid waste collection has been significantly 
+reduced in many areas, heightening public health  risks. The health system is under sustained pressure: between 
+January and March 2026, approximately 96,387 surgical procedures were not carried out, including over 11,000 
+involving children; all 46 blood banks have lost operational capacity; and cold chain failures are affecting the national 
+immunisation programme and placing at risk the care of 32,000 pregnant women, 2,888 dialysis patients, and 28,000 
+cancer patients undergoing oncological treatment (OCHA/UNCT, 2026; United Nations System in Cuba, 2026).   
+In the social sphere, reduced access to food, essential services, and income has deepened existing vulnerabilities. As 
+of 2024, 29% of the Cuban population were eating only two meals a day and 4% only one (DW, 2025). In the first 
+quarter of 2026, 115 protest events were recorded nationwide – the highest number since monitoring began in 2018 
+– concentrated in March and linked to prolonged blackouts, food shortages, and medicine scarcity (ACLED, 2026). 
+These dynamics reflect the convergence of compounding pre ssures: the energy and fuel constraints, the ongoing 
+recovery needs in communities affected by Hurricane Melissa, and the persistent deteriorating health situation 
+together place Cuban communities – particularly in the eastern provinces and those recently affected by arboviruses 
+and hepatitis A outbreaks – at heightened and escalating risk.
+4 
+DISASTER OVERVIEW 
+ 
+People 
+In Need 2.2 million 
+ 
+People Still 
+Displaced 2,7602 
+ 
+Educational 
+Centres 
+Damaged 
+2,117 
+ 
+Healthcare 
+Institutions 
+Damaged 
+642 
+ 
+Households 
+Damaged 215,000 
+ 
+Crops 
+Damaged 
+(Hectares) 
+158,000 
+ 
+Fatalities due 
+to Arboviral 
+Diseases 
+55 
+ 
+Confirmed 
+Fatalities 0 
+ 
+ 
+Summary of response  
+ 
+Overview of the host National Society and ongoing response  
+The Cuban Red Cross (CRC) maintains a nationwide presence with 39,648 volunteers organised across 15 
+departmental and 183 local branches. It is integrated into the National Health System and works in close coordination 
+with the National Civil Defence System and the Ministry of Public Health (MINSAP). Through its Operations and Relief 
+Department, the CRC leads disaster relief efforts and manages prevention, preparedness, response and recovery 
+activities at the community level, including Restoring Family Links (RFL).  
+ 
+The CRC is an active member of the Civil Defence Council and plays a key role in Cuba’s disaster management 
+structure. Its collaboration with the National Civil Defence System and MINSAP ensures a unified approach to 
+emergency preparedness and response. This partnership enables joint planning and execution of mass evacuations, 
+shelter management, and health interventions during disasters. The CRC also coordinates with international actors 
+such as the UNETE group to strengthen response capacity.  
+ 
+Ahead of Hurricane Melissa, CRC mobilised staff and volunteers 72 hours before landfall and initiated evacuations on 
+26 October  2025. Since then, 4,115 volunteers have supported the operation,  with 1, 333 volunteers still active in 
+distributions and psychosocial activities. To date, 741 household have received essential shelter and household items, 
+(including tarpaulins, shelter toolkits, kitchen kits and solar lamp ) as well as information on safe shelter practices . 
+Community health and vector -control activities have reached over 1, 542 people and 651 families have received 
+hygiene kits and hygiene -promotion messages.  In addition, 19 CRC staff members and 452 volunteers have been 
+trained in Psychological First Aid (PFA) and community -based health and first aid  (CBHFA) to expand support in 
+affected communities, while more than 2,680 people have received psychosocial support.  
+ 
+Needs analysis 
+ 
+Throughout 2025 and  into the current reporting period, Cuba has faced multiple, overlapping shocks, including 
+drought, recurrent disease outbreaks ( Dengue, Zika, Chikungunya and Oropouche), the lingering impact s of an 
+earthquake and most recently, Hurricane Melissa, which caused extensive destruction in the eastern provinces  as 
+ 
+2 Most recent data as of 17 December 2025: PAHO, Regional Situation Report – Hurricane Melissa, Sitrep No. 7, 27 January 2026,  
+paho-regional-sitrepmelissa-v2.pdf.
+5 
+well as arboviral and hepatitis A outbreaks i n provinces such as Matanzas . While recovery from the hurricane is 
+ongoing, the country is simultaneously experiencing a sharp socio -economic deterioration driven by barriers to fuel 
+availability. Fuel shortages have become the primary systemic shock, triggering cascading effects across all sectors of 
+the economy and public services. In response, the Cuban government has activated a national contingency plan to 
+address acute energy and fuel constraints.  
+ 
+Political and economic dynamics, fuel scarcity and the decline in tourism are collectively pushing the country towards 
+heightened fragility, with a significant risk of economic collapse, breakdown of essential health and water systems, 
+severe degradation of sanitation services and major  disruption of food supply chains. About two months after fuel 
+cuts began, drastic effects are already noticeable in all sectors in which the Cuban Red Cross and the IFRC are 
+operating.  
+ 
+Health  
+Health needs are heightened  due to the combined impact of Hurricane Melissa, ongoing disease outbreaks and 
+nationwide energy shortages, as well as limited availability of medicines and medical supplies. Damage to 642 health 
+facilities, along with losses of medical equipment, disrupted road access, and shortages of essential medicines have 
+significantly constrained service delivery  nationwide. These challenges are compounded by widespread and 
+prolonged electricity outages, which interrupt basic healthcare functions, limit diagnostic c apacity, and restrict 
+emergency response. Authorities have prioritised medical emergencies, key public health programmes such as 
+mother and child health  and oncological treatments, as well as  fuel for domestic production of essential medicines 
+but maintaining minimum functionality across facilities remains difficult.  
+ 
+The health situation is further strained by an arboviral disease outbreak declared by the Ministry of public Health in 
+October 2025, with widespread circulation of denque, Oropouche and chikungunya. More than 47,750 cases have 
+been recorded and 55 reported fatalities.3 Limited access to fogging equipment, sprayers and insecticides, combined 
+with low community awareness, is hindering vector -control efforts. Illness, hospitalization and loss of income are 
+contributing to psychological distress and heightened economic vulnerability. By early 2026, both suspected and 
+confirmed cases show a sustained decline across all regions, although the reduction is less in the eastern provinces 
+(those most affected by Hurricane Melissa).4 While the epidemic peak appears to be receding, significant health risks 
+persist due to environmental and structural vulnerabilities in the country  and scarcity of medicines and medical 
+supplies.  
+ 
+Electricity instability has severely disrupted health-service continuity. Power cuts compromise cold-chain systems for 
+vaccines and temperature -sensitive medicines, threaten neonatal and intensive -care equipment, and place dialysis 
+patients and people dependent on artificial breathing machines at immediate risk. According to the minister of public 
+health, by April 2026 96,387 people, including 11,193 children, are currently on the national surgical waiting list, but 
+energy restrictions are forcing non-urgent procedures to be postponed in favour of oncology and life-saving surgeries. 
+Around 30,000 children may miss timely vaccinations despite available stock, as intermittent refrigerated transport 
+cannot be assured. An estimated 32,000 pregna ncies require essential diagnostic ultrasounds that are increasingly 
+difficult to guarantee. Furthermore, 117,000 oncological patients await treatment, from which 16,000 radiotherapy 
+ 
+3 CubaHeadlines, 20 December 2025, https://www.cubaheadlines.com/articles/317085. 
+4 Cubadebate, Cuba Avanza en el control de las arbovirosis, 28 January 2026, 
+http://www.cubadebate.cu/noticias/2026/01/28/cuba-avanza-en-el-control-de-las-arbovirosis/.
+6 
+patients and 12,000 chemotherapy patients  people face critical risks due to unreliable power supply  and lack of 
+medicines and medical supplies.  
+ 
+Access to medicines continues to deteriorate. The Cuban biopharmaceutical industry, responsible for 62% of the 
+essential medicines list, faces continued shortages of raw materials due to constraints linked to international oil 
+supply and international supply chains.  Hospitals and pharmacies continue to face acute shortages, while parallel 
+markets, largely supplied through diaspora networks, are expanding. These informal channels can create health and 
+safety risks due to their uncertain origin and storage co nditions, which may potentially affect the safety and 
+effectiveness of medicines.  Only households with sufficient financial means can purchase medicines through these 
+informal channels5. 
+ 
+Interruptions in water access  due to the prolonged energy and fuel limitations  affect hygiene routines and the 
+continuity of health services, further heightening risks for vulnerable populations, especially in provinces recovering 
+from Hurricane Melissa, arboviral outbreaks and other infectious diseases, such as Hepatitis A . Prolonged blackouts, 
+lack of connectivity, lack of sleep  and hygiene conditions compounded by rising temperatures affect stress levels of 
+the population signalling an increase in protection and mental-health needs. 
+ 
+Overall, the fragility of the health system requires urgent support to sustain primary health care, protect essential 
+public-health functions, restore cold -chain capacity and safeguard critical services such as dialysis, oncology and 
+neonatal care. 
+ 
+Water, Sanitation, and Hygiene (WASH)  
+The damage done by Hurricane Melissa to water infrastructure, including 201 facilities and 97 underground systems, 
+has reduced access to safe drinking water, while electricity-dependent pumping systems remain highly unstable due 
+to electricity instability.  Approximately 86% of the population relies on electric pumping to access water, leaving 
+communities vulnerable to prolonged service interruptions. In many areas, water cuts have lasted between 5 and 42 
+days. Around 700,000 water-delivery cistern trucks are no longer fully operational. Although national authorities have 
+prioritised fuel allocation for water supply, outages and resource shortages continue to limit service continuity.  
+ 
+Electricity instability further threatens water quality. Outages affect water treatment processes and pumping stations, 
+reducing water availability and compromising hygiene conditions at household and facility levels. Emergency 
+purification plants are operating but reach only a fraction of affected populations. The fragility of water infrastructure 
+means that even short-duration power outages can result in prolonged supply interruptions. Frequent electricity cuts 
+and voltage fluctuations are damaging pumpin g equipment, while aging infrastructure and leakages  further reduce 
+system efficiency. As a result, localized failures rapidly escalate into broader service disruptions, leaving affected 
+populations without clear timelines for service restoration.  At national level , 87% of water pumping systems are 
+dependent on the National Electrical System, which with the current electric and fuel constraints impact up to 2.3 
+million people due to lack of fuel and energy. Water pumping stations at municipal level only work 2-3 hours per day, 
+hindering the filling of tanks and reservoirs and above all the access to safe water for large parts of the population 6. 
+ 
+Solid-waste management has continued to deteriorate noticeably. Fuel shortages have disrupted waste -collection 
+services, leading to the accumulation off uncollected waste and debris, particularly in provinces impacted by 
+ 
+5 Cubadebate. Control y fiscalización: La respuesta del Minsap al mercado ilegal de medicamentos. 23 December 2025. Cubadebate 
+6 Cubadebate. ¿Qué acciones implementan los sectores eléctrico, industrial e hidráulico ante el déficit de combustibles?. 26 March 
+2026. Cubadebate
+7 
+Hurricane Melissa and arboviral outbreaks, where  potential breeding grounds for vectors have increased  at make-
+shift garbage dumps. This has resulted in the disruption of sanitation services, increased vector -borne disease risks 
+and worsening environmental health conditions.  
+ 
+The current conditions, reduced water access, sanitation breakdown and limited hygiene services, significantly 
+heighten the risk of disease outbreaks, increasing exposure to waterborne and vector -borne diseases particularly 
+among children and vulnerable groups. Immediate support is needed to restore damaged systems, strengthen 
+hygiene promotion to prevent the increasing public health risks as well as to  expand purification capacity as well as 
+integrating alternative power sources to ensure operativity of pumping systems.  
+ 
+Recent reports indicate the emergence of localized hepatitis outbreaks in Matanzas —one of the priority provinces 
+under the arboviral DREF and a key area affected by Hurricane Melissa. Cases have been identified across several 
+municipalities, with clusters concentrated in urban and peri -urban communities , straining a system already facing 
+constraints that affect continuity of services. Given that hepatitis is transmitted through contaminated water and poor 
+sanitation, this development highlights the deterioration of WASH conditions and confirms the existence of multiple 
+concurrent public health threats affecting the same populations. T he co -occurrence of arboviral and waterborne 
+diseases in the same geographic areas reinforces the need to integrate these provinces into the Emergency Appeal’s 
+scope, ensuring a comprehensive response to overlapping and interrelated health risks without ex panding the 
+operational footprint. 
+ 
+Shelter  
+Hurricane Melissa damaged or destroyed approximately 215,000 homes7, displacing families into overcrowded 
+schools, universities and temporary collective centres. Pre-existing housing deficits and slow reconstruction 
+exacerbate exposure to hazards, leaving households increasingly exposed to storms and prolonged rainfall. In the 
+most affected provinces, large numbers of homes remain unrepaired, including an estimated 17,000 in Holguín, 9,100 
+in Santiago de Cuba and 8,100 in Granma.8  
+ 
+Chronic under-maintenance is intensifying shelter-related risks, contributing to structural degradation, poor hygiene 
+conditions, roof deterioration, leaks and persistent humidity. These factors heighten the likelihood of respiratory 
+illnesses, arthritis, fungal infections and skin diseases.  
+ 
+Shelter support is still needed in the eastern provinces to provide safe and durable shelter solutions that restore 
+dignity and reduce overcrowding and associated protection risks, particularly for women, children and people with 
+disabilities.  
+ 
+Livelihoods  
+Hurricane Melissa caused extensive damage to livelihoods across affected provinces, with an estimated 158,000 
+hectares of crops affected .9 Damage to fishing vessels and livestock has further reduced food availability and 
+undermined household income sources. These impacts coincide with severe disruptions to the national power 
+ 
+7 OCHA, Cuba: Seis Semanas después del huracán Melissa, 23 December 2025, https://reliefweb.int/node/4192553.  
+8 Granma, Los nuevos Techos, 26 Januari 2026, https://www.granma.cu/cuba/2026-01-26/los-nuevos-techos-26-01-2026-22-01-
+30. 
+9 OCHA, Cuba: Hurricane Melissa, Flash Update No. 7, 15 November 2025, https://reliefweb.int/node/4187084.
+8 
+system, where widespread outages and fuel shortages continue to affect food storage, distribution and market 
+operations.  
+ 
+Constraints in food preparation and preservation at household level have deepened due to prolonged power cuts. 
+Domestic public transport systems have been significantly curtailed, limiting mobility, reducing economic activity and 
+affecting access to markets. Rising costs of transport, food and basic goods are placing additional pressure on 
+households, amplifying vulnerability and increasing the likelihood of negative coping mechanisms -such as reducing 
+food intake- as well as humanitarian needs.  
+ 
+National agricultural production is expected to decline further due to shortages of pesticides and limited fuel 
+availability for transport and processing. Reports already indicate agricultural products going to waste in warehouses. 
+Under current financial and fuel limitations, domestic food production  faces significant risks , food imports are 
+expected to decrease in quantity and diversity, dietary quality is likely to deteriorate and household purchasing power 
+will continue to erode.  
+ 
+Nutritional risks  are increasing due to the loss of livelihoods  as main sectors of the economy , such as  tourism, 
+continue declining10 (a reduction of 56% of international travellers by April 2026 compared to 2025). Also, disruptions 
+in international supply chains limit food availability, which in combination of an  almost null food storage capacity at 
+household level due to lack of energy and fuel , are increasing restrictions for food consumption. This is particularly 
+critical with at risk groups such as elderly people and children. Priority actions include strengthening recovery actions 
+with a focus on livelihoods in communities affected by Hurricane Melissa.  
+ 
+Protection, Gender, and Inclusion (PGI)  
+The humanitarian situation in Cuba continues to deteriorate due to the convergence of structural vulnerabilities and 
+recent emergencies. Hurricane Melissa caused significant damage to homes, schools and roads, directly affecting 
+spaces that serve as protec tive environments for children and adolescents, and limiting safe access to education, 
+basic services and community support networks. At the same, the energy and fuel shortages are heightening everyday 
+protection risks, particularly in communities most aff ected by the hurricane and provinces that are epidemiological 
+hotspots with high transmission of arboviral diseases and are facing additional public health risks . Prolonged and 
+repeated blackouts disrupt domestic life, mobility and personal s afety, forcing people to move in complete darkness 
+using torches or candles to carry out basic activities, which increases exposure to accidents, violence and harassment. 
+These conditions disproportionately affect women, adolescents and older people, deepening existing inequalities and 
+further weakening the capacity of communities to cope with and recover from the ongoing emergency. 
+ 
+Cuban Red Cross staff and volunteers face similar challenges. Fuel shortages limit their ability to mobilise teams, 
+conduct community visits and ensure safe travel following trainings or field activities. Despite these barriers, 
+community participation rem ains essential. Communities continue to demonstrate strong local organisation and 
+willingness to engage, but require support to mitigate protection risks, ensure safe access to essential services and 
+strengthen collective-care networks in the face of increasing insecurity. 
+ 
+Disaster Risk Reduction (DRR)  
+Cuba remains highly exposed to climate -related hazards, particularly hurricanes, heavy rainfall and coastal flooding, 
+which continue to affect communities recovering from the impact of Hurricane Melissa. Recent assessments by 
+ 
+10 ONEI, Cuba: Arrival of international travelers, April 2026, https://www.onei.gob.cu/
+9 
+United Nations agencies and humanitarian partners in the country  indicate that  damage to housing, basic 
+infrastructure and public services has increased the vulnerability of many households, particularly in eastern 
+provinces where recovery remains ongoing. At the same time, nationwide energy and fuel shortages have disrupted 
+critical services such as water supply, waste management and transportation, further reducing the coping capacity of 
+communities and local institutions ahead of new shocks.  
+ 
+These overlapping pressures create a complex risk environment in which communities face recurrent hazards while 
+still recovering from previous impacts. Strengthening disaster risk reduction therefore remains critical. Priority actions 
+include reinforcing community-based early warning systems, strengthening preparedness and contingency planni ng 
+at community level, promoting safer and more resilient housing practices, and supporting risk awareness and 
+preparedness activities led by the Cuban Red Cross. These efforts aim to enhance community resilience and reduce 
+the impact of future climate-related events. 
+ 
+Operational risk assessment 
+ 
+Below is an updated risk analysis, building on the version included in the Operational Strategy. It reflects the realities 
+encountered during implementation and outlines the mitigation measures undertaken to prevent, reduce, or address 
+the consequences of identified risks. It also incorporates newly emerging risks that were not previously considered.  
+Risks previously identified in the Operational Strategy 
+Risk Reality during implementation 
+period Mitigation actions 
+1. Prolonged operations and 
+overlapping emergencies (e.g. 
+hurricanes, virus outbreak, 
+earthquake) may lead to volunteer 
+fatigue and reduced capacity for 
+sustained engagement. 
+- The implementation of activities of 
+the Emergency Appeal coincided 
+geographically and chronologically 
+with DREF activities for the 
+arboviral epidemic in Granma, 
+Santiago de Cuba and Holguín, 
+increasing volunteer workload. 
+- The National Society prioritised 
+DREF activities (those feasible 
+under the context) and 
+rescheduled activities from the 
+Emergency Appeal. 
+- The CRC reinforced MHPSS 
+activities for volunteers. 
+- Rotations and rest periods were 
+introduced to protect volunteer 
+well-being and maintain long-term 
+commitment. 
+2. Exposure to vector-borne diseases 
+and unsafe environments during 
+community work may increase 
+infection or accident risk among 
+volunteers or IFRC staff. 
+• Several mild and moderate cases 
+of dengue and chikungunya were 
+recorded among Cuban Red Cross 
+leadership, staff and volunteers.  
+• No accidents involving personnel 
+were reported during operational 
+activities. 
+• Fuel shortages and prolonged 
+blackouts have increased 
+exposure to unsafe environments 
+and heightened safety risks faced 
+by volunteers, especially when 
+travelling to remote areas or 
+returning home after dark. 
+• Referral pathways established 
+with MINSAP to ensure timely 
+medical attention for staff and 
+volunteers presenting symptoms 
+compatible with dengue or 
+chikungunya. 
+• Regular vector-control and 
+prevention measures 
+implemented at branch level 
+(elimination of breeding sites, 
+fumigation, etc.)  
+• Strengthened operational security 
+protocols and adjusted activity 
+schedules to reduce long-distance 
+travel and ensure volunteers 
+return home before nightfall.
+10 
+3. Delays in the procurement and 
+transport of essential supplies due 
+to import restrictions as a result of 
+the US embargo pose a significant 
+challenge in emergency situations. 
+• Geopolitical context has reduced 
+freight availability to Cuba.  
+• Fuel shortages and electricity 
+outages have caused significant 
+delays in customs clearance and 
+cargo release. 
+• Logistics Tracking Sheet has been 
+developed to monitor 
+procurement progress and 
+identity bottlenecks early on. 
+• A contingency plan to face the fuel 
+scarcity in Cuba has been created 
+which include photovoltaic 
+equipment for the ports of Mariel 
+and Santiago de Cuba to ensure 
+power continuity during customs 
+procedures.  
+4. Looting of government trucks 
+transporting food assistance due 
+to the unavailability or scarcity of 
+supplies at the local level. 
+• No such incidents were reported 
+during the operation. 
+• Maintain the mitigation measures 
+previously established, being: 
+o Close coordination with local 
+authorities and communities. 
+o Sharing in advance 
+distributions plans. 
+o Using visible CRC logos. 
+o Using a community targeting 
+approach to identify the most 
+vulnerable households. 
+5. Insufficient funds pose a risk to 
+operational continuity. 
+• Ensuring sufficient funding for the 
+Emergency Appeal has proven to 
+be difficult with currently only 29% 
+assured funding (hard pledges 
+and in-kind donations). 
+• Continued proactive resource 
+mobilisation by the IFRC. 
+• Focus on strengthened donor 
+engagement through partnership-
+oriented strategies. 
+• Using the Mobilisation Table to 
+track and communicate 
+contributions and funding gaps. 
+New risks identified during the implementation period 
+Risk Likelihood Impact Mitigating actions 
+6. Power and connectivity 
+disruptions reduce 
+branch operability. 
+High High • Purchase and install 
+photovoltaic solutions 
+for CRC headquarters 
+and branches. 
+• Telecom equipment to 
+be procured for HQ and 
+branches (SAT, VHF, etc). 
+• Portable power stations 
+to ensure business 
+continuity. 
+7. Fuel shortages reduce 
+branch operability by 
+limiting mobility, 
+logistics, and 
+coordination for critical 
+activities. 
+High High • Acquire electric vehicles 
+for CRC headquarters 
+and branches, charged 
+by solar energy, to 
+reduce dependence on 
+fuel and ensure 
+operational mobility. 
+• Expand shipping routes 
+and companies mapping
+11 
+to diversify existing 
+supplier database for 
+Cuba 
+8. Fuel shortages prevent 
+trucks carrying 
+humanitarian aid from 
+reaching affected 
+communities. 
+High High • Explore options to 
+access and supply fuel 
+for humanitarian 
+purposes, adhering to 
+procurement and 
+transport mechanisms 
+that comply with 
+regulatory frameworks. 
+• Service agreements with 
+private fuel suppliers 
+and UN agencies 
+adhering to 
+procurement and 
+transport mechanisms 
+that comply with 
+regulatory frameworks   
+9. Protracted fuel and 
+energy constraints and 
+uncertainty affect 
+psychosocial state of 
+staff and volunteers 
+and communities 
+High  High  • CRC reinforced MHPSS 
+activities with 
+volunteers and 
+communities.  
+ 
+B. OPERATIONAL STRATEGY  
+Update on the strategy 
+The Operational Strategy11 for this response was published on 17 November 2025. Since publication, indicators across 
+each strategic sector of intervention were reviewed and adjusted to ensure adaptation to the  rapidly evolving fuel 
+and electricity limitations in Cuba. These restrictions have significantly affected the operational environment. As large 
+portions of the response depend on electricity and fuel, the operation introduced targeted adjustments to safeguard 
+continuity and ensure the operation can be implemented under current conditions.  
+ 
+To mitigate disruptions and maintain essential functionality, the operation has incorporated measures to strengthen 
+operational capacity at priority Cuban Red Cross branches  and selected Ministry of Public Health  facilities. These 
+adaptations aim to protect minimum operational continuity by reducing dependency on grid power and fuel, 
+supporting solid -waste management in affected municipalities and exploring mechanisms to ensure CRC’s 
+humanitarian mobility during acute fuel s hortages. At the same time, the deterioration of water, sanitation, and 
+hygiene (WASH) conditions —driven by prolonged power outages, infrastructure damage, and limited access to safe 
+water—has intensified health risks beyond arboviruses. The emergence of waterborne diseases, including confirmed 
+localized hepatitis outbreaks in Matanzas and suspected cases in Santiago de Cuba and other provinces,  
+demonstrates that affected populations are now exposed to multiple transmission pathways linked to the same 
+ 
+11 IFRC, Cuba: Hurricane Melissa, https://www.ifrc.org/emergency/cuba-hurricane-melissa.
+12 
+structural drivers. These outbreaks, associated with contaminated water, inadequate sanitation, and poor hygiene 
+conditions, highlight the need to adjust the operational strategy.  
+This evolving context reflects a multi-sectoral and evolving emergency characterized by the compounded effects 
+of energy shortages, infrastructure degradation, and health system constraints,  where facilities are already under 
+strain due to rising caseloads and reduced operational capacity. The coexistence of arboviral diseases and waterborne 
+infections within the same provinces reinforces the need for a holistic and integrated response that considers:  
+• The inclusion of provinces of Matanzas, and Guantanamo within the Hurricane Melissa Emergency Appeal , 
+justified by the convergence of overlapping, interrelated humanitarian risks affecting the same geographic 
+areas and populations. Although these provinces were not originally included in the Emergency Appeal’s 
+geographical scope, they represent the epidemiological and operational epicenters of worsening public health 
+conditions, where the impacts of Hurricane Melissa have directly amplified the transmission of vector -borne 
+diseases. 
+• Revision of sectoral priorities:  
+o Health: This sector has emerged as the most critical area due to the convergence of multiple disease 
+outbreaks, including dengue, chikungunya, oropouche, and confirmed and suspected cases of 
+hepatitis. These are occurring in a context of strained health services, scarcity of medicines and 
+medical supplies, reduced operational capacity, and increasing caseloads, requiring strengthened 
+support to disease prevention, community surveillance, and health promotion.   
+o Water, Sanitation and Hygiene (WASH): WASH remains a key driver of health risks, with damage to 
+water systems, poor sanitation conditions, and reliance on unsafe water sources contributing directly 
+to both vector -borne and waterborne disease transmission. The increasing evidence of fecal –oral 
+transmission (e.g., hepatitis) highlights the need for integrated WASH and health interventions, 
+particularly in high-risk communities. 
+o Shelter: Shelter needs remain relevant; however, they will now be more geographically focused, with 
+interventions concentrated in the original provinces included in the Emergency Appeal, where 
+hurricane-related damage to housing and infrastructure remains most significant. These families have 
+yet to resolve their shelter situation in the face of the ongoing hurricane season. Early recovery actions 
+will remain focused on Granma, Holguin and Santiago. 
+Integrating these provinces into the Emergency Appeal for the Health and WASH sectors, therefore ensures greater 
+operational coherence, maximizes the impact of existing resources, and enables an effective response to compound 
+and mutually reinforcing risks affecting the same populations, without requiring additional funding or significant 
+changes to planned targets. 
+Importantly, the inclusion of these provinces does not represent an expansion of the Emergency Appeal but rather a 
+realignment of the operational footprint to reflect the evolving nature of needs , as activities, resources, and 
+intervention modalities (WASH, vector control, health promotion, procurement of medicines and medical supplies 
+and community engagement) are already consistent across both operations and can be implemented within existing 
+capacities and budgetary allocations.
+13 
+These adaptations do not alter the strategic vision or priorities of the Emergency Appeal but are necessary measures 
+to ensure that the Emergency Appeal remains relevant, evidence -based, and responsive to current needs, while 
+maximizing the effectiveness of available resources  so that humanitarian assistance can be delivered despite the 
+severe energy constraints affecting the country, while addressing the interconnected drivers of vulnerability affecting 
+already vulnerable populations.  
+C. DETAILED OPERATIONAL REPORT  
+STRATEGIC SECTORS OF INTERVENTION 
+ 
+ 
+Shelter, Housing and Settlements 
+Female > 18: 
+20,280 
+Female < 18: 
+5,070 
+Male > 18: 
+19,720 
+Male < 18: 
+4,930 
+Objective: Support families in achieving safe sheltering solutions in the short and long -terms, with an emphasis on 
+the Build Back Better (BBB) approach. 
+Key 
+indicators: 
+Indicator Actual Target 
+Number of households provided with relief items (tarpaulins, 
+shelter tool kits, and sleeping kits) 741 5,000 (DREF: 
+2,20012) 
+Number of households provided with essential household items 
+(kitchen sets, bedding sets, and solar lamps) 741 15,000 (DREF: 
+2,20013) 
+Number of people who attended basic awareness raising 
+sessions on safe shelter 741 5,000 (DREF: 
+2,200) 
+Number of staff and volunteers trained in participatory 
+methods such as PASSA 0 75 
+Number of people who attended home repair training 
+workshops and technical orientation sessions on roof repair, 
+safe roofing practices, and build back safer guidance 
+0 200 
+Number of households provided with roofing kits 0 3,100 
+Number of repair toolkits distributed 0 80 
+The Cuban Red Cross (CRC) continues to implement shelter assistance in the provinces of Santiago de Cuba, 
+Granma and Holguín, the provinces most affected by Hurricane Melissa. The response is structured in two phases: 
+emergency assistance and early recovery.  
+ 
+ 
+12 2,200 shelter toolkits; 300 sleeping kits 
+13 2,200 kitchen sets; 4,400 solar lamps (2 per household)
+14 
+During the emergency phase, 741 households received essential household and shelter items, including tarpaulins, 
+shelter toolkits, kitchen kits  and solar lamps, to restore basic habitability. Awareness sessions on safe shelter 
+practices, covering for example ventilation, humidity, securing tarpaulins, were delivered to these households.  
+ 
+With IFRC support, CRC is now transitioning into the recovery phase. The objective is to assist 3,100 households 
+with roofing kits for the reinforcement of lightweight structures, fixing of roof and sealing, ensuring wind and water 
+resistance. Complementary toolkits (e.g. drills, ladders, gloves, w elding machines) and electric generators will be 
+distributed as well to enable the reparations. These distributions will be accompanied by training and technical 
+guidance on safe rood repair and Build Back Safer a pproaches. The National Society will further strengthen 
+community capacity by facilitating participatory training methodologies such as PASSA and by developing technical 
+guidelines for school management committees on safe roofs. This approach promotes prac tical, culturally 
+appropriate and affordable repair techniques for the most vulnerable households and supports safer 
+reconstruction across affected communities.  
+Progress on the shelter indicators has been limited since the last Operations Update. Due to fuel and energy 
+constraints, distributions of these items was only resumed in early April, when  fuel supply was secured  for CRC’s 
+vehicles after an extensive due diligence process  was completed. CRC’s volunteers have conducted face -to-face 
+sessions promoting the use of tarpaulins and emergency tool kits to ensure the protection of the 741 families 
+reached.  
+ 
+Cuban Red Cross: Distribution in Community in Guama, Santiago Province 
+ 
+ 
+Health & Care 
+(Mental Health and psychosocial 
+support / Community Health / 
+Medical Services) 
+Female > 18:  
+8,160 
+Female < 18:  
+2,040 
+Male > 18:  
+7,840 
+Male < 18:  
+1,960 
+Objective: 
+Implement health promotion activities and provide first aid and psychological support services at the 
+community level to reduce the risk of increased morbidity and mortality and enhance the overall well -
+being of the affected population. 
+Key 
+indicators: 
+Indicator Actual Target 
+Number of people reached with 
+mental health and psychosocial 
+services (MHPSS) 
+2,680 20,000 
+Number of volunteers and staff 
+trained in mental health and 
+psychosocial support 
+471 60
+15 
+Number of people trained in 
+psychological first aid (PFA)14 471 600 
+Number of people trained in 
+community-based health and first 
+aid (CBHFA) 
+0 80 
+Number of volunteers trained in 
+Epidemic Control for Volunteers 
+(ECV) 
+37 60 
+Number of branches receiving first 
+aid kits and haemorrhage control 
+kits 
+2 50 
+Number of local health care 
+centres receiving backup power 
+sources (e.g. solar panels, 
+generators) 
+0 15 
+Number of provincial, municipal 
+and local health facilities receiving 
+procured medicines and medical 
+supplies15 
+8 20 (DREF: 4) 
+Number of branches with 
+community pharmacies set up 0 5 
+Number of rapid repair brigades 
+established 0 45 
+Number of community health 
+promoters trained 0 80 
+The Cuban Red Cross, in coordination with specialised personnel from the Ministry of Public Health, has provided 
+Psychological First Aid (PFA) and psychosocial support to people in affected and hard-to-reach communities. During 
+April, 38 people received psychological first aid and were referred to specialists. 21 of them were in the municipality 
+of Guama, Santiago de Cuba Province, and 17 in the municipality of Cauto Cristo, Granma Province. A total of 2,680 
+people have been assisted up to date. All volunteers have been integrated into psychosocial support teams within 
+the communities, focusing their efforts on both population directly affected by  the disaster and the general 
+population experiencing emotional distress. Listening spaces have been established in nurses' and family doctors' 
+offices, community centers, schools, and workplaces to provide emotional support and containment. Coping and 
+resilience tools are offered, strengthening individual and community capacities to face adversity.  
+ 
+To reinforce community -level health capacity, CRC plans to expand training in PFA and Community -based Health 
+and First Aid (CBHFA). To date, 19 CRC staff members and 452 volunteers have been trained in mental health and 
+psychosocial support to provide PFA in affected communities.  
+ 
+14 This indicator has been corrected.  
+15 This indicator has been revised to include distribution of medicines and medical supplies in 2 additional provinces: Matanzas  
+and Guantanamo.
+16 
+ 
+Volunteers in the priority provinces have been trained in Epidemic Control for Volunteers (ECV), these trainings will 
+be expanded to include the provinces of Matanzas and Guantánamo,  that have been affected by arboviral 
+outbreaks exacerbated by Hurricane Melissa but also  have reported outbreaks of Hepatitis A . The branches have 
+conducted vector control training, accompanying and supporting community awareness campaigns on mosquito 
+breeding site control. They are also supporting vector control measures in communities with the highest 
+proliferation rates. These 37 volunteers (14 in Santiago de Cuba, 11 in Granma and 12 in Holguín) are now equipped 
+to conduct community awareness campaigns on mosquito-breeding site elimination and to support vector-control 
+measures in communities with the highest transmission risk.   
+ 
+The healthcare centres that will receive back up power sources have been identified, and the procurement process 
+is ongoing . The solar panels and generators are currently being purchased and will be installed in the health 
+facilities of Santiago, Holguin and Granma. Additional healthcare centres will be identified for the Provinces of 
+Matanzas and Guantanamo. Donated medicines and medical supplies intended for distribution were delivered 8 
+provincial and municipal health facilities reaching 2,645 people.  
+ 
+ 
+Water, Sanitation and Hygiene 
+Female > 18: 
+20,280 
+Female < 18: 
+5,070 
+Male > 18: 
+19,720 
+Male < 18:  
+4,930 
+Objective: Increase access to safe drinking water, sanitation facilities, and hygiene promotion services for the 
+affected population to reduce the risk of waterborne diseases. 
+Key 
+indicators: 
+Indicator Actual Target 
+Number of households reached with hygiene kits 651 15,000 (DREF: 
+2,200) 
+Number of people reached with menstrual hygiene kits 0 15,000 (DREF: 
+700) 
+Number of households reached with household water storage 
+and water treatment items 233 15,000 (DREF: 
+2,20016) 
+Number of community-level hygiene promotion / awareness 
+sessions conducted 733 10 
+Number of volunteers and staff trained in WASH 13 120 
+Number of households provided with mosquito nets 703 5,000 (DREF: 
+2,200)17 
+Number of households reached through community health and 
+vector control campaigns 1,542 (DREF: 2,200) 
+ 
+16 2,200 water tanks (33 GL); 198,000 aqua tabs for 2,200 households. 
+17 The target has been adjusted from 15,000 to 5,000 households. Please refer to section B of the report for the explanation.
+17 
+Number of solid waste removal and environmental clean-up 
+campaigns conducted18 12 TBD 
+With support from the IFRC, the Cuban Red Cross provided 651 households with hygiene kits and 233 households 
+were reached with water  storage and treatment (jerrycans, water filters , buckets) . These distributions were 
+accompanied by key messages on hygiene promotion. This operation is expected to reach a total of 15,000 people 
+with menstrual hygiene kits and 15,000 households with water storage and treatment solutions (jerrycans, buckets 
+with taps and lids, aqua tabs/household water filters), along with key messages on proper use. Staff and volunteers 
+from the Cuban Red Cross will be trained in WASH to strengthen local capacities.  
+ 
+Swiss government and Swiss Red Cross teams supported the rapid response following Hurricane Melissa, in 
+collaboration with the Cuban Red Cross. WASH specialists were deployed from Switzerland and, in collaboration 
+with the Institute of Hydraulic Resources of Santiago de Cuba, assessed and installed a water treatment plant at 
+the "Alberto Fernández Montes de Oca" Municipal Hospital in San Luis, thereby improving the hospital's water 
+quality. These specialists also trained 13 staff members in using, installin g and checking the water purification 
+plants as well as installing safe water systems in communities. As of April 2026, 178 m3 of water have been 
+produced, ensuring safe water for 4 ,123 families in that community, ensuring safe water and shortening supply 
+cycles. 
+ 
+Simultaneously, personnel from Aguas Turquino and the local Municipal Operations and Relief Group were trained 
+to use portable water analysis laboratories, strengthening their capacity to respond to future emergencies and 
+ensuring the quality of life for p atients at the hospital and in surrounding communities. The coordination and 
+installation of safe water systems were also carried out, benefiting 12 communities in the municipality of San Luis.  
+So far 7,250,000 liters of safe water have been produced reaching 2,928 families (16,204 people).  
+ 
+Mosquito nets were distributed to 703 families to reduce the risk of dengue, Oropouche and chikungunya. These 
+distributions were part of local vector control campaigns with community messaging on correct use, identification 
+and elimination of indoor breeding sites and the removal of standing water.  During distributions CRC’s volunteers 
+conducted face-to-face talks promoting hygiene and the proper use of mosquito nets. Many families expressed 
+their gratitude for helping in preventing mosquitoes, as arboviral diseases are prevalent in the communities. Since 
+the start of the response 1,542 households have been reached  through community health  and vector control  
+campaigns. Also, 733 sessions on hygiene promotion and awareness were conducted at community level, 
+significantly exceeding the target of 10. This increase is explained by the change to house -to-house sessions 
+conducted during distributions, rather than mass gatherin gs, considering existing movement restrictions . 
+Alternative technologies for water pumping and water purification as well as waste management will be explored 
+to reduce environmental and public-health risks.  
+ 
+ 
+Protection, Gender and Inclusion 
+Objective: 
+Ensure that Cuban Red Cross staff and volunteers identify the needs of the most at risk and particularly 
+disadvantaged groups, facilitating access to assistance, equitable participation, and safe and dignified 
+conditions in collective centres. 
+Indicator Actual Target 
+ 
+18 This indicator has been added. Please refer to section B for the explanation.
+18 
+Key 
+indicators: Number of Cuban Red Cross staff and volunteers trained on 
+protection of sexual exploitation and abuse (PSEA) and all 
+forms of child safeguarding. 
+45 150 
+Number of community awareness campaigns conducted on 
+PSEA, including dissemination of printed safeguarding key 
+messages. 
+5 10 
+Number of device charging kits distributed to support RFL 
+services during emergencies. 9 6 
+ 
+All actions of the operation are planned and executed in accordance with the principles and standards of 
+Protection, Gender, and Inclusion (PGI), with a focus on ‘do no harm ’, accessibility, dignity, safety, and informed 
+participation. The Cuban Red Cross has mainstreamed PGI so that all distribution, training and services incorporate 
+specific actions to prevent the risks of exclusion, violence, exploitation or abuse and to guarantee equitable access, 
+with an emphasis on people at greatest risk.  
+ 
+With DREF funding for the Arbovirus response, a four-day PGI and CEA training was conducted in Santiago de Cuba 
+with staff and volunteers engaged in the arbovirus and post -hurricane Melissa responses.  The workshop 
+strengthened practical skills, promoted integration of PGI and CEA in emergency operations, and created a cohort 
+of trained individuals able to replicate the training in their branches. The workshop focused on operationalising 
+PGI, ensuring safe, dignified and inclusive participation of communitie s in all response activities. Additionally, the 
+training focused on strengthening skills to better understand communities, promote their meaningful participation 
+in decision-making and establish effective feedback mechanisms. External partners (UNICEF, PRO SALUD19 and the 
+University of Oriente) contributed sessions on child protection risks, gender-based violence, referral pathways and 
+preventing harassment and violence in community and educational settings. Their contributions provided essential 
+contextual insights and identified opportunities for improved local coordination and access to support services. 
+Through this training, a core group of replicators was established to support institutionalisation of PGI in branches 
+of the Cuban Red Cross.  With funding from the Hurricane Melissa response, the training was replicated with 15 
+staff members and 30 volunteers of the branches in Santiago de Cuba, Granma and Holguín.  
+ 
+Community awareness activities were carried out in five primary schools in Santiago de Cuba, Holguin and Granma 
+to promote key protection messages. Th ese actions complemented the Ministry of Education’s existing 
+programmes and helped strengthen coordination with other local actors involved in protection. By linking PGI 
+efforts with institutions that have established responsibilities at community level, the Cuban Red Cross reinforced 
+local protection mechanisms and enhanced its role in coordinated, community -based action. Up to date 86 
+students have been reached through these activities.  There is no specific focal point designated so far but PGI is 
+integrated into the response by the operations staff and trained volunteers. 
+ 
+ 
+Community Engagement and Accountability 
+Objective: 
+Strengthen community engagement and accountability to enable the CRC to have a thorough 
+understanding of community needs, integrating meaningful community participation, and implementing 
+effective mechanisms to listen to and act on community feedback throu ghout the response.   
+ 
+19 Health Promotion and Disease Prevention Unit of the Ministry of Public Health (MINSAP) in Cuba.
+19 
+Key 
+indicators: 
+Indicator Actual Target 
+Number of complaints, questions, suggestions, inquiries and 
+appreciations received through the feedback mechanism. 96 N/A 
+Number of staff, volunteers and leadership trained in 
+community engagement and accountability. 17 150 
+Percentage of people surveyed report that humanitarian 
+assistance is delivered in a safe, accessible, accountable and 
+participatory manner. 
+N/A 70% 
+Percentage of people surveyed who report they know how to 
+provide feedback about the operation. N/A 70% 
+Number of community feedback committees formed. 9 7 
+Throughout implementation, the Cuban Red Cross maintains an open dialogue with communities, engaging both 
+formal and informal leaders in the priority areas. S election criteria, lists of selected households and details on the 
+items to be distributed are clearly communicated, ensuring transparent and participatory processes. Social workers 
+from each community supported house-to-house visits, jointly assessing vulnerabilities based on CRC criteria and 
+ensuring safe, equitable access for the most at risk families.  
+ 
+As explained under Protection, Gender and Inclusion, 17 staff members and volunteers participated in a joint PGI 
+– CEA training.  
+ 
+To ensure transparency and accountability in the activities of the Cuban Red Cross, 9 feedback Committees were 
+established, one for each municipality  where supplies were delivered , to encourage greater community 
+participation in the actions carried out by the National Society.   Up to date 96 inquiries have been received and 
+addressed mostly focusing on selection criteria and some expressing gratitude for the support provided.  
+ 
+ 
+Risk Reduction, climate adaptation and 
+Recovery 
+Female > 18:  
+5,704 
+Female < 18: 
+1,901 
+Male > 18:  
+5,916 
+Male < 18:  
+1,479 
+Objective: Communities in high-risk areas are prepared for and able to respond to disasters. 
+Key 
+indicators: 
+Indicator Actual Target 
+Number of volunteers and staff trained in EVCA. 0 75 
+Number of participants trained in Anticipatory Action T1 to 
+build competencies for designing, implementing, and 
+institutionalizing AA systems. 
+0 75
+20 
+Number of municipal-level AA training sessions or ToT 
+sessions conducted to strengthen skills in identifying 
+community needs and risks. 
+0 3 
+Number of Simplified Early Action Protocols (SEAP) developed 
+and validated for communities or municipalities. 0 1 
+During the first months following Hurricane Melissa, efforts focused primarily on emergency assistance, early 
+recovery, and priority actions across the Shelter, Health and WASH sectors. CRC is transitioning into the recovery 
+phase, key activities related to anticipatory action and Enhanced Vulnerability and Capacity Assessment ( EVCA) 
+implementation will take place during the 3rd quarter of 2026; these actions aim to strengthen community resilience 
+to multiple hazards, enhance preparedness, and reduce vulnerability to future disasters and climate -related 
+impacts.  
+Also, a recovery framework focused on livelihoods will be developed  to inform future revisions of the Emergency 
+Appeal as well as the CRC country plan.  The framework will be supported by the findings of the EVCA application 
+in the provinces of Holguin, Granma and Santiago and the adaptation of Household Economic Security tools.  
+ 
+To achieve this, the Cuban Red Cross will train staff and volunteers in the EVCA methodology to strengthen their 
+skills in identifying community needs , risks and capacities using simple, replicable tools such as community 
+mapping, timelines and priority matrices.  
+ 
+Anticipatory Action workshops will equip participants with the basic skills and competencies to design, implement 
+and institutionalise anticipatory systems. In these workshops, participants will learn how to analyse hazards and 
+exposures, define verifiable triggers, assign pre-agreed roles and responsibilities, ensure budget and pre-position 
+emergency supplies. 
+ 
+Additionally, a Simplified Early Action Protocol (SEAP) will be developed and validated. This protocol will set out 
+triggers, action plans, timeframes, responsible parties and minimum logistical requirements. Health, WASH and 
+Shelter sectors will work together to ensure a comprehensive approach.  Once thresholds are met, early actions 
+can be implemented rapidly and in a coordinated manner. The protocol’s effectiveness will be monitored and 
+lessons will be captured to support continuous learning and improvement. In parallel, conditions for prepositioning 
+stock for the current Hurricane season are being explored with the CRC to ensure timely and effective anticipatory 
+action is ensured. 
+ 
+Enabling approaches 
+ 
+National Society Strengthening 
+Objective:  
+Strengthen the CRC’s response capacities by supporting ongoing institutional and operational 
+development in line with the National Society’s strategy and preparedness plans, leveraging rapid 
+response expertise and laying the foundations for longer-term capacity strengthening throughout the 
+operation. 
+Indicator Actual Target
+21 
+Key 
+indicators: Number of volunteers provided with equipment for protection, 
+safety and support (e.g. PSS) appropriate to the emergency. 0 200 
+Number of volunteers trained through National Intervention 
+Team (NIT) training on needs assessment, emergency response 
+protocols, and coordination. 
+0 20 
+Number of electric or solar generators procured and installed 
+in affected CRC branches. 320 5 (DREF: 1) 
+Number of volunteers mobilized for response activities. 4,115 (DREF: 500) 
+The Cuban Red Cross received four vehicles to be used in the affected territories, thereby reinforcing their fleet 
+and achieving greater operational capacity in the areas most affected by Hurricane Melissa.  One of the vehicles 
+received is a hybrid, ensuring that despite the limitations in accessing fuel it remains operational. 
+ 
+The Swiss Government and Swiss Red Cross donated three portable generators. These assets are used in Santiago 
+de Cuba to ensure operational capacity of local branches during power outages.  
+  
+A National Society Development (NSD) Coordinator has been recruited and started duties in March. This position 
+will provide ongoing strategic guidance, coordination and technical support to strengthen overall National Society 
+development processes and ensure alignment with organisational priorities. A Logistics Officer has been recruited 
+and will start duties in July, hence focused logistical support for this operation is ensured. 
+ 
+In total 4,115 volunteers have been mobilised for response activities, of whom 1,333 are currently still active in the 
+operations. This number significantly exceeds initial expectations. When the target was set, it was anticipated that 
+recruiting and sustaining enough volunteers would be challenging due to the combined pressures of Hurricane 
+Melissa, the ongoing arbovirus epidemic and chronic vulnerabilities across the country. Despite these constraints, 
+volunteer engagement has been exc eptionally strong, demonstrating the deep commitment of Cuban Red Cross 
+volunteers to fulfilling the humanitarian mandate and supporting their communities. 
+ 
+ 
+Secretariat 
+Services 
+Objective:  
+The IFRC secretariat is capable and equipped to support hurricane response and preparedness, 
+delivering services as planned in the Emergency Appeal in a timely manner and in full compliance with 
+IFRC policies, procedures, and minimum standards as stated in the Sphere Guidelines and 
+Humanitarian Charter. 
+Key 
+indicators: 
+Indicator Actual Target 
+Number of rapid response personnel supporting the operation. 3 2 (DREF: 1) 
+Number of field monitoring visits conducted by the Latin 
+Caribbean CCD to oversee DREF implementation. 6 12 (DREF: 6) 
+ 
+20 The figure reported in Operation Update 2 was incorrect as visits conducted under the Arbovirus DREF were mistakenly included. 
+The number included in this update reflects the correct data for this Emergency Appeal only.
+22 
+Number of ARO technical support and monitoring missions 
+conducted. 5 (DREF: 2) 
+A rapid response team (Surge) was mobilised to support technical and operational management.  The following 
+profiles were deployed up until now: an Operations Coordinator (Bolivian Red Cross), a Supply Chain Coordinator 
+(Swiss Red Cross),  and a PMER officer (American Red Cross  succeeded by  the Netherlands Red Cross).  The first 
+three months of the operation, a team based in Panamá and Trinidad Tobago provided support to all countries 
+affected by Hurricane Melissa, including Cuba. This included an operations coordinator (Bolivian Red Cross), PMER 
+coordinator (American Red Cross), IM Coordinator ( British Red Cross), SIMS Coordinator (British Red Cross), ERP 
+Officer (IFRC). These profiles were responsible for planning, procurement, information sharing, monitoring and 
+operational preparedness in close coordination with the National Society.  As part of the stabilization of the 
+operation, a dedicated Operations Manager based in Dominican Republic was recruited during April and has taken 
+charge of the operation, focusing on the transitioning of the operation  into recovery phase and the adaptation of 
+the operational strategy based on contextual changes and evolving needs.    
+ 
+The Country Cluster Delegation conducted  6 field monitoring visits to  support, oversee and verify the 
+implementation of activities. These visits aim to ensure that response activities are carried out  in accordance 
+with operational standards, donor requirements, and organizational policies, while a lso providing technical 
+guidance, identifying challenges, and facilitating timely corrective actions.  
+ 
+Following a mission of the IFRC regional communications manager to Cuba, a press release was published for the 
+one-month mark of the passing of Hurricane Melissa. 21  
+ 
+Field monitoring proved challenging during the reporting period due to visa constraints. Travel to the field requires 
+a specific visa, and although members of the CCD and Surge teams  submitted applications, these were not 
+processed in a timely manner. The visas were not denied, but the unexpectedly long processing times prevented 
+deployment from international staff. The issue was repeatedly raised during strategic discussions with the Cuban 
+Red Cross and government counterparts; however, delays persisted.   
+D. FUNDING  
+The Emergency Appeal MDRCU013 – Cuba: Hurricane Melissa has a total IFRC funding requirement of CHF 18,000,000 
+(CHF 19,500,000 Federation-wide). As of 30 April 2026, the appeal has mobilised CHF 5,356,725, including confirmed 
+contributions, in-kind support and soft pledges, representing 29.8% coverage. 
+Confirmed contributions amount to CHF 5,257,572.00, including CHF Swiss francs in cash pledges and CHF 150,739 in 
+in-kind donations. In addition, CHF 91,270 have been indicated through soft pledges that are currently pending formal 
+confirmation. 
+Despite these contributions, the operation still faces a funding gap of CHF 14,143,275 to fully implement the planned 
+activities in support of the Cuban Red Cross response to Hurricane Melissa. Resource mobilisation efforts remain 
+ongoing to secure additional funding and ensure the continuation and scale-up of humanitarian assistance to affected 
+communities. 
+See the distribution in the graph and table below:  
+ 
+21 IFRC, Press release, 28 November 2025, https://www.ifrc.org/press-release/ifrc-warns-growing-psychological-toll-children-and-
+families-one-month-after-hurricane.
+23 
+ 
+Funding Coverage 
+Funding 
+Requirement 
+(CHF) 
+Amount Raised 
+(CHF) 
+Funding Gap 
+(CHF) Coverage (%) 
+IFRC Secretariat 18,000,000 5,356,725 12,643,275 29.8% 
+  
+29%
+4%67%
+Funding Coverage
+HARD PLEDGES
+SOFT PLEDGES
+FUNDING GAP
+24 
+Contact information 
+For further information, specifically related to this operation please contact: 
+ 
+In the Cuban Red Cross 
+• President: Dr. Carlos Ricardo Pérez Díaz, perezdiazcarlosricardo@gmail.com   
+• Operational coordination: Luis Calero, calero@infomed.sld.cu  
+ 
+In the IFRC  
+• Head of Latin Caribbean Country Cluster Delegation: Daniel Bolaños, daniel.bolanos@ifrc.org   
+• Operations Coordinator for Latin Caribbean Country Cluster Delegation: Nicolás Segura, 
+nicolas.segura@ifrc.org  
+• Operations Manager Cuba: Diana Oviedo, diana.oviedo@ifrc.org   
+• Head of Health, Disaster, Climate and Crises / Regional Operations, Evolving Crises and Disasters Manager: 
+María Martha Tuna, maria.tuna@ifrc.org  
+  
+For IFRC Geneva  
+• Senior Officer, Operations Coordinator: Antoine Belair, antoine.belair@ifrc.org   
+  
+For IFRC Resource Mobilization and Pledges support  
+• Head of Strategic Partnerships and Resource Mobilisation: Mónica Portilla, monica.portilla@ifrc.org   
+• Strategic Partnerships and Resource Mobilisation in Emergencies Manager:  Mei Lin León, 
+meilin.leon@ifrc.org   
+  
+For In-Kind donations and Mobilization table support 
+• Regional Head, Global Supply Chain: Stephany Murillo, stephany.murillo@ifrc.org  
+  
+ 
+Reference documents 
+ Click here for:  
+• Previous Appeals and updates 
+• Emergency Appeal 
+• Operational Strategy 
+ 
+How we work  
+All IFRC assistance seeks to adhere the Code of Conduct for the International Red Cross and Red Crescent Movement 
+and Non -Governmental Organizations (NGO’s) in Disaster Relief , the Humanitarian Charter and Minimum 
+Standards in Humanitarian Response (Sphere ) in delivering assistance to the most vulnerable , to Principles of 
+Humanitarian Action and IFRC policies and procedures . The IFRC’s vision is to inspire, encourage, facilitate and 
+promote at all times all forms of humanitarian activities by National Societies, with a view to preventing and alleviating 
+human suffering, and thereby contributing to the maintenance and promotion of human dignity and peace in the 
+world.
+Page 1 of 2bo.ifrc.org > Public Folders > Finance > Donor Reports > Appeals and Projects > Operational Strategy - Standard Report
+Selected Parameters
+Reporting Timeframe 2025/10-2026/4 Operation MDRCU013
+Budget Timeframe 2025-2027 Budget APPROVED
+Prepared on 09 Jun 2026
+All figures are in Swiss Francs (CHF)
+Operational Strategy
+INTERIM FINANCIAL REPORT
+III. Operating Movement & Closing Balance per 2026/04
+Opening Balance 0
+Income (includes outstanding DREF Loan per IV.) 4,596,471
+Expenditure -591,842
+Closing Balance 4,004,629
+Deferred Income 516,000
+Funds Available 4,520,629
+MDRCU013 - Cuba - Hurricane
+Operating Timeframe: 30 Oct 2025 to 31 Oct 2027;    appeal launch date: 30 Oct 2025
+I. Emergency Appeal Funding Requirements
+Total Funding Requirements 18,100,000
+Donor Response* as per 09 Jun 2026 5,084,577
+Appeal Coverage 28.09%
+II. IFRC Operating Budget Implementation
+Planned Operations / Enabling Approaches Op Budget Expenditure Variance
+PO01 - Shelter and Basic Household Items 2,230,915 165,210 2,065,705
+PO02 - Livelihoods 0 0 0
+PO03 - Multi-purpose Cash 0 0 0
+PO04 - Health 694,923 4,455 690,468
+PO05 - Water, Sanitation & Hygiene 545,600 46,830 498,770
+PO06 - Protection, Gender and Inclusion 16,000 0 16,000
+PO07 - Education 0 0 0
+PO08 - Migration 0 0 0
+PO09 - Risk Reduction, Climate Adaptation and Recovery 418,300 95,401 322,900
+PO10 - Community Engagement and Accountability 10,000 0 10,000
+PO11 - Environmental Sustainability 0 0 0
+Planned Operations Total 3,915,738 311,896 3,603,843
+EA01 - Coordination and Partnerships 0 2,748 -2,748
+EA02 - Secretariat Services 482,073 156,667 325,406
+EA03 - National Society Strengthening 221,979 120,532 101,447
+Enabling Approaches Total 704,052 279,946 424,106
+Grand Total 4,619,790 591,842 4,027,948
+IV. DREF Loan
+* not included in Donor Response Loan : 997,990 Reimbursed : 0 Outstanding : 997,990
+www.ifrc.org
+Saving lives, changing minds
+Page 2 of 2bo.ifrc.org > Public Folders > Finance > Donor Reports > Appeals and Projects > Operational Strategy - Standard Report
+Selected Parameters
+Reporting Timeframe 2025/10-2026/4 Operation MDRCU013
+Budget Timeframe 2025-2027 Budget APPROVED
+Prepared on 09 Jun 2026
+All figures are in Swiss Francs (CHF)
+Operational Strategy
+INTERIM FINANCIAL REPORT
+MDRCU013 - Cuba - Hurricane
+Operating Timeframe: 30 Oct 2025 to 31 Oct 2027;    appeal launch date: 30 Oct 2025
+V. Contributions by Donor and Other Income
+Opening Balance 0
+Income Type Cash InKind
+Goods
+InKind
+Personnel
+Other
+Income TOTAL Deferred
+Income
+American Red Cross 1,579,008 1,579,008
+Belize Red Cross Society 1,855 1,855
+British Red Cross 105,119 105,119
+Bulgarian Red Cross 1,014 1,014
+DREF Response Pillar 997,990 997,990
+ELMA Relief Foundation 250,000 250,000
+German Red Cross 36,079 36,079
+Hong Kong Red Cross, Branch of the Red Cross Societ 19,579 19,579
+Italian Government Bilateral Emergency Fund 180,730 180,730
+Italian Red Cross 110,110 110,110
+Japanese Red Cross Society 25,220 25,220
+New Zealand Red Cross 10,441 10,441
+On Line donations 10,393 10,393
+Red Cross of Monaco 13,918 13,918
+Sage Foundation 8,009 8,009
+Spanish Government -51,950 -51,950 516,000
+Spanish Red Cross 10,565 10,565
+Spanish Red Cross (from Spanish Government*) 147,115 147,115
+Swiss Government 250,000 250,000
+The Canadian Red Cross Society 251,383 27,894 279,277
+The Canadian Red Cross Society (from Canadian Gove 282,187 282,187
+The Netherlands Red Cross (from Netherlands Govern 250,803 250,803
+The Republic of Korea National Red Cross 26,777 26,777
+UNDP - United Nations Development Programme (from 32,232 32,232
+Z Zurich Foundation 20,000 20,000
+Total Contributions and Other Income 3,570,587 27,894 0 997,990 4,596,471 516,000
+Total Income and Deferred Income 4,596,471 516,000
+www.ifrc.org
+Saving lives, changing minds
