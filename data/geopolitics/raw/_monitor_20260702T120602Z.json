@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-02T12:06:02.904461+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.txt",
+      "metadata_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/2ea818acb9512dd62914230890692356728f72d19a117f2d27b45164aaa489cf.txt",
+      "metadata_path": "data/geopolitics/raw/2ea818acb9512dd62914230890692356728f72d19a117f2d27b45164aaa489cf.json"
+    },
+    {
+      "title": "Lebanon: 100,000s unable to return amid continued military activity despite agreements | NRC",
+      "url": "https://reliefweb.int/report/lebanon/lebanon-100000s-unable-return-amid-continued-military-activity-despite-agreements-nrc",
+      "text_path": "data/geopolitics/raw/6fbee89ac213ce4114d105e0b3cc35e99bf2b3840ba4049f65b8324a316b335c.txt",
+      "metadata_path": "data/geopolitics/raw/6fbee89ac213ce4114d105e0b3cc35e99bf2b3840ba4049f65b8324a316b335c.json"
+    },
+    {
+      "title": "Ukraine: Killing of Civilians Should Never Be Normalized in War",
+      "url": "https://reliefweb.int/report/ukraine/killing-civilians-should-never-be-normalized-war",
+      "text_path": "data/geopolitics/raw/e8efe164266f6a2c9ed00c79f24f8b77fc4d238e24b86db0086a8d8e74a38230.txt",
+      "metadata_path": "data/geopolitics/raw/e8efe164266f6a2c9ed00c79f24f8b77fc4d238e24b86db0086a8d8e74a38230.json"
+    },
+    {
+      "title": "Ukraine: Killing of Civilians Should Never Be Normalized in War (pdf)",
+      "url": "https://reliefweb.int/attachments/a7a26831-2f9a-4155-afe7-149aa02b8d0d/OCHAUkraine_20260702_Kyiv_Attack_ENG.pdf",
+      "text_path": "data/geopolitics/raw/474a56fb15625e6beacde4a0a8e7bd66e7e31e5617261f497c312ba897446563.txt",
+      "metadata_path": "data/geopolitics/raw/474a56fb15625e6beacde4a0a8e7bd66e7e31e5617261f497c312ba897446563.json"
+    },
+    {
+      "title": "Middle East live: Iran warns US, Israel against attacks ahead of Khamenei’s funeral",
+      "url": "https://www.france24.com/en/middle-east/20260702-middle-east-live-iran-says-to-use-frozen-funds-in-qatar-to-buy-required-goods",
+      "text_path": "data/geopolitics/raw/d31ce8e51f3250245d857f461ca7c7df215f4c45209b4653d5e86fee501574ae.txt",
+      "metadata_path": "data/geopolitics/raw/d31ce8e51f3250245d857f461ca7c7df215f4c45209b4653d5e86fee501574ae.json"
+    }
+  ],
+  "txt_before": 1552,
+  "txt_after": 1556
+}

@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-02T12:04:51.401969+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.xml",
-  "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt"
+  "url": "https://reliefweb.int/attachments/a7a26831-2f9a-4155-afe7-149aa02b8d0d/OCHAUkraine_20260702_Kyiv_Attack_ENG.pdf",
+  "title": "Ukraine: Killing of Civilians Should Never Be Normalized in War (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 02 Jul 2026 10:21:27 +0000",
+  "sha256": "474a56fb15625e6beacde4a0a8e7bd66e7e31e5617261f497c312ba897446563",
+  "content_type": "application/pdf",
+  "collected_at": "2026-07-02T12:05:43.516405+00:00",
+  "text_chars": 2347,
+  "raw_path": "data/geopolitics/raw/474a56fb15625e6beacde4a0a8e7bd66e7e31e5617261f497c312ba897446563.pdf",
+  "text_path": "data/geopolitics/raw/474a56fb15625e6beacde4a0a8e7bd66e7e31e5617261f497c312ba897446563.txt"
 }
