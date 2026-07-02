@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75",
-  "content_type": "application/xml",
-  "collected_at": "2026-07-02T15:08:57.196092+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.xml",
-  "text_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.txt"
+  "url": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
+  "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Wed, 01 Jul 2026 17:30:40 +0000",
+  "sha256": "a6f5c82d3f9af9793a2fc34080a8948adbefc80f47f1026052d160fa65fa1cfc",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-02T15:10:07.975528+00:00",
+  "text_chars": 10494,
+  "raw_path": "data/geopolitics/raw/a6f5c82d3f9af9793a2fc34080a8948adbefc80f47f1026052d160fa65fa1cfc.html",
+  "text_path": "data/geopolitics/raw/a6f5c82d3f9af9793a2fc34080a8948adbefc80f47f1026052d160fa65fa1cfc.txt"
 }

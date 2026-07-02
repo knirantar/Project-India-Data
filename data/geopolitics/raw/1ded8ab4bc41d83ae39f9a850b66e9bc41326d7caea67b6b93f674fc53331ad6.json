@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75",
-  "content_type": "application/xml",
-  "collected_at": "2026-07-02T15:08:57.196092+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.xml",
-  "text_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/07/1167858",
+  "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Thu, 02 Jul 2026 12:00:00 +0000",
+  "sha256": "1ded8ab4bc41d83ae39f9a850b66e9bc41326d7caea67b6b93f674fc53331ad6",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-02T15:10:04.471948+00:00",
+  "text_chars": 2419,
+  "raw_path": "data/geopolitics/raw/1ded8ab4bc41d83ae39f9a850b66e9bc41326d7caea67b6b93f674fc53331ad6.html",
+  "text_path": "data/geopolitics/raw/1ded8ab4bc41d83ae39f9a850b66e9bc41326d7caea67b6b93f674fc53331ad6.txt"
 }

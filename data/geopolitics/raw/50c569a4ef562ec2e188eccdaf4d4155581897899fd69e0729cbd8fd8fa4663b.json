@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/d93461d6-cb73-48c5-804d-603d5cf06e50/Anticipatory-Action-and-Risk-Mitigation-of-Food-Insecurity-Jan-2023-May-2025.pdf",
+  "title": "DR Congo: Anticipatory Action and Risk Mitigation of Food Insecurity in Eastern DRC - January 2023 to May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 02 Jul 2026 13:00:26 +0000",
+  "sha256": "50c569a4ef562ec2e188eccdaf4d4155581897899fd69e0729cbd8fd8fa4663b",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-02T15:09:41.670481+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-07-02T15:10:08.243683+00:00",
+  "text_chars": 12142,
+  "raw_path": "data/geopolitics/raw/50c569a4ef562ec2e188eccdaf4d4155581897899fd69e0729cbd8fd8fa4663b.pdf",
+  "text_path": "data/geopolitics/raw/50c569a4ef562ec2e188eccdaf4d4155581897899fd69e0729cbd8fd8fa4663b.txt"
 }

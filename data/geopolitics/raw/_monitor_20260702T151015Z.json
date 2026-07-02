@@ -1,0 +1,120 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-02T15:10:15.162078+00:00",
+  "new_documents": 18,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.txt",
+      "metadata_path": "data/geopolitics/raw/32b72d07c4df4dd6939b40d66e4a4df5bc79c51dd5834c828dee921358f7de75.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/2ea818acb9512dd62914230890692356728f72d19a117f2d27b45164aaa489cf.txt",
+      "metadata_path": "data/geopolitics/raw/2ea818acb9512dd62914230890692356728f72d19a117f2d27b45164aaa489cf.json"
+    },
+    {
+      "title": "AFP assessing allegation of Gaza war crimes committed by Australian citizen serving in IDF",
+      "url": "https://www.theguardian.com/australia-news/2026/jul/03/afp-investigating-alleged-war-crimes-committed-by-australian-citizen-serving-in-idf-in-gaza-ntwnfb",
+      "text_path": "data/geopolitics/raw/d59097e9101bb2deb2dd1a382047977855cc6fb05a302fc388e02d4c754d0ad0.txt",
+      "metadata_path": "data/geopolitics/raw/d59097e9101bb2deb2dd1a382047977855cc6fb05a302fc388e02d4c754d0ad0.json"
+    },
+    {
+      "title": "Vatican excommunicates all members of ultra-conservative rebel group SSPX",
+      "url": "https://www.theguardian.com/world/2026/jul/02/vatican-excommunicates-all-members-of-ultra-conservative-rebels-sspx",
+      "text_path": "data/geopolitics/raw/935694d75b29faf0af65a4658b1c166e11e781b343d9077b836becf260778bf6.txt",
+      "metadata_path": "data/geopolitics/raw/935694d75b29faf0af65a4658b1c166e11e781b343d9077b836becf260778bf6.json"
+    },
+    {
+      "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167858",
+      "text_path": "data/geopolitics/raw/1ded8ab4bc41d83ae39f9a850b66e9bc41326d7caea67b6b93f674fc53331ad6.txt",
+      "metadata_path": "data/geopolitics/raw/1ded8ab4bc41d83ae39f9a850b66e9bc41326d7caea67b6b93f674fc53331ad6.json"
+    },
+    {
+      "title": "UK ratchets up nuclear spending, with new warhead and delivery planes in the works",
+      "url": "https://www.defensenews.com/global/europe/2026/07/02/uk-ratchets-up-nuclear-spending-with-new-warhead-and-delivery-planes-in-the-works/",
+      "text_path": "data/geopolitics/raw/cd9606ce87483be5eaea44ed7a41f78bed3d69fa76123dd43949e7a2673f4173.txt",
+      "metadata_path": "data/geopolitics/raw/cd9606ce87483be5eaea44ed7a41f78bed3d69fa76123dd43949e7a2673f4173.json"
+    },
+    {
+      "title": "DR Congo: Anticipatory Action and Risk Mitigation of Food Insecurity in Eastern DRC - January 2023 to May 2026",
+      "url": "https://reliefweb.int/report/democratic-republic-congo/anticipatory-action-and-risk-mitigation-food-insecurity-eastern-drc-january-2023-may-2026",
+      "text_path": "data/geopolitics/raw/2d207654885a0e06f83f806cb8729d47d2ef1bb3fa19d0256dda9b3b87b31f7a.txt",
+      "metadata_path": "data/geopolitics/raw/2d207654885a0e06f83f806cb8729d47d2ef1bb3fa19d0256dda9b3b87b31f7a.json"
+    },
+    {
+      "title": "DR Congo: Anticipatory Action and Risk Mitigation of Food Insecurity in Eastern DRC - January 2023 to May 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/d93461d6-cb73-48c5-804d-603d5cf06e50/Anticipatory-Action-and-Risk-Mitigation-of-Food-Insecurity-Jan-2023-May-2025.pdf",
+      "text_path": "data/geopolitics/raw/50c569a4ef562ec2e188eccdaf4d4155581897899fd69e0729cbd8fd8fa4663b.txt",
+      "metadata_path": "data/geopolitics/raw/50c569a4ef562ec2e188eccdaf4d4155581897899fd69e0729cbd8fd8fa4663b.json"
+    },
+    {
+      "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
+      "url": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
+      "text_path": "data/geopolitics/raw/a6f5c82d3f9af9793a2fc34080a8948adbefc80f47f1026052d160fa65fa1cfc.txt",
+      "metadata_path": "data/geopolitics/raw/a6f5c82d3f9af9793a2fc34080a8948adbefc80f47f1026052d160fa65fa1cfc.json"
+    },
+    {
+      "title": "Ukraine: Rescuers work to save trapped residents after wave of Russian attacks (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/10-04-2025_UNOCHA_Ukraine-05.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/3345cffae5a6301a6350223eb96a81e9471a0107412bd775da44f54d77771731.txt",
+      "metadata_path": "data/geopolitics/raw/3345cffae5a6301a6350223eb96a81e9471a0107412bd775da44f54d77771731.json"
+    }
+  ],
+  "txt_before": 1556,
+  "txt_after": 1564
+}
