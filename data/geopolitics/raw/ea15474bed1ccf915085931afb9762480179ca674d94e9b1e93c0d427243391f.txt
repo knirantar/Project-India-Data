@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: World News in Brief: Risk of atrocities in Sudan, UN programme prevents climate displacement, more civilians killed in Ukraine (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/23-06-2026-UNICEF-Sudan.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml
+Content-Type: image/jpeg
+Bytes: 32488
