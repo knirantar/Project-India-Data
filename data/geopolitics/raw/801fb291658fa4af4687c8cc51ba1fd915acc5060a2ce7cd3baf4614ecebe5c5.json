@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-06T07:15:36.651131+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://www.npr.org/2026/07/06/g-s1-132082/trump-nato-turkey-spending",
+  "title": "Trump won spending promises from NATO last year. This week, he'll try to enforce them",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Mon, 06 Jul 2026 02:06:17 -0400",
+  "sha256": "801fb291658fa4af4687c8cc51ba1fd915acc5060a2ce7cd3baf4614ecebe5c5",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-06T07:15:54.613411+00:00",
+  "text_chars": 8824,
+  "raw_path": "data/geopolitics/raw/801fb291658fa4af4687c8cc51ba1fd915acc5060a2ce7cd3baf4614ecebe5c5.html",
+  "text_path": "data/geopolitics/raw/801fb291658fa4af4687c8cc51ba1fd915acc5060a2ce7cd3baf4614ecebe5c5.txt"
 }
