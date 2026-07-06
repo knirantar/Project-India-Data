@@ -1,0 +1,6 @@
+Binary video_content source collected for Global Geopolitics Monitor.
+Title: Large-scale Russian attack on Ukraine before NATO summit
+URL: https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss
+Source: https://www.aljazeera.com/xml/rss/all.xml
+Content-Type: text/html; charset=utf-8
+Bytes: 185630

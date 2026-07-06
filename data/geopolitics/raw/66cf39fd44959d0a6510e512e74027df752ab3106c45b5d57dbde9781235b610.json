@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-06T15:18:17.885015+00:00",
-  "text_chars": 9122085,
-  "raw_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.xml",
-  "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt"
+  "url": "https://www.foreignaffairs.com/united-states/nato-transatlantic-alliance-cant-survive-without-trust",
+  "title": "The Transatlantic Alliance Can’t Survive Without Trust",
+  "source": "https://www.foreignaffairs.com/rss.xml",
+  "published": "Mon, 06 Jul 2026 00:00:00 -0400",
+  "sha256": "66cf39fd44959d0a6510e512e74027df752ab3106c45b5d57dbde9781235b610",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-06T15:19:10.909939+00:00",
+  "text_chars": 13836,
+  "raw_path": "data/geopolitics/raw/66cf39fd44959d0a6510e512e74027df752ab3106c45b5d57dbde9781235b610.html",
+  "text_path": "data/geopolitics/raw/66cf39fd44959d0a6510e512e74027df752ab3106c45b5d57dbde9781235b610.txt"
 }

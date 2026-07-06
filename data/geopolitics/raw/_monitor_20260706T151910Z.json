@@ -1,0 +1,108 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-06T15:19:10.976989+00:00",
+  "new_documents": 16,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/0d2fc394e621b7669ddfa452b1b06586018b99cf5a9812dc40c2e8f71356efce.txt",
+      "metadata_path": "data/geopolitics/raw/0d2fc394e621b7669ddfa452b1b06586018b99cf5a9812dc40c2e8f71356efce.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "War Has Become Pointless",
+      "url": "https://foreignpolicy.com/2026/07/06/war-iran-ukraine-israel-united-states-russia-pointless/",
+      "text_path": "data/geopolitics/raw/1d3022c6afff8be5e3be4ad73374f05bca35774e160a4f1c8e0290d8c1ed9670.txt",
+      "metadata_path": "data/geopolitics/raw/1d3022c6afff8be5e3be4ad73374f05bca35774e160a4f1c8e0290d8c1ed9670.json"
+    },
+    {
+      "title": "Middle East crisis live: Funeral procession for supreme leader Ali Khamenei begins in Iran",
+      "url": "https://www.theguardian.com/world/live/2026/jul/06/iran-middle-east-crisis-funeral-supreme-leader-ali-khamenei-tehran-latest-news-updates",
+      "text_path": "data/geopolitics/raw/d3cd86eac3a71e01567196929210d453423692685c277069533d382c936d0538.txt",
+      "metadata_path": "data/geopolitics/raw/d3cd86eac3a71e01567196929210d453423692685c277069533d382c936d0538.json"
+    },
+    {
+      "title": "NATO summit host Turkey sees its alliance clout rising amid war raging nearby",
+      "url": "https://www.defensenews.com/global/europe/2026/07/06/nato-summit-host-turkey-sees-its-alliance-clout-rising-amid-war-raging-nearby/",
+      "text_path": "data/geopolitics/raw/977dbb6da526f12f56fb5df0e26665d90a509aa7a7ec2b205097eefc118e468a.txt",
+      "metadata_path": "data/geopolitics/raw/977dbb6da526f12f56fb5df0e26665d90a509aa7a7ec2b205097eefc118e468a.json"
+    },
+    {
+      "title": "Large-scale Russian attack on Ukraine before NATO summit",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/6/large-scale-russian-attack-on-ukraine-before-nato-summit?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/2a6070e2a09314cdc495a9e90e3cc6e01202becfa95ae5125ce4d81b5a0ac972.txt",
+      "metadata_path": "data/geopolitics/raw/2a6070e2a09314cdc495a9e90e3cc6e01202becfa95ae5125ce4d81b5a0ac972.json"
+    },
+    {
+      "title": "Russian strikes kill 20, exposing Ukraine’s air-defense shortage",
+      "url": "https://www.defensenews.com/global/europe/2026/07/06/russian-strikes-kill-20-exposing-ukraines-air-defense-shortage/",
+      "text_path": "data/geopolitics/raw/737446ca26fcfc812cc16a1c04e0d7265f613dc75ef025b41ab55a411e572888.txt",
+      "metadata_path": "data/geopolitics/raw/737446ca26fcfc812cc16a1c04e0d7265f613dc75ef025b41ab55a411e572888.json"
+    },
+    {
+      "title": "The Transatlantic Alliance Can’t Survive Without Trust",
+      "url": "https://www.foreignaffairs.com/united-states/nato-transatlantic-alliance-cant-survive-without-trust",
+      "text_path": "data/geopolitics/raw/66cf39fd44959d0a6510e512e74027df752ab3106c45b5d57dbde9781235b610.txt",
+      "metadata_path": "data/geopolitics/raw/66cf39fd44959d0a6510e512e74027df752ab3106c45b5d57dbde9781235b610.json"
+    }
+  ],
+  "txt_before": 1629,
+  "txt_after": 1635
+}
