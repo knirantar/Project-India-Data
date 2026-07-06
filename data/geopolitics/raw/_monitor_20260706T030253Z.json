@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-06T03:02:53.611648+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/0d2fc394e621b7669ddfa452b1b06586018b99cf5a9812dc40c2e8f71356efce.txt",
+      "metadata_path": "data/geopolitics/raw/0d2fc394e621b7669ddfa452b1b06586018b99cf5a9812dc40c2e8f71356efce.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Live: Russia launches deadly barrage on Kyiv region on eve of NATO summit",
+      "url": "https://www.france24.com/en/europe/20260706-live-russia-launches-deadly-barrage-on-kyiv-region-on-eve-of-nato-summit",
+      "text_path": "data/geopolitics/raw/0babca134f39f26cc90e30a8930f81a1b09f984c177c29f2b4c55274a56ff145.txt",
+      "metadata_path": "data/geopolitics/raw/0babca134f39f26cc90e30a8930f81a1b09f984c177c29f2b4c55274a56ff145.json"
+    },
+    {
+      "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+      "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/0e23131c9de7f436737fa90a417ff9efb4ba67533045ac3da09b4b28f07c9531.txt",
+      "metadata_path": "data/geopolitics/raw/0e23131c9de7f436737fa90a417ff9efb4ba67533045ac3da09b4b28f07c9531.json"
+    },
+    {
+      "title": "NATO leaders look for unity as Trump attends annual summit",
+      "url": "https://www.npr.org/2026/07/05/nx-s1-5877610/nato-leaders-look-for-unity-as-trump-attends-annual-summit",
+      "text_path": "data/geopolitics/raw/558d80796313b431fd0fc9678eef42d7b68c2625a1d86f7426d72095dafc17cf.txt",
+      "metadata_path": "data/geopolitics/raw/558d80796313b431fd0fc9678eef42d7b68c2625a1d86f7426d72095dafc17cf.json"
+    },
+    {
+      "title": "Viet Nam: VNM: Flood - 07-2026 - Typhoon No. 1 (Maysak) and Floods (2026-07-03)",
+      "url": "https://reliefweb.int/report/viet-nam/vnm-flood-07-2026-typhoon-no-1-maysak-and-floods-2026-07-03",
+      "text_path": "data/geopolitics/raw/585a7741081374cd0a3acc616ce49ac1a8dfbb398d51f0d2ee1f5f684f820005.txt",
+      "metadata_path": "data/geopolitics/raw/585a7741081374cd0a3acc616ce49ac1a8dfbb398d51f0d2ee1f5f684f820005.json"
+    },
+    {
+      "title": "Viet Nam: VNM: Flood - 07-2026 - Typhoon No. 1 (Maysak) and Floods (2026-07-03) (pdf)",
+      "url": "https://reliefweb.int/attachments/157c69cb-9977-4f0f-adf2-be47ceb24156/IFRC%20GO%20-%20Field%20Report%20Details.pdf",
+      "text_path": "data/geopolitics/raw/9e802d10304285ef4c5f425467df155b530f2a99606b72766b2c135fb838b3ff.txt",
+      "metadata_path": "data/geopolitics/raw/9e802d10304285ef4c5f425467df155b530f2a99606b72766b2c135fb838b3ff.json"
+    }
+  ],
+  "txt_before": 1610,
+  "txt_after": 1615
+}

@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-06T03:01:44.481307+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.xml",
-  "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt"
+  "url": "https://www.aljazeera.com/news/2026/7/6/us-sanctions-target-rwandan-firms-linked-to-conflict-minerals-funding-m23?traffic_source=rss",
+  "title": "How conflict minerals fuel war in eastern DR Congo amid US sanctions",
+  "source": "https://www.aljazeera.com/xml/rss/all.xml",
+  "published": "Mon, 06 Jul 2026 02:10:37 +0000",
+  "sha256": "0e23131c9de7f436737fa90a417ff9efb4ba67533045ac3da09b4b28f07c9531",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-07-06T03:02:37.999958+00:00",
+  "text_chars": 6603,
+  "raw_path": "data/geopolitics/raw/0e23131c9de7f436737fa90a417ff9efb4ba67533045ac3da09b4b28f07c9531.html",
+  "text_path": "data/geopolitics/raw/0e23131c9de7f436737fa90a417ff9efb4ba67533045ac3da09b4b28f07c9531.txt"
 }
