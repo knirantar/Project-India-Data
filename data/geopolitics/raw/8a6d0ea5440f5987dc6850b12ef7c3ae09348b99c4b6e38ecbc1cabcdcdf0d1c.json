@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e",
-  "content_type": "text/html",
-  "collected_at": "2026-07-06T20:50:49.544745+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.html",
-  "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt"
+  "url": "https://www.npr.org/2026/07/06/g-s1-132088/russian-missile-drone-attack-kyiv-ukraine",
+  "title": "Russia's missile and drone attacks on Ukraine kill at least 22",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Mon, 06 Jul 2026 03:41:08 -0400",
+  "sha256": "8a6d0ea5440f5987dc6850b12ef7c3ae09348b99c4b6e38ecbc1cabcdcdf0d1c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-06T20:51:11.030303+00:00",
+  "text_chars": 9283,
+  "raw_path": "data/geopolitics/raw/8a6d0ea5440f5987dc6850b12ef7c3ae09348b99c4b6e38ecbc1cabcdcdf0d1c.html",
+  "text_path": "data/geopolitics/raw/8a6d0ea5440f5987dc6850b12ef7c3ae09348b99c4b6e38ecbc1cabcdcdf0d1c.txt"
 }

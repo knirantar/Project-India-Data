@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e",
-  "content_type": "text/html",
-  "collected_at": "2026-07-06T20:50:49.544745+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.html",
-  "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt"
+  "url": "https://foreignpolicy.com/2026/07/06/nato-summit-ankara-ukraine-zelensky-russia-war/",
+  "title": "Why This Year’s NATO Summit Is Different for Ukraine",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Mon, 06 Jul 2026 17:42:11 +0000",
+  "sha256": "f39f980373a7dd7ed2e441d151d357bf73bb9645c45a56250c7206b8641d5603",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-06T20:51:10.984262+00:00",
+  "text_chars": 15422,
+  "raw_path": "data/geopolitics/raw/f39f980373a7dd7ed2e441d151d357bf73bb9645c45a56250c7206b8641d5603.html",
+  "text_path": "data/geopolitics/raw/f39f980373a7dd7ed2e441d151d357bf73bb9645c45a56250c7206b8641d5603.txt"
 }
