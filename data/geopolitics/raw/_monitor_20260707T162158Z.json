@@ -1,0 +1,126 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-07T16:21:58.277748+00:00",
+  "new_documents": 19,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/05bde86a120ff44631cf7b9723ed700b56e6ba0f79818ca468b9c8d1659c3c58.txt",
+      "metadata_path": "data/geopolitics/raw/05bde86a120ff44631cf7b9723ed700b56e6ba0f79818ca468b9c8d1659c3c58.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Chinese ballistic missile test is said to undermine nuclear weapons-free zone in South Pacific",
+      "url": "https://www.defensenews.com/global/asia-pacific/2026/07/07/chinese-ballistic-missile-test-is-said-to-undermine-nuclear-weapons-free-zone-in-south-pacific/",
+      "text_path": "data/geopolitics/raw/f07fe30f77bec11464d53eaaad27cb131bf58b659c28170a5f7b7032f89ac354.txt",
+      "metadata_path": "data/geopolitics/raw/f07fe30f77bec11464d53eaaad27cb131bf58b659c28170a5f7b7032f89ac354.json"
+    },
+    {
+      "title": "Mamdani joins Democrats’ calls for Graham Platner to drop out of Maine Senate race as window to replace him narrows – live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/07/graham-platner-democrats-senate-maine-trump-nato-us-politics-latest-news-updates",
+      "text_path": "data/geopolitics/raw/9901655d98dcb952410f86187680527f7ca8577aa97eaee520a7038bbdedf5e3.txt",
+      "metadata_path": "data/geopolitics/raw/9901655d98dcb952410f86187680527f7ca8577aa97eaee520a7038bbdedf5e3.json"
+    },
+    {
+      "title": "2 ships are hit in the latest attacks in the Strait of Hormuz, the U.K. military says",
+      "url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+      "text_path": "data/geopolitics/raw/1535d700d48152dceff73261cb34e7e078927d97c06ebdc0466ed57052b1b0f4.txt",
+      "metadata_path": "data/geopolitics/raw/1535d700d48152dceff73261cb34e7e078927d97c06ebdc0466ed57052b1b0f4.json"
+    },
+    {
+      "title": "Putin May Escalate, but Ukraine Is Winning",
+      "url": "https://foreignpolicy.com/2026/07/07/ukraine-winning-war-russia-zelensky-putin-kyiv-moscow/",
+      "text_path": "data/geopolitics/raw/705cdd8a10323ec38951841e1ec3cffdf442451442861f30e3dba228d0b8fb55.txt",
+      "metadata_path": "data/geopolitics/raw/705cdd8a10323ec38951841e1ec3cffdf442451442861f30e3dba228d0b8fb55.json"
+    },
+    {
+      "title": "US will lift sanctions on Turkey, possibly sell F-35 fighter jets, Trump says",
+      "url": "https://www.defensenews.com/global/europe/2026/07/07/us-will-lift-sanctions-on-turkey-possibly-sell-f-35-fighter-jets-trump-says/",
+      "text_path": "data/geopolitics/raw/3e24ee42535613a527f1cb0f6c0b25f2207872d6bd09ab3716219bb5cb15f8c2.txt",
+      "metadata_path": "data/geopolitics/raw/3e24ee42535613a527f1cb0f6c0b25f2207872d6bd09ab3716219bb5cb15f8c2.json"
+    },
+    {
+      "title": "At Nato summit, Trump berates European allies while pleasing Turkish host (image)",
+      "url": "https://s.france24.com/media/display/8e4bf9aa-7a19-11f1-b55b-005056bf30b7/w:1024/p:16x9/2026-07-07T135708Z-372819876-RC2Z8MAZ4YV0-RTRMADP-3-NATO-SUMMIT.jpg",
+      "text_path": "data/geopolitics/raw/924284ad6b8fb056672302f0f4ee996a82795e2448929a0b758f705882c0d9d4.txt",
+      "metadata_path": "data/geopolitics/raw/924284ad6b8fb056672302f0f4ee996a82795e2448929a0b758f705882c0d9d4.json"
+    },
+    {
+      "title": "Recession off the cards but Australia faces dreary outlook, economists say",
+      "url": "https://www.theguardian.com/business/2026/jul/08/economy-of-australia-avoids-recession-consumer-pessimism-lingers-economists",
+      "text_path": "data/geopolitics/raw/c40e97ceffd3fac24bb64d325fb6adcf7ac857c12ac9943a440d580102aa96ff.txt",
+      "metadata_path": "data/geopolitics/raw/c40e97ceffd3fac24bb64d325fb6adcf7ac857c12ac9943a440d580102aa96ff.json"
+    },
+    {
+      "title": "Eight NATO allies launch HALO satellite constellation initiative",
+      "url": "https://www.defensenews.com/space/2026/07/07/eight-nato-allies-launch-halo-satellite-constellation-initiative/",
+      "text_path": "data/geopolitics/raw/a25adb5ebf236e1aa303a29b6f52b4e9628d44a29d1ce352e8ffeb8ac4a5632e.txt",
+      "metadata_path": "data/geopolitics/raw/a25adb5ebf236e1aa303a29b6f52b4e9628d44a29d1ce352e8ffeb8ac4a5632e.json"
+    },
+    {
+      "title": "General Assembly LIVE: Debating US sanctions against Cuba (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/27-10-2015-Unsplash-Havana-Cuba.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/6c33a4c64923fa97c6365285bc03f072c8d87206a119618b67a4987c30ed7d86.txt",
+      "metadata_path": "data/geopolitics/raw/6c33a4c64923fa97c6365285bc03f072c8d87206a119618b67a4987c30ed7d86.json"
+    }
+  ],
+  "txt_before": 1680,
+  "txt_after": 1689
+}

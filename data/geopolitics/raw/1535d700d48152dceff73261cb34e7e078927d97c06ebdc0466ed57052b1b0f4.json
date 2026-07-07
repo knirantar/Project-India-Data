@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e",
-  "content_type": "text/html",
-  "collected_at": "2026-07-07T16:21:27.664006+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.html",
-  "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt"
+  "url": "https://www.npr.org/2026/07/07/g-s1-132265/tanker-attack-strait-of-hormuz",
+  "title": "2 ships are hit in the latest attacks in the Strait of Hormuz, the U.K. military says",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Tue, 07 Jul 2026 01:28:45 -0400",
+  "sha256": "1535d700d48152dceff73261cb34e7e078927d97c06ebdc0466ed57052b1b0f4",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-07T16:21:43.441578+00:00",
+  "text_chars": 6406,
+  "raw_path": "data/geopolitics/raw/1535d700d48152dceff73261cb34e7e078927d97c06ebdc0466ed57052b1b0f4.html",
+  "text_path": "data/geopolitics/raw/1535d700d48152dceff73261cb34e7e078927d97c06ebdc0466ed57052b1b0f4.txt"
 }
