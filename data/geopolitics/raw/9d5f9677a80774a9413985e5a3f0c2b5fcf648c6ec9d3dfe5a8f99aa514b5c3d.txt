@@ -1,0 +1,79 @@
+“Across 11 Global South countries, up to one child per classroom reported that AI was used to make sexually explicit deepfakes of them. Reports of
+ AI-generated child sexual abuse material to the US CyberTip line, NCMEC, are rising exponentially
+,” said Sonia Livingstone, from the 
+Independent International Global Scientific Panel on AI
+.
+Highlighting other key findings from the panel’s first preliminary report mandated by the UN General Assembly, Ms. Livingstone insisted that the evidence for AI-linked violations against individuals, vulnerable and disadvantaged groups was “much more compelling” than the benefits.
+This is because the technology is being used “
+to create and amplify persuasion and deceit, to spread disinformation, distrust”
+, with personal data “taken, manipulated, abused, exploited” by self-learning systems, she maintained.
+
+
+
+
+
+
+UN Photo/Elma Okic
+
+
+Professor Sonia Livingstone, UN Independent International Scientific Panel on Artificial Intelligence, addresses the  Global Dialogue on AI Governance in Geneva, Switzerland.
+
+
+
+
+
+
+Universal issue
+
+
+It is precisely because AI can be used for harm – and for good – that the UN believes all countries should be involved in deciding how the technology should be governed.
+The first Global AI Dialogue in Geneva – on the sidelines of the AI for Good Summit hosted by the UN International Telecommunication Union (
+ITU
+) – will be followed by a second summit next May in New York.
+One way to ensure that AI serves humanity rather than works against it is by hardwiring equality, accountability and human oversight into its design, development and deployment, insisted Volker Türk, UN High Commissioner for Human Rights.
+“We don’t consider safety standards for medicines, cars or aircraft as obstacles to progress. They are the reason why people trust those technologies in the first place,” he stressed.
+Power-grab
+Among the many unresolved governance issues, one of the biggest is the energy-hungry data centres that power today’s AI platforms – prompting an industry-wide transparency call from the UN Secretary-General.
+“Anyone with a cell phone, with mobile service, a laptop can connect to the cloud and profit from AI to some extent. But 
+the impact, the negative impacts that we see are very, very local
+,” said Sasha Luccioni, co-founder of Sustainable AI Group.
+Some of the world’s most marginalized are already suffering “in terms of water and energy and emissions, in terms of the health impacts that are getting more and more dire”, she said.
+Besides the challenge of deciding how to measure the environmental impact of AI, digital policy expert Jhalak Kakkar, from the Centre for Communication Governance at Delhi’s National Law University, worried that it 
+risked making existing inequalities in the Global South worse
+.
+“How do we deal with the implications that economic and other value is being accrued in a location that's very, very far away from the communities that are most impacted?”.
+Code block
+It is becoming increasingly obvious too that as AI development speeds up, the harder it is for legislative checks and balances to keep up.
+“
+We need to be able to open up the black boxes of AI
+,” insisted Morocco’s Amal El Fallah Seghrouchni, who explained that large language models draw on around 180 billion parameters when they operate 24 hours a day, seven days a week. “There are very few lawyers and there are very few sociologists who are in a position to understand exactly what is going on,” she said.
+“Even AI researchers do not have the tools sometimes to understand the complexity of these algorithms.”
+Online abuse trend
+Today, one in four women human rights defenders, activists and journalists taking part in a survey commissioned by the UN gender equality agency, 
+UN Women
+, said they had experienced AI-assisted online violence; six per cent said that they have been victims of deepfakes or digitally manipulated imagery. “
+So much of this goes undocumented, goes unnoticed, goes unreported
+,” said Sima Bahous, Executive Director at UN Women.
+Related to this is the fact that “when we look at who builds AI, women are largely underrepresented” and make up only 30 per cent of the tech’s global workforce, the agency head stressed. According to the Independent International Scientific Panel on AI report, 
+88 per cent of leading AI researchers are male
+.
+
+
+
+
+
+
+UN Photo/Elma Okic
+
+
+Sima Bahous, Executive Director at UN Women, addresses the  Global Dialogue on AI Governance in Geneva, Switzerland.
+
+
+
+
+
+
+Universal debate
+The 
+Global Dialogue on AI Governance 
+exists to ensure that the priorities of all nations are included and not just the most technologically advanced. It’s the UN’s firm belief that the benefits of AI must be shared by all.

@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: General Assembly LIVE: Debating US sanctions against Cuba (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/07-07-2026-UN-Photo-GA-Cuba.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 33397

@@ -1,0 +1,114 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-07T20:48:30.089790+00:00",
+  "new_documents": 17,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/05bde86a120ff44631cf7b9723ed700b56e6ba0f79818ca468b9c8d1659c3c58.txt",
+      "metadata_path": "data/geopolitics/raw/05bde86a120ff44631cf7b9723ed700b56e6ba0f79818ca468b9c8d1659c3c58.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Trump lashes out at NATO as first day of summit wraps in Turkiye",
+      "url": "https://www.aljazeera.com/news/2026/7/7/trump-lashes-out-at-nato-as-first-day-of-summit-wraps-in-turkiye?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/a798db8727500a1bd67c8086b598996f84db429359a6d44fe7f9488ead0072d3.txt",
+      "metadata_path": "data/geopolitics/raw/a798db8727500a1bd67c8086b598996f84db429359a6d44fe7f9488ead0072d3.json"
+    },
+    {
+      "title": "Qatar: Iran is legally responsible for hits on three tankers in strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/jul/07/qatar-says-iran-fully-responsible-after-tankers-struck-in-strait-of-hormuz",
+      "text_path": "data/geopolitics/raw/00cadb8eb142b02c81b2161551c624edea7a161e37611cda6649703593380665.txt",
+      "metadata_path": "data/geopolitics/raw/00cadb8eb142b02c81b2161551c624edea7a161e37611cda6649703593380665.json"
+    },
+    {
+      "title": "Trump criticises NATO allies over Iran conflict support",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/7/trump-criticises-nato-allies-over-iran-conflict-support?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/bac7629fe2c665926dce973645a2d3a5c4378340091fd47145a68b5b23508e32.txt",
+      "metadata_path": "data/geopolitics/raw/bac7629fe2c665926dce973645a2d3a5c4378340091fd47145a68b5b23508e32.json"
+    },
+    {
+      "title": "Attacks on Kyiv ahead of NATO summit: What is Putin's goal?",
+      "url": "https://www.dw.com/en/attacks-on-kyiv-ahead-of-nato-summit-what-is-putin-s-goal/a-77867330?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/78e7709ff9635812be5b2e3031d77f3d639bd8e5c66a90acc04e11a193ae6314.txt",
+      "metadata_path": "data/geopolitics/raw/78e7709ff9635812be5b2e3031d77f3d639bd8e5c66a90acc04e11a193ae6314.json"
+    },
+    {
+      "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
+      "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
+      "text_path": "data/geopolitics/raw/e45b5d3a279fc5f97d9ff4c0dc8c958afb32e48ac1674ee17dd12f0e4c59f00d.txt",
+      "metadata_path": "data/geopolitics/raw/e45b5d3a279fc5f97d9ff4c0dc8c958afb32e48ac1674ee17dd12f0e4c59f00d.json"
+    },
+    {
+      "title": "When AI hurts people, who’s to blame? Global experts grapple with accountability",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167886",
+      "text_path": "data/geopolitics/raw/9d5f9677a80774a9413985e5a3f0c2b5fcf648c6ec9d3dfe5a8f99aa514b5c3d.txt",
+      "metadata_path": "data/geopolitics/raw/9d5f9677a80774a9413985e5a3f0c2b5fcf648c6ec9d3dfe5a8f99aa514b5c3d.json"
+    },
+    {
+      "title": "When AI hurts people, who’s to blame? Global experts grapple with accountability (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/06/12-06-2026-Adobe-China-EV.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/f6a5fe19d64fe203d1e800e576231b12afb3039173c06379dce6b0b153ec11fc.txt",
+      "metadata_path": "data/geopolitics/raw/f6a5fe19d64fe203d1e800e576231b12afb3039173c06379dce6b0b153ec11fc.json"
+    },
+    {
+      "title": "General Assembly LIVE: Debating US sanctions against Cuba (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/07-07-2026-UN-Photo-GA-Cuba.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/64974936af002787cc3f1ef965ad19661cb3bce8966fde5e851f4dbb43013121.txt",
+      "metadata_path": "data/geopolitics/raw/64974936af002787cc3f1ef965ad19661cb3bce8966fde5e851f4dbb43013121.json"
+    }
+  ],
+  "txt_before": 1693,
+  "txt_after": 1701
+}

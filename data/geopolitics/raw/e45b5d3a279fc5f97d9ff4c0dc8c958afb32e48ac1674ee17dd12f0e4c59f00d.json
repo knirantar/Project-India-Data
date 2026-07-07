@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-07T20:48:03.569728+00:00",
-  "text_chars": 9122085,
-  "raw_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.xml",
-  "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt"
+  "url": "https://www.bbc.co.uk/news/articles/ckg06d3dgnlo?at_medium=RSS&at_campaign=rss",
+  "title": "Trump looms large as Nato grapples with challenge of rearming Europe",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Tue, 07 Jul 2026 18:56:19 GMT",
+  "sha256": "e45b5d3a279fc5f97d9ff4c0dc8c958afb32e48ac1674ee17dd12f0e4c59f00d",
+  "content_type": "text/html",
+  "collected_at": "2026-07-07T20:48:27.821992+00:00",
+  "text_chars": 2741,
+  "raw_path": "data/geopolitics/raw/e45b5d3a279fc5f97d9ff4c0dc8c958afb32e48ac1674ee17dd12f0e4c59f00d.html",
+  "text_path": "data/geopolitics/raw/e45b5d3a279fc5f97d9ff4c0dc8c958afb32e48ac1674ee17dd12f0e4c59f00d.txt"
 }
