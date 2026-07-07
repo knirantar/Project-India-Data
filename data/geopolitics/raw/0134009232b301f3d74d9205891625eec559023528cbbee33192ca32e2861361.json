@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-07T07:31:39.569826+00:00",
-  "text_chars": 9122085,
-  "raw_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.xml",
-  "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt"
+  "url": "https://thediplomat.com/2026/07/chinas-closest-island-to-taiwan-is-a-monument-to-reunification/",
+  "title": "China’s Closest Island to Taiwan Is a Monument to Reunification",
+  "source": "https://thediplomat.com/feed/",
+  "published": "Tue, 07 Jul 2026 01:50:00 +0900",
+  "sha256": "0134009232b301f3d74d9205891625eec559023528cbbee33192ca32e2861361",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-07T07:32:10.158878+00:00",
+  "text_chars": 9269,
+  "raw_path": "data/geopolitics/raw/0134009232b301f3d74d9205891625eec559023528cbbee33192ca32e2861361.html",
+  "text_path": "data/geopolitics/raw/0134009232b301f3d74d9205891625eec559023528cbbee33192ca32e2861361.txt"
 }
