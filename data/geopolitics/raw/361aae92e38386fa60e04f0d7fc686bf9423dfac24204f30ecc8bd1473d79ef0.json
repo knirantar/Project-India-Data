@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "05bde86a120ff44631cf7b9723ed700b56e6ba0f79818ca468b9c8d1659c3c58",
-  "content_type": "application/xml",
-  "collected_at": "2026-07-07T18:56:59.910966+00:00",
-  "text_chars": 824644,
-  "raw_path": "data/geopolitics/raw/05bde86a120ff44631cf7b9723ed700b56e6ba0f79818ca468b9c8d1659c3c58.xml",
-  "text_path": "data/geopolitics/raw/05bde86a120ff44631cf7b9723ed700b56e6ba0f79818ca468b9c8d1659c3c58.txt"
+  "url": "https://www.npr.org/2026/07/07/nx-s1-5879166/nato-summit-set-to-begin-in-turkey",
+  "title": "NATO summit set to begin in Turkey",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Tue, 07 Jul 2026 04:41:30 -0400",
+  "sha256": "361aae92e38386fa60e04f0d7fc686bf9423dfac24204f30ecc8bd1473d79ef0",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-07T18:58:00.111392+00:00",
+  "text_chars": 4636,
+  "raw_path": "data/geopolitics/raw/361aae92e38386fa60e04f0d7fc686bf9423dfac24204f30ecc8bd1473d79ef0.html",
+  "text_path": "data/geopolitics/raw/361aae92e38386fa60e04f0d7fc686bf9423dfac24204f30ecc8bd1473d79ef0.txt"
 }
