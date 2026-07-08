@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/32ebd208-d0b7-54ed-bc4a-3c19d5f754df/UNHCR%20Middle%20East%20Situation%20Emergency%20Update%2021.pdf",
+  "title": "Iran: UNHCR Middle East Situation: Emergency Update #21 as of 7 July 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 08 Jul 2026 14:03:12 +0000",
+  "sha256": "823908296e4c1bc9a91d947066d3e4ee96cbd91939e042fb4233e83901eabe9c",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-08T21:00:32.838703+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-07-08T21:00:40.359043+00:00",
+  "text_chars": 35044,
+  "raw_path": "data/geopolitics/raw/823908296e4c1bc9a91d947066d3e4ee96cbd91939e042fb4233e83901eabe9c.pdf",
+  "text_path": "data/geopolitics/raw/823908296e4c1bc9a91d947066d3e4ee96cbd91939e042fb4233e83901eabe9c.txt"
 }
