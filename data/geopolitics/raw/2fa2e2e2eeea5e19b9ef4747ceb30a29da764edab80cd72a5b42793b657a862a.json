@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/8abbd7e0-7435-4514-b1c1-844b719ea605/Abu%20Safiya%20situiation%20English.pdf",
+  "title": "oPt: Urgent action needed to protect Dr. Hussam Abu Safiya [EN/AR] (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 08 Jul 2026 10:54:47 +0000",
+  "sha256": "2fa2e2e2eeea5e19b9ef4747ceb30a29da764edab80cd72a5b42793b657a862a",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-08T12:17:27.433958+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-08T12:17:28.141380+00:00",
+  "text_chars": 3740,
+  "raw_path": "data/geopolitics/raw/2fa2e2e2eeea5e19b9ef4747ceb30a29da764edab80cd72a5b42793b657a862a.pdf",
+  "text_path": "data/geopolitics/raw/2fa2e2e2eeea5e19b9ef4747ceb30a29da764edab80cd72a5b42793b657a862a.txt"
 }

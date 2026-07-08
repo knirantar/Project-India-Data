@@ -1,0 +1,162 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-08T12:17:45.030760+00:00",
+  "new_documents": 25,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Trump declares ceasefire with Iran over during angry broadside at Nato summit",
+      "url": "https://www.theguardian.com/world/2026/jul/08/trump-declares-ceasefire-iran-over-broadside-nato-summit",
+      "text_path": "data/geopolitics/raw/8f09b47f6e4017f875e7daf25b066ae5330fd8d1cce399425be3bf7734788605.txt",
+      "metadata_path": "data/geopolitics/raw/8f09b47f6e4017f875e7daf25b066ae5330fd8d1cce399425be3bf7734788605.json"
+    },
+    {
+      "title": "First Thing: Trump calls Iran’s leaders ‘scum’ and declares fragile ceasefire over",
+      "url": "https://www.theguardian.com/us-news/2026/jul/08/first-thing-trump-iran-leaders-scum-ceasefire-over",
+      "text_path": "data/geopolitics/raw/fa56ef8efdb0780207c36b96191d6c8de0033c4bea38d5c077c6e96d71553884.txt",
+      "metadata_path": "data/geopolitics/raw/fa56ef8efdb0780207c36b96191d6c8de0033c4bea38d5c077c6e96d71553884.json"
+    },
+    {
+      "title": "oPt: Urgent action needed to protect Dr. Hussam Abu Safiya [EN/AR]",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/urgent-action-needed-protect-dr-hussam-abu-safiya-enar",
+      "text_path": "data/geopolitics/raw/2ed66d5eec35b1f3b9f789b43bd8042826d26e7fee665bd2570b2a0e0d0bceb1.txt",
+      "metadata_path": "data/geopolitics/raw/2ed66d5eec35b1f3b9f789b43bd8042826d26e7fee665bd2570b2a0e0d0bceb1.json"
+    },
+    {
+      "title": "oPt: Urgent action needed to protect Dr. Hussam Abu Safiya [EN/AR] (pdf)",
+      "url": "https://reliefweb.int/attachments/8abbd7e0-7435-4514-b1c1-844b719ea605/Abu%20Safiya%20situiation%20English.pdf",
+      "text_path": "data/geopolitics/raw/2fa2e2e2eeea5e19b9ef4747ceb30a29da764edab80cd72a5b42793b657a862a.txt",
+      "metadata_path": "data/geopolitics/raw/2fa2e2e2eeea5e19b9ef4747ceb30a29da764edab80cd72a5b42793b657a862a.json"
+    },
+    {
+      "title": "World: IOM Global WASH Highlights 2025",
+      "url": "https://reliefweb.int/report/world/iom-global-wash-highlights-2025",
+      "text_path": "data/geopolitics/raw/ac256d99a24f962c559c2e4fb3dc4d80bcdc12220884661e804ace2b24f626b6.txt",
+      "metadata_path": "data/geopolitics/raw/ac256d99a24f962c559c2e4fb3dc4d80bcdc12220884661e804ace2b24f626b6.json"
+    },
+    {
+      "title": "oPt: Held at gunpoint: Israeli state-backed settler violence is deepening the healthcare crisis in the West Bank",
+      "url": "https://reliefweb.int/report/occupied-palestinian-territory/held-gunpoint-israeli-state-backed-settler-violence-deepening-healthcare-crisis-west-bank",
+      "text_path": "data/geopolitics/raw/4d6aa6f710cf3cc34ddaf59eff7db2b5d29dc2bf59d6c1993a67955143418249.txt",
+      "metadata_path": "data/geopolitics/raw/4d6aa6f710cf3cc34ddaf59eff7db2b5d29dc2bf59d6c1993a67955143418249.json"
+    },
+    {
+      "title": "From Spain trade to Greenland threats: Key points from Trump's NATO comments",
+      "url": "https://www.france24.com/en/video/20260708-from-spain-trade-to-greenland-threats-key-points-from-trump-s-nato-comments",
+      "text_path": "data/geopolitics/raw/333dcf7cab36b92f64848216aff9f65a7929f5fcf8774c7d9e7cb51f53e135ca.txt",
+      "metadata_path": "data/geopolitics/raw/333dcf7cab36b92f64848216aff9f65a7929f5fcf8774c7d9e7cb51f53e135ca.json"
+    },
+    {
+      "title": "Trump says he believes the Iran ceasefire is 'over.' And, IOC lifts Russia's suspension",
+      "url": "https://www.npr.org/2026/07/08/g-s1-132474/up-first-newsletter-trump-iran-ceasefire-nato-graham-platner-ioc-russia",
+      "text_path": "data/geopolitics/raw/ed1dfaa2976301774c045ea22a93efff3ab71b10c4a8e683deccc1a6aec5ecc7.txt",
+      "metadata_path": "data/geopolitics/raw/ed1dfaa2976301774c045ea22a93efff3ab71b10c4a8e683deccc1a6aec5ecc7.json"
+    },
+    {
+      "title": "Growing Up with a Nation: Children Demand a Say in South Sudan’s Future on 15 years of Independence",
+      "url": "https://reliefweb.int/report/south-sudan/growing-nation-children-demand-say-south-sudans-future-15-years-independence",
+      "text_path": "data/geopolitics/raw/db7833aa75983226eb03070dcdbc32dfd79bfd8109da398df95e52cdb3b90e78.txt",
+      "metadata_path": "data/geopolitics/raw/db7833aa75983226eb03070dcdbc32dfd79bfd8109da398df95e52cdb3b90e78.json"
+    },
+    {
+      "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+      "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+      "text_path": "data/geopolitics/raw/fe0aff8cb434e0953e312e5847eb5b47b1e82e44cc23db576f54b40d29a022d1.txt",
+      "metadata_path": "data/geopolitics/raw/fe0aff8cb434e0953e312e5847eb5b47b1e82e44cc23db576f54b40d29a022d1.json"
+    },
+    {
+      "title": "Trump says ceasefire ‘over’ after US, Iran trade attacks",
+      "url": "https://www.aljazeera.com/news/2026/7/8/trump-says-ceasefire-over-after-us-iran-trade-attacks?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/641cdb434cffc90b9b0e410acd6413170026bf2bb13613656bf5b71f0c0b0de9.txt",
+      "metadata_path": "data/geopolitics/raw/641cdb434cffc90b9b0e410acd6413170026bf2bb13613656bf5b71f0c0b0de9.json"
+    },
+    {
+      "title": "Russia strikes Kyiv as Zelensky, Trump set to meet",
+      "url": "https://www.france24.com/en/video/20260708-russia-strikes-kyiv-as-zelensky-trump-set-to-meet",
+      "text_path": "data/geopolitics/raw/f5bc755f239d304e1a70616549701719b5b7ed399053dce68063f30bfe49a1a7.txt",
+      "metadata_path": "data/geopolitics/raw/f5bc755f239d304e1a70616549701719b5b7ed399053dce68063f30bfe49a1a7.json"
+    },
+    {
+      "title": "World: Historic resolution on neglected tropical diseases adopted by the United Nations Human Rights Council",
+      "url": "https://reliefweb.int/report/world/historic-resolution-neglected-tropical-diseases-adopted-united-nations-human-rights-council",
+      "text_path": "data/geopolitics/raw/23d9c42398384fc83d59d62911fcf7f62f92e5956d0cd93dfc171e289dbc818e.txt",
+      "metadata_path": "data/geopolitics/raw/23d9c42398384fc83d59d62911fcf7f62f92e5956d0cd93dfc171e289dbc818e.json"
+    },
+    {
+      "title": "UNHCR Afghanistan Border Monitoring Report January-April 2026",
+      "url": "https://reliefweb.int/report/afghanistan/unhcr-afghanistan-border-monitoring-report-january-april-2026",
+      "text_path": "data/geopolitics/raw/9059d409e4131b870107b16f42df75712d2f1cf95cbb20dafc51fa23857f8dbf.txt",
+      "metadata_path": "data/geopolitics/raw/9059d409e4131b870107b16f42df75712d2f1cf95cbb20dafc51fa23857f8dbf.json"
+    },
+    {
+      "title": "UNHCR Afghanistan Border Monitoring Report January-April 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/c12bfbad-6e96-5b16-971a-879ef6bd5eda/AFG%20BM%20Report%20-%20Jan%20-%20Apr%202026.pdf",
+      "text_path": "data/geopolitics/raw/b47ac896d21f62241ef544857d23a72cdd8340dfb1e04e86e73cba0c84a626a0.txt",
+      "metadata_path": "data/geopolitics/raw/b47ac896d21f62241ef544857d23a72cdd8340dfb1e04e86e73cba0c84a626a0.json"
+    },
+    {
+      "title": "UK waters hit with extreme heatwave as global sea temperatures reach record levels",
+      "url": "https://www.theguardian.com/environment/2026/jul/08/uk-waters-extreme-heatwave-global-sea-temperatures-record-climate-crisis",
+      "text_path": "data/geopolitics/raw/a41a7c1598d5c821ed76ce7be0df71834017ac79b221bac68dcb1e4f0a6af723.txt",
+      "metadata_path": "data/geopolitics/raw/a41a7c1598d5c821ed76ce7be0df71834017ac79b221bac68dcb1e4f0a6af723.json"
+    }
+  ],
+  "txt_before": 1725,
+  "txt_after": 1741
+}

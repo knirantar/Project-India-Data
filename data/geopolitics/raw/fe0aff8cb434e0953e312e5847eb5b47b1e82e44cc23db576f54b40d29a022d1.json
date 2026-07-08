@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-08T12:17:27.433958+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.bbc.co.uk/news/articles/clyw8w1g409o?at_medium=RSS&at_campaign=rss",
+  "title": "Trump says ceasefire is 'over' after US and Iran trade strikes",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Wed, 08 Jul 2026 11:18:28 GMT",
+  "sha256": "fe0aff8cb434e0953e312e5847eb5b47b1e82e44cc23db576f54b40d29a022d1",
+  "content_type": "text/html",
+  "collected_at": "2026-07-08T12:17:34.975061+00:00",
+  "text_chars": 2199,
+  "raw_path": "data/geopolitics/raw/fe0aff8cb434e0953e312e5847eb5b47b1e82e44cc23db576f54b40d29a022d1.html",
+  "text_path": "data/geopolitics/raw/fe0aff8cb434e0953e312e5847eb5b47b1e82e44cc23db576f54b40d29a022d1.txt"
 }

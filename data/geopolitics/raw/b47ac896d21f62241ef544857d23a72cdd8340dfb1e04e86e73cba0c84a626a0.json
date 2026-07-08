@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/c12bfbad-6e96-5b16-971a-879ef6bd5eda/AFG%20BM%20Report%20-%20Jan%20-%20Apr%202026.pdf",
+  "title": "UNHCR Afghanistan Border Monitoring Report January-April 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 08 Jul 2026 11:03:19 +0000",
+  "sha256": "b47ac896d21f62241ef544857d23a72cdd8340dfb1e04e86e73cba0c84a626a0",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-08T12:17:27.433958+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-08T12:17:44.889572+00:00",
+  "text_chars": 27416,
+  "raw_path": "data/geopolitics/raw/b47ac896d21f62241ef544857d23a72cdd8340dfb1e04e86e73cba0c84a626a0.pdf",
+  "text_path": "data/geopolitics/raw/b47ac896d21f62241ef544857d23a72cdd8340dfb1e04e86e73cba0c84a626a0.txt"
 }
