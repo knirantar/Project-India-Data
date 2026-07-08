@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-08T01:50:16.389032+00:00",
-  "text_chars": 6243887,
-  "raw_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json.raw",
-  "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt"
+  "url": "https://jamestown.org/putin-intensifies-missile-attacks-against-kyiv-ahead-of-nato-summit/",
+  "title": "Putin Intensifies Missile Attacks Against Kyiv Ahead of NATO Summit",
+  "source": "https://jamestown.org/feed/",
+  "published": "Mon, 06 Jul 2026 22:21:37 +0000",
+  "sha256": "43b5232112eb3901cf5aa3452da53ef48ece99c03e3afe4f740395bc50cf83fd",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-08T01:51:14.519648+00:00",
+  "text_chars": 7341,
+  "raw_path": "data/geopolitics/raw/43b5232112eb3901cf5aa3452da53ef48ece99c03e3afe4f740395bc50cf83fd.html",
+  "text_path": "data/geopolitics/raw/43b5232112eb3901cf5aa3452da53ef48ece99c03e3afe4f740395bc50cf83fd.txt"
 }
