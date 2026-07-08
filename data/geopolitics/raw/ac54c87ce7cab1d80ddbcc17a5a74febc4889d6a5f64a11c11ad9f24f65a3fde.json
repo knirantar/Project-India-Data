@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-08T19:11:20.208706+00:00",
-  "text_chars": 6243887,
-  "raw_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json.raw",
-  "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt"
+  "url": "https://www.npr.org/2026/07/08/nx-s1-5884818/the-state-of-the-nato-alliance-amid-trumps-second-term",
+  "title": "The state of the NATO alliance amid Trump's second term",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Wed, 08 Jul 2026 04:52:32 -0400",
+  "sha256": "ac54c87ce7cab1d80ddbcc17a5a74febc4889d6a5f64a11c11ad9f24f65a3fde",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-08T19:12:40.032836+00:00",
+  "text_chars": 5300,
+  "raw_path": "data/geopolitics/raw/ac54c87ce7cab1d80ddbcc17a5a74febc4889d6a5f64a11c11ad9f24f65a3fde.html",
+  "text_path": "data/geopolitics/raw/ac54c87ce7cab1d80ddbcc17a5a74febc4889d6a5f64a11c11ad9f24f65a3fde.txt"
 }
