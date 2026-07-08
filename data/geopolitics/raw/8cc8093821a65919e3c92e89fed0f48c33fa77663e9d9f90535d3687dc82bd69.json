@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-08T22:03:25.136024+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.xml",
-  "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt"
+  "url": "https://foreignpolicy.com/2026/07/08/us-iran-cease-fire-over-trump-nato-summit-strikes-strait-hormuz/",
+  "title": "Is the U.S.-Iran Cease-Fire Over?",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Wed, 08 Jul 2026 20:59:58 +0000",
+  "sha256": "8cc8093821a65919e3c92e89fed0f48c33fa77663e9d9f90535d3687dc82bd69",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-08T22:04:24.155001+00:00",
+  "text_chars": 8791,
+  "raw_path": "data/geopolitics/raw/8cc8093821a65919e3c92e89fed0f48c33fa77663e9d9f90535d3687dc82bd69.html",
+  "text_path": "data/geopolitics/raw/8cc8093821a65919e3c92e89fed0f48c33fa77663e9d9f90535d3687dc82bd69.txt"
 }
