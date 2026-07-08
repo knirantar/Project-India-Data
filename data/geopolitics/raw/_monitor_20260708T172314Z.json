@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-08T17:23:14.117634+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/92589dc224ce48341cee5348b1fe80ee2cc81b683ea7cf4d5fc274a9bb88b43f.txt",
+      "metadata_path": "data/geopolitics/raw/92589dc224ce48341cee5348b1fe80ee2cc81b683ea7cf4d5fc274a9bb88b43f.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Trump gives Zelenskyy vague promise of licence to manufacture Patriot missiles",
+      "url": "https://www.theguardian.com/world/2026/jul/08/trump-zelenskyy-vague-promise-licence-manufacture-patriot-missiles",
+      "text_path": "data/geopolitics/raw/18495d09c1901e299906ffd08b414b5d3046af483765c9563f25c63a7cf68aed.txt",
+      "metadata_path": "data/geopolitics/raw/18495d09c1901e299906ffd08b414b5d3046af483765c9563f25c63a7cf68aed.json"
+    },
+    {
+      "title": "Iran talks in doubts as Trump says ceasefire 'over'",
+      "url": "https://www.france24.com/en/video/20260708-iran-talks-in-doubts-as-trump-says-ceasefire-over",
+      "text_path": "data/geopolitics/raw/2a84d0ea92646157f899e65183a53a90ee06ab3969e0768566526e6e7b652ec7.txt",
+      "metadata_path": "data/geopolitics/raw/2a84d0ea92646157f899e65183a53a90ee06ab3969e0768566526e6e7b652ec7.json"
+    },
+    {
+      "title": "Oil prices rise sharply after Iran launches attacks on tankers near strait of Hormuz",
+      "url": "https://www.theguardian.com/world/2026/jul/08/oil-prices-rise-iran-attack-tankers-strait-of-hormuz",
+      "text_path": "data/geopolitics/raw/07d1b2ce0144aee411e4fd44e69ccde9e5d8fef1e9fd9069956b51e58be6780f.txt",
+      "metadata_path": "data/geopolitics/raw/07d1b2ce0144aee411e4fd44e69ccde9e5d8fef1e9fd9069956b51e58be6780f.json"
+    },
+    {
+      "title": "Zelenskyy seeks NATO support as Russia continues attacks",
+      "url": "https://www.aljazeera.com/video/newsfeed/2026/7/8/zelenskyy-seeks-nato-support-as-russia-continues-attacks?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/e3ff4b1b37391879439417a760cb173d85d8a39b08dba8542a332441d2f376ec.txt",
+      "metadata_path": "data/geopolitics/raw/e3ff4b1b37391879439417a760cb173d85d8a39b08dba8542a332441d2f376ec.json"
+    },
+    {
+      "title": "Sudan: ‘El Obeid must not become the next crime scene’ warn UN investigators (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/13-04-2026-UNOCHA-Sudan-Darfur-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/916f14ce3c6130a87e11bae76d69b7803e58dc125ea03f44f207056c37d357ef.txt",
+      "metadata_path": "data/geopolitics/raw/916f14ce3c6130a87e11bae76d69b7803e58dc125ea03f44f207056c37d357ef.json"
+    }
+  ],
+  "txt_before": 1756,
+  "txt_after": 1761
+}
