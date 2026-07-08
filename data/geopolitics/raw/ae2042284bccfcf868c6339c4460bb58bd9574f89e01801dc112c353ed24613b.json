@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-08T05:02:45.567495+00:00",
-  "text_chars": 6161766,
-  "raw_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json.raw",
-  "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt"
+  "url": "https://www.npr.org/2026/07/07/nx-s1-5883812/whats-at-stake-at-the-nato-summit-in-turkey",
+  "title": "What's at stake at the NATO summit in Turkey",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Tue, 07 Jul 2026 16:58:28 -0400",
+  "sha256": "ae2042284bccfcf868c6339c4460bb58bd9574f89e01801dc112c353ed24613b",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-08T05:03:51.599978+00:00",
+  "text_chars": 4661,
+  "raw_path": "data/geopolitics/raw/ae2042284bccfcf868c6339c4460bb58bd9574f89e01801dc112c353ed24613b.html",
+  "text_path": "data/geopolitics/raw/ae2042284bccfcf868c6339c4460bb58bd9574f89e01801dc112c353ed24613b.txt"
 }
