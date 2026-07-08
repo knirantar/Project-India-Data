@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: Grim homecoming: Devastation greets Lebanon's war-weary returnees (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/30-03-2026-UNIFIL-Lebanon-03.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 46486

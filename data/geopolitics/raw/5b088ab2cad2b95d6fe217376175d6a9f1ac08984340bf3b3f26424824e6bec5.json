@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "video_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e",
-  "content_type": "text/html",
-  "collected_at": "2026-07-08T15:13:11.717749+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.html",
-  "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt"
+  "url": "https://www.france24.com/en/video/20260708-replay-macron-addresses-ukraine-greenland-at-nato-summit",
+  "title": "REPLAY: Macron addresses Ukraine, Greenland at NATO summit",
+  "source": "https://www.france24.com/en/rss",
+  "published": "Wed, 08 Jul 2026 13:46:01 GMT",
+  "sha256": "5b088ab2cad2b95d6fe217376175d6a9f1ac08984340bf3b3f26424824e6bec5",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-08T15:13:26.031333+00:00",
+  "text_chars": 333,
+  "raw_path": "data/geopolitics/raw/5b088ab2cad2b95d6fe217376175d6a9f1ac08984340bf3b3f26424824e6bec5.html",
+  "text_path": "data/geopolitics/raw/5b088ab2cad2b95d6fe217376175d6a9f1ac08984340bf3b3f26424824e6bec5.txt"
 }

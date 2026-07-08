@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e",
-  "content_type": "text/html",
-  "collected_at": "2026-07-08T15:13:11.717749+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.html",
-  "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/07/1167893",
+  "title": "Grim homecoming: Devastation greets Lebanon's war-weary returnees",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Wed, 08 Jul 2026 12:00:00 +0000",
+  "sha256": "0d844db707cf9694002ac47ffad0cf139d681113d503e7e8b59cfe418bd469c4",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-08T15:13:20.220468+00:00",
+  "text_chars": 4037,
+  "raw_path": "data/geopolitics/raw/0d844db707cf9694002ac47ffad0cf139d681113d503e7e8b59cfe418bd469c4.html",
+  "text_path": "data/geopolitics/raw/0d844db707cf9694002ac47ffad0cf139d681113d503e7e8b59cfe418bd469c4.txt"
 }
