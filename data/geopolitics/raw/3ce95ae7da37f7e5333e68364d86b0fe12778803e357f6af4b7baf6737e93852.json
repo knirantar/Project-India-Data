@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/a830e714-0a04-4708-925a-bf20995b0542/WFP-Annual%20Performance%20Report%202025_English.pdf",
+  "title": "World: UN WFP Annual Performance Report 2025 _ Delivering faster and smarter despite compounding crises (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 09 Jul 2026 10:10:32 +0000",
+  "sha256": "3ce95ae7da37f7e5333e68364d86b0fe12778803e357f6af4b7baf6737e93852",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-09T10:53:58.078923+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-09T10:54:03.885268+00:00",
+  "text_chars": 260041,
+  "raw_path": "data/geopolitics/raw/3ce95ae7da37f7e5333e68364d86b0fe12778803e357f6af4b7baf6737e93852.pdf",
+  "text_path": "data/geopolitics/raw/3ce95ae7da37f7e5333e68364d86b0fe12778803e357f6af4b7baf6737e93852.txt"
 }
