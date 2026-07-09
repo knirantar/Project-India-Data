@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: Diplomats go virtual to witness Gaza displacement site up close (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Libraries/Production%20Library/16-06-2025_UNDP_Gaza_Water_04.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/all/rss.xml
+Content-Type: image/jpeg
+Bytes: 44542
