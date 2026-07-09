@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-09T00:02:39.180825+00:00",
-  "text_chars": 6161766,
-  "raw_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json.raw",
-  "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt"
+  "url": "https://foreignpolicy.com/2026/07/08/trump-nato-ankara-summit-iran-ukraine-greenland-spain/",
+  "title": "Trump Hands NATO a Mixed Bag",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Wed, 08 Jul 2026 22:06:40 +0000",
+  "sha256": "99872f9cb4c96e374c06acc0fd97df6f98c47ef3cf0acc97a8f7b9e0cc513eff",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-09T00:03:33.215086+00:00",
+  "text_chars": 9483,
+  "raw_path": "data/geopolitics/raw/99872f9cb4c96e374c06acc0fd97df6f98c47ef3cf0acc97a8f7b9e0cc513eff.html",
+  "text_path": "data/geopolitics/raw/99872f9cb4c96e374c06acc0fd97df6f98c47ef3cf0acc97a8f7b9e0cc513eff.txt"
 }
