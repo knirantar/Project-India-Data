@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-09T07:36:06.912182+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://www.npr.org/2026/07/09/nx-s1-5887053/trump-nato-zelenskyy",
+  "title": "Trump wraps NATO summit on a positive note,  after meeting Zelenskyy",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Thu, 09 Jul 2026 02:11:11 -0400",
+  "sha256": "35725bd8bc725c37396aa720242f8de9234d46fa3b0b01869c40900d5edaeffe",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-09T07:36:19.202218+00:00",
+  "text_chars": 7844,
+  "raw_path": "data/geopolitics/raw/35725bd8bc725c37396aa720242f8de9234d46fa3b0b01869c40900d5edaeffe.html",
+  "text_path": "data/geopolitics/raw/35725bd8bc725c37396aa720242f8de9234d46fa3b0b01869c40900d5edaeffe.txt"
 }
