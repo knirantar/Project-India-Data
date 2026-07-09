@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-09T03:38:38.413030+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.npr.org/2026/07/08/nx-s1-5886102/trump-threatens-iran-as-nato-summit-wraps",
+  "title": "Trump threatens Iran as NATO summit wraps",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Wed, 08 Jul 2026 16:02:03 -0400",
+  "sha256": "eeae43dcd86852460e7712d6864bfa555d1c41ed7ebfcb5d32c299b973d605ac",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-09T03:38:51.763433+00:00",
+  "text_chars": 8230,
+  "raw_path": "data/geopolitics/raw/eeae43dcd86852460e7712d6864bfa555d1c41ed7ebfcb5d32c299b973d605ac.html",
+  "text_path": "data/geopolitics/raw/eeae43dcd86852460e7712d6864bfa555d1c41ed7ebfcb5d32c299b973d605ac.txt"
 }
