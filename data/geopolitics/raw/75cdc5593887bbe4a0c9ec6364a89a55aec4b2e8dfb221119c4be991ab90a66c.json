@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "431036efd6727482412c3f072a56008a1b7d183aa7fac27c2824349727aff48d",
-  "content_type": "application/xml",
-  "collected_at": "2026-07-09T16:25:16.585202+00:00",
-  "text_chars": 824840,
-  "raw_path": "data/geopolitics/raw/431036efd6727482412c3f072a56008a1b7d183aa7fac27c2824349727aff48d.xml",
-  "text_path": "data/geopolitics/raw/431036efd6727482412c3f072a56008a1b7d183aa7fac27c2824349727aff48d.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/07/1167905",
+  "title": "US-Iran war leaves shipping at near-standstill in Hormuz again",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Thu, 09 Jul 2026 12:00:00 +0000",
+  "sha256": "75cdc5593887bbe4a0c9ec6364a89a55aec4b2e8dfb221119c4be991ab90a66c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-09T16:26:06.704039+00:00",
+  "text_chars": 2377,
+  "raw_path": "data/geopolitics/raw/75cdc5593887bbe4a0c9ec6364a89a55aec4b2e8dfb221119c4be991ab90a66c.html",
+  "text_path": "data/geopolitics/raw/75cdc5593887bbe4a0c9ec6364a89a55aec4b2e8dfb221119c4be991ab90a66c.txt"
 }
