@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-10T00:00:02.853812+00:00",
-  "text_chars": 9122085,
-  "raw_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.xml",
-  "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt"
+  "sha256": "4eb8de5c098fef065121401b95b5e17a5fb34a64ecbc8592c039153c9b768240",
+  "content_type": "application/xml",
+  "collected_at": "2026-07-09T23:59:27.044186+00:00",
+  "text_chars": 824840,
+  "raw_path": "data/geopolitics/raw/4eb8de5c098fef065121401b95b5e17a5fb34a64ecbc8592c039153c9b768240.xml",
+  "text_path": "data/geopolitics/raw/4eb8de5c098fef065121401b95b5e17a5fb34a64ecbc8592c039153c9b768240.txt"
 }

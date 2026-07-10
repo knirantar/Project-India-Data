@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/7fca94ea-0d48-4e91-9c96-25c16b033a89/IFRC%20GO%20-%20Field%20Report%20DetailsBDG4.pdf",
+  "title": "Bangladesh: BGD: Flood - 07-2026 - Situation Report-4, Monsoon depression in Cox’s Bazar (2026-07-09) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 09 Jul 2026 23:32:04 +0000",
+  "sha256": "68c56298793082cd0cf000233042e5c1ead6d392a49af6291a61aaa9f37de26b",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-10T00:00:06.033057+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-10T00:00:32.076246+00:00",
+  "text_chars": 14675,
+  "raw_path": "data/geopolitics/raw/68c56298793082cd0cf000233042e5c1ead6d392a49af6291a61aaa9f37de26b.pdf",
+  "text_path": "data/geopolitics/raw/68c56298793082cd0cf000233042e5c1ead6d392a49af6291a61aaa9f37de26b.txt"
 }

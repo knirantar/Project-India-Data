@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/bfcf3ae6-b082-4745-951c-8ca33d0c23ac/20260601-FEWS-NET-mw-fso-1783601765.pdf",
+  "title": "Malawi Food Security Outlook June 2026 - January 2027: Crisis (IPC Phase 3) anticipated in the south through January driven by weather shocks (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Thu, 09 Jul 2026 23:36:39 +0000",
+  "sha256": "143f100c2d1d6eaff9c8995674b38eb2df52ef4f666a1c981adc3885aedf1417",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-10T00:00:06.033057+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-10T00:00:29.865361+00:00",
+  "text_chars": 42665,
+  "raw_path": "data/geopolitics/raw/143f100c2d1d6eaff9c8995674b38eb2df52ef4f666a1c981adc3885aedf1417.pdf",
+  "text_path": "data/geopolitics/raw/143f100c2d1d6eaff9c8995674b38eb2df52ef4f666a1c981adc3885aedf1417.txt"
 }

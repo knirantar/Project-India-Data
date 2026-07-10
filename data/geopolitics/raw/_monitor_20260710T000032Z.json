@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-10T00:00:32.095344+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4eb8de5c098fef065121401b95b5e17a5fb34a64ecbc8592c039153c9b768240.txt",
+      "metadata_path": "data/geopolitics/raw/4eb8de5c098fef065121401b95b5e17a5fb34a64ecbc8592c039153c9b768240.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "South Sudan at 15: A humanitarian journey through conflict, resilience and hope",
+      "url": "https://reliefweb.int/report/south-sudan/south-sudan-15-humanitarian-journey-through-conflict-resilience-and-hope",
+      "text_path": "data/geopolitics/raw/010d7fa76aa6511ad059065e5138fb28a6ad0b3a61a28a79a227221e5d260f77.txt",
+      "metadata_path": "data/geopolitics/raw/010d7fa76aa6511ad059065e5138fb28a6ad0b3a61a28a79a227221e5d260f77.json"
+    },
+    {
+      "title": "Malawi Food Security Outlook June 2026 - January 2027: Crisis (IPC Phase 3) anticipated in the south through January driven by weather shocks (pdf)",
+      "url": "https://reliefweb.int/attachments/bfcf3ae6-b082-4745-951c-8ca33d0c23ac/20260601-FEWS-NET-mw-fso-1783601765.pdf",
+      "text_path": "data/geopolitics/raw/143f100c2d1d6eaff9c8995674b38eb2df52ef4f666a1c981adc3885aedf1417.txt",
+      "metadata_path": "data/geopolitics/raw/143f100c2d1d6eaff9c8995674b38eb2df52ef4f666a1c981adc3885aedf1417.json"
+    },
+    {
+      "title": "Bangladesh: BGD: Flood - 07-2026 - Situation Report-4, Monsoon depression in Cox’s Bazar (2026-07-09)",
+      "url": "https://reliefweb.int/report/bangladesh/bgd-flood-07-2026-situation-report-4-monsoon-depression-coxs-bazar-2026-07-09",
+      "text_path": "data/geopolitics/raw/b73b052f8f003a32deb316af5969fe674498092d8db753957dbd5c34ea397165.txt",
+      "metadata_path": "data/geopolitics/raw/b73b052f8f003a32deb316af5969fe674498092d8db753957dbd5c34ea397165.json"
+    },
+    {
+      "title": "Bangladesh: BGD: Flood - 07-2026 - Situation Report-4, Monsoon depression in Cox’s Bazar (2026-07-09) (pdf)",
+      "url": "https://reliefweb.int/attachments/7fca94ea-0d48-4e91-9c96-25c16b033a89/IFRC%20GO%20-%20Field%20Report%20DetailsBDG4.pdf",
+      "text_path": "data/geopolitics/raw/68c56298793082cd0cf000233042e5c1ead6d392a49af6291a61aaa9f37de26b.txt",
+      "metadata_path": "data/geopolitics/raw/68c56298793082cd0cf000233042e5c1ead6d392a49af6291a61aaa9f37de26b.json"
+    }
+  ],
+  "txt_before": 1818,
+  "txt_after": 1823
+}
