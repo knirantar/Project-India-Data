@@ -1,0 +1,90 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-10T16:18:44.437624+00:00",
+  "new_documents": 13,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4eb8de5c098fef065121401b95b5e17a5fb34a64ecbc8592c039153c9b768240.txt",
+      "metadata_path": "data/geopolitics/raw/4eb8de5c098fef065121401b95b5e17a5fb34a64ecbc8592c039153c9b768240.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Security Council LIVE: Amid rising regional tensions, members address Iran nuclear deal (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/29-04-2026-IRCS-Iran-Tehran-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/d03d5132a93cf5f368c86e5bce7c23831bfd09254c3cc81e1c8e3b1107db19bf.txt",
+      "metadata_path": "data/geopolitics/raw/d03d5132a93cf5f368c86e5bce7c23831bfd09254c3cc81e1c8e3b1107db19bf.json"
+    },
+    {
+      "title": "Ukraine chokes fuel to Crimea, Russian consumers, targeting military supply",
+      "url": "https://www.aljazeera.com/news/2026/7/10/ukraine-chokes-fuel-to-crimea-russian-consumers-targeting-military-supply?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/1ab15003e812a90955e01452120cb6ea1b56d5599f942291c92df0c87ddcce62.txt",
+      "metadata_path": "data/geopolitics/raw/1ab15003e812a90955e01452120cb6ea1b56d5599f942291c92df0c87ddcce62.json"
+    },
+    {
+      "title": "Andy Burnham apology for Labour stance on Gaza: Is UK’s position shifting?",
+      "url": "https://www.aljazeera.com/features/2026/7/10/andy-burnham-apology-for-labour-stance-on-gaza-is-uks-position-shifting?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/7f5547f15c67cd0319c5af6f3ec8ca560ac51d43b8dd070665c28c8bb7b72031.txt",
+      "metadata_path": "data/geopolitics/raw/7f5547f15c67cd0319c5af6f3ec8ca560ac51d43b8dd070665c28c8bb7b72031.json"
+    }
+  ],
+  "txt_before": 1839,
+  "txt_after": 1842
+}
