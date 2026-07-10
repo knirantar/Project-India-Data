@@ -1,0 +1,102 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-10T10:17:29.213276+00:00",
+  "new_documents": 15,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.txt",
+      "metadata_path": "data/geopolitics/raw/4e96af748827d84dd5b4a0da6f855cf0242099672797fe73bcf10bed7c8726a7.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.txt",
+      "metadata_path": "data/geopolitics/raw/824a913dc40b072461625e2f26528a8555f8358b7421a5b1d544b8f764103f23.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Going Over the Brink: How Hizballah’s Risk Strategy Made Lebanon Impossible to Ignore",
+      "url": "https://warontherocks.com/going-over-the-brink-how-hizballahs-risk-strategy-made-lebanon-impossible-to-ignore/",
+      "text_path": "data/geopolitics/raw/c26b31c10a69f14d548a517d1968e077a6c565984cf976f0e849b4f1d1e172ab.txt",
+      "metadata_path": "data/geopolitics/raw/c26b31c10a69f14d548a517d1968e077a6c565984cf976f0e849b4f1d1e172ab.json"
+    },
+    {
+      "title": "Trump grants Kyiv Patriots licences: What’s next in the Russia-Ukraine war?",
+      "url": "https://www.aljazeera.com/news/2026/7/10/trump-grants-kyiv-patriots-licences-whats-next-in-the-russia-ukraine-war?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/d36e0e49bc6eff66b1c54cb7baecbd971777fc5a667c987a94f39dde864677f2.txt",
+      "metadata_path": "data/geopolitics/raw/d36e0e49bc6eff66b1c54cb7baecbd971777fc5a667c987a94f39dde864677f2.json"
+    },
+    {
+      "title": "The US is building a new pressure architecture against Iran",
+      "url": "https://www.aljazeera.com/opinions/2026/7/10/the-us-is-building-a-new-pressure-architecture-against-iran?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/f6c9f16e8d3ae22a70716ba0dc78af740bb83d536c90ef9514e336c00038be11.txt",
+      "metadata_path": "data/geopolitics/raw/f6c9f16e8d3ae22a70716ba0dc78af740bb83d536c90ef9514e336c00038be11.json"
+    },
+    {
+      "title": "Philippine Defense Chief Dismisses Chinese Scholars’ Claim Over Northernmost Province",
+      "url": "https://thediplomat.com/2026/07/philippine-defense-chief-dismisses-chinese-scholars-claim-over-northernmost-province/",
+      "text_path": "data/geopolitics/raw/7591352d8d18f692ac5a6643858a691ffb729e20ef1788f66e96b5778d513bf7.txt",
+      "metadata_path": "data/geopolitics/raw/7591352d8d18f692ac5a6643858a691ffb729e20ef1788f66e96b5778d513bf7.json"
+    },
+    {
+      "title": "Italy busts Russian spy ring collecting data on Ukrainian air defense vulnerabilities",
+      "url": "https://www.defensenews.com/global/europe/2026/07/10/italy-busts-russian-spy-ring-collecting-data-on-ukrainian-air-defense-vulnerabilities/",
+      "text_path": "data/geopolitics/raw/c6e875635f560ad8418b2c40280b3dd6daa284a70a229bcf79626eba12f8509d.txt",
+      "metadata_path": "data/geopolitics/raw/c6e875635f560ad8418b2c40280b3dd6daa284a70a229bcf79626eba12f8509d.json"
+    },
+    {
+      "title": "Defence spending, Erdogan-style: Guns for NATO leaders (image)",
+      "url": "https://s.france24.com/media/display/dc6bb6c2-7c42-11f1-8e14-005056bfb2b6/w:1024/p:16x9/2026-07-09T104542Z-1290678611-RC28AMAEPS21-RTRMADP-3-NATO-SUMMIT-REVOLVERS.jpg",
+      "text_path": "data/geopolitics/raw/39e237f5c6ec3b04bba75e68665a9c2ab6bb5674f1264c497abd85fb70d40c2b.txt",
+      "metadata_path": "data/geopolitics/raw/39e237f5c6ec3b04bba75e68665a9c2ab6bb5674f1264c497abd85fb70d40c2b.json"
+    }
+  ],
+  "txt_before": 1830,
+  "txt_after": 1836
+}
