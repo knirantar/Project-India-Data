@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/3b1a99ca-eaa4-4b94-8fbd-b02056526b82/UNFPA%20Lebanon%20Situation%20Report%20%2823%20June%20-%207%20July%202026%29.pdf",
+  "title": "UNFPA Situation Report: Lebanon Crisis (23 June - 7 July 2026) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Fri, 10 Jul 2026 01:35:28 +0000",
+  "sha256": "edc6a51e787c8a45e637d033bd51f8547375b66468531e07a914e7e42de2b635",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-10T02:53:17.600967+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-10T02:53:24.252671+00:00",
+  "text_chars": 14229,
+  "raw_path": "data/geopolitics/raw/edc6a51e787c8a45e637d033bd51f8547375b66468531e07a914e7e42de2b635.pdf",
+  "text_path": "data/geopolitics/raw/edc6a51e787c8a45e637d033bd51f8547375b66468531e07a914e7e42de2b635.txt"
 }
