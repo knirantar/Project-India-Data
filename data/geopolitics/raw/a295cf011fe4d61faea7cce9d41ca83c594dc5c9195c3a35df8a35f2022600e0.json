@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-12T08:03:01.848757+00:00",
-  "text_chars": 6161766,
-  "raw_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json.raw",
-  "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt"
+  "url": "https://www.bbc.co.uk/news/articles/cvgj25j6nmeo?at_medium=RSS&at_campaign=rss",
+  "title": "US Senator Lindsey Graham dies after 'brief and sudden illness', his office says",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Sun, 12 Jul 2026 07:33:12 GMT",
+  "sha256": "a295cf011fe4d61faea7cce9d41ca83c594dc5c9195c3a35df8a35f2022600e0",
+  "content_type": "text/html",
+  "collected_at": "2026-07-12T08:04:10.042534+00:00",
+  "text_chars": 1498,
+  "raw_path": "data/geopolitics/raw/a295cf011fe4d61faea7cce9d41ca83c594dc5c9195c3a35df8a35f2022600e0.html",
+  "text_path": "data/geopolitics/raw/a295cf011fe4d61faea7cce9d41ca83c594dc5c9195c3a35df8a35f2022600e0.txt"
 }
