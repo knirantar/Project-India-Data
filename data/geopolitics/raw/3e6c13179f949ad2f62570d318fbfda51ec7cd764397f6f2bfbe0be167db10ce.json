@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/0d045a1a-5ee7-4006-b351-e9940652225f/VE_%20Earthquake%20Situation%20in%20Venezuela_OCHA_11July%202026_18.pdf",
+  "title": "Earthquakes in Venezuela: Situation Report #18 (11 July 2026, Time: 09:00 pm) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Sun, 12 Jul 2026 04:26:56 +0000",
+  "sha256": "3e6c13179f949ad2f62570d318fbfda51ec7cd764397f6f2bfbe0be167db10ce",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-12T11:08:43.300004+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-07-12T11:09:01.267411+00:00",
+  "text_chars": 26722,
+  "raw_path": "data/geopolitics/raw/3e6c13179f949ad2f62570d318fbfda51ec7cd764397f6f2bfbe0be167db10ce.pdf",
+  "text_path": "data/geopolitics/raw/3e6c13179f949ad2f62570d318fbfda51ec7cd764397f6f2bfbe0be167db10ce.txt"
 }
