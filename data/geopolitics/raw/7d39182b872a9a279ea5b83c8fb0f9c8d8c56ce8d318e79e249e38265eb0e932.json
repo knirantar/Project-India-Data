@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-12T05:21:27.827906+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "url": "https://www.theguardian.com/us-news/2026/jul/12/trump-nato-summit-ankara",
+  "title": "US allies apprehensive after capricious Trump changes tune at Nato summit",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Sun, 12 Jul 2026 05:00:09 GMT",
+  "sha256": "7d39182b872a9a279ea5b83c8fb0f9c8d8c56ce8d318e79e249e38265eb0e932",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-12T05:21:40.448754+00:00",
+  "text_chars": 8118,
+  "raw_path": "data/geopolitics/raw/7d39182b872a9a279ea5b83c8fb0f9c8d8c56ce8d318e79e249e38265eb0e932.html",
+  "text_path": "data/geopolitics/raw/7d39182b872a9a279ea5b83c8fb0f9c8d8c56ce8d318e79e249e38265eb0e932.txt"
 }
