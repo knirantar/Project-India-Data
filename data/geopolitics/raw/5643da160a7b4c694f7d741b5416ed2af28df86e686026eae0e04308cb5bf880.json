@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-13T21:46:17.103577+00:00",
-  "text_chars": 6161766,
-  "raw_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json.raw",
-  "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt"
+  "url": "https://foreignpolicy.com/2026/07/13/ukraine-drone-strike-russia-energy-oil-refinery-putin/",
+  "title": "Russian Energy Is Now at Ukraine’s Mercy",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Mon, 13 Jul 2026 20:10:12 +0000",
+  "sha256": "5643da160a7b4c694f7d741b5416ed2af28df86e686026eae0e04308cb5bf880",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-13T21:47:07.740804+00:00",
+  "text_chars": 4734,
+  "raw_path": "data/geopolitics/raw/5643da160a7b4c694f7d741b5416ed2af28df86e686026eae0e04308cb5bf880.html",
+  "text_path": "data/geopolitics/raw/5643da160a7b4c694f7d741b5416ed2af28df86e686026eae0e04308cb5bf880.txt"
 }

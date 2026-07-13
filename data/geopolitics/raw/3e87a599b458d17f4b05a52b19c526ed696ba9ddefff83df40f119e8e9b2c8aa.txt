@@ -1,0 +1,6 @@
+Binary images source collected for Global Geopolitics Monitor.
+Title: Security Council LIVE: Top UN officials call for de-escalation in Yemen (image)
+URL: https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/15-08-2024-UNFPA-Yemen-02.jpg/image560x340cropped.jpg
+Source: https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml
+Content-Type: image/jpeg
+Bytes: 41642
