@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-13T05:29:58.131335+00:00",
-  "text_chars": 6161766,
-  "raw_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json.raw",
-  "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt"
+  "url": "https://www.bbc.co.uk/news/articles/cevlr112pmgo?at_medium=RSS&at_campaign=rss",
+  "title": "US and Iran trade fire as tensions rise over Strait of Hormuz",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Mon, 13 Jul 2026 05:00:46 GMT",
+  "sha256": "554e7ed7874f200a553dbf62d3896442dbb4687bb565478f4a4c1c6e9a7be80f",
+  "content_type": "text/html",
+  "collected_at": "2026-07-13T05:30:45.655540+00:00",
+  "text_chars": 3307,
+  "raw_path": "data/geopolitics/raw/554e7ed7874f200a553dbf62d3896442dbb4687bb565478f4a4c1c6e9a7be80f.html",
+  "text_path": "data/geopolitics/raw/554e7ed7874f200a553dbf62d3896442dbb4687bb565478f4a4c1c6e9a7be80f.txt"
 }
