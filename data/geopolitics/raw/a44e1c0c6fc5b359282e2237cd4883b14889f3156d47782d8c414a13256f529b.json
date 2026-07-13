@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-13T01:54:03.895124+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.xml",
-  "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt"
+  "url": "https://www.bbc.co.uk/news/articles/cvge2nd611zo?at_medium=RSS&at_campaign=rss",
+  "title": "US Senator Mitch McConnell says absence due to fall and pneumonia",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Sun, 12 Jul 2026 23:41:00 GMT",
+  "sha256": "a44e1c0c6fc5b359282e2237cd4883b14889f3156d47782d8c414a13256f529b",
+  "content_type": "text/html",
+  "collected_at": "2026-07-13T01:55:03.827334+00:00",
+  "text_chars": 2008,
+  "raw_path": "data/geopolitics/raw/a44e1c0c6fc5b359282e2237cd4883b14889f3156d47782d8c414a13256f529b.html",
+  "text_path": "data/geopolitics/raw/a44e1c0c6fc5b359282e2237cd4883b14889f3156d47782d8c414a13256f529b.txt"
 }

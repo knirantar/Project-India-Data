@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "pdfs",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-13T01:54:03.895124+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.xml",
-  "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt"
+  "url": "https://reliefweb.int/attachments/d56c9676-9c62-4c9a-9e71-7f00a649ea7f/MDRKG016eapar1.pdf",
+  "title": "Kyrgyzstan | Heat Wave - Early Action Protocol Activation Report (EAP2023KG02) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 13 Jul 2026 00:29:07 +0000",
+  "sha256": "16fbd2ee4c8a3235b0e4553d463abcec9ef6dffaf2f051bfa46a75b1d4cef97a",
+  "content_type": "application/pdf",
+  "collected_at": "2026-07-13T01:55:03.687578+00:00",
+  "text_chars": 20737,
+  "raw_path": "data/geopolitics/raw/16fbd2ee4c8a3235b0e4553d463abcec9ef6dffaf2f051bfa46a75b1d4cef97a.pdf",
+  "text_path": "data/geopolitics/raw/16fbd2ee4c8a3235b0e4553d463abcec9ef6dffaf2f051bfa46a75b1d4cef97a.txt"
 }
