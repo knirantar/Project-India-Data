@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/ef981936-fd28-4cb9-ac05-bb04fa61ff82/WFP%20Zimbabwe%20June%202026%20CB_final%20v2final_2.pdf",
+  "title": "WFP Zimbabwe Country Brief, June 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 13 Jul 2026 09:17:48 +0000",
+  "sha256": "d60cd16cdcfe22993f7f7c19d0181c1f1c88a29e15a39a61f28a03461dbb97ff",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-13T11:55:19.061560+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-13T11:56:10.250889+00:00",
+  "text_chars": 8425,
+  "raw_path": "data/geopolitics/raw/d60cd16cdcfe22993f7f7c19d0181c1f1c88a29e15a39a61f28a03461dbb97ff.pdf",
+  "text_path": "data/geopolitics/raw/d60cd16cdcfe22993f7f7c19d0181c1f1c88a29e15a39a61f28a03461dbb97ff.txt"
 }

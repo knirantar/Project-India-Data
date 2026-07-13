@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-13T11:55:19.061560+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+  "title": "Senator Lindsey Graham died of aortic tear, examiner says",
+  "source": "https://feeds.bbci.co.uk/news/world/rss.xml",
+  "published": "Mon, 13 Jul 2026 10:14:01 GMT",
+  "sha256": "c793f7b417231d5c174b364bf6d26ff2ff3751ac025e6a8ee3a4f21a3d6c235a",
+  "content_type": "text/html",
+  "collected_at": "2026-07-13T11:56:09.932410+00:00",
+  "text_chars": 1828,
+  "raw_path": "data/geopolitics/raw/c793f7b417231d5c174b364bf6d26ff2ff3751ac025e6a8ee3a4f21a3d6c235a.html",
+  "text_path": "data/geopolitics/raw/c793f7b417231d5c174b364bf6d26ff2ff3751ac025e6a8ee3a4f21a3d6c235a.txt"
 }

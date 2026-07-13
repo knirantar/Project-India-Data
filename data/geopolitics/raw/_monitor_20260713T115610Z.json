@@ -1,0 +1,144 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-13T11:56:10.978690+00:00",
+  "new_documents": 22,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt",
+      "metadata_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/8f0ef27af29ca41c471db4321a28fa523643e8ee7abe2df9a443d8a89ad660f7.txt",
+      "metadata_path": "data/geopolitics/raw/8f0ef27af29ca41c471db4321a28fa523643e8ee7abe2df9a443d8a89ad660f7.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/b01b487e5c9a8f4ffded8148b32b3b5bea788504c150311171118eda245f00d4.txt",
+      "metadata_path": "data/geopolitics/raw/b01b487e5c9a8f4ffded8148b32b3b5bea788504c150311171118eda245f00d4.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Ukraine: Humanitarian Access Severity Overview (May 2026)",
+      "url": "https://reliefweb.int/report/ukraine/ukraine-humanitarian-access-severity-overview-may-2026",
+      "text_path": "data/geopolitics/raw/46c41234ede9505e4a41e3617daa20bea6e83270f343be9097aeba1218f38be2.txt",
+      "metadata_path": "data/geopolitics/raw/46c41234ede9505e4a41e3617daa20bea6e83270f343be9097aeba1218f38be2.json"
+    },
+    {
+      "title": "Ukraine: Humanitarian Access Severity Overview (May 2026) (pdf)",
+      "url": "https://reliefweb.int/attachments/fc149844-0398-4457-b051-a92b50c6106a/UKR%20Humanitarian%20Access%20Severity%20Overview%20%5BMay%202026%5D.pdf",
+      "text_path": "data/geopolitics/raw/3d62cbd818d8c210496ec06c82d80ff3290a7f5770d70cd514e1ebf5d7e74e2f.txt",
+      "metadata_path": "data/geopolitics/raw/3d62cbd818d8c210496ec06c82d80ff3290a7f5770d70cd514e1ebf5d7e74e2f.json"
+    },
+    {
+      "title": "Myanmar Crisis Situation Analysis (Period: 29/06/26 - 05/07/26) (pdf)",
+      "url": "https://reliefweb.int/attachments/fedb1adc-ea30-4eff-b3bd-94e55eeff0cf/Myanmar_Crisis__Period__29_06_26_-_05_07_26.pdf",
+      "text_path": "data/geopolitics/raw/6bfe54626adef45267a63952da6f1f89a1467e38433950b36e439a993e01e86d.txt",
+      "metadata_path": "data/geopolitics/raw/6bfe54626adef45267a63952da6f1f89a1467e38433950b36e439a993e01e86d.json"
+    },
+    {
+      "title": "NATO Is Still a Sick Puppy",
+      "url": "https://foreignpolicy.com/2026/07/13/nato-trump-europe-summit-ankara-alliance-russia-defense-geopolitics/",
+      "text_path": "data/geopolitics/raw/1677cba32adddb6b6b7f6f90d13bba2fa8f99af42a7b14c37b0f0e4ebd72df25.txt",
+      "metadata_path": "data/geopolitics/raw/1677cba32adddb6b6b7f6f90d13bba2fa8f99af42a7b14c37b0f0e4ebd72df25.json"
+    },
+    {
+      "title": "US and Iran trade strikes as ceasefire comes under growing strain",
+      "url": "https://www.aljazeera.com/news/2026/7/13/us-and-iran-trade-strikes-as-ceasefire-comes-under-growing-strain?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/332bd06477728a92e756ee948f527d41486137bc810c80d2376c4563ec935fb7.txt",
+      "metadata_path": "data/geopolitics/raw/332bd06477728a92e756ee948f527d41486137bc810c80d2376c4563ec935fb7.json"
+    },
+    {
+      "title": "WFP Dominican Republic Country Brief July 2026",
+      "url": "https://reliefweb.int/report/dominican-republic/wfp-dominican-republic-country-brief-july-2026",
+      "text_path": "data/geopolitics/raw/8b4b4e05b8601803db335eaf5e251a50b71d816b1942021aff7379dc2b4e1e4d.txt",
+      "metadata_path": "data/geopolitics/raw/8b4b4e05b8601803db335eaf5e251a50b71d816b1942021aff7379dc2b4e1e4d.json"
+    },
+    {
+      "title": "WFP Dominican Republic Country Brief July 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/9245cb52-1780-4c08-8574-b24d6a04934c/Dominican%20Republic%20Country%20Brief%20Julio%202026.pdf",
+      "text_path": "data/geopolitics/raw/421fc9e029f6e8b9cce118b6334c354d7ee8a64706bbd2d168a4dc79476e179f.txt",
+      "metadata_path": "data/geopolitics/raw/421fc9e029f6e8b9cce118b6334c354d7ee8a64706bbd2d168a4dc79476e179f.json"
+    },
+    {
+      "title": "Beloved or not, Lindsey Graham was a critical dealmaker in Congress",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/lindsey-graham-dealmaker-congress",
+      "text_path": "data/geopolitics/raw/e597df379668835a643d45b1a9174617419d17221e813382533d5c895fe1270f.txt",
+      "metadata_path": "data/geopolitics/raw/e597df379668835a643d45b1a9174617419d17221e813382533d5c895fe1270f.json"
+    },
+    {
+      "title": "Syria: Funded by KSrelief, UNOPS started equipping three hospitals in Hama in coordination with the Ministry of Health",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/funded-ksrelief-unops-started-equipping-three-hospitals-hama-coordination-ministry-health",
+      "text_path": "data/geopolitics/raw/b1b5464ff8f49eef218284889d0005ae34f1b92a4ea40c13fca904eada56f33b.txt",
+      "metadata_path": "data/geopolitics/raw/b1b5464ff8f49eef218284889d0005ae34f1b92a4ea40c13fca904eada56f33b.json"
+    },
+    {
+      "title": "Syria: Funded by KSrelief, UNOPS started establishing the Pediatric Cardiac Surgery Department at Ibn Roshed Hospital in coordination with the Ministry of Health",
+      "url": "https://reliefweb.int/report/syrian-arab-republic/funded-ksrelief-unops-started-establishing-pediatric-cardiac-surgery-department-ibn-roshed-hospital-coordination-ministry-health",
+      "text_path": "data/geopolitics/raw/e371afc061f1b413b07959c571deb90b548860d28dd8cb803c573cdcec301491.txt",
+      "metadata_path": "data/geopolitics/raw/e371afc061f1b413b07959c571deb90b548860d28dd8cb803c573cdcec301491.json"
+    },
+    {
+      "title": "Senator Lindsey Graham died of aortic tear, examiner says",
+      "url": "https://www.bbc.co.uk/news/articles/cn75083d472o?at_medium=RSS&at_campaign=rss",
+      "text_path": "data/geopolitics/raw/c793f7b417231d5c174b364bf6d26ff2ff3751ac025e6a8ee3a4f21a3d6c235a.txt",
+      "metadata_path": "data/geopolitics/raw/c793f7b417231d5c174b364bf6d26ff2ff3751ac025e6a8ee3a4f21a3d6c235a.json"
+    },
+    {
+      "title": "WFP Zimbabwe Country Brief, June 2026",
+      "url": "https://reliefweb.int/report/zimbabwe/wfp-zimbabwe-country-brief-june-2026",
+      "text_path": "data/geopolitics/raw/14e7fd1e6a460f03d053420d44a70e8a89501a26c22b27f084805c7b71020e4e.txt",
+      "metadata_path": "data/geopolitics/raw/14e7fd1e6a460f03d053420d44a70e8a89501a26c22b27f084805c7b71020e4e.json"
+    },
+    {
+      "title": "WFP Zimbabwe Country Brief, June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/ef981936-fd28-4cb9-ac05-bb04fa61ff82/WFP%20Zimbabwe%20June%202026%20CB_final%20v2final_2.pdf",
+      "text_path": "data/geopolitics/raw/d60cd16cdcfe22993f7f7c19d0181c1f1c88a29e15a39a61f28a03461dbb97ff.txt",
+      "metadata_path": "data/geopolitics/raw/d60cd16cdcfe22993f7f7c19d0181c1f1c88a29e15a39a61f28a03461dbb97ff.json"
+    }
+  ],
+  "txt_before": 1903,
+  "txt_after": 1916
+}

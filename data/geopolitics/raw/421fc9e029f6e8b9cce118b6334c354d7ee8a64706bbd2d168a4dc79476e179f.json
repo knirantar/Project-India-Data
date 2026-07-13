@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/9245cb52-1780-4c08-8574-b24d6a04934c/Dominican%20Republic%20Country%20Brief%20Julio%202026.pdf",
+  "title": "WFP Dominican Republic Country Brief July 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 13 Jul 2026 09:19:22 +0000",
+  "sha256": "421fc9e029f6e8b9cce118b6334c354d7ee8a64706bbd2d168a4dc79476e179f",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-13T11:55:19.061560+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-13T11:56:06.459049+00:00",
+  "text_chars": 11155,
+  "raw_path": "data/geopolitics/raw/421fc9e029f6e8b9cce118b6334c354d7ee8a64706bbd2d168a4dc79476e179f.pdf",
+  "text_path": "data/geopolitics/raw/421fc9e029f6e8b9cce118b6334c354d7ee8a64706bbd2d168a4dc79476e179f.txt"
 }
