@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/26a97ce2-6457-4b66-a708-83cabd0df7be/2025%20East%20Africa%20Humanitarian%20Report%20-%20World%20Vision.pdf",
+  "title": "World Vision East Africa: Humanitarian and Emergency Affairs 2025 Annual Report (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Mon, 13 Jul 2026 13:35:51 +0000",
+  "sha256": "466345d6102f0b5f1f4f153f1cb801a088cbac02e04ec8926190d6a1147c4fa1",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-13T19:15:49.651798+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-07-13T19:16:12.950053+00:00",
+  "text_chars": 48663,
+  "raw_path": "data/geopolitics/raw/466345d6102f0b5f1f4f153f1cb801a088cbac02e04ec8926190d6a1147c4fa1.pdf",
+  "text_path": "data/geopolitics/raw/466345d6102f0b5f1f4f153f1cb801a088cbac02e04ec8926190d6a1147c4fa1.txt"
 }
