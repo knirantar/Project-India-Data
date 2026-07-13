@@ -1,0 +1,84 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-13T14:10:15.578495+00:00",
+  "new_documents": 12,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt",
+      "metadata_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/8e008f295460f35942a852ca3c6e67c618b0f75ef5cad5621a7c465539c37161.txt",
+      "metadata_path": "data/geopolitics/raw/8e008f295460f35942a852ca3c6e67c618b0f75ef5cad5621a7c465539c37161.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/b01b487e5c9a8f4ffded8148b32b3b5bea788504c150311171118eda245f00d4.txt",
+      "metadata_path": "data/geopolitics/raw/b01b487e5c9a8f4ffded8148b32b3b5bea788504c150311171118eda245f00d4.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "US and Iran exchange fire and disagree on whether strait of Hormuz is open | First Thing",
+      "url": "https://www.theguardian.com/us-news/2026/jul/13/first-thing-us-iran-strikes-hormuz",
+      "text_path": "data/geopolitics/raw/4c4f07bb646771d4191fbdd29f6eecb4b748cc153a0708afcf62c364dfd99d09.txt",
+      "metadata_path": "data/geopolitics/raw/4c4f07bb646771d4191fbdd29f6eecb4b748cc153a0708afcf62c364dfd99d09.json"
+    },
+    {
+      "title": "The U.S.-Iran ceasefire grows more distant. And, Congress faces a consequential week",
+      "url": "https://www.npr.org/2026/07/13/g-s1-133269/up-first-newsletter-us-iran-war-congress-lindsey-graham-gaza-israel-hussam-abu-safiya",
+      "text_path": "data/geopolitics/raw/cfe039dd9c23bae637ad0251ece477fad16324f53dbbccdc7b7ed4d94040458b.txt",
+      "metadata_path": "data/geopolitics/raw/cfe039dd9c23bae637ad0251ece477fad16324f53dbbccdc7b7ed4d94040458b.json"
+    },
+    {
+      "title": "March to July: What’s different as US-Iran fighting escalates again?",
+      "url": "https://www.aljazeera.com/news/2026/7/13/march-to-july-whats-different-as-us-iran-fighting-escalates-again?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/8f4d3476892c9b70601b3bd1fd1fd8d2151816f4a89db3ad8bf8cf43350ca580.txt",
+      "metadata_path": "data/geopolitics/raw/8f4d3476892c9b70601b3bd1fd1fd8d2151816f4a89db3ad8bf8cf43350ca580.json"
+    }
+  ],
+  "txt_before": 1916,
+  "txt_after": 1920
+}
