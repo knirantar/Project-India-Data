@@ -1,0 +1,108 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-14T17:07:14.407318+00:00",
+  "new_documents": 16,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt",
+      "metadata_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/8e008f295460f35942a852ca3c6e67c618b0f75ef5cad5621a7c465539c37161.txt",
+      "metadata_path": "data/geopolitics/raw/8e008f295460f35942a852ca3c6e67c618b0f75ef5cad5621a7c465539c37161.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/d314fce196e6f809ce021d7f32ee581205ec8adf043eba0efa7b6f8d8d3cf48b.txt",
+      "metadata_path": "data/geopolitics/raw/d314fce196e6f809ce021d7f32ee581205ec8adf043eba0efa7b6f8d8d3cf48b.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167936",
+      "text_path": "data/geopolitics/raw/779fef03f60d416d55c41d8a16c9c310a129d66a64992c9750bbb390ee3f154d.txt",
+      "metadata_path": "data/geopolitics/raw/779fef03f60d416d55c41d8a16c9c310a129d66a64992c9750bbb390ee3f154d.json"
+    },
+    {
+      "title": "The Davis Wing, the B-24 Liberator, and the Self-Made Bet That Paid Off",
+      "url": "https://warontherocks.com/cogs-of-war/the-davis-wing-the-b-24-liberator-and-the-self-made-bet-that-paid-off/",
+      "text_path": "data/geopolitics/raw/5dcf18d9a00af74a8e81c863e0097bca66df2024567cbe1e42826fdcc518d201.txt",
+      "metadata_path": "data/geopolitics/raw/5dcf18d9a00af74a8e81c863e0097bca66df2024567cbe1e42826fdcc518d201.json"
+    },
+    {
+      "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022",
+      "url": "https://news.un.org/feed/view/en/story/2026/07/1167935",
+      "text_path": "data/geopolitics/raw/5f4f5317ada1b339d744e0ebe090e74a2b591ca78038810c8d8eee9d13ab5ff7.txt",
+      "metadata_path": "data/geopolitics/raw/5f4f5317ada1b339d744e0ebe090e74a2b591ca78038810c8d8eee9d13ab5ff7.json"
+    },
+    {
+      "title": "‘Cycle of escalation must end’: UN condemns deadly Strait of Hormuz attacks (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Production%20Library/2026/07/13-07-2026_AdobeStock_Oman.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/a5090daff86d488c431cdfcfcf567c3c973eec8f1aaffa53817ca8955a13e77a.txt",
+      "metadata_path": "data/geopolitics/raw/a5090daff86d488c431cdfcfcf567c3c973eec8f1aaffa53817ca8955a13e77a.json"
+    },
+    {
+      "title": "Skyfall Simulation: NATO Partners Rehearse Downed Aircraft Response",
+      "url": "https://www.war.gov/News/News-Stories/Article/Article/4544895/skyfall-simulation-nato-partners-rehearse-downed-aircraft-response/",
+      "text_path": "data/geopolitics/raw/264729be46049b1b358e731206c9402c0b0d0a036dbf82327ba01e1d53628631.txt",
+      "metadata_path": "data/geopolitics/raw/264729be46049b1b358e731206c9402c0b0d0a036dbf82327ba01e1d53628631.json"
+    },
+    {
+      "title": "‘Hunted’ by drones: UN reports worst month for Ukraine’s civilians since 2022 (image)",
+      "url": "https://global.unitednations.entermediadb.net/assets/mediadb/services/module/asset/downloads/preset/Collections/Embargoed/2026/07/06-07-2026-UNOCHA-Ukraine-01.jpg/image560x340cropped.jpg",
+      "text_path": "data/geopolitics/raw/c1657f8aa4fbed3e9798ae6412ad0e35c20ca82541bdfcf20c9ff713a4eb4239.txt",
+      "metadata_path": "data/geopolitics/raw/c1657f8aa4fbed3e9798ae6412ad0e35c20ca82541bdfcf20c9ff713a4eb4239.json"
+    }
+  ],
+  "txt_before": 2013,
+  "txt_after": 2019
+}
