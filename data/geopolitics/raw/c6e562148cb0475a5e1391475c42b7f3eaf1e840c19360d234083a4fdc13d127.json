@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-14T09:50:33.540592+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://warontherocks.com/a-return-to-mass-russian-force-expansion-in-the-war-with-ukraine/",
+  "title": "A Return to Mass: Russian Force Expansion in the War with Ukraine",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Tue, 14 Jul 2026 07:30:54 +0000",
+  "sha256": "c6e562148cb0475a5e1391475c42b7f3eaf1e840c19360d234083a4fdc13d127",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-14T09:50:46.417099+00:00",
+  "text_chars": 37606,
+  "raw_path": "data/geopolitics/raw/c6e562148cb0475a5e1391475c42b7f3eaf1e840c19360d234083a4fdc13d127.html",
+  "text_path": "data/geopolitics/raw/c6e562148cb0475a5e1391475c42b7f3eaf1e840c19360d234083a4fdc13d127.txt"
 }
