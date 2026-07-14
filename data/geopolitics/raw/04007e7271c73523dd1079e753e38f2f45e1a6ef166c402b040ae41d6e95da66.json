@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-14T19:05:19.598642+00:00",
-  "text_chars": 6161766,
-  "raw_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json.raw",
-  "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt"
+  "url": "https://warontherocks.com/natos-unity-on-paper-and-fractures-beneath-the-surface/",
+  "title": "NATO’s Unity on Paper and Fractures Beneath the Surface",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Tue, 14 Jul 2026 18:00:17 +0000",
+  "sha256": "04007e7271c73523dd1079e753e38f2f45e1a6ef166c402b040ae41d6e95da66",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-14T19:06:17.488622+00:00",
+  "text_chars": 2869,
+  "raw_path": "data/geopolitics/raw/04007e7271c73523dd1079e753e38f2f45e1a6ef166c402b040ae41d6e95da66.html",
+  "text_path": "data/geopolitics/raw/04007e7271c73523dd1079e753e38f2f45e1a6ef166c402b040ae41d6e95da66.txt"
 }
