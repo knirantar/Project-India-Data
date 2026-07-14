@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/040949e4-f269-429c-83bf-0cde9030f112/DWeek_28_6-12Jul2026.pdf",
+  "title": "Indonesia: ASEAN Weekly Disaster Update Week 28 | 6 – 12 July 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 14 Jul 2026 11:35:41 +0000",
+  "sha256": "483a664731cebbef0bd71c0ee3074fde2f80438ba93428cc72deda8aa20202ae",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-14T13:11:13.013121+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-14T13:11:33.591934+00:00",
+  "text_chars": 7959,
+  "raw_path": "data/geopolitics/raw/483a664731cebbef0bd71c0ee3074fde2f80438ba93428cc72deda8aa20202ae.pdf",
+  "text_path": "data/geopolitics/raw/483a664731cebbef0bd71c0ee3074fde2f80438ba93428cc72deda8aa20202ae.txt"
 }

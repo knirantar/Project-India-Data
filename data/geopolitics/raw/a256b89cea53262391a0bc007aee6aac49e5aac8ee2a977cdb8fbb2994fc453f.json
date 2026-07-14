@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/699a7407-b9a6-4a73-aa88-367e3a66dead/5.-May-2026-Protection-in-Danger-Monthly-News-Brief.pdf",
+  "title": "World: Protection in Danger Monthly News Brief - May 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 14 Jul 2026 12:52:08 +0000",
+  "sha256": "a256b89cea53262391a0bc007aee6aac49e5aac8ee2a977cdb8fbb2994fc453f",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-14T13:11:13.013121+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-14T13:11:13.817887+00:00",
+  "text_chars": 47365,
+  "raw_path": "data/geopolitics/raw/a256b89cea53262391a0bc007aee6aac49e5aac8ee2a977cdb8fbb2994fc453f.pdf",
+  "text_path": "data/geopolitics/raw/a256b89cea53262391a0bc007aee6aac49e5aac8ee2a977cdb8fbb2994fc453f.txt"
 }

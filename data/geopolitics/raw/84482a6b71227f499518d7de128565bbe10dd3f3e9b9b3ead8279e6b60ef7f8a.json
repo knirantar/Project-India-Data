@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
+  "url": "https://reliefweb.int/attachments/6a0cb8eb-ecdc-4781-8ab8-cac008d2855b/2025-SHCC-Lebanon.pdf",
+  "title": "Lebanon: Violence against Healthcare in Conflict 2025 [EN/AR] (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 14 Jul 2026 12:46:51 +0000",
+  "sha256": "84482a6b71227f499518d7de128565bbe10dd3f3e9b9b3ead8279e6b60ef7f8a",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-14T13:11:13.013121+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "collected_at": "2026-07-14T13:11:18.113043+00:00",
+  "text_chars": 11917,
+  "raw_path": "data/geopolitics/raw/84482a6b71227f499518d7de128565bbe10dd3f3e9b9b3ead8279e6b60ef7f8a.pdf",
+  "text_path": "data/geopolitics/raw/84482a6b71227f499518d7de128565bbe10dd3f3e9b9b3ead8279e6b60ef7f8a.txt"
 }

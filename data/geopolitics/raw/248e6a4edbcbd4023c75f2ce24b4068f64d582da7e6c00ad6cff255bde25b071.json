@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-14T13:11:13.013121+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.theguardian.com/world/2026/jul/14/us-strikes-iran-bahrain-jordan-uae-tankers",
+  "title": "Iran targets Bahrain and Jordan in retaliation as US strikes continue",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Tue, 14 Jul 2026 11:38:10 GMT",
+  "sha256": "248e6a4edbcbd4023c75f2ce24b4068f64d582da7e6c00ad6cff255bde25b071",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-14T13:11:18.967351+00:00",
+  "text_chars": 4876,
+  "raw_path": "data/geopolitics/raw/248e6a4edbcbd4023c75f2ce24b4068f64d582da7e6c00ad6cff255bde25b071.html",
+  "text_path": "data/geopolitics/raw/248e6a4edbcbd4023c75f2ce24b4068f64d582da7e6c00ad6cff255bde25b071.txt"
 }
