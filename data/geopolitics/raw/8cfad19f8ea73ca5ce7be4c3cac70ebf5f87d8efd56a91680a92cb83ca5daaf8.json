@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-14T04:44:25.855213+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.xml",
-  "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt"
+  "url": "https://www.foreignaffairs.com/russia/putin-will-turn-cease-fire-weapon",
+  "title": "Putin Will Turn a Cease-Fire Into a Weapon",
+  "source": "https://www.foreignaffairs.com/rss.xml",
+  "published": "Tue, 14 Jul 2026 00:00:00 -0400",
+  "sha256": "8cfad19f8ea73ca5ce7be4c3cac70ebf5f87d8efd56a91680a92cb83ca5daaf8",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-14T04:45:23.440568+00:00",
+  "text_chars": 14387,
+  "raw_path": "data/geopolitics/raw/8cfad19f8ea73ca5ce7be4c3cac70ebf5f87d8efd56a91680a92cb83ca5daaf8.html",
+  "text_path": "data/geopolitics/raw/8cfad19f8ea73ca5ce7be4c3cac70ebf5f87d8efd56a91680a92cb83ca5daaf8.txt"
 }

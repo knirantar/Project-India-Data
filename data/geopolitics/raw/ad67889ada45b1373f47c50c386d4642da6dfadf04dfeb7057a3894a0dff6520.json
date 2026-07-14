@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-14T04:44:25.855213+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.xml",
-  "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/07/1167932",
+  "title": "International Criminal Court ‘a critical cog’ in global justice efforts",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Mon, 13 Jul 2026 12:00:00 +0000",
+  "sha256": "ad67889ada45b1373f47c50c386d4642da6dfadf04dfeb7057a3894a0dff6520",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-14T04:45:26.180245+00:00",
+  "text_chars": 2121,
+  "raw_path": "data/geopolitics/raw/ad67889ada45b1373f47c50c386d4642da6dfadf04dfeb7057a3894a0dff6520.html",
+  "text_path": "data/geopolitics/raw/ad67889ada45b1373f47c50c386d4642da6dfadf04dfeb7057a3894a0dff6520.txt"
 }
