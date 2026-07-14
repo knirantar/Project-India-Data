@@ -1,0 +1,382 @@
+airbel.rescue.org | Cost-effectiveness Brief | July 2026 
+PlayMatters Uganda to enhance teacher practices and wellbeing by Learning through Play | 1 
+ 
+ 
+ 
+Teacher engaging primary six learners during a social studies lesson. Koro Primary School, Bidi Bidi Refugee Settlement - Yumbe 
+District 
+ 
+PlayMatters Uganda to enhance teacher practices and wellbeing by 
+Learning through Play: A Cost-effectiveness Analysis (CEA)
+HIGHLIGHTS 
+In Uganda, refugee-hosting primary schools are 
+severely overcrowded, averaging 85 students per 
+teacher — roughly double the national average of 
+43:1 and the government’s 53:1 standard.i 
+Displaced, trauma-affected children can struggle 
+to learn to read, write, and do basic math. Uganda 
+spends 2% of national income on education, less 
+than half the 5.4% international benchmark.ii iii 
+Training teachers in play-based methods, 
+combined with continuous school-based 
+professional development, has the potential to 
+improve how teachers teach and how much 
+children learn. Decision makers need evidence on 
+cost-effectiveness to determine whether to support 
+and scale this approach. 
+In 2025, researchers evaluated PlayMatters, an 
+education initiative implemented by a consortium 
+led by the International Rescue Committee (IRC), in 
+partnership with the LEGO Foundation across 
+refugee-hosting districts in Uganda. The 
+consortium included Plan International, War Child 
+Alliance, Innovations for Poverty Action, and the 
+Behavioural Insights Team. The program integrates 
+Learning through Play (LtP) into education systems 
+to improve holistic learning and wellbeing for 
+refugee and host-community children. The 
+evaluation examined the program’s impact on 
+teachers’ instructional practices and occupational 
+wellbeing. 
+We conducted a cost-effectiveness analysis and 
+found the program cost US $657 per teacher to 
+produce a meaningful gain in a teacher’s 
+classroom practice, and between US $2,332 and 
+US $6,148 per teacher for a similar improvement in 
+a teacher’s occupational wellbeing.  
+Our analysis contributes to growing but limited 
+evidence, and suggests LtP is a promising cost-
+effective approach relative to a counterfactual 
+teacher-support programming. 
+We recommend replication of the PlayMatters Core 
+Package across multiple contexts within the region 
+to refine the model for more cost-effective scale-
+up. We believe funders should support LtP scaling 
+efforts, alongside additional refinement research
+airbel.rescue.org | Cost-effectiveness Brief | July 2026 
+PlayMatters Uganda to enhance teacher practices and wellbeing by Learning through Play | 2 
+including cost analyses that separate one-time, 
+school-level investments from recurrent, teacher-
+level investments; implementers can increase 
+impact by supporting teachers to apply play-based 
+approaches consistently. 
+THE APPROACH 
+PlayMatters ran in Ethiopia, Uganda, and Tanzania 
+from January 2020 through March 2026 following 
+a phased, cohort-based rollout aligned with school 
+calendars in each country. The program reached 
+over 14,000 teachers and 900,000 children. The 
+program replaces traditional “chalk-and-talk” 
+instruction with active, child-centered, play-based 
+teaching methods that capitalize on children’s 
+natural desire to play. We conducted a cost-
+effectiveness analysis (CEA) during the program's 
+third cohort in Uganda from January 2025 to 
+December 2025. 
+The PlayMatters Consortium implemented this 
+intervention across nine refugee-hosting districts 
+in Southwest, West Nile, and Northern Uganda 
+covering 16 refugee settlements. The program 
+primarily targets children aged 3-12 years but also 
+includes older learners still in primary school due 
+to disrupted education. This broader age range 
+reflects PlayMatters' whole-school approach, 
+which aims to support all learners in refugee and 
+host-community schools, alongside the teachers, 
+school leaders, and community members who 
+influence their learning environment.  
+The PlayMatters Core Package includes a 
+foundational (5-day) and follow-up (3-day) teacher 
+training delivered through a cascade approach, 
+coaching and supportive supervision visits, 
+teacher learning circles, the provision of scholastic 
+and play materials, and school rehabilitation 
+activities to help schools meet minimum quality 
+standards, including constructing school fences 
+and latrines, improving classroom floors, installing 
+window shutters, and building storage facilities for 
+learning materials. Continuous teacher 
+professional development, school management 
+training, and community engagement were central 
+to the design. 
+This is the second large-scale rigorous impact 
+evaluation of PlayMatters. The first study in 
+Ethiopia focused primarily on child outcomes;iv this 
+second study in Uganda focused on teacher 
+practices, so its child-level results are exploratory.      
+This study evaluated the program's impact on 
+teacher practices and wellbeing using a 
+randomized controlled trial (RCT) across schools in 
+the five districts where all three implementation 
+partners are jointly present. Schools in the 
+treatment group received the PlayMatters Core 
+Package; schools in the control group continued 
+with standard government provision during the 
+study period.v This study produced comparable 
+effects on classroom practice to the Pakistan 
+Reading Project (PRP), a large-scale teacher 
+development program focused on literacy. On 
+student engagement, the most similar outcome 
+between the two programs, PlayMatters had larger 
+effects.vi 
+COST-EFFECTIVENESS ANALYSIS: PROCESS 
+We analyzed costs from the implementer 
+perspective using the standard ingredients 
+method.vii Drawing on impact evaluation and cost 
+data, we estimated the cost per 0.2 standard 
+deviation increase in both teacher outcomes and 
+student learning outcomes. For learning 
+outcomes, Kraft (2020) identifies a 0.2 SD as a 
+large, policy-relevant change in achievement; viii 
+for teacher outcomes, the 0.2 SD threshold serves 
+only as a common unit enabling comparison 
+across measures. These findings help us compare 
+PlayMatters with other education programs and 
+policy options. We further examined different cost 
+categories to help practitioners understand how to 
+achieve cost savings, as well as how costs may 
+vary across contexts. 
+ 
+COST-EFFECTIVENESS VS. COST-EFFICIENCY: 
+WHAT’S THE DIFFERENCE? 
+A cost-effectiveness analysis evaluates a program’s 
+costs and its outcome effects (e.g., reduction in 
+mortality, improvement in child literacy). We 
+conduct cost-effectiveness analyses alongside 
+impact evaluations to help us decide which 
+programs to implement. 
+A cost-efficiency analysis evaluates a program’s 
+cost and its output effects (e.g., number of children 
+immunized, number of teachers trained). Cost-
+efficiency analyses help us scale by providing 
+evidence on how to best implement a program. 
+ 
+ 
+COST FINDINGS  
+The program costs US $2,884,156 across 70 
+schools reaching 853 teachers and 70,164 
+children through three implementing partners. This 
+translates to US $3,381 per teacher or US $41 per 
+student. 
+Across the consortium, direct program costs 
+accounted for 75% of total costs, with National
+airbel.rescue.org | Cost-effectiveness Brief | July 2026 
+PlayMatters Uganda to enhance teacher practices and wellbeing by Learning through Play | 3 
+Staff and Program Supplies and Activities together 
+accounting for 68% of direct program costs. 
+ 
+Figure 1: Support and Direct Program Costs by 
+Category    
+ 
+ 
+One reason for the relatively large National Staff 
+costs is that PlayMatters relies on national 
+facilitators and regional education officers to 
+implement intensive, hands-on professional 
+development. This structure requires a sustained 
+technical engagement and frequent in-person 
+support across multiple refugee and host-
+community schools. 
+Program Supplies and Activities (38%) is a major 
+driver due to training of trainers, teacher training 
+workshops, procurement of teaching and learning 
+materials, and school rehabilitation. These costs 
+reflect the resources required to train and equip 
+teachers and schools that lacked basic materials 
+prior to implementation.  
+Across activity buckets, Teacher Training and 
+Teacher Continuous PD are the dominant cost 
+drivers, together accounting for over 45% of the 
+US $3,381 cost per teacher: Teacher Training at 
+US $882 and Teacher Continuous PD at US $646. 
+These are followed by Teaching and Learning 
+Materials (US $533), Community Engagement (US 
+$497), School Management (US $454), and Safe & 
+Inclusive Infrastructure (US $369). This distribution 
+reflects the program's reliance on intensive in-
+person cascade training and sustained school-
+year support as its primary implementation cost. 
+COST-EFFECTIVENESS ANALYSIS 
+Teacher practice and wellbeing outcomes 
+(primary): 
+Researchers measured teachers' classroom 
+practice through classroom observations of a sub-
+sample of teachers, and their occupational 
+wellbeing through a teacher survey. From the 
+observations, a moderate gain in overall practice 
+cost about US $657 per teacher. Improving 
+wellbeing costs more, from US $2,332 for support 
+from administration to US $6,148 for preparation 
+and sociability, per 0.2 SD.  
+ 
+Figure 2: Cost per Teacher per 0.2 SD Improved 
+Test Score 
+ 
+ 
+Child learning outcomes (exploratory) 
+This study evaluated child outcomes as 
+exploratory, since it was not large enough to 
+identify statistically significant findings. Given their 
+exploratory nature, we do not report cost figures 
+on these outcomes. 
+  
+   
+   
+   
+  
+  
+                    
+            
+                           
+                          
+                    
+    
+                      
+                 
+    
+    
+    
+      
+      
+      
+      
+      
+      
+      
+      
+                            
+                  
+             
+                     
+                          
+                              
+                  
+                          
+                        
+          
+           
+                                                                 
+                    
+                 
+ 
+IS THIS A BEST USE OF RESOURCES? 
+We classify an intervention as a best use of 
+resources if we believe it is at least 20% more 
+cost-effective than the alternative. If we think a 
+program is no better than existing solutions, we 
+do not think it is an especially good use of 
+resources. 
+Yes 
+Given its limited but growing evidence base, we 
+think this is likely a promising cost-effective 
+intervention. Because the program improves how 
+teachers teach, we think practice gains translate 
+into learning gains, as evidence suggests that 
+Sub-Saharan Africa programs that change 
+teacher pedagogy can produce especially large 
+learning gains.ix For PlayMatters, this is 
+specifically supported by the Ethiopia RCT. 
+Compared to the Pakistan Reading Project, 
+PlayMatters had similar costs per student and 
+equivalent or larger effects on teacher practices.x 
+We recommend funders and implementers 
+prioritize scaling this approach in crisis-affected 
+contexts, alongside additional research to refine 
+and further validate the program’s impact.
+airbel.rescue.org | Cost-effectiveness Brief | July 2026 
+PlayMatters Uganda to enhance teacher practices and wellbeing by Learning through Play | 4 
+CONCLUSION 
+Our analysis suggests that PlayMatters is likely a 
+promising cost-effective approach to 
+strengthening teacher instructional practice and 
+wellbeing in crisis-affected education systems, 
+relative to a counterfactual teacher-support 
+programming.  
+In Uganda, each 0.2 SD gain in overall classroom 
+practice cost US $657 per teacher close to the US 
+$668 PlayMatters achieved in Ethiopia, where the 
+same model also improved children's literacy, 
+numeracy, and social-emotional learning, the 
+downstream outcomes PlayMatters aims to 
+produce.xi These are among the first cost-
+effectiveness analyses of large-scale Learning 
+through Play in humanitarian settings.  
+With low- and lower-middle-income countries 
+facing an estimated US $97 billion average annual 
+financing gap to meet their SDG 4 benchmarks,xii 
+policymakers should treat PlayMatters as a 
+valuable intervention for improving teaching 
+quality and learners’ engagement in refugee, host-
+community, and education-in-emergencies 
+settings.  
+Funders should sustain and expand Learning 
+through Play and fund cost research in new 
+contexts including analyses that separate one-
+time, school-level investments from recurrent, 
+teacher-level investments. Implementers, including 
+local and national NGOs, can adapt PlayMatters' 
+cascade-training and community-engagement 
+models to sustain results at lower cost. As the 
+existing evidence is promising, we recommend 
+replication (alongside additional cost research) of 
+the PlayMatters Core Package across multiple 
+contexts within the region to refine the model for 
+more cost-effective scale-up. 
+ABOUT THIS BRIEF 
+Suggested Citation: Machora, D., A. Haywood, 
+and S. Namukwaya. 2026. “PlayMatters Uganda to 
+Enhance Teacher Practices and Wellbeing by 
+Learning through Play: A Cost-Effectiveness 
+Analysis (CEA).” International Rescue Committee, 
+Airbel Impact Lab. 
+Writer(s): Derrick Machora, Athena Haywood, 
+Sarah Namukwaya 
+Reviewers: Derek Lee 
+Special thanks to the PlayMatters consortium team 
+in Uganda for their support, War Child Alliance 
+researchers Dr. Eva Smallegange, and Dr. Kizito 
+Omala produced the impact evaluation and 
+research insights. 
+For more information, please visit 
+www.rescue.org/cost-analysis or contact us: 
+CostAnalysis@rescue.org 
+The Airbel Impact Lab, the IRC’s research and 
+innovation team, designs, tests, and scales life-
+changing solutions for people affected by conflict 
+and disaster. Our aim is to find the most impactful 
+and cost-effective products, services, and delivery 
+systems possible. Airbel works to develop 
+breakthrough solutions by combining creativity 
+and rigor, openness and expertise, and a desire to 
+think afresh with the experience of a large-scale 
+implementing organization.
+airbel.rescue.org | Cost-effectiveness Brief | July 2026 
+PlayMatters Uganda to enhance teacher practices and wellbeing by Learning through Play | 5 
+End Notes 
+ 
+i Ministry of Education and Sports, Republic of Uganda. 2018. Education Response Plan for Refugees and Host 
+Communities in Uganda (2017/2018–2020/2021). 
+ii Uganda National Examinations Board. 2024. The Achievement of Primary School Learners in Numeracy and Literacy in 
+English in Uganda: 2023 NAPE Summary Report. UNEB. 
+iii UNICEF Uganda. 2025. 2025/2026 Education Sector Budget Brief: Education Sector Financing—Analysis and Strategic 
+Recommendations (FY2025/26). Pp. 2, 8. 
+iv Machora, D. M. 2025. PlayMatters Ethiopia Enhances Teacher Practices and Learning Outcomes Using Learning 
+through Play: A Cost-Effectiveness Analysis (CEA). International Rescue Committee, Airbel Impact Lab. 
+v Makerere University and War Child Alliance. Forthcoming. Randomized Controlled Trial of the PlayMatters Learning 
+through Play Core Package in Uganda: Research Brief. PlayMatters Consortium. 
+vi Diazgranados, S., H. Siddiqui, R. Ijaz, I. Majeed, K. Smith, J. Sklar, and N. Sohail. Under review.“The Effectiveness of 
+Structured Pedagogy during Intensive Implementation and Sustainability Phases: Evidence from a Large-Scale Literacy 
+Reform in Pakistan.”Manuscript under review, International Rescue Committee. 
+vii International Rescue Committee, Airbel Impact Lab. 2023. Cost Analysis Methodology at the IRC. 
+https://www.rescue.org/report/cost-analysis-methodology-irc 
+viii Kraft, M. A. 2020. “Interpreting Effect Sizes of Education Interventions.” Educational Researcher 49, no. 4: 241–253.  
+https://doi.org/10.3102/0013189X20912798 
+ix Conn, K. M. 2017. “Identifying Effective Education Interventions in Sub-Saharan Africa: A Meta-analysis of Impact 
+Evaluations.” Review of Educational Research 87, no. 5: 863–898. https://doi.org/10.3102/0034654317712025 
+x Tulloch, Caitlin. 2023. “Education Cost-Effectiveness Brief: Pakistan Reading Project.” International Rescue 
+Committee. 
+https://www.rescue.org/resource/pakistan-reading-project-cost-effectiveness-literacy-intervention-early-grades 
+xi Machora, D. M. 2025. PlayMatters Ethiopia Enhances Teacher Practices and Learning Outcomes Using Learning 
+through Play: A Cost-Effectiveness Analysis (CEA). International Rescue Committee, Airbel Impact Lab.  
+xii UNESCO. 2023. Can Countries Afford Their National SDG 4 Benchmarks? Global Education Monitoring Report, Policy 
+Paper 49. Paris: UNESCO. https://unesdoc.unesco.org/ark:/48223/pf0000385004

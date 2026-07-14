@@ -1,0 +1,898 @@
+DREF Operation
+Zimbabwe Population Movement 2026
+Appeal:
+MDRZW028
+Hazard:
+Population Movement
+Country:
+Zimbabwe
+Type of DREF:
+Response
+Crisis Category:
+Yellow
+Event Onset:
+Slow
+DREF Allocation:
+CHF 395,272
+Glide Number:
+-
+People Affected:
+40,198 people
+People Targeted:
+5,000 people
+Operation Start Date:
+03-07-2026
+Operation Timeframe:
+6 months
+Operation End Date:
+31-01-2027
+DREF Published:
+13-07-2026
+Targeted Regions: Matabeleland South
+Page 1 / 24
+Description of the Event
+Date when the trigger was met
+25-06-2026
+What happened, where and when?
+The ongoing situation involves the large-scale return of Zimbabwean nationals from South Africa following a sharp escalation of localised
+violence targeting foreign nationals between March and June 2026. The violence, concentrated in major urban centres including
+Johannesburg, Durban, Cape Town, and parts of KwaZulu-Natal and the Eastern Cape (including Port Elizabeth), resulted in intimidation,
+displacement, loss of access to basic services, and heightened insecurity among migrant communities, prompting large-scale voluntary
+and assisted return movements to Zimbabwe. According to the Department of Immigration, a total of over 40,198 Zimbabwean returnees
+has self-repatriated since 28 May 2026, including 4,795 migrants who have been assisted through the State-assisted repatriation program
+(as of 27 June 2026).
+The primary entry point and reception area is Beitbridge Border Post in Matabeleland South Province, Zimbabwe, where returnees are
+processed at the Beitbridge Reception Centre before onward movement to their areas of origin across the country, including Harare,
+Bulawayo, Manicaland, Masvingo, Midlands, Mashonaland East, Mashonaland West and Mashonaland Central Provinces.
+The violence escalated between March and June 2026, with return movements beginning in late May 2026 and continuing to date. The
+Government of Zimbabwe has convened a series of coordination meetings at national and district levels to manage and coordinate
+assistance for returning migrants, including an interministerial meeting held on 27 May 2026, during which the Department of
+Immigration reported the consolidated statistics on return movements.  Although returns have been ongoing over several months, the
+current phase of sustained high-volume arrivals, combined with winter conditions, makes this the appropriate time for DREF activation,
+as humanitarian needs have intensified due to prolonged waiting times, overnight stays at the reception centre, and exposure to low
+temperatures.
+Page 2 / 24
+While Government authorities continue to manage reception services, the sustained influx of returnees has exceeded existing capacity at
+Beitbridge Reception Centre. The onset of winter has significantly aggravated the situation, as increasing numbers of returnees are
+exposed to cold conditions, inadequate shelter, insufficient bedding and delays in onward transport, resulting in heightened health and
+protection risks. These combined factors constitute the trigger for immediate humanitarian assistance under this DREF operation.
+In parallel, the Department of Immigration has reported the continued transit of Malawian nationals returning from South Africa through
+Beitbridge Border Post. Between 28 May and 27 June 2026, an average of eight buses carrying approximately 70 passengers each have
+been transiting daily under organised repatriation arrangements. Although these movements are currently coordinated and no
+significant humanitarian needs have been identified, they present a contingency risk should transport arrangements be disrupted. In such
+a scenario, migrants could become stranded and require temporary humanitarian assistance along transit routes. The ZRCS, together
+with Government and partners, continues to monitor this movement as part of contingency preparedness. However, Malawian migrants
+are not part of the current DREF target population and would only be considered in a separate response should humanitarian needs
+emerge.
+migrants at Beitbridge reception centre
+Zimbabweans camped at Epping
+Repatriation Centre
+Zimbabweans waiting for a chance to
+go home
+ZRCS volunteers providing phone calls
+at Beitbridge reception centre
+Scope and Scale
+The current influx of returning Zimbabwean migrants is generating significant humanitarian impacts, particularly at Beitbridge Reception
+Centre and in communities of return across Zimbabwe. The sustained arrivals of returnees from South Africa following xenophobic
+attacks have resulted in increased pressure on reception capacity, leading to gaps in shelter, food assistance, WASH services, protection
+support, and onward transportation. These constraints are further compounded by the onset of winter conditions, increasing exposure
+to cold temperatures, particularly among households sleeping outside or remaining overnight at the reception centre.
+Page 3 / 24
+The ZRCS' rapid needs assessment conducted between 26–28 June 2026, with financial support from the ICRC, confirms that returnees are
+predominantly family groups rather than individuals. Of the 116 affected individuals assessed, 74% were travelling with family members,
+and children represented 60.3% of the population, highlighting a highly vulnerable caseload with significant child protection and
+household-level needs. In addition, 65% of respondents were women and 13% reported living with disabilities, reinforcing the need for
+targeted, inclusive humanitarian assistance.
+The assessment further shows that returnees are dispersing across at least eight provinces in Zimbabwe, with the highest concentrations
+expected in Harare (34.8%), followed by Masvingo (17.4%), Manicaland (13.0%), and Midlands (10.9%). This geographic spread indicates that
+humanitarian needs are not limited to the border entry point but extend into communities of reintegration, where returnees face limited
+livelihoods, weak family support networks, and difficulty accessing essential services.
+The scale of the crisis is driven by both the magnitude and nature of the hazard, where xenophobic violence in South Africa has triggered
+forced and protection-driven returns rather than voluntary migration. The rapid assessment confirms that 70% of returnees cited direct
+exposure to violence and 57% fear of further attacks as primary drivers of return, indicating high levels of distress and vulnerability.
+Historically, Zimbabwe has experienced similar return migration surges during periods of instability in the region, which have
+consistently overwhelmed reception systems and resulted in gaps in shelter, food, documentation, and reintegration support.
+The most affected groups include women, children (including unaccompanied and separated minors), older persons, and persons with
+disabilities. These groups face heightened risks due to limited access to shelter, food insecurity, exposure to cold weather, and reduced
+access to health and protection services. Children, who constitute the majority of the assessed population, are particularly affected by
+inadequate nutrition, limited child-friendly spaces, and prolonged waiting periods at reception points. Persons with disabilities and
+chronically ill individuals face additional barriers in accessing services and mobility support.
+Overall, the scale of the crisis reflects both immediate humanitarian needs at Beitbridge Reception Centre and emerging reintegration
+challenges in communities of return, requiring a combined response across emergency assistance and early recovery support
+Source Name Source Link
+1. International Organisation for Migration https://dtm.iom.int/report-product-series/zimbabwe-flow-
+monitoring-report?page=1
+2. New Zimbabwe Newspaper article https://dtm.iom.int/report-product-series/zimbabwe-flow-
+monitoring-report?page=1
+3. TimesLIVE Article https://share.google/eB1GhRBPKbUcLfXFm
+Previous Operations
+Has a similar event affected the same area(s) in the last 3 years? Yes
+Did it affect the same population group? Yes
+Did the National Society respond? Yes
+Did the National Society request funding form DREF for that
+event(s)
+No
+If yes, please specify which operation -
+Page 4 / 24
+If you have answered yes to all questions above, justify why the use of DREF for a recurrent event, or how this event should not be
+considered recurrent:
+-
+Lessons learned:
+Lessons learned from previous operations supported by ICRC through Restoration of Family Links Project in Beitbridge have
+informed the design and implementation of the current response. Key improvements include strengthening community
+engagement and feedback mechanisms, enhancing coordination with government and humanitarian partners, improving
+beneficiary targeting through updated assessments and verification processes, reinforcing monitoring and data quality assurance,
+and ensuring timely procurement and distribution planning. These measures are expected to improve the efficiency, accountability,
+and overall effectiveness of the current operation while reducing implementation delays and response gaps.
+Did you complete the Child Safeguarding Risk Analysis in
+previous operations, what was risk level?
+Yes
+What was the risk level for Child Safeguarding Risk Analysis?: Risk level: Medium
+The operation will implement a range of child safeguarding
+measures, including mandatory safeguarding and Code of
+Conduct briefings for all staff and volunteers prior to
+deployment; vulnerability screening to identify unaccompanied
+and separated children and other children at risk; establishment
+of child-friendly waiting spaces; supervised interactions
+between volunteers and children; confidential safeguarding
+reporting mechanisms; survivor-centred referral procedures
+through Government child protection services; regular field
+supervision; and continuous monitoring of safeguarding risks
+throughout implementation.
+Why "Medium" is appropriate
+Under IFRC Child Safeguarding Risk Analysis guidance, this
+operation is best classified as Medium Risk because it: 
+-  involves direct contact with children in an emergency
+setting; 
+-  includes unaccompanied and separated children among
+the target population; 
+-  takes place in overcrowded, high-stress reception
+environments where protection risks are elevated; and 
+-  incorporates humanitarian activities such as registration,
+PFA, distributions and referrals that require active safeguarding
+controls.
+Current National Society Actions
+Migration And Displacement Since the onset of the returnee situation, the ZRCS has leveraged its established
+presence at Beitbridge Reception Centre to support the ongoing response. Through
+ongoing support from the ICRC, two trained volunteers continue to provide RFL
+services, including free phone calls, phone charging, internet connectivity, and family
+communication for returning migrants. Since the onset of the operation, ZRCS has
+facilitated 1,279 free phone calls and 1,053 phone charging services, enabling migrants
+to reconnect with their families and inform them of their safe arrival.
+When the first batch of State-assisted returnees arrived, ZRCS was already operational
+at the reception centre, providing RFL services to deported migrants. This established
+Page 5 / 24
+presence enabled the National Society to immediately extend these services to the
+increasing number of returning migrants without delay. However, the current influx
+has significantly exceeded the scope of the existing RFL programme, which was
+originally designed to support deported migrants. As a result, available financial and
+operational resources have become increasingly stretched due to the unanticipated
+surge in demand.
+To inform the scale-up of the response, ZRCS also conducted a rapid needs assessment
+to identify priority humanitarian needs and operational gaps. The findings have
+informed response planning, resource mobilisation, and coordination with
+Government, Movement partners, and other humanitarian actors. As an auxiliary to
+the Government, ZRCS continues to actively participate in coordination mechanisms at
+Beitbridge Reception Centre, contributing to protection, referral, and information-
+sharing efforts that strengthen the overall humanitarian response.
+IFRC Network Actions Related To The Current
+Event
+Secretariat The International Federation of Red Cross and Red Crescent Societies (IFRC) maintains a
+Country Delegation in Zimbabwe, providing strategic, technical, and operational
+support to the Zimbabwe Red Cross Society (ZRCS). The IFRC supports humanitarian
+programming through National Society Development (NSD), Disaster, Climate and Crisis
+(DCC), Population Movement, Health, PMER (Planning, Monitoring, Evaluation and
+Reporting), Finance, Administration, Human Resources, Logistics, Security,
+Communications, and resource mobilization functions. The IFRC has extensive
+experience supporting population movement responses in Zimbabwe, including
+assistance to returning migrants, deportees, and vulnerable transit migrants through
+reception, supporting protection, safeguarding, Restoring Family Links (RFL),
+psychosocial support, and community engagement and accountability (CEA) activities,
+including the provision of accessible information, community feedback mechanisms,
+and confidential referral pathways for protection and safeguarding concerns. For this
+response, the IFRC Country Delegation will provide coordination, technical guidance,
+operational oversight, surge support as required, and quality assurance to ensure
+timely and accountable implementation in line with IFRC standards and Government-
+led coordination mechanisms.
+Participating National Societies The Finnish Red Cross is supporting the ZRCS through its Crisis Modifier mechanism by
+providing financial assistance to strengthen the emergency response for returning and
+transit migrants at the Beitbridge Reception Centre. This funding is enabling the
+procurement and distribution of essential relief items, including emergency bedding
+and food assistance, as well as supporting operational costs for the deployment of
+ZRCS staff and volunteers to implement protection, RFL, psychosocial support, and
+community engagement activities. Procurement processes are underway and
+operational teams are being mobilised to commence field implementation.
+ICRC Actions Related To The Current Event
+ICRC provided financial support to enable a rapid needs assessment, which informed the identification of priority humanitarian
+needs and the development of the emergency response.
+ICRC is also supporting RFL services by funding communication assistance, including the provision of free phone calls, phone
+charging and internet connectivity for Zimbabwean migrants to contact their families. However, this support was originally intended
+Page 6 / 24
+to meet the needs of deported migrants arriving at the reception centre, and the available funding is now overstretched due to the
+increased number of returning migrants requiring RFL services as a result of the current emergency.
+Other Actors Actions Related To The Current
+Event
+Government has requested international
+assistance
+No
+National authorities The Government of Zimbabwe is leading the response to the influx of returning and
+transit migrants through the Department of Civil Protection (DCP), in collaboration
+with relevant line ministries and local authorities. Reception arrangements have been
+activated at the Beitbridge Reception Centre to facilitate the safe reception,
+registration, screening, and onward movement of returnees.
+To strengthen coordination and service delivery, the Government has established a
+multi-sectoral coordination structure comprising eight technical committees
+responsible for logistics and transport, health, protection, infrastructure, border
+management, information and data management, coordination, and labour and
+employment. These committees are coordinating key response activities including
+health screening and disease surveillance, border clearance and immigration
+procedures, transport planning, rehabilitation of reception centre infrastructure,
+installation of temporary accommodation, collection and management of returnee
+data, child protection and safeguarding, and planning for the reintegration of
+returning migrants.
+The Government is also convening regular inter-agency coordination meetings on a
+daily basis at the Beitbridge Reception Centre to monitor the evolving situation,
+identify operational gaps, mobilise resources, and ensure that humanitarian partners'
+interventions complement national response efforts. Government authorities continue
+to coordinate referrals for vulnerable individuals requiring health care, social welfare,
+child protection, and other specialised services.
+UN or other actors The International Organization for Migration (IOM) supported transport for State-
+assisted returnees between 11 and 23 June 2026 and continues to provide MHPSS
+through four counsellors, along with pre-positioned 900 hygiene kits, NFIs (including
+kitchen starter kits), and administrative support to the Department of Social
+Development. However, transport support has now ceased due to funding constraints,
+creating a key gap in onward movement.
+UNICEF has supported the response with three tents, promised stipends for six social
+welfare officers to be deployed at the centre, and engagement in child protection
+coordination, though gaps remain in shelter and sustained child protection capacity.
+MSF has committed to provide medical supplies and supported rehabilitation of
+ablution facilities, but health service capacity remains constrained, particularly for
+emergency referrals and consistent supply of medical commodities.
+Page 7 / 24
+Are there major coordination mechanism in place?
+The response is coordinated through Government-led mechanisms at both national and district levels. The Department of Civil
+Protection (DCP) leads the national response through an inter-ministerial coordination platform comprising government ministries,
+UN agencies, humanitarian partners, the Zimbabwe Red Cross Society (ZRCS), and private sector stakeholders. At Beitbridge Reception
+Centre, the Department of Social Development (DSD) coordinates day-to-day operations within the reception facility, ensuring that
+returning migrants are registered and have access to available humanitarian assistance and protection services. At district level, the
+District Development Coordinator (DDC) leads daily operational coordination meetings and weekly strategic meetings to review the
+evolving situation and guide the response.
+To strengthen coordination, the Government has established technical committees covering key sectors, including Coordination,
+Logistics and Transport, Health, Infrastructure, Border Management, Information Management, Protection Issues, and Labour and
+Employment. As an auxiliary to the public authorities, ZRCS participates in these coordination structures and is a member of the
+Protection Issues Committee, working closely with government and partners to coordinate humanitarian assistance, strengthen
+referral pathways, and avoid duplication of efforts. While coordination mechanisms are functioning well, gaps remain in district-level
+reintegration coordination, NGO representation in local coordination structures, and preparedness for potential influxes through
+other border posts, particularly Plumtree.
+Needs (Gaps) Identified
+Livelihoods And Basic Needs
+Affected returnees may arrive with limited or no financial resources, having lost employment, income sources, personal belongings, and
+access to food. Immediate food security needs include access to adequate, nutritious, and culturally appropriate food to meet urgent
+consumption requirements during transit and upon arrival. Many households may face reduced purchasing power and depleted coping
+capacities, requiring cash assistance or food support to prevent negative coping strategies such as skipping meals, reducing dietary
+diversity, or selling remaining assets. Support is also needed to facilitate access to local markets, restore income-generating activities, and
+strengthen household food security during the recovery period.
+Water, Sanitation And Hygiene
+Sanitation facilities at Beitbridge Reception Centre are insufficient to meet the needs of increasing numbers of returnees, resulting in
+overcrowding of toilets and bathing facilities and pressure on water and sanitation systems during peak arrivals. This affects hygiene,
+dignity, and safe living conditions while migrants await onward transport. Solid waste management remains a challenge despite the
+provision of colour-coded bins, with ongoing littering and improper waste disposal affecting cleanliness at the centre. Misuse and
+overuse of mobile toilets further strain available sanitation facilities and reduce their functionality. These conditions increase public
+health risks and require strengthened hygiene promotion, improved waste management practices, and support to maintain safe and
+dignified conditions at the reception centre
+Migration And Displacement
+The ZRCS rapid needs assessment gathered that returnees are entering Zimbabwe after prolonged stays in South Africa, with many
+having lived there for several years and some travelling with children who were born in South Africa and have never been to Zimbabwe.
+Consequently, many are unfamiliar with current socio-economic conditions, available services, documentation processes, and transport
+systems in Zimbabwe. The assessment further identified significant communication and information gaps, with many returnees arriving
+without local SIM cards, airtime, or mobile data, limiting their ability to contact family members, arrange onward travel, or access reliable
+information. There is a need for accessible, multi-purpose humanitarian service points that provide integrated information,
+communication support, orientation, and referral services, alongside strengthened referral pathways to ensure vulnerable groups,
+including women, children, older persons, persons with disabilities, and people requiring specialised services can access timely assistance.
+The assessment also found that returnees intend to disperse across eight provinces, highlighting the need for reception and reintegration
+support that extends beyond Beitbridge Reception Centre into key destination areas. Many returnees have lost their livelihoods, possess
+Page 8 / 24
+limited financial resources, and require continued access to information, referrals, protection services, and linkages to government and
+partner support to facilitate safe, dignified, and sustainable reintegration into their communities.
+Any identified gaps/limitations in the assessment
+The rapid assessment identified significant humanitarian needs across multiple sectors that exceed the current response capacity. While
+the Government of Zimbabwe and humanitarian partners have mobilised assistance at Beitbridge Reception Centre, increasing numbers
+of returnees, resource constraints, and operational challenges continue to leave critical gaps in the provision of humanitarian assistance
+and protection, particularly beyond the point of entry. Based on assessment findings and inter-agency coordination discussions, priority
+needs are ranked as follows: (1) food assistance, (2) shelter and non-food items, (3) protection and MHPSS services, (4) WASH services, (5)
+Restoring Family Links (RFL), and (6) transport and reintegration support. This prioritisation reflects both severity of unmet needs and the
+scale of service gaps observed across actors.
+Shelter
+The assessment identified inadequate shelter capacity at Beitbridge Reception Centre. Many returnees spend several hours, and in some
+cases overnight, awaiting transport to their destinations. Limited accommodation space forces some to sleep outdoors in cold winter
+conditions, while shortages of mattresses and blankets compromise their safety, comfort, and dignity. Beitbridge Reception Centre has
+insufficient shelter infrastructure to accommodate the increasing number of arriving migrants, particularly during the winter season.
+Although UNICEF has donated and pitched tents to accommodate migrants, there is still limited sleeping space which exposes vulnerable
+individuals to cold temperatures and protection risks. The provision of blankets and mattresses is essential to ensure warmth and
+dignified sleeping conditions, while floodlights will enhance safety, security, and protection during nighttime hours. The shelter gap is
+estimated at approximately 40–50% of daily arrivals during peak periods, based on reception capacity observations and congestion
+trends.
+Food Security
+Although food is being provided through government and partners, available resources remain insufficient to meet the growing number
+of returnees, with delays in onward transportation further increasing the need for additional meals during waiting periods and placing
+pressure on existing food supply systems. Assessment findings indicate that 63% of respondents reported hunger as a priority concern,
+while coordination updates confirm that food assistance remains inconsistent due to limited cooking capacity, staffing shortages, and
+logistical constraints, resulting in partial coverage of daily needs. Children, who constitute 60.3% of the assessed population, are
+particularly affected by these food gaps, with reports of missed meals or receiving only one meal per day, increasing their vulnerability to
+malnutrition and distress during transit. This creates a critical time gap between meals, with returnees often spending extended hours
+sometimes an entire day between one meal and the next, depending on arrival and transport schedules, significantly affecting children
+and other vulnerable groups. In addition, stakeholder coordination meetings have confirmed that industrial cooking stoves at the
+reception centre are not fully functional, requiring reliance on firewood for meal preparation, which reduces cooking efficiency, delays
+meal distribution, and contributes to irregular food provision, further exacerbating food insecurity among the most vulnerable groups.
+Water, Sanitation and Hygiene (WASH)
+The assessment highlighted inadequate sanitation facilities at the reception centre. Existing toilets and bathing facilities are insufficient for
+the increasing number of returnees, while additional ablution facilities and improvements to existing infrastructure are required to
+maintain safe and dignified conditions. Continued pressure on sanitation services is expected should arrivals increase. The government
+and the private sector have availed mobile toilets and handwashing stations although a gap in quantity, use and management of
+handwashing stations is evident. MSF is actively rehabilitating toilets, showers, septic systems, significant residual gaps remain in hygiene
+commodities like, diapers and PPE indicating only partial coverage of needs.
+Health and Mental Health
+Health services remain constrained by shortages of medical supplies, limited emergency referral capacity, and insufficient personnel, no
+ambulance dedicated to the reception centre in case of emergencies. Many returnees arrive with health needs and require Mental Health
+and Psychosocial Support (MHPSS) and Psychological First Aid (PFA) after experiencing violence, displacement, and prolonged
+uncertainty. SADD analysis shows women (65%) and children (60.3%) are disproportionately affected by psychosocial distress, reinforcing
+the need for targeted MHPSS services. Although MSF has expanded clinical services and ZRCS is providing MHPSS support, gaps remain in
+specialised psychosocial care and structured referral systems. Although IOM offers MHPSS, there is limited personnel deployed, as there
+are 2 people deployed for that. 
+Protection, Gender and Inclusion
+The assessment found heightened protection risks among women, children, older persons, persons with disabilities, and individuals with
+chronic health conditions. There is a need for strengthened vulnerability screening, case management, referrals, safeguarding, and access
+to protection information to ensure that people with specific needs receive timely assistance. There is also a need to strengthen safe and
+accessible community feedback and complaints mechanisms to enable returnees to raise concerns, report misconduct or safeguarding
+incidents confidentially, and influence the humanitarian response. In addition, coordination updates confirm critical shortages of essential
+Page 9 / 24
+dignity and hygiene items, including hygiene kits, with IOM reporting that available stocks have been depleted. This has resulted in a
+growing unmet need for dignity and hygiene support among newly arrived returnees, particularly women and girls, and increases
+protection risks related to inadequate personal hygiene and menstrual hygiene management during transit and stay at the reception
+centre.
+Migration and Displacement
+The rapid increase in returnees has placed significant pressure on existing migration support systems, with the ZRCS rapid needs
+assessment finding that many returnees arrive after prolonged stays in South Africa, often without Zimbabwean SIM cards, airtime, or
+mobile data, limiting their ability to contact family members, arrange onward transport, or access reliable information on available
+services. This is particularly acute for individuals who have lived outside Zimbabwe for many years and for families travelling with
+children born in South Africa who are unfamiliar with current systems, services, and local conditions. There is a significant gap in
+accessible, strategically located information and assistance points along key migration routes and in major transit and destination areas,
+meaning returnees have limited access to timely and reliable information, communication support, orientation, referrals, or protection
+guidance beyond Beitbridge Reception Centre. This absence of structured support along the route increases uncertainty, delays onward
+movement, and heightens protection risks, particularly for women, children, older persons, and persons with disabilities. Demand for
+migration support services, including  RFL, has also increased significantly, with existing resources under pressure and insufficient to
+meet needs such as phone calls, charging facilities, internet connectivity, and family tracing; as a unique Red Cross Movement service, RFL
+plays a critical role in reducing psychosocial distress by enabling returnees to restore and maintain contact with family members. The
+assessment further highlights broader reintegration needs, as returnees disperse across eight provinces in Zimbabwe, with limited access
+to structured support beyond the reception centre continuing to expose them to information gaps, service barriers, and increased
+vulnerability during their transition back into communities of origin
+Onward Transportation
+Transport remains a major operational challenge. While the Government has facilitated transport for State-assisted returnees, delays and
+resource constraints continue to affect onward movement. In addition, most receiving provinces lack reception facilities and coordinated
+support mechanisms similar to those at Beitbridge. Many returnees therefore become stranded upon arrival without access to immediate
+humanitarian assistance or resources to reach their final destinations. The absence of a structured national reintegration framework
+further increases their vulnerability. IOM-supported transport assistance has ceased due to funding constraints, further widening the gap
+in onward movement support. This has a disproportionate impact on vulnerable groups such as women, children, older persons, and
+persons with disabilities, who face heightened risks when stranded without onward transport. Women, particularly female-headed
+households, are exposed to increased protection risks including harassment, exploitation, and reduced personal safety when forced to
+wait in overcrowded or unsafe public spaces for extended periods. Lack of transport to final destination also limits access to essential
+services, including shelter, food, and health care, while increasing fatigue and psychosocial stress for those travelling with children.
+Coordination
+Coordination among government ministries, humanitarian partners, the Red Cross Movement, and the private sector is functioning well
+through established national and district coordination mechanisms. Daily update meetings have been established. However, the rapidly
+increasing number of returnees continues to outpace available resources, creating gaps in service coverage, particularly for sustained
+assistance beyond the reception centre. Coordination meetings confirm that while MSF leads on WASH and clinical care, WFP has plans to
+scale up food assistance, and IOM has reduced transport support, all actors are only partially covering needs due to resource and
+capacity constraints, resulting in residual gaps across all sectors. ZRCS interventions therefore complement existing services by focusing
+on protection, RFL, psychosocial support, and targeted NFIs, food ensuring non-duplication and coverage of unmet needs.
+Assessment Report
+Operational Strategy
+Overall objective of the operation
+Over a period of 6 months, the Zimbabwe Red Cross Society will assist 5000 vulnerable Zimbabwean returnees affected by violence
+against foreigners in South Africa to meet their immediate humanitarian needs and reduce protection risks through access to safe
+reception, emergency shelter, food assistance, health and psychosocial support, and restoration of family links, enabling them to return
+and reintegrate safely and with dignity while ensuring accountability to affected populations throughout the response.
+Page 10 / 24
+Operation strategy rationale
+The operation will implement a needs-based, protection-centred and coordinated humanitarian response to meet the immediate
+humanitarian and protection needs of 5,000 Zimbabwean returnees arriving through the Beitbridge Reception Centre following
+displacement from South Africa. The strategy is informed by Government assessments and the ZRCS rapid needs assessment, which
+identified critical gaps in reception services, emergency shelter, food assistance, protection, health, psychosocial support, WASH, RFL, and
+onward transportation of returning Zimbabwean migrants.
+The response aims to ensure that returnees are received in a safe, dignified and protection-sensitive environment where their immediate
+needs are met, protection risks are reduced, and they are able to safely continue their onward journey to their final destinations. By
+complementing Government-led efforts, the operation will strengthen reception capacity while addressing humanitarian gaps that exceed
+existing resources.
+The operation will prioritise support according to vulnerability, with particular attention given to women and girls, unaccompanied and
+separated children, older persons, persons with disabilities, survivors of violence, people with chronic illnesses, and households with
+limited coping capacity. While reception services and information will be available to all returnees passing through the Reception Centre,
+specialised assistance such as dignity kits, psychosocial support, safeguarding referrals and other targeted services will be provided based
+on assessed needs and vulnerability.
+Sectoral targeting will be guided by assessed needs and vulnerability. While all returnees accessing the Beitbridge Reception Centre will
+benefit from reception services, information provision, provision of biscuits and juice and RFL services, targeted assistance such as
+dignity kits, psychosocial support, emergency shelter items and protection case management will be prioritized for individuals identified
+through vulnerability screening, including women and girls, unaccompanied and separated children, older persons, persons with
+disabilities, survivors of violence, people with chronic illnesses, and households with limited coping capacity.
+The response will focus on six complementary priorities:
+Safe and dignified reception: Strengthen reception capacity through the provision of emergency shelter materials, mattresses, blankets
+and other essential relief items to improve living conditions, protect returnees from exposure to cold weather, and ensure their
+immediate basic needs are met while awaiting onward transportation.
+Immediate food security and basic needs: ZRCS will procure High Energy biscuits and juice. The inclusion of fruit juice alongside HEBs
+increases overall energy intake, helping vulnerable households meet minimum daily caloric requirements. Adequate nutrition enables
+affected populations to maintain health, physical strength, and productivity, reducing the need for harmful coping strategies and
+supporting engagement in livelihood activities while recovering from crisis-related shocks.
+Water, Sanitation and Hygiene (WASH): ZRCS will support the provision of essential WASH services at Beitbridge Reception Centre through
+the distribution of hygiene and sanitation non-food items, including soap, gloves and bin liners, to promote safe hygiene practices and
+maintain a clean environment. To strengthen infection prevention and control, ZRCS will ensure the availability of functional hand-
+washing stations at key service points and other strategic locations where required. A routine monitoring, maintenance and
+replenishment system will be established to ensure a continuous supply of soap and water, maintaining the functionality and accessibility
+of hand-washing facilities throughout the operation.
+Protection, health and well-being: Integrate protection, safeguarding and Mental Health and Psychosocial Support (MHPSS) throughout
+the response to identify vulnerable individuals early, provide Psychological First Aid, facilitate referrals to specialized services, and ensure
+women and girls receive dignity kits to support menstrual hygiene management and personal dignity. From ZRCS assessments, 65% of the
+returnees are women and girls and this operation will procure dignity kits to meet the 65% of 5000 people. Special attention will be given
+to unaccompanied and separated children, persons with disabilities, older persons, pregnant and lactating women, and other individuals
+with specific needs through targeted vulnerability screening, priority access to humanitarian assistance, individualized support,
+Psychological First Aid (PFA), family tracing and reunification support where appropriate, mobility and escort assistance, accessible
+information, and timely referrals to Government and partner protection services. These measures will help reduce protection risks,
+promote equitable access to assistance, and ensure that humanitarian support is delivered in a safe, dignified and inclusive manner.
+Community Engagement and Accountability (CEA), safeguarding and Protection from Sexual Exploitation and Abuse (PSEA) will be
+integrated across all sectors of the operation. Returnees will receive timely, accurate and accessible information on available services,
+eligibility criteria and referral pathways and will be encouraged to participate in decisions affecting the response. Multiple feedback and
+complaints channels, including confidential safeguarding reporting mechanisms, will be available to enable affected people to safely raise
+concerns or provide suggestions. Feedback will be analysed regularly and used to improve programme quality and responsiveness. All
+staff and volunteers will adhere to the ZRCS Code of Conduct, Safeguarding Policy and PSEA standards and will receive pre-deployment
+briefings to ensure assistance is delivered safely, respectfully and with dignity.
+Page 11 / 24
+Migration support and Restoring Family Links (RFL): Strengthen existing ZRCS Humanitarian Service Points (HSPs) along key migration
+routes and at strategic transit locations to expand migration services beyond existing RFL activities. The HSPs will provide timely
+information on available services, orientation, communication support, referrals to government and humanitarian partners, and
+facilitate access to RFL services, including free phone calls, internet connectivity, SIM cards, charging facilities and family tracing where
+required. This will enable returnees to safely reconnect with their families, reduce anxiety, and improve access to essential assistance
+throughout their journey.
+Coordination and operational readiness: Support Government-led coordination, as well as RCRC Movement information sharing,
+operational reporting and contingency planning to strengthen preparedness for continued population movements and ensure a
+coordinated humanitarian response.
+The operation has been designed to complement existing Government and partner interventions rather than duplicate them. ZRCS will
+build on its established auxiliary role and existing migration programming, including ongoing RFL services at Beitbridge and existing
+Humanitarian Service Points, by addressing identified humanitarian gaps in reception services, migration support, and protection.
+Exit Strategy
+The operation is intended to provide immediate humanitarian assistance during the current influx of returnees and will be gradually
+phased out as population movements stabilise and Government systems resume routine management of reception services. Throughout
+implementation, ZRCS will work closely with the Department of Social Development, the Department of Immigration, IOM, UN agencies
+and other humanitarian partners and government departments to ensure coordinated service delivery and avoid duplication. Capacity
+strengthened through the operation, particularly at existing Humanitarian Service Points, will continue to support migration
+programming beyond the DREF timeframe. Individuals with ongoing protection, health, psychosocial or social welfare needs that cannot
+be addressed within the DREF timeframe will be referred through established Government and partner referral pathways to ensure
+continuity of care and support beyond the operation.
+Targeting Strategy
+Who will be targeted through this operation?
+The operation will target Zimbabwean returnees and undocumented migrants returning from South Africa who have been affected by
+deportations, immigration enforcement, and violence. Priority will be given to individuals and households with the greatest
+humanitarian and protection needs, identified through registration and rapid vulnerability assessments at points of entry and transit
+locations. 
+The target population of 5,000 people is based on an official request from the Government of Zimbabwe, supported by inter-ministerial
+coordination mechanisms and Department of Immigration reporting presented during national coordination meetings. This figure is
+further informed by observed arrival trends and the rapid needs assessment findings, which confirm sustained high-volume returns since
+late May 2026 and ongoing pressure on reception capacity. The demographic breakdown reflects the assessed population profile, where
+family units, women and children, and persons with disabilities constitute a significant proportion of returnees.
+Particular focus will be placed on women and girls, especially pregnant and lactating women and female-headed households, who face
+increased protection and health risks; children, including unaccompanied and separated children, who are vulnerable to exploitation,
+abuse, and family separation; older persons and people with disabilities, who may experience barriers in accessing services and require
+tailored assistance; and individuals with chronic illnesses or other specific vulnerabilities.
+The operation will adopt a needs-based and protection-sensitive targeting approach, ensuring assistance is delivered equitably regardless
+of legal status. Protection, Gender and Inclusion (PGI) principles will guide the response to ensure humanitarian assistance is accessible,
+safe, dignified, and responsive to the specific needs of vulnerable groups.
+Targeting and service delivery will be informed through continuous engagement with affected communities to identify evolving needs,
+barriers to access and protection concerns. Information on available assistance, eligibility criteria and feedback channels will be
+communicated in accessible and culturally appropriate formats.
+Page 12 / 24
+Explain the selection criteria for the targeted population
+The operation will prioritise Zimbabwean returnees and undocumented migrants returning from South Africa who have been affected by
+deportation, immigration enforcement, violence, or other protection concerns and are unable to meet their immediate basic needs.
+Beneficiaries will be selected through registration, rapid needs assessments, and vulnerability screening conducted at points of entry,
+transit centres, and communities of return.
+Priority will be given to the most vulnerable groups, including women and girls (especially pregnant and lactating women and female-
+headed households), children (particularly unaccompanied and separated children), older persons, people with disabilities, individuals
+with chronic illnesses, and survivors of violence or exploitation. The selection process will be guided by humanitarian principles and a
+Protection, Gender and Inclusion (PGI) approach to ensure assistance reaches those with the greatest needs in a fair, transparent, and
+dignified manner.
+Community feedback and observations from volunteers will complement vulnerability assessments to ensure targeting remains
+transparent, fair and responsive to changing needs while minimising exclusion and protection risks.
+Total Targeted Population
+Women 1,750 Rural -
+Girls (under 18) 1,500 Urban -
+Men 250 People with disabilities (estimated) 13%
+Boys (under 18) 1,500
+Total targeted population 5,000
+Risk and Security Considerations (including
+"management")
+Does your National Society have anti-fraud and corruption
+policy?
+Yes
+Does your National Society have prevention of sexual
+exploitation and abuse policy?
+Yes
+Does your National Society have child protection/child
+safeguarding policy?
+Yes
+Does your National Society have whistleblower protection
+policy?
+Yes
+Does your National Society have anti-sexual harassment policy? Yes
+Please analyse and indicate potential risks for this operation, its root causes and mitigation actions.
+Page 13 / 24
+Risk Mitigation action
+Risk of sexual exploitation, abuse, harassment or other
+safeguarding incidents during service delivery.
+Root cause: High vulnerability of returnees, power imbalances
+and crowded reception environments
+All staff and volunteers will sign and adhere to the Code of
+Conduct, receive safeguarding and PSEA briefings, display
+reporting information, ensure confidential reporting pathways
+and immediate referral of concerns.
+Community mistrust or misinformation affecting access to
+services.
+Root cause: Limited information and rapidly changing
+circumstances.
+Implement regular community engagement sessions, provide
+clear information on assistance and eligibility, establish
+feedback mechanisms and use community feedback to adapt
+programming.
+Disease outbreaks and public health risks at reception and
+transit points
+Promote hygiene and infection prevention measures at service
+points; provide handwashing facilities where possible; deploy
+volunteers for hygiene promotion, ensure volunteers follow
+health and safety protocols and refer suspected cases to health
+authorities
+Limited funding against increasing humanitarian needs Prioritise assistance based on vulnerability criteria; coordinate
+with Movement partners and humanitarian agencies to avoid
+duplication; mobilize additional resources if needs continue to
+increase.
+Influx of stranded third-country nationals, particularly Malawian
+migrants transiting through Zimbabwe
+Closely monitor population movement trends in coordination
+with Government, IOM and border authorities; prioritise
+assistance based on vulnerability; strengthen referral pathways
+for third-country nationals; and mobilise additional resources
+or advocate for complementary partner support should the
+caseload exceed the operation's capacity.
+Please indicate any security and safety concerns for this operation:
+There are no major security concerns anticipated for this operation, as activities will be implemented at established reception centres
+and official points of entry under Government coordination. However, staff and volunteers will remain vigilant and adhere to
+Zimbabwe Red Cross Society (ZRCS) security procedures throughout the operation.
+The primary safety risks relate to public health, including exposure to communicable diseases due to close contact with large
+numbers of returnees and transit migrants, as well as fatigue associated with prolonged emergency response activities. Standard
+infection prevention and control (IPC) measures, including hand hygiene, use of appropriate personal protective equipment (PPE)
+where necessary, and adherence to public health guidance, will be followed.
+All personnel will receive security briefings, maintain regular communication with supervisors, comply with Movement security
+protocols, and coordinate closely with Government authorities and humanitarian partners. Volunteers and staff will also adhere to
+safeguarding, Protection, Gender and Inclusion (PGI), and Prevention of Sexual Exploitation and Abuse (PSEA) principles to ensure the
+safety and dignity of affected populations throughout the operation.
+Volunteers and staff will be trained to recognise and safely respond to safeguarding concerns, maintain confidentiality, apply
+survivor-centred referral procedures and ensure that interactions with affected people uphold dignity, inclusion and the "Do No
+Harm" principle.
+Has the child safeguarding risk analysis assessment been
+completed?
+Yes
+Page 14 / 24
+Planned Intervention
+Shelter Housing And Settlements
+Budget: CHF 140,050
+Targeted Persons: 5,000
+Indicators
+Title Target
+#of mattresses provided to improve emergency accommodation conditions for
+returning migrants at reception centres.
+500
+#of blankets distributed to support adequate warmth, dignity and well-being of
+returning migrants during reception and transit.
+5,000
+#of lighting units installed at the reception centre to improve safety, visibility and
+protection conditions for returning migrants.
+10
+Priority Actions
+• Procure and distribute mattresses for use at Beitbridge Reception Centre
+• Install floodlights/solar security lighting to improve safety and security within waiting and accommodation areas
+• Procure and distribute blankets for returning migrants at Beitbridge Reception Centre
+• Clean and disinfect mattresses used at the reception centre to maintain hygiene standards and ensure safe use by successive returnees.
+Livelihoods And Basic Needs
+Budget: CHF 21,513
+Targeted Persons: 5,000
+Indicators
+Title Target
+% of targeted returning migrants who report adequate short-term food support
+to reduce hunger during transit and departure from the reception centre.
+95
+% of monitoring findings that are systematically documented and used to
+improve ongoing service delivery
+80
+# of migrants who received high-energy biscuits and juice 5,000
+Priority Actions
+• Procure and distribute high-energy biscuits and juice to returning migrants at Beitbridge Reception Centre
+• Monitor the provision of basic assistance to ensure timely and equitable access for vulnerable migrants
+Page 15 / 24
+Water, Sanitation And Hygiene
+Budget: CHF 50,663
+Targeted Persons: 5,000
+Indicators
+Title Target
+# of handwashing facilities procured, installed and maintained throughout the
+operation.
+5
+#of migrants reached through hygiene commodity kits/items at the reception
+centre
+5,000
+#of people reached with hygiene promotion messages. 5,000
+Priority Actions
+• Procure and install handwashing facilities at Beitbridge Reception Centre to strengthen infection prevention and control.
+• Procure and distribute hygiene commodities, including handwashing soap, diapers, bin liners, gloves and other essential hygiene items,
+to support safe hygiene and sanitation practices.
+• Conduct hygiene promotion sessions for returnees, volunteers and staff on key hygiene practices, including hand hygiene and waste
+management, to reduce the risk of communicable diseases
+Protection, Gender And Inclusion
+Budget: CHF 22,653
+Targeted Persons: 5,000
+Indicators
+Title Target
+% of persons with specific needs who report that they received appropriate and
+timely tailored assistance and priority access to humanitarian services.
+75
+% of referred individuals who successfully access and receive appropriate
+specialised services following referral.
+75
+% of trained staff and volunteers demonstrating application of PGI principles in
+the delivery of assistance to affected people.
+100
+% of targeted children and caregivers reporting safe access to child-friendly
+spaces and improved sense of safety and protection
+50
+#of women and girls receiving dignity kits who report improved ability to
+manage hygiene and maintain dignity during transit and reception.
+3,250
+Page 16 / 24
+# of people receiving MHPSS services (which includes PFA as well as other type of
+MHPSS services)
+60
+# women and children participating in activities in safe spaces 3,250
+% of unaccompanied and separated children (UASC) for whom family
+tracing/reunification/prevention of further separation interventions, begins
+within 72 hours of registration
+80
+Priority Actions
+• Vulnerability Screening and Identification of Persons with Specific Needs (PSNs)
+• Psychological First Aid (PFA) and Emotional Support
+• Protection Information and Awareness Sessions
+• Referral and Case Management Support
+• Safe Space and Child-Friendly Corner Support establishment
+• PGI and Safe Identification Training for Staff and Volunteers
+• Monitoring Protection Risks and Inclusion
+• Priority Assistance and Inclusion Support for Persons with Specific Needs (mobility assistance, volunteer escorts, accessible
+communication materials, temporary seating, identification materials and operational support)
+• Procurement and distribution of hygiene and dignity kits to support menstrual hygiene management and dignity needs of targeted
+women and girls (same dignity kits are the ones under WASH)
+Migration And Displacement
+Budget: CHF 58,850
+Targeted Persons: 5,000
+Indicators
+Title Target
+%of returning migrants with specific needs who are identified through
+vulnerability screening and receive appropriate support or referral at Beitbridge
+Reception Centre
+60
+%of targeted migrants who report receiving timely and understandable
+information on available, protection, and RFL services.
+75
+% of migrants requiring family contact who are able to successfully restore or
+maintain communication with their families through RFL services (phone calls and
+internet access)
+75
+% of trained volunteers demonstrating correct application of RFL, case
+management, and data protection standards during service delivery.
+100
+% of identified service gaps and emerging migration trends /acted upon following
+monitoring findings.
+60
+% of returning migrants able to restore or maintain contact with their families
+who report that reliable electricity and charging facilities at the RFL service shed
+supported effective communication
+75
+Page 17 / 24
+# of ZRCS migration service points strengthened, meeting the minimum
+standards of HSPs and operational as multi-purpose humanitarian service points.
+3
+% of trained staff and volunteers demonstrating the capacity to deliver integrated
+humanitarian services in line with agreed standards.
+80
+% of migrants reporting that they received timely, understandable and useful
+information on available services and referral pathways.
+75
+Priority Actions
+• Conduct rapid vulnerability screening of returning migrants at Beitbridge Reception Centre
+• Disseminate information on available humanitarian, protection and RFL services
+• Operate an information and help desk to provide guidance, information and referrals to returning migrants
+• Document and refer migrants with specific protection needs to appropriate government and partner services
+• Facilitate family reunification where appropriate and in line with RFL procedures
+• Coordinate tracing requests through the Red Cross Red Crescent global RFL network
+• Train volunteers on Restoring Family Links, case management and data protection
+• Conduct periodic monitoring to identify emerging migration trends, protection risks and service gap
+• Provide transport assistance in the form of bus fares to vulnerable returnees to support safe and dignified onward travel from
+Beitbridge Reception Centre to their final destinations
+• Fix electricity wiring at the Zimbabwe Red Cross Sed/service point
+• Upgrade and equip the ZRCS service points in Beitbridge, Harare and Zaka to provide integrated humanitarian services, including RFL,
+information services, referrals, and basic assistance.
+• Train staff and volunteers on Humanitarian Service Point (HSP) management, protection, safeguarding, Community Engagement and
+Accountability (CEA), Restoring Family Links (RFL), referral procedures and data protection.
+• Develop and implement standard operating procedures for integrated service delivery across all service points. 
+• Develop and disseminate multilingual and accessible Information as Aid materials through service points, community engagement
+sessions and appropriate communication channels, ensuring information is available in formats accessible to women, children, persons
+with disabilities and other vulnerable groups
+• Provide RFL services at Beitbridge reception centre and all other 3 humanitarian service points
+Community Engagement And Accountability
+Budget: CHF 3,786
+Targeted Persons: 5,000
+Indicators
+Title Target
+% of targeted people who report receiving timely, accessible and understandable
+information on available services, assistance and referral pathways.
+100
+% of trained staff and volunteers demonstrating the capacity to effectively apply
+CEA principles during implementation.
+100
+% of feedback and complaints received through community feedback
+mechanisms that are addressed within the agreed timeframe.
+75
+of targeted people who report receiving timely, accurate and accessible
+information on available services, selection criteria and referral pathways.
+75
+Page 18 / 24
+# of people reached through CEA interventions (community information sessions) 5,000
+Priority Actions
+•Community information sessions conducted daily orientation and information sessions for newly arrived returnees covering available
+assistance, selection criteria, safeguarding, referral pathways, RFL services, health information and onward transportation arrangements.
+• Development and Printing of Information, Education and Communication (IEC) Materials to produce multilingual posters, banners and
+information leaflets in English, Shona and Ndebele explaining available services, complaint mechanisms, safeguarding reporting channels
+and key contacts.
+• Establishment of a community feedback and complaints mechanisms through installation of suggestion boxes, establish and ensure
+people are reached with information on available services and assistance
+Establishment of a feedback desk and maintenance of a confidential feedback register for compliments, complaints, suggestions and
+safeguarding concerns.
+• Volunteer orientation on CEA by convening a One-day refresher training for volunteers covering accountability principles,
+communication with communities, handling feedback, confidentiality and referral pathways.
+• CEA Helpdesk and Satisfaction and Exit Interviews
+Coordination And Partnerships
+Budget: CHF 22,719
+Targeted Persons: 30
+Indicators
+Title Target
+% of scheduled national and district coordination meetings in which ZRCS actively
+participated to support coordinated humanitarian response.
+50
+#of national coordination meetings supported by ZRCS that contributed to
+coordinated operational planning and information sharing
+1
+#of lessons learnt workshops conducted with recommendations documented
+and shared
+1
+#of stakeholder inception meetings conducted to establish coordinated
+implementation and referral pathways.
+1
+#of cross-border coordination and information-sharing meetings conducted with
+South African Red Cross Society, Malawi Red Cross Society, and relevant
+Movement partners
+3
+#of knowledge-sharing and experience exchange sessions conducted with the
+Malawi Red Cross Society and South African Red Cross Society
+1
+Priority Actions
+• Support and participate in Government-led national and district coordination meetings and technical committees throughout the
+operation
+• Conduct a lessons learnt workshop with key stakeholders to document good practices, challenges, and recommendations for future
+population movement responses
+• Conduct an inception meeting with Government, Movement partners, UN agencies, NGOs, and other key stakeholders to present the
+operation, clarify roles and responsibilities, strengthen referral pathways, and promote coordinated implementation.
+Page 19 / 24
+• Organise and/or participate in cross-border coordination and information-sharing meetings with the South African Red Cross Society,
+Malawi Red Cross Society, and relevant Movement partners to strengthen route monitoring, referral pathways, and coordinated
+humanitarian assistance for migrants and returnees
+• Facilitate the exchange of operational visits, good practices, and lessons learned with the Malawi Red Cross Society and South African
+Red Cross Society to strengthen migration preparedness, service delivery, and cross-border case management.
+Secretariat Services
+Budget: CHF 14,629
+Targeted Persons: 7
+Indicators
+Title Target
+# of IFRC CCD monitoring visits conducted and field reports shared 3
+# of Kick off meeting held within 7 days of DREF approval 1
+Priority Actions
+• Ensure overall operational coordination in line with IFRC DREF standards and policies.
+• Convene a kickoff meeting within one week of approval and conduct monthly operational coordination meetings thereafter
+• Cover salary costs for essential strategic positions required for effective operation delivery. PMER Officer and Project Officer
+• Provide technical and coordination support through the IFRC Country Cluster Delegation (CCD), including PMER, finance, and
+logistics, in compliance with DREF and IFRC policies.
+National Society Strengthening
+Budget: CHF 60,409
+Targeted Persons: 23
+Indicators
+Title Target
+Support staff providing essential services 3
+Volunteer Insurance 20
+Priority Actions
+• Cover salary costs for essential strategic positions required for effective operation delivery. 
+1. Project coordinator-HQ
+2. PMER Officer HQ
+3. Finance Assistant-HQ
+4. District Field Officer -District
+Vehicle costs (including fuel, insurance, maintenance)
+Vehicle Leasing 
+ICT Costs at the Beitbridge branch including laptops and phones
+ZRCS Core cost 5%
+Page 20 / 24
+About Support Services
+How many staff and volunteers will be involved in this operation.
+Briefly describe their role.
+The operation will be implemented by 23 personnel, comprising 20 ZRCS volunteers and 3 staff members.
+The 20 trained volunteers will support frontline activities, including beneficiary registration, vulnerability screening, protection and
+community engagement, Mental Health and Psychological Support, Restoring Family Links (RFL) services, distribution of humanitarian
+assistance, information dissemination, and referrals for specialized services.
+The 3 staff members will provide overall operational leadership, technical oversight, coordination, and monitoring of the response. They
+will ensure effective implementation of activities, liaison with government and humanitarian partners, reporting, resource management,
+and quality assurance. The operation will be led by the RFL Officer, supported by technical staff responsible for protection/RFL and
+logistics/operations, monitoring, ensuring efficient coordination and accountability throughout the emergency response.
+Prior to deployment, all staff and volunteers will receive refresher briefings on safeguarding, Prevention of Sexual Exploitation and
+Abuse (PSEA), Community Engagement and Accountability (CEA), Code of Conduct and referral pathways to ensure safe, accountable and
+people-centred service delivery.
+Does your volunteer team reflect the gender, age, and cultural
+diversity of the people you’re helping? What gaps exist in your
+volunteer team’s gender, age, or cultural diversity, and how are you
+addressing them to ensure inclusive and appropriate support?
+Yes. The volunteer team reflects the gender, age, and cultural diversity of the communities being served, enabling the delivery of
+inclusive, culturally appropriate, and gender-sensitive humanitarian assistance. The team includes both male and female volunteers with
+experience in working with women, children, older persons, people with disabilities, and other vulnerable groups.
+At present, no significant gaps have been identified in the team's gender, age, or cultural diversity. Volunteers shall be trained on
+Protection, Gender and Inclusion (PGI), safeguarding, and Prevention of Sexual Exploitation and Abuse (PSEA) to ensure assistance is
+provided in a safe, respectful, and non-discriminatory manner to all affected populations.
+Volunteers will also support community feedback collection and ensure that concerns raised by affected people are documented,
+analysed and addressed in a timely manner as part of continuous accountability to affected populations.
+If there is procurement, will it be done by National Society or IFRC?
+All procurement for this operation will be managed by the ZRCS Procurement Department in accordance with ZRCS procurement policies
+and IFRC procurement standards. Procurement will be undertaken locally using prequalified and competitive local suppliers to ensure
+timely delivery of relief items and operational supplies.
+The Procurement Department will be responsible for preparing procurement plans, sourcing quotations, conducting supplier selection,
+issuing purchase orders, managing contracts, coordinating the delivery of goods, and ensuring quality assurance and compliance
+throughout the procurement process. The procured items will be for distribution to beneficiaries and operational support, and local
+procurement is expected to ensure a rapid procurement process with minimal delays
+How will this operation be monitored?
+The operation will be monitored through routine field supervision, activity tracking, beneficiary registration records, distribution reports,
+and regular monitoring visits conducted by ZRCS staff. The RFL Officer, supported by technical staff and volunteers, will oversee
+Page 21 / 24
+implementation, monitor progress against the operational plan, and ensure data quality and timely reporting.
+Progress will be measured using agreed output and outcome indicators, including the number of migrants assisted with protection
+services, RFL services, food assistance, emergency relief items, referrals, and psychosocial support, as well as the number of volunteers
+trained and coordination meetings conducted. Monitoring findings will be used to identify gaps and make timely adjustments to the
+response.
+IFRC monitoring visits may be conducted, subject to operational requirements, to provide technical support, monitor implementation,
+and ensure compliance with DREF and IFRC standards, working jointly with ZRCS throughout the operation.
+Please briefly explain the National Societies communication strategy
+for this operation
+The National Society's communication strategy focuses on transparency and stakeholder engagement. information will be through
+stakeholder coordination meetings. Internally ZRCS will use emails, WhatsApp groups, and meetings to keep teams aligned. Externally,
+they'll leverage social media, press releases, and community meetings to inform stakeholders, partners, and the public. 
+To ensure effective communication with affected communities, they'll use local languages and accessible channels like radio and
+community leaders. The IFRC will support communication efforts, including media outreach and content sharing. Key roles include the
+National Society's communication officer, IFRC communication officer, and field-based teams.
+Page 22 / 24
+Budget Overview
+Click here to download the budget file
+Page 23 / 24
+Contact Information
+For further information, specifically related to this operation please contact:
+National Society contact: Mathias Begede, Programs Director, begedem@redcrosszim.org.zw, +263773217888
+IFRC Appeal Manager: Kopano Masilo, Head of Delegation, kopano.masilo@ifrc.org, +27663203886
+IFRC Project Manager: Vivianne Kibon, Programmes and Operations Coordinator, vivianne.kibon@ifrc.org, +254725910679
+IFRC focal point for the emergency: Vivianne Kibon, Programmes and Operations Coordinator, vivianne.kibon@ifrc.org, +254725910679
+Media Contact: Susan Nzisa Mbalu, Manager, Communications - Africa, susan.mbalu@ifrc.org, +254733827654
+National Societies' Integrity Focal Point: Zvisineyi Valley, Safeguarding Coordinator, valleyz@redcrosszim.org.zw, +263773898400
+Click here for the reference
+Page 24 / 24

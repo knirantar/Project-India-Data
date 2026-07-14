@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/2ed67a49-0842-5151-a9f6-c02a4db10f23/Education%20Cost%20Effectiveness%20Brief%20-%20PlayMatters%20Cohort%203%20Uganda.pdf",
+  "title": "PlayMatters Uganda to enhance teacher practices and wellbeing by Learning through Play: A Cost-effectiveness Analysis (CEA), July 2026 (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 14 Jul 2026 02:33:07 +0000",
+  "sha256": "5b452dcd406c0dedc21a69658285cf36315019203b9015b893bb5b02ad297b43",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-14T07:07:18.489144+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-07-14T07:07:50.399215+00:00",
+  "text_chars": 16716,
+  "raw_path": "data/geopolitics/raw/5b452dcd406c0dedc21a69658285cf36315019203b9015b893bb5b02ad297b43.pdf",
+  "text_path": "data/geopolitics/raw/5b452dcd406c0dedc21a69658285cf36315019203b9015b893bb5b02ad297b43.txt"
 }
