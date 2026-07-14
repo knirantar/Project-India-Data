@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-14T22:51:06.498325+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://foreignpolicy.com/2026/07/14/trump-strait-hormuz-tolls-investment-trade-gulf-iran-war/",
+  "title": "Trump Pivots His Strait of Hormuz Strategy—Again",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Tue, 14 Jul 2026 21:09:46 +0000",
+  "sha256": "eeb19c54da56a052681d2c6ec566f1c0db9fabf2d87446421154124f30b82760",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-14T22:51:23.653197+00:00",
+  "text_chars": 9351,
+  "raw_path": "data/geopolitics/raw/eeb19c54da56a052681d2c6ec566f1c0db9fabf2d87446421154124f30b82760.html",
+  "text_path": "data/geopolitics/raw/eeb19c54da56a052681d2c6ec566f1c0db9fabf2d87446421154124f30b82760.txt"
 }
