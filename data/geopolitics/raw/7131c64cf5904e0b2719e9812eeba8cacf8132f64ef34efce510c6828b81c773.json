@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/01c2ecd8-b2ff-48d2-9ea3-e3e8d1b057f3/SNFI%20Market%20Monitoring%20for%20Gaza%20_%20June2026.pdf",
+  "title": "oPt: Market Monitoring: Shelter and Household Items - 22-29 June 2026 | Gaza Strip (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 14 Jul 2026 13:52:19 +0000",
+  "sha256": "7131c64cf5904e0b2719e9812eeba8cacf8132f64ef34efce510c6828b81c773",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-14T15:19:51.785283+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-07-14T15:20:31.874350+00:00",
+  "text_chars": 41035,
+  "raw_path": "data/geopolitics/raw/7131c64cf5904e0b2719e9812eeba8cacf8132f64ef34efce510c6828b81c773.pdf",
+  "text_path": "data/geopolitics/raw/7131c64cf5904e0b2719e9812eeba8cacf8132f64ef34efce510c6828b81c773.txt"
 }

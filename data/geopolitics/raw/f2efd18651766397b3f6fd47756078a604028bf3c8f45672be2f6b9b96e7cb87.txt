@@ -1,0 +1,695 @@
+Protection Analytical Framework  1
+Table of Contents
+Executive Summary ................................................................................................................3
+1. Context and Background ...................................................................................................5
+2. Assessment Overview and Methodology .........................................................................7
+    Purpose and Use of the Protection Analytical Framework ........................................7
+    Methodology ....................................................................................................................8
+    Sampling ...........................................................................................................................8
+    Data collection and analysis ........................................................................................10
+    Data analysis ..................................................................................................................10 
+    Limitations .....................................................................................................................12 
+3. Protection Risks Analysis .............................................................................................12 
+Risk 1: Child, Early, and Forced Marriage .......................................................................12 
+Risk 2: Psychological and Emotional Abuse ...................................................................13
+Risk 3: Property-related Violations .................................................................................14 
+Risk 4: Gender-based violence .........................................................................................14
+Risk 5: Child Labor .............................................................................................................15 
+4. Recommendations ........................................................................................................17 
+Risk I: Child, Early, and Forced Marriage ........................................................................17 
+Risk 2: Psychological and Emotional Abuse ...................................................................17
+Risk 3: Property-related Violations .................................................................................18 
+Risk 4: Gender-based violence .........................................................................................19 
+Risk 5: Child Labor .............................................................................................................20 
+5. Cross-cutting Recommendations ................................................................................20
+6. Conclusion ......................................................................................................................21
+7. References ......................................................................................................................23
+Protection Analytical Framework  3
+Executive Summary
+Syria’s crisis, now in its fifteenth year, continues to represent one of the most severe 
+displacement and protection emergencies globally. In 2025, an estimated 16.5 million people 
+inside the country required humanitarian assistance, including more than 6.4 million internally 
+displaced persons (IDPs), while a further 3.9 million Syrians remain in neighboring countries. 
+Protracted conflict, economic collapse, weakened rule of law, and repeated shocks have 
+significantly increased exposure to protection risks, particularly for women and children. The 
+political transition following renewed conflict in late 2024 has further exacerbated instability, 
+disrupted services, and strained already limited protection systems.
+Through the Protection Analytical Framework (PAF) process conducted by Bahar in partnership 
+with Diakonie Katastrophenhilfe (DKH) and in close coordination with the Protection Cluster 
+from the site selection phase through to the completion of the assessment, in Afrin district 
+(Aleppo Governorate) and Sarmada sub-district (Idleb Governorate), five protection risks were 
+identified as the most prevalent and severe, requiring immediate and prioritized attention.
+Child, early or forced marriage: Emerged as the most critical protection concern. Findings 
+indicate that economic hardship, displacement, and entrenched social norms are driving 
+increased reliance on child and early marriage as a negative coping mechanism, particularly 
+for girls. The perception of early marriage as a form of protection, combined with limited 
+access to education and livelihood opportunities, continues to undermine girls’ safety, rights, 
+and long-term well-being. Children without parental care, especially unaccompanied children 
+and orphans, face the highest risk.
+Psychological and emotional abuse:  Psychological distress and emotional harm emerged 
+as widespread concerns across assessed communities, reflecting the cumulative impact of 
+prolonged displacement, economic deterioration, loss, insecurity, and repeated exposure 
+to crisis. Respondents reported increased levels of stress, anxiety, emotional exhaustion, 
+social withdrawal, and hopelessness among both adults and children, particularly within 
+households experiencing chronic economic and social pressure. Women, children, persons 
+with disabilities, and caregivers were identified as particularly affected due to compounded 
+responsibilities, disrupted support systems, and prolonged exposure to instability.
+4  |Protection Analytical Framework
+Findings also indicate that harmful coping patterns, family tension, and emotionally abusive 
+behaviors have increasingly become normalized within some households and communities, 
+reflecting the erosion of protective social structures and limited access to supportive 
+services. Despite significant psychosocial needs, help-seeking behavior remains low due to 
+stigma, limited awareness of MHPSS services, and insufficient availability of specialized and 
+community-based mental health and psychosocial support interventions.
+Theft, extortion, forced eviction, or destruction of personal property:  They represent a 
+pervasive protection risk, particularly for displaced and returnee households lacking secure 
+tenure or legal documentation. Weak accountability mechanisms, ineffective responses 
+from authorities, and limited access to legal and Housing, Land and Property (HLP) services 
+exacerbate exposure to exploitation, secondary displacement, and loss of livelihoods.
+Gender-based violence (GBV):  (GBV) remains deeply entrenched and continues to affect 
+women and girls disproportionately across assessed communities. As highlighted in the 
+section on psychological distress and emotional harm, prolonged displacement, economic 
+deterioration, and weakened social support systems have contributed to the normalization 
+of harmful behaviors within households and communities. Within this context, psychological 
+violence and deprivation of resources emerged as the most commonly reported forms of 
+GBV, driven by entrenched gender inequality, economic pressure, and displacement-related 
+stress. Barriers such as stigma, fear of retaliation, restricted mobility, and limited availability 
+of survivor-centered services continue to constrain access to protection, reporting, and 
+response mechanisms.
+Child labor: It persists as a harmful coping strategy linked to poverty, loss of breadwinners, 
+displacement, and school dropout. Children engaged in labor face heightened risks of 
+exploitation, physical injury, and long-term psychosocial harm, further perpetuating cycles of 
+vulnerability and exclusion.
+Protection Analytical Framework  5
+Across all identified risks, vulnerability is layered and intersectional. Children without 
+parental care face the highest exposure to compounded protection risks, followed by women 
+and girls, displaced and returnee families, persons with disabilities, and older persons. While 
+protection response capacities exist across Syria, including community-based mechanisms, 
+specialized GBV and child protection services, legal assistance, and MHPSS interventions, 
+available services remain insufficient, unevenly distributed, and overstretched relative to the 
+scale and severity of needs.
+Overall, the findings underscore the urgent need for protection responses that address 
+immediate harm while tackling structural drivers of vulnerability. Strengthening community-
+based protection mechanisms, improving access to inclusive and survivor-centered services, 
+and linking protection interventions with education, livelihoods, and psychosocial support 
+are essential to mitigate risks, reduce negative coping strategies, and support longer-term 
+recovery and resilience in northwest Syria.
+1. Context and Background
+Since widespread protests in 2011 were met with brutal government repression, Syria 
+has endured more than a decade of conflict that dismantled state institutions, shattered 
+livelihoods, and created one of the largest humanitarian emergencies in modern history. 
+Years of armed fighting displaced millions internally and externally, with over 13 million 
+people forced from their homes since the outbreak of the conflict, and neighboring countries 
+hosting millions of refugees before the political transition in late 2024 . Persistent violence, 
+economic collapse, and destroyed infrastructure have weakened social protection systems 
+and increased exposure to violence and exploitation across all segments of the population. 
+Following the fall of the Assad regime in December 2024 and the establishment of a transitional 
+government, the security landscape remains volatile. Large numbers of people continue to be 
+internally displaced and newly displaced by sporadic clashes, sectarian reprisals, and residual 
+conflict . Conditions in areas of return are far from secure or conducive, raising concerns 
+about premature or unsafe returns. 
+Protection risks in Syria remain extreme and multifaceted. Years of conflict, economic hardship, 
+disrupted services, and widespread displacement have driven families toward negative 
+coping mechanisms such as child labor and early marriage, which are widely documented 
+across affected governorates, particularly in Aleppo and Idlib . Economic insecurity and 
+displacement increase families’ reliance on these harmful strategies, making children more 
+vulnerable to abuse, exploitation, and neglect . 
+Children face acute threats from violence and explosive remnants of war: more than 5 
+million children are at risk from unexploded ordnance , with tens of thousands of casualties 
+documented. Reports indicate multiple deaths and injuries due to explosive hazards since late 
+2024, including in Aleppo governorate where incidents were among the highest nationwide. 
+Children out of school, estimated at over 2.4 million, are at increased risk of child labor, child 
+marriage, trafficking, and recruitment .
+ 
+Gender-based violence remains widespread, exacerbated by socio-economic pressures and 
+community protection  breakdown. Assessments in northern Syria noted pervasive GBV, 
+including physical and sexual violence, psychological violence, denial of resources and early 
+and forced marriage , often compounded in displacement settings.
+6  | Protection Analytical Framework
+Psychological and emotional distress is widespread across all age groups, particularly among 
+children and adolescents exposed to prolonged conflict, loss of family members, displacement, 
+and repeated shocks such as earthquakes. Reports from relief agencies note high rates 
+of mental health concerns among unaccompanied and separated children, particularly in 
+Aleppo and Idlib, with community members reporting increases in child marriage and other 
+negative coping mechanisms following the 2023 earthquake. 
+In addition to these generalized protection risks, severe incidents of ethno-sectarian violence 
+and reprisals have been documented in 2025, including mass civilian killings and collective 
+punishment campaigns against Alawite communities in Latakia, Tartus, Hama, and Homs 
+governorates . Thousands of civilians, a significant number of whom were non-combatants, 
+have reportedly been killed in violence linked to operational shifts after the regime’s collapse, 
+including documented extrajudicial killings and sectarian targeting. Such incidents have 
+further intensified fear, displacement, and reluctance to report protection violations among 
+affected communities.
+Efforts to address protection needs derive from a mix of local, regional, and international 
+actors. United Nations agencies, including UNHCR, continue humanitarian operations inside 
+Syria and through cross-border deliveries, working to provide basic services, legal assistance, 
+and protection programming for IDPs, returnees, and host communities. The “Syria is Home 
+” digital platform launched by UNHCR aims to centralize information on legal documentation, 
+services, and rights to help families make informed decisions about return and reintegration. 
+Child protection programming by various humanitarian actors focuses on education access, 
+psychosocial support, and explosive hazard awareness, while protection clusters coordinate 
+data collection, referrals, and community-based support networks. Despite these efforts, 
+gaps in funding, humanitarian access, and security constraints limit consistent service 
+delivery, and protection concerns , including GBV, child labor, early marriage, trafficking, and 
+explosive hazards, remain elevated across the country.
+Despite the protracted crisis and ongoing instability, a range of protection response 
+capacities continues to operate across Syria, led by national actors, United Nations agencies, 
+and international and local NGOs. According to recent United Nations and Protection Cluster 
+reporting, protection activities remain a core component of the humanitarian response, 
+though coverage and quality vary significantly by location and access conditions.
+The Protection Cluster, through its Areas of Responsibility (AoRs), coordinates child protection, 
+Gender-based violence, housing, land and property (HLP), and mine action interventions 
+across multiple governorates. These efforts include case management services, community-
+based protection mechanisms, legal awareness activities, psychosocial support (PSS), and 
+referral pathways for individuals at heightened risk. UNHCR and protection partners continue 
+to support legal assistance, civil documentation, and HLP-related services for internally 
+displaced persons (IDPs), returnees, and host communities, particularly in areas affected by 
+displacement and tenure insecurity.
+Protection Analytical Framework  7
+GBV and child protection actors provide specialized services such as survivor-centered case 
+management, safe spaces, and mental health and psychosocial support (MHPSS), with a 
+focus on women, girls, and children without parental care. However, multiple assessments 
+highlight that these services remain insufficient to meet the scale and severity of needs, with 
+limited geographic coverage, funding shortfalls, and persistent barriers to access, including 
+stigma, mobility constraints, and security risks.
+Education, livelihoods, and social protection interventions contribute indirectly to protection 
+outcomes by addressing some of the underlying drivers of negative coping mechanisms, 
+including child labor and early marriage. Nevertheless, United Nations reporting consistently 
+notes that weakened public institutions, fragmented governance structures, and reduced 
+humanitarian funding have constrained the ability of existing systems to provide sustained 
+and comprehensive protection responses.
+Overall, while protection capacities are present and actively responding, they remain 
+overstretched and unevenly distributed. This gap between needs and available services 
+underscores the importance of targeted, context-specific protection programming that 
+strengthens community-based mechanisms, enhances coordination, and links immediate 
+response with longer-term prevention and resilience-building efforts.
+In addition to humanitarian actors operating through formal coordination mechanisms, local 
+authorities, community leaders, religious figures, local councils, and informal community-
+based networks continue to play an important role in responding to protection concerns 
+across assessed communities. These actors contribute, with varying levels of capacity and 
+influence, to mediation efforts, dispute resolution, community awareness, referrals, and 
+support to vulnerable households, particularly in areas where formal services remain limited 
+or difficult to access.
+However, engagement with these stakeholders remains inconsistent and often constrained 
+by limited technical capacity, fragmented governance structures, resource limitations, and the 
+absence of standardized protection approaches. Strengthening collaboration with local duty 
+bearers and non-traditional community stakeholders could contribute to more sustainable, 
+locally grounded, and accessible protection responses.
+8  Protection Analytical Framework
+2. Assessment Overview and Methodology
+Purpose and Use of the Protection Analytical Framework
+The Protection Analytical Framework serves as a structured analytical tool designed to 
+identify, assess, and prioritize protection risks, vulnerabilities, and response capacities in 
+complex humanitarian settings. The primary purpose of the PAF is to support evidence-based 
+decision-making and strengthen the design of protection interventions that are context-
+specific, risk-informed, and aligned with the needs of affected populations. The assessment 
+aimed to contribute to timely, appropriate, and protection-centered interventions that 
+address identified gaps and align with evolving realities on the ground.
+The PAF is intended to inform a wide range of stakeholders, including humanitarian actors, 
+protection partners, donors, and coordination mechanisms such as the Protection Cluster 
+and its Areas of Responsibility (AoRs). It aims to guide programmatic prioritization, enhance 
+coordination, and support advocacy efforts by providing a shared understanding of key 
+protection concerns and their underlying drivers.
+In addition, the PAF contributes to identifying gaps in service delivery, highlighting at-risk 
+population groups, and promoting integrated, multi-sectoral responses that link protection 
+with other sectors, including education, livelihoods, legal assistance, and mental health and 
+psychosocial support (MHPSS). Ultimately, the framework seeks to strengthen both immediate 
+protection responses and longer-term strategies for prevention, resilience, and recovery.
+Against this backdrop, Bahar, in partnership with Diakonie Katastrophenhilfe, conducted a 
+Protection Analytical Framework assessment between September and November 2025 ,in 
+two locations: Afrin (Aleppo Governorate) and Sarmada (Idleb Governorate).
+Protection Analytical Framework  9
+ While data collection for this assessment was conducted between September and November 
+2025, the report was finalized within a rapidly evolving operational and political context. Given 
+ongoing population movements, changes in humanitarian access, and fluctuating protection 
+conditions across Syria, some context-specific dynamics may have evolved since the time 
+of data collection. Nevertheless, while the intensity and manifestation of specific risks may 
+continue to evolve, the analysis indicates that the broader structural drivers of vulnerability 
+and the identified protection trends remain highly relevant across the assessed areas.
+Methodology 
+The assessment adopted a qualitative and participatory methodology, building on existing 
+secondary data and previous assessments. Data collection was structured around four 
+thematic areas:
+• Protection risks, threats, and vulnerabilities
+• Protection responses, capacities, and self-protection strategies
+• Protection stakeholders, programs, and activities
+• Existing capacities and priority recommendations
+Sampling 
+This sampling approach supported the collection of qualitative and contextualized data, 
+enabling an in-depth analysis of differentiated protection risks, access to services, and coping 
+mechanisms among diverse population groups.
+The assessment adopted a purposive sampling approach to ensure representation of 
+population groups most exposed to protection risks in Afrin (Aleppo Governorate) and Sarmada 
+(Idleb Governorate), while accounting for geographic location, age, gender, displacement 
+status, and levels of vulnerability.
+Assessment Sample Overview:  
+Data Collection Method Number Conducted
+Key Informant Interviews (KIIs)                         301
+Focus Group Discussions (FGDs)                         124 
+Household Interviews                                    386
+Total Engagements                              811
+Participants included women, men, girls, and boys from host communities, internally displaced 
+populations (IDPs), and returnee households across Afrin and Sarmada. The assessment 
+prioritized participation of highly vulnerable population groups, including children without 
+parental care, female-headed households, returnees, and persons with disabilities.
+10  Protection Analytical Framework
+Among Key Informant Interview participants 
+Focus Group Discussions were conducted separately with adult women, adult men, adolescent 
+girls, and adolescent boys to ensure safe and age-appropriate participation. 
+Household interviews were equally distributed between male and female respondents (193 each).
+Data collection and analysis
+Primary data were collected through:
+• 301 Key Informant Interviews (KIIs), were conducted as part of the first pilot round of 
+Protection Monitoring under the Protection Cluster. The data was collected to support 
+the initial implementation of protection monitoring activities across Syria, in coordination 
+with of the Cluster.
+• In coordination with the Protection Cluster, Bahar Organization was provided with a copy 
+of the raw data collected by its team, as a contribution to the Protection Monitoring activity 
+and as part of the PAF activity.
+Protection Analytical Framework  11
+• 124 Focus Group Discussions (FGDs),The tool was developed collaboratively by the DKH 
+and Bahar teams, with data collection carried out by the Bahar team.
+• 386 Household Interviews, the tool was developed collaboratively by the DKH and Bahar 
+teams, with data collection carried out by the Bahar team.
+Key Informant Interviews were conducted with individuals selected based on their direct 
+experience and in-depth knowledge of the local context, including community leaders, service 
+providers, and humanitarian actors. This approach aimed to capture nuanced perspectives 
+on protection risks, existing response mechanisms, and gaps in service provision.
+Focus Group Discussions were organized according to age and gender criteria, with separate 
+groups for women, men, boys, and girls, to ensure a safe and enabling environment for open 
+and meaningful discussion. Priority was given to participants from population groups directly 
+affected by protection risks, including displaced households, children without parental care, 
+and other highly vulnerable community members.
+Household interviews were conducted using a purposive approach complemented by 
+elements of convenience sampling, targeting communities and locations with higher levels of 
+vulnerability and reported protection concerns. Efforts were made to include displaced and 
+returnee households, female-headed households, and households including persons with 
+disabilities or children at heightened risk, in order to reflect diverse protection experiences 
+across the two locations.
+Data analysis
+Data collected through KIIs, FGDs, and household interviews was cleaned, coded, consolidated, 
+and analyzed using both quantitative and qualitative analytical approaches.
+Quantitative data was analyzed using Microsoft Excel to identify frequencies, prevalence 
+levels, trends, and comparative patterns across assessed protection risks, population groups, 
+locations, gender, age categories, and displacement status. Basic analytical functions and 
+comparative tabulation techniques were used to support data interpretation and consistency 
+checks.
+12  Protection Analytical Framework
+Qualitative data collected through FGDs and KIIs was reviewed thematically through 
+comparative analysis and protection-focused interpretation to identify recurring concerns, 
+contextual drivers, coping mechanisms, vulnerabilities, community perceptions, and 
+response gaps. Analysis was informed by protection principles and sectoral expertise to 
+support contextual understanding of the findings.
+Triangulation was applied across the three data collection methods to strengthen the 
+reliability and consistency of findings and to identify converging or diverging trends between 
+different respondent groups and locations.
+Findings were analyzed using a Protection Analytical Framework (PAF)-informed approach, 
+linking contextual dynamics, protection threats, affected population groups, coping strategies, 
+and existing response capacities.
+Limitations
+The assessment adopted a purposive and community-based sampling 
+approach focused on populations identified as highly exposed to 
+protection risks. As a result, findings are intended to provide contextual 
+and analytical insights into protection trends and vulnerabilities rather 
+than statistically representative results for the broader population.
+Data collection relied partially on self-reporting and community 
+perceptions, which may be influenced by underreporting, stigma, 
+social desirability bias, fear of disclosure, or normalization of certain 
+harmful practices, particularly in relation to GBV, psychological harm, 
+and protection incidents occurring within households.
+To mitigate these limitations, information was triangulated across KIIs, 
+FGDs, and household interviews, while separate group discussions by 
+age and gender were conducted to support safer participation and 
+improve the reliability of sensitive disclosures.
+The assessment findings should also be interpreted in light of the 
+evolving operational and political context in Syria, as outlined earlier 
+in the methodology section. While context-specific dynamics may 
+continue to shift over time, the analysis remains relevant in highlighting 
+broader protection trends, vulnerabilities, and structural drivers 
+affecting assessed communities.
+Protection Analytical Framework  13
+3. Protection Risks Analysis
+Building on the evolving context and existing protection response capacities across Syria, the 
+Protection Analytical Framework analysis highlights how prolonged displacement, economic 
+deterioration, and weakened protective systems have reshaped the nature and severity of 
+protection risks in Afrin and Sarmada.
+The following section examines the five priority protection risks identified through the 
+assessment, analyzing their prevalence, key drivers, affected population groups, impacts, 
+and existing response gaps. This analysis adopts a PAF-informed approach, linking contextual 
+factors to observed harm and identifying critical entry points for prevention, mitigation, and 
+response.  
+  
+Risk 1: Child, Early, and Forced Marriage
+Child, early, and forced marriage (CEFM) emerged as the most critical protection risk across 
+the assessed communities in Afrin and Sarmada, with 93% of respondents perceiving early 
+marriage as highly prevalent.
+The practice is overwhelmingly gendered, disproportionately affecting adolescent girls, 
+particularly those from economically vulnerable, displaced, or returnee households. Children 
+without parental care, especially unaccompanied children and orphans, face the highest 
+exposure to this risk. Economic hardship was identified as the primary driver, compounded 
+by displacement, loss of livelihoods, school dropout, and limited access to safe income 
+opportunities. Entrenched social norms and the perception of early marriage as a protective 
+strategy in insecure environments further reinforce the practice, particularly where rule of 
+law and service availability remain weak.
+The consequences are severe and long-lasting, including increased exposure to domestic 
+violence, early pregnancy and associated health risks, psychological distress, school dropout, 
+and long-term economic dependency. Although limited awareness and case management 
+services exist, the majority of respondents reported insufficient specialized support,  including 
+limited engagement by local authorities, often constrained by weak institutional capacity and 
+inconsistent service availability, highlighting significant gaps in prevention, protection, and 
+structural response mechanisms.
+Risk 2: Psychological and Emotional Abuse
+Psychological and emotional abuse emerged as one of the most prevalent and socially 
+normalized protection risks across the assessed communities, with 55% of respondents 
+reporting an increase over the past year. 
+This form of abuse occurs primarily within the household and is closely linked to entrenched 
+power imbalances, prolonged displacement, economic stress, and the erosion of traditional 
+support networks. Fathers and husbands were most frequently identified as perpetrators, 
+as reported across different respondent groups, including women, men, and key informants, 
+with common manifestations including verbal humiliation, threats, neglect, social isolation, 
+and constant criticism.
+14  Protection Analytical Framework
+ High levels of perceived social acceptance, with 65% of respondents considering this form 
+of violence socially acceptable, indicate the normalization of non-physical violence, often 
+perceived as a legitimate form of discipline or control. Women were identified as the most 
+affected group, with 47% of household respondents reporting this, followed by children, 
+persons with disabilities, and older persons.Children exposed to sustained psychological 
+abuse face compounded risks, particularly when combined with poverty, displacement, or 
+the absence of parental care. The impacts include depression, anxiety, low self-esteem, social 
+withdrawal, and, in some cases, aggressive behavior, undermining individual well-being and 
+reducing help-seeking behavior. Coping mechanisms are largely characterized by silence, with 
+52% reporting that incidents are not disclosed. Others, 25%, reported seeking support from 
+relatives, 12% turning to humanitarian actors, or 11% leaving the home or seeking support 
+from religious leaders.
+While MHPSS and protection services are available in some areas, stigma, weak reporting 
+mechanisms, and uneven geographic coverage limit effective response, leaving significant 
+gaps in prevention and early interventio.
+Risk 3: Extortion, Forced Eviction, and Destruction of Property
+Extortion, forced eviction, and destruction of property constitute a widespread and persistent 
+protection risk in Afrin and Sarmada, with 75% of respondents reporting these violations as 
+highly prevalent. These risks are closely linked to insecure tenure, lack of civil documentation, 
+limited access to legal recourse, and fragmented governance structures, particularly affecting 
+displaced and returnee households.
+Economic hardship and power imbalances further exacerbate vulnerability, while fear of 
+retaliation and low trust in authorities contribute to significant underreporting.Displaced and 
+returnee families, women-headed households, and individuals lacking documentation are 
+disproportionately affected, often facing coercion or informal demands to vacate housing or 
+surrender property without effective means of redress. Among those affected, 50% reported 
+experiencing violence or threats during these incidents. The impacts include loss of shelter 
+and livelihoods, accumulation of debt, psychological distress, and secondary displacement.
+Protection Analytical Framework  15
+The destruction or loss of personal documentation further restricts access to services, legal 
+protection, and durable solutions. Although legal assistance and Housing, Land and Property 
+(HLP) support are provided by some actors, including humanitarian organizations and legal 
+assistance providers, respondents reported extremely limited availability and accessibility of 
+services, underscoring major gaps in accountability, prevention, and response mechanisms.
+Risk 4: Gender-based violence
+Gender-based violence (GBV) remains a deeply entrenched and pervasive protection risk in 
+the assessed communities of Afrin and Sarmada, consistent with broader United Nations 
+and protection sector reporting that identifies GBV as a critical and underreported concern 
+across Syria. Assessment findings indicate that 74% of households perceive GBV as a major 
+risk affecting women and girls, as reported across different respondent groups, including 
+women and men within households, reinforcing national-level analysis.
+ Psychological violence and deprivation of resources were identified as the most prevalent 
+forms reported over the past 12 months, driven by entrenched gender inequality, patriarchal 
+norms, displacement-related stress, and economic hardship. Secondary reporting further 
+highlights how overcrowding, lack of privacy, weakened community protection mechanisms, 
+and limited access to services in displacement settings heighten exposure to multiple forms 
+of violence and normalize harmful practices.
+Incidents were reported to occur primarily within the household, followed by public spaces 
+such as markets, workplaces, and, to a lesser extent, schools and service centers Husbands 
+were identified as the primary perpetrators, followed by fathers and male members of the 
+extended family, with some reports also indicating involvement of armed actors. Women and 
+girls are disproportionately affected, with adolescent girls facing compounded risks including 
+early and forced marriage, psychological abuse, and restrictions on mobility.
+16  Protection Analytical Framework
+GBV results in severe and long-lasting consequences, including psychosocial distress, physical 
+harm, school dropout, restricted livelihood opportunities, and social isolation. Despite 
+the presence of specialized services such as survivor-centered case management, safe 
+spaces, and MHPSS. Existing response capacities include services provided by humanitarian 
+organizations, such as survivor-centered case management, women and girls’ safe spaces, 
+mental health and psychosocial support (MHPSS), and limited engagement of local authorities 
+and community-based mechanisms. Both assessment findings and sector reporting point to 
+significant gaps in coverage, accessibility, and sustainability, while stigma, fear of retaliation, 
+mobility constraints, and limited geographic reach continue to suppress reporting and restrict 
+access to timely and appropriate support.
+Risk 5: Child Labor
+Child labor remains a prevalent protection risk across Afrin and Sarmada, with 69% of 
+respondents reporting it as a common coping strategy linked to prolonged economic 
+deterioration, displacement, and repeated shocks that have weakened household resilience.
+Poverty and the absence of a breadwinner were identified as primary drivers, compounded 
+by school dropout and limited livelihood opportunities for caregivers. The growing number of 
+returnees is placing additional pressure on Syria’s already fragile protection systems, further 
+straining local services and household coping capacities and increasing reliance on harmful 
+strategies such as child labor.
+Boys are more frequently engaged in hazardous or exploitative labor in agriculture, workshops, 
+factories, and informal trades, while girls may be involved in domestic or less visible forms of 
+work that often remain underreported.
+Protection Analytical Framework  17
+Children from displaced, returnee, and economically vulnerable households, as well as 
+children without parental care and those who have dropped out of school, face the highest 
+exposure. 
+Engagement in labor results in school dropout, physical injury, exploitation, and long-term 
+psychosocial harm, limiting children’s development and increasing vulnerability to additional 
+protection risks, including early marriage and violence.
+While education support, child protection services, and protection-sensitive livelihood 
+interventions exist, 37% of respondents highlighted that reducing child labor requires 
+increased cash assistance for vulnerable households, 25% that strengthening child rights 
+awareness and community-based protection mechanisms would be needed, 22% that creating 
+livelihood opportunities for adults is necessary, and 16% that access to quality education 
+must be improved.
+While coverage remains insufficient relative to the scale of need, and weak referral and 
+follow-up mechanisms continue to constrain effective prevention and response.
+4. Recommendations
+Based on the assessment findings, the following strategic recommendations are proposed 
+to inform protection programming, coordination, and advocacy efforts in Afrin (Aleppo) and 
+Sarmada (Idleb). These recommendations prioritize prevention, mitigation, and response to 
+identified protection risks, while addressing underlying drivers and structural gaps.
+Risk I: Child, Early, and Forced Marriage
+• Strengthen community-based prevention mechanisms led by NGOs in coordination with 
+community structures and relevant local authorities, addressing child, early, and forced 
+marriage, with a specific focus on high-risk groups, including children without parental 
+care, displaced families, and adolescent girls. This includes establishing and supporting 
+community-based protection committees, conducting regular awareness sessions and 
+caregiver dialogues, training community focal points to identify and refer at-risk cases, 
+and engaging religious and community leaders to promote protective norms and early 
+identification of risks.
+18  Protection Analytical Framework
+• Expand access to safe,inclusive education opportunities and support school retention 
+for girls, back-to-school campaigns, provision of learning materials and transportation 
+support, establishment of safe learning spaces, and conditional or unconditional cash 
+assistance to support school attendance. Education interventions should be linked with 
+protection services to ensure follow-up for girls at risk of dropout.
+• Promote sustained community engagement initiatives including community dialogue 
+sessions, awareness campaigns, peer group discussions, and engagement with religious 
+and community leaders, aimed at addressing harmful social norms and perceptions that 
+frame early marriage as a protective strategy. These efforts should prioritize dialogue with 
+caregivers, men and boys, and influential community actors to support behavior change 
+and shared responsibility for girls’ protection.
+• Strengthen case management and referral pathways for girls at risk of or affected by early 
+and forced marriage, ensuring timely access to psychosocial support, legal assistance, and 
+child protection services, particularly for unaccompanied and separated children.
+• Integrate protection interventions with livelihoods and economic support for vulnerable 
+households to reduce reliance on negative coping mechanisms, while ensuring that 
+economic assistance is complemented by community-based prevention and awareness 
+activities.
+• Advocate for improved access to legal frameworks and protective services that uphold 
+the rights of girls, targeting relevant local authorities, de facto governance structures, and 
+coordination platforms, through joint advocacy efforts, policy dialogue, and coordination 
+with the Protection Cluster and its AoRs, to support prevention and response to early and 
+forced marriage.
+Risk 2: Psychological and Emotional Abuse
+• Increase community awareness and recognition of psychological and emotional abuse 
+as forms of violence with serious and long-term psychosocial consequences. Awareness 
+activities should be culturally sensitive and tailored to address the normalization of 
+non-physical violence within households and communities, and may include NGO-led 
+community awareness sessions, interactive theatre and storytelling activities, school-
+based awareness initiatives, and engagement through local media and social media 
+platforms, implemented in coordination with community leaders and local structures.
+• Integrate mental health and psychosocial support (MHPSS) across protection and child 
+protection interventions to address the cumulative impact of chronic stress, displacement, 
+and emotional abuse. This includes embedding basic psychosocial support within 
+community-based activities and ensuring referral pathways to specialized services when 
+needed, through training of frontline staff and community volunteers, establishing mobile 
+MHPSS teams, and integrating psychosocial support into education and community 
+centers, led by NGOs in coordination with health and protection actors.
+• Promote positive parenting approachesand non-violent coping strategies through 
+caregiver-focused interventions, recognizing the role of prolonged stress and economic 
+hardship in shaping harmful household dynamics, including structured parenting sessions, 
+peer support groups for caregivers, home visits for high-risk families, and the use of digital 
+or audio-visual tools to reinforce positive practices, implemented by trained facilitators 
+and community-based organizations.
+Protection Analytical Framework  19
+• Strengthen confidential, safe, and accessible reporting and referral mechanisms for 
+individuals experiencing psychological and emotional abuse, with particular attention to 
+women, children, persons with disabilities, and older persons, including the establishment 
+of community-based complaint and feedback mechanisms, confidential helplines, and 
+safe entry points within community centers and service facilities, managed by protection 
+actors and trained service providers.
+• Enhance the capacity of community-based protection mechanismsand frontline service 
+providers to identify, respond to, and follow up on cases of psychological and emotional 
+abuse in a survivor-centered and age-appropriate manner, through structured training 
+programs, on-the-job coaching, development of standard operating procedures (SOPs), 
+and regular supervision and mentoring, led by specialized protection and MHPSS actors.
+Risk 3: Extortion, Forced Eviction, and Destruction of Property
+• Strengthen community-based protection mechanisms to prevent and respond to extortion, 
+forced eviction, and property-related violations, through NGO-led establishment and 
+support of community protection committees, community-based complaint and feedback 
+mechanisms, and awareness sessions on HLP rights, as well as training community focal 
+points to identify and refer cases to legal and protection service providers. 
+• Expand access to legal assistance and Housing, Land and Property (HLP) support for 
+displaced and returnee households, through mobile legal clinics, legal aid desks in 
+community centers, and provision of legal counseling and representation, with a focus 
+on individuals lacking civil documentation, women-headed households, and other groups 
+at heightened risk of eviction and exploitation, implemented by legal aid organizations in 
+coordination with protection actors.
+• Enhance legal awareness and information-sharing initiatives to improve understanding 
+of tenure rights, documentation processes, and available dispute resolution mechanisms, 
+through targeted awareness campaigns, distribution of simplified information materials, 
+community workshops, and engagement with local leaders, particularly in areas 
+experiencing high levels of displacement and return.
+• Advocate for improved accountability and more effective responses from relevant 
+authorities and local governance structures, in coordination with protection and HLP actors, 
+to address property-related violations and reduce impunity, through coordinated advocacy 
+efforts, engagement with local councils and de facto authorities, case documentation 
+and evidence-based reporting, and participation in coordination platforms such as the 
+Protection Cluster and HLP AoR
+• Integrate protection interventions with livelihoods and emergency assistance to mitigate 
+the economic drivers of eviction and extortion, through cash assistance, rental support, 
+and livelihood opportunities for at-risk households, while ensuring that assistance is 
+delivered in a protection-sensitive manner and linked with case management and referral 
+systems.
+Risk 4: Gender-based violence
+• Scale up comprehensive, survivor-centered GBV prevention and response services that 
+are safe, confidential, and accessible, including case management, psychosocial support, 
+and referral pathways. implemented by specialized GBV actors and NGOs in coordination 
+with health and protection partners, through fixed and mobile service delivery, safe 
+spaces, and outreach teams. Services should prioritize women and girls at heightened 
+risk, particularly in displacement and return settings.
+20  Protection Analytical Framework
+• Strengthen community-based GBV prevention initiatives that address harmful gender 
+norms, power imbalances, and the normalization of violence against women and girls. 
+through NGO-led community dialogues, peer-to-peer group sessions, engagement of 
+men and boys as change agents, and innovative approaches such as community theatre, 
+storytelling, and social media campaigns. These initiatives should engage men and boys, 
+caregivers, and community leaders as key actors in prevention and behavior change.
+• Improve access to GBV services by addressing barriers such as stigma, fear of retaliation, 
+mobility constraints, and lack of information. through confidential helplines, mobile 
+outreach services, transportation support, and establishment of safe and discreet entry 
+points within communities. This includes expanding outreach activities and ensuring that 
+services are culturally appropriate and inclusive.
+• Enhance coordination and information-sharing among GBV, protection, health, and 
+psychosocial actors to ensure continuity of care and timely referrals for survivors, while 
+adhering to confidentiality and survivor safety principles, through regular coordination 
+meetings, joint case conferencing (with consent), shared referral pathways, and 
+participation in coordination platforms such as the GBV AoR.
+• Integrate GBV risk mitigation measures across sectors, including education, livelihoods, 
+and humanitarian assistance, to reduce exposure to violence and ensure that services 
+do not inadvertently increase risks for women and girls, through safety audits, gender-
+sensitive service design, staff training on GBV risk mitigation, and inclusion of protection 
+safeguards in program implementation.
+Risk 5: Child Labor
+• Reduce household economic pressure through protection-sensitive interventions that 
+address the underlying drivers of child labor, including poverty, loss of breadwinners, and 
+displacement. Economic assistance should be linked with child protection monitoring and 
+follow-up to prevent unintended harm.
+• Strengthen access to safe, quality education and alternative learning opportunities for 
+children engaged in or at risk of child labor, recognizing education as a key protective 
+factor. Education interventions should be flexible and adapted to the needs of displaced 
+and working children.
+• Support and reinforce community-based child protection mechanisms to identify, refer, 
+and monitor cases of child labor, ensuring timely access to appropriate services and 
+follow-up support.
+• Enhance case management and referral pathways for children exposed to exploitative or 
+hazardous labor, with a focus on long-term protection outcomes, psychosocial well-being, 
+and reintegration into education or safe livelihoods.
+• Integrate child labor prevention and response measures across sectors, including 
+livelihoods, education, and humanitarian assistance, to reduce reliance on child labor as 
+a negative coping strategy.
+Protection Analytical Framework  21
+5. Cross-cutting Recommendations
+• Apply age-, gender-, and disability-inclusive approaches across all protection interventions 
+to address intersecting vulnerabilities.
+• Strengthen community outreach and participation to improve trust, reporting, and 
+uptake of protection services.
+• Enhance coordination with education, livelihoods, and health actors to support integrated, 
+multi-sectoral responses.
+• Invest in protection risk monitoring and context analysis to track emerging trends and 
+adapt interventions accordingly.
+• The above recommendations inform the development of detailed programmatic and 
+results-based frameworks, which are available upon request.
+6. Conclusion
+This Protection Analytical Framework (PAF) highlights an evolving and increasingly complex 
+protection environment in Afrin (Aleppo) and Sarmada (Idleb), shaped by protracted conflict, 
+economic deterioration, repeated displacement, and weakened protective systems. While 
+protection response capacities continue to operate across Syria, the scale and severity of 
+needs far exceed available services, resulting in persistent gaps in prevention, mitigation, 
+and response.The analysis identifies child, early, and forced marriage as the most critical 
+protection risk, alongside widespread psychological and emotional abuse, pervasive gender-
+based violence, property-related violations, and child labor as a harmful coping mechanism.
+These risks are interconnected and reinforced by structural drivers, including poverty, 
+displacement, entrenched social norms, and limited access to legal, educational, and 
+psychosocial services.
+Children without parental care, women and girls, displaced and returnee families, and 
+persons with disabilities face compounded vulnerabilities and significant barriers to accessing 
+timely and appropriate support.Findings also underscore the normalization of violence and 
+underreporting of protection violations, which continue to undermine accountability and
+22  Protection Analytical Framework
+effective response. Despite the presence of community-based mechanisms and specialized 
+services, gaps in coverage, accessibility, and sustainability constrain their impact, particularly 
+for the most vulnerable population groups.
+The evidence generated through this assessment provides a critical foundation for targeted, 
+protection-centered programming grounded in the Protection Analytical Framework. 
+Addressing identified risks will require integrated, multi-sectoral approaches that link 
+protection with education, livelihoods, legal assistance, and mental health and psychosocial 
+support, while strengthening community-based prevention and referral mechanisms. 
+Sustained investment in protection risk monitoring, coordination, and inclusive service 
+delivery will be essential to mitigate harm, reduce reliance on negative coping strategies, and 
+support longer-term recovery and resilience in northwest Syria.
+Beyond immediate protection risks, the findings point to a gradual normalization of harmful 
+practices and coping mechanisms within affected communities, driven by prolonged crisis 
+conditions, economic instability, and weakened institutional structures. This normalization 
+reflects not only increased exposure to risk but also a shift in social perceptions, where certain 
+forms of violence and exploitation are increasingly tolerated or perceived as necessary for 
+survival. This trend has significant long-term implications for social cohesion, protection 
+outcomes, and the effectiveness of future interventions.
+The analysis further highlights that protection risks are not isolated phenomena but are 
+deeply interconnected and reinforced by structural and systemic factors, including poverty, 
+displacement, lack of access to services, and gaps in governance and accountability. As a 
+result, single-sector responses are unlikely to achieve sustainable impact. Instead, addressing 
+protection risks in northwest Syria requires integrated and multi-sectoral approaches that 
+simultaneously tackle both immediate needs and underlying drivers of vulnerability.
+Protection Analytical Framework  23
+In the longer term, strengthening local systems and community resilience will be critical. 
+This includes investing in community-based protection mechanisms, enhancing the capacity 
+of local actors, and improving coordination between humanitarian, development, and 
+governance structures.
+Without sustained and coordinated efforts to address both the symptoms and root causes of 
+protection risks, negative coping strategies are likely to persist, potentially leading to further 
+deterioration of protection conditions and limiting prospects for recovery and durable 
+solutions.
+7. References
+• United Nations Office for the Coordination of Humanitarian Affairs (OCHA). Syria Flash 
+Appeal. 2023.
+• United Nations Office for the Coordination of Humanitarian Affairs (OCHA). Syrian Arab 
+Republic: Humanitarian Response Priorities, January–December 2025.
+• United Nations Office for the Coordination of Humanitarian Affairs (OCHA). Syrian Arab 
+Republic: Humanitarian Situation Report No. 7. June 2025.
+• United Nations High Commissioner for Refugees (UNHCR). Syria Operational Update and 
+Protection and Solutions Strategy. Latest available.
+• Global Protection Cluster. Syria Protection Sector Snapshot.
+• Voices from Syria. Assessment Findings and Humanitarian Needs Overview. 2025.
+• United Nations. Syria Humanitarian Needs Overview (HNO). 2024/2025.
+• UN Habitat. Syria Country Housing, Land and Property (HLP) Profile. 2023.
+• Shelter Cluster. Syria Earthquake Response Overview. 2023.
+• European Union Agency for Asylum (EUAA). Syria Country Focus: Treatment of Certain 
+Profiles and Groups – Children. 2025.
+• World Vision International. Unaccompanied Syrian Children and Mental Health Needs. 
+2023.
+• United Nations Office for the Coordination of Humanitarian Affairs (OCHA). Syria 
+Humanitarian Response Overview. 2025.
+• Global Protection Cluster. Protection Landscape in Syria. 2024.
+• UNHCR. Syria is Home Platform. Accessed 2025.
+24  Protection Analytical Framework
+Protection Analytical Framework
+www.bahar.ngo info@bahar.ngo
