@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-14T11:20:36.714131+00:00",
-  "text_chars": 6243887,
-  "raw_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json.raw",
-  "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt"
+  "url": "https://reliefweb.int/report/world/crop-monitor-amis-no-140-july-2026",
+  "title": "World: Crop Monitor for AMIS | No. 140 – July 2026",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Tue, 14 Jul 2026 09:45:56 +0000",
+  "sha256": "19d4856569a2f968653070cd99ea4901309fa0d0eb0365a09b709cf37d4908e7",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-14T11:21:30.384068+00:00",
+  "text_chars": 5061,
+  "raw_path": "data/geopolitics/raw/19d4856569a2f968653070cd99ea4901309fa0d0eb0365a09b709cf37d4908e7.html",
+  "text_path": "data/geopolitics/raw/19d4856569a2f968653070cd99ea4901309fa0d0eb0365a09b709cf37d4908e7.txt"
 }

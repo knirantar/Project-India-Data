@@ -1,0 +1,150 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-14T11:21:42.250480+00:00",
+  "new_documents": 23,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.txt",
+      "metadata_path": "data/geopolitics/raw/5943dbbf6be05c843c0731eb9d60f7057e4398f2d30cea6d0036c92845e3bbb3.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/8e008f295460f35942a852ca3c6e67c618b0f75ef5cad5621a7c465539c37161.txt",
+      "metadata_path": "data/geopolitics/raw/8e008f295460f35942a852ca3c6e67c618b0f75ef5cad5621a7c465539c37161.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/d314fce196e6f809ce021d7f32ee581205ec8adf043eba0efa7b6f8d8d3cf48b.txt",
+      "metadata_path": "data/geopolitics/raw/d314fce196e6f809ce021d7f32ee581205ec8adf043eba0efa7b6f8d8d3cf48b.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.txt",
+      "metadata_path": "data/geopolitics/raw/60a6326a84a900ecf3176cde113234f3ba49c51bae6eebef11f55aa7a8878f92.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.txt",
+      "metadata_path": "data/geopolitics/raw/5f2e182a1999ba687fcb46a209c789922d996d301ea4a93c797d0b0d9aa21e87.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "World: Food Security Monitor - June 2026",
+      "url": "https://reliefweb.int/report/world/food-security-monitor-june-2026",
+      "text_path": "data/geopolitics/raw/09018d0805782ffeb9871639b2ca09e1ef61d5b8e7e967efb28446c61a468a0e.txt",
+      "metadata_path": "data/geopolitics/raw/09018d0805782ffeb9871639b2ca09e1ef61d5b8e7e967efb28446c61a468a0e.json"
+    },
+    {
+      "title": "World: Food Security Monitor - June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/ba49d617-914a-4553-84f6-373f51114b1b/Food-Security-Monitor-June-2026.pdf",
+      "text_path": "data/geopolitics/raw/b067a31d0b6ee41271b129b8e8ab0e28ecc0f1a0f59b934895353ca04d88db17.txt",
+      "metadata_path": "data/geopolitics/raw/b067a31d0b6ee41271b129b8e8ab0e28ecc0f1a0f59b934895353ca04d88db17.json"
+    },
+    {
+      "title": "First Thing: Trump threatens to impose US tolls on Hormuz shipping as strikes on Iran continue",
+      "url": "https://www.theguardian.com/us-news/2026/jul/14/first-thing-trump-us-tolls-hormuz-iran",
+      "text_path": "data/geopolitics/raw/18f3c0c6a1341f7a8f10f90706777a34d56b880b881b12fbf8f8463ffd4ed5b0.txt",
+      "metadata_path": "data/geopolitics/raw/18f3c0c6a1341f7a8f10f90706777a34d56b880b881b12fbf8f8463ffd4ed5b0.json"
+    },
+    {
+      "title": "World: Reporting Sexual Violence and Abuse in Conflict - June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/b4f12369-43c3-40ff-b52f-d51615bf4c0e/6.-June-2026-Reporting-Sexual-Violence-Monthly-News-Brief.pdf",
+      "text_path": "data/geopolitics/raw/6f6d97d257594e9f5f872c185c8da85fc023e509177fa2bf3db741971e0c2d86.txt",
+      "metadata_path": "data/geopolitics/raw/6f6d97d257594e9f5f872c185c8da85fc023e509177fa2bf3db741971e0c2d86.json"
+    },
+    {
+      "title": "Iranian flights to Yemen are violation of sovereignty, says Yemeni official",
+      "url": "https://www.theguardian.com/world/2026/jul/14/iran-flight-sanaa-yemen-houthis-saudi",
+      "text_path": "data/geopolitics/raw/28693e4ede97fd0e34e51e60cd9171901badf201f05ab25cb7baa451b81c8866.txt",
+      "metadata_path": "data/geopolitics/raw/28693e4ede97fd0e34e51e60cd9171901badf201f05ab25cb7baa451b81c8866.json"
+    },
+    {
+      "title": "World: Crop Monitor for AMIS | No. 140 – July 2026",
+      "url": "https://reliefweb.int/report/world/crop-monitor-amis-no-140-july-2026",
+      "text_path": "data/geopolitics/raw/19d4856569a2f968653070cd99ea4901309fa0d0eb0365a09b709cf37d4908e7.txt",
+      "metadata_path": "data/geopolitics/raw/19d4856569a2f968653070cd99ea4901309fa0d0eb0365a09b709cf37d4908e7.json"
+    },
+    {
+      "title": "World: Crop Monitor for AMIS | No. 140 – July 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/a7cef380-d8ee-40e6-a9ee-f24d57ca229e/AMIS_CropMonitor_202607.pdf",
+      "text_path": "data/geopolitics/raw/ba0a0791d8ecd8df6e7ce0ed328340fa963e56386b37f103d38cbe66a2ba784f.txt",
+      "metadata_path": "data/geopolitics/raw/ba0a0791d8ecd8df6e7ce0ed328340fa963e56386b37f103d38cbe66a2ba784f.json"
+    },
+    {
+      "title": "Somalia Protection Cluster Newsletter - June 2026 (pdf)",
+      "url": "https://reliefweb.int/attachments/20c9b694-a37b-403c-b5c0-018f5a963680/National%20Protection%20Cluster_June_Newsletter_July6th_draft.pdf",
+      "text_path": "data/geopolitics/raw/7b7a2d906f07bf7e6b22bb8db40d30bce4dbeff66feda6b3892d5fcd24766246.txt",
+      "metadata_path": "data/geopolitics/raw/7b7a2d906f07bf7e6b22bb8db40d30bce4dbeff66feda6b3892d5fcd24766246.json"
+    },
+    {
+      "title": "What is Iran’s Pickaxe Mountain, the mystery site Trump warns he’ll attack?",
+      "url": "https://www.aljazeera.com/news/2026/7/14/what-is-irans-pickaxe-mountain-the-mystery-site-trump-warns-hell-attack?traffic_source=rss",
+      "text_path": "data/geopolitics/raw/a8b2537023576102efafa5a43100e20e836b38ae0a54a0694b2de20bcc6eeb60.txt",
+      "metadata_path": "data/geopolitics/raw/a8b2537023576102efafa5a43100e20e836b38ae0a54a0694b2de20bcc6eeb60.json"
+    },
+    {
+      "title": "The U.S. is set to reinstate a blockade over the Strait of Hormuz",
+      "url": "https://www.npr.org/2026/07/14/nx-s1-5893257/us-iran-updates",
+      "text_path": "data/geopolitics/raw/e2a7aef5209cdae7e590bb4240b35c7eec074530b852efff0cdee0fb35c1f440.txt",
+      "metadata_path": "data/geopolitics/raw/e2a7aef5209cdae7e590bb4240b35c7eec074530b852efff0cdee0fb35c1f440.json"
+    },
+    {
+      "title": "World: Crop Monitor Special Report: El Niño 2026-2027: Anticipated Climate and Agricultural Yield Impacts, June 16, 2026",
+      "url": "https://reliefweb.int/report/world/crop-monitor-special-report-el-nino-2026-2027-anticipated-climate-and-agricultural-yield-impacts-june-16-2026",
+      "text_path": "data/geopolitics/raw/ed24ffcef1b4e06ef95d7a1015e38282af3f9c1d2194dd0d8fbd8064611bcebf.txt",
+      "metadata_path": "data/geopolitics/raw/ed24ffcef1b4e06ef95d7a1015e38282af3f9c1d2194dd0d8fbd8064611bcebf.json"
+    },
+    {
+      "title": "Supporting maternal care and safe delivery in Sudan amid conflict and displacement",
+      "url": "https://reliefweb.int/report/sudan/supporting-maternal-care-and-safe-delivery-sudan-amid-conflict-and-displacement",
+      "text_path": "data/geopolitics/raw/42b76d16fd04e5975b3d30281db143c6c8c8e81bb82ebc6560abc40f61d10c0a.txt",
+      "metadata_path": "data/geopolitics/raw/42b76d16fd04e5975b3d30281db143c6c8c8e81bb82ebc6560abc40f61d10c0a.json"
+    },
+    {
+      "title": "World: GEOGLAM Global Crop Monitor | No. 45 – July 2026",
+      "url": "https://reliefweb.int/report/world/geoglam-global-crop-monitor-no-45-july-2026",
+      "text_path": "data/geopolitics/raw/a404295a834e26fbd5b50554e934ce74118f3d36db99d879027cc308420b6a17.txt",
+      "metadata_path": "data/geopolitics/raw/a404295a834e26fbd5b50554e934ce74118f3d36db99d879027cc308420b6a17.json"
+    }
+  ],
+  "txt_before": 1973,
+  "txt_after": 1986
+}
