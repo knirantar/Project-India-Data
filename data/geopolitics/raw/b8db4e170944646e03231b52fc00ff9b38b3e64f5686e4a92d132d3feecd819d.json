@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-15T11:24:43.011578+00:00",
-  "text_chars": 6243953,
-  "raw_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.json.raw",
-  "text_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.txt"
+  "url": "https://foreignpolicy.com/2026/07/15/hormuz-iran-united-states-trump-war-israel-shipping/",
+  "title": "How the United States and Iran Can Solve Hormuz",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Wed, 15 Jul 2026 10:48:10 +0000",
+  "sha256": "b8db4e170944646e03231b52fc00ff9b38b3e64f5686e4a92d132d3feecd819d",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-15T11:25:36.779702+00:00",
+  "text_chars": 7812,
+  "raw_path": "data/geopolitics/raw/b8db4e170944646e03231b52fc00ff9b38b3e64f5686e4a92d132d3feecd819d.html",
+  "text_path": "data/geopolitics/raw/b8db4e170944646e03231b52fc00ff9b38b3e64f5686e4a92d132d3feecd819d.txt"
 }

@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638",
+  "url": "https://reliefweb.int/attachments/ff747f34-25a2-4d4c-a8d8-c2b30bcd4603/Eswatini%20NDRMA%20launch_IFRC.pdf",
+  "title": "From Policy to Action: IFRC Supports Eswatini's New Disaster Risk Management Authority Through Anticipatory Action Initiatives (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 15 Jul 2026 07:59:40 +0000",
+  "sha256": "c80a29248c6e08e3d0cbb9bc92dcd5d7f5b02daffbf1bafddc875fac58e3a983",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-15T11:25:28.594544+00:00",
-  "text_chars": 521571,
-  "raw_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.pdf",
-  "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt"
+  "collected_at": "2026-07-15T11:25:46.958519+00:00",
+  "text_chars": 7816,
+  "raw_path": "data/geopolitics/raw/c80a29248c6e08e3d0cbb9bc92dcd5d7f5b02daffbf1bafddc875fac58e3a983.pdf",
+  "text_path": "data/geopolitics/raw/c80a29248c6e08e3d0cbb9bc92dcd5d7f5b02daffbf1bafddc875fac58e3a983.txt"
 }
