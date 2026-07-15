@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-15T21:52:34.016868+00:00",
-  "text_chars": 89992,
-  "raw_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.pdf",
-  "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt"
+  "url": "https://www.theguardian.com/us-news/2026/jul/15/house-democrats-israel-aid",
+  "title": "House defeats bid to end military aid to Israel as over 100 Democrats vote for it",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Wed, 15 Jul 2026 21:37:00 GMT",
+  "sha256": "3e8375fc4dda9fab271e66e73105782ded3f80576e393fc8faef54fa0350c944",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-15T21:52:48.668457+00:00",
+  "text_chars": 4925,
+  "raw_path": "data/geopolitics/raw/3e8375fc4dda9fab271e66e73105782ded3f80576e393fc8faef54fa0350c944.html",
+  "text_path": "data/geopolitics/raw/3e8375fc4dda9fab271e66e73105782ded3f80576e393fc8faef54fa0350c944.txt"
 }
