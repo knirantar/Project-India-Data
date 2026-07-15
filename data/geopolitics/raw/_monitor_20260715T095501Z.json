@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-15T09:55:01.256693+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/bd20a1c882f4c3da7a8eb34fcf1ce28d5165f03bcc102f303fa9806d823e3ccb.txt",
+      "metadata_path": "data/geopolitics/raw/bd20a1c882f4c3da7a8eb34fcf1ce28d5165f03bcc102f303fa9806d823e3ccb.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/5856c9a420e8b656c8a75d8f6f027018412bae920871fba8600f3769a9fa39c7.txt",
+      "metadata_path": "data/geopolitics/raw/5856c9a420e8b656c8a75d8f6f027018412bae920871fba8600f3769a9fa39c7.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/9ea30ecb7727021b81717a230b2cfbdce1f43a740431f45d1353ce827b5a8b29.txt",
+      "metadata_path": "data/geopolitics/raw/9ea30ecb7727021b81717a230b2cfbdce1f43a740431f45d1353ce827b5a8b29.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.txt",
+      "metadata_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.txt",
+      "metadata_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "Lithuania warns Russia could be planning ‘targeted’ attacks on critical infrastructure – Europe live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/15/ursula-von-der-leyen-ukraine-russia-volodymyr-zelenskyy-vladimir-putin-europe-live-news",
+      "text_path": "data/geopolitics/raw/2ccddb5d9f991d64ed9bb0e2063cb8a4e7a4a7d5e6523f71284fff2f8f9a3937.txt",
+      "metadata_path": "data/geopolitics/raw/2ccddb5d9f991d64ed9bb0e2063cb8a4e7a4a7d5e6523f71284fff2f8f9a3937.json"
+    },
+    {
+      "title": "Palestinians in Gaza: Stuck between Hamas and Israel",
+      "url": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-world-4025-rdf",
+      "text_path": "data/geopolitics/raw/0eb48d09fbda30764910f1a6f0fea503c268fc9260be8453934a5b214af4d2c5.txt",
+      "metadata_path": "data/geopolitics/raw/0eb48d09fbda30764910f1a6f0fea503c268fc9260be8453934a5b214af4d2c5.json"
+    },
+    {
+      "title": "MOLLE, PALS, and the Empty Loops of America’s Civil-Military Divide",
+      "url": "https://warontherocks.com/cogs-of-war/molle-pals-and-the-empty-loops-of-americas-civil-military-divide/",
+      "text_path": "data/geopolitics/raw/fbe1c59d116a641dc9d5da7cbd639f1b8df84d677f2136fa0ecf9bcae199d71e.txt",
+      "metadata_path": "data/geopolitics/raw/fbe1c59d116a641dc9d5da7cbd639f1b8df84d677f2136fa0ecf9bcae199d71e.json"
+    },
+    {
+      "title": "European firms plan exo-atmospheric interceptor for 2027 test",
+      "url": "https://www.defensenews.com/global/europe/2026/07/15/european-firms-plan-exo-atmospheric-interceptor-for-2027-test/",
+      "text_path": "data/geopolitics/raw/27cff0b1816fd06faddc4429c6fda269d9968b693014427c35743a718a02b03e.txt",
+      "metadata_path": "data/geopolitics/raw/27cff0b1816fd06faddc4429c6fda269d9968b693014427c35743a718a02b03e.json"
+    }
+  ],
+  "txt_before": 2047,
+  "txt_after": 2051
+}

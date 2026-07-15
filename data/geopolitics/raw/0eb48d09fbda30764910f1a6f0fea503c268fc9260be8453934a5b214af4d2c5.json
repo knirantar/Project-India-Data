@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "bd20a1c882f4c3da7a8eb34fcf1ce28d5165f03bcc102f303fa9806d823e3ccb",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-15T09:53:55.312388+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/bd20a1c882f4c3da7a8eb34fcf1ce28d5165f03bcc102f303fa9806d823e3ccb.xml",
-  "text_path": "data/geopolitics/raw/bd20a1c882f4c3da7a8eb34fcf1ce28d5165f03bcc102f303fa9806d823e3ccb.txt"
+  "url": "https://www.dw.com/en/palestinians-in-gaza-stuck-between-hamas-and-israel/a-77956421?maca=en-rss-en-world-4025-rdf",
+  "title": "Palestinians in Gaza: Stuck between Hamas and Israel",
+  "source": "https://rss.dw.com/rdf/rss-en-world",
+  "published": "2026-07-15T08:08:00Z",
+  "sha256": "0eb48d09fbda30764910f1a6f0fea503c268fc9260be8453934a5b214af4d2c5",
+  "content_type": "text/html; charset=utf-8",
+  "collected_at": "2026-07-15T09:54:47.980121+00:00",
+  "text_chars": 7039,
+  "raw_path": "data/geopolitics/raw/0eb48d09fbda30764910f1a6f0fea503c268fc9260be8453934a5b214af4d2c5.html",
+  "text_path": "data/geopolitics/raw/0eb48d09fbda30764910f1a6f0fea503c268fc9260be8453934a5b214af4d2c5.txt"
 }

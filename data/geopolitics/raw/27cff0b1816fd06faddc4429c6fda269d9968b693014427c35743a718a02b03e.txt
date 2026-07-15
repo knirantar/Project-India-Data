@@ -1,0 +1,16 @@
+PARIS — Five European defense firms led by startup Destinus plan to form an industrial partnership to develop Europe’s first exo-atmospheric interceptor, aimed at defending against ballistic missiles, with plans to conduct a test of the kill vehicle in space in 2027.
+Destinus, MBDA, Safran, Airbus and Thales signed a letter of intent in Paris on Tuesday to set up the Bliksem EXO consortium, with the intention of entering a binding agreement within three months and starting joint engineering work in August, the companies said in a 
+joint statement
+.
+As Russia has stepped up ballistic missile output, Europe lacks its own system to intercept medium and intermediate-range ballistic missiles mid-course, before re-entry vehicles enter the atmosphere. The continent currently relies on two United States-operated Aegis Ashore sites that use the SM-3 interceptor for exo-atmospheric defense, while Germany is buying Israel’s Arrow-3 system.
+“Europe has strong lower-layer missile defenses, but it still lacks a sovereign European upper layer against medium- and intermediate-range ballistic missiles,” Destinus CEO Mikhail Kokorich said in the statement. “Bliksem EXO is designed to close that gap through direct hit-to-kill interception above the atmosphere.”
+The letter of intent was signed at the inaugural meeting of an anti-ballistic coalition 
+announced this week
+, with Dutch Prime Minister Rob Jetten present.
+Bliksem EXO is intended to defeat ballistic threats, including systems in the class of Russia’s intermediate-range Oreshnik with separating and maneuvering re-entry vehicles, the companies said. The interceptor system will be designed to detect, track and defeat MRBM and IRBM threats though a kinetic hit-to-kill impact, without an explosive warhead.
+Destinus will serve as the consortium lead, responsible for the system integration and the exo-atmospheric kill vehicle, the companies said. The Netherlands-based startup currently develops unmanned systems, including the Ruta Block 2 cruise missile, as well as turbojet engines.
+MBDA Deutschland will handle the interceptor booster, launcher and canister; Safran Electronics & Defense will provide the kill vehicle seeker and guidance, navigation and control; Airbus Defence and Space will work on command-and-control and battle management; and Thales will be in charge of the radar and sensor chain, from early warning to fire control, according to the statement.
+The new interceptor system will complement existing and planned European lower-layer defenses, rather than compete with them, as it will operate above terminal and theater-level systems as part of a layered European missile defense, the firms said.
+The program will be designed for full interoperability with NATO’s integrated air and missile defense and strengthen the European Sky Shield Initiative “by addressing the currently missing upper layer,” according to the companies. Germany has previously proposed Arrow-3 as the exo-atmospheric component of ESSI.
+System design, testing and evaluation will draw on Ukraine’s experience in countering massed air and missile attacks, the firms said.
+Rudy Ruitenberg is a Europe correspondent for Defense News. He started his career at Bloomberg News and has experience reporting on technology, commodity markets and politics.
