@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/a5d14662-da02-4426-9ede-12cfaa78ca52/IMPACT_CentralAsia_ESIA_Report_May2025_V8.pdf",
+  "title": "Environmental & Social Impact Assessment: Assessment of STREAM Programme Water Infrastructure in Small Watersheds of Kyrgyzstan, Tajikistan, and Uzbekistan (April - May 2025) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 15 Jul 2026 02:30:52 +0000",
+  "sha256": "4e9eb434187aa05f8603ac87719eb5e6a1bcebe3449dfb43cf4eccd5ee2c1d16",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-15T04:45:16.453433+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-07-15T04:45:48.117373+00:00",
+  "text_chars": 394495,
+  "raw_path": "data/geopolitics/raw/4e9eb434187aa05f8603ac87719eb5e6a1bcebe3449dfb43cf4eccd5ee2c1d16.pdf",
+  "text_path": "data/geopolitics/raw/4e9eb434187aa05f8603ac87719eb5e6a1bcebe3449dfb43cf4eccd5ee2c1d16.txt"
 }

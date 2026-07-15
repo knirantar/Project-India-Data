@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
+  "url": "https://reliefweb.int/attachments/39e2b463-20cd-44a0-a381-77fdbfe9c334/VE_%20Earthquake%20Situation%20in%20Venezuela_OCHA_14%20July%202026_21.pdf",
+  "title": "Earthquakes in Venezuela: Situation Report #21 (14 July 2026, Time: 09:00 pm) (pdf)",
+  "source": "https://reliefweb.int/updates/rss.xml",
+  "published": "Wed, 15 Jul 2026 02:25:11 +0000",
+  "sha256": "2b174239f2ab9df25f507f7355a439694bea200e0db0c2ddb78d4802b3b2c17c",
   "content_type": "application/pdf",
-  "collected_at": "2026-07-15T04:45:16.453433+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "collected_at": "2026-07-15T04:45:49.954176+00:00",
+  "text_chars": 28701,
+  "raw_path": "data/geopolitics/raw/2b174239f2ab9df25f507f7355a439694bea200e0db0c2ddb78d4802b3b2c17c.pdf",
+  "text_path": "data/geopolitics/raw/2b174239f2ab9df25f507f7355a439694bea200e0db0c2ddb78d4802b3b2c17c.txt"
 }
