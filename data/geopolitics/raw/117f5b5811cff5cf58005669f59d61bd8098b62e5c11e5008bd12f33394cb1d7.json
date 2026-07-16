@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "sanctions_designations",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-16T18:59:00.896958+00:00",
-  "text_chars": 6161830,
-  "raw_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.json.raw",
-  "text_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.txt"
+  "sha256": "117f5b5811cff5cf58005669f59d61bd8098b62e5c11e5008bd12f33394cb1d7",
+  "content_type": "application/xml",
+  "collected_at": "2026-07-16T18:59:03.003407+00:00",
+  "text_chars": 831301,
+  "raw_path": "data/geopolitics/raw/117f5b5811cff5cf58005669f59d61bd8098b62e5c11e5008bd12f33394cb1d7.xml",
+  "text_path": "data/geopolitics/raw/117f5b5811cff5cf58005669f59d61bd8098b62e5c11e5008bd12f33394cb1d7.txt"
 }

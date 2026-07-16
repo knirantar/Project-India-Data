@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "books",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+  "url": "https://www.cia.gov/the-world-factbook/",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-16T18:59:00.896958+00:00",
-  "text_chars": 6161830,
-  "raw_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.json.raw",
-  "text_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.txt"
+  "sha256": "37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8",
+  "content_type": "text/html",
+  "collected_at": "2026-07-16T18:59:30.518076+00:00",
+  "text_chars": 1502,
+  "raw_path": "data/geopolitics/raw/37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8.html",
+  "text_path": "data/geopolitics/raw/37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8.txt"
 }
