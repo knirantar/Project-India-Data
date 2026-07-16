@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "structured_datasets",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152",
-  "content_type": "application/json;charset=utf-8",
-  "collected_at": "2026-07-16T19:59:44.538808+00:00",
-  "text_chars": 6161830,
-  "raw_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.json.raw",
-  "text_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.txt"
+  "url": "https://www.theguardian.com/us-news/2026/jul/16/john-fetterman-democrats-israel",
+  "title": "John Fetterman says he would leave Democrats if they became ‘anti-Israel’",
+  "source": "https://www.theguardian.com/world/rss",
+  "published": "Thu, 16 Jul 2026 19:03:11 GMT",
+  "sha256": "ebd1e36bad10d72cb2b725b7520e61d55cc3635dca3c7ce9b0d68b3d9f3da64b",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-16T20:00:46.881330+00:00",
+  "text_chars": 2243,
+  "raw_path": "data/geopolitics/raw/ebd1e36bad10d72cb2b725b7520e61d55cc3635dca3c7ce9b0d68b3d9f3da64b.html",
+  "text_path": "data/geopolitics/raw/ebd1e36bad10d72cb2b725b7520e61d55cc3635dca3c7ce9b0d68b3d9f3da64b.txt"
 }
