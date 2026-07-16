@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "f85bbd3ce39a3493e867e34d54712001d861e87ac30c41219080fe54f1928937",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-16T04:54:24.157790+00:00",
-  "text_chars": 9161694,
-  "raw_path": "data/geopolitics/raw/f85bbd3ce39a3493e867e34d54712001d861e87ac30c41219080fe54f1928937.xml",
-  "text_path": "data/geopolitics/raw/f85bbd3ce39a3493e867e34d54712001d861e87ac30c41219080fe54f1928937.txt"
+  "url": "https://www.npr.org/2026/07/15/nx-s1-5893688/sen-shaheen-discusses-new-russia-sanctions-bill",
+  "title": "Sen. Shaheen discusses new Russia sanctions bill",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Wed, 15 Jul 2026 17:23:00 -0400",
+  "sha256": "2370279b223bbe12fb6bdd90e21bf814e52742da69006a70b0cb17f853b1f98c",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-16T04:54:42.902396+00:00",
+  "text_chars": 6107,
+  "raw_path": "data/geopolitics/raw/2370279b223bbe12fb6bdd90e21bf814e52742da69006a70b0cb17f853b1f98c.html",
+  "text_path": "data/geopolitics/raw/2370279b223bbe12fb6bdd90e21bf814e52742da69006a70b0cb17f853b1f98c.txt"
 }
