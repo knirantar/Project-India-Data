@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a794492c670e88f662ffa85cc3b46476ff9582c71a7b6b2bf61c7b6fdc68835b",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-16T15:29:10.510304+00:00",
-  "text_chars": 392158,
-  "raw_path": "data/geopolitics/raw/a794492c670e88f662ffa85cc3b46476ff9582c71a7b6b2bf61c7b6fdc68835b.xml",
-  "text_path": "data/geopolitics/raw/a794492c670e88f662ffa85cc3b46476ff9582c71a7b6b2bf61c7b6fdc68835b.txt"
+  "url": "https://foreignpolicy.com/2026/07/16/north-korea-sanctions-nuclear-weapons-united-states-russia-china-united-nations-security-council/",
+  "title": "A Divided World Is North Korea’s Greatest Asset",
+  "source": "https://foreignpolicy.com/feed/",
+  "published": "Thu, 16 Jul 2026 14:02:45 +0000",
+  "sha256": "a5e069807829d4bda512bba1b87fdfff98cfbd6975bf9d18323059591d6161ec",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-16T15:29:56.116882+00:00",
+  "text_chars": 13860,
+  "raw_path": "data/geopolitics/raw/a5e069807829d4bda512bba1b87fdfff98cfbd6975bf9d18323059591d6161ec.html",
+  "text_path": "data/geopolitics/raw/a5e069807829d4bda512bba1b87fdfff98cfbd6975bf9d18323059591d6161ec.txt"
 }

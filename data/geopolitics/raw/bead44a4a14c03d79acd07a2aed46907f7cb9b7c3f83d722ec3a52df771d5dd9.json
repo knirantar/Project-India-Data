@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "pdfs",
+  "data_type": "books",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+  "url": "https://www.cia.gov/the-world-factbook/",
   "title": null,
   "source": "topic-config",
   "published": null,
-  "sha256": "2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff",
-  "content_type": "application/pdf",
-  "collected_at": "2026-07-16T15:29:48.234494+00:00",
-  "text_chars": 174117,
-  "raw_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.pdf",
-  "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt"
+  "sha256": "bead44a4a14c03d79acd07a2aed46907f7cb9b7c3f83d722ec3a52df771d5dd9",
+  "content_type": "text/html",
+  "collected_at": "2026-07-16T15:29:46.150960+00:00",
+  "text_chars": 1502,
+  "raw_path": "data/geopolitics/raw/bead44a4a14c03d79acd07a2aed46907f7cb9b7c3f83d722ec3a52df771d5dd9.html",
+  "text_path": "data/geopolitics/raw/bead44a4a14c03d79acd07a2aed46907f7cb9b7c3f83d722ec3a52df771d5dd9.txt"
 }
