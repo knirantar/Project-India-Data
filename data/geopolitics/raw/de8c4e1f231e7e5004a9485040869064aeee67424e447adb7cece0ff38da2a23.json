@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "geospatial_mapping_data",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438",
-  "content_type": "application/zip",
-  "collected_at": "2026-07-16T13:24:36.146774+00:00",
-  "text_chars": 238,
-  "raw_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
-  "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
+  "url": "https://www.npr.org/2026/07/16/g-s1-133920/ukraine-defense-minister-fired",
+  "title": "Zelenskyy fires Ukraine's tech-savvy defense minister in government reshuffle",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Thu, 16 Jul 2026 07:33:11 -0400",
+  "sha256": "de8c4e1f231e7e5004a9485040869064aeee67424e447adb7cece0ff38da2a23",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-16T13:24:58.202257+00:00",
+  "text_chars": 3541,
+  "raw_path": "data/geopolitics/raw/de8c4e1f231e7e5004a9485040869064aeee67424e447adb7cece0ff38da2a23.html",
+  "text_path": "data/geopolitics/raw/de8c4e1f231e7e5004a9485040869064aeee67424e447adb7cece0ff38da2a23.txt"
 }
