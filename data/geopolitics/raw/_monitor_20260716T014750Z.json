@@ -1,0 +1,96 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-16T01:47:50.702413+00:00",
+  "new_documents": 14,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/a794492c670e88f662ffa85cc3b46476ff9582c71a7b6b2bf61c7b6fdc68835b.txt",
+      "metadata_path": "data/geopolitics/raw/a794492c670e88f662ffa85cc3b46476ff9582c71a7b6b2bf61c7b6fdc68835b.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/f85bbd3ce39a3493e867e34d54712001d861e87ac30c41219080fe54f1928937.txt",
+      "metadata_path": "data/geopolitics/raw/f85bbd3ce39a3493e867e34d54712001d861e87ac30c41219080fe54f1928937.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/4c83076e290f560c87dc79518be523f31a6de7c40a9e9883a2420c6a5b94ce75.txt",
+      "metadata_path": "data/geopolitics/raw/4c83076e290f560c87dc79518be523f31a6de7c40a9e9883a2420c6a5b94ce75.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.txt",
+      "metadata_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.txt",
+      "metadata_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.txt",
+      "metadata_path": "data/geopolitics/raw/fc97187b1e2f3bb97467ab641720a9344f98f01ed48392c07c9ee77b669c6b1e.json"
+    },
+    {
+      "title": "US military says it disabled tanker trying to breach blockade amid new wave of strikes on Iran – Middle East crisis live",
+      "url": "https://www.theguardian.com/world/live/2026/jul/15/us-iran-war-live-updates-strikes-trump-power-plants-bridges-middle-east-crisis-latest-news",
+      "text_path": "data/geopolitics/raw/5a958f816898107340a4cb467df0d06fc7fd29dfd90ba379c9a2a2f75cd5f0ba.txt",
+      "metadata_path": "data/geopolitics/raw/5a958f816898107340a4cb467df0d06fc7fd29dfd90ba379c9a2a2f75cd5f0ba.json"
+    },
+    {
+      "title": "China and Xi Jinping seen more favourably than the US and Trump in poll of major countries",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/china-more-positive-view-us-pew-poll-survey",
+      "text_path": "data/geopolitics/raw/916e5f00440509e28e1d55c6089fb002bab8bba8464a893b81d02dd3c8633ba9.txt",
+      "metadata_path": "data/geopolitics/raw/916e5f00440509e28e1d55c6089fb002bab8bba8464a893b81d02dd3c8633ba9.json"
+    },
+    {
+      "title": "Over 100 House Democrats vote to end military aid to Israel in significant rebuke to US ally – US politics live",
+      "url": "https://www.theguardian.com/us-news/live/2026/jul/15/todd-blanche-attorney-general-senate-donald-trump-ice-darline-graham-lindsey-graham-us-politics-live-news",
+      "text_path": "data/geopolitics/raw/33b22e8fbe8673e77da62d6f8afa5659317d6ffc53fd9bebc34e691f199943ec.txt",
+      "metadata_path": "data/geopolitics/raw/33b22e8fbe8673e77da62d6f8afa5659317d6ffc53fd9bebc34e691f199943ec.json"
+    },
+    {
+      "title": "How global heating supercharged floods in West Africa, displacing thousands",
+      "url": "https://www.theguardian.com/world/2026/jul/16/how-global-heating-supercharged-floods-west-africa-displacing-thousands",
+      "text_path": "data/geopolitics/raw/d8e8d2d5c5197f3f09b5109d37a8ab9baf5c93ca5f96b71afb9b5f2dd26f1341.txt",
+      "metadata_path": "data/geopolitics/raw/d8e8d2d5c5197f3f09b5109d37a8ab9baf5c93ca5f96b71afb9b5f2dd26f1341.json"
+    }
+  ],
+  "txt_before": 2085,
+  "txt_after": 2089
+}
