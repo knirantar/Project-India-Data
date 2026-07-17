@@ -1,0 +1,46 @@
+It was an artificial intelligence summit with very real-world geopolitical messaging.
+Chinese President Xi Jinping on Friday urged countries to cooperate on artificial intelligence and ensure no country dominates the technology – in an apparent jab at the United States.
+Recommended Stories 
+list of 4 items
+end of list
+Xi spoke at a major tech conference in Shanghai on Friday, where China showcased cutting-edge technology that rivals the prowess of the US.
+Both countries are locked in a battle for tech and AI dominance and view each other’s advancements in these areas as deliberate attempts to stymie the other.
+As Chinese AI models gain ground globally, Beijing appears to be casting itself as a leader of the new global AI order, challenging the US’s influence in the development and regulation of the fast-evolving technology.
+At the heart of that strategy is a new coalition of 29 nations that China announced on Thursday, called the World Artificial Intelligence Cooperation Organisation (WAICO), in a high-level event where attendees included United Nations Secretary-General Antonio Guterres.
+Here’s what we know:
+ 
+A humanoid robot that cooks is displayed at the Xi Xiang booth during the World Artificial Intelligence Conference (WAIC) in Shanghai, China, July 17, 2026 [Go Nakamura/Reuters]
+What did Xi say?
+Xi, while speaking at the World Artificial Intelligence Conference in Shanghai, called on countries to embrace the “historic opportunity” provided by open-source AI.
+He said that China has played a role in ensuring equitable access to AI capacity-building for developing countries to prevent the creation of “new historical injustices” and announced Beijing’s plans to continue cooperating with countries across Africa, Latin America and Asia.
+“AI development should not be a solo performance by a single country, but a symphony of international cooperation,” Xi said.
+“We should jointly oppose overstretching the national security concept in the field of AI or placing one country’s security over that of others.”
+Xi also stressed the need for a “people-centred” approach to AI that ensures that “AI is always under human control” using safeguards such as regulations, technological monitoring, early warning and emergency response systems.
+What’s WAICO?
+The inter-governmental organisation was formally formed on July 16, although Beijing has touted a global AI alliance since last year.
+Its stated goals are to promote international cooperation and develop AI regulation across countries that ensure the technology is beneficial and safe for humans.
+Headquartered in Shanghai, WAICO’s 29 member founding countries include several major Global South nations, including Indonesia, Brazil, Malaysia, South Africa, Senegal, Russia and Pakistan.
+Analysts speculate that Beijing will likely use the alliance to shape how AI policies are framed at the UN.
+ 
+ 
+Why does this matter?
+AI is an important pillar of China’s industrial policy. Beijing has invested massively in building a self-sustained domestic ecosystem, from chip production to consumer use.
+That has spurred a “Chip War” with the US as both race to control the production of chip-based technology like advanced military weapons and AI-powered systems.
+While Beijing lags behind the US in access to the most cutting-edge semiconductors, it currently holds the 
+edge in powering huge data centres
+ needed to train and run AI models. China also dominates the production of critical rare earth minerals required to build chips.
+An abundant supply of cheap electricity has given China the advantage of meeting AI’s colossal energy demands. Beijing already generates more than twice as much electricity as the US, a lead that is expected to widen amid an aggressive state-led investment in the country’s energy grid.
+China currently faces technology import restrictions from the US, with Washington citing national security concerns.
+Beijing, however, sees the US’s actions as an attempt to stymie its efforts on AI.
+In May, the US Department of Commerce affirmed 
+restrictions
+ on shipments of critical semiconductors to subsidiaries of Chinese companies that are headquartered, or have a parent company in China. Beijing has retaliated by barring exports of dual-use technology and critical minerals to US firms.
+Countries have so far struggled to match AI regulation with its rapid growth. Concerns over AI’s use in areas such as military combat are prompting some of the most intense governance debates.
+China’s spearheading of the AI conference and the WAICO alliance now puts Beijing in an influential position to shape AI policies, as well.
+Where does WAICO fit in?
+Chinese Premier Li Qiang first unveiled plans for WAICO in July 2025.
+Analysts at the time speculated that Beijing was shifting from exporting Chinese AI infrastructure to crafting global AI policies and institutions in attempts to reflect Chinese interests on the world stage – ahead of the US.
+Many point to how China has long been wary of the internet, for example, because of its US origins and its decentralised models, and has thus actively sought to insulate itself domestically.
+Acting ahead of a predictable global adoption of AI could help China reverse the trend, analysts say, especially with the backing of its middle-power and low-income allies whose numbers will carry weight at the UN.
+“With Washington rapidly retreating from global cyber and AI norms-setting processes and withdrawing its financial backing for cyber diplomacy more broadly, Beijing is keen to demonstrate its global leadership,” governance expert Arindrajit Basu wrote in an analysis for the US think tank Carnegie Endowment for International Peace.
+“In doing so, it hopes to receive buy-in for its state-centric governance vision of technology from the Global South,” he added.
