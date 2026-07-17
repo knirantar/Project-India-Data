@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "books",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.cia.gov/the-world-factbook/",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8",
-  "content_type": "text/html",
-  "collected_at": "2026-07-17T17:04:13.775673+00:00",
-  "text_chars": 1502,
-  "raw_path": "data/geopolitics/raw/37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8.html",
-  "text_path": "data/geopolitics/raw/37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8.txt"
+  "url": "https://warontherocks.com/the-fedorov-dismissal-on-trust-technology-and-turnover/",
+  "title": "The Fedorov Dismissal: On Trust, Technology, and Turnover",
+  "source": "https://warontherocks.com/feed/",
+  "published": "Fri, 17 Jul 2026 16:30:52 +0000",
+  "sha256": "7d4be64d9e2db98c1d6851aaddd68266062e148b856eb36b4203d71f5a82d72f",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-17T17:04:30.300604+00:00",
+  "text_chars": 19638,
+  "raw_path": "data/geopolitics/raw/7d4be64d9e2db98c1d6851aaddd68266062e148b856eb36b4203d71f5a82d72f.html",
+  "text_path": "data/geopolitics/raw/7d4be64d9e2db98c1d6851aaddd68266062e148b856eb36b4203d71f5a82d72f.txt"
 }
