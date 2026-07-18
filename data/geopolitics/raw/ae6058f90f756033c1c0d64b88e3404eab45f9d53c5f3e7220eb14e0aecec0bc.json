@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "0b4ef68933448634a67523b7d2c6b66b7882d537ce31bbf0263d952395263e02",
-  "content_type": "text/xml",
-  "collected_at": "2026-07-18T11:46:19.986506+00:00",
-  "text_chars": 420661,
-  "raw_path": "data/geopolitics/raw/0b4ef68933448634a67523b7d2c6b66b7882d537ce31bbf0263d952395263e02.xml",
-  "text_path": "data/geopolitics/raw/0b4ef68933448634a67523b7d2c6b66b7882d537ce31bbf0263d952395263e02.txt"
+  "url": "https://www.npr.org/2026/07/18/nx-s1-5898916/us-iran-escalate-strikes",
+  "title": "The U.S. and Iran blow past red lines as they lurch back toward all-out war",
+  "source": "https://www.npr.org/rss/rss.php?id=1004",
+  "published": "Sat, 18 Jul 2026 02:01:20 -0400",
+  "sha256": "ae6058f90f756033c1c0d64b88e3404eab45f9d53c5f3e7220eb14e0aecec0bc",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-18T11:47:09.714059+00:00",
+  "text_chars": 6311,
+  "raw_path": "data/geopolitics/raw/ae6058f90f756033c1c0d64b88e3404eab45f9d53c5f3e7220eb14e0aecec0bc.html",
+  "text_path": "data/geopolitics/raw/ae6058f90f756033c1c0d64b88e3404eab45f9d53c5f3e7220eb14e0aecec0bc.txt"
 }
