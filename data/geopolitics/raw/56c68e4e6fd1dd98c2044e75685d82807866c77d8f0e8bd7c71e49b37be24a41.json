@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "sanctions_designations",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "ee132242acb8c797157bd1e2ee8fc39ed6c18006bd3eaac27b5c594422712e28",
-  "content_type": "application/xml",
-  "collected_at": "2026-07-19T22:42:26.686817+00:00",
-  "text_chars": 831301,
-  "raw_path": "data/geopolitics/raw/ee132242acb8c797157bd1e2ee8fc39ed6c18006bd3eaac27b5c594422712e28.xml",
-  "text_path": "data/geopolitics/raw/ee132242acb8c797157bd1e2ee8fc39ed6c18006bd3eaac27b5c594422712e28.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/07/1167975",
+  "title": "Ukraine: UN condemns overnight attack on Kyiv",
+  "source": "https://news.un.org/feed/subscribe/en/news/topic/peace-and-security/feed/rss.xml",
+  "published": "Sun, 19 Jul 2026 12:00:00 +0000",
+  "sha256": "56c68e4e6fd1dd98c2044e75685d82807866c77d8f0e8bd7c71e49b37be24a41",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-19T22:43:18.183983+00:00",
+  "text_chars": 2330,
+  "raw_path": "data/geopolitics/raw/56c68e4e6fd1dd98c2044e75685d82807866c77d8f0e8bd7c71e49b37be24a41.html",
+  "text_path": "data/geopolitics/raw/56c68e4e6fd1dd98c2044e75685d82807866c77d8f0e8bd7c71e49b37be24a41.txt"
 }
