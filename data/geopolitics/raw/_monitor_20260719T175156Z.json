@@ -1,0 +1,72 @@
+{
+  "topic_slug": "geopolitics",
+  "topic_title": "Global Geopolitics Monitor",
+  "config_path": "project_india/geopolitics/config.yaml",
+  "raw_dir": "data/geopolitics/raw",
+  "finished_at": "2026-07-19T17:51:56.233448+00:00",
+  "new_documents": 10,
+  "new_items": [
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/consolidated/consolidated.xml",
+      "text_path": "data/geopolitics/raw/0b4ef68933448634a67523b7d2c6b66b7882d537ce31bbf0263d952395263e02.txt",
+      "metadata_path": "data/geopolitics/raw/0b4ef68933448634a67523b7d2c6b66b7882d537ce31bbf0263d952395263e02.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.treasury.gov/ofac/downloads/sdn.xml",
+      "text_path": "data/geopolitics/raw/3293b02b4f016970f7b51bd35fd886b69f567e8fdb6b4603f5650c0be6cb6f0a.txt",
+      "metadata_path": "data/geopolitics/raw/3293b02b4f016970f7b51bd35fd886b69f567e8fdb6b4603f5650c0be6cb6f0a.json"
+    },
+    {
+      "title": null,
+      "url": "https://scsanctions.un.org/resources/xml/en/consolidated.xml",
+      "text_path": "data/geopolitics/raw/ee132242acb8c797157bd1e2ee8fc39ed6c18006bd3eaac27b5c594422712e28.txt",
+      "metadata_path": "data/geopolitics/raw/ee132242acb8c797157bd1e2ee8fc39ed6c18006bd3eaac27b5c594422712e28.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.XPND.CD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.txt",
+      "metadata_path": "data/geopolitics/raw/8ac4515f8ec15cbfc5332a691b883826a5b54bc2c81cd53ba9f12cc7437bb152.json"
+    },
+    {
+      "title": null,
+      "url": "https://api.worldbank.org/v2/country/all/indicator/MS.MIL.MPRT.KD?format=json&per_page=20000",
+      "text_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.txt",
+      "metadata_path": "data/geopolitics/raw/0629a1ea0f2e496491f6bc0b862f949cf938af9dc3363f863fca313b0f4d5a9b.json"
+    },
+    {
+      "title": null,
+      "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
+      "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt",
+      "metadata_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.json"
+    },
+    {
+      "title": null,
+      "url": "https://treaties.un.org/doc/publication/ctc/uncharter.pdf",
+      "text_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.txt",
+      "metadata_path": "data/geopolitics/raw/37ceb122b52dfaee7581f9abc3aed3c8ccd4f3e999ff38f98e0df2060eaab483.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.icrc.org/sites/default/files/external/doc/en/assets/files/publications/icrc-002-0173.pdf",
+      "text_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.txt",
+      "metadata_path": "data/geopolitics/raw/8fe4fbfeb8b2cc5145f50cd348eaf13b068b0dc001486101102aaf0d5c10f638.json"
+    },
+    {
+      "title": null,
+      "url": "https://peacekeeping.un.org/sites/default/files/capstone_eng_0.pdf",
+      "text_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.txt",
+      "metadata_path": "data/geopolitics/raw/2ac3a63bba7982032cb26a3cd76d222d8a76408dc6ca1a605e88bd4b3dbf5fff.json"
+    },
+    {
+      "title": null,
+      "url": "https://www.cia.gov/the-world-factbook/",
+      "text_path": "data/geopolitics/raw/37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8.txt",
+      "metadata_path": "data/geopolitics/raw/37cf8e4d67dddf0d0da28d8d132860ddbebca38016889c43280dfde4731393a8.json"
+    }
+  ],
+  "txt_before": 2155,
+  "txt_after": 2155
+}
