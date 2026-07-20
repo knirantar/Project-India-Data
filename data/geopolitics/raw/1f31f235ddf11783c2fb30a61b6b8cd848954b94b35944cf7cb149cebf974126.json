@@ -1,7 +1,7 @@
 {
   "topic_slug": "geopolitics",
   "topic_title": "Global Geopolitics Monitor",
-  "data_type": "geospatial_mapping_data",
+  "data_type": "rss_feed_content",
   "enabled_data_types": [
     "news_articles",
     "government_documents",
@@ -31,14 +31,14 @@
     "open_source_intelligence",
     "web_archives_cached_content"
   ],
-  "url": "https://naciscdn.org/naturalearth/10m/cultural/ne_10m_admin_0_disputed_areas.zip",
-  "title": null,
-  "source": "topic-config",
-  "published": null,
-  "sha256": "a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438",
-  "content_type": "application/zip",
-  "collected_at": "2026-07-20T21:02:49.404422+00:00",
-  "text_chars": 238,
-  "raw_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.zip",
-  "text_path": "data/geopolitics/raw/a250c1cf8ab68898399928a1fa1d5c242eb4de6335cb51a7f7a7f12a9f3c8438.txt"
+  "url": "https://news.un.org/feed/view/en/story/2026/07/1167980",
+  "title": "Ukraine: Deadly Russian attacks severely damage aid warehouses",
+  "source": "https://news.un.org/feed/subscribe/en/news/all/rss.xml",
+  "published": "Mon, 20 Jul 2026 12:00:00 +0000",
+  "sha256": "1f31f235ddf11783c2fb30a61b6b8cd848954b94b35944cf7cb149cebf974126",
+  "content_type": "text/html; charset=UTF-8",
+  "collected_at": "2026-07-20T21:03:00.032717+00:00",
+  "text_chars": 2894,
+  "raw_path": "data/geopolitics/raw/1f31f235ddf11783c2fb30a61b6b8cd848954b94b35944cf7cb149cebf974126.html",
+  "text_path": "data/geopolitics/raw/1f31f235ddf11783c2fb30a61b6b8cd848954b94b35944cf7cb149cebf974126.txt"
 }
